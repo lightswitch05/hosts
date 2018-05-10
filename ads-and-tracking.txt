@@ -1,6 +1,6 @@
-# Collection of hosts to block
+# Collection of Analytics, Ads, and tracking hosts to block
+# https://github.com/lightswitch05/hosts/blob/master/ads-and-tracking.txt
 
-# Analytics, Ads, tracking
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 analytics.atlassian.com
@@ -48,5 +48,4 @@
 0.0.0.0 um2.eqads.com
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 www.vungle.com
-0.0.0.0 v60nf4oj-a8c1192a35717c2397a8de0d389c6841c593395b-mob.d.aa.online-metrix.net 
-
+0.0.0.0 v60nf4oj-a8c1192a35717c2397a8de0d389c6841c593395b-mob.d.aa.online-metrix.net
