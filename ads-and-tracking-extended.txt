@@ -99,6 +99,7 @@
 0.0.0.0 www.ci.thirdpresence.com
 0.0.0.0 api.thirdpresence.com
 0.0.0.0 www.api.thirdpresence.com
+0.0.0.0 napi.thirdpresence.com
 0.0.0.0 vp.thirdpresence.com
 0.0.0.0 www.vp.thirdpresence.com
 0.0.0.0 jobs.thirdpresence.com
@@ -799,6 +800,8 @@
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 ads.roku.com
 0.0.0.0 p.ads.roku.com
+0.0.0.0 logs.roku.com
+0.0.0.0 scribe.logs.roku.com
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 fiksu.com
 0.0.0.0 asotrack1.fiksu.com
