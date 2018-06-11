@@ -533,6 +533,7 @@
 0.0.0.0 www.www-staging-origin.dynamicyield.com
 0.0.0.0 zulip.dynamicyield.com
 0.0.0.0 www.zulip.dynamicyield.com
+0.0.0.0 metric-public-service-prod.ol.epicgames.com
 0.0.0.0 eqads.com
 0.0.0.0 w.ads2.eqads.com
 0.0.0.0 cdn.eqads.com
@@ -1078,6 +1079,11 @@
 0.0.0.0 exchange.video-v2.fyber.com
 0.0.0.0 wiki.fyber.com
 0.0.0.0 www.fyber.com
+0.0.0.0 gaeadata.com
+0.0.0.0 gdtmdc.gaeadata.com
+0.0.0.0 kylin.gaeadata.com
+0.0.0.0 ldap.gaeadata.com
+0.0.0.0 ldap-admin.gaeadata.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 googlesyndication.com
@@ -1128,6 +1134,7 @@
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 mint.finance.intuit.com
 0.0.0.0 offcnt.intuit.com
+0.0.0.0 pf.intuit.com
 0.0.0.0 financialprovider-logos.platform.intuit.com
 0.0.0.0 trinity.platform.intuit.com
 0.0.0.0 jivox.com
@@ -1647,6 +1654,7 @@
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 invenio.sgn.com
 0.0.0.0 sharethis.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 developer.sharethis.com
@@ -1689,10 +1697,13 @@
 0.0.0.0 amplify.swrve.com
 0.0.0.0 amplify-eu.swrve.com
 0.0.0.0 api.swrve.com
+0.0.0.0 2712.api.swrve.com
 0.0.0.0 30073.api.swrve.com
 0.0.0.0 debug.api.swrve.com
 0.0.0.0 content.swrve.com
+0.0.0.0 2712.content.swrve.com
 0.0.0.0 30073.content.swrve.com
+0.0.0.0 content-cdn.swrve.com
 0.0.0.0 dashboard.swrve.com
 0.0.0.0 developer.swrve.com
 0.0.0.0 engineering.swrve.com
