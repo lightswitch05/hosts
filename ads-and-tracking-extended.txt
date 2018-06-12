@@ -1546,6 +1546,7 @@
 0.0.0.0 vconf.outbrain.com
 0.0.0.0 vconfgw.outbrain.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 adserver.pandora.com
 0.0.0.0 playhaven.com
 0.0.0.0 api-docs.playhaven.com
 0.0.0.0 media.playhaven.com
@@ -2468,10 +2469,6 @@
 0.0.0.0 post.update.adsrvr.org
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 t.update.adsrvr.org
-0.0.0.0 ampproject.org
-0.0.0.0 cdn.ampproject.org
-0.0.0.0 status.ampproject.org
-0.0.0.0 www.ampproject.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
 0.0.0.0 amp.services
@@ -2507,6 +2504,15 @@
 0.0.0.0 www.shaw.analytics.xcal.tv
 0.0.0.0 www.analytics.xcal.tv
 0.0.0.0 metricscollector.lp.xcal.tv
+0.0.0.0 samplicio.us
+0.0.0.0 api.samplicio.us
+0.0.0.0 pulley.samplicio.us
+0.0.0.0 pulley-qa.samplicio.us
+0.0.0.0 api.qa.samplicio.us
+0.0.0.0 api.stg.samplicio.us
+0.0.0.0 survey.samplicio.us
+0.0.0.0 tracker.samplicio.us
+0.0.0.0 www.samplicio.us
 0.0.0.0 adserve.video
 0.0.0.0 cdn.adserve.video
 0.0.0.0 www.cdn.adserve.video
