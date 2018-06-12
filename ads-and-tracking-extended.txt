@@ -999,6 +999,8 @@
 0.0.0.0 atlassian2.fyber.com
 0.0.0.0 banner.fyber.com
 0.0.0.0 banner-server.fyber.com
+0.0.0.0 aws-production-banner-server-eu-west-1.banner-server.fyber.com
+0.0.0.0 aws-production-banner-server-us-west-2.banner-server.fyber.com
 0.0.0.0 be.fyber.com
 0.0.0.0 rundeck.bi.fyber.com
 0.0.0.0 blog.fyber.com
@@ -1057,6 +1059,7 @@
 0.0.0.0 ui.staging-api-docs.fyber.com
 0.0.0.0 staging-appengage-video.fyber.com
 0.0.0.0 staging-banner.fyber.com
+0.0.0.0 aws-staging-banner-eu-west-1.staging-banner.fyber.com
 0.0.0.0 staging-banner-server.fyber.com
 0.0.0.0 staging-bidding-agent.fyber.com
 0.0.0.0 staging-bs-creatives.fyber.com
@@ -1551,13 +1554,8 @@
 0.0.0.0 api-docs.playhaven.com
 0.0.0.0 media.playhaven.com
 0.0.0.0 sdk-api-ssl.playhaven.com
-0.0.0.0 podtrac.com
 0.0.0.0 analytics.podtrac.com
-0.0.0.0 dev.podtrac.com
-0.0.0.0 east.dev.podtrac.com
-0.0.0.0 west.dev.podtrac.com
 0.0.0.0 dts.podtrac.com
-0.0.0.0 www.podtrac.com
 0.0.0.0 preapps.com
 0.0.0.0 m.preapps.com
 0.0.0.0 www.m.preapps.com
@@ -2110,6 +2108,7 @@
 0.0.0.0 store.intercom.io
 0.0.0.0 terraform-modules-test.intercom.io
 0.0.0.0 via.intercom.io
+0.0.0.0 vsaq.intercom.io
 0.0.0.0 w.intercom.io
 0.0.0.0 webinar.intercom.io
 0.0.0.0 webinars.intercom.io
@@ -2158,6 +2157,7 @@
 0.0.0.0 gbc.criteo.net
 0.0.0.0 pixel.criteo.net
 0.0.0.0 www.pixel.criteo.net
+0.0.0.0 preprod.criteo.net
 0.0.0.0 static.criteo.net
 0.0.0.0 us.criteo.net
 0.0.0.0 ny.us.criteo.net
