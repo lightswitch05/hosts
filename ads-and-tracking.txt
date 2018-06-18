@@ -71,6 +71,8 @@
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 analytics.atlassian.com
+0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
+0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 bfmio.com
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 blismedia.com
@@ -83,6 +85,7 @@
 0.0.0.0 casalemedia.com
 0.0.0.0 a2892.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
+0.0.0.0 cashext.com
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
@@ -104,6 +107,9 @@
 0.0.0.0 socialapi.digitalremedy.com
 0.0.0.0 www.digitalremedy.com
 0.0.0.0 hasoffers.disqus.com
+0.0.0.0 tracking.downloadyeah.com
+0.0.0.0 ad.downloadyee.com
+0.0.0.0 tracking.downloadyee.com
 0.0.0.0 drift.com
 0.0.0.0 www.drift.com
 0.0.0.0 driftt.com
@@ -111,9 +117,15 @@
 0.0.0.0 dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 en25.com
+0.0.0.0 enhanced2trk.com
+0.0.0.0 enhancedstats.com
+0.0.0.0 enhancedtrk.com
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
 0.0.0.0 eqads.com
 0.0.0.0 um2.eqads.com
+0.0.0.0 essads.com
+0.0.0.0 client-api.essads.com
+0.0.0.0 esttrk.com
 0.0.0.0 evgnet.com
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 exacttarget.com
@@ -196,6 +208,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 n131adserv.com
 0.0.0.0 narvar.com
 0.0.0.0 analytics.narvar.com
 0.0.0.0 assets.narvar.com
@@ -208,10 +221,13 @@
 0.0.0.0 netmng.com
 0.0.0.0 newarena.netmng.com
 0.0.0.0 jpx-d3.openxenterprise.com
+0.0.0.0 optimeze.com
+0.0.0.0 optimezer.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 optnmstr.com
 0.0.0.0 a.optnmstr.com
+0.0.0.0 opttracker.com
 0.0.0.0 optvdo.com
 0.0.0.0 c.optvdo.com
 0.0.0.0 v.optvdo.com
@@ -220,6 +236,7 @@
 0.0.0.0 adserver.pandora.com
 0.0.0.0 paperg.com
 0.0.0.0 cdn.prod.paperg.com
+0.0.0.0 tracking.photoyee.com
 0.0.0.0 placed.com
 0.0.0.0 p.placed.com
 0.0.0.0 placelocal.com
@@ -233,6 +250,7 @@
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 dts.podtrac.com
 0.0.0.0 preapps.com
+0.0.0.0 pt2tracker.com
 0.0.0.0 pubocean.com
 0.0.0.0 rta.pubocean.com
 0.0.0.0 pushspring.com
@@ -249,6 +267,9 @@
 0.0.0.0 mid.rkdms.com
 0.0.0.0 rlcdn.com
 0.0.0.0 idsync.rlcdn.com
+0.0.0.0 rocketadt.com
+0.0.0.0 rocketadv.com
+0.0.0.0 rocketadx.com
 0.0.0.0 ads.roku.com
 0.0.0.0 p.ads.roku.com
 0.0.0.0 logs.roku.com
@@ -306,6 +327,10 @@
 0.0.0.0 a.thirdpresence.com
 0.0.0.0 tritondigital.com
 0.0.0.0 lt503.tritondigital.com
+0.0.0.0 truconversion.com
+0.0.0.0 app.truconversion.com
+0.0.0.0 ttflb.com
+0.0.0.0 www.ttflb.com
 0.0.0.0 tune.com
 0.0.0.0 ma.tune.com
 0.0.0.0 configuration.ma.tune.com
@@ -317,6 +342,8 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 userbest.com
+0.0.0.0 www.userbest.com
 0.0.0.0 valassisdigital.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vcsa.vmware.com
@@ -326,10 +353,12 @@
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 wbinsights.com
 0.0.0.0 event.wbinsights.com
+0.0.0.0 tracking.weiboniu.com
 0.0.0.0 wootric.com
 0.0.0.0 api.wootric.com
 0.0.0.0 xtify.com
 0.0.0.0 sdk3.ibm.xtify.com
+0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 yodelmobile.com
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
@@ -361,6 +390,7 @@
 0.0.0.0 crackle.demdex.net
 0.0.0.0 doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
+0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 escapicon.net
@@ -396,6 +426,7 @@
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 returnpath.net
 0.0.0.0 pixel.app.returnpath.net
+0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
 0.0.0.0 smaato.net
 0.0.0.0 soma-assets.smaato.net
@@ -403,7 +434,9 @@
 0.0.0.0 vast.streamrail.net
 0.0.0.0 tapas.net
 0.0.0.0 ortshk.tapas.net
+0.0.0.0 smedia.webcollage.net
 0.0.0.0 syndication.site.yahoo.net
+0.0.0.0 a.pub.network
 0.0.0.0 adsrvr.org
 0.0.0.0 t.update.adsrvr.org
 0.0.0.0 ketchapp.org
