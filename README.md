@@ -1,5 +1,7 @@
 # Hosts
 
+[![Build Status](https://travis-ci.org/lightswitch05/hosts.svg?branch=master)](https://travis-ci.org/lightswitch05/hosts)
+
 A collection of `hosts` files for domain blocking
 
 Host file recipe | Description | Raw hosts
@@ -17,20 +19,26 @@ Ads & Tracking Extended | A programmatically expanded version of my base Ads & T
 ## Setup
 
 ```bash
-$ pip3 install -r requirements.txt
+$ make setup
+```
+
+## Test
+
+```bash
+$ make test
 ```
 
 ## Usage
 ```bash
-$ python3 updateHostsFile.py --help
+$ python3 update_hosts_file.py --help
 ```
 
 ## Examples
 
 ```bash
-$ python3 updateHostsFile.py -d amazon-adsystem.com doubleclick.net
+$ python3 update_hosts_file.py -d amazon-adsystem.com doubleclick.net
 ```
 
 ```bash
-$ python3 updateHostsFile.py -update
+$ python3 update_hosts_file.py -update
 ```
