@@ -114,9 +114,12 @@
 0.0.0.0 www.drift.com
 0.0.0.0 driftt.com
 0.0.0.0 js.driftt.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 en25.com
+0.0.0.0 engagio.com
+0.0.0.0 web-analytics.engagio.com
 0.0.0.0 enhanced2trk.com
 0.0.0.0 enhancedstats.com
 0.0.0.0 enhancedtrk.com
@@ -151,6 +154,7 @@
 0.0.0.0 x.heyzap.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 intellicast.com
+0.0.0.0 mobile-services.intellicast.com
 0.0.0.0 tessera.intellicast.com
 0.0.0.0 tessera1.intellicast.com
 0.0.0.0 tessera2.intellicast.com
@@ -173,6 +177,7 @@
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 sync.jivox.com
 0.0.0.0 kochava.com
+0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 imp.control.kochava.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
@@ -184,6 +189,7 @@
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
+0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 mathtag.com
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 maxpoint.com
@@ -260,6 +266,7 @@
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 cdn.ravenjs.com
 0.0.0.0 image.tx.redbox.com
 0.0.0.0 returnpath.com
 0.0.0.0 ads.revjet.com
@@ -346,6 +353,8 @@
 0.0.0.0 www.userbest.com
 0.0.0.0 valassisdigital.com
 0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 vmmpxl.com
+0.0.0.0 secimg.vmmpxl.com
 0.0.0.0 vcsa.vmware.com
 0.0.0.0 vungle.com
 0.0.0.0 www.vungle.com
@@ -359,6 +368,9 @@
 0.0.0.0 xtify.com
 0.0.0.0 sdk3.ibm.xtify.com
 0.0.0.0 tracking.yeehbuy.com
+0.0.0.0 yieldoptimizer.com
+0.0.0.0 cs.yieldoptimizer.com
+0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 yodelmobile.com
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
@@ -408,6 +420,7 @@
 0.0.0.0 krxd.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 www.munchkin.marketo.net
+0.0.0.0 msecnd.net
 0.0.0.0 mxptint.net
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 omtrdc.net
@@ -419,6 +432,7 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 openx.net
 0.0.0.0 egraffiti-d.openx.net
+0.0.0.0 oao-d.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
@@ -430,6 +444,9 @@
 0.0.0.0 rfihub.net
 0.0.0.0 smaato.net
 0.0.0.0 soma-assets.smaato.net
+0.0.0.0 ss-omtrdc.net
+0.0.0.0 guided.ss-omtrdc.net
+0.0.0.0 sp10050c00.guided.ss-omtrdc.net
 0.0.0.0 streamrail.net
 0.0.0.0 vast.streamrail.net
 0.0.0.0 tapas.net
