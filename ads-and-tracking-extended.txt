@@ -1,5 +1,22 @@
-# Collection of Analytics, Ads, and tracking hosts to block
-# https://github.com/lightswitch05/hosts/blob/master/ads-and-tracking-extended.txt
+# Collection of Analytics, Ads, and tracking hosts to block.
+# 
+# Details: https://github.com/lightswitch05/hosts
+# Issues: https://github.com/lightswitch05/hosts/issues
+# Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
+#
+# Copyright 2018 Daniel White
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
 
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
@@ -513,6 +530,8 @@
 0.0.0.0 www.nagios.dynamicyield.com
 0.0.0.0 newsupport.dynamicyield.com
 0.0.0.0 www.newsupport.dynamicyield.com
+0.0.0.0 nsof-web.dynamicyield.com
+0.0.0.0 www.nsof-web.dynamicyield.com
 0.0.0.0 proxy.dynamicyield.com
 0.0.0.0 www.proxy.dynamicyield.com
 0.0.0.0 px.dynamicyield.com
@@ -1430,6 +1449,7 @@
 0.0.0.0 da.midasplayer.com
 0.0.0.0 dev.midasplayer.com
 0.0.0.0 os.dev.midasplayer.com
+0.0.0.0 up.dev.midasplayer.com
 0.0.0.0 ds.midasplayer.com
 0.0.0.0 f1.midasplayer.com
 0.0.0.0 f2.midasplayer.com
@@ -1458,6 +1478,7 @@
 0.0.0.0 py1.midasplayer.com
 0.0.0.0 qa.midasplayer.com
 0.0.0.0 sharelog.qa.midasplayer.com
+0.0.0.0 up.qa.midasplayer.com
 0.0.0.0 ratkoqa.midasplayer.com
 0.0.0.0 sharelog.midasplayer.com
 0.0.0.0 sharelog-qa.midasplayer.com
@@ -2380,6 +2401,8 @@
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
 0.0.0.0 ext-tracker.presage.io
+0.0.0.0 medias.presage.io
+0.0.0.0 resources.presage.io
 0.0.0.0 staging.presage.io
 0.0.0.0 wsback-get-config.presage.io
 0.0.0.0 segment.io
@@ -2705,6 +2728,7 @@
 0.0.0.0 az758799.vo.msecnd.net
 0.0.0.0 az759069.vo.msecnd.net
 0.0.0.0 az759750.vo.msecnd.net
+0.0.0.0 az759793.vo.msecnd.net
 0.0.0.0 az759796.vo.msecnd.net
 0.0.0.0 az760988.vo.msecnd.net
 0.0.0.0 az763962.vo.msecnd.net
@@ -3050,6 +3074,9 @@
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 a.pub.network
 0.0.0.0 adsrvr.org
+0.0.0.0 pull.docker.adsrvr.org
+0.0.0.0 push.docker.adsrvr.org
+0.0.0.0 test.docker.adsrvr.org
 0.0.0.0 ops-self-service.adsrvr.org
 0.0.0.0 snap.adsrvr.org
 0.0.0.0 thales.adsrvr.org
