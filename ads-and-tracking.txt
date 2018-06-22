@@ -1,5 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
-# 
+#
+# Released: 2018-06-22T19:16:28+00:00
+# Count: 495 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -80,14 +82,19 @@
 0.0.0.0 track1.aniview.com
 0.0.0.0 app-measurement.com
 0.0.0.0 stats.gc.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 appsee.com
 0.0.0.0 api.appsee.com
 0.0.0.0 appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 brahe.apptimize.com
+0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 analytics.atlassian.com
+0.0.0.0 bitbucket-marketing-cdn.atlassian.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 bfmio.com
@@ -118,6 +125,7 @@
 0.0.0.0 assets.consumedmedia.com
 0.0.0.0 dishdigital.sp1.convertro.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 sponge.creditkarma.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
 0.0.0.0 digitalremedy.com
@@ -134,6 +142,8 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 dynamicyield.com
 0.0.0.0 www.dynamicyield.com
+0.0.0.0 dynatrace.com
+0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 en25.com
 0.0.0.0 engagio.com
 0.0.0.0 web-analytics.engagio.com
@@ -150,6 +160,7 @@
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 exacttarget.com
 0.0.0.0 pages.exacttarget.com
+0.0.0.0 dctk.expedia.com
 0.0.0.0 fanbread.com
 0.0.0.0 fiksu.com
 0.0.0.0 a.fiksu.com
@@ -170,6 +181,9 @@
 0.0.0.0 rp.gwallet.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
+0.0.0.0 links.ibotta.com
+0.0.0.0 o.ibotta.com
+0.0.0.0 s.ibotta.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 intellicast.com
 0.0.0.0 mobile-services.intellicast.com
@@ -187,6 +201,7 @@
 0.0.0.0 pf.intuit.com
 0.0.0.0 financialprovider-logos.platform.intuit.com
 0.0.0.0 trinity.platform.intuit.com
+0.0.0.0 smartlinks.intuit.com
 0.0.0.0 smartlinks-e2e.intuit.com
 0.0.0.0 jivox.com
 0.0.0.0 as.jivox.com
@@ -220,6 +235,7 @@
 0.0.0.0 p.midasplayer.com
 0.0.0.0 prs3.midasplayer.com
 0.0.0.0 links.e2e.mint.com
+0.0.0.0 links.mint.com
 0.0.0.0 mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mobileapptracking.com
@@ -244,6 +260,7 @@
 0.0.0.0 us.np.adproxy.ndmdhs.com
 0.0.0.0 netmng.com
 0.0.0.0 newarena.netmng.com
+0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
@@ -323,6 +340,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 supersonic.com
 0.0.0.0 logs.supersonic.com
+0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 survata.com
 0.0.0.0 ev.surveywall-api.survata.com
 0.0.0.0 swrve.com
@@ -375,6 +393,7 @@
 0.0.0.0 vcsa.vmware.com
 0.0.0.0 vungle.com
 0.0.0.0 www.vungle.com
+0.0.0.0 rptrcks.walmart.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 wbinsights.com
@@ -399,6 +418,7 @@
 0.0.0.0 widget.intercom.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
+0.0.0.0 piwik.privacytools.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
 0.0.0.0 tabmo.io
@@ -408,6 +428,8 @@
 0.0.0.0 www1.mmnetwork.mobi
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
 0.0.0.0 msg-media.valueclick.akadns.net
+0.0.0.0 vungle.akadns.net
+0.0.0.0 api.vungle.akadns.net
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 bidswitch.net
@@ -442,12 +464,15 @@
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 omtrdc.net
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
+0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 online-metrix.net
 0.0.0.0 openx.net
+0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 us-u.openx.net
@@ -473,6 +498,7 @@
 0.0.0.0 a.pub.network
 0.0.0.0 adsrvr.org
 0.0.0.0 t.update.adsrvr.org
+0.0.0.0 anon-stats.eff.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
 0.0.0.0 outbrain.org

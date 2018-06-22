@@ -69,3 +69,12 @@ class TestHostTools(object):
         domains = ["b.y.a", "a.y.a", "y.a", "c.z", "b.a.z", "a.z"]
         sorted = hosts_tools.sort_domains(domains)
         assert sorted == ["y.a", "a.y.a", "b.y.a", "a.z", "b.a.z", "c.z"]
+
+    def test_build_file_header(self):
+        file_name = 'TgM&2BXKw0SWVvync@%Az1cN6.txt'
+        count = 23235
+        header = hosts_tools.build_file_header(file_name, count)
+        assert str(count) in header
+        assert file_name in header
+        assert '[' not in header
+        assert ']' not in header
