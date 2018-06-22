@@ -11,7 +11,9 @@ STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 ALLOWED_DOMAIN_PATTERN = re.compile("(?!-)[A-Z\d-]***REMOVED***1,255***REMOVED***(?<!-)$", re.IGNORECASE)
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
-# 
+#
+# Released: [timestamp]
+# Count: [domain_count] domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/[file_name]
@@ -29,7 +31,7 @@ FILE_HEADER = """
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.\n
-""".lstrip().replace('[yyyy]', str(datetime.datetime.now().year))
+""".lstrip()
 
 
 def sort_domains(domains: List[str]) -> List[str]:
@@ -69,10 +71,18 @@ def load_domains_from_list(file_name: str) -> Set[str]:
     return domains
 
 
+def build_file_header(file_name: str, list_length: int):
+    now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc, microsecond=0)
+    header = FILE_HEADER.replace('[domain_count]', str(list_length))
+    header = header.replace('[file_name]', file_name)
+    header = header.replace('[yyyy]', str(now.year))
+    return header.replace('[timestamp]', now.isoformat())
+
+
 def write_domain_list(file_name: str, domains: Set[str]):
     sorted_domains = sort_domains(list(domains))
     with open(file_name, 'w') as file:
-        file.write(FILE_HEADER.replace('[file_name]', file_name))
+        file.write(build_file_header(file_name, len(sorted_domains)))
         for domain in sorted_domains:
             file.write('0.0.0.0 %s\n' % domain)
 
