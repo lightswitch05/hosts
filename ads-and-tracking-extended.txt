@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-22T19:16:28+00:00
-# Count: 3151 domains
+# Released: 2018-06-25T12:48:52+00:00
+# Count: 3288 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -377,6 +377,12 @@
 0.0.0.0 partnerlab.braze.com
 0.0.0.0 www.partnerlab.braze.com
 0.0.0.0 product.braze.com
+0.0.0.0 edge.api.brightcove.com
+0.0.0.0 f1.media.brightcove.com
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 www.metrics.brightcove.com
+0.0.0.0 secure.brightcove.com
+0.0.0.0 www.secure.brightcove.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 help.brightfunnel.com
@@ -425,6 +431,8 @@
 0.0.0.0 a.company-target.com
 0.0.0.0 d.company-target.com
 0.0.0.0 segments.company-target.com
+0.0.0.0 comscoreresearch.com
+0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 consoliads.com
 0.0.0.0 sdk.consoliads.com
 0.0.0.0 sheeda.consoliads.com
@@ -1059,6 +1067,15 @@
 0.0.0.0 yampapi-prod.flurry.com
 0.0.0.0 yampapi-staging.flurry.com
 0.0.0.0 yampui-staging.flurry.com
+0.0.0.0 footprintdns.com
+0.0.0.0 any.footprintdns.com
+0.0.0.0 aws.footprintdns.com
+0.0.0.0 azp.footprintdns.com
+0.0.0.0 azr.footprintdns.com
+0.0.0.0 clo.footprintdns.com
+0.0.0.0 moiawsorigin.clo.footprintdns.com
+0.0.0.0 nrb.footprintdns.com
+0.0.0.0 report.footprintdns.com
 0.0.0.0 fullstory.com
 0.0.0.0 blog.fullstory.com
 0.0.0.0 www.blog.fullstory.com
@@ -1230,6 +1247,8 @@
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 imprev.com
+0.0.0.0 www.imprev.com
 0.0.0.0 intellicast.com
 0.0.0.0 mobile-services.intellicast.com
 0.0.0.0 tessera.intellicast.com
@@ -1346,6 +1365,10 @@
 0.0.0.0 www.livefyre.com
 0.0.0.0 zor.livefyre.com
 0.0.0.0 cloudfront.zor.livefyre.com
+0.0.0.0 m-freeway.com
+0.0.0.0 data.m-freeway.com
+0.0.0.0 graph.m-freeway.com
+0.0.0.0 www.m-freeway.com
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
@@ -1634,6 +1657,7 @@
 0.0.0.0 test.netmng.com
 0.0.0.0 www.netmng.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 pixel.nymag.com
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
@@ -1918,6 +1942,9 @@
 0.0.0.0 webcast.rubiconproject.com
 0.0.0.0 www.webcast.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
+0.0.0.0 servebom.com
+0.0.0.0 ads.servebom.com
+0.0.0.0 ads-qa.servebom.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 invenio.sgn.com
@@ -2204,6 +2231,7 @@
 0.0.0.0 web-ci.urbanairship.com
 0.0.0.0 webinars.urbanairship.com
 0.0.0.0 www.urbanairship.com
+0.0.0.0 srepdata.usatoday.com
 0.0.0.0 userbest.com
 0.0.0.0 www.userbest.com
 0.0.0.0 valassisdigital.com
@@ -2250,6 +2278,7 @@
 0.0.0.0 rptrcks.walmart.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
+0.0.0.0 advil.waze.com
 0.0.0.0 wbinsights.com
 0.0.0.0 event.wbinsights.com
 0.0.0.0 jupyter.wbinsights.com
@@ -2457,6 +2486,7 @@
 0.0.0.0 www.dp.bidswitch.net
 0.0.0.0 x.bidswitch.net
 0.0.0.0 www.x.bidswitch.net
+0.0.0.0 players.brightcove.net
 0.0.0.0 connexity.net
 0.0.0.0 mxl.connexity.net
 0.0.0.0 www.mxl.connexity.net
@@ -2519,6 +2549,7 @@
 0.0.0.0 thngw1.doubleclick.net
 0.0.0.0 thngw2.doubleclick.net
 0.0.0.0 uk.doubleclick.net
+0.0.0.0 dt-cdn.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 escapicon.net
@@ -2531,10 +2562,111 @@
 0.0.0.0 cm.everesttech.net
 0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 prod.appnexus.map.fastly.net
+0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 www.quotes.gb.net
+0.0.0.0 imprev.net
+0.0.0.0 bit.imprev.net
+0.0.0.0 content.imprev.net
+0.0.0.0 devvm.imprev.net
+0.0.0.0 help.imprev.net
+0.0.0.0 idx.imprev.net
+0.0.0.0 marketing.imprev.net
+0.0.0.0 mc1.imprev.net
+0.0.0.0 office.imprev.net
+0.0.0.0 confluence.office.imprev.net
+0.0.0.0 jira.office.imprev.net
+0.0.0.0 jumpman.office.imprev.net
+0.0.0.0 ssltest.office.imprev.net
+0.0.0.0 svn.office.imprev.net
+0.0.0.0 vpn.office.imprev.net
+0.0.0.0 qa.imprev.net
+0.0.0.0 content.qa.imprev.net
+0.0.0.0 marketing.qa.imprev.net
+0.0.0.0 mc1.qa.imprev.net
+0.0.0.0 remax.qa.imprev.net
+0.0.0.0 rg1.qa.imprev.net
+0.0.0.0 rg2.qa.imprev.net
+0.0.0.0 rw.qa.imprev.net
+0.0.0.0 qa-dest.imprev.net
+0.0.0.0 admin.qa-dest.imprev.net
+0.0.0.0 bms.qa-dest.imprev.net
+0.0.0.0 mail.bms.qa-dest.imprev.net
+0.0.0.0 build.qa-dest.imprev.net
+0.0.0.0 cb.qa-dest.imprev.net
+0.0.0.0 admin.cb.qa-dest.imprev.net
+0.0.0.0 client.cb.qa-dest.imprev.net
+0.0.0.0 odc.cb.qa-dest.imprev.net
+0.0.0.0 support.cb.qa-dest.imprev.net
+0.0.0.0 client.qa-dest.imprev.net
+0.0.0.0 client-admin.qa-dest.imprev.net
+0.0.0.0 db.qa-dest.imprev.net
+0.0.0.0 generator.qa-dest.imprev.net
+0.0.0.0 idx.qa-dest.imprev.net
+0.0.0.0 idx1.qa-dest.imprev.net
+0.0.0.0 marketing.qa-dest.imprev.net
+0.0.0.0 admin.marketing.qa-dest.imprev.net
+0.0.0.0 client.marketing.qa-dest.imprev.net
+0.0.0.0 client-admin.marketing.qa-dest.imprev.net
+0.0.0.0 odc.marketing.qa-dest.imprev.net
+0.0.0.0 support.marketing.qa-dest.imprev.net
+0.0.0.0 mc1.qa-dest.imprev.net
+0.0.0.0 admin.mc1.qa-dest.imprev.net
+0.0.0.0 admin-client.mc1.qa-dest.imprev.net
+0.0.0.0 client.mc1.qa-dest.imprev.net
+0.0.0.0 client-admin.mc1.qa-dest.imprev.net
+0.0.0.0 odc.mc1.qa-dest.imprev.net
+0.0.0.0 support.mc1.qa-dest.imprev.net
+0.0.0.0 odc.qa-dest.imprev.net
+0.0.0.0 prudential.qa-dest.imprev.net
+0.0.0.0 admin.prudential.qa-dest.imprev.net
+0.0.0.0 client.prudential.qa-dest.imprev.net
+0.0.0.0 odc.prudential.qa-dest.imprev.net
+0.0.0.0 support.prudential.qa-dest.imprev.net
+0.0.0.0 remax.qa-dest.imprev.net
+0.0.0.0 admin.remax.qa-dest.imprev.net
+0.0.0.0 client.remax.qa-dest.imprev.net
+0.0.0.0 odc.remax.qa-dest.imprev.net
+0.0.0.0 support.remax.qa-dest.imprev.net
+0.0.0.0 rg1.qa-dest.imprev.net
+0.0.0.0 admin.rg1.qa-dest.imprev.net
+0.0.0.0 admin-client.rg1.qa-dest.imprev.net
+0.0.0.0 client.rg1.qa-dest.imprev.net
+0.0.0.0 client-admin.rg1.qa-dest.imprev.net
+0.0.0.0 odc.rg1.qa-dest.imprev.net
+0.0.0.0 support.rg1.qa-dest.imprev.net
+0.0.0.0 rg2.qa-dest.imprev.net
+0.0.0.0 admin.rg2.qa-dest.imprev.net
+0.0.0.0 client.rg2.qa-dest.imprev.net
+0.0.0.0 client-admin.rg2.qa-dest.imprev.net
+0.0.0.0 odc.rg2.qa-dest.imprev.net
+0.0.0.0 support.rg2.qa-dest.imprev.net
+0.0.0.0 rlp.qa-dest.imprev.net
+0.0.0.0 admin.rlp.qa-dest.imprev.net
+0.0.0.0 client.rlp.qa-dest.imprev.net
+0.0.0.0 odc.rlp.qa-dest.imprev.net
+0.0.0.0 support.rlp.qa-dest.imprev.net
+0.0.0.0 rw.qa-dest.imprev.net
+0.0.0.0 admin.rw.qa-dest.imprev.net
+0.0.0.0 client.rw.qa-dest.imprev.net
+0.0.0.0 odc.rw.qa-dest.imprev.net
+0.0.0.0 support.qa-dest.imprev.net
+0.0.0.0 www.qa-dest.imprev.net
+0.0.0.0 remax.imprev.net
+0.0.0.0 rg1.imprev.net
+0.0.0.0 rg2.imprev.net
+0.0.0.0 rw.imprev.net
+0.0.0.0 staging.imprev.net
+0.0.0.0 content.staging.imprev.net
+0.0.0.0 marketing.staging.imprev.net
+0.0.0.0 mc1.staging.imprev.net
+0.0.0.0 remax.staging.imprev.net
+0.0.0.0 rg1.staging.imprev.net
+0.0.0.0 rg2.staging.imprev.net
+0.0.0.0 rw.staging.imprev.net
+0.0.0.0 testcluster.imprev.net
 0.0.0.0 intentmedia.net
 0.0.0.0 eu.a.intentmedia.net
 0.0.0.0 adcache.intentmedia.net
@@ -2939,6 +3071,7 @@
 0.0.0.0 collection.sv.d2.omtrdc.net
 0.0.0.0 delivery.sv.d2.omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 hb-api.omtrdc.net
 0.0.0.0 hb-fa-1.omtrdc.net
 0.0.0.0 hb-fa-stage.omtrdc.net
@@ -2950,8 +3083,10 @@
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 adpsj.ssl.d1.sc.omtrdc.net
 0.0.0.0 d2.sc.omtrdc.net
+0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 adpdl.ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
+0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 d3.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
@@ -2988,6 +3123,7 @@
 0.0.0.0 h-fail-test.online-metrix.net
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 www.h-sdk.online-metrix.net
+0.0.0.0 h-walmart.online-metrix.net
 0.0.0.0 idev.online-metrix.net
 0.0.0.0 qa2-h-api.online-metrix.net
 0.0.0.0 www.qa2-h-api.online-metrix.net
@@ -3102,6 +3238,7 @@
 0.0.0.0 vast.streamrail.net
 0.0.0.0 tapas.net
 0.0.0.0 ortshk.tapas.net
+0.0.0.0 cs340.wac.thetacdn.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 a.pub.network
