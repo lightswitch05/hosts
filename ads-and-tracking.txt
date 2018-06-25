@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-22T19:16:28+00:00
-# Count: 495 domains
+# Released: 2018-06-25T12:48:52+00:00
+# Count: 522 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -103,6 +103,10 @@
 0.0.0.0 tr.blismedia.com
 0.0.0.0 braze.com
 0.0.0.0 yildun.iad-03.braze.com
+0.0.0.0 edge.api.brightcove.com
+0.0.0.0 f1.media.brightcove.com
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 secure.brightcove.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 munchkin.brightfunnel.com
@@ -118,6 +122,8 @@
 0.0.0.0 company-target.com
 0.0.0.0 d.company-target.com
 0.0.0.0 segments.company-target.com
+0.0.0.0 comscoreresearch.com
+0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 consoliads.com
 0.0.0.0 sdk.consoliads.com
 0.0.0.0 web.consoliads.com
@@ -166,6 +172,8 @@
 0.0.0.0 a.fiksu.com
 0.0.0.0 flurry.com
 0.0.0.0 proton.flurry.com
+0.0.0.0 footprintdns.com
+0.0.0.0 moiawsorigin.clo.footprintdns.com
 0.0.0.0 fullstory.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 fyber.com
@@ -185,6 +193,7 @@
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 imprev.com
 0.0.0.0 intellicast.com
 0.0.0.0 mobile-services.intellicast.com
 0.0.0.0 tessera.intellicast.com
@@ -219,6 +228,9 @@
 0.0.0.0 www.lifestreet.com
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 m-freeway.com
+0.0.0.0 graph.m-freeway.com
+0.0.0.0 www.m-freeway.com
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
@@ -261,6 +273,7 @@
 0.0.0.0 netmng.com
 0.0.0.0 newarena.netmng.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 pixel.nymag.com
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
@@ -324,6 +337,8 @@
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 servebom.com
+0.0.0.0 ads.servebom.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 invenio.sgn.com
@@ -384,6 +399,7 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 srepdata.usatoday.com
 0.0.0.0 userbest.com
 0.0.0.0 www.userbest.com
 0.0.0.0 valassisdigital.com
@@ -396,6 +412,7 @@
 0.0.0.0 rptrcks.walmart.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
+0.0.0.0 advil.waze.com
 0.0.0.0 wbinsights.com
 0.0.0.0 event.wbinsights.com
 0.0.0.0 tracking.weiboniu.com
@@ -434,6 +451,7 @@
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 bidswitch.net
 0.0.0.0 x.bidswitch.net
+0.0.0.0 players.brightcove.net
 0.0.0.0 connexity.net
 0.0.0.0 pxl.connexity.net
 0.0.0.0 criteo.net
@@ -442,6 +460,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 dt-cdn.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 escapicon.net
@@ -450,10 +469,13 @@
 0.0.0.0 cm.everesttech.net
 0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 prod.appnexus.map.fastly.net
+0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 www.quotes.gb.net
+0.0.0.0 imprev.net
+0.0.0.0 idx.imprev.net
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 krxd.net
@@ -463,14 +485,18 @@
 0.0.0.0 mxptint.net
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 omtrdc.net
+0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
+0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 online-metrix.net
+0.0.0.0 h-walmart.online-metrix.net
 0.0.0.0 openx.net
 0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
@@ -493,6 +519,7 @@
 0.0.0.0 vast.streamrail.net
 0.0.0.0 tapas.net
 0.0.0.0 ortshk.tapas.net
+0.0.0.0 cs340.wac.thetacdn.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 a.pub.network
