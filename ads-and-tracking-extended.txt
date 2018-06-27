@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-25T12:48:52+00:00
-# Count: 3288 domains
+# Released: 2018-06-27T14:21:03+00:00
+# Count: 3354 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -272,6 +272,7 @@
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
+0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 aniview.com
 0.0.0.0 add1.aniview.com
 0.0.0.0 cdn1.aniview.com
@@ -1754,6 +1755,8 @@
 0.0.0.0 assets.www.paperg.com
 0.0.0.0 flyers.www.paperg.com
 0.0.0.0 tracking.photoyee.com
+0.0.0.0 fpt-api.pingdom.com
+0.0.0.0 tools.pingdom.com
 0.0.0.0 placed.com
 0.0.0.0 affiliate.placed.com
 0.0.0.0 api.placed.com
@@ -1817,6 +1820,8 @@
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 struq.quantserve.com
+0.0.0.0 roiq-vice.ranker.com
+0.0.0.0 cdn.roiq-vice.ranker.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 image.tx.redbox.com
 0.0.0.0 returnpath.com
@@ -1942,6 +1947,8 @@
 0.0.0.0 webcast.rubiconproject.com
 0.0.0.0 www.webcast.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
+0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 servebom.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads-qa.servebom.com
@@ -1957,6 +1964,7 @@
 0.0.0.0 developer.sharethis.com
 0.0.0.0 help.sharethis.com
 0.0.0.0 l.sharethis.com
+0.0.0.0 platform-api.sharethis.com
 0.0.0.0 px.sharethis.com
 0.0.0.0 pxcel.sharethis.com
 0.0.0.0 support.sharethis.com
@@ -2239,6 +2247,7 @@
 0.0.0.0 go.valassisdigital.com
 0.0.0.0 tools.valassisdigital.com
 0.0.0.0 www.tools.valassisdigital.com
+0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 app.visualwebsiteoptimizer.com
 0.0.0.0 www.app.visualwebsiteoptimizer.com
@@ -2567,6 +2576,9 @@
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 www.quotes.gb.net
+0.0.0.0 gscontxt.net
+0.0.0.0 aol.gscontxt.net
+0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 imprev.net
 0.0.0.0 bit.imprev.net
 0.0.0.0 content.imprev.net
@@ -3153,6 +3165,7 @@
 0.0.0.0 glb1.perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 www.perimeterx.net
+0.0.0.0 rum-static.pingdom.net
 0.0.0.0 returnpath.net
 0.0.0.0 app.returnpath.net
 0.0.0.0 pixel.app.returnpath.net
@@ -3240,6 +3253,9 @@
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 cs340.wac.thetacdn.net
 0.0.0.0 smedia.webcollage.net
+0.0.0.0 ads.wsrs.net
+0.0.0.0 mail.ads.wsrs.net
+0.0.0.0 www.ads.wsrs.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 a.pub.network
 0.0.0.0 adsrvr.org
@@ -3252,6 +3268,56 @@
 0.0.0.0 post.update.adsrvr.org
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 t.update.adsrvr.org
+0.0.0.0 consensu.org
+0.0.0.0 admiral.mgr.consensu.org
+0.0.0.0 www.admiral.mgr.consensu.org
+0.0.0.0 adversal.mgr.consensu.org
+0.0.0.0 www.adversal.mgr.consensu.org
+0.0.0.0 affinity.mgr.consensu.org
+0.0.0.0 ciaopeople.mgr.consensu.org
+0.0.0.0 clickio.mgr.consensu.org
+0.0.0.0 consentag.mgr.consensu.org
+0.0.0.0 consentmanager.mgr.consensu.org
+0.0.0.0 conversant.mgr.consensu.org
+0.0.0.0 cdn.conversant.mgr.consensu.org
+0.0.0.0 widget.databoxer.mgr.consensu.org
+0.0.0.0 digitrust.mgr.consensu.org
+0.0.0.0 cdn.digitrust.mgr.consensu.org
+0.0.0.0 etarget.mgr.consensu.org
+0.0.0.0 faktor.mgr.consensu.org
+0.0.0.0 global.mgr.consensu.org
+0.0.0.0 cmp.madvertise.mgr.consensu.org
+0.0.0.0 onetag.mgr.consensu.org
+0.0.0.0 pluto.mgr.consensu.org
+0.0.0.0 www.pluto.mgr.consensu.org
+0.0.0.0 prisa.mgr.consensu.org
+0.0.0.0 purch.mgr.consensu.org
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 richaudience.mgr.consensu.org
+0.0.0.0 www.richaudience.mgr.consensu.org
+0.0.0.0 rossel.mgr.consensu.org
+0.0.0.0 rtbhouse.mgr.consensu.org
+0.0.0.0 sddan.mgr.consensu.org
+0.0.0.0 preprod.sddan.mgr.consensu.org
+0.0.0.0 sharethis.mgr.consensu.org
+0.0.0.0 c.sharethis.mgr.consensu.org
+0.0.0.0 sibboventures.mgr.consensu.org
+0.0.0.0 api.sibboventures.mgr.consensu.org
+0.0.0.0 cmp.sibboventures.mgr.consensu.org
+0.0.0.0 sipaof.mgr.consensu.org
+0.0.0.0 smartadserver.mgr.consensu.org
+0.0.0.0 sourcepoint.mgr.consensu.org
+0.0.0.0 sovrn.mgr.consensu.org
+0.0.0.0 traffective.mgr.consensu.org
+0.0.0.0 triboo.mgr.consensu.org
+0.0.0.0 www.triboo.mgr.consensu.org
+0.0.0.0 cmp.uniconsent.mgr.consensu.org
+0.0.0.0 unveilmedia.mgr.consensu.org
+0.0.0.0 www.unveilmedia.mgr.consensu.org
+0.0.0.0 vibrant.mgr.consensu.org
+0.0.0.0 webedia.mgr.consensu.org
+0.0.0.0 register.consensu.org
+0.0.0.0 vendorlist.consensu.org
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
