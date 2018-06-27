@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-25T12:48:52+00:00
-# Count: 522 domains
+# Released: 2018-06-27T14:21:03+00:00
+# Count: 537 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -69,6 +69,7 @@
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
+0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 aniview.com
 0.0.0.0 add1.aniview.com
 0.0.0.0 cdn1.aniview.com
@@ -291,6 +292,8 @@
 0.0.0.0 paperg.com
 0.0.0.0 cdn.prod.paperg.com
 0.0.0.0 tracking.photoyee.com
+0.0.0.0 fpt-api.pingdom.com
+0.0.0.0 tools.pingdom.com
 0.0.0.0 placed.com
 0.0.0.0 p.placed.com
 0.0.0.0 placelocal.com
@@ -313,6 +316,8 @@
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 roiq-vice.ranker.com
+0.0.0.0 cdn.roiq-vice.ranker.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 image.tx.redbox.com
 0.0.0.0 returnpath.com
@@ -337,6 +342,8 @@
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 servebom.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 servedby-buysellads.com
@@ -346,6 +353,7 @@
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 sharethis.com
 0.0.0.0 l.sharethis.com
+0.0.0.0 platform-api.sharethis.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 springserve.com
 0.0.0.0 vid.springserve.com
@@ -403,6 +411,7 @@
 0.0.0.0 userbest.com
 0.0.0.0 www.userbest.com
 0.0.0.0 valassisdigital.com
+0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
@@ -474,6 +483,8 @@
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 www.quotes.gb.net
+0.0.0.0 gscontxt.net
+0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
 0.0.0.0 intentmedia.net
@@ -506,6 +517,7 @@
 0.0.0.0 client.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
+0.0.0.0 rum-static.pingdom.net
 0.0.0.0 returnpath.net
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 nb-us.wal.co.revdn.net
@@ -521,10 +533,13 @@
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 cs340.wac.thetacdn.net
 0.0.0.0 smedia.webcollage.net
+0.0.0.0 ads.wsrs.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 a.pub.network
 0.0.0.0 adsrvr.org
 0.0.0.0 t.update.adsrvr.org
+0.0.0.0 consensu.org
+0.0.0.0 c.sharethis.mgr.consensu.org
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
