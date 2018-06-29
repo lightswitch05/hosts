@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-28T17:22:37+00:00
-# Count: 538 domains
+# Released: 2018-06-29T13:16:16+00:00
+# Count: 563 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -91,11 +91,14 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 sl-native-android-hm-logging.appspot.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 analytics.atlassian.com
 0.0.0.0 bitbucket-marketing-cdn.atlassian.com
+0.0.0.0 b2c.com
+0.0.0.0 api-54-190-136-221.b2c.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 bfmio.com
@@ -139,6 +142,9 @@
 0.0.0.0 socialapi.digitalremedy.com
 0.0.0.0 www.digitalremedy.com
 0.0.0.0 hasoffers.disqus.com
+0.0.0.0 dotomi.com
+0.0.0.0 iad-usadmm.dotomi.com
+0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 tracking.downloadyeah.com
 0.0.0.0 ad.downloadyee.com
 0.0.0.0 tracking.downloadyee.com
@@ -175,6 +181,8 @@
 0.0.0.0 proton.flurry.com
 0.0.0.0 footprintdns.com
 0.0.0.0 moiawsorigin.clo.footprintdns.com
+0.0.0.0 franklyinc.com
+0.0.0.0 ngw-static.franklyinc.com
 0.0.0.0 fullstory.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 fyber.com
@@ -185,16 +193,22 @@
 0.0.0.0 pixel.getchute.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
+0.0.0.0 glympse.com
+0.0.0.0 api.glympse.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 rp.gwallet.com
+0.0.0.0 static.h-bid.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 smy.iheart.com
 0.0.0.0 imprev.com
+0.0.0.0 inlocomedia.com
+0.0.0.0 sdk-analytics.inlocomedia.com
 0.0.0.0 intellicast.com
 0.0.0.0 mobile-services.intellicast.com
 0.0.0.0 tessera.intellicast.com
@@ -229,6 +243,8 @@
 0.0.0.0 www.lifestreet.com
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 lootsie.com
+0.0.0.0 api-v2.lootsie.com
 0.0.0.0 m-freeway.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 www.m-freeway.com
@@ -241,6 +257,8 @@
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 maxpoint.com
 0.0.0.0 ir.maxpoint.com
+0.0.0.0 mmfiles.amp.mcafee.com
+0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 tracker.meetleads.com
@@ -401,6 +419,8 @@
 0.0.0.0 ma.tune.com
 0.0.0.0 configuration.ma.tune.com
 0.0.0.0 playlist.ma.tune.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 abs-0.twimg.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 ugdturner.com
 0.0.0.0 config.uca.cloud.unity3d.com
@@ -420,6 +440,8 @@
 0.0.0.0 vungle.com
 0.0.0.0 www.vungle.com
 0.0.0.0 rptrcks.walmart.com
+0.0.0.0 wavesecure.com
+0.0.0.0 rdp42mms.wavesecure.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 advil.waze.com
@@ -451,6 +473,9 @@
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 checkyourmoneybox98.loan
+0.0.0.0 best5768.checkyourmoneybox98.loan
+0.0.0.0 events.fgol.mobi
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 www1.mmnetwork.mobi
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
