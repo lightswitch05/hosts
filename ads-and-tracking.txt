@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-29T13:16:16+00:00
-# Count: 563 domains
+# Released: 2018-06-29T18:36:44+00:00
+# Count: 562 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -419,8 +419,6 @@
 0.0.0.0 ma.tune.com
 0.0.0.0 configuration.ma.tune.com
 0.0.0.0 playlist.ma.tune.com
-0.0.0.0 abs.twimg.com
-0.0.0.0 abs-0.twimg.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 ugdturner.com
 0.0.0.0 config.uca.cloud.unity3d.com
@@ -433,6 +431,7 @@
 0.0.0.0 www.userbest.com
 0.0.0.0 valassisdigital.com
 0.0.0.0 vice-web-statics-cdn.vice.com
+0.0.0.0 static.vilynx.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
