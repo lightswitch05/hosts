@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-06-29T18:36:44+00:00
-# Count: 562 domains
+# Released: 2018-07-01T20:45:47+00:00
+# Count: 633 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -41,7 +41,10 @@
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 nym1-ib.adnxs.com
+0.0.0.0 rb.adnxs.com
 0.0.0.0 thunder.adnxs.com
+0.0.0.0 pandoramedia-mkt-prod1-lb.campaign.adobe.com
+0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
 0.0.0.0 adroll.com
@@ -65,9 +68,19 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
+0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
+0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
+0.0.0.0 appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
+0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
+0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
+0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
+0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
+0.0.0.0 vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
+0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 aniview.com
@@ -88,6 +101,7 @@
 0.0.0.0 appsee.com
 0.0.0.0 api.appsee.com
 0.0.0.0 appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 csp-collector.appspot.com
@@ -136,6 +150,8 @@
 0.0.0.0 dishdigital.sp1.convertro.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 sponge.creditkarma.com
+0.0.0.0 criteo.com
+0.0.0.0 bidder.criteo.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
 0.0.0.0 digitalremedy.com
@@ -199,6 +215,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 static.h-bid.com
+0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
 0.0.0.0 links.ibotta.com
@@ -243,6 +260,8 @@
 0.0.0.0 www.lifestreet.com
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 localytics.com
+0.0.0.0 manifest.53.localytics.com
 0.0.0.0 lootsie.com
 0.0.0.0 api-v2.lootsie.com
 0.0.0.0 m-freeway.com
@@ -262,6 +281,8 @@
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 tracker.meetleads.com
+0.0.0.0 applicationinsights.microsoft.com
+0.0.0.0 dc.applicationinsights.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 bling2.midasplayer.com
 0.0.0.0 p.midasplayer.com
@@ -378,6 +399,8 @@
 0.0.0.0 vid.springserve.com
 0.0.0.0 vid-io.springserve.com
 0.0.0.0 vpaid.springserve.com
+0.0.0.0 ssacdn.com
+0.0.0.0 www.ssacdn.com
 0.0.0.0 summerhamster.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 supersonic.com
@@ -393,8 +416,17 @@
 0.0.0.0 2712.content.swrve.com
 0.0.0.0 30073.content.swrve.com
 0.0.0.0 content-cdn.swrve.com
+0.0.0.0 taboola.com
+0.0.0.0 15.taboola.com
+0.0.0.0 c2.taboola.com
+0.0.0.0 images.taboola.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 vidstat.taboola.com
 0.0.0.0 tapjoy.com
+0.0.0.0 placements.tapjoy.com
 0.0.0.0 rpc.tapjoy.com
+0.0.0.0 tapjoyads.com
+0.0.0.0 ws.tapjoyads.com
 0.0.0.0 tappx.com
 0.0.0.0 ssp.int.api.tappx.com
 0.0.0.0 ssp.api.tappx.com
@@ -423,6 +455,14 @@
 0.0.0.0 ugdturner.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 events.iap.unity3d.com
+0.0.0.0 ads.internal.unity3d.com
+0.0.0.0 nginx-auction-prd.ads.internal.unity3d.com
+0.0.0.0 ads.prd.ie.internal.unity3d.com
+0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 cdn-highwinds.unityads.unity3d.com
+0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
@@ -436,6 +476,7 @@
 0.0.0.0 vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
 0.0.0.0 vcsa.vmware.com
+0.0.0.0 adsdk.vrvm.com
 0.0.0.0 vungle.com
 0.0.0.0 www.vungle.com
 0.0.0.0 rptrcks.walmart.com
@@ -450,15 +491,22 @@
 0.0.0.0 wootric.com
 0.0.0.0 api.wootric.com
 0.0.0.0 xtify.com
+0.0.0.0 sdk.ibm.xtify.com
 0.0.0.0 sdk3.ibm.xtify.com
 0.0.0.0 tracking.yeehbuy.com
+0.0.0.0 yieldmo.com
+0.0.0.0 static.yieldmo.com
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 cs.yieldoptimizer.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 yodelmobile.com
+0.0.0.0 applifier.info
+0.0.0.0 lb-delivery.us-east-1.applifier.info
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
 0.0.0.0 public-analytics.useast.atlassian.io
+0.0.0.0 auth.avs.io
+0.0.0.0 pics.avs.io
 0.0.0.0 bidr.io
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 intercom.io
@@ -477,15 +525,27 @@
 0.0.0.0 events.fgol.mobi
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 www1.mmnetwork.mobi
+0.0.0.0 rbl.ms
+0.0.0.0 assets.rbl.ms
+0.0.0.0 assets-auto.rbl.ms
+0.0.0.0 media.rbl.ms
+0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 res.rbl.ms
+0.0.0.0 static.rbl.ms
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
+0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
 0.0.0.0 stats.gc.fe.apple-dns.net
+0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 bidswitch.net
 0.0.0.0 x.bidswitch.net
 0.0.0.0 players.brightcove.net
+0.0.0.0 taboola.com.cdn.cloudflare.net
+0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
+0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 connexity.net
 0.0.0.0 pxl.connexity.net
 0.0.0.0 criteo.net
@@ -495,8 +555,12 @@
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dt-cdn.net
+0.0.0.0 measuread.com.edgekey.net
+0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
+0.0.0.0 scorecardresearch.com.edgekey.net
+0.0.0.0 sb.scorecardresearch.com.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
@@ -507,6 +571,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
+0.0.0.0 ssl-cdn.multibrand3.pgsitecore.com.c.footprint.net
 0.0.0.0 www.quotes.gb.net
 0.0.0.0 gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
@@ -526,10 +591,12 @@
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
+0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
+0.0.0.0 trkpnt.ongage.net
 0.0.0.0 online-metrix.net
 0.0.0.0 h-walmart.online-metrix.net
 0.0.0.0 openx.net
@@ -570,6 +637,10 @@
 0.0.0.0 www.ketchapp.org
 0.0.0.0 outbrain.org
 0.0.0.0 alldcs.outbrain.org
+0.0.0.0 aviasales.ru
+0.0.0.0 mamka.aviasales.ru
+0.0.0.0 places.aviasales.ru
+0.0.0.0 www.aviasales.ru
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 sync.extend.tv
