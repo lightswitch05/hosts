@@ -18,6 +18,10 @@ class TestHostTools(object):
         is_valid = hosts_tools.is_valid_domain("%example.com")
         assert not is_valid
 
+    def test_unicode_is_a_valid_domain(self):
+        is_valid = hosts_tools.is_valid_domain(u"www.с\ud0b0.com")
+        assert is_valid
+
     def test_too_long_is_not_a_valid_domain(self):
         domain = ("a" * 255) + ".com"
         is_valid = hosts_tools.is_valid_domain(domain)
