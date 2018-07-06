@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-05T13:46:17+00:00
-# Count: 952 domains
+# Released: 2018-07-06T01:50:35+00:00
+# Count: 983 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -58,6 +58,7 @@
 0.0.0.0 thunder.adnxs.com
 0.0.0.0 pandoramedia-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
+0.0.0.0 adobedtm.com
 0.0.0.0 adpredictive.com
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
@@ -173,6 +174,8 @@
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
+0.0.0.0 ugc.bazaarvoice.com
+0.0.0.0 cabelas.ugc.bazaarvoice.com
 0.0.0.0 beeviewd.com
 0.0.0.0 adserver.beeviewd.com
 0.0.0.0 bestcontentonline.com
@@ -191,6 +194,8 @@
 0.0.0.0 brightfunnel.com
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 munchkin.brightfunnel.com
+0.0.0.0 btstatic.com
+0.0.0.0 s.btstatic.com
 0.0.0.0 buypixelads.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 beacon.campaigndeputy.com
@@ -294,11 +299,15 @@
 0.0.0.0 a.fiksu.com
 0.0.0.0 flurry.com
 0.0.0.0 proton.flurry.com
+0.0.0.0 ad.foodlion.com
 0.0.0.0 footprintdns.com
 0.0.0.0 moiawsorigin.clo.footprintdns.com
 0.0.0.0 force.com
 0.0.0.0 citrix-pk2.force.com
 0.0.0.0 foresee.com
+0.0.0.0 analytics.foresee.com
+0.0.0.0 gateway.foresee.com
+0.0.0.0 record.foresee.com
 0.0.0.0 franklyinc.com
 0.0.0.0 ngw-static.franklyinc.com
 0.0.0.0 metrics.freecreditscore.com
@@ -314,6 +323,8 @@
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
+0.0.0.0 gigya.com
+0.0.0.0 cdns.gigya.com
 0.0.0.0 glympse.com
 0.0.0.0 api.glympse.com
 0.0.0.0 adserver.goodnuze.com
@@ -331,6 +342,8 @@
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
+0.0.0.0 hlserve.com
+0.0.0.0 www.hlserve.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
@@ -378,6 +391,7 @@
 0.0.0.0 pixel.kiitties.com
 0.0.0.0 kochava.com
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 assets.kochava.com
 0.0.0.0 imp.control.kochava.com
 0.0.0.0 static.lakana.com
 0.0.0.0 leadnationmedia.com
@@ -403,6 +417,7 @@
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
+0.0.0.0 app-sj04.marketo.com
 0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 marketolive.com
 0.0.0.0 mathtag.com
@@ -736,6 +751,10 @@
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 metrics.yellowpages.com
+0.0.0.0 yext.com
+0.0.0.0 liveapi.yext.com
+0.0.0.0 yext-pixel.com
+0.0.0.0 www.yext-pixel.com
 0.0.0.0 yieldmo.com
 0.0.0.0 10.proxy.us-east-1.world.rw.yieldmo.com
 0.0.0.0 static.yieldmo.com
@@ -830,6 +849,8 @@
 0.0.0.0 demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -862,6 +883,11 @@
 0.0.0.0 ssl-cdn.multibrand3.pgsitecore.com.c.footprint.net
 0.0.0.0 adserver.game-focus.net
 0.0.0.0 www.quotes.gb.net
+0.0.0.0 glancecdn.net
+0.0.0.0 www.glancecdn.net
+0.0.0.0 go-mpulse.net
+0.0.0.0 s.go-mpulse.net
+0.0.0.0 s2.go-mpulse.net
 0.0.0.0 gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 imprev.net
@@ -869,10 +895,13 @@
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 krxd.net
+0.0.0.0 marketo.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 www.munchkin.marketo.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
+0.0.0.0 monetate.net
+0.0.0.0 se.monetate.net
 0.0.0.0 metrics.dc.ad.msft.net
 0.0.0.0 mxptint.net
 0.0.0.0 mpd.mxptint.net
@@ -887,6 +916,7 @@
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 online-metrix.net
@@ -967,6 +997,9 @@
 0.0.0.0 samplicio.us
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 adserve.video
+0.0.0.0 adis.ws
+0.0.0.0 c1.adis.ws
+0.0.0.0 i1.adis.ws
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 openx.co.za
 0.0.0.0 adserver.openx.co.za
