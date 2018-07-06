@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-06T01:50:35+00:00
-# Count: 7964 domains
+# Released: 2018-07-06T19:24:27+00:00
+# Count: 7983 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -823,6 +823,7 @@
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
+0.0.0.0 appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com
@@ -1317,6 +1318,10 @@
 0.0.0.0 discoverreceiver.citrix.com
 0.0.0.0 discoverreciever.citrix.com
 0.0.0.0 discussions.citrix.com
+0.0.0.0 discussionsdev.citrix.com
+0.0.0.0 discussionsqa.citrix.com
+0.0.0.0 discussionsqa2.citrix.com
+0.0.0.0 discussionsuat.citrix.com
 0.0.0.0 dk.citrix.com
 0.0.0.0 dolphin.dk.citrix.com
 0.0.0.0 search.dk.citrix.com
@@ -4425,6 +4430,15 @@
 0.0.0.0 pixel.getchute.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
+0.0.0.0 getsitecontrol.com
+0.0.0.0 app.getsitecontrol.com
+0.0.0.0 demo.getsitecontrol.com
+0.0.0.0 www.demo.getsitecontrol.com
+0.0.0.0 logs.getsitecontrol.com
+0.0.0.0 nps1.getsitecontrol.com
+0.0.0.0 st.getsitecontrol.com
+0.0.0.0 widgets.getsitecontrol.com
+0.0.0.0 www.getsitecontrol.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 gigya.com
@@ -4569,38 +4583,6 @@
 0.0.0.0 staging.www.gigya.com
 0.0.0.0 staging-uploads.www.gigya.com
 0.0.0.0 uploads.www.gigya.com
-0.0.0.0 glympse.com
-0.0.0.0 api.glympse.com
-0.0.0.0 motd.api.glympse.com
-0.0.0.0 blog.glympse.com
-0.0.0.0 business.glympse.com
-0.0.0.0 content.glympse.com
-0.0.0.0 dev.glympse.com
-0.0.0.0 api.dev.glympse.com
-0.0.0.0 www.api.dev.glympse.com
-0.0.0.0 developer.glympse.com
-0.0.0.0 enterprise.glympse.com
-0.0.0.0 hackathon.glympse.com
-0.0.0.0 api.ipv6.glympse.com
-0.0.0.0 product.glympse.com
-0.0.0.0 itt.proxy.glympse.com
-0.0.0.0 kibana.n0.production.proxy.glympse.com
-0.0.0.0 itt.s0.production.proxy.glympse.com
-0.0.0.0 kibana.s0.production.proxy.glympse.com
-0.0.0.0 kibana.s1.production.proxy.glympse.com
-0.0.0.0 kibana.n0.sandbox.proxy.glympse.com
-0.0.0.0 kibana.s0.sandbox.proxy.glympse.com
-0.0.0.0 kibana.s1.sandbox.proxy.glympse.com
-0.0.0.0 remote.glympse.com
-0.0.0.0 sandbox.glympse.com
-0.0.0.0 api.sandbox.glympse.com
-0.0.0.0 motd.api.sandbox.glympse.com
-0.0.0.0 services.glympse.com
-0.0.0.0 snapshot.glympse.com
-0.0.0.0 upload.glympse.com
-0.0.0.0 east.vpn.glympse.com
-0.0.0.0 west.vpn.glympse.com
-0.0.0.0 www.glympse.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
 0.0.0.0 insights.goodyield.com
@@ -4799,6 +4781,7 @@
 0.0.0.0 pf.intuit.com
 0.0.0.0 financialprovider-logos.platform.intuit.com
 0.0.0.0 trinity.platform.intuit.com
+0.0.0.0 sci.intuit.com
 0.0.0.0 smartlinks.intuit.com
 0.0.0.0 smartlinks-e2e.intuit.com
 0.0.0.0 irganalytics.com
@@ -4982,6 +4965,7 @@
 0.0.0.0 frontbeta.localytics.com
 0.0.0.0 gw.localytics.com
 0.0.0.0 lyssh.gw.localytics.com
+0.0.0.0 two-ply.gw.localytics.com
 0.0.0.0 info.localytics.com
 0.0.0.0 profileview.localytics.com
 0.0.0.0 sandbox53.localytics.com
@@ -5192,6 +5176,7 @@
 0.0.0.0 sharelog.midasplayer.com
 0.0.0.0 sharelog-qa.midasplayer.com
 0.0.0.0 skd.midasplayer.com
+0.0.0.0 soda1.midasplayer.com
 0.0.0.0 sta.midasplayer.com
 0.0.0.0 sto.midasplayer.com
 0.0.0.0 t1.midasplayer.com
@@ -5519,8 +5504,6 @@
 0.0.0.0 pixel.pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
-0.0.0.0 fpt-api.pingdom.com
-0.0.0.0 tools.pingdom.com
 0.0.0.0 placed.com
 0.0.0.0 affiliate.placed.com
 0.0.0.0 api.placed.com
@@ -6990,6 +6973,7 @@
 0.0.0.0 nativeadsfeed.rtb.ak-is.net
 0.0.0.0 adcom.akadns.net
 0.0.0.0 ns.leadback.ace.advertising.com.adcom.akadns.net
+0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
@@ -7320,6 +7304,8 @@
 0.0.0.0 www.tlv-dc01.marketo.net
 0.0.0.0 tlv-dc02.marketo.net
 0.0.0.0 www.tlv-dc02.marketo.net
+0.0.0.0 maxymiser.net
+0.0.0.0 service.maxymiser.net
 0.0.0.0 mediabong.net
 0.0.0.0 ad.mediabong.net
 0.0.0.0 www.ad.mediabong.net
@@ -7563,6 +7549,7 @@
 0.0.0.0 smtp.returnpath.net
 0.0.0.0 smtp-aus.returnpath.net
 0.0.0.0 support.returnpath.net
+0.0.0.0 tst.returnpath.net
 0.0.0.0 app.tst.returnpath.net
 0.0.0.0 infrastructure.k8s.tst.returnpath.net
 0.0.0.0 workload1.k8s.tst.returnpath.net

@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-06T01:50:35+00:00
-# Count: 983 domains
+# Released: 2018-07-06T19:24:27+00:00
+# Count: 989 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -106,6 +106,7 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
+0.0.0.0 appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com
@@ -321,12 +322,12 @@
 0.0.0.0 pixel.getchute.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
+0.0.0.0 getsitecontrol.com
+0.0.0.0 widgets.getsitecontrol.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 gigya.com
 0.0.0.0 cdns.gigya.com
-0.0.0.0 glympse.com
-0.0.0.0 api.glympse.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
 0.0.0.0 google-analytics.com
@@ -375,6 +376,7 @@
 0.0.0.0 pf.intuit.com
 0.0.0.0 financialprovider-logos.platform.intuit.com
 0.0.0.0 trinity.platform.intuit.com
+0.0.0.0 sci.intuit.com
 0.0.0.0 smartlinks.intuit.com
 0.0.0.0 smartlinks-e2e.intuit.com
 0.0.0.0 irganalytics.com
@@ -439,6 +441,7 @@
 0.0.0.0 bling2.midasplayer.com
 0.0.0.0 p.midasplayer.com
 0.0.0.0 prs3.midasplayer.com
+0.0.0.0 soda1.midasplayer.com
 0.0.0.0 links.e2e.mint.com
 0.0.0.0 links.mint.com
 0.0.0.0 mixedtraffic.com
@@ -508,8 +511,6 @@
 0.0.0.0 pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
-0.0.0.0 fpt-api.pingdom.com
-0.0.0.0 tools.pingdom.com
 0.0.0.0 placed.com
 0.0.0.0 p.placed.com
 0.0.0.0 placelocal.com
@@ -819,6 +820,7 @@
 0.0.0.0 nativeadsfeed.rtb.ak-is.net
 0.0.0.0 adcom.akadns.net
 0.0.0.0 ns.leadback.ace.advertising.com.adcom.akadns.net
+0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
@@ -898,6 +900,8 @@
 0.0.0.0 marketo.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 www.munchkin.marketo.net
+0.0.0.0 maxymiser.net
+0.0.0.0 service.maxymiser.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
 0.0.0.0 monetate.net

@@ -8,7 +8,7 @@ import json
 import datetime
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
-ALLOWED_DOMAIN_PATTERN = re.compile("(?!-)[A-Z\d-]{1,255}(?<!-)$", re.IGNORECASE)
+ALLOWED_DOMAIN_PATTERN = re.compile("^[^\*\?\[\]{}\|\\\/&^%$#@!+=~`\s\.<>,]+$", re.IGNORECASE)
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
@@ -110,7 +110,7 @@ def find_subdomains(domain: str) -> Set[str]:
                 content = req.content.decode('utf-8')
                 data = json.loads("[{}]".format(content.replace('}{', '},{')))
                 for key, value in enumerate(data):
-                    found_domain = value['name_value'].lower()
+                    found_domain = value['name_value'].lower().strip()
                     if found_domain.startswith('*.'):
                         found_domain = found_domain[2:]
                     if is_valid_domain(found_domain):

@@ -1,5 +1,6 @@
 PIP = 'pip3'
 PYTEST = 'pytest'
+PYTHON = 'python3'
 
 default: usage
 
@@ -13,5 +14,8 @@ usage:
 setup:
 	@$(PIP) install -r requirements.txt
 
-test:
+test-travis:
 	@$(PYTEST)
+
+test:
+	@$(PYTHON) -m $(PYTEST)
