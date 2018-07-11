@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-11T12:34:02+00:00
-# Count: 7399 domains
+# Released: 2018-07-11T19:14:24+00:00
+# Count: 7401 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -984,6 +984,7 @@
 0.0.0.0 apptrckr.com
 0.0.0.0 beacon.apptrckr.com
 0.0.0.0 adserver.aptdynamics.com
+0.0.0.0 targeting.tronc.arcpublishing.com
 0.0.0.0 pixel.aspirei.com
 0.0.0.0 www.pixel.aspirei.com
 0.0.0.0 ws-na.assoc-amazon.com
@@ -4175,11 +4176,6 @@
 0.0.0.0 vb2.installfarm.com
 0.0.0.0 vic.installfarm.com
 0.0.0.0 www.installfarm.com
-0.0.0.0 intellicast.com
-0.0.0.0 mobile-services.intellicast.com
-0.0.0.0 tessera.intellicast.com
-0.0.0.0 tessera1.intellicast.com
-0.0.0.0 tessera2.intellicast.com
 0.0.0.0 intelsad.com
 0.0.0.0 autodiscover.intelsad.com
 0.0.0.0 blog.intelsad.com
@@ -4789,6 +4785,7 @@
 0.0.0.0 www.netseer.com
 0.0.0.0 www3.netseer.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 ntellicast.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
