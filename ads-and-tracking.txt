@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-09T21:00:30+00:00
-# Count: 1007 domains
+# Released: 2018-07-11T12:34:02+00:00
+# Count: 1017 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -206,7 +206,6 @@
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
-0.0.0.0 citrix.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
 0.0.0.0 clearbit.com
@@ -781,10 +780,15 @@
 0.0.0.0 cs.yieldoptimizer.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 yodelmobile.com
+0.0.0.0 p.yotpo.com
+0.0.0.0 staticw2.yotpo.com
+0.0.0.0 w2.yotpo.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
+0.0.0.0 braze.eu
+0.0.0.0 praxis.fra-01.braze.eu
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -796,6 +800,11 @@
 0.0.0.0 backtrace.io
 0.0.0.0 bidr.io
 0.0.0.0 match.prod.bidr.io
+0.0.0.0 extole.io
+0.0.0.0 origin.extole.io
+0.0.0.0 origin-2.extole.io
+0.0.0.0 origin-4.extole.io
+0.0.0.0 origin-5.extole.io
 0.0.0.0 intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 widget.intercom.io
@@ -947,6 +956,7 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 h-walmart.online-metrix.net
 0.0.0.0 openx.net
+0.0.0.0 adnimation-d.openx.net
 0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 oao-d.openx.net
