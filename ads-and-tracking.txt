@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-11T19:14:24+00:00
-# Count: 1019 domains
+# Released: 2018-07-13T00:46:59+00:00
+# Count: 1028 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -81,7 +81,11 @@
 0.0.0.0 adx1.com
 0.0.0.0 rtb.adx1.com
 0.0.0.0 pulsepoint-platform.rtb.adx1.com
+0.0.0.0 adxprtz.com
+0.0.0.0 traffic.adxprtz.com
 0.0.0.0 adxtrem.com
+0.0.0.0 adzoka.com
+0.0.0.0 ads.adzoka.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 adserver.akamanda.com
 0.0.0.0 algovid.com
@@ -201,6 +205,7 @@
 0.0.0.0 buzzdeck.com
 0.0.0.0 beacon.campaigndeputy.com
 0.0.0.0 casalemedia.com
+0.0.0.0 a1899.casalemedia.com
 0.0.0.0 a2892.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 cashext.com
@@ -290,6 +295,7 @@
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 exacttarget.com
 0.0.0.0 pages.exacttarget.com
+0.0.0.0 ads.exdynsrv.com
 0.0.0.0 dctk.expedia.com
 0.0.0.0 ezwebsitetraffic.com
 0.0.0.0 adserver.ezwebsitetraffic.com
@@ -458,6 +464,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 s.mopub.com
 0.0.0.0 metrics.mozilla.com
+0.0.0.0 identity.mparticle.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 mynativeplatform.com
@@ -481,6 +488,7 @@
 0.0.0.0 cm.netseer.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 ntellicast.com
+0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
@@ -522,6 +530,8 @@
 0.0.0.0 playhaven.com
 0.0.0.0 media.playhaven.com
 0.0.0.0 analytics.podtrac.com
+0.0.0.0 popunderonly.com
+0.0.0.0 www.popunderonly.com
 0.0.0.0 postrelease.com
 0.0.0.0 px.powerlinks.com
 0.0.0.0 preapps.com
@@ -833,8 +843,12 @@
 0.0.0.0 static.rbl.ms
 0.0.0.0 207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
+0.0.0.0 2o7.net
 0.0.0.0 mediaplanet.112.2o7.net
+0.0.0.0 twci.112.2o7.net
 0.0.0.0 adserver.383media.net
+0.0.0.0 admarketplace.net
+0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 ads-srv.net
 0.0.0.0 adserver.ads-srv.net
 0.0.0.0 ak-is.net
