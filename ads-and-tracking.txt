@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-13T00:46:59+00:00
-# Count: 1028 domains
+# Released: 2018-07-14T13:21:11+00:00
+# Count: 1047 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -250,6 +250,8 @@
 0.0.0.0 g.defold.com
 0.0.0.0 metrics.deloitte.com
 0.0.0.0 adserver.densitymedia.com
+0.0.0.0 srepdata.desmoinesregister.com
+0.0.0.0 user.desmoinesregister.com
 0.0.0.0 metrics.dickssportinggoods.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 digitalinsight.com
@@ -297,6 +299,8 @@
 0.0.0.0 pages.exacttarget.com
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 dctk.expedia.com
+0.0.0.0 exponential.com
+0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 ezwebsitetraffic.com
 0.0.0.0 adserver.ezwebsitetraffic.com
 0.0.0.0 fanbread.com
@@ -345,6 +349,7 @@
 0.0.0.0 rp.gwallet.com
 0.0.0.0 static.h-bid.com
 0.0.0.0 metrics.hbonow.com
+0.0.0.0 smetrics.hbonow.com
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
@@ -388,6 +393,8 @@
 0.0.0.0 sync.jivox.com
 0.0.0.0 juicemobile.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 kargo.com
+0.0.0.0 krk.kargo.com
 0.0.0.0 khingtracking.com
 0.0.0.0 adserver.khingtracking.com
 0.0.0.0 pixel.kiitties.com
@@ -490,6 +497,7 @@
 0.0.0.0 ntellicast.com
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
+0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
@@ -675,6 +683,8 @@
 0.0.0.0 trackverify.com
 0.0.0.0 traffiliate.com
 0.0.0.0 pixel.tree.com
+0.0.0.0 ads.tremorhub.com
+0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 tritondigital.com
 0.0.0.0 lt503.tritondigital.com
 0.0.0.0 truconversion.com
@@ -813,11 +823,18 @@
 0.0.0.0 origin-4.extole.io
 0.0.0.0 origin-5.extole.io
 0.0.0.0 intercom.io
+0.0.0.0 mobile-sdk-api.intercom.io
+0.0.0.0 quxcfcv5-ios.mobile-sdk-api.intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
+0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 widget.intercom.io
+0.0.0.0 lytics.io
+0.0.0.0 api.lytics.io
+0.0.0.0 c.lytics.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
 0.0.0.0 piwik.privacytools.io
+0.0.0.0 api.pubwise.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
@@ -970,6 +987,8 @@
 0.0.0.0 adnimation-d.openx.net
 0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
+0.0.0.0 faithit-d.openx.net
+0.0.0.0 gannett-d.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 pixel.optimalq.net
