@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T13:54:59+00:00
-# Count: 1065 domains
+# Released: 2018-07-15T14:12:22+00:00
+# Count: 1074 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -86,6 +86,8 @@
 0.0.0.0 adxtrem.com
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
+0.0.0.0 airpr.com
+0.0.0.0 px.airpr.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 adserver.akamanda.com
 0.0.0.0 algovid.com
@@ -211,6 +213,9 @@
 0.0.0.0 a2892.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 cashext.com
+0.0.0.0 celebrus.com
+0.0.0.0 delta.celebrus.com
+0.0.0.0 insights.celebrus.com
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
@@ -386,6 +391,7 @@
 0.0.0.0 sci.intuit.com
 0.0.0.0 smartlinks.intuit.com
 0.0.0.0 smartlinks-e2e.intuit.com
+0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
 0.0.0.0 jivox.com
 0.0.0.0 as.jivox.com
@@ -690,6 +696,8 @@
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tmathtag.com
+0.0.0.0 trackjs.com
+0.0.0.0 capture.trackjs.com
 0.0.0.0 trackverify.com
 0.0.0.0 traffiliate.com
 0.0.0.0 pixel.tree.com
@@ -851,6 +859,7 @@
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 heatmap.it
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
 0.0.0.0 buff.ly

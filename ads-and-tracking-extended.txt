@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T13:54:59+00:00
-# Count: 7643 domains
+# Released: 2018-07-15T14:12:22+00:00
+# Count: 7689 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -654,6 +654,20 @@
 0.0.0.0 www.pixel.adxtrem.com
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
+0.0.0.0 airpr.com
+0.0.0.0 analyst.airpr.com
+0.0.0.0 analyst-stg-coursera.airpr.com
+0.0.0.0 blog.airpr.com
+0.0.0.0 cdn.airpr.com
+0.0.0.0 info.airpr.com
+0.0.0.0 press.airpr.com
+0.0.0.0 px.airpr.com
+0.0.0.0 roi.airpr.com
+0.0.0.0 www.roi.airpr.com
+0.0.0.0 vpn.airpr.com
+0.0.0.0 webinar.airpr.com
+0.0.0.0 www.webinar.airpr.com
+0.0.0.0 www.airpr.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 autodiscover.airvertiseme.com
 0.0.0.0 beacon.airvertiseme.com
@@ -1160,6 +1174,24 @@
 0.0.0.0 system.casalemedia.com
 0.0.0.0 woobi-eu.casalemedia.com
 0.0.0.0 cashext.com
+0.0.0.0 celebrus.com
+0.0.0.0 cengage.celebrus.com
+0.0.0.0 delta.celebrus.com
+0.0.0.0 demo.celebrus.com
+0.0.0.0 devtest.celebrus.com
+0.0.0.0 gmf.celebrus.com
+0.0.0.0 insights.celebrus.com
+0.0.0.0 mail.celebrus.com
+0.0.0.0 partners.celebrus.com
+0.0.0.0 www.partners.celebrus.com
+0.0.0.0 poc10.celebrus.com
+0.0.0.0 poc11.celebrus.com
+0.0.0.0 poc7.celebrus.com
+0.0.0.0 poc8.celebrus.com
+0.0.0.0 poc9.celebrus.com
+0.0.0.0 support.celebrus.com
+0.0.0.0 volvo.celebrus.com
+0.0.0.0 www.celebrus.com
 0.0.0.0 chartboost.com
 0.0.0.0 answers.chartboost.com
 0.0.0.0 www.answers.chartboost.com
@@ -4267,6 +4299,7 @@
 0.0.0.0 sci.intuit.com
 0.0.0.0 smartlinks.intuit.com
 0.0.0.0 smartlinks-e2e.intuit.com
+0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
 0.0.0.0 ascentdata.irganalytics.com
 0.0.0.0 ascentdatadirect.irganalytics.com
@@ -5841,6 +5874,11 @@
 0.0.0.0 ssl.tmathtag.com
 0.0.0.0 webmail.tmathtag.com
 0.0.0.0 www.tmathtag.com
+0.0.0.0 trackjs.com
+0.0.0.0 capture.trackjs.com
+0.0.0.0 docs.trackjs.com
+0.0.0.0 my.trackjs.com
+0.0.0.0 status.trackjs.com
 0.0.0.0 trackverify.com
 0.0.0.0 audit.trackverify.com
 0.0.0.0 pixel.trackverify.com
@@ -6555,6 +6593,14 @@
 0.0.0.0 labs.tabmo.io
 0.0.0.0 www.labs.tabmo.io
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 heatmap.it
+0.0.0.0 l.heatmap.it
+0.0.0.0 www.l.heatmap.it
+0.0.0.0 shopify-app.heatmap.it
+0.0.0.0 www.shopify-app.heatmap.it
+0.0.0.0 u.heatmap.it
+0.0.0.0 www.u.heatmap.it
+0.0.0.0 www.heatmap.it
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
 0.0.0.0 buff.ly
