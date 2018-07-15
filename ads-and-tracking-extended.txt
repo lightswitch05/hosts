@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T13:49:41+00:00
-# Count: 7640 domains
+# Released: 2018-07-15T13:54:59+00:00
+# Count: 7643 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5254,6 +5254,9 @@
 0.0.0.0 cdn.roiq-vice.ranker.com
 0.0.0.0 metrics.ranklocal.com
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 e.redbox.com
+0.0.0.0 ebm.e.redbox.com
+0.0.0.0 www.ebm.e.redbox.com
 0.0.0.0 image.tx.redbox.com
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
