@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-14T13:21:11+00:00
-# Count: 7599 domains
+# Released: 2018-07-15T13:38:16+00:00
+# Count: 7625 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -4796,6 +4796,12 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 hz.mmstat.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 mb.moatads.com
+0.0.0.0 pool6.moatads.com
+0.0.0.0 pool9.moatads.com
+0.0.0.0 sejs.moatads.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 yts.moatads.com
 0.0.0.0 z.moatads.com
 0.0.0.0 mobileadtrading.com
 0.0.0.0 track-west.mobileadtrading.com
@@ -5817,6 +5823,7 @@
 0.0.0.0 www.vp.thirdpresence.com
 0.0.0.0 www.thirdpresence.com
 0.0.0.0 metrics.timewarnercable.com
+0.0.0.0 experience.tinypass.com
 0.0.0.0 tmathtag.com
 0.0.0.0 mail.tmathtag.com
 0.0.0.0 owa.tmathtag.com
@@ -6881,6 +6888,25 @@
 0.0.0.0 rg2.staging.imprev.net
 0.0.0.0 rw.staging.imprev.net
 0.0.0.0 testcluster.imprev.net
+0.0.0.0 inscname.net
+0.0.0.0 a23.boston.inscname.net
+0.0.0.0 a001.bostonglobe.inscname.net
+0.0.0.0 cnet.inscname.net
+0.0.0.0 cnet-wildcard.inscname.net
+0.0.0.0 msn.inscname.net
+0.0.0.0 a021.ranker.inscname.net
+0.0.0.0 telstra.inscname.net
+0.0.0.0 model.telstra.inscname.net
+0.0.0.0 oneapp.telstra.inscname.net
+0.0.0.0 oneappmodel.telstra.inscname.net
+0.0.0.0 a007.timeanddate.inscname.net
+0.0.0.0 a004.tronc.inscname.net
+0.0.0.0 a008.tronc.inscname.net
+0.0.0.0 a013.tronc.inscname.net
+0.0.0.0 a015.tronc.inscname.net
+0.0.0.0 a017.tronc.inscname.net
+0.0.0.0 a001.weather.inscname.net
+0.0.0.0 a001.zamnetwork.inscname.net
 0.0.0.0 intentmedia.net
 0.0.0.0 eu.a.intentmedia.net
 0.0.0.0 adcache.intentmedia.net
