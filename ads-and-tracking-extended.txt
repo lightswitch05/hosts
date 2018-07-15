@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T13:39:05+00:00
-# Count: 7628 domains
+# Released: 2018-07-15T13:49:41+00:00
+# Count: 7640 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1106,6 +1106,12 @@
 0.0.0.0 s.btstatic.com
 0.0.0.0 s-eu.btstatic.com
 0.0.0.0 t.btstatic.com
+0.0.0.0 bucksense.com
+0.0.0.0 c.bucksense.com
+0.0.0.0 ck.bucksense.com
+0.0.0.0 i.bucksense.com
+0.0.0.0 images.bucksense.com
+0.0.0.0 images-cdn.bucksense.com
 0.0.0.0 buypixelads.com
 0.0.0.0 cpanel.buypixelads.com
 0.0.0.0 jagi.buypixelads.com
@@ -7059,6 +7065,7 @@
 0.0.0.0 www.mxptint.net
 0.0.0.0 yhp.mxptint.net
 0.0.0.0 www.yhp.mxptint.net
+0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 omtrdc.net
 0.0.0.0 collection.sv.d1.omtrdc.net
 0.0.0.0 delivery.sv.d1.omtrdc.net
@@ -7542,6 +7549,11 @@
 0.0.0.0 prod-hzeu-tj-2.datamind.ru
 0.0.0.0 pixel.interactivesales.ru
 0.0.0.0 www.pixel.interactivesales.ru
+0.0.0.0 bksn.se
+0.0.0.0 c.bksn.se
+0.0.0.0 www.c.bksn.se
+0.0.0.0 i.bksn.se
+0.0.0.0 retargeting.bksn.se
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 sync.extend.tv

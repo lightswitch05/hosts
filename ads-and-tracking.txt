@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T13:39:05+00:00
-# Count: 1059 domains
+# Released: 2018-07-15T13:49:41+00:00
+# Count: 1064 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -201,6 +201,8 @@
 0.0.0.0 munchkin.brightfunnel.com
 0.0.0.0 btstatic.com
 0.0.0.0 s.btstatic.com
+0.0.0.0 bucksense.com
+0.0.0.0 ck.bucksense.com
 0.0.0.0 buypixelads.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 beacon.campaigndeputy.com
@@ -979,6 +981,7 @@
 0.0.0.0 metrics.dc.ad.msft.net
 0.0.0.0 mxptint.net
 0.0.0.0 mpd.mxptint.net
+0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 sc.omtrdc.net
@@ -1056,6 +1059,8 @@
 0.0.0.0 www.aviasales.ru
 0.0.0.0 datamind.ru
 0.0.0.0 pixel.interactivesales.ru
+0.0.0.0 bksn.se
+0.0.0.0 retargeting.bksn.se
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 sync.extend.tv
