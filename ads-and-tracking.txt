@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T13:38:16+00:00
-# Count: 1056 domains
+# Released: 2018-07-15T13:39:05+00:00
+# Count: 1059 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -914,6 +914,9 @@
 0.0.0.0 datamark.net
 0.0.0.0 demdex.net
 0.0.0.0 crackle.demdex.net
+0.0.0.0 fandangollc.demdex.net
+0.0.0.0 ubisoftinternational.demdex.net
+0.0.0.0 verizon.demdex.net
 0.0.0.0 doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
