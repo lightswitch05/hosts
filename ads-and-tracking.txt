@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-14T13:21:11+00:00
-# Count: 1047 domains
+# Released: 2018-07-15T13:38:16+00:00
+# Count: 1056 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -457,6 +457,12 @@
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mmstat.com
 0.0.0.0 log.gds.mmstat.com
+0.0.0.0 mb.moatads.com
+0.0.0.0 pool6.moatads.com
+0.0.0.0 pool9.moatads.com
+0.0.0.0 sejs.moatads.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 yts.moatads.com
 0.0.0.0 z.moatads.com
 0.0.0.0 mobileadtrading.com
 0.0.0.0 track-west.mobileadtrading.com
@@ -679,6 +685,7 @@
 0.0.0.0 thirdpresence.com
 0.0.0.0 a.thirdpresence.com
 0.0.0.0 metrics.timewarnercable.com
+0.0.0.0 experience.tinypass.com
 0.0.0.0 tmathtag.com
 0.0.0.0 trackverify.com
 0.0.0.0 traffiliate.com
@@ -951,6 +958,8 @@
 0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
+0.0.0.0 inscname.net
+0.0.0.0 a021.ranker.inscname.net
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
