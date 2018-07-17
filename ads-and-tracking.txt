@@ -1,6 +1,6 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-15T14:12:22+00:00
+# Released: 2018-07-17T00:51:38+00:00
 # Count: 1074 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -194,10 +194,9 @@
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 braze.com
 0.0.0.0 yildun.iad-03.braze.com
-0.0.0.0 edge.api.brightcove.com
 0.0.0.0 f1.media.brightcove.com
 0.0.0.0 metrics.brightcove.com
-0.0.0.0 secure.brightcove.com
+0.0.0.0 www.metrics.brightcove.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 munchkin.brightfunnel.com
@@ -911,7 +910,6 @@
 0.0.0.0 mediaplanet.azureedge.net
 0.0.0.0 bidswitch.net
 0.0.0.0 x.bidswitch.net
-0.0.0.0 players.brightcove.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
 0.0.0.0 taboola.com.cdn.cloudflare.net
