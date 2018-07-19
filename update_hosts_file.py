@@ -6,6 +6,7 @@ import sys
 def parse_args() -> sys.argv:
     parser = argparse.ArgumentParser()
     parser.add_argument('--domains', '-d', default=[], nargs='+', help='Domains to add to the list')
+    parser.add_argument('--list', '-l', default='ads-and-tracking', help='Base list to use, defaults to "ads-and-tracking"')
     parser.add_argument('--update', '-u', default=False, action='store_true',
                         help='Run a full scan of the entire list - slow!')
     args = parser.parse_args()
@@ -17,8 +18,8 @@ def parse_args() -> sys.argv:
 
 def main():
     args = parse_args()
-    main_domains = hosts_tools.load_domains_from_list('ads-and-tracking.txt')
-    expanded_domains = hosts_tools.load_domains_from_list('ads-and-tracking-extended.txt')
+    main_domains = hosts_tools.load_domains_from_list(args.list + '.txt')
+    expanded_domains = hosts_tools.load_domains_from_list(args.list + '-extended.txt')
     main_domains_len_start = len(main_domains)
     expanded_domains_len_start = len(expanded_domains)
 
@@ -47,8 +48,8 @@ def main():
     print('Extended List: %s, expanded by %s' % (expanded_domains_len_end, expanded_domains_len_diff))
     print('List Difference: %s' % (expanded_domains_len_end - main_domains_len_end))
 
-    hosts_tools.write_domain_list('ads-and-tracking.txt', main_domains)
-    hosts_tools.write_domain_list('ads-and-tracking-extended.txt', expanded_domains)
+    hosts_tools.write_domain_list(args.list + '.txt', main_domains)
+    hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
 
 
 if __name__ == "__main__":
