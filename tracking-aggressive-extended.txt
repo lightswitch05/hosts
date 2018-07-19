@@ -1,0 +1,36 @@
+# Collection of Analytics, Ads, and tracking hosts to block.
+#
+# Released: 2018-07-19T10:55:02+00:00
+# Count: 14 domains
+# Details: https://github.com/lightswitch05/hosts
+# Issues: https://github.com/lightswitch05/hosts/issues
+# Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
+#
+# Copyright 2018 Daniel White
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+# 
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+0.0.0.0 geoip.businessinsider.com
+0.0.0.0 myip.dnsomatic.com
+0.0.0.0 chromecontentsuggestions-pa.googleapis.com
+0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
+0.0.0.0 share.microsoft.com
+0.0.0.0 geoip.newsdev.nytimes.com
+0.0.0.0 lb.geo.office365.com
+0.0.0.0 consumer.entitlement.skype.com
+0.0.0.0 calling.consumer.entitlement.skype.com
+0.0.0.0 campaign.consumer.entitlement.skype.com
+0.0.0.0 secure.consumer.entitlement.skype.com
+0.0.0.0 samsungresources.visionobjects.com
+0.0.0.0 weather.wapp.wii.com
+0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
