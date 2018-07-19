@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-19T03:28:35+00:00
-# Count: 1079 domains
+# Released: 2018-07-19T15:44:08+00:00
+# Count: 1083 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -189,6 +189,7 @@
 0.0.0.0 adserver.bestcontentonline.com
 0.0.0.0 bfmio.com
 0.0.0.0 ioms.bfmio.com
+0.0.0.0 bizible.com
 0.0.0.0 blismedia.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 metrics.boostmobile.com
@@ -538,6 +539,8 @@
 0.0.0.0 cdn.prod.paperg.com
 0.0.0.0 pardot.com
 0.0.0.0 parsely.com
+0.0.0.0 pathful.com
+0.0.0.0 ssl.pathful.com
 0.0.0.0 pixel.perceptlink.com
 0.0.0.0 pgcollect.com
 0.0.0.0 metrics.phonegap.com
@@ -936,6 +939,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
+0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net

@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-19T03:28:35+00:00
-# Count: 7591 domains
+# Released: 2018-07-19T15:44:08+00:00
+# Count: 7618 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1095,6 +1095,22 @@
 0.0.0.0 display.bfmio.com
 0.0.0.0 io-cdn.bfmio.com
 0.0.0.0 ioms.bfmio.com
+0.0.0.0 bizible.com
+0.0.0.0 apps.bizible.com
+0.0.0.0 awesome.bizible.com
+0.0.0.0 www.awesome.bizible.com
+0.0.0.0 cdn.bizible.com
+0.0.0.0 www.cdn.bizible.com
+0.0.0.0 edgecdn.bizible.com
+0.0.0.0 email.bizible.com
+0.0.0.0 info.bizible.com
+0.0.0.0 info2.bizible.com
+0.0.0.0 learn.bizible.com
+0.0.0.0 www.learn.bizible.com
+0.0.0.0 roi.bizible.com
+0.0.0.0 sf.bizible.com
+0.0.0.0 support.bizible.com
+0.0.0.0 www.bizible.com
 0.0.0.0 blismedia.com
 0.0.0.0 lb.infinity.blismedia.com
 0.0.0.0 rtb.infinity.blismedia.com
@@ -5026,6 +5042,16 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 statusbeta.parsely.com
 0.0.0.0 www.parsely.com
+0.0.0.0 pathful.com
+0.0.0.0 app.pathful.com
+0.0.0.0 www.app.pathful.com
+0.0.0.0 data.pathful.com
+0.0.0.0 www.data.pathful.com
+0.0.0.0 ssl.pathful.com
+0.0.0.0 www.ssl.pathful.com
+0.0.0.0 ssl2.pathful.com
+0.0.0.0 www.ssl2.pathful.com
+0.0.0.0 www.pathful.com
 0.0.0.0 pixel.perceptlink.com
 0.0.0.0 pgcollect.com
 0.0.0.0 pixel.pgcollect.com
@@ -6667,6 +6693,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
+0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 fr.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
