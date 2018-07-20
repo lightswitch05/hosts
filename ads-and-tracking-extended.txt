@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-20T20:00:32+00:00
-# Count: 7618 domains
+# Released: 2018-07-20T20:36:52+00:00
+# Count: 7629 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -116,6 +116,7 @@
 0.0.0.0 www.pixel.adcrowd.com
 0.0.0.0 test2017.adcrowd.com
 0.0.0.0 www.adcrowd.com
+0.0.0.0 stats.addsearch.com
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 www.static.addtoany.com
@@ -1095,6 +1096,7 @@
 0.0.0.0 display.bfmio.com
 0.0.0.0 io-cdn.bfmio.com
 0.0.0.0 ioms.bfmio.com
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 bizible.com
 0.0.0.0 apps.bizible.com
 0.0.0.0 awesome.bizible.com
@@ -5981,6 +5983,8 @@
 0.0.0.0 tools.valassisdigital.com
 0.0.0.0 www.tools.valassisdigital.com
 0.0.0.0 adserver.valuemd.com
+0.0.0.0 track.venatusmedia.com
+0.0.0.0 www.venatusmedia.com
 0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vicedata.com
 0.0.0.0 blog.vicedata.com
@@ -6075,6 +6079,13 @@
 0.0.0.0 secfld.vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
 0.0.0.0 vcsa.vmware.com
+0.0.0.0 vntsm.com
+0.0.0.0 cdn1.vntsm.com
+0.0.0.0 cdn1-marketplace.vntsm.com
+0.0.0.0 cdn2-marketplace.vntsm.com
+0.0.0.0 core.vntsm.com
+0.0.0.0 hb.vntsm.com
+0.0.0.0 hb-config.vntsm.com
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 vungle.com
 0.0.0.0 api.vungle.com
