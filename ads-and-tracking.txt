@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-20T20:36:52+00:00
-# Count: 1094 domains
+# Released: 2018-07-22T14:43:22+00:00
+# Count: 1108 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -34,6 +34,8 @@
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 accessiblemetrics.com
 0.0.0.0 adserver.aceofmedia.com
+0.0.0.0 ad-score.com
+0.0.0.0 data.ad-score.com
 0.0.0.0 adbiq.com
 0.0.0.0 adbull.com
 0.0.0.0 adcolony.com
@@ -223,6 +225,7 @@
 0.0.0.0 v5.chartboost.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
+0.0.0.0 analytics.civicplus.com
 0.0.0.0 clearbit.com
 0.0.0.0 clickconvertsell.com
 0.0.0.0 clrstm.com
@@ -247,6 +250,8 @@
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 metrics.crateandbarrel.com
+0.0.0.0 crazyclickstats.com
+0.0.0.0 events.crazyclickstats.com
 0.0.0.0 insights.creativeallies.com
 0.0.0.0 sponge.creditkarma.com
 0.0.0.0 metrics.creditreport.com
@@ -326,6 +331,8 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 gateway.foresee.com
 0.0.0.0 record.foresee.com
+0.0.0.0 fqtag.com
+0.0.0.0 s.fqtag.com
 0.0.0.0 franklyinc.com
 0.0.0.0 ngw-static.franklyinc.com
 0.0.0.0 metrics.freecreditscore.com
@@ -401,6 +408,8 @@
 0.0.0.0 sync.jivox.com
 0.0.0.0 juicemobile.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 kampyle.com
+0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 kargo.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 khingtracking.com
@@ -435,6 +444,7 @@
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-sj04.marketo.com
+0.0.0.0 app-sj08.marketo.com
 0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 marketolive.com
 0.0.0.0 mathtag.com
@@ -445,6 +455,7 @@
 0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
+0.0.0.0 survey.medallia.com
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
@@ -454,6 +465,7 @@
 0.0.0.0 dc.applicationinsights.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 bling2.midasplayer.com
+0.0.0.0 bws3.midasplayer.com
 0.0.0.0 p.midasplayer.com
 0.0.0.0 prs3.midasplayer.com
 0.0.0.0 soda1.midasplayer.com
@@ -576,6 +588,8 @@
 0.0.0.0 pushspring.com
 0.0.0.0 api.pushspring.com
 0.0.0.0 bugly.qq.com
+0.0.0.0 qualtrics.com
+0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 quantserve.com
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 px.quantserve.com

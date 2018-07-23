@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-19T14:43:07+00:00
-# Count: 91 domains
+# Released: 2018-07-22T14:57:04+00:00
+# Count: 161 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -51,6 +51,38 @@
 0.0.0.0 ldap01.service.flipboard.com
 0.0.0.0 ldap01-test.service.flipboard.com
 0.0.0.0 www.flipboard.com
+0.0.0.0 glympse.com
+0.0.0.0 api.glympse.com
+0.0.0.0 motd.api.glympse.com
+0.0.0.0 blog.glympse.com
+0.0.0.0 business.glympse.com
+0.0.0.0 content.glympse.com
+0.0.0.0 dev.glympse.com
+0.0.0.0 api.dev.glympse.com
+0.0.0.0 www.api.dev.glympse.com
+0.0.0.0 developer.glympse.com
+0.0.0.0 enterprise.glympse.com
+0.0.0.0 hackathon.glympse.com
+0.0.0.0 api.ipv6.glympse.com
+0.0.0.0 product.glympse.com
+0.0.0.0 itt.proxy.glympse.com
+0.0.0.0 kibana.n0.production.proxy.glympse.com
+0.0.0.0 itt.s0.production.proxy.glympse.com
+0.0.0.0 kibana.s0.production.proxy.glympse.com
+0.0.0.0 kibana.s1.production.proxy.glympse.com
+0.0.0.0 kibana.n0.sandbox.proxy.glympse.com
+0.0.0.0 kibana.s0.sandbox.proxy.glympse.com
+0.0.0.0 kibana.s1.sandbox.proxy.glympse.com
+0.0.0.0 remote.glympse.com
+0.0.0.0 sandbox.glympse.com
+0.0.0.0 api.sandbox.glympse.com
+0.0.0.0 motd.api.sandbox.glympse.com
+0.0.0.0 services.glympse.com
+0.0.0.0 snapshot.glympse.com
+0.0.0.0 upload.glympse.com
+0.0.0.0 east.vpn.glympse.com
+0.0.0.0 west.vpn.glympse.com
+0.0.0.0 www.glympse.com
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 share.microsoft.com
@@ -111,3 +143,41 @@
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 status.ampproject.org
 0.0.0.0 www.ampproject.org
+0.0.0.0 tawk.to
+0.0.0.0 devph.tawk.to
+0.0.0.0 www.devph.tawk.to
+0.0.0.0 level2.tawk.to
+0.0.0.0 phdev.tawk.to
+0.0.0.0 cpanel.phdev.tawk.to
+0.0.0.0 drupal-main.phdev.tawk.to
+0.0.0.0 www.drupal-main.phdev.tawk.to
+0.0.0.0 drupal-site1.phdev.tawk.to
+0.0.0.0 www.drupal-site1.phdev.tawk.to
+0.0.0.0 drupal8-main.phdev.tawk.to
+0.0.0.0 www.drupal8-main.phdev.tawk.to
+0.0.0.0 drupal8-site1.phdev.tawk.to
+0.0.0.0 www.drupal8-site1.phdev.tawk.to
+0.0.0.0 mail.phdev.tawk.to
+0.0.0.0 opencart1-main.phdev.tawk.to
+0.0.0.0 www.opencart1-main.phdev.tawk.to
+0.0.0.0 opencart1-sub.phdev.tawk.to
+0.0.0.0 www.opencart1-sub.phdev.tawk.to
+0.0.0.0 opencart2-main.phdev.tawk.to
+0.0.0.0 www.opencart2-main.phdev.tawk.to
+0.0.0.0 opencart3.phdev.tawk.to
+0.0.0.0 www.opencart3.phdev.tawk.to
+0.0.0.0 prestashop-eu.phdev.tawk.to
+0.0.0.0 www.prestashop-eu.phdev.tawk.to
+0.0.0.0 prestashop-main.phdev.tawk.to
+0.0.0.0 www.prestashop-main.phdev.tawk.to
+0.0.0.0 prestashop-us.phdev.tawk.to
+0.0.0.0 www.prestashop-us.phdev.tawk.to
+0.0.0.0 prestashop16.phdev.tawk.to
+0.0.0.0 www.prestashop16.phdev.tawk.to
+0.0.0.0 prestashop17.phdev.tawk.to
+0.0.0.0 www.prestashop17.phdev.tawk.to
+0.0.0.0 webdisk.phdev.tawk.to
+0.0.0.0 webmail.phdev.tawk.to
+0.0.0.0 wordpress48.phdev.tawk.to
+0.0.0.0 www.wordpress48.phdev.tawk.to
+0.0.0.0 www.phdev.tawk.to

@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-19T14:43:07+00:00
-# Count: 26 domains
+# Released: 2018-07-22T14:57:04+00:00
+# Count: 28 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -28,6 +28,7 @@
 0.0.0.0 myip.dnsomatic.com
 0.0.0.0 flipboard.com
 0.0.0.0 api.flipboard.com
+0.0.0.0 glympse.com
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 share.microsoft.com
@@ -46,3 +47,4 @@
 0.0.0.0 asimov.vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 ampproject.org
+0.0.0.0 tawk.to

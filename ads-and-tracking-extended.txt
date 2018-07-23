@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-20T20:36:52+00:00
-# Count: 7629 domains
+# Released: 2018-07-22T14:43:22+00:00
+# Count: 7712 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -80,6 +80,13 @@
 0.0.0.0 webmail.accessiblemetrics.com
 0.0.0.0 www.accessiblemetrics.com
 0.0.0.0 adserver.aceofmedia.com
+0.0.0.0 ad-score.com
+0.0.0.0 data.ad-score.com
+0.0.0.0 www.data.ad-score.com
+0.0.0.0 fw.ad-score.com
+0.0.0.0 js.ad-score.com
+0.0.0.0 www.js.ad-score.com
+0.0.0.0 rdrs.ad-score.com
 0.0.0.0 adbiq.com
 0.0.0.0 c.adbiq.com
 0.0.0.0 click.adbiq.com
@@ -1229,6 +1236,7 @@
 0.0.0.0 www.chartboost.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
+0.0.0.0 analytics.civicplus.com
 0.0.0.0 clearbit.com
 0.0.0.0 blog.clearbit.com
 0.0.0.0 guides.clearbit.com
@@ -1326,6 +1334,8 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 support.crashlytics.com
 0.0.0.0 metrics.crateandbarrel.com
+0.0.0.0 crazyclickstats.com
+0.0.0.0 events.crazyclickstats.com
 0.0.0.0 insights.creativeallies.com
 0.0.0.0 sponge.creditkarma.com
 0.0.0.0 metrics.creditreport.com
@@ -3643,6 +3653,17 @@
 0.0.0.0 webmail.foresee.com
 0.0.0.0 www.webmail.foresee.com
 0.0.0.0 winexch1dca.foresee.com
+0.0.0.0 fqtag.com
+0.0.0.0 a.fqtag.com
+0.0.0.0 c.fqtag.com
+0.0.0.0 cdn.fqtag.com
+0.0.0.0 legacy.fqtag.com
+0.0.0.0 new.fqtag.com
+0.0.0.0 prebid.fqtag.com
+0.0.0.0 query.fqtag.com
+0.0.0.0 s.fqtag.com
+0.0.0.0 testle.fqtag.com
+0.0.0.0 www.fqtag.com
 0.0.0.0 franklyinc.com
 0.0.0.0 api.franklyinc.com
 0.0.0.0 cert1.franklyinc.com
@@ -4217,6 +4238,16 @@
 0.0.0.0 when-pigs-fly.juicemobile.com
 0.0.0.0 www.juicemobile.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 kampyle.com
+0.0.0.0 assets.kampyle.com
+0.0.0.0 demo.kampyle.com
+0.0.0.0 discover.kampyle.com
+0.0.0.0 eu.kampyle.com
+0.0.0.0 metrics.kampyle.com
+0.0.0.0 www.metrics.kampyle.com
+0.0.0.0 nebula-cdn.kampyle.com
+0.0.0.0 www.kampyle.com
+0.0.0.0 www2.kampyle.com
 0.0.0.0 kargo.com
 0.0.0.0 app.kargo.com
 0.0.0.0 aws.kargo.com
@@ -4512,6 +4543,7 @@
 0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app-nation.marketo.com
 0.0.0.0 app-sj04.marketo.com
+0.0.0.0 app-sj08.marketo.com
 0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 autocukejvmab26a.marketo.com
 0.0.0.0 blog.marketo.com
@@ -4628,6 +4660,19 @@
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 www.measuread.com
+0.0.0.0 survey.medallia.com
+0.0.0.0 ap.cdn.survey.medallia.com
+0.0.0.0 www.ap.cdn.survey.medallia.com
+0.0.0.0 ca.cdn.survey.medallia.com
+0.0.0.0 www.ca.cdn.survey.medallia.com
+0.0.0.0 den.cdn.survey.medallia.com
+0.0.0.0 www.den.cdn.survey.medallia.com
+0.0.0.0 eu.cdn.survey.medallia.com
+0.0.0.0 www.eu.cdn.survey.medallia.com
+0.0.0.0 ger.cdn.survey.medallia.com
+0.0.0.0 www.ger.cdn.survey.medallia.com
+0.0.0.0 us.cdn.survey.medallia.com
+0.0.0.0 www.us.cdn.survey.medallia.com
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
@@ -4653,6 +4698,7 @@
 0.0.0.0 bling1.midasplayer.com
 0.0.0.0 bling2.midasplayer.com
 0.0.0.0 bw1.midasplayer.com
+0.0.0.0 bws3.midasplayer.com
 0.0.0.0 cc1.midasplayer.com
 0.0.0.0 corp.midasplayer.com
 0.0.0.0 da.midasplayer.com
@@ -5145,6 +5191,43 @@
 0.0.0.0 www.pushspring.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
+0.0.0.0 qualtrics.com
+0.0.0.0 akamaisan.qualtrics.com
+0.0.0.0 akamaisecure.qualtrics.com
+0.0.0.0 www.akamaisecure.qualtrics.com
+0.0.0.0 akamaisecure2.qualtrics.com
+0.0.0.0 akamaisecure3.qualtrics.com
+0.0.0.0 akamaisecure4.qualtrics.com
+0.0.0.0 api.qualtrics.com
+0.0.0.0 asia.qualtrics.com
+0.0.0.0 au1.qualtrics.com
+0.0.0.0 az1.qualtrics.com
+0.0.0.0 b1-prv.qualtrics.com
+0.0.0.0 s1.b1-prv.qualtrics.com
+0.0.0.0 basecamp.qualtrics.com
+0.0.0.0 ca1.qualtrics.com
+0.0.0.0 co1.qualtrics.com
+0.0.0.0 corp.qualtrics.com
+0.0.0.0 eu.qualtrics.com
+0.0.0.0 g1-iad.qualtrics.com
+0.0.0.0 s1.g1-iad.qualtrics.com
+0.0.0.0 get.qualtrics.com
+0.0.0.0 www.get.qualtrics.com
+0.0.0.0 go2.qualtrics.com
+0.0.0.0 gov1.qualtrics.com
+0.0.0.0 iad1.qualtrics.com
+0.0.0.0 network.qualtrics.com
+0.0.0.0 pages.qualtrics.com
+0.0.0.0 reporting.qualtrics.com
+0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 gov1.siteintercept.qualtrics.com
+0.0.0.0 sjc1.qualtrics.com
+0.0.0.0 st3.qualtrics.com
+0.0.0.0 s1.st3.qualtrics.com
+0.0.0.0 success.qualtrics.com
+0.0.0.0 us.qualtrics.com
+0.0.0.0 us2.qualtrics.com
+0.0.0.0 ut1.qualtrics.com
 0.0.0.0 quantserve.com
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 c.quantserve.com
