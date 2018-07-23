@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-22T14:43:22+00:00
-# Count: 1108 domains
+# Released: 2018-07-23T13:20:03+00:00
+# Count: 1107 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -205,6 +205,8 @@
 0.0.0.0 brightfunnel.com
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 munchkin.brightfunnel.com
+0.0.0.0 browserhawk.com
+0.0.0.0 lib.browserhawk.com
 0.0.0.0 btstatic.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 bucksense.com
@@ -365,6 +367,7 @@
 0.0.0.0 static.h-bid.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
+0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
@@ -419,6 +422,7 @@
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 assets.kochava.com
 0.0.0.0 imp.control.kochava.com
+0.0.0.0 sstats.kroger.com
 0.0.0.0 static.lakana.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 lfstmedia.com
