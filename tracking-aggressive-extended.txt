@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-22T14:57:04+00:00
-# Count: 161 domains
+# Released: 2018-07-23T00:39:57+00:00
+# Count: 176 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -86,6 +86,21 @@
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 share.microsoft.com
+0.0.0.0 narvar.com
+0.0.0.0 analytics.narvar.com
+0.0.0.0 assets.narvar.com
+0.0.0.0 bedbathandbeyond.narvar.com
+0.0.0.0 beta.narvar.com
+0.0.0.0 www.beta.narvar.com
+0.0.0.0 betasupport.narvar.com
+0.0.0.0 developer.narvar.com
+0.0.0.0 discuss.narvar.com
+0.0.0.0 hello.narvar.com
+0.0.0.0 qa-assets.narvar.com
+0.0.0.0 see.narvar.com
+0.0.0.0 support.narvar.com
+0.0.0.0 tracking-assets-prod01.narvar.com
+0.0.0.0 www.narvar.com
 0.0.0.0 geoip.newsdev.nytimes.com
 0.0.0.0 geo.office365.com
 0.0.0.0 lb.geo.office365.com
