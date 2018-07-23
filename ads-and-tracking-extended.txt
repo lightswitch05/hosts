@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-23T13:20:03+00:00
-# Count: 7703 domains
+# Released: 2018-07-23T13:29:32+00:00
+# Count: 7708 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1777,6 +1777,7 @@
 0.0.0.0 enhancedtrk.com
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
 0.0.0.0 eqads.com
+0.0.0.0 ads.eqads.com
 0.0.0.0 ads2.eqads.com
 0.0.0.0 w.ads2.eqads.com
 0.0.0.0 cdn.eqads.com
@@ -6342,6 +6343,8 @@
 0.0.0.0 pubsupport.yext.com
 0.0.0.0 review.yext.com
 0.0.0.0 www.review.yext.com
+0.0.0.0 success.yext.com
+0.0.0.0 www.success.yext.com
 0.0.0.0 support.yext.com
 0.0.0.0 sustainability.yext.com
 0.0.0.0 techops.yext.com
@@ -7040,6 +7043,7 @@
 0.0.0.0 ad2.monetate.net
 0.0.0.0 af.monetate.net
 0.0.0.0 af2.monetate.net
+0.0.0.0 engine.monetate.net
 0.0.0.0 marketer.monetate.net
 0.0.0.0 marketer-next-release.monetate.net
 0.0.0.0 sb.monetate.net
@@ -7372,6 +7376,7 @@
 0.0.0.0 pull.docker.adsrvr.org
 0.0.0.0 push.docker.adsrvr.org
 0.0.0.0 test.docker.adsrvr.org
+0.0.0.0 foreman.adsrvr.org
 0.0.0.0 idp.adsrvr.org
 0.0.0.0 ops-self-service.adsrvr.org
 0.0.0.0 snap.adsrvr.org
