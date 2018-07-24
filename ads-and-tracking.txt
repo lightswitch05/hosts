@@ -1,6 +1,6 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-23T13:29:32+00:00
+# Released: 2018-07-24T15:22:01+00:00
 # Count: 1107 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -517,6 +517,7 @@
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
+0.0.0.0 feed-player-service.prod.ndnops.com
 0.0.0.0 adserver.netcollins.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
@@ -1005,7 +1006,6 @@
 0.0.0.0 js.hscta.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
-0.0.0.0 inscname.net
 0.0.0.0 a021.ranker.inscname.net
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net

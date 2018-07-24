@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-23T13:29:32+00:00
-# Count: 7708 domains
+# Released: 2018-07-24T15:22:02+00:00
+# Count: 7694 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1781,6 +1781,7 @@
 0.0.0.0 ads2.eqads.com
 0.0.0.0 w.ads2.eqads.com
 0.0.0.0 cdn.eqads.com
+0.0.0.0 scratch.eqads.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 essads.com
 0.0.0.0 client-api.essads.com
@@ -4518,6 +4519,7 @@
 0.0.0.0 profileview.localytics.com
 0.0.0.0 sandbox53.localytics.com
 0.0.0.0 api.sandbox53.localytics.com
+0.0.0.0 api.tutorial.env.sandbox53.localytics.com
 0.0.0.0 neophyte.sandbox53.localytics.com
 0.0.0.0 spa-login-ui.sandbox53.localytics.com
 0.0.0.0 spa-orch-ui.sandbox53.localytics.com
@@ -4889,6 +4891,7 @@
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
+0.0.0.0 feed-player-service.prod.ndnops.com
 0.0.0.0 adserver.netcollins.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
@@ -6944,25 +6947,7 @@
 0.0.0.0 rg2.staging.imprev.net
 0.0.0.0 rw.staging.imprev.net
 0.0.0.0 testcluster.imprev.net
-0.0.0.0 inscname.net
-0.0.0.0 a23.boston.inscname.net
-0.0.0.0 a001.bostonglobe.inscname.net
-0.0.0.0 cnet.inscname.net
-0.0.0.0 cnet-wildcard.inscname.net
-0.0.0.0 msn.inscname.net
 0.0.0.0 a021.ranker.inscname.net
-0.0.0.0 telstra.inscname.net
-0.0.0.0 model.telstra.inscname.net
-0.0.0.0 oneapp.telstra.inscname.net
-0.0.0.0 oneappmodel.telstra.inscname.net
-0.0.0.0 a007.timeanddate.inscname.net
-0.0.0.0 a004.tronc.inscname.net
-0.0.0.0 a008.tronc.inscname.net
-0.0.0.0 a013.tronc.inscname.net
-0.0.0.0 a015.tronc.inscname.net
-0.0.0.0 a017.tronc.inscname.net
-0.0.0.0 a001.weather.inscname.net
-0.0.0.0 a001.zamnetwork.inscname.net
 0.0.0.0 intentmedia.net
 0.0.0.0 eu.a.intentmedia.net
 0.0.0.0 adcache.intentmedia.net
@@ -7450,6 +7435,7 @@
 0.0.0.0 triboo.mgr.consensu.org
 0.0.0.0 www.triboo.mgr.consensu.org
 0.0.0.0 cmp.uniconsent.mgr.consensu.org
+0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 unveilmedia.mgr.consensu.org
 0.0.0.0 www.unveilmedia.mgr.consensu.org
 0.0.0.0 vibrant.mgr.consensu.org
