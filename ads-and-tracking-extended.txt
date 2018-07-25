@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-24T15:22:02+00:00
-# Count: 7694 domains
+# Released: 2018-07-25T12:56:24+00:00
+# Count: 7751 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -29,6 +29,12 @@
 0.0.0.0 log.intellimize.co
 0.0.0.0 www.log.intellimize.co
 0.0.0.0 www.intellimize.co
+0.0.0.0 leadpages.co
+0.0.0.0 consulting.mywebsite.com.askronwilliams.leadpages.co
+0.0.0.0 innovatemontana.leadpages.co
+0.0.0.0 kellyholmes.leadpages.co
+0.0.0.0 leivonta.leadpages.co
+0.0.0.0 soap17.leadpages.co
 0.0.0.0 33across.com
 0.0.0.0 blog.33across.com
 0.0.0.0 cms-xch.33across.com
@@ -1018,6 +1024,7 @@
 0.0.0.0 www.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sl-native-android-hm-logging.appspot.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
@@ -5527,8 +5534,56 @@
 0.0.0.0 www.siliconorchard.com
 0.0.0.0 zaap.siliconorchard.com
 0.0.0.0 www.zaap.siliconorchard.com
+0.0.0.0 promotions.skype.com
+0.0.0.0 api.promotions.skype.com
+0.0.0.0 bo.promotions.skype.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
+0.0.0.0 snapads.com
+0.0.0.0 ads-stats-limiter-shadow.snapads.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 use.adserver.snapads.com
+0.0.0.0 adstats.snapads.com
+0.0.0.0 adstats-shadow.snapads.com
+0.0.0.0 asap-task-scheduler.snapads.com
+0.0.0.0 asap-task-scheduler-shadow.snapads.com
+0.0.0.0 asap-task-scheduler-staging.snapads.com
+0.0.0.0 attribution.snapads.com
+0.0.0.0 bid.snapads.com
+0.0.0.0 shadow.bid.snapads.com
+0.0.0.0 staging.bid.snapads.com
+0.0.0.0 delivery-forensics.snapads.com
+0.0.0.0 delivery-insights.snapads.com
+0.0.0.0 forecast.snapads.com
+0.0.0.0 shadow.forecast.snapads.com
+0.0.0.0 staging.forecast.snapads.com
+0.0.0.0 kg.snapads.com
+0.0.0.0 measurement.snapads.com
+0.0.0.0 measurement-staging.snapads.com
+0.0.0.0 outcome.snapads.com
+0.0.0.0 shadow.outcome.snapads.com
+0.0.0.0 staging.outcome.snapads.com
+0.0.0.0 psyduck-limiter-prod.snapads.com
+0.0.0.0 psyduck-limiter-shadow.snapads.com
+0.0.0.0 psyduck-limiter-staging.snapads.com
+0.0.0.0 sam.snapads.com
+0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 adserver.staging.snapads.com
+0.0.0.0 stats-reporting-server-prod.snapads.com
+0.0.0.0 stats-reporting-server-shadow.snapads.com
+0.0.0.0 stats-reporting-server-staging.snapads.com
+0.0.0.0 study.snapads.com
+0.0.0.0 study-dev.snapads.com
+0.0.0.0 study-shadow.snapads.com
+0.0.0.0 study-staging.snapads.com
+0.0.0.0 targeting.snapads.com
+0.0.0.0 targeting-insight.snapads.com
+0.0.0.0 targeting-shadow.snapads.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 staging.app-analytics.snapchat.com
 0.0.0.0 pixel.socialtyze.com
 0.0.0.0 sonobi.com
 0.0.0.0 api.sonobi.com
@@ -5849,6 +5904,7 @@
 0.0.0.0 www.thirdpresence.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tmathtag.com
 0.0.0.0 mail.tmathtag.com
 0.0.0.0 owa.tmathtag.com
@@ -6584,6 +6640,7 @@
 0.0.0.0 docs.metrics.readme.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
+0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
 0.0.0.0 labs.tabmo.io
