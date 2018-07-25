@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-24T15:22:01+00:00
-# Count: 1107 domains
+# Released: 2018-07-25T12:56:24+00:00
+# Count: 1118 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -23,6 +23,8 @@
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
+0.0.0.0 leadpages.co
+0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 33across.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 3lift.com
@@ -168,6 +170,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sl-native-android-hm-logging.appspot.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
@@ -651,8 +654,14 @@
 0.0.0.0 match-us-east-1.sharethrough.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
+0.0.0.0 promotions.skype.com
+0.0.0.0 api.promotions.skype.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
+0.0.0.0 snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 pixel.socialtyze.com
 0.0.0.0 sonobi.com
 0.0.0.0 adeventtracker.spotify.com
@@ -717,6 +726,7 @@
 0.0.0.0 a.thirdpresence.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tmathtag.com
 0.0.0.0 trackjs.com
 0.0.0.0 capture.trackjs.com
@@ -888,6 +898,7 @@
 0.0.0.0 metrics.readme.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
+0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
 0.0.0.0 crosspromo.voodoo.io
