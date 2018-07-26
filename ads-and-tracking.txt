@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-25T12:56:24+00:00
-# Count: 1118 domains
+# Released: 2018-07-26T13:21:28+00:00
+# Count: 1138 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -44,6 +44,7 @@
 0.0.0.0 director.adcolony.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 adcrowd.com
+0.0.0.0 addevent.com
 0.0.0.0 stats.addsearch.com
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
@@ -195,6 +196,8 @@
 0.0.0.0 adserver.bestcontentonline.com
 0.0.0.0 bfmio.com
 0.0.0.0 ioms.bfmio.com
+0.0.0.0 bat.bing.com
+0.0.0.0 bat.bing-int.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 bizible.com
 0.0.0.0 blismedia.com
@@ -251,6 +254,9 @@
 0.0.0.0 contextweb.com
 0.0.0.0 lga-bid-bgp.contextweb.com
 0.0.0.0 dishdigital.sp1.convertro.com
+0.0.0.0 cquotient.com
+0.0.0.0 e.cquotient.com
+0.0.0.0 p.cquotient.com
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 settings.crashlytics.com
@@ -268,6 +274,8 @@
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
 0.0.0.0 metrics.deloitte.com
+0.0.0.0 demandbase.com
+0.0.0.0 tag.demandbase.com
 0.0.0.0 adserver.densitymedia.com
 0.0.0.0 srepdata.desmoinesregister.com
 0.0.0.0 user.desmoinesregister.com
@@ -300,6 +308,7 @@
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
 0.0.0.0 en25.com
+0.0.0.0 img04.en25.com
 0.0.0.0 engagio.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 enhanced2trk.com
@@ -450,6 +459,7 @@
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
+0.0.0.0 app-abc.marketo.com
 0.0.0.0 app-sj04.marketo.com
 0.0.0.0 app-sj08.marketo.com
 0.0.0.0 app-sjo5.marketo.com
@@ -511,12 +521,14 @@
 0.0.0.0 s.mopub.com
 0.0.0.0 metrics.mozilla.com
 0.0.0.0 identity.mparticle.com
+0.0.0.0 mplxtms.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 mynativeplatform.com
 0.0.0.0 cks.mynativeplatform.com
 0.0.0.0 n131adserv.com
 0.0.0.0 analytics.narvar.com
+0.0.0.0 shutterfly.narvar.com
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
@@ -633,6 +645,8 @@
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 ryke4peep.com
+0.0.0.0 secure.ryke4peep.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 beacon.samsclub.com
@@ -724,6 +738,9 @@
 0.0.0.0 metrics.thepointsguy.com
 0.0.0.0 thirdpresence.com
 0.0.0.0 a.thirdpresence.com
+0.0.0.0 thunderhead.com
+0.0.0.0 eu2.thunderhead.com
+0.0.0.0 na5.thunderhead.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -891,6 +908,8 @@
 0.0.0.0 lytics.io
 0.0.0.0 api.lytics.io
 0.0.0.0 c.lytics.io
+0.0.0.0 marchex.io
+0.0.0.0 rw1.marchex.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
 0.0.0.0 piwik.privacytools.io
@@ -943,6 +962,7 @@
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
+0.0.0.0 cs531.wac.alphacdn.net
 0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 dcs-vod.apis.anvato.net
 0.0.0.0 tkx.apis.anvato.net
