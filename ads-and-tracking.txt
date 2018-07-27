@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-26T13:21:28+00:00
-# Count: 1138 domains
+# Released: 2018-07-27T12:21:25+00:00
+# Count: 1141 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -883,6 +883,7 @@
 0.0.0.0 adserver.webstatsserver.de
 0.0.0.0 braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 keepass.fr
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -990,6 +991,7 @@
 0.0.0.0 crackle.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 ubisoftinternational.demdex.net
+0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
 0.0.0.0 doubleclick.net
 0.0.0.0 fls.doubleclick.net
@@ -1061,6 +1063,7 @@
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
+0.0.0.0 vanguard.d2.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
