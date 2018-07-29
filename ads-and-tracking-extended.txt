@@ -1,6 +1,6 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-27T12:21:25+00:00
+# Released: 2018-07-29T20:04:38+00:00
 # Count: 7926 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -253,6 +253,8 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 tap.ads-twitter.com
 0.0.0.0 www.ads-twitter.com
+0.0.0.0 adsorb.com
+0.0.0.0 collect.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 adsttc.com
 0.0.0.0 afd.adsttc.com
@@ -2288,6 +2290,13 @@
 0.0.0.0 fanbread.com
 0.0.0.0 s1.fanbread.com
 0.0.0.0 s2.fanbread.com
+0.0.0.0 fgl.com
+0.0.0.0 blog.fgl.com
+0.0.0.0 dashboard.fgl.com
+0.0.0.0 enhance.fgl.com
+0.0.0.0 enhance-config.fgl.com
+0.0.0.0 home.fgl.com
+0.0.0.0 home-staging.fgl.com
 0.0.0.0 metrics.fidelity.com
 0.0.0.0 www.metrics.fidelity.com
 0.0.0.0 fiksu.com
@@ -4630,6 +4639,7 @@
 0.0.0.0 data.m-freeway.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 www.m-freeway.com
+0.0.0.0 magic-analytics.magmic.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 marinsm.com
 0.0.0.0 pro.marinsm.com
