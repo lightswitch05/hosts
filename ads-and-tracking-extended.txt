@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-27T12:21:25+00:00
-# Count: 7926 domains
+# Released: 2018-07-30T13:58:55+00:00
+# Count: 7987 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -219,6 +219,22 @@
 0.0.0.0 ml.adrelevantis.com
 0.0.0.0 product.adrelevantis.com
 0.0.0.0 www.adrelevantis.com
+0.0.0.0 adrizer.com
+0.0.0.0 dashboard.adrizer.com
+0.0.0.0 www.dashboard.adrizer.com
+0.0.0.0 hooli.adrizer.com
+0.0.0.0 www.hooli.adrizer.com
+0.0.0.0 intersite.adrizer.com
+0.0.0.0 www.intersite.adrizer.com
+0.0.0.0 nucleus.adrizer.com
+0.0.0.0 periphery.adrizer.com
+0.0.0.0 pixel.adrizer.com
+0.0.0.0 www.pixel.adrizer.com
+0.0.0.0 recruiting.adrizer.com
+0.0.0.0 run.adrizer.com
+0.0.0.0 tanooki.adrizer.com
+0.0.0.0 toad.adrizer.com
+0.0.0.0 www.adrizer.com
 0.0.0.0 adroll.com
 0.0.0.0 blog.adroll.com
 0.0.0.0 content.adroll.com
@@ -713,6 +729,13 @@
 0.0.0.0 webmail.airvertiseme.com
 0.0.0.0 www.airvertiseme.com
 0.0.0.0 adserver.akamanda.com
+0.0.0.0 alexametrics.com
+0.0.0.0 certify.alexametrics.com
+0.0.0.0 certify-amp.alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
+0.0.0.0 certify-stage.alexametrics.com
+0.0.0.0 js.alexametrics.com
+0.0.0.0 pixel.alexametrics.com
 0.0.0.0 algovid.com
 0.0.0.0 a.algovid.com
 0.0.0.0 c.algovid.com
@@ -1060,6 +1083,8 @@
 0.0.0.0 www.secure.audiensis.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 www.static.audiensis.com
+0.0.0.0 awltovhc.com
+0.0.0.0 www.awltovhc.com
 0.0.0.0 b2c.com
 0.0.0.0 adserver.b2c.com
 0.0.0.0 cdn.adserver.b2c.com
@@ -1207,6 +1232,10 @@
 0.0.0.0 heatmap.buzzdeck.com
 0.0.0.0 pixel.buzzdeck.com
 0.0.0.0 www.buzzdeck.com
+0.0.0.0 campaign-archive.com
+0.0.0.0 us15.campaign-archive.com
+0.0.0.0 us16.campaign-archive.com
+0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
@@ -4512,6 +4541,13 @@
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 njadxrtb.lfstmedia.com
 0.0.0.0 s2s.lfstmedia.com
+0.0.0.0 liadm.com
+0.0.0.0 b-code.liadm.com
+0.0.0.0 ci.liadm.com
+0.0.0.0 d.liadm.com
+0.0.0.0 www.d.liadm.com
+0.0.0.0 p.liadm.com
+0.0.0.0 www.p.liadm.com
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 lijit.com
@@ -5526,6 +5562,12 @@
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 support.shareaholic.com
 0.0.0.0 www.shareaholic.com
+0.0.0.0 shareasale.com
+0.0.0.0 miner.shareasale.com
+0.0.0.0 www.miner.shareasale.com
+0.0.0.0 recruiting.shareasale.com
+0.0.0.0 www.recruiting.shareasale.com
+0.0.0.0 static.shareasale.com
 0.0.0.0 sharethis.com
 0.0.0.0 data.sharethis.com
 0.0.0.0 developer.sharethis.com
@@ -6435,6 +6477,7 @@
 0.0.0.0 playdemic.r.wbinsights.com
 0.0.0.0 zeppelin.wbinsights.com
 0.0.0.0 playdemic.zeppelin.wbinsights.com
+0.0.0.0 ad.cc.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 acquisition-tracker.wix.com
@@ -6624,6 +6667,8 @@
 0.0.0.0 braze.eu
 0.0.0.0 fra-01.braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 mediadelivery.fi
+0.0.0.0 is.mediadelivery.fi
 0.0.0.0 keepass.fr
 0.0.0.0 www.keepass.fr
 0.0.0.0 pixel.affcamp.co.in
@@ -6941,6 +6986,15 @@
 0.0.0.0 www.cxlaxexprswy01.smo.connexity.net
 0.0.0.0 cxlaxexprswy02.smo.connexity.net
 0.0.0.0 www.cxlaxexprswy02.smo.connexity.net
+0.0.0.0 content-ad.net
+0.0.0.0 api.content-ad.net
+0.0.0.0 dev1.api.content-ad.net
+0.0.0.0 dev2.api.content-ad.net
+0.0.0.0 dev3.api.content-ad.net
+0.0.0.0 banner.content-ad.net
+0.0.0.0 www.banner.content-ad.net
+0.0.0.0 click.content-ad.net
+0.0.0.0 px.content-ad.net
 0.0.0.0 criteo.net
 0.0.0.0 as.criteo.net
 0.0.0.0 hk.as.criteo.net
@@ -7209,6 +7263,9 @@
 0.0.0.0 www.link.krxd.net
 0.0.0.0 maxis.krxd.net
 0.0.0.0 userdata-maxis.krxd.net
+0.0.0.0 lsimg.net
+0.0.0.0 i.lsimg.net
+0.0.0.0 www.i.lsimg.net
 0.0.0.0 marketo.net
 0.0.0.0 atl-dc01.marketo.net
 0.0.0.0 www.atl-dc01.marketo.net
@@ -7417,6 +7474,7 @@
 0.0.0.0 white.soju.openx.net
 0.0.0.0 yellow.soju.openx.net
 0.0.0.0 us-u.openx.net
+0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 www.openx.net
 0.0.0.0 pixel.optimalq.net
 0.0.0.0 admin.pixel.optimalq.net
@@ -7570,6 +7628,9 @@
 0.0.0.0 scrserv.ad.yieldmanager.net
 0.0.0.0 srv-wa.ad.yieldmanager.net
 0.0.0.0 dp.yieldmanager.net
+0.0.0.0 ywxi.net
+0.0.0.0 cdn.ywxi.net
+0.0.0.0 www.cdn.ywxi.net
 0.0.0.0 a.pub.network
 0.0.0.0 eazybiz.ng
 0.0.0.0 apidemo.eazybiz.ng

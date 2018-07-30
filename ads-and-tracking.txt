@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-27T12:21:25+00:00
-# Count: 1141 domains
+# Released: 2018-07-30T13:58:55+00:00
+# Count: 1163 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -69,6 +69,8 @@
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
 0.0.0.0 adrelevantis.com
+0.0.0.0 adrizer.com
+0.0.0.0 run.adrizer.com
 0.0.0.0 adroll.com
 0.0.0.0 s.adroll.com
 0.0.0.0 ads-twitter.com
@@ -96,6 +98,8 @@
 0.0.0.0 px.airpr.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 adserver.akamanda.com
+0.0.0.0 alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 algovid.com
 0.0.0.0 a.algovid.com
 0.0.0.0 c.algovid.com
@@ -183,6 +187,7 @@
 0.0.0.0 analytics.atlassian.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 audiensis.com
+0.0.0.0 awltovhc.com
 0.0.0.0 b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
 0.0.0.0 metrics.barclaycardus.com
@@ -219,6 +224,8 @@
 0.0.0.0 ck.bucksense.com
 0.0.0.0 buypixelads.com
 0.0.0.0 buzzdeck.com
+0.0.0.0 campaign-archive.com
+0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
@@ -440,6 +447,8 @@
 0.0.0.0 lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 njadxrtb.lfstmedia.com
+0.0.0.0 liadm.com
+0.0.0.0 b-code.liadm.com
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 lijit.com
@@ -660,6 +669,8 @@
 0.0.0.0 invenio.sgn.com
 0.0.0.0 shareaholic.com
 0.0.0.0 apps.shareaholic.com
+0.0.0.0 shareasale.com
+0.0.0.0 static.shareasale.com
 0.0.0.0 sharethis.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 platform-api.sharethis.com
@@ -827,6 +838,7 @@
 0.0.0.0 advil.waze.com
 0.0.0.0 wbinsights.com
 0.0.0.0 event.wbinsights.com
+0.0.0.0 ad.cc.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 acquisition-tracker.wix.com
@@ -883,6 +895,8 @@
 0.0.0.0 adserver.webstatsserver.de
 0.0.0.0 braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 mediadelivery.fi
+0.0.0.0 is.mediadelivery.fi
 0.0.0.0 keepass.fr
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
@@ -983,6 +997,9 @@
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 connexity.net
 0.0.0.0 pxl.connexity.net
+0.0.0.0 content-ad.net
+0.0.0.0 api.content-ad.net
+0.0.0.0 banner.content-ad.net
 0.0.0.0 criteo.net
 0.0.0.0 pixel.criteo.net
 0.0.0.0 www.criteo.net
@@ -1044,6 +1061,8 @@
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
 0.0.0.0 krxd.net
+0.0.0.0 lsimg.net
+0.0.0.0 i.lsimg.net
 0.0.0.0 marketo.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 www.munchkin.marketo.net
@@ -1083,6 +1102,7 @@
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 us-u.openx.net
+0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 pixel.optimalq.net
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
@@ -1113,6 +1133,8 @@
 0.0.0.0 ads.wsrs.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 yieldmanager.net
+0.0.0.0 ywxi.net
+0.0.0.0 cdn.ywxi.net
 0.0.0.0 a.pub.network
 0.0.0.0 eazybiz.ng
 0.0.0.0 adsrvr.org
