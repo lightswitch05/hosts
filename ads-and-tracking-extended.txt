@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-30T13:58:55+00:00
-# Count: 7987 domains
+# Released: 2018-07-30T14:01:58+00:00
+# Count: 7988 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -20,6 +20,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 3c492da9f102528cdf3922aebf4dab0556b91ae1
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
@@ -269,6 +270,8 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 tap.ads-twitter.com
 0.0.0.0 www.ads-twitter.com
+0.0.0.0 adsorb.com
+0.0.0.0 collect.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 adsttc.com
 0.0.0.0 afd.adsttc.com
@@ -2317,6 +2320,13 @@
 0.0.0.0 fanbread.com
 0.0.0.0 s1.fanbread.com
 0.0.0.0 s2.fanbread.com
+0.0.0.0 fgl.com
+0.0.0.0 blog.fgl.com
+0.0.0.0 dashboard.fgl.com
+0.0.0.0 enhance.fgl.com
+0.0.0.0 enhance-config.fgl.com
+0.0.0.0 home.fgl.com
+0.0.0.0 home-staging.fgl.com
 0.0.0.0 metrics.fidelity.com
 0.0.0.0 www.metrics.fidelity.com
 0.0.0.0 fiksu.com
@@ -4666,6 +4676,7 @@
 0.0.0.0 data.m-freeway.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 www.m-freeway.com
+0.0.0.0 magic-analytics.magmic.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 marinsm.com
 0.0.0.0 pro.marinsm.com
@@ -6671,6 +6682,7 @@
 0.0.0.0 is.mediadelivery.fi
 0.0.0.0 keepass.fr
 0.0.0.0 www.keepass.fr
+0.0.0.0 head
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
 0.0.0.0 applifier.info
@@ -6869,7 +6881,6 @@
 0.0.0.0 www.heatmap.it
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
-0.0.0.0 buff.ly
 0.0.0.0 pixel.marketing
 0.0.0.0 clients.pixel.marketing
 0.0.0.0 www.clients.pixel.marketing
@@ -7984,16 +7995,6 @@
 0.0.0.0 wf.adserve.video
 0.0.0.0 www.wf.adserve.video
 0.0.0.0 www.adserve.video
-0.0.0.0 adis.ws
-0.0.0.0 apps.artifacts.adis.ws
-0.0.0.0 qa.aws.adis.ws
-0.0.0.0 c1.adis.ws
-0.0.0.0 dev.adis.ws
-0.0.0.0 staging-content-uat.dev.adis.ws
-0.0.0.0 apps.dev-artifacts.adis.ws
-0.0.0.0 i1.adis.ws
-0.0.0.0 i2.adis.ws
-0.0.0.0 s2.adis.ws
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 autodiscover.marketingmachine.co.za
 0.0.0.0 cpanel.marketingmachine.co.za
