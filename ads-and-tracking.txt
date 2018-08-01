@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-01T13:10:40+00:00
-# Count: 1170 domains
+# Released: 2018-08-01T20:17:33+00:00
+# Count: 1173 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -392,6 +392,7 @@
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 static.h-bid.com
+0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -1001,6 +1002,7 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
+0.0.0.0 sconsentit904.cloudapp.net
 0.0.0.0 sconsentit910.cloudapp.net
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
@@ -1030,6 +1032,7 @@
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
+0.0.0.0 cs254.wac.edgecastcdn.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
