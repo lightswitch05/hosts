@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-30T14:01:58+00:00
-# Count: 7988 domains
+# Released: 2018-08-01T13:10:40+00:00
+# Count: 7991 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1621,6 +1621,7 @@
 0.0.0.0 start.driftt.com
 0.0.0.0 status.driftt.com
 0.0.0.0 www.driftt.com
+0.0.0.0 beacon.dropbox.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 pixel.duckduckgo.com
 0.0.0.0 dynamicyield.com
@@ -3963,6 +3964,7 @@
 0.0.0.0 ldap.gaeadata.com
 0.0.0.0 ldap-admin.gaeadata.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 getsitecontrol.com
@@ -6985,6 +6987,7 @@
 0.0.0.0 www.x.bidswitch.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
+0.0.0.0 sconsentit910.cloudapp.net
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net

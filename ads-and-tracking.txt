@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-07-30T14:01:58+00:00
-# Count: 1166 domains
+# Released: 2018-08-01T13:10:40+00:00
+# Count: 1170 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -310,6 +310,7 @@
 0.0.0.0 www.drift.com
 0.0.0.0 driftt.com
 0.0.0.0 js.driftt.com
+0.0.0.0 beacon.dropbox.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 pixel.duckduckgo.com
 0.0.0.0 dynamicyield.com
@@ -334,6 +335,7 @@
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 exacttarget.com
 0.0.0.0 pages.exacttarget.com
+0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 dctk.expedia.com
 0.0.0.0 exponential.com
@@ -370,6 +372,7 @@
 0.0.0.0 gaeadata.com
 0.0.0.0 gdtmdc.gaeadata.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 getsitecontrol.com
@@ -998,6 +1001,7 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
+0.0.0.0 sconsentit910.cloudapp.net
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
