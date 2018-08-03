@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-01T20:17:33+00:00
-# Count: 7994 domains
+# Released: 2018-08-03T12:38:49+00:00
+# Count: 8045 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -35,6 +35,10 @@
 0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 leivonta.leadpages.co
 0.0.0.0 soap17.leadpages.co
+0.0.0.0 sele.co
+0.0.0.0 api.sele.co
+0.0.0.0 api-ntv.sele.co
+0.0.0.0 trk-sp.sele.co
 0.0.0.0 33across.com
 0.0.0.0 blog.33across.com
 0.0.0.0 cms-xch.33across.com
@@ -921,6 +925,8 @@
 0.0.0.0 appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 0.0.0.0 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
+0.0.0.0 api-ntv-elb-1185445618.us-east-1.elb.amazonaws.com
+0.0.0.0 beacon-17-537698933.us-east-1.elb.amazonaws.com
 0.0.0.0 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 0.0.0.0 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
 0.0.0.0 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
@@ -935,6 +941,7 @@
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
+0.0.0.0 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
@@ -1011,6 +1018,44 @@
 0.0.0.0 dmp-pixel.aolp-prd.public.aol.com
 0.0.0.0 pixel.app-cast.com
 0.0.0.0 app-measurement.com
+0.0.0.0 appdynamics.com
+0.0.0.0 analytics.appdynamics.com
+0.0.0.0 analyticstest.appdynamics.com
+0.0.0.0 api.appdynamics.com
+0.0.0.0 asset.appdynamics.com
+0.0.0.0 azure.appdynamics.com
+0.0.0.0 blog.appdynamics.com
+0.0.0.0 cdn.appdynamics.com
+0.0.0.0 community.appdynamics.com
+0.0.0.0 community-staging.appdynamics.com
+0.0.0.0 corp.appdynamics.com
+0.0.0.0 dc3.corp.appdynamics.com
+0.0.0.0 demo.appdynamics.com
+0.0.0.0 eng.appdynamics.com
+0.0.0.0 engg.appdynamics.com
+0.0.0.0 gov.appdynamics.com
+0.0.0.0 govops.appdynamics.com
+0.0.0.0 help.appdynamics.com
+0.0.0.0 info.appdynamics.com
+0.0.0.0 int.appdynamics.com
+0.0.0.0 ops.appdynamics.com
+0.0.0.0 particle.appdynamics.com
+0.0.0.0 saas.appdynamics.com
+0.0.0.0 smtp.saas.appdynamics.com
+0.0.0.0 saastest.appdynamics.com
+0.0.0.0 dev.saastest.appdynamics.com
+0.0.0.0 staging.saastest.appdynamics.com
+0.0.0.0 sampleapp.appdynamics.com
+0.0.0.0 sng-vpn.appdynamics.com
+0.0.0.0 blog.staging.appdynamics.com
+0.0.0.0 static-upload.appdynamics.com
+0.0.0.0 store.appdynamics.com
+0.0.0.0 summit.appdynamics.com
+0.0.0.0 tour.appdynamics.com
+0.0.0.0 upload.appdynamics.com
+0.0.0.0 gdpr-requests.utils.appdynamics.com
+0.0.0.0 www.appdynamics.com
+0.0.0.0 www-origin.appdynamics.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -4693,6 +4738,7 @@
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab13.marketo.com
 0.0.0.0 app-abc.marketo.com
+0.0.0.0 app-abd.marketo.com
 0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app-nation.marketo.com
 0.0.0.0 app-sj04.marketo.com
@@ -5565,6 +5611,8 @@
 0.0.0.0 scannet.ads.scanapps.com
 0.0.0.0 beacon.scanapps.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 selectablemedia.com
+0.0.0.0 cdn.selectablemedia.com
 0.0.0.0 servebom.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads-qa.servebom.com
@@ -6957,6 +7005,7 @@
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
+0.0.0.0 beacon-all.walmart.com.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
@@ -7256,6 +7305,7 @@
 0.0.0.0 webtrendsinc.https.internapcdn.net
 0.0.0.0 krxd.net
 0.0.0.0 beacon-maxis.krxd.net
+0.0.0.0 consumer.krxd.net
 0.0.0.0 foreman-a001-ash.krxd.net
 0.0.0.0 foreman-a001-dub.krxd.net
 0.0.0.0 foreman-a001-pdx.krxd.net
@@ -7416,6 +7466,7 @@
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 b.sc.omtrdc.net
 0.0.0.0 d1.sc.omtrdc.net
+0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 adpsj.ssl.d1.sc.omtrdc.net
 0.0.0.0 d2.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
@@ -7461,8 +7512,10 @@
 0.0.0.0 h-api-test.online-metrix.net
 0.0.0.0 www.h-api-test.online-metrix.net
 0.0.0.0 h-fail-test.online-metrix.net
+0.0.0.0 h-intuit.online-metrix.net
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 www.h-sdk.online-metrix.net
+0.0.0.0 h-visa2.online-metrix.net
 0.0.0.0 h-walmart.online-metrix.net
 0.0.0.0 idev.online-metrix.net
 0.0.0.0 qa2-h-api.online-metrix.net
