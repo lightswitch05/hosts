@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-01T13:06:40+00:00
-# Count: 184 domains
+# Released: 2018-08-02T17:27:04+00:00
+# Count: 185 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -87,6 +87,7 @@
 0.0.0.0 east.vpn.glympse.com
 0.0.0.0 west.vpn.glympse.com
 0.0.0.0 www.glympse.com
+0.0.0.0 appsitemsuggest-pa.googleapis.com
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 share.microsoft.com
