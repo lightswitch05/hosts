@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-06T12:40:36+00:00
-# Count: 42 domains
+# Released: 2018-08-06T15:09:25+00:00
+# Count: 43 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -61,4 +61,5 @@
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 ampproject.org
 0.0.0.0 turbotax-intuit-com.cdn.ampproject.org
+0.0.0.0 geoscripts.meredith.services
 0.0.0.0 tawk.to
