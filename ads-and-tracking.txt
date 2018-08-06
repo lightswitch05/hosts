@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-03T19:27:53+00:00
-# Count: 1191 domains
+# Released: 2018-08-06T17:08:27+00:00
+# Count: 1216 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -20,6 +20,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 beacon.tru.am
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
@@ -56,6 +57,7 @@
 0.0.0.0 adserver.adigitalrepublic.com
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
+0.0.0.0 view.adjust.com
 0.0.0.0 adkmob.com
 0.0.0.0 orionimg.adkmob.com
 0.0.0.0 admedia.com
@@ -82,6 +84,9 @@
 0.0.0.0 collect.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 adsttc.com
+0.0.0.0 afd.adsttc.com
+0.0.0.0 assets.adsttc.com
+0.0.0.0 nrd.adsttc.com
 0.0.0.0 adswizz.com
 0.0.0.0 adtilt.com
 0.0.0.0 www.adtilt.com
@@ -142,6 +147,7 @@
 0.0.0.0 dxedge-prod-lb-946522505.us-east-1.elb.amazonaws.com
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
 0.0.0.0 log-c-907025318.us-east-1.elb.amazonaws.com
+0.0.0.0 logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 0.0.0.0 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
@@ -156,8 +162,11 @@
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
+0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 amplitude.com
+0.0.0.0 cdn.amplitude.com
 0.0.0.0 analyticson.com
 0.0.0.0 metrics.ancestry.com
 0.0.0.0 aniview.com
@@ -226,6 +235,7 @@
 0.0.0.0 brightfunnel.com
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 munchkin.brightfunnel.com
+0.0.0.0 app.brightinfo.com
 0.0.0.0 browserhawk.com
 0.0.0.0 lib.browserhawk.com
 0.0.0.0 btstatic.com
@@ -340,6 +350,8 @@
 0.0.0.0 esttrk.com
 0.0.0.0 evgnet.com
 0.0.0.0 cdn.evgnet.com
+0.0.0.0 evidon.com
+0.0.0.0 c.evidon.com
 0.0.0.0 exacttarget.com
 0.0.0.0 pages.exacttarget.com
 0.0.0.0 click.virt.exacttarget.com
@@ -497,6 +509,7 @@
 0.0.0.0 ir.maxpoint.com
 0.0.0.0 mmfiles.amp.mcafee.com
 0.0.0.0 mup.amp.mcafee.com
+0.0.0.0 karma.mdpcdn.com
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 survey.medallia.com
@@ -562,6 +575,7 @@
 0.0.0.0 feed-player-service.prod.ndnops.com
 0.0.0.0 adserver.netcollins.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
+0.0.0.0 assets.customerio.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 netmng.com
 0.0.0.0 newarena.netmng.com
@@ -699,6 +713,7 @@
 0.0.0.0 match-us-east-1.sharethrough.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
+0.0.0.0 sizmek.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 smrtb.com
@@ -835,7 +850,12 @@
 0.0.0.0 adserver.viewsignage.com
 0.0.0.0 vilynx.com
 0.0.0.0 static.vilynx.com
+0.0.0.0 vindicosuite.com
+0.0.0.0 uid1.vindicosuite.com
 0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 vizury.com
+0.0.0.0 cdn25.vizury.com
+0.0.0.0 cdn6.vizury.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 secfld.vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
@@ -930,6 +950,7 @@
 0.0.0.0 backtrace.io
 0.0.0.0 bidr.io
 0.0.0.0 match.prod.bidr.io
+0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 extole.io
 0.0.0.0 origin.extole.io
 0.0.0.0 origin-2.extole.io
@@ -946,6 +967,8 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 marchex.io
 0.0.0.0 rw1.marchex.io
+0.0.0.0 cdn.onthe.io
+0.0.0.0 tt.onthe.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
 0.0.0.0 piwik.privacytools.io
@@ -1157,6 +1180,8 @@
 0.0.0.0 thetacdn.net
 0.0.0.0 cs340.wac.thetacdn.net
 0.0.0.0 cs936.wac.thetacdn.net
+0.0.0.0 timecommerce.net
+0.0.0.0 session.timecommerce.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 usersegment.wpdigital.net
@@ -1206,6 +1231,7 @@
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 log.zoom.us
 0.0.0.0 adserve.video
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 openx.co.za
