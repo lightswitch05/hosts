@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-03T19:27:53+00:00
-# Count: 8045 domains
+# Released: 2018-08-06T17:08:27+00:00
+# Count: 8177 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -20,6 +20,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 beacon.tru.am
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
@@ -155,6 +156,7 @@
 0.0.0.0 help.adjust.com
 0.0.0.0 learn.adjust.com
 0.0.0.0 ulink.adjust.com
+0.0.0.0 view.adjust.com
 0.0.0.0 adkmob.com
 0.0.0.0 cm.adkmob.com
 0.0.0.0 orionimg.adkmob.com
@@ -933,6 +935,7 @@
 0.0.0.0 dxedge-prod-lb-946522505.us-east-1.elb.amazonaws.com
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
 0.0.0.0 log-c-907025318.us-east-1.elb.amazonaws.com
+0.0.0.0 logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 0.0.0.0 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
@@ -947,8 +950,28 @@
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
+0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 www.api.amplitude.com
+0.0.0.0 cdn.amplitude.com
+0.0.0.0 dev.amplitude.com
+0.0.0.0 discourse.amplitude.com
+0.0.0.0 events.amplitude.com
+0.0.0.0 www.events.amplitude.com
+0.0.0.0 get.amplitude.com
+0.0.0.0 www.get.amplitude.com
+0.0.0.0 go.amplitude.com
+0.0.0.0 info.amplitude.com
+0.0.0.0 www.info.amplitude.com
+0.0.0.0 meetings.amplitude.com
+0.0.0.0 promo.amplitude.com
+0.0.0.0 www.promo.amplitude.com
+0.0.0.0 staging.amplitude.com
+0.0.0.0 static.amplitude.com
+0.0.0.0 status.amplitude.com
 0.0.0.0 analyticson.com
 0.0.0.0 admin.analyticson.com
 0.0.0.0 www.admin.analyticson.com
@@ -1245,6 +1268,7 @@
 0.0.0.0 api.brightfunnel.com
 0.0.0.0 help.brightfunnel.com
 0.0.0.0 munchkin.brightfunnel.com
+0.0.0.0 app.brightinfo.com
 0.0.0.0 browserhawk.com
 0.0.0.0 lib.browserhawk.com
 0.0.0.0 btstatic.com
@@ -1933,6 +1957,12 @@
 0.0.0.0 www.esttrk.com
 0.0.0.0 evgnet.com
 0.0.0.0 cdn.evgnet.com
+0.0.0.0 evidon.com
+0.0.0.0 c.evidon.com
+0.0.0.0 insights.evidon.com
+0.0.0.0 www.insights.evidon.com
+0.0.0.0 my.evidon.com
+0.0.0.0 www.my.evidon.com
 0.0.0.0 exacttarget.com
 0.0.0.0 3sixty.exacttarget.com
 0.0.0.0 akamai-san1.exacttarget.com
@@ -4851,6 +4881,7 @@
 0.0.0.0 mmfiles.amp.mcafee.com
 0.0.0.0 mup.amp.mcafee.com
 0.0.0.0 www.mup.amp.mcafee.com
+0.0.0.0 karma.mdpcdn.com
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 www.measuread.com
@@ -5085,6 +5116,7 @@
 0.0.0.0 feed-player-service.prod.ndnops.com
 0.0.0.0 adserver.netcollins.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
+0.0.0.0 assets.customerio.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 netmng.com
 0.0.0.0 co-uk-h-l.netmng.com
@@ -5729,6 +5761,73 @@
 0.0.0.0 www.siliconorchard.com
 0.0.0.0 zaap.siliconorchard.com
 0.0.0.0 www.zaap.siliconorchard.com
+0.0.0.0 sizmek.com
+0.0.0.0 api.sizmek.com
+0.0.0.0 apx-plugin.sizmek.com
+0.0.0.0 www.apx-plugin.sizmek.com
+0.0.0.0 audiencesuite.sizmek.com
+0.0.0.0 www.audiencesuite.sizmek.com
+0.0.0.0 china.sizmek.com
+0.0.0.0 www.china.sizmek.com
+0.0.0.0 confluence.sizmek.com
+0.0.0.0 confluence-test.sizmek.com
+0.0.0.0 custombi.sizmek.com
+0.0.0.0 www.custombi.sizmek.com
+0.0.0.0 datahub.sizmek.com
+0.0.0.0 demo.sizmek.com
+0.0.0.0 origin.demo.sizmek.com
+0.0.0.0 uat.dev.sizmek.com
+0.0.0.0 api.uat.dev.sizmek.com
+0.0.0.0 www.uat.dev.sizmek.com
+0.0.0.0 developers.sizmek.com
+0.0.0.0 facebook.sizmek.com
+0.0.0.0 www.facebook.sizmek.com
+0.0.0.0 gizmo.sizmek.com
+0.0.0.0 gizmo-s.sizmek.com
+0.0.0.0 ilav.sizmek.com
+0.0.0.0 ildialin.sizmek.com
+0.0.0.0 illyncweb.sizmek.com
+0.0.0.0 ilmeet.sizmek.com
+0.0.0.0 ilsfbweb.sizmek.com
+0.0.0.0 ilsip.sizmek.com
+0.0.0.0 www.ilsip.sizmek.com
+0.0.0.0 ilwebapps.sizmek.com
+0.0.0.0 ilwebconf.sizmek.com
+0.0.0.0 info.sizmek.com
+0.0.0.0 www.info.sizmek.com
+0.0.0.0 jetstar.sizmek.com
+0.0.0.0 jira.sizmek.com
+0.0.0.0 jira-test.sizmek.com
+0.0.0.0 lyncdiscover.sizmek.com
+0.0.0.0 mdx.sizmek.com
+0.0.0.0 origin-gizmo.sizmek.com
+0.0.0.0 www.origin-gizmo.sizmek.com
+0.0.0.0 platform.sizmek.com
+0.0.0.0 preview.platform.sizmek.com
+0.0.0.0 preview.prod.sizmek.com
+0.0.0.0 product.sizmek.com
+0.0.0.0 www.product.sizmek.com
+0.0.0.0 selfservice.sizmek.com
+0.0.0.0 www.selfservice.sizmek.com
+0.0.0.0 sip.sizmek.com
+0.0.0.0 strikead.sizmek.com
+0.0.0.0 support.sizmek.com
+0.0.0.0 www.support.sizmek.com
+0.0.0.0 uffa.sizmek.com
+0.0.0.0 www.uffa.sizmek.com
+0.0.0.0 usav.sizmek.com
+0.0.0.0 usdialin.sizmek.com
+0.0.0.0 uslyncweb.sizmek.com
+0.0.0.0 usmeet.sizmek.com
+0.0.0.0 ussfbweb.sizmek.com
+0.0.0.0 ussip.sizmek.com
+0.0.0.0 uswebapps.sizmek.com
+0.0.0.0 uswebconf.sizmek.com
+0.0.0.0 ewr.vpn.sizmek.com
+0.0.0.0 www.ewr.vpn.sizmek.com
+0.0.0.0 wiki.sizmek.com
+0.0.0.0 zendesk.sizmek.com
+0.0.0.0 www.zendesk.sizmek.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 bo.promotions.skype.com
@@ -6458,11 +6557,39 @@
 0.0.0.0 www.test.vilynx.com
 0.0.0.0 www.vilynx.com
 0.0.0.0 www2.vilynx.com
+0.0.0.0 vindicosuite.com
+0.0.0.0 staging.c.vindicosuite.com
+0.0.0.0 mpp.vindicosuite.com
+0.0.0.0 native.vindicosuite.com
+0.0.0.0 nativecdn.vindicosuite.com
+0.0.0.0 notrack.vindicosuite.com
+0.0.0.0 staging.vindicosuite.com
+0.0.0.0 ts.vindicosuite.com
+0.0.0.0 uid1.vindicosuite.com
+0.0.0.0 staging.x.vindicosuite.com
+0.0.0.0 www.staging.x.vindicosuite.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 app.visualwebsiteoptimizer.com
 0.0.0.0 www.app.visualwebsiteoptimizer.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 www.dev.visualwebsiteoptimizer.com
+0.0.0.0 vizury.com
+0.0.0.0 blog.vizury.com
+0.0.0.0 cdn25.vizury.com
+0.0.0.0 cdn6.vizury.com
+0.0.0.0 email.vizury.com
+0.0.0.0 info.vizury.com
+0.0.0.0 reports.vizury.com
+0.0.0.0 www.reports.vizury.com
+0.0.0.0 serv1.vizury.com
+0.0.0.0 www.serv1.vizury.com
+0.0.0.0 serv2ssl.vizury.com
+0.0.0.0 www.serv2ssl.vizury.com
+0.0.0.0 ssl.vizury.com
+0.0.0.0 www.ssl.vizury.com
+0.0.0.0 sslads.vizury.com
+0.0.0.0 www.sslads.vizury.com
+0.0.0.0 www.vizury.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 secfld.vmmpxl.com
 0.0.0.0 secimg.vmmpxl.com
@@ -6813,6 +6940,7 @@
 0.0.0.0 eu-west-1.stinger-ad.bidr.io
 0.0.0.0 us-east-1.stinger-ad.bidr.io
 0.0.0.0 us-west-2.stinger-ad.bidr.io
+0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 extole.io
 0.0.0.0 lo.extole.io
 0.0.0.0 api.lo.extole.io
@@ -6893,6 +7021,8 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 marchex.io
 0.0.0.0 rw1.marchex.io
+0.0.0.0 cdn.onthe.io
+0.0.0.0 tt.onthe.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
 0.0.0.0 demo.presage.io
@@ -7667,6 +7797,14 @@
 0.0.0.0 snib53bgl.wpc.thetacdn.net
 0.0.0.0 snib53cgl.wpc.thetacdn.net
 0.0.0.0 snib53egl.wpc.thetacdn.net
+0.0.0.0 timecommerce.net
+0.0.0.0 csp-dev1.timecommerce.net
+0.0.0.0 csp-dev2.timecommerce.net
+0.0.0.0 csp-dev3.timecommerce.net
+0.0.0.0 csp-dev4.timecommerce.net
+0.0.0.0 csp-dev5.timecommerce.net
+0.0.0.0 csp-testsite.timecommerce.net
+0.0.0.0 session.timecommerce.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 usersegment.wpdigital.net
@@ -8035,6 +8173,7 @@
 0.0.0.0 survey.samplicio.us
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 www.samplicio.us
+0.0.0.0 log.zoom.us
 0.0.0.0 adserve.video
 0.0.0.0 cdn.adserve.video
 0.0.0.0 www.cdn.adserve.video
