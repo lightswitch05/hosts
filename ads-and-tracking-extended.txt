@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-06T17:08:27+00:00
-# Count: 8177 domains
+# Released: 2018-08-06T17:38:25+00:00
+# Count: 8255 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -152,6 +152,7 @@
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 atom.adjust.com
+0.0.0.0 salescandidate.atom.adjust.com
 0.0.0.0 events.adjust.com
 0.0.0.0 help.adjust.com
 0.0.0.0 learn.adjust.com
@@ -247,6 +248,7 @@
 0.0.0.0 www.content.adroll.com
 0.0.0.0 developers.adroll.com
 0.0.0.0 feedback.adroll.com
+0.0.0.0 gold.adroll.com
 0.0.0.0 growth.adroll.com
 0.0.0.0 hello.adroll.com
 0.0.0.0 help.adroll.com
@@ -417,6 +419,7 @@
 0.0.0.0 us.content.cmp.advertising.com
 0.0.0.0 dev-adservices.cmp.advertising.com
 0.0.0.0 event.cmp.advertising.com
+0.0.0.0 ap.event.cmp.advertising.com
 0.0.0.0 eu.event.cmp.advertising.com
 0.0.0.0 us.event.cmp.advertising.com
 0.0.0.0 qa-adservices.cmp.advertising.com
@@ -575,6 +578,7 @@
 0.0.0.0 www.docs.api.adx1.com
 0.0.0.0 rc.api.adx1.com
 0.0.0.0 www.api.adx1.com
+0.0.0.0 app.adx1.com
 0.0.0.0 beta.adx1.com
 0.0.0.0 www.beta.adx1.com
 0.0.0.0 blog.adx1.com
@@ -597,7 +601,9 @@
 0.0.0.0 deploy.adx1.com
 0.0.0.0 dev.adx1.com
 0.0.0.0 www.dev.adx1.com
+0.0.0.0 development.adx1.com
 0.0.0.0 dialin.adx1.com
+0.0.0.0 direct.adx1.com
 0.0.0.0 docs.adx1.com
 0.0.0.0 www.docs.adx1.com
 0.0.0.0 down.adx1.com
@@ -690,7 +696,9 @@
 0.0.0.0 ww.adx1.com
 0.0.0.0 www.adx1.com
 0.0.0.0 xml.adx1.com
+0.0.0.0 1170.xml.adx1.com
 0.0.0.0 1173.xml.adx1.com
+0.0.0.0 www.1173.xml.adx1.com
 0.0.0.0 am-pops.xml.adx1.com
 0.0.0.0 www.am-pops.xml.adx1.com
 0.0.0.0 dropped.xml.adx1.com
@@ -1119,6 +1127,7 @@
 0.0.0.0 app.appsflyer.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 community.appsflyer.com
+0.0.0.0 discuss.appsflyer.com
 0.0.0.0 get.appsflyer.com
 0.0.0.0 www.get.appsflyer.com
 0.0.0.0 global.appsflyer.com
@@ -1716,6 +1725,7 @@
 0.0.0.0 www.em.dynamicyield.com
 0.0.0.0 et-integration.dynamicyield.com
 0.0.0.0 www.et-integration.dynamicyield.com
+0.0.0.0 euc1.dynamicyield.com
 0.0.0.0 events.dynamicyield.com
 0.0.0.0 ext.dynamicyield.com
 0.0.0.0 www.ext.dynamicyield.com
@@ -1759,6 +1769,8 @@
 0.0.0.0 www.rest.dynamicyield.com
 0.0.0.0 rlec-use.dynamicyield.com
 0.0.0.0 www.rlec-use.dynamicyield.com
+0.0.0.0 rundeck.dynamicyield.com
+0.0.0.0 www.rundeck.dynamicyield.com
 0.0.0.0 s1a.dynamicyield.com
 0.0.0.0 www.s1a.dynamicyield.com
 0.0.0.0 srv.dynamicyield.com
@@ -2097,6 +2109,7 @@
 0.0.0.0 webservice.keepalive.exacttarget.com
 0.0.0.0 libertymutual.exacttarget.com
 0.0.0.0 login.exacttarget.com
+0.0.0.0 s50.login.exacttarget.com
 0.0.0.0 login-qa1.exacttarget.com
 0.0.0.0 login-qa2.exacttarget.com
 0.0.0.0 login-qa3.exacttarget.com
@@ -2265,6 +2278,26 @@
 0.0.0.0 scpweb.s5.exacttarget.com
 0.0.0.0 click.virt.s5.exacttarget.com
 0.0.0.0 s50.exacttarget.com
+0.0.0.0 app.s50.exacttarget.com
+0.0.0.0 click.s50.exacttarget.com
+0.0.0.0 click-sms.s50.exacttarget.com
+0.0.0.0 editorsupport.s50.exacttarget.com
+0.0.0.0 manage.ext.s50.exacttarget.com
+0.0.0.0 image.s50.exacttarget.com
+0.0.0.0 internal.s50.exacttarget.com
+0.0.0.0 manage.s50.exacttarget.com
+0.0.0.0 manage-api.s50.exacttarget.com
+0.0.0.0 mc.s50.exacttarget.com
+0.0.0.0 members.s50.exacttarget.com
+0.0.0.0 origin-akamai-members.s50.exacttarget.com
+0.0.0.0 orionhttp.s50.exacttarget.com
+0.0.0.0 pages.s50.exacttarget.com
+0.0.0.0 pub.s50.exacttarget.com
+0.0.0.0 rest.s50.exacttarget.com
+0.0.0.0 restapi.s50.exacttarget.com
+0.0.0.0 scpweb.s50.exacttarget.com
+0.0.0.0 sock.s50.exacttarget.com
+0.0.0.0 view.s50.exacttarget.com
 0.0.0.0 s6.exacttarget.com
 0.0.0.0 auth.s6.exacttarget.com
 0.0.0.0 click.s6.exacttarget.com
@@ -2472,6 +2505,7 @@
 0.0.0.0 ap0000.force.com
 0.0.0.0 ap1.force.com
 0.0.0.0 ap1000.force.com
+0.0.0.0 ap14.force.com
 0.0.0.0 ap15.force.com
 0.0.0.0 ap2.force.com
 0.0.0.0 ap2000.force.com
@@ -2495,6 +2529,7 @@
 0.0.0.0 ap0000.content.force.com
 0.0.0.0 ap1.content.force.com
 0.0.0.0 ap1000.content.force.com
+0.0.0.0 ap14.content.force.com
 0.0.0.0 ap15.content.force.com
 0.0.0.0 ap2.content.force.com
 0.0.0.0 sec-b2b--c.ap2.content.force.com
@@ -2548,6 +2583,8 @@
 0.0.0.0 cs13.content.force.com
 0.0.0.0 azusgb02--full--c.cs13.content.force.com
 0.0.0.0 cs13000.content.force.com
+0.0.0.0 cs137.content.force.com
+0.0.0.0 cs138.content.force.com
 0.0.0.0 cs14.content.force.com
 0.0.0.0 cs14000.content.force.com
 0.0.0.0 cs15.content.force.com
@@ -2673,6 +2710,7 @@
 0.0.0.0 akamai--qa--c.cs9.content.force.com
 0.0.0.0 cs90.content.force.com
 0.0.0.0 cs9000.content.force.com
+0.0.0.0 cs9001.content.force.com
 0.0.0.0 cs91.content.force.com
 0.0.0.0 cs92.content.force.com
 0.0.0.0 cs93.content.force.com
@@ -2821,6 +2859,7 @@
 0.0.0.0 jci--c.na9.content.force.com
 0.0.0.0 na90.content.force.com
 0.0.0.0 na91.content.force.com
+0.0.0.0 na92.content.force.com
 0.0.0.0 na93.content.force.com
 0.0.0.0 na94.content.force.com
 0.0.0.0 na95.content.force.com
@@ -2865,6 +2904,8 @@
 0.0.0.0 cs127.force.com
 0.0.0.0 cs13.force.com
 0.0.0.0 cs13000.force.com
+0.0.0.0 cs137.force.com
+0.0.0.0 cs138.force.com
 0.0.0.0 cs14.force.com
 0.0.0.0 cs14000.force.com
 0.0.0.0 cs15.force.com
@@ -2979,6 +3020,7 @@
 0.0.0.0 cs9.force.com
 0.0.0.0 cs90.force.com
 0.0.0.0 cs9000.force.com
+0.0.0.0 cs9001.force.com
 0.0.0.0 cs91.force.com
 0.0.0.0 cs92.force.com
 0.0.0.0 cs93.force.com
@@ -3136,6 +3178,7 @@
 0.0.0.0 na9.force.com
 0.0.0.0 na90.force.com
 0.0.0.0 na91.force.com
+0.0.0.0 na92.force.com
 0.0.0.0 na93.force.com
 0.0.0.0 na94.force.com
 0.0.0.0 na95.force.com
@@ -3305,6 +3348,7 @@
 0.0.0.0 ap1.visual.force.com
 0.0.0.0 b.ap1.visual.force.com
 0.0.0.0 ap1000.visual.force.com
+0.0.0.0 ap14.visual.force.com
 0.0.0.0 ap15.visual.force.com
 0.0.0.0 ap2.visual.force.com
 0.0.0.0 sec-b2b--c.ap2.visual.force.com
@@ -3381,6 +3425,8 @@
 0.0.0.0 cs13.visual.force.com
 0.0.0.0 b.cs13.visual.force.com
 0.0.0.0 cs13000.visual.force.com
+0.0.0.0 cs137.visual.force.com
+0.0.0.0 cs138.visual.force.com
 0.0.0.0 cs14.visual.force.com
 0.0.0.0 b.cs14.visual.force.com
 0.0.0.0 cs14000.visual.force.com
@@ -3576,6 +3622,7 @@
 0.0.0.0 b.cs9.visual.force.com
 0.0.0.0 cs90.visual.force.com
 0.0.0.0 cs9000.visual.force.com
+0.0.0.0 cs9001.visual.force.com
 0.0.0.0 cs91.visual.force.com
 0.0.0.0 cs92.visual.force.com
 0.0.0.0 cs93.visual.force.com
@@ -3786,6 +3833,7 @@
 0.0.0.0 jci--c.na9.visual.force.com
 0.0.0.0 na90.visual.force.com
 0.0.0.0 na91.visual.force.com
+0.0.0.0 na92.visual.force.com
 0.0.0.0 na93.visual.force.com
 0.0.0.0 na94.visual.force.com
 0.0.0.0 na95.visual.force.com
@@ -4010,6 +4058,7 @@
 0.0.0.0 stg.fyber.com
 0.0.0.0 pmm.stg-aws.fyber.com
 0.0.0.0 service.stg-aws.fyber.com
+0.0.0.0 test-tickets.fyber.com
 0.0.0.0 test-wiki.fyber.com
 0.0.0.0 tickets.fyber.com
 0.0.0.0 track.fyber.com
@@ -4261,6 +4310,7 @@
 0.0.0.0 www.stage-two.heyzap.com
 0.0.0.0 x.heyzap.com
 0.0.0.0 hlserve.com
+0.0.0.0 haroldcdn.hlserve.com
 0.0.0.0 productads.hlserve.com
 0.0.0.0 products.hlserve.com
 0.0.0.0 www.hlserve.com
@@ -4631,6 +4681,8 @@
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 lijit.com
+0.0.0.0 aws.lijit.com
+0.0.0.0 dcos.lijit.com
 0.0.0.0 adpoddb1.dfw2.lijit.com
 0.0.0.0 www.adpoddb1.dfw2.lijit.com
 0.0.0.0 pt.lijit.com
@@ -4727,7 +4779,10 @@
 0.0.0.0 api.final.env.sandbox53.localytics.com
 0.0.0.0 api.josh.env.sandbox53.localytics.com
 0.0.0.0 api.nonewlines.env.sandbox53.localytics.com
+0.0.0.0 api.raphael.env.sandbox53.localytics.com
 0.0.0.0 api.sandbox.env.sandbox53.localytics.com
+0.0.0.0 api.tushar.env.sandbox53.localytics.com
+0.0.0.0 api.tushar-test.env.sandbox53.localytics.com
 0.0.0.0 api.tutorial.env.sandbox53.localytics.com
 0.0.0.0 api.tutorial-sharing.env.sandbox53.localytics.com
 0.0.0.0 api.tutorial-sharing-again.env.sandbox53.localytics.com
@@ -6304,6 +6359,8 @@
 0.0.0.0 mailatl.tritondigital.com
 0.0.0.0 mailla.tritondigital.com
 0.0.0.0 mc.tritondigital.com
+0.0.0.0 support.tritondigital.com
+0.0.0.0 www.support.tritondigital.com
 0.0.0.0 tech.tritondigital.com
 0.0.0.0 userguides.tritondigital.com
 0.0.0.0 www.userguides.tritondigital.com
@@ -6445,6 +6502,7 @@
 0.0.0.0 ccm-dev.urbaninsight.com
 0.0.0.0 ccm-prod.urbaninsight.com
 0.0.0.0 ccm-stage.urbaninsight.com
+0.0.0.0 ccm-test.urbaninsight.com
 0.0.0.0 email.urbaninsight.com
 0.0.0.0 www.email.urbaninsight.com
 0.0.0.0 holidayparty.urbaninsight.com
@@ -6539,6 +6597,8 @@
 0.0.0.0 mail.viewsignage.com
 0.0.0.0 restaurant.viewsignage.com
 0.0.0.0 www.restaurant.viewsignage.com
+0.0.0.0 widgets.viewsignage.com
+0.0.0.0 www.widgets.viewsignage.com
 0.0.0.0 www.viewsignage.com
 0.0.0.0 vilynx.com
 0.0.0.0 blog.vilynx.com
@@ -6639,10 +6699,12 @@
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 advil.waze.com
 0.0.0.0 wbinsights.com
+0.0.0.0 contractor.wbinsights.com
 0.0.0.0 event.wbinsights.com
 0.0.0.0 jupyter.wbinsights.com
 0.0.0.0 playdemic.jupyter.wbinsights.com
 0.0.0.0 mgp.wbinsights.com
+0.0.0.0 nrs.wbinsights.com
 0.0.0.0 palebrook.wbinsights.com
 0.0.0.0 ganglia.palebrook.wbinsights.com
 0.0.0.0 hue.palebrook.wbinsights.com
@@ -6656,6 +6718,8 @@
 0.0.0.0 zeppelin.playdemic.wbinsights.com
 0.0.0.0 presto-gdpr-dev-encrypted.wbinsights.com
 0.0.0.0 playdemic.r.wbinsights.com
+0.0.0.0 turbine.wbinsights.com
+0.0.0.0 wba.wbinsights.com
 0.0.0.0 zeppelin.wbinsights.com
 0.0.0.0 playdemic.zeppelin.wbinsights.com
 0.0.0.0 ad.cc.webmd.com
@@ -6780,6 +6844,7 @@
 0.0.0.0 www.directory.office.yext.com
 0.0.0.0 docker.jfrog-poc.office.yext.com
 0.0.0.0 www.docker.jfrog-poc.office.yext.com
+0.0.0.0 kube.office.yext.com
 0.0.0.0 stash.office.yext.com
 0.0.0.0 www.stash.office.yext.com
 0.0.0.0 onward.yext.com
@@ -6793,6 +6858,7 @@
 0.0.0.0 sustainability.yext.com
 0.0.0.0 techops.yext.com
 0.0.0.0 www.techops.yext.com
+0.0.0.0 tx1.yext.com
 0.0.0.0 kube.tx1.yext.com
 0.0.0.0 kube-sbx.tx1.yext.com
 0.0.0.0 sourcegraph.uc1.yext.com
@@ -7172,6 +7238,7 @@
 0.0.0.0 www.cxlaxexprswy01.smo.connexity.net
 0.0.0.0 cxlaxexprswy02.smo.connexity.net
 0.0.0.0 www.cxlaxexprswy02.smo.connexity.net
+0.0.0.0 www.connexity.net
 0.0.0.0 content-ad.net
 0.0.0.0 api.content-ad.net
 0.0.0.0 dev1.api.content-ad.net
@@ -7187,6 +7254,8 @@
 0.0.0.0 jp.as.criteo.net
 0.0.0.0 images.jp.as.criteo.net
 0.0.0.0 static.jp.as.criteo.net
+0.0.0.0 azcdn.criteo.net
+0.0.0.0 azcdn-preprod.criteo.net
 0.0.0.0 cn.criteo.net
 0.0.0.0 hk.cn.criteo.net
 0.0.0.0 sh.cn.criteo.net
@@ -7424,6 +7493,7 @@
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 custom-audience.intentmedia.net
 0.0.0.0 internal.intentmedia.net
+0.0.0.0 multiregionca.intentmedia.net
 0.0.0.0 performance.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
 0.0.0.0 krxd.net
@@ -7852,6 +7922,8 @@
 0.0.0.0 test.docker.adsrvr.org
 0.0.0.0 foreman.adsrvr.org
 0.0.0.0 idp.adsrvr.org
+0.0.0.0 k8dev.adsrvr.org
+0.0.0.0 k8prd.adsrvr.org
 0.0.0.0 ops-self-service.adsrvr.org
 0.0.0.0 snap.adsrvr.org
 0.0.0.0 thales.adsrvr.org
@@ -7872,6 +7944,7 @@
 0.0.0.0 adversal.mgr.consensu.org
 0.0.0.0 www.adversal.mgr.consensu.org
 0.0.0.0 affinity.mgr.consensu.org
+0.0.0.0 avocet.mgr.consensu.org
 0.0.0.0 captify.mgr.consensu.org
 0.0.0.0 www.captify.mgr.consensu.org
 0.0.0.0 ciaopeople.mgr.consensu.org
@@ -7894,6 +7967,7 @@
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 www.gemius.mgr.consensu.org
 0.0.0.0 global.mgr.consensu.org
+0.0.0.0 hiro.mgr.consensu.org
 0.0.0.0 liqwid.mgr.consensu.org
 0.0.0.0 www.liqwid.mgr.consensu.org
 0.0.0.0 cmp.madvertise.mgr.consensu.org
@@ -7920,6 +7994,8 @@
 0.0.0.0 sipaof.mgr.consensu.org
 0.0.0.0 smartadserver.mgr.consensu.org
 0.0.0.0 cmp.smartadserver.mgr.consensu.org
+0.0.0.0 societe.mgr.consensu.org
+0.0.0.0 www.societe.mgr.consensu.org
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sovrn.mgr.consensu.org
 0.0.0.0 traffective.mgr.consensu.org
@@ -7929,6 +8005,8 @@
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 unveilmedia.mgr.consensu.org
 0.0.0.0 www.unveilmedia.mgr.consensu.org
+0.0.0.0 usercentrics.mgr.consensu.org
+0.0.0.0 www.usercentrics.mgr.consensu.org
 0.0.0.0 vibrant.mgr.consensu.org
 0.0.0.0 webedia.mgr.consensu.org
 0.0.0.0 register.consensu.org
