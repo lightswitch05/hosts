@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-07T16:19:59+00:00
-# Count: 8275 domains
+# Released: 2018-08-07T16:27:47+00:00
+# Count: 8314 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5212,7 +5212,46 @@
 0.0.0.0 www.synd.netseer.com
 0.0.0.0 www.netseer.com
 0.0.0.0 www3.netseer.com
+0.0.0.0 newrelic.com
+0.0.0.0 azure-res-provider.newrelic.com
+0.0.0.0 blog.newrelic.com
+0.0.0.0 de.blog.newrelic.com
+0.0.0.0 br.newrelic.com
+0.0.0.0 current-azure-ext.newrelic.com
+0.0.0.0 df-azure-ext.newrelic.com
+0.0.0.0 discuss.newrelic.com
+0.0.0.0 docs.newrelic.com
+0.0.0.0 docs-dev.newrelic.com
+0.0.0.0 docs-ra.newrelic.com
+0.0.0.0 docs-staging.newrelic.com
+0.0.0.0 dr.newrelic.com
+0.0.0.0 service.dr.newrelic.com
+0.0.0.0 eu.newrelic.com
+0.0.0.0 service.eu.newrelic.com
+0.0.0.0 get.newrelic.com
+0.0.0.0 i18n.newrelic.com
+0.0.0.0 ir.newrelic.com
+0.0.0.0 js-agent.newrelic.com
+0.0.0.0 learn.newrelic.com
+0.0.0.0 learn-dev.newrelic.com
+0.0.0.0 learn-ra.newrelic.com
+0.0.0.0 learn-staging.newrelic.com
+0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 next-azure-ext.newrelic.com
+0.0.0.0 rpm-instart.newrelic.com
+0.0.0.0 service.newrelic.com
+0.0.0.0 staging.newrelic.com
+0.0.0.0 staging-discuss.newrelic.com
+0.0.0.0 staging-images.newrelic.com
+0.0.0.0 staging-mobile-collector.newrelic.com
+0.0.0.0 staging-service.newrelic.com
+0.0.0.0 stamp1-azure-ext.newrelic.com
+0.0.0.0 stamp2-azure-ext.newrelic.com
+0.0.0.0 status.newrelic.com
+0.0.0.0 support.newrelic.com
+0.0.0.0 support-legacy.newrelic.com
+0.0.0.0 try.newrelic.com
 0.0.0.0 ntellicast.com
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
