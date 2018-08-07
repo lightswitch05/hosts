@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-07T16:27:47+00:00
-# Count: 1231 domains
+# Released: 2018-08-07T17:25:21+00:00
+# Count: 1246 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -35,6 +35,7 @@
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
 0.0.0.0 trk-sp.sele.co
+0.0.0.0 snackly.co
 0.0.0.0 33across.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 3lift.com
@@ -602,6 +603,8 @@
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
+0.0.0.0 optimizely.com
+0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 optnmstr.com
@@ -691,6 +694,7 @@
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
+0.0.0.0 rollbar.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 metrics.rubiconglobal.com
@@ -969,6 +973,8 @@
 0.0.0.0 origin-2.extole.io
 0.0.0.0 origin-4.extole.io
 0.0.0.0 origin-5.extole.io
+0.0.0.0 instana.io
+0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
 0.0.0.0 mobile-sdk-api.intercom.io
 0.0.0.0 quxcfcv5-ios.mobile-sdk-api.intercom.io
@@ -996,6 +1002,8 @@
 0.0.0.0 heatmap.it
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
+0.0.0.0 count.ly
+0.0.0.0 stats.count.ly
 0.0.0.0 pixel.marketing
 0.0.0.0 sync-unosync-com.geodns.me
 0.0.0.0 pixel.shodan.me
@@ -1054,6 +1062,7 @@
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
+0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 connexity.net
 0.0.0.0 pxl.connexity.net
 0.0.0.0 content-ad.net
@@ -1081,6 +1090,7 @@
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
 0.0.0.0 cs254.wac.edgecastcdn.net
+0.0.0.0 analytics.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
@@ -1105,6 +1115,7 @@
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 ssl-cdn.multibrand3.pgsitecore.com.c.footprint.net
+0.0.0.0 fwmrm.net
 0.0.0.0 adserver.game-focus.net
 0.0.0.0 www.quotes.gb.net
 0.0.0.0 glancecdn.net
@@ -1114,6 +1125,7 @@
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
+0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscta.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
@@ -1139,6 +1151,7 @@
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 omtrdc.net
+0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
@@ -1154,6 +1167,7 @@
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
+0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 online-metrix.net
 0.0.0.0 aa.online-metrix.net
@@ -1233,6 +1247,7 @@
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 sync.extend.tv
+0.0.0.0 ads.freewheel.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 serverc.shoofle.tv
