@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-07T16:27:47+00:00
-# Count: 8314 domains
+# Released: 2018-08-07T17:25:21+00:00
+# Count: 8441 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -48,6 +48,10 @@
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
 0.0.0.0 trk-sp.sele.co
+0.0.0.0 snackly.co
+0.0.0.0 chef.snackly.co
+0.0.0.0 frontend.snackly.co
+0.0.0.0 vorlon-qa.snackly.co
 0.0.0.0 33across.com
 0.0.0.0 blog.33across.com
 0.0.0.0 cms-xch.33across.com
@@ -5260,6 +5264,78 @@
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
+0.0.0.0 optimizely.com
+0.0.0.0 api.optimizely.com
+0.0.0.0 app.optimizely.com
+0.0.0.0 api.app.optimizely.com
+0.0.0.0 beta.app.optimizely.com
+0.0.0.0 current.app.optimizely.com
+0.0.0.0 develrc.app.optimizely.com
+0.0.0.0 latest.app.optimizely.com
+0.0.0.0 qa.app.optimizely.com
+0.0.0.0 rc.app.optimizely.com
+0.0.0.0 stable.app.optimizely.com
+0.0.0.0 authportal.optimizely.com
+0.0.0.0 beta.optimizely.com
+0.0.0.0 blog.optimizely.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 oui.cdn.optimizely.com
+0.0.0.0 cdn-edgecast.optimizely.com
+0.0.0.0 cdn-pci.optimizely.com
+0.0.0.0 cdn-s-optional.optimizely.com
+0.0.0.0 client.optimizely.com
+0.0.0.0 build.client.optimizely.com
+0.0.0.0 errors.client.optimizely.com
+0.0.0.0 log.client.optimizely.com
+0.0.0.0 community.optimizely.com
+0.0.0.0 community-staging.optimizely.com
+0.0.0.0 cspreporter.optimizely.com
+0.0.0.0 cspreporter-stage.optimizely.com
+0.0.0.0 developers.optimizely.com
+0.0.0.0 develrc-app.optimizely.com
+0.0.0.0 dz.optimizely.com
+0.0.0.0 autopilot.dz.optimizely.com
+0.0.0.0 client-error-log.dz.optimizely.com
+0.0.0.0 p13nlog.dz.optimizely.com
+0.0.0.0 sse-demo.dz.optimizely.com
+0.0.0.0 email.optimizely.com
+0.0.0.0 example.optimizely.com
+0.0.0.0 hello.optimizely.com
+0.0.0.0 help.optimizely.com
+0.0.0.0 iownit.optimizely.com
+0.0.0.0 learn.optimizely.com
+0.0.0.0 learn-new.optimizely.com
+0.0.0.0 log.optimizely.com
+0.0.0.0 log3.optimizely.com
+0.0.0.0 logx.optimizely.com
+0.0.0.0 lpo.optimizely.com
+0.0.0.0 maven.optimizely.com
+0.0.0.0 ml.optimizely.com
+0.0.0.0 mobile.optimizely.com
+0.0.0.0 errors.mobile.optimizely.com
+0.0.0.0 events.mobile.optimizely.com
+0.0.0.0 nbe-api.optimizely.com
+0.0.0.0 odds.optimizely.com
+0.0.0.0 p13n-results-api.optimizely.com
+0.0.0.0 phabricator.optimizely.com
+0.0.0.0 playground.optimizely.com
+0.0.0.0 qa.optimizely.com
+0.0.0.0 rc-app.optimizely.com
+0.0.0.0 results.optimizely.com
+0.0.0.0 rum.optimizely.com
+0.0.0.0 status.optimizely.com
+0.0.0.0 success.optimizely.com
+0.0.0.0 support.optimizely.com
+0.0.0.0 teams.optimizely.com
+0.0.0.0 teams-admin.optimizely.com
+0.0.0.0 teams-staging.optimizely.com
+0.0.0.0 teams-staging-admin.optimizely.com
+0.0.0.0 track.optimizely.com
+0.0.0.0 ui.optimizely.com
+0.0.0.0 assets.ui.optimizely.com
+0.0.0.0 vis.optimizely.com
+0.0.0.0 www.optimizely.com
+0.0.0.0 zendesk-staging.optimizely.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 z.optmstr.com
@@ -5652,6 +5728,16 @@
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
+0.0.0.0 rollbar.com
+0.0.0.0 api.rollbar.com
+0.0.0.0 api-alt.rollbar.com
+0.0.0.0 cdn.rollbar.com
+0.0.0.0 changelog.rollbar.com
+0.0.0.0 docs.rollbar.com
+0.0.0.0 help.rollbar.com
+0.0.0.0 try.rollbar.com
+0.0.0.0 www.try.rollbar.com
+0.0.0.0 www.rollbar.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 metrics.rubiconglobal.com
@@ -7097,6 +7183,8 @@
 0.0.0.0 origin-5.st.extole.io
 0.0.0.0 origin-6.st.extole.io
 0.0.0.0 origin-7.st.extole.io
+0.0.0.0 instana.io
+0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
 0.0.0.0 api.intercom.io
 0.0.0.0 blog.intercom.io
@@ -7170,6 +7258,20 @@
 0.0.0.0 www.heatmap.it
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
+0.0.0.0 count.ly
+0.0.0.0 blog.count.ly
+0.0.0.0 www.blog.count.ly
+0.0.0.0 ccinext.count.ly
+0.0.0.0 www.ccinext.count.ly
+0.0.0.0 cloud.count.ly
+0.0.0.0 www.cloud.count.ly
+0.0.0.0 enterprise-box.count.ly
+0.0.0.0 www.enterprise-box.count.ly
+0.0.0.0 resources.count.ly
+0.0.0.0 stats.count.ly
+0.0.0.0 tr.count.ly
+0.0.0.0 waiter.count.ly
+0.0.0.0 www.count.ly
 0.0.0.0 pixel.marketing
 0.0.0.0 clients.pixel.marketing
 0.0.0.0 www.clients.pixel.marketing
@@ -7280,6 +7382,7 @@
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
+0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 connexity.net
 0.0.0.0 mxl.connexity.net
 0.0.0.0 www.mxl.connexity.net
@@ -7393,6 +7496,7 @@
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
 0.0.0.0 cs254.wac.edgecastcdn.net
+0.0.0.0 analytics.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
@@ -7425,6 +7529,25 @@
 0.0.0.0 prod.outbrain.map.fastlylb.net
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 ssl-cdn.multibrand3.pgsitecore.com.c.footprint.net
+0.0.0.0 fwmrm.net
+0.0.0.0 fw1.aws.fwmrm.net
+0.0.0.0 fwsso.aws.fwmrm.net
+0.0.0.0 dev.klotski.aws.fwmrm.net
+0.0.0.0 prd.klotski.aws.fwmrm.net
+0.0.0.0 ss.klotski.aws.fwmrm.net
+0.0.0.0 stg.klotski.aws.fwmrm.net
+0.0.0.0 dev.linear.aws.fwmrm.net
+0.0.0.0 stg.linear.aws.fwmrm.net
+0.0.0.0 sb1.aws.fwmrm.net
+0.0.0.0 dev.vw.aws.fwmrm.net
+0.0.0.0 git.dev.fwmrm.net
+0.0.0.0 registry.dev.fwmrm.net
+0.0.0.0 svn.dev.fwmrm.net
+0.0.0.0 ny5expe.fwmrm.net
+0.0.0.0 s.fwmrm.net
+0.0.0.0 stg.fwmrm.net
+0.0.0.0 v.stg.fwmrm.net
+0.0.0.0 v.fwmrm.net
 0.0.0.0 adserver.game-focus.net
 0.0.0.0 www.adserver.game-focus.net
 0.0.0.0 www.quotes.gb.net
@@ -7440,6 +7563,7 @@
 0.0.0.0 gscontxt.net
 0.0.0.0 aol.gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
+0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscta.net
 0.0.0.0 imprev.net
 0.0.0.0 bit.imprev.net
@@ -7707,6 +7831,7 @@
 0.0.0.0 collection.sv.d2.omtrdc.net
 0.0.0.0 delivery.sv.d2.omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 hb-api.omtrdc.net
 0.0.0.0 hb-fa-1.omtrdc.net
@@ -7741,6 +7866,7 @@
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
+0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 staging.tt.omtrdc.net
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 online-metrix.net
@@ -8239,6 +8365,7 @@
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 sync.extend.tv
+0.0.0.0 ads.freewheel.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 adserver.shoofle.tv
 0.0.0.0 adserverc.shoofle.tv
