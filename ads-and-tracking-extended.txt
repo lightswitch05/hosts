@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-06T17:38:25+00:00
-# Count: 8255 domains
+# Released: 2018-08-07T16:19:59+00:00
+# Count: 8275 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -22,6 +22,14 @@
 
 0.0.0.0 beacon.tru.am
 0.0.0.0 metrics.hsbc.com.au
+0.0.0.0 ns-cdn.neustar.biz
+0.0.0.0 wpm.neustar.biz
+0.0.0.0 fslt.wpm.neustar.biz
+0.0.0.0 rum-collector.wpm.neustar.biz
+0.0.0.0 districtm.ca
+0.0.0.0 boost-qa2.districtm.ca
+0.0.0.0 prebid.districtm.ca
+0.0.0.0 b3.staging.districtm.ca
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 www.api.intellimize.co
@@ -721,6 +729,7 @@
 0.0.0.0 www.pixel.adxtrem.com
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
+0.0.0.0 tracker.affirm.com
 0.0.0.0 airpr.com
 0.0.0.0 analyst.airpr.com
 0.0.0.0 analyst-stg-coursera.airpr.com
@@ -951,6 +960,7 @@
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
+0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
@@ -4815,6 +4825,7 @@
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab13.marketo.com
+0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-abc.marketo.com
 0.0.0.0 app-abd.marketo.com
 0.0.0.0 app-lon08.marketo.com
@@ -6128,6 +6139,7 @@
 0.0.0.0 workshops.taboola.com
 0.0.0.0 www.taboola.com
 0.0.0.0 pixel.tagdelivery.com
+0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
 0.0.0.0 audience.tapad.com
 0.0.0.0 bd.tapad.com
@@ -7310,6 +7322,13 @@
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
+0.0.0.0 districtm.net
+0.0.0.0 bamboo.districtm.net
+0.0.0.0 bamboo-testing.districtm.net
+0.0.0.0 bitbucket.districtm.net
+0.0.0.0 camp.districtm.net
+0.0.0.0 jira.districtm.net
+0.0.0.0 video.districtm.net
 0.0.0.0 doubleclick.net
 0.0.0.0 au.doubleclick.net
 0.0.0.0 ad.au.doubleclick.net
@@ -7734,6 +7753,7 @@
 0.0.0.0 grey.soju.openx.net
 0.0.0.0 white.soju.openx.net
 0.0.0.0 yellow.soju.openx.net
+0.0.0.0 talkingpointsmemo-d.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 www.openx.net
