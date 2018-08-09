@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-06T17:40:32+00:00
-# Count: 43 domains
+# Released: 2018-08-09T12:30:57+00:00
+# Count: 45 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -23,6 +23,7 @@
 0.0.0.0 cortana.ai
 0.0.0.0 api.cortana.ai
 0.0.0.0 data-location.enhance.co
+0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 ugc.bazaarvoice.com
 0.0.0.0 location.bloomberg.com
@@ -52,6 +53,7 @@
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 peoplerecommendations.skype.com
 0.0.0.0 geoip.solarleadfactory.com
+0.0.0.0 surveygizmo.com
 0.0.0.0 samsungresources.visionobjects.com
 0.0.0.0 weather.wapp.wii.com
 0.0.0.0 cdf-anon.xboxlive.com
