@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-07T17:25:21+00:00
-# Count: 8441 domains
+# Released: 2018-08-08T18:08:52+00:00
+# Count: 8477 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2435,6 +2435,29 @@
 0.0.0.0 fanbread.com
 0.0.0.0 s1.fanbread.com
 0.0.0.0 s2.fanbread.com
+0.0.0.0 fastly-insights.com
+0.0.0.0 h1.fastly-insights.com
+0.0.0.0 h2.fastly-insights.com
+0.0.0.0 pops.fastly-insights.com
+0.0.0.0 sec.fastly-insights.com
+0.0.0.0 pops.sec.fastly-insights.com
+0.0.0.0 u.sec.fastly-insights.com
+0.0.0.0 staging.fastly-insights.com
+0.0.0.0 pops.staging.fastly-insights.com
+0.0.0.0 u.staging.fastly-insights.com
+0.0.0.0 apac.u.staging.fastly-insights.com
+0.0.0.0 eu.u.staging.fastly-insights.com
+0.0.0.0 us.u.staging.fastly-insights.com
+0.0.0.0 test.fastly-insights.com
+0.0.0.0 pops.test.fastly-insights.com
+0.0.0.0 u.test.fastly-insights.com
+0.0.0.0 apac.u.test.fastly-insights.com
+0.0.0.0 eu.u.test.fastly-insights.com
+0.0.0.0 us.u.test.fastly-insights.com
+0.0.0.0 u.fastly-insights.com
+0.0.0.0 apac.u.fastly-insights.com
+0.0.0.0 eu.u.fastly-insights.com
+0.0.0.0 us.u.fastly-insights.com
 0.0.0.0 fgl.com
 0.0.0.0 blog.fgl.com
 0.0.0.0 dashboard.fgl.com
@@ -3959,6 +3982,8 @@
 0.0.0.0 webhooks2.franklyinc.com
 0.0.0.0 webhooks3.franklyinc.com
 0.0.0.0 metrics.freecreditscore.com
+0.0.0.0 ads-api.ft.com
+0.0.0.0 spoor-api.ft.com
 0.0.0.0 fullstory.com
 0.0.0.0 blog.fullstory.com
 0.0.0.0 www.blog.fullstory.com
@@ -6080,6 +6105,17 @@
 0.0.0.0 www.go.sonobi.com
 0.0.0.0 sharepoint.sonobi.com
 0.0.0.0 www.sonobi.com
+0.0.0.0 speedcurve.com
+0.0.0.0 api.speedcurve.com
+0.0.0.0 dev.api.speedcurve.com
+0.0.0.0 local.api.speedcurve.com
+0.0.0.0 cdn.speedcurve.com
+0.0.0.0 dev.speedcurve.com
+0.0.0.0 img.speedcurve.com
+0.0.0.0 ssd.speedcurve.com
+0.0.0.0 www.ssd.speedcurve.com
+0.0.0.0 wpt.speedcurve.com
+0.0.0.0 wpt1.speedcurve.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 ad-player.spotxchange.com
