@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-06T17:40:32+00:00
-# Count: 193 domains
+# Released: 2018-08-09T12:30:57+00:00
+# Count: 204 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -28,6 +28,7 @@
 0.0.0.0 prod.cch.ifs.cortana.ai
 0.0.0.0 www.cortana.ai
 0.0.0.0 data-location.enhance.co
+0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 ugc.bazaarvoice.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -159,6 +160,16 @@
 0.0.0.0 peoplerecommendations.skype.com
 0.0.0.0 geoip.solarleadfactory.com
 0.0.0.0 www.geoip.solarleadfactory.com
+0.0.0.0 surveygizmo.com
+0.0.0.0 blog.surveygizmo.com
+0.0.0.0 email.surveygizmo.com
+0.0.0.0 www.email.surveygizmo.com
+0.0.0.0 insights.surveygizmo.com
+0.0.0.0 www.insights.surveygizmo.com
+0.0.0.0 support.surveygizmo.com
+0.0.0.0 www.support.surveygizmo.com
+0.0.0.0 try.surveygizmo.com
+0.0.0.0 www.try.surveygizmo.com
 0.0.0.0 samsungresources.visionobjects.com
 0.0.0.0 weather.wapp.wii.com
 0.0.0.0 cdf-anon.xboxlive.com

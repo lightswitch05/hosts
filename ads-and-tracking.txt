@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-07T17:25:21+00:00
-# Count: 1246 domains
+# Released: 2018-08-08T18:08:52+00:00
+# Count: 1251 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -370,6 +370,7 @@
 0.0.0.0 ezwebsitetraffic.com
 0.0.0.0 adserver.ezwebsitetraffic.com
 0.0.0.0 fanbread.com
+0.0.0.0 fastly-insights.com
 0.0.0.0 fgl.com
 0.0.0.0 enhance-config.fgl.com
 0.0.0.0 metrics.fidelity.com
@@ -391,6 +392,8 @@
 0.0.0.0 franklyinc.com
 0.0.0.0 ngw-static.franklyinc.com
 0.0.0.0 metrics.freecreditscore.com
+0.0.0.0 ads-api.ft.com
+0.0.0.0 spoor-api.ft.com
 0.0.0.0 fullstory.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 fyber.com
@@ -740,6 +743,8 @@
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 pixel.socialtyze.com
 0.0.0.0 sonobi.com
+0.0.0.0 speedcurve.com
+0.0.0.0 cdn.speedcurve.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
