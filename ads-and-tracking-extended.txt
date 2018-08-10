@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-08T18:08:52+00:00
-# Count: 8477 domains
+# Released: 2018-08-10T12:00:50+00:00
+# Count: 8481 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -4275,6 +4275,8 @@
 0.0.0.0 staging.www.gigya.com
 0.0.0.0 staging-uploads.www.gigya.com
 0.0.0.0 uploads.www.gigya.com
+0.0.0.0 glasslytics.com
+0.0.0.0 www.glasslytics.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
 0.0.0.0 insights.goodyield.com
@@ -7219,6 +7221,8 @@
 0.0.0.0 origin-5.st.extole.io
 0.0.0.0 origin-6.st.extole.io
 0.0.0.0 origin-7.st.extole.io
+0.0.0.0 ghostboard.io
+0.0.0.0 www.ghostboard.io
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
