@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-10T19:47:16+00:00
-# Count: 8599 domains
+# Released: 2018-08-10T20:12:35+00:00
+# Count: 8651 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -176,7 +176,15 @@
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 atom.adjust.com
+0.0.0.0 abc.atom.adjust.com
+0.0.0.0 ams.atom.adjust.com
+0.0.0.0 aspp.atom.adjust.com
+0.0.0.0 candidate.atom.adjust.com
+0.0.0.0 integrations.atom.adjust.com
+0.0.0.0 lite.atom.adjust.com
+0.0.0.0 product.atom.adjust.com
 0.0.0.0 salescandidate.atom.adjust.com
+0.0.0.0 tech.atom.adjust.com
 0.0.0.0 events.adjust.com
 0.0.0.0 help.adjust.com
 0.0.0.0 learn.adjust.com
@@ -208,6 +216,9 @@
 0.0.0.0 crcdn.adnxs.com
 0.0.0.0 dcdn.adnxs.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 post.update.ib.adnxs.com
+0.0.0.0 s.update.ib.adnxs.com
+0.0.0.0 t.update.ib.adnxs.com
 0.0.0.0 jp.adnxs.com
 0.0.0.0 mp.adnxs.com
 0.0.0.0 nym1-ib.adnxs.com
@@ -431,6 +442,7 @@
 0.0.0.0 obi.adportal.advertising.com
 0.0.0.0 adtech.advertising.com
 0.0.0.0 agora.advertising.com
+0.0.0.0 adserver.aol.advertising.com
 0.0.0.0 aop-prog.advertising.com
 0.0.0.0 secure.bannerfarm.advertising.com
 0.0.0.0 beta-lombardi.advertising.com
@@ -625,9 +637,11 @@
 0.0.0.0 deploy.adx1.com
 0.0.0.0 dev.adx1.com
 0.0.0.0 www.dev.adx1.com
+0.0.0.0 develop.adx1.com
 0.0.0.0 development.adx1.com
 0.0.0.0 dialin.adx1.com
 0.0.0.0 direct.adx1.com
+0.0.0.0 www.direct.adx1.com
 0.0.0.0 docs.adx1.com
 0.0.0.0 www.docs.adx1.com
 0.0.0.0 down.adx1.com
@@ -710,10 +724,13 @@
 0.0.0.0 smtp.adx1.com
 0.0.0.0 ssl.adx1.com
 0.0.0.0 www.ssl.adx1.com
+0.0.0.0 stage.adx1.com
 0.0.0.0 staging.adx1.com
 0.0.0.0 static.adx1.com
+0.0.0.0 stg.adx1.com
 0.0.0.0 store.adx1.com
 0.0.0.0 www.store.adx1.com
+0.0.0.0 test.adx1.com
 0.0.0.0 u5t.adx1.com
 0.0.0.0 w.adx1.com
 0.0.0.0 webmail.adx1.com
@@ -1087,6 +1104,8 @@
 0.0.0.0 community-staging.appdynamics.com
 0.0.0.0 corp.appdynamics.com
 0.0.0.0 dc3.corp.appdynamics.com
+0.0.0.0 it-vcenter-01.corp.appdynamics.com
+0.0.0.0 vcenter.corp.appdynamics.com
 0.0.0.0 demo.appdynamics.com
 0.0.0.0 eng.appdynamics.com
 0.0.0.0 engg.appdynamics.com
@@ -1142,6 +1161,7 @@
 0.0.0.0 status.appsee.com
 0.0.0.0 support.appsee.com
 0.0.0.0 www.support.appsee.com
+0.0.0.0 throttled.api.test.appsee.com
 0.0.0.0 dashboard.bom.test.appsee.com
 0.0.0.0 api.qa.test.appsee.com
 0.0.0.0 dashboard.qa.test.appsee.com
@@ -1597,8 +1617,10 @@
 0.0.0.0 content-library.demandbase.com
 0.0.0.0 demandbase.demandbase.com
 0.0.0.0 www.demandbase.demandbase.com
+0.0.0.0 dsp.demandbase.com
 0.0.0.0 dsp-bidder-dev.demandbase.com
 0.0.0.0 kuber.dsp-bidder-dev.demandbase.com
+0.0.0.0 dsp-dev.demandbase.com
 0.0.0.0 dsp-prod.demandbase.com
 0.0.0.0 dsp-stg.demandbase.com
 0.0.0.0 gdpr-dev.demandbase.com
@@ -2019,6 +2041,7 @@
 0.0.0.0 akamai-san22.exacttarget.com
 0.0.0.0 akamai-san23.exacttarget.com
 0.0.0.0 akamai-san24.exacttarget.com
+0.0.0.0 akamai-san25.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
@@ -2735,6 +2758,7 @@
 0.0.0.0 cs75.content.force.com
 0.0.0.0 cs76.content.force.com
 0.0.0.0 cs77.content.force.com
+0.0.0.0 azusgb02-full-c.cs77.content.force.com
 0.0.0.0 cs78.content.force.com
 0.0.0.0 cs79.content.force.com
 0.0.0.0 cs8.content.force.com
@@ -3896,6 +3920,7 @@
 0.0.0.0 um5.visual.force.com
 0.0.0.0 um6.visual.force.com
 0.0.0.0 um7.visual.force.com
+0.0.0.0 viv1.force.com
 0.0.0.0 viv2.force.com
 0.0.0.0 viv3.force.com
 0.0.0.0 viv4.force.com
@@ -3985,6 +4010,7 @@
 0.0.0.0 qa.ngm.franklyinc.com
 0.0.0.0 webhooks.ngm.franklyinc.com
 0.0.0.0 ngw-static.franklyinc.com
+0.0.0.0 preview.franklyinc.com
 0.0.0.0 req.franklyinc.com
 0.0.0.0 csp.req.franklyinc.com
 0.0.0.0 ssr.franklyinc.com
@@ -4118,6 +4144,8 @@
 0.0.0.0 tracking.fyber.com
 0.0.0.0 unity.fyber.com
 0.0.0.0 video.fyber.com
+0.0.0.0 video-aws-staging.fyber.com
+0.0.0.0 video-aws-stg.fyber.com
 0.0.0.0 video-dsa.fyber.com
 0.0.0.0 video-interstitial-assets-cdn.fyber.com
 0.0.0.0 broker.video-v2.fyber.com
@@ -4277,10 +4305,15 @@
 0.0.0.0 reports.us1.gigya.com
 0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 us1-direct.gigya.com
+0.0.0.0 us1-email-mng.gigya.com
+0.0.0.0 www.us1-email-mng.gigya.com
 0.0.0.0 us1-st1.gigya.com
 0.0.0.0 us1-st2.gigya.com
+0.0.0.0 us1a.gigya.com
 0.0.0.0 us1a-email-mng.gigya.com
 0.0.0.0 www.us1a-email-mng.gigya.com
+0.0.0.0 us1b.gigya.com
+0.0.0.0 us1d.gigya.com
 0.0.0.0 us2.gigya.com
 0.0.0.0 www.gigya.com
 0.0.0.0 lgn.www.gigya.com
@@ -4502,13 +4535,16 @@
 0.0.0.0 jivox.com
 0.0.0.0 api.jivox.com
 0.0.0.0 app.api.jivox.com
+0.0.0.0 kube.app.api.jivox.com
 0.0.0.0 qa1.app.api.jivox.com
 0.0.0.0 qa3.app.api.jivox.com
+0.0.0.0 kube.brb.api.jivox.com
 0.0.0.0 qa1.brb.api.jivox.com
 0.0.0.0 qa3.brb.api.jivox.com
 0.0.0.0 dev.api.jivox.com
 0.0.0.0 stub.api.jivox.com
 0.0.0.0 app.jivox.com
+0.0.0.0 kube.app.jivox.com
 0.0.0.0 qa1.app.jivox.com
 0.0.0.0 qa3.app.jivox.com
 0.0.0.0 stage.app.jivox.com
@@ -5494,6 +5530,7 @@
 0.0.0.0 tracking.campaign-tracking-service.prod.paperg.com
 0.0.0.0 capture.prod.paperg.com
 0.0.0.0 cdn.prod.paperg.com
+0.0.0.0 devops-dashboard.prod.paperg.com
 0.0.0.0 dynamic-template-engine.prod.paperg.com
 0.0.0.0 firehound.prod.paperg.com
 0.0.0.0 api.release.firehound.prod.paperg.com
@@ -5698,6 +5735,7 @@
 0.0.0.0 st3.qualtrics.com
 0.0.0.0 s1.st3.qualtrics.com
 0.0.0.0 success.qualtrics.com
+0.0.0.0 syd1.qualtrics.com
 0.0.0.0 us.qualtrics.com
 0.0.0.0 us2.qualtrics.com
 0.0.0.0 ut1.qualtrics.com
@@ -6495,6 +6533,7 @@
 0.0.0.0 eu2.thunderhead.com
 0.0.0.0 eu3.thunderhead.com
 0.0.0.0 eu4.thunderhead.com
+0.0.0.0 sandbox.ia.thunderhead.com
 0.0.0.0 learn.thunderhead.com
 0.0.0.0 lync.thunderhead.com
 0.0.0.0 lyncdiscover.thunderhead.com
@@ -6665,6 +6704,8 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 ugdturner.com
+0.0.0.0 dev.ugdturner.com
+0.0.0.0 prod.ugdturner.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 pixel.geotex.uk.com
 0.0.0.0 config.uca.cloud.unity3d.com
@@ -6927,6 +6968,7 @@
 0.0.0.0 event.wbinsights.com
 0.0.0.0 jupyter.wbinsights.com
 0.0.0.0 playdemic.jupyter.wbinsights.com
+0.0.0.0 looker.wbinsights.com
 0.0.0.0 mgp.wbinsights.com
 0.0.0.0 nrs.wbinsights.com
 0.0.0.0 palebrook.wbinsights.com
@@ -7176,6 +7218,7 @@
 0.0.0.0 billing.backtrace.io
 0.0.0.0 console.backtrace.io
 0.0.0.0 documentation.backtrace.io
+0.0.0.0 get.backtrace.io
 0.0.0.0 www.gotime.backtrace.io
 0.0.0.0 help.backtrace.io
 0.0.0.0 accounts.in.backtrace.io
@@ -7612,8 +7655,11 @@
 0.0.0.0 bamboo.districtm.net
 0.0.0.0 bamboo-testing.districtm.net
 0.0.0.0 bitbucket.districtm.net
+0.0.0.0 bitbucket-testing.districtm.net
 0.0.0.0 camp.districtm.net
+0.0.0.0 dmx-docs.districtm.net
 0.0.0.0 jira.districtm.net
+0.0.0.0 jira-testing.districtm.net
 0.0.0.0 video.districtm.net
 0.0.0.0 doubleclick.net
 0.0.0.0 au.doubleclick.net
@@ -7674,6 +7720,7 @@
 0.0.0.0 cdn.best-tv.com.c.footprint.net
 0.0.0.0 ssl-cdn.multibrand3.pgsitecore.com.c.footprint.net
 0.0.0.0 fwmrm.net
+0.0.0.0 dev.aws.fwmrm.net
 0.0.0.0 fw1.aws.fwmrm.net
 0.0.0.0 fwsso.aws.fwmrm.net
 0.0.0.0 dev.klotski.aws.fwmrm.net
@@ -7683,6 +7730,7 @@
 0.0.0.0 dev.linear.aws.fwmrm.net
 0.0.0.0 stg.linear.aws.fwmrm.net
 0.0.0.0 sb1.aws.fwmrm.net
+0.0.0.0 ss.aws.fwmrm.net
 0.0.0.0 dev.vw.aws.fwmrm.net
 0.0.0.0 git.dev.fwmrm.net
 0.0.0.0 registry.dev.fwmrm.net
@@ -7869,6 +7917,8 @@
 0.0.0.0 www.sea-dc01.marketo.net
 0.0.0.0 sea-dc02.marketo.net
 0.0.0.0 www.sea-dc02.marketo.net
+0.0.0.0 sj-dc02.marketo.net
+0.0.0.0 www.sj-dc02.marketo.net
 0.0.0.0 ssl-munchkin.marketo.net
 0.0.0.0 syd-dc01.marketo.net
 0.0.0.0 www.syd-dc01.marketo.net
@@ -8301,6 +8351,7 @@
 0.0.0.0 www.liqwid.mgr.consensu.org
 0.0.0.0 cmp.madvertise.mgr.consensu.org
 0.0.0.0 onetag.mgr.consensu.org
+0.0.0.0 cookies.onetrust.mgr.consensu.org
 0.0.0.0 cookies-dev.onetrust.mgr.consensu.org
 0.0.0.0 cookies-prod.onetrust.mgr.consensu.org
 0.0.0.0 pluto.mgr.consensu.org
@@ -8389,6 +8440,7 @@
 0.0.0.0 helb6.beta.aviasales.ru
 0.0.0.0 helbw.beta.aviasales.ru
 0.0.0.0 helw.beta.aviasales.ru
+0.0.0.0 hhdt1.beta.aviasales.ru
 0.0.0.0 hrbot.beta.aviasales.ru
 0.0.0.0 irugatest.beta.aviasales.ru
 0.0.0.0 kibana.beta.aviasales.ru
