@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-10T12:00:50+00:00
-# Count: 8481 domains
+# Released: 2018-08-10T15:44:21+00:00
+# Count: 8597 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -48,6 +48,18 @@
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
 0.0.0.0 trk-sp.sele.co
+0.0.0.0 silverpush.co
+0.0.0.0 ai.silverpush.co
+0.0.0.0 api.silverpush.co
+0.0.0.0 ckl.silverpush.co
+0.0.0.0 hexa.silverpush.co
+0.0.0.0 p.silverpush.co
+0.0.0.0 www.p.silverpush.co
+0.0.0.0 parallels.silverpush.co
+0.0.0.0 pix.silverpush.co
+0.0.0.0 www.pix.silverpush.co
+0.0.0.0 tr.silverpush.co
+0.0.0.0 www.tr.silverpush.co
 0.0.0.0 snackly.co
 0.0.0.0 chef.snackly.co
 0.0.0.0 frontend.snackly.co
@@ -4733,6 +4745,37 @@
 0.0.0.0 vap.lijit.com
 0.0.0.0 webmail.lijit.com
 0.0.0.0 www.webmail.lijit.com
+0.0.0.0 lisnr.com
+0.0.0.0 api.lisnr.com
+0.0.0.0 www.api.lisnr.com
+0.0.0.0 api-development.lisnr.com
+0.0.0.0 api-development-us-west-2.lisnr.com
+0.0.0.0 api-staging.lisnr.com
+0.0.0.0 api-staging-us-west-2.lisnr.com
+0.0.0.0 app.lisnr.com
+0.0.0.0 www.app.lisnr.com
+0.0.0.0 blog.lisnr.com
+0.0.0.0 dreamville.lisnr.com
+0.0.0.0 www.dreamville.lisnr.com
+0.0.0.0 festival.lisnr.com
+0.0.0.0 www.festival.lisnr.com
+0.0.0.0 git.lisnr.com
+0.0.0.0 www.git.lisnr.com
+0.0.0.0 johnfrieda.lisnr.com
+0.0.0.0 www.johnfrieda.lisnr.com
+0.0.0.0 mia.lisnr.com
+0.0.0.0 portal.lisnr.com
+0.0.0.0 www.portal.lisnr.com
+0.0.0.0 rocnation.lisnr.com
+0.0.0.0 www.rocnation.lisnr.com
+0.0.0.0 shakira2.lisnr.com
+0.0.0.0 www.shakira2.lisnr.com
+0.0.0.0 staging.lisnr.com
+0.0.0.0 www.staging.lisnr.com
+0.0.0.0 staging-rocnation.lisnr.com
+0.0.0.0 www.staging-rocnation.lisnr.com
+0.0.0.0 staging1.lisnr.com
+0.0.0.0 www.lisnr.com
 0.0.0.0 livefyre.com
 0.0.0.0 accounts.livefyre.com
 0.0.0.0 admin.livefyre.com
@@ -4856,6 +4899,7 @@
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab13.marketo.com
+0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-abc.marketo.com
 0.0.0.0 app-abd.marketo.com
@@ -5930,6 +5974,9 @@
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 shopkick.com
+0.0.0.0 beyond-api.shopkick.com
+0.0.0.0 metrics2.shopkick.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 www.adsdk.siliconorchard.com
@@ -7093,6 +7140,19 @@
 0.0.0.0 is.mediadelivery.fi
 0.0.0.0 keepass.fr
 0.0.0.0 www.keepass.fr
+0.0.0.0 drawbrid.ge
+0.0.0.0 admin.drawbrid.ge
+0.0.0.0 assets.drawbrid.ge
+0.0.0.0 blog.drawbrid.ge
+0.0.0.0 git.drawbrid.ge
+0.0.0.0 graphite.drawbrid.ge
+0.0.0.0 hardhat.drawbrid.ge
+0.0.0.0 login.drawbrid.ge
+0.0.0.0 marketplace.drawbrid.ge
+0.0.0.0 partners.drawbrid.ge
+0.0.0.0 platform.drawbrid.ge
+0.0.0.0 relay.drawbrid.ge
+0.0.0.0 www.drawbrid.ge
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
 0.0.0.0 applifier.info
@@ -7181,6 +7241,48 @@
 0.0.0.0 eu-west-1.stinger-ad.bidr.io
 0.0.0.0 us-east-1.stinger-ad.bidr.io
 0.0.0.0 us-west-2.stinger-ad.bidr.io
+0.0.0.0 branch.io
+0.0.0.0 ai.branch.io
+0.0.0.0 api.alpha.branch.io
+0.0.0.0 dashboard.alpha.branch.io
+0.0.0.0 link.alpha.branch.io
+0.0.0.0 api.branch.io
+0.0.0.0 crypt.aws.branch.io
+0.0.0.0 munki.aws.branch.io
+0.0.0.0 munkireport.aws.branch.io
+0.0.0.0 puppet.aws.branch.io
+0.0.0.0 puppetdb.aws.branch.io
+0.0.0.0 sal.aws.branch.io
+0.0.0.0 vpn.aws.branch.io
+0.0.0.0 zentral.aws.branch.io
+0.0.0.0 api.beta.branch.io
+0.0.0.0 dashboard.beta.branch.io
+0.0.0.0 link.beta.branch.io
+0.0.0.0 blog.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 dashboard.branch.io
+0.0.0.0 dev.branch.io
+0.0.0.0 email.branch.io
+0.0.0.0 encrypt.branch.io
+0.0.0.0 events.branch.io
+0.0.0.0 gdpr.branch.io
+0.0.0.0 go.branch.io
+0.0.0.0 growth.branch.io
+0.0.0.0 prod.branch.io
+0.0.0.0 tron-api.prod.branch.io
+0.0.0.0 tron-branchmain.prod.branch.io
+0.0.0.0 tron-test.prod.branch.io
+0.0.0.0 api.qa.branch.io
+0.0.0.0 ssltest.branch.io
+0.0.0.0 ssltest2.branch.io
+0.0.0.0 stage.branch.io
+0.0.0.0 start.branch.io
+0.0.0.0 status.branch.io
+0.0.0.0 support.branch.io
+0.0.0.0 video.branch.io
+0.0.0.0 vpn2.branch.io
+0.0.0.0 vulcan.branch.io
+0.0.0.0 www2.branch.io
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 extole.io
 0.0.0.0 lo.extole.io
@@ -8404,8 +8506,22 @@
 0.0.0.0 retargeting.bksn.se
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
+0.0.0.0 terminus.services
+0.0.0.0 vidassets.terminus.services
 0.0.0.0 sync.extend.tv
 0.0.0.0 ads.freewheel.tv
+0.0.0.0 ispot.tv
+0.0.0.0 analytics.ispot.tv
+0.0.0.0 staging.analytics.ispot.tv
+0.0.0.0 www.staging.analytics.ispot.tv
+0.0.0.0 om.api.ispot.tv
+0.0.0.0 staging.om.api.ispot.tv
+0.0.0.0 www.staging.om.api.ispot.tv
+0.0.0.0 autodiscover.ispot.tv
+0.0.0.0 bel-dag-001.ispot.tv
+0.0.0.0 bel-dag-003.ispot.tv
+0.0.0.0 assets.cdn.ispot.tv
+0.0.0.0 ispot-mx.ispot.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 adserver.shoofle.tv
 0.0.0.0 adserverc.shoofle.tv

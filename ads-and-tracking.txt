@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-10T12:00:49+00:00
-# Count: 1253 domains
+# Released: 2018-08-10T15:44:21+00:00
+# Count: 1264 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -35,6 +35,7 @@
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
 0.0.0.0 trk-sp.sele.co
+0.0.0.0 silverpush.co
 0.0.0.0 snackly.co
 0.0.0.0 33across.com
 0.0.0.0 cms-xch.33across.com
@@ -493,6 +494,7 @@
 0.0.0.0 www.lifestreet.com
 0.0.0.0 lijit.com
 0.0.0.0 vap.lijit.com
+0.0.0.0 lisnr.com
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 cdn.lmiutil.com
@@ -509,6 +511,7 @@
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
+0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-abc.marketo.com
 0.0.0.0 app-abd.marketo.com
@@ -731,6 +734,8 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 match.sharethrough.com
 0.0.0.0 match-us-east-1.sharethrough.com
+0.0.0.0 shopkick.com
+0.0.0.0 beyond-api.shopkick.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 sizmek.com
@@ -962,6 +967,7 @@
 0.0.0.0 mediadelivery.fi
 0.0.0.0 is.mediadelivery.fi
 0.0.0.0 keepass.fr
+0.0.0.0 drawbrid.ge
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -973,6 +979,8 @@
 0.0.0.0 backtrace.io
 0.0.0.0 bidr.io
 0.0.0.0 match.prod.bidr.io
+0.0.0.0 branch.io
+0.0.0.0 cdn.branch.io
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 extole.io
 0.0.0.0 origin.extole.io
@@ -1253,8 +1261,11 @@
 0.0.0.0 retargeting.bksn.se
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
+0.0.0.0 terminus.services
+0.0.0.0 vidassets.terminus.services
 0.0.0.0 sync.extend.tv
 0.0.0.0 ads.freewheel.tv
+0.0.0.0 ispot.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 serverc.shoofle.tv
