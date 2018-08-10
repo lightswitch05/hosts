@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-10T15:44:21+00:00
-# Count: 1264 domains
+# Released: 2018-08-10T19:47:16+00:00
+# Count: 1266 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -582,6 +582,8 @@
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 mynativeplatform.com
 0.0.0.0 cks.mynativeplatform.com
+0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 n131adserv.com
 0.0.0.0 analytics.narvar.com
 0.0.0.0 shutterfly.narvar.com
