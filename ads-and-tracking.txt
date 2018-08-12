@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-10T20:12:35+00:00
-# Count: 1266 domains
+# Released: 2018-08-12T14:16:19+00:00
+# Count: 1271 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -37,6 +37,8 @@
 0.0.0.0 trk-sp.sele.co
 0.0.0.0 silverpush.co
 0.0.0.0 snackly.co
+0.0.0.0 247realmedia.com
+0.0.0.0 oasc18.247realmedia.com
 0.0.0.0 33across.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 3lift.com
@@ -211,6 +213,8 @@
 0.0.0.0 apptrckr.com
 0.0.0.0 adserver.aptdynamics.com
 0.0.0.0 targeting.tronc.arcpublishing.com
+0.0.0.0 arrivalist.com
+0.0.0.0 dc.arrivalist.com
 0.0.0.0 pixel.aspirei.com
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 analytics.atlassian.com
@@ -1040,6 +1044,7 @@
 0.0.0.0 2o7.net
 0.0.0.0 mediaplanet.112.2o7.net
 0.0.0.0 twci.112.2o7.net
+0.0.0.0 virginiatour.112.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
