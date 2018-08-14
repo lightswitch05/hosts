@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-12T14:16:19+00:00
-# Count: 1271 domains
+# Released: 2018-08-14T16:10:55+00:00
+# Count: 1284 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -227,6 +227,9 @@
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
+0.0.0.0 beemray.com
+0.0.0.0 sdk.beemray.com
+0.0.0.0 cnn.sdk.beemray.com
 0.0.0.0 beeviewd.com
 0.0.0.0 adserver.beeviewd.com
 0.0.0.0 bestcontentonline.com
@@ -758,6 +761,8 @@
 0.0.0.0 speedcurve.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 springserve.com
@@ -842,6 +847,8 @@
 0.0.0.0 ma.tune.com
 0.0.0.0 configuration.ma.tune.com
 0.0.0.0 playlist.ma.tune.com
+0.0.0.0 cdn.turner.com
+0.0.0.0 ssl.cdn.turner.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 ugdturner.com
 0.0.0.0 pixel.geotex.uk.com
@@ -862,6 +869,7 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 urbaninsight.com
 0.0.0.0 srepdata.usatoday.com
 0.0.0.0 userbest.com
@@ -870,6 +878,7 @@
 0.0.0.0 adserver.valuemd.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 www.venatusmedia.com
+0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vicedata.com
 0.0.0.0 vicinity-marketing.com
@@ -1044,6 +1053,7 @@
 0.0.0.0 2o7.net
 0.0.0.0 mediaplanet.112.2o7.net
 0.0.0.0 twci.112.2o7.net
+0.0.0.0 verizonwireless.112.2o7.net
 0.0.0.0 virginiatour.112.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 admarketplace.net
@@ -1106,6 +1116,7 @@
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 4645336.fls.doubleclick.net
+0.0.0.0 4735610.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
@@ -1241,6 +1252,8 @@
 0.0.0.0 yieldmanager.net
 0.0.0.0 ywxi.net
 0.0.0.0 cdn.ywxi.net
+0.0.0.0 zqtk.net
+0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 a.pub.network
 0.0.0.0 eazybiz.ng
 0.0.0.0 adsrvr.org
