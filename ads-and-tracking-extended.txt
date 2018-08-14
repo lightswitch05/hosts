@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-12T14:16:19+00:00
-# Count: 8739 domains
+# Released: 2018-08-14T16:10:55+00:00
+# Count: 8773 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1305,6 +1305,11 @@
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
+0.0.0.0 beemray.com
+0.0.0.0 sdk.beemray.com
+0.0.0.0 cnn.sdk.beemray.com
+0.0.0.0 support.beemray.com
+0.0.0.0 www.support.beemray.com
 0.0.0.0 beeviewd.com
 0.0.0.0 adserver.beeviewd.com
 0.0.0.0 bicat.beeviewd.com
@@ -6293,6 +6298,8 @@
 0.0.0.0 wpt.speedcurve.com
 0.0.0.0 wpt1.speedcurve.com
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 ad-player.spotxchange.com
 0.0.0.0 admin.spotxchange.com
@@ -6788,6 +6795,27 @@
 0.0.0.0 stage.tune.com
 0.0.0.0 support.tune.com
 0.0.0.0 updates.tune.com
+0.0.0.0 cdn.turner.com
+0.0.0.0 amd.cdn.turner.com
+0.0.0.0 amd-ssl.cdn.turner.com
+0.0.0.0 boomerang-images.cdn.turner.com
+0.0.0.0 cvp.cdn.turner.com
+0.0.0.0 dynaimage.cdn.turner.com
+0.0.0.0 dev.dynaimage.cdn.turner.com
+0.0.0.0 ht.cdn.turner.com
+0.0.0.0 ht2.cdn.turner.com
+0.0.0.0 ht3.cdn.turner.com
+0.0.0.0 i.cdn.turner.com
+0.0.0.0 i2.cdn.turner.com
+0.0.0.0 nbalp.cdn.turner.com
+0.0.0.0 pmd.cdn.turner.com
+0.0.0.0 s.cdn.turner.com
+0.0.0.0 ssl.cdn.turner.com
+0.0.0.0 turnerlive.cdn.turner.com
+0.0.0.0 turnip.cdn.turner.com
+0.0.0.0 tve.cdn.turner.com
+0.0.0.0 tve-vod.cdn.turner.com
+0.0.0.0 z.cdn.turner.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 ugdturner.com
@@ -6848,6 +6876,7 @@
 0.0.0.0 vox.urbanairship.com
 0.0.0.0 voxhq.urbanairship.com
 0.0.0.0 web-ci.urbanairship.com
+0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 webinars.urbanairship.com
 0.0.0.0 www.urbanairship.com
 0.0.0.0 urbaninsight.com
@@ -6882,6 +6911,7 @@
 0.0.0.0 adserver.valuemd.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 www.venatusmedia.com
+0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vicedata.com
 0.0.0.0 blog.vicedata.com
@@ -7597,6 +7627,7 @@
 0.0.0.0 mediaplanet.112.2o7.net
 0.0.0.0 survey.112.2o7.net
 0.0.0.0 twci.112.2o7.net
+0.0.0.0 verizonwireless.112.2o7.net
 0.0.0.0 virginiatour.112.2o7.net
 0.0.0.0 122.2o7.net
 0.0.0.0 survey.122.2o7.net
@@ -7760,6 +7791,7 @@
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 4645336.fls.doubleclick.net
+0.0.0.0 4735610.fls.doubleclick.net
 0.0.0.0 fr.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -8367,6 +8399,8 @@
 0.0.0.0 ywxi.net
 0.0.0.0 cdn.ywxi.net
 0.0.0.0 www.cdn.ywxi.net
+0.0.0.0 zqtk.net
+0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 a.pub.network
 0.0.0.0 eazybiz.ng
 0.0.0.0 apidemo.eazybiz.ng

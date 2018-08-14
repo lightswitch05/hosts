@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-11T14:17:13+00:00
-# Count: 45 domains
+# Released: 2018-08-14T14:21:05+00:00
+# Count: 47 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -58,6 +58,8 @@
 0.0.0.0 weather.wapp.wii.com
 0.0.0.0 cdf-anon.xboxlive.com
 0.0.0.0 ipinfo.io
+0.0.0.0 juicer.io
+0.0.0.0 assets.juicer.io
 0.0.0.0 buff.ly
 0.0.0.0 asimov.vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
