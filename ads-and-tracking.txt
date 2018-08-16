@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-14T16:10:55+00:00
-# Count: 1284 domains
+# Released: 2018-08-16T23:10:33+00:00
+# Count: 1289 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -223,6 +223,7 @@
 0.0.0.0 awltovhc.com
 0.0.0.0 b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
+0.0.0.0 smetrics.babycenter.com
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
@@ -986,6 +987,7 @@
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
+0.0.0.0 match33.info
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
 0.0.0.0 public-analytics.useast.atlassian.io
@@ -1175,6 +1177,8 @@
 0.0.0.0 www.munchkin.marketo.net
 0.0.0.0 maxymiser.net
 0.0.0.0 service.maxymiser.net
+0.0.0.0 media.net
+0.0.0.0 prebid.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
 0.0.0.0 monetate.net
@@ -1214,6 +1218,7 @@
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 faithit-d.openx.net
 0.0.0.0 gannett-d.openx.net
+0.0.0.0 mediavine-d.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
 0.0.0.0 us-u.openx.net

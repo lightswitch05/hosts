@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-14T16:10:55+00:00
-# Count: 8773 domains
+# Released: 2018-08-16T23:10:33+00:00
+# Count: 8810 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1301,6 +1301,7 @@
 0.0.0.0 adserver.b2c.com
 0.0.0.0 cdn.adserver.b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
+0.0.0.0 smetrics.babycenter.com
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
@@ -7318,6 +7319,7 @@
 0.0.0.0 www.pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
+0.0.0.0 match33.info
 0.0.0.0 5rocks.io
 0.0.0.0 api.5rocks.io
 0.0.0.0 ltv-bot.5rocks.io
@@ -8054,6 +8056,40 @@
 0.0.0.0 www.tlv-dc02.marketo.net
 0.0.0.0 maxymiser.net
 0.0.0.0 service.maxymiser.net
+0.0.0.0 media.net
+0.0.0.0 contextualadsorigin.media.net
+0.0.0.0 control.media.net
+0.0.0.0 yoda.internal.media.net
+0.0.0.0 www.yoda.internal.media.net
+0.0.0.0 c.msas.media.net
+0.0.0.0 cf.c.msas.media.net
+0.0.0.0 staging.c.msas.media.net
+0.0.0.0 d.msas.media.net
+0.0.0.0 cf.d.msas.media.net
+0.0.0.0 staging.d.msas.media.net
+0.0.0.0 docs.msas.media.net
+0.0.0.0 hb.docs.msas.media.net
+0.0.0.0 doorman.msas.media.net
+0.0.0.0 c.gcp.msas.media.net
+0.0.0.0 d.gcp.msas.media.net
+0.0.0.0 p.gcp.msas.media.net
+0.0.0.0 pu.gcp.msas.media.net
+0.0.0.0 rtb.gcp.msas.media.net
+0.0.0.0 se.gcp.msas.media.net
+0.0.0.0 grafana.msas.media.net
+0.0.0.0 p.msas.media.net
+0.0.0.0 cf.p.msas.media.net
+0.0.0.0 staging.p.msas.media.net
+0.0.0.0 prometheus.msas.media.net
+0.0.0.0 rtb.msas.media.net
+0.0.0.0 s2s.msas.media.net
+0.0.0.0 se.msas.media.net
+0.0.0.0 staging.sh.msas.media.net
+0.0.0.0 prebid.media.net
+0.0.0.0 publisher.media.net
+0.0.0.0 publishers.media.net
+0.0.0.0 vogon.srv.media.net
+0.0.0.0 ssltest.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 ad.mediabong.net
 0.0.0.0 www.ad.mediabong.net
@@ -8224,6 +8260,7 @@
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 faithit-d.openx.net
 0.0.0.0 gannett-d.openx.net
+0.0.0.0 mediavine-d.openx.net
 0.0.0.0 meta.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 soju.openx.net
