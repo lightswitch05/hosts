@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-17T02:01:59+00:00
-# Count: 327 domains
+# Released: 2018-08-17T12:39:25+00:00
+# Count: 340 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -213,6 +213,7 @@
 0.0.0.0 betasupport.narvar.com
 0.0.0.0 developer.narvar.com
 0.0.0.0 discuss.narvar.com
+0.0.0.0 gapinstore.narvar.com
 0.0.0.0 hello.narvar.com
 0.0.0.0 qa-assets.narvar.com
 0.0.0.0 see.narvar.com
@@ -270,6 +271,18 @@
 0.0.0.0 tms-tester-us-west.pingdom.com
 0.0.0.0 tools.pingdom.com
 0.0.0.0 www.pingdom.com
+0.0.0.0 providesupport.com
+0.0.0.0 admin.providesupport.com
+0.0.0.0 admin1.providesupport.com
+0.0.0.0 admin2.providesupport.com
+0.0.0.0 admin3.providesupport.com
+0.0.0.0 admin4.providesupport.com
+0.0.0.0 admin1.cdn.providesupport.com
+0.0.0.0 download.providesupport.com
+0.0.0.0 image.providesupport.com
+0.0.0.0 mesenger.providesupport.com
+0.0.0.0 messenger.providesupport.com
+0.0.0.0 operator.providesupport.com
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 calling.consumer.entitlement.skype.com
 0.0.0.0 campaign.consumer.entitlement.skype.com
