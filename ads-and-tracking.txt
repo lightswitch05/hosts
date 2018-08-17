@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-17T02:24:00+00:00
-# Count: 1314 domains
+# Released: 2018-08-17T12:42:29+00:00
+# Count: 1327 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -654,6 +654,8 @@
 0.0.0.0 adserver.pandora.com
 0.0.0.0 paperg.com
 0.0.0.0 cdn.prod.paperg.com
+0.0.0.0 paradym.com
+0.0.0.0 view.paradym.com
 0.0.0.0 pardot.com
 0.0.0.0 parsely.com
 0.0.0.0 pathful.com
@@ -797,6 +799,8 @@
 0.0.0.0 metrics.starz.com
 0.0.0.0 summerhamster.com
 0.0.0.0 www.summerhamster.com
+0.0.0.0 sumo.com
+0.0.0.0 load.sumo.com
 0.0.0.0 supersonic.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 tag-mediation.supersonic.com
@@ -860,6 +864,8 @@
 0.0.0.0 pixel.tree.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
+0.0.0.0 tribalfusion.com
+0.0.0.0 a-lb.tribalfusion.com
 0.0.0.0 tritondigital.com
 0.0.0.0 lt503.tritondigital.com
 0.0.0.0 truconversion.com
@@ -1093,6 +1099,9 @@
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
+0.0.0.0 rfihub.com.akadns.net
+0.0.0.0 a.rfihub.com.akadns.net
+0.0.0.0 a-lb.tribalfusion.com.akadns.net
 0.0.0.0 beacon-all.walmart.com.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
@@ -1142,6 +1151,7 @@
 0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 4735610.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dt-cdn.net
@@ -1258,6 +1268,8 @@
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
+0.0.0.0 sharethis.net
+0.0.0.0 seg-server-lb.global.prod1.sharethis.net
 0.0.0.0 smaato.net
 0.0.0.0 soma-assets.smaato.net
 0.0.0.0 ss-omtrdc.net
@@ -1316,6 +1328,7 @@
 0.0.0.0 sync.extend.tv
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 ispot.tv
+0.0.0.0 pt.ispot.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 serverc.shoofle.tv

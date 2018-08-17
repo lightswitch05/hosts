@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-17T02:01:59+00:00
-# Count: 59 domains
+# Released: 2018-08-17T12:39:25+00:00
+# Count: 61 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -60,6 +60,8 @@
 0.0.0.0 pingdom.com
 0.0.0.0 fpt-api.pingdom.com
 0.0.0.0 tools.pingdom.com
+0.0.0.0 providesupport.com
+0.0.0.0 image.providesupport.com
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 peoplerecommendations.skype.com
 0.0.0.0 geoip.solarleadfactory.com
