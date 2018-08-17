@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-16T23:10:33+00:00
-# Count: 8810 domains
+# Released: 2018-08-17T02:24:00+00:00
+# Count: 8972 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -20,7 +20,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
+0.0.0.0 www.tru.am
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 ns-cdn.neustar.biz
 0.0.0.0 wpm.neustar.biz
@@ -844,6 +846,14 @@
 0.0.0.0 adxtrem.com
 0.0.0.0 pixel.adxtrem.com
 0.0.0.0 www.pixel.adxtrem.com
+0.0.0.0 adyoulike.com
+0.0.0.0 admin.adyoulike.com
+0.0.0.0 www.admin.adyoulike.com
+0.0.0.0 api.adyoulike.com
+0.0.0.0 www.api.adyoulike.com
+0.0.0.0 blog.adyoulike.com
+0.0.0.0 stag-admin.adyoulike.com
+0.0.0.0 www.stag-admin.adyoulike.com
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
 0.0.0.0 tracker.affirm.com
@@ -1078,6 +1088,7 @@
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
+0.0.0.0 statscollectorloadbalancer-695351754.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
@@ -1295,6 +1306,32 @@
 0.0.0.0 www.secure.audiensis.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 www.static.audiensis.com
+0.0.0.0 autopilothq.com
+0.0.0.0 api.autopilothq.com
+0.0.0.0 blog.autopilothq.com
+0.0.0.0 blog-hanger.autopilothq.com
+0.0.0.0 blog-test.autopilothq.com
+0.0.0.0 dev0.autopilothq.com
+0.0.0.0 dev1.autopilothq.com
+0.0.0.0 dev2.autopilothq.com
+0.0.0.0 dev3.autopilothq.com
+0.0.0.0 developers.autopilothq.com
+0.0.0.0 docs.autopilothq.com
+0.0.0.0 flightschool.autopilothq.com
+0.0.0.0 pricing-admin.autopilothq.com
+0.0.0.0 prod0.autopilothq.com
+0.0.0.0 prod1.autopilothq.com
+0.0.0.0 prod2.autopilothq.com
+0.0.0.0 prod3.autopilothq.com
+0.0.0.0 resources.autopilothq.com
+0.0.0.0 share.autopilothq.com
+0.0.0.0 pricing-admin.stage.autopilothq.com
+0.0.0.0 stage0.autopilothq.com
+0.0.0.0 stage1.autopilothq.com
+0.0.0.0 stage2.autopilothq.com
+0.0.0.0 stage3.autopilothq.com
+0.0.0.0 support.autopilothq.com
+0.0.0.0 www2.autopilothq.com
 0.0.0.0 awltovhc.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 b2c.com
@@ -1598,6 +1635,24 @@
 0.0.0.0 post.update.contextweb.com
 0.0.0.0 s.update.contextweb.com
 0.0.0.0 www.contextweb.com
+0.0.0.0 convertkit.com
+0.0.0.0 api.convertkit.com
+0.0.0.0 www.api.convertkit.com
+0.0.0.0 api-black.convertkit.com
+0.0.0.0 app.convertkit.com
+0.0.0.0 www.app.convertkit.com
+0.0.0.0 assets.convertkit.com
+0.0.0.0 black.convertkit.com
+0.0.0.0 cdn.convertkit.com
+0.0.0.0 cdn-staging.convertkit.com
+0.0.0.0 developers.convertkit.com
+0.0.0.0 f.convertkit.com
+0.0.0.0 help.convertkit.com
+0.0.0.0 learn.convertkit.com
+0.0.0.0 legal.convertkit.com
+0.0.0.0 pages.convertkit.com
+0.0.0.0 shop.convertkit.com
+0.0.0.0 www.convertkit.com
 0.0.0.0 dishdigital.sp1.convertro.com
 0.0.0.0 cquotient.com
 0.0.0.0 e.cquotient.com
@@ -2093,6 +2148,20 @@
 0.0.0.0 enhancedstats.com
 0.0.0.0 enhancedtrk.com
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
+0.0.0.0 epom.com
+0.0.0.0 ads.epom.com
+0.0.0.0 www.ads.epom.com
+0.0.0.0 apps.epom.com
+0.0.0.0 cdn.epom.com
+0.0.0.0 dsp.epom.com
+0.0.0.0 market.epom.com
+0.0.0.0 static-ex.epom.com
+0.0.0.0 00f91.static-ex.epom.com
+0.0.0.0 61711.static-ex.epom.com
+0.0.0.0 dd881.static-ex.epom.com
+0.0.0.0 e2b48.static-ex.epom.com
+0.0.0.0 stats-d1396.epom.com
+0.0.0.0 www.epom.com
 0.0.0.0 eqads.com
 0.0.0.0 ads.eqads.com
 0.0.0.0 ads2.eqads.com
@@ -4251,6 +4320,35 @@
 0.0.0.0 kylin.gaeadata.com
 0.0.0.0 ldap.gaeadata.com
 0.0.0.0 ldap-admin.gaeadata.com
+0.0.0.0 getambassador.com
+0.0.0.0 admin.getambassador.com
+0.0.0.0 app.getambassador.com
+0.0.0.0 b2bdemo.getambassador.com
+0.0.0.0 b2bsuccessdemo.getambassador.com
+0.0.0.0 b2cdemo.getambassador.com
+0.0.0.0 b2csuccessdemo.getambassador.com
+0.0.0.0 brandoshmando.getambassador.com
+0.0.0.0 cdn.getambassador.com
+0.0.0.0 developers.dev.getambassador.com
+0.0.0.0 testgoat.dev.getambassador.com
+0.0.0.0 example.getambassador.com
+0.0.0.0 files.getambassador.com
+0.0.0.0 happytails.getambassador.com
+0.0.0.0 inside.getambassador.com
+0.0.0.0 www.inside.getambassador.com
+0.0.0.0 netpromoter.getambassador.com
+0.0.0.0 pages.getambassador.com
+0.0.0.0 cdn.getambassador.com.sandbox.getambassador.com
+0.0.0.0 dev-cdn.getambassador.com.sandbox.getambassador.com
+0.0.0.0 dev-cdn-2.getambassador.com.sandbox.getambassador.com
+0.0.0.0 snippet-fork-two.getambassador.com.sandbox.getambassador.com
+0.0.0.0 pure.snippet-local.getambassador.com.sandbox.getambassador.com
+0.0.0.0 snippet-fork-one.herokuapp.com.sandbox.getambassador.com
+0.0.0.0 snippet-fork-two.herokuapp.com.sandbox.getambassador.com
+0.0.0.0 pure.snippet-local.sandbox.getambassador.com
+0.0.0.0 success-playground.getambassador.com
+0.0.0.0 successexample.getambassador.com
+0.0.0.0 www.getambassador.com
 0.0.0.0 pixel.getchute.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
@@ -5171,6 +5269,16 @@
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
+0.0.0.0 mediavine.com
+0.0.0.0 id.mediavine.com
+0.0.0.0 monitoring.mediavine.com
+0.0.0.0 scripts.mediavine.com
+0.0.0.0 production.site.mediavine.com
+0.0.0.0 staging-site.mediavine.com
+0.0.0.0 vault.mediavine.com
+0.0.0.0 vpn.mediavine.com
+0.0.0.0 web-staging.mediavine.com
+0.0.0.0 www.mediavine.com
 0.0.0.0 tracker.meetleads.com
 0.0.0.0 www.tracker.meetleads.com
 0.0.0.0 metaps.com
@@ -5462,6 +5570,9 @@
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
+0.0.0.0 onaudience.com
+0.0.0.0 www.onaudience.com
+0.0.0.0 x.onaudience.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
 0.0.0.0 optimeze.com
@@ -5775,6 +5886,13 @@
 0.0.0.0 m.preapps.com
 0.0.0.0 www.m.preapps.com
 0.0.0.0 www.preapps.com
+0.0.0.0 privy.com
+0.0.0.0 blog.privy.com
+0.0.0.0 www.blog.privy.com
+0.0.0.0 partners.privy.com
+0.0.0.0 test.privy.com
+0.0.0.0 widget.privy.com
+0.0.0.0 www.privy.com
 0.0.0.0 metrics.protectmyid.com
 0.0.0.0 pt2tracker.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -5908,6 +6026,22 @@
 0.0.0.0 webmail.returnpath.com
 0.0.0.0 www.webmail.returnpath.com
 0.0.0.0 www.returnpath.com
+0.0.0.0 revcontent.com
+0.0.0.0 admin.revcontent.com
+0.0.0.0 www.admin.revcontent.com
+0.0.0.0 admin-stg.revcontent.com
+0.0.0.0 www.admin-stg.revcontent.com
+0.0.0.0 faq.revcontent.com
+0.0.0.0 internal.revcontent.com
+0.0.0.0 www.internal.revcontent.com
+0.0.0.0 labs.revcontent.com
+0.0.0.0 labs-s1.revcontent.com
+0.0.0.0 labs-s2.revcontent.com
+0.0.0.0 labs-s4.revcontent.com
+0.0.0.0 labs-stg.revcontent.com
+0.0.0.0 video.revcontent.com
+0.0.0.0 www.video.revcontent.com
+0.0.0.0 www.revcontent.com
 0.0.0.0 ads.revjet.com
 0.0.0.0 rkdms.com
 0.0.0.0 a.rkdms.com
@@ -6038,6 +6172,9 @@
 0.0.0.0 ads-qa.servebom.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 sf14g.com
+0.0.0.0 t.sf14g.com
+0.0.0.0 www.t.sf14g.com
 0.0.0.0 invenio.sgn.com
 0.0.0.0 shareaholic.com
 0.0.0.0 apps.shareaholic.com
@@ -6670,6 +6807,11 @@
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 tl813.com
+0.0.0.0 1.tl813.com
+0.0.0.0 www.1.tl813.com
+0.0.0.0 4.tl813.com
+0.0.0.0 www.4.tl813.com
 0.0.0.0 tmathtag.com
 0.0.0.0 mail.tmathtag.com
 0.0.0.0 owa.tmathtag.com
@@ -6678,6 +6820,10 @@
 0.0.0.0 ssl.tmathtag.com
 0.0.0.0 webmail.tmathtag.com
 0.0.0.0 www.tmathtag.com
+0.0.0.0 trackalyzer.com
+0.0.0.0 chat.trackalyzer.com
+0.0.0.0 www.chat.trackalyzer.com
+0.0.0.0 www.trackalyzer.com
 0.0.0.0 trackjs.com
 0.0.0.0 capture.trackjs.com
 0.0.0.0 docs.trackjs.com
@@ -7879,6 +8025,7 @@
 0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscta.net
+0.0.0.0 js.hsforms.net
 0.0.0.0 imprev.net
 0.0.0.0 bit.imprev.net
 0.0.0.0 content.imprev.net
@@ -8453,6 +8600,21 @@
 0.0.0.0 webdisk.eazybiz.ng
 0.0.0.0 webmail.eazybiz.ng
 0.0.0.0 www.eazybiz.ng
+0.0.0.0 onlinesucces.nl
+0.0.0.0 app.onlinesucces.nl
+0.0.0.0 www.app.onlinesucces.nl
+0.0.0.0 blt.onlinesucces.nl
+0.0.0.0 connect.onlinesucces.nl
+0.0.0.0 www.connect.onlinesucces.nl
+0.0.0.0 ftp.onlinesucces.nl
+0.0.0.0 help.onlinesucces.nl
+0.0.0.0 www.help.onlinesucces.nl
+0.0.0.0 tmp.onlinesucces.nl
+0.0.0.0 tr1.onlinesucces.nl
+0.0.0.0 www.tr1.onlinesucces.nl
+0.0.0.0 tr2.onlinesucces.nl
+0.0.0.0 updates.onlinesucces.nl
+0.0.0.0 www.onlinesucces.nl
 0.0.0.0 adsrvr.org
 0.0.0.0 docker.adsrvr.org
 0.0.0.0 pull.docker.adsrvr.org
