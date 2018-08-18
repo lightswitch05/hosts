@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-17T12:42:29+00:00
-# Count: 9065 domains
+# Released: 2018-08-18T15:54:42+00:00
+# Count: 9110 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1075,6 +1075,7 @@
 0.0.0.0 z-fe.amazon-adsystem.com
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
@@ -1293,6 +1294,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
+0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sl-native-android-hm-logging.appspot.com
@@ -1350,6 +1352,7 @@
 0.0.0.0 cdn.adserver.b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
 0.0.0.0 smetrics.babycenter.com
+0.0.0.0 segment.babynamewizard.com
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
@@ -1565,6 +1568,9 @@
 0.0.0.0 www.sfdc.clearbit.com
 0.0.0.0 try.clearbit.com
 0.0.0.0 wiki.clearbit.com
+0.0.0.0 clevergirlscollective.com
+0.0.0.0 badge.clevergirlscollective.com
+0.0.0.0 test.clevergirlscollective.com
 0.0.0.0 clickconvertsell.com
 0.0.0.0 cpanel.clickconvertsell.com
 0.0.0.0 dev.clickconvertsell.com
@@ -1664,7 +1670,34 @@
 0.0.0.0 pages.convertkit.com
 0.0.0.0 shop.convertkit.com
 0.0.0.0 www.convertkit.com
+0.0.0.0 convertro.com
+0.0.0.0 integration.one-integration.ci.convertro.com
+0.0.0.0 one-demo.one-integration.ci.convertro.com
+0.0.0.0 one-demo2.one-integration.ci.convertro.com
+0.0.0.0 ramsayandwellington.one-integration.ci.convertro.com
+0.0.0.0 demo.convertro.com
+0.0.0.0 edb1.convertro.com
+0.0.0.0 edb2.convertro.com
+0.0.0.0 edb3.convertro.com
+0.0.0.0 edb4.convertro.com
+0.0.0.0 guce.convertro.com
+0.0.0.0 stage.guce.convertro.com
+0.0.0.0 trunk.guce.convertro.com
+0.0.0.0 help.convertro.com
+0.0.0.0 info.convertro.com
+0.0.0.0 one-demo.convertro.com
+0.0.0.0 integration.one-demo.convertro.com
+0.0.0.0 one-demo.one-demo.convertro.com
+0.0.0.0 one-demo-dup.one-demo.convertro.com
+0.0.0.0 one-demo2.one-demo.convertro.com
+0.0.0.0 optout3.convertro.com
+0.0.0.0 sp1.convertro.com
+0.0.0.0 carters.sp1.convertro.com
 0.0.0.0 dishdigital.sp1.convertro.com
+0.0.0.0 www.sp1.convertro.com
+0.0.0.0 stage.convertro.com
+0.0.0.0 www.stage.convertro.com
+0.0.0.0 www.convertro.com
 0.0.0.0 cquotient.com
 0.0.0.0 e.cquotient.com
 0.0.0.0 jwn.hansel.cquotient.com
@@ -1759,6 +1792,7 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 www.criteo.com
 0.0.0.0 ctrix.com
+0.0.0.0 api-logger.curejoy.com
 0.0.0.0 metrics.cvshealth.com
 0.0.0.0 metrics.daveandbusters.com
 0.0.0.0 www.metrics.daveandbusters.com
@@ -5133,6 +5167,7 @@
 0.0.0.0 www.m-freeway.com
 0.0.0.0 magic-analytics.magmic.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 segment.mamaslatinas.com
 0.0.0.0 marinsm.com
 0.0.0.0 pro.marinsm.com
 0.0.0.0 qa-tracker.marinsm.com
@@ -6018,6 +6053,8 @@
 0.0.0.0 cdn.roiq-vice.ranker.com
 0.0.0.0 metrics.ranklocal.com
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 realclever.com
+0.0.0.0 pixel.realclever.com
 0.0.0.0 e.redbox.com
 0.0.0.0 ebm.e.redbox.com
 0.0.0.0 www.ebm.e.redbox.com
@@ -6071,6 +6108,7 @@
 0.0.0.0 video.revcontent.com
 0.0.0.0 www.video.revcontent.com
 0.0.0.0 www.revcontent.com
+0.0.0.0 segment.revelist.com
 0.0.0.0 ads.revjet.com
 0.0.0.0 rkdms.com
 0.0.0.0 a.rkdms.com
@@ -6581,6 +6619,9 @@
 0.0.0.0 surveywall-api.survata.com
 0.0.0.0 ev.surveywall-api.survata.com
 0.0.0.0 www.survata.com
+0.0.0.0 survicate.com
+0.0.0.0 learn.survicate.com
+0.0.0.0 survey.survicate.com
 0.0.0.0 insights.sustainablebrands.com
 0.0.0.0 swrve.com
 0.0.0.0 abtest.swrve.com
@@ -7343,6 +7384,7 @@
 0.0.0.0 www.ucc.wix.com
 0.0.0.0 vk.wix.com
 0.0.0.0 wixed.wix.com
+0.0.0.0 apps.wixrestaurants.com
 0.0.0.0 wmadv.com
 0.0.0.0 pixel.wmadv.com
 0.0.0.0 www.pixel.wmadv.com
@@ -8487,6 +8529,7 @@
 0.0.0.0 openx.net
 0.0.0.0 adnimation-d.openx.net
 0.0.0.0 browser-tools.openx.net
+0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 faithit-d.openx.net
@@ -8648,6 +8691,7 @@
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 smedia.webcollage.net
+0.0.0.0 gs.wixapps.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 ads.wsrs.net
 0.0.0.0 mail.ads.wsrs.net
@@ -8727,6 +8771,7 @@
 0.0.0.0 use-foremanproxy1.use.adsrvr.org
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 consensu.org
+0.0.0.0 mgr.consensu.org
 0.0.0.0 admiral.mgr.consensu.org
 0.0.0.0 www.admiral.mgr.consensu.org
 0.0.0.0 adversal.mgr.consensu.org
