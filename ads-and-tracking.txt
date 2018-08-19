@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-19T02:26:42+00:00
-# Count: 1358 domains
+# Released: 2018-08-19T03:07:56+00:00
+# Count: 1364 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -99,6 +99,9 @@
 0.0.0.0 assets.adsttc.com
 0.0.0.0 nrd.adsttc.com
 0.0.0.0 adswizz.com
+0.0.0.0 adtechjp.com
+0.0.0.0 adtechus.com
+0.0.0.0 adthrive.com
 0.0.0.0 adtilt.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 adtouchlabs.com
@@ -106,8 +109,10 @@
 0.0.0.0 adserver.adtz.com
 0.0.0.0 advertising.com
 0.0.0.0 secure.leadback.advertising.com
+0.0.0.0 advertisingbox.com
 0.0.0.0 advidi.com
 0.0.0.0 adviserplus.com
+0.0.0.0 adwyze.com
 0.0.0.0 adx1.com
 0.0.0.0 rtb.adx1.com
 0.0.0.0 pulsepoint-platform.rtb.adx1.com
@@ -1023,6 +1028,7 @@
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 w2.yotpo.com
 0.0.0.0 stats.zotabox.com
+0.0.0.0 adtech.de
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
