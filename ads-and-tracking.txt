@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-18T15:54:42+00:00
-# Count: 1346 domains
+# Released: 2018-08-19T02:26:42+00:00
+# Count: 1358 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -28,6 +28,7 @@
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 districtm.ca
 0.0.0.0 prebid.districtm.ca
+0.0.0.0 flyertown.ca
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 leadpages.co
@@ -213,6 +214,7 @@
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sl-native-android-hm-logging.appspot.com
+0.0.0.0 spine-insights.appspot.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 apptrckr.com
@@ -498,6 +500,7 @@
 0.0.0.0 evs.jivox.com
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 sync.jivox.com
+0.0.0.0 jsrdn.com
 0.0.0.0 juicemobile.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 kampyle.com
@@ -608,7 +611,9 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 s.mopub.com
 0.0.0.0 metrics.mozilla.com
+0.0.0.0 mparticle.com
 0.0.0.0 identity.mparticle.com
+0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
@@ -1056,6 +1061,7 @@
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 widget.intercom.io
+0.0.0.0 segment.kilometer.io
 0.0.0.0 lytics.io
 0.0.0.0 api.lytics.io
 0.0.0.0 c.lytics.io
@@ -1239,6 +1245,7 @@
 0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
@@ -1318,6 +1325,7 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 t.update.adsrvr.org
 0.0.0.0 lpweb.altervista.org
+0.0.0.0 www-care-com.cdn.ampproject.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
@@ -1330,6 +1338,10 @@
 0.0.0.0 alldcs.outbrain.org
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 piwik.pro
+0.0.0.0 cdn.piwik.pro
+0.0.0.0 mparticle.containers.piwik.pro
+0.0.0.0 marketing.piwik.pro
 0.0.0.0 creativeads.ro
 0.0.0.0 absum.ru
 0.0.0.0 aviasales.ru
