@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-19T15:25:52+00:00
-# Count: 342 domains
+# Released: 2018-08-20T12:59:42+00:00
+# Count: 348 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -54,6 +54,8 @@
 0.0.0.0 personalization.bloomberg.com
 0.0.0.0 amp.businessinsider.com
 0.0.0.0 geoip.businessinsider.com
+0.0.0.0 amp.cloudflare.com
+0.0.0.0 discovery.amp.cloudflare.com
 0.0.0.0 myip.dnsomatic.com
 0.0.0.0 flipboard.com
 0.0.0.0 about.flipboard.com
@@ -324,6 +326,10 @@
 0.0.0.0 status.ampproject.org
 0.0.0.0 www.ampproject.org
 0.0.0.0 geoscripts.meredith.services
+0.0.0.0 gomoxie.solutions
+0.0.0.0 asset.gomoxie.solutions
+0.0.0.0 stage.gomoxie.solutions
+0.0.0.0 uk.gomoxie.solutions
 0.0.0.0 tawk.to
 0.0.0.0 devph.tawk.to
 0.0.0.0 www.devph.tawk.to
