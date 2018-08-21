@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-19T15:35:23+00:00
-# Count: 1377 domains
+# Released: 2018-08-21T18:46:00+00:00
+# Count: 1379 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -188,6 +188,8 @@
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 ambra.com
+0.0.0.0 t.ambra.com
 0.0.0.0 amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 analyticson.com
@@ -593,6 +595,8 @@
 0.0.0.0 adserver.mixedtraffic.com
 0.0.0.0 mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
+0.0.0.0 ml-attr.com
+0.0.0.0 s.ml-attr.com
 0.0.0.0 mmstat.com
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 mb.moatads.com
@@ -1234,10 +1238,6 @@
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
 0.0.0.0 a021.ranker.inscname.net
-0.0.0.0 insnw.net
-0.0.0.0 a-sg01sl05.insnw.net
-0.0.0.0 a-sg03sl05.insnw.net
-0.0.0.0 a-vip03.insnw.net
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
@@ -1295,6 +1295,7 @@
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 oao-d.openx.net
+0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatodaysports-d.openx.net
@@ -1349,6 +1350,7 @@
 0.0.0.0 mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 c.sharethis.mgr.consensu.org
+0.0.0.0 smetrics.consumerreports.org
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
