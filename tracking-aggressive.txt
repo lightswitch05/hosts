@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-20T12:59:42+00:00
-# Count: 67 domains
+# Released: 2018-08-23T16:52:17+00:00
+# Count: 74 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -35,6 +35,7 @@
 0.0.0.0 amp.cloudflare.com
 0.0.0.0 discovery.amp.cloudflare.com
 0.0.0.0 myip.dnsomatic.com
+0.0.0.0 flexispy.com
 0.0.0.0 flipboard.com
 0.0.0.0 api.flipboard.com
 0.0.0.0 glympse.com
@@ -48,6 +49,7 @@
 0.0.0.0 maxmind.com
 0.0.0.0 js.maxmind.com
 0.0.0.0 share.microsoft.com
+0.0.0.0 mobistealth.com
 0.0.0.0 narvar.com
 0.0.0.0 analytics.narvar.com
 0.0.0.0 assets.narvar.com
@@ -64,9 +66,13 @@
 0.0.0.0 tools.pingdom.com
 0.0.0.0 providesupport.com
 0.0.0.0 image.providesupport.com
+0.0.0.0 retinax.com
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 peoplerecommendations.skype.com
 0.0.0.0 geoip.solarleadfactory.com
+0.0.0.0 spyfone.com
+0.0.0.0 spyhuman.com
+0.0.0.0 spymasterpro.com
 0.0.0.0 surveygizmo.com
 0.0.0.0 samsungresources.visionobjects.com
 0.0.0.0 weather.wapp.wii.com
@@ -83,6 +89,7 @@
 0.0.0.0 turbotax-intuit-com.cdn.ampproject.org
 0.0.0.0 www-babble-com.cdn.ampproject.org
 0.0.0.0 www-curejoy-com.cdn.ampproject.org
+0.0.0.0 www-express-co-uk.cdn.ampproject.org
 0.0.0.0 geoscripts.meredith.services
 0.0.0.0 gomoxie.solutions
 0.0.0.0 asset.gomoxie.solutions
