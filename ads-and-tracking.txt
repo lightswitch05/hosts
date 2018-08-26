@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-23T16:58:11+00:00
-# Count: 1379 domains
+# Released: 2018-08-26T01:07:03+00:00
+# Count: 1391 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -302,6 +302,7 @@
 0.0.0.0 clevergirlscollective.com
 0.0.0.0 badge.clevergirlscollective.com
 0.0.0.0 clickconvertsell.com
+0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 mediavine-res.cloudinary.com
 0.0.0.0 clrstm.com
 0.0.0.0 tag.clrstm.com
@@ -452,8 +453,6 @@
 0.0.0.0 widgets.getsitecontrol.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
-0.0.0.0 gigya.com
-0.0.0.0 cdns.gigya.com
 0.0.0.0 glasslytics.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
@@ -599,6 +598,7 @@
 0.0.0.0 s.ml-attr.com
 0.0.0.0 mmstat.com
 0.0.0.0 log.gds.mmstat.com
+0.0.0.0 js.moatads.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 pool1.moatads.com
 0.0.0.0 pool3.moatads.com
@@ -797,6 +797,8 @@
 0.0.0.0 sharethrough.com
 0.0.0.0 match.sharethrough.com
 0.0.0.0 match-us-east-1.sharethrough.com
+0.0.0.0 shopcurbside.com
+0.0.0.0 api-p.shopcurbside.com
 0.0.0.0 shopkick.com
 0.0.0.0 beyond-api.shopkick.com
 0.0.0.0 siliconorchard.com
@@ -823,6 +825,7 @@
 0.0.0.0 vid.springserve.com
 0.0.0.0 vid-io.springserve.com
 0.0.0.0 vpaid.springserve.com
+0.0.0.0 commerce-api.sprinklr.com
 0.0.0.0 adserver.sprintdisk.com
 0.0.0.0 sprymetrics.com
 0.0.0.0 ssacdn.com
@@ -946,6 +949,11 @@
 0.0.0.0 vicedata.com
 0.0.0.0 vicinity-marketing.com
 0.0.0.0 beacon.vicinity-marketing.com
+0.0.0.0 bis.vidazoo.com
+0.0.0.0 platfrom-api.vidazoo.com
+0.0.0.0 server.vidazoo.com
+0.0.0.0 static.vidazoo.com
+0.0.0.0 vidazoo-bi-worker-connection.vidazoo.com
 0.0.0.0 videmob.com
 0.0.0.0 um.videmob.com
 0.0.0.0 videostat.com
@@ -1094,6 +1102,7 @@
 0.0.0.0 metrics.readme.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
+0.0.0.0 sentry.io
 0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
@@ -1190,6 +1199,7 @@
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 4735610.fls.doubleclick.net
+0.0.0.0 5322221.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -1261,6 +1271,8 @@
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 omtrdc.net
+0.0.0.0 cc.hb.omtrdc.net
+0.0.0.0 crackle.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 sc.omtrdc.net
