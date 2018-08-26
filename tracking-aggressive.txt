@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-23T16:52:17+00:00
-# Count: 74 domains
+# Released: 2018-08-26T00:56:52+00:00
+# Count: 76 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -38,6 +38,8 @@
 0.0.0.0 flexispy.com
 0.0.0.0 flipboard.com
 0.0.0.0 api.flipboard.com
+0.0.0.0 gigya.com
+0.0.0.0 cdns.gigya.com
 0.0.0.0 glympse.com
 0.0.0.0 appsitemsuggest-pa.googleapis.com
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
