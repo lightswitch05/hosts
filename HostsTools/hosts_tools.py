@@ -56,7 +56,7 @@ def extract_domain(domain_entry: str) -> str:
         # then we can assume its a valid host entry
         entry_parts = match.group(0).split()
         if len(entry_parts) == 2 and is_valid_domain(entry_parts[1]):
-            return entry_parts[1].lower()
+            return entry_parts[1].strip().lower()
     return ''
 
 
@@ -64,11 +64,25 @@ def load_domains_from_list(file_name: str) -> Set[str]:
     domains = set()
     with open(file_name) as file:
         lines = file.readlines()
-    for index, line in enumerate(lines):
+    for line in lines:
         domain = extract_domain(line)
         if domain:
             domains.add(domain)
     return domains
+
+
+def load_domains_from_whitelist(file_name: str) -> Set[str]:
+    whitelist = set()
+    try:
+        with open(file_name) as file:
+            lines = file.readlines()
+            for line in lines:
+                if is_valid_domain(line):
+                    line = line.strip().lower()
+                    whitelist.add(line)
+    except FileNotFoundError:
+        print('Unable to read whitelist: ', file_name)
+    return whitelist
 
 
 def build_file_header(file_name: str, list_length: int):
