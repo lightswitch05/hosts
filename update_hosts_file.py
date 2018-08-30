@@ -23,7 +23,6 @@ def main():
     args = parse_args()
     main_domains = hosts_tools.load_domains_from_list(args.list + '.txt')
     expanded_domains = hosts_tools.load_domains_from_list(args.list + '-extended.txt')
-    whitelist = set()
     whitelist = hosts_tools.load_domains_from_whitelist(args.list + '-whitelist.txt')
     main_domains_len_start = len(main_domains)
     expanded_domains_len_start = len(expanded_domains)
