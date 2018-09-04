@@ -1,7 +1,19 @@
 from HostsTools import hosts_tools
+import os
 
 
 class TestHostTools(object):
+
+    TEST_FILE_NAME = 'test-write-domain-list.txt'
+    TEST_WHITELIST_FILE_NAME = 'test-write-domain-list-whitelist.txt'
+    TEST_DOMAINS = {'a.com', 'b.a.com', 'b.com', 'a.b.com'}
+    TEST_WHITELIST = {'b.b.com', 'z.com'}
+
+    def setup_class(self):
+        with open(self.TEST_WHITELIST_FILE_NAME, 'w') as file:
+            for domain in self.TEST_WHITELIST:
+                file.write(domain + '\n')
+
     def test_none_is_not_a_valid_domain(self):
         is_valid = hosts_tools.is_valid_domain(None)
         assert not is_valid
@@ -82,3 +94,27 @@ class TestHostTools(object):
         assert file_name in header
         assert '[' not in header
         assert ']' not in header
+
+    def test_write_domain_list(self):
+        hosts_tools.write_domain_list(self.TEST_FILE_NAME, self.TEST_DOMAINS)
+        assert os.path.isfile(self.TEST_FILE_NAME)
+
+    def test_read_domains_list(self):
+        domains = hosts_tools.load_domains_from_list(self.TEST_FILE_NAME)
+        assert domains
+        assert not self.TEST_DOMAINS.difference(domains)
+
+    def test_load_domains_from_whitelist(self):
+        whitelist = hosts_tools.load_domains_from_whitelist(self.TEST_WHITELIST_FILE_NAME)
+        assert whitelist
+        assert not self.TEST_WHITELIST.difference(whitelist)
+
+    def test_missing_whitelist(self):
+        whitelist = hosts_tools.load_domains_from_whitelist('not-a-real-file.txt')
+        assert len(whitelist) == 0
+
+    def teardown_class(self):
+        if os.path.isfile(self.TEST_FILE_NAME):
+            os.remove(self.TEST_FILE_NAME)
+        if os.path.isfile(self.TEST_WHITELIST_FILE_NAME):
+            os.remove(self.TEST_WHITELIST_FILE_NAME)
