@@ -23,6 +23,7 @@ def main():
     args = parse_args()
     main_domains = hosts_tools.load_domains_from_list(args.list + '.txt')
     expanded_domains = hosts_tools.load_domains_from_list(args.list + '-extended.txt')
+    whitelist = hosts_tools.load_domains_from_whitelist(args.list + '-whitelist.txt')
     main_domains_len_start = len(main_domains)
     expanded_domains_len_start = len(expanded_domains)
 
@@ -41,6 +42,8 @@ def main():
             found_domains = hosts_tools.find_subdomains(domain)
             expanded_domains.update(found_domains)
             print('    Found: %s' % (len(found_domains) - 1))
+
+    expanded_domains = expanded_domains.difference(whitelist)
 
     main_domains_len_end = len(main_domains)
     main_domains_len_diff = main_domains_len_end - main_domains_len_start
