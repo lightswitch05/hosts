@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-04T20:30:18+00:00
-# Count: 643 domains
+# Released: 2018-09-04T20:35:05+00:00
+# Count: 649 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -294,6 +294,7 @@
 0.0.0.0 www.us1-email-mng.gigya.com
 0.0.0.0 us1-st1.gigya.com
 0.0.0.0 us1-st2.gigya.com
+0.0.0.0 us1-st4.gigya.com
 0.0.0.0 us1a.gigya.com
 0.0.0.0 us1a-email-mng.gigya.com
 0.0.0.0 www.us1a-email-mng.gigya.com
@@ -461,6 +462,7 @@
 0.0.0.0 gapinstore.narvar.com
 0.0.0.0 hello.narvar.com
 0.0.0.0 qa-assets.narvar.com
+0.0.0.0 retool.narvar.com
 0.0.0.0 see.narvar.com
 0.0.0.0 support.narvar.com
 0.0.0.0 tracking-assets-prod01.narvar.com
@@ -545,6 +547,7 @@
 0.0.0.0 mail.spyfone.com
 0.0.0.0 pc.spyfone.com
 0.0.0.0 www.pc.spyfone.com
+0.0.0.0 sdcard.spyfone.com
 0.0.0.0 spyfone.spyfone.com
 0.0.0.0 www.spyfone.spyfone.com
 0.0.0.0 store.spyfone.com
@@ -589,6 +592,8 @@
 0.0.0.0 www.email.surveygizmo.com
 0.0.0.0 insights.surveygizmo.com
 0.0.0.0 www.insights.surveygizmo.com
+0.0.0.0 luascript.surveygizmo.com
+0.0.0.0 www.luascript.surveygizmo.com
 0.0.0.0 support.surveygizmo.com
 0.0.0.0 www.support.surveygizmo.com
 0.0.0.0 try.surveygizmo.com
@@ -602,6 +607,7 @@
 0.0.0.0 www.ipinfo.io
 0.0.0.0 juicer.io
 0.0.0.0 assets.juicer.io
+0.0.0.0 staging.juicer.io
 0.0.0.0 static.juicer.io
 0.0.0.0 www.juicer.io
 0.0.0.0 buff.ly
