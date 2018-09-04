@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-29T11:47:11+00:00
-# Count: 632 domains
+# Released: 2018-09-04T18:19:33+00:00
+# Count: 643 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -438,6 +438,17 @@
 0.0.0.0 share.microsoft.com
 0.0.0.0 mobistealth.com
 0.0.0.0 www.mobistealth.com
+0.0.0.0 mspy.com
+0.0.0.0 ar.mspy.com
+0.0.0.0 www.ar.mspy.com
+0.0.0.0 checkout.mspy.com
+0.0.0.0 demo.mspy.com
+0.0.0.0 www.demo.mspy.com
+0.0.0.0 secure.mspy.com
+0.0.0.0 static.mspy.com
+0.0.0.0 static2.mspy.com
+0.0.0.0 store.mspy.com
+0.0.0.0 www.mspy.com
 0.0.0.0 narvar.com
 0.0.0.0 analytics.narvar.com
 0.0.0.0 assets.narvar.com

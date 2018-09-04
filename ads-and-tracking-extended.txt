@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-29T11:47:55+00:00
-# Count: 9428 domains
+# Released: 2018-09-04T16:34:33+00:00
+# Count: 9437 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5376,6 +5376,7 @@
 0.0.0.0 dev.ppe.applicationinsights.microsoft.com
 0.0.0.0 rt.applicationinsights.microsoft.com
 0.0.0.0 www.applicationinsights.microsoft.com
+0.0.0.0 uhf.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 allan1qa.midasplayer.com
 0.0.0.0 autodiscover.midasplayer.com
@@ -5556,6 +5557,7 @@
 0.0.0.0 s.update.mopub.com
 0.0.0.0 www.mopub.com
 0.0.0.0 www3.mopub.com
+0.0.0.0 p-stats.movetv.com
 0.0.0.0 metrics.mozilla.com
 0.0.0.0 hardware.metrics.mozilla.com
 0.0.0.0 mparticle.com
@@ -5728,6 +5730,8 @@
 0.0.0.0 support.newrelic.com
 0.0.0.0 support-legacy.newrelic.com
 0.0.0.0 try.newrelic.com
+0.0.0.0 npttech.com
+0.0.0.0 www.npttech.com
 0.0.0.0 ntellicast.com
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
@@ -7935,6 +7939,7 @@
 0.0.0.0 vpn2.branch.io
 0.0.0.0 vulcan.branch.io
 0.0.0.0 www2.branch.io
+0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 extole.io
 0.0.0.0 lo.extole.io
@@ -7975,6 +7980,7 @@
 0.0.0.0 origin-5.st.extole.io
 0.0.0.0 origin-6.st.extole.io
 0.0.0.0 origin-7.st.extole.io
+0.0.0.0 beacons.extremereach.io
 0.0.0.0 ghostboard.io
 0.0.0.0 www.ghostboard.io
 0.0.0.0 instana.io
@@ -8302,7 +8308,9 @@
 0.0.0.0 fast.aexp.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 fandangollc.demdex.net
+0.0.0.0 foxnet.demdex.net
 0.0.0.0 fast.mtvn.demdex.net
+0.0.0.0 pepsico.demdex.net
 0.0.0.0 fast.sears.demdex.net
 0.0.0.0 swa.demdex.net
 0.0.0.0 fast.swa.demdex.net
@@ -8814,6 +8822,7 @@
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 meta.openx.net
 0.0.0.0 oao-d.openx.net
+0.0.0.0 rock-you-d.openx.net
 0.0.0.0 soju.openx.net
 0.0.0.0 black.soju.openx.net
 0.0.0.0 blue.soju.openx.net
