@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-29T11:47:55+00:00
-# Count: 1394 domains
+# Released: 2018-09-04T16:34:32+00:00
+# Count: 1403 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -582,6 +582,7 @@
 0.0.0.0 metaps.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 dc.applicationinsights.microsoft.com
+0.0.0.0 uhf.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 bling2.midasplayer.com
 0.0.0.0 bws3.midasplayer.com
@@ -624,6 +625,7 @@
 0.0.0.0 mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 s.mopub.com
+0.0.0.0 p-stats.movetv.com
 0.0.0.0 metrics.mozilla.com
 0.0.0.0 mparticle.com
 0.0.0.0 identity.mparticle.com
@@ -655,6 +657,8 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 npttech.com
+0.0.0.0 www.npttech.com
 0.0.0.0 ntellicast.com
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
@@ -1069,12 +1073,14 @@
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 extole.io
 0.0.0.0 origin.extole.io
 0.0.0.0 origin-2.extole.io
 0.0.0.0 origin-4.extole.io
 0.0.0.0 origin-5.extole.io
+0.0.0.0 beacons.extremereach.io
 0.0.0.0 ghostboard.io
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
@@ -1191,6 +1197,8 @@
 0.0.0.0 demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 fandangollc.demdex.net
+0.0.0.0 foxnet.demdex.net
+0.0.0.0 pepsico.demdex.net
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
@@ -1310,6 +1318,7 @@
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 oao-d.openx.net
+0.0.0.0 rock-you-d.openx.net
 0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
 0.0.0.0 us-u.openx.net

@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-08-29T11:47:11+00:00
-# Count: 79 domains
+# Released: 2018-09-04T18:19:33+00:00
+# Count: 80 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -52,6 +52,7 @@
 0.0.0.0 js.maxmind.com
 0.0.0.0 share.microsoft.com
 0.0.0.0 mobistealth.com
+0.0.0.0 mspy.com
 0.0.0.0 narvar.com
 0.0.0.0 analytics.narvar.com
 0.0.0.0 assets.narvar.com
