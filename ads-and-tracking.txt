@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-04T20:30:40+00:00
-# Count: 1402 domains
+# Released: 2018-09-06T15:26:47+00:00
+# Count: 1417 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -20,6 +20,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
 0.0.0.0 metrics.hsbc.com.au
@@ -161,6 +162,7 @@
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 0.0.0.0 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
 0.0.0.0 api-ntv-elb-1185445618.us-east-1.elb.amazonaws.com
+0.0.0.0 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 0.0.0.0 beacon-17-537698933.us-east-1.elb.amazonaws.com
 0.0.0.0 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 0.0.0.0 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
@@ -484,6 +486,9 @@
 0.0.0.0 imprev.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
+0.0.0.0 innovid.com
+0.0.0.0 ag.innovid.com
+0.0.0.0 s-files.innovid.com
 0.0.0.0 installfarm.com
 0.0.0.0 adserver.installfarm.com
 0.0.0.0 intelsad.com
@@ -695,6 +700,7 @@
 0.0.0.0 pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
+0.0.0.0 s.pixsrvcs.com
 0.0.0.0 placed.com
 0.0.0.0 p.placed.com
 0.0.0.0 placelocal.com
@@ -823,6 +829,7 @@
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 spotxchange.com
+0.0.0.0 event.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 springserve.com
 0.0.0.0 vid.springserve.com
@@ -1098,6 +1105,7 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 marchex.io
 0.0.0.0 rw1.marchex.io
+0.0.0.0 jelly.mdhv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io
 0.0.0.0 presage.io
@@ -1118,6 +1126,8 @@
 0.0.0.0 count.ly
 0.0.0.0 stats.count.ly
 0.0.0.0 pixel.marketing
+0.0.0.0 awstrack.me
+0.0.0.0 scysvr03.r.us-east-1.awstrack.me
 0.0.0.0 sync-unosync-com.geodns.me
 0.0.0.0 pixel.shodan.me
 0.0.0.0 marketing365.mk
@@ -1228,7 +1238,11 @@
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 cm.everesttech.net
+0.0.0.0 playtime-tm.everesttech.net
+0.0.0.0 rtb-lb-event-iad-1a-tm.everesttech.net
 0.0.0.0 rtd-tm.everesttech.net
+0.0.0.0 stats-tm.everesttech.net
+0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 ezoic.net
 0.0.0.0 g.ezoic.net
 0.0.0.0 go.ezoic.net
@@ -1404,6 +1418,7 @@
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 ispot.tv
 0.0.0.0 pt.ispot.tv
+0.0.0.0 ravm.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 serverc.shoofle.tv
