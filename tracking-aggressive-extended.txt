@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-04T20:35:05+00:00
-# Count: 649 domains
+# Released: 2018-09-07T11:46:42+00:00
+# Count: 669 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -54,6 +54,26 @@
 0.0.0.0 personalization.bloomberg.com
 0.0.0.0 amp.businessinsider.com
 0.0.0.0 geoip.businessinsider.com
+0.0.0.0 chatid.com
+0.0.0.0 api.chatid.com
+0.0.0.0 directory-qa.api.chatid.com
+0.0.0.0 directory-us.api.chatid.com
+0.0.0.0 blog.chatid.com
+0.0.0.0 www.blog.chatid.com
+0.0.0.0 demo.chatid.com
+0.0.0.0 directory.chatid.com
+0.0.0.0 iframe.chatid.com
+0.0.0.0 iframe-stage.chatid.com
+0.0.0.0 internal.chatid.com
+0.0.0.0 internal-analytics.chatid.com
+0.0.0.0 ls.chatid.com
+0.0.0.0 mb.chatid.com
+0.0.0.0 support.chatid.com
+0.0.0.0 www.support.chatid.com
+0.0.0.0 tableau.chatid.com
+0.0.0.0 gisp-demo.test.chatid.com
+0.0.0.0 wheatley.chatid.com
+0.0.0.0 www.chatid.com
 0.0.0.0 amp.cloudflare.com
 0.0.0.0 discovery.amp.cloudflare.com
 0.0.0.0 myip.dnsomatic.com

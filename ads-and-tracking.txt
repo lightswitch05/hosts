@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-06T15:31:07+00:00
-# Count: 1453 domains
+# Released: 2018-09-07T12:30:11+00:00
+# Count: 1469 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -30,6 +30,8 @@
 0.0.0.0 districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 flyertown.ca
+0.0.0.0 s.jpush.cn
+0.0.0.0 stats.jpush.cn
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 leadpages.co
@@ -238,6 +240,7 @@
 0.0.0.0 analytics.atlassian.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 audiensis.com
+0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 autopilothq.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 awltovhc.com
@@ -246,6 +249,7 @@
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 segment.babynamewizard.com
 0.0.0.0 metrics.barclaycardus.com
+0.0.0.0 network-stg.bazaarvoice.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
@@ -470,6 +474,7 @@
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
 0.0.0.0 fs-client-logger.herokuapp.com
+0.0.0.0 gdpr-service.herokuapp.com
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
@@ -486,6 +491,7 @@
 0.0.0.0 imprev.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
+0.0.0.0 inmobi.com
 0.0.0.0 innovid.com
 0.0.0.0 ag.innovid.com
 0.0.0.0 s-files.innovid.com
@@ -518,6 +524,7 @@
 0.0.0.0 juicemobile.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 kampyle.com
+0.0.0.0 cdn-usent.kampyle.com
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 kargo.com
 0.0.0.0 krk.kargo.com
@@ -597,6 +604,8 @@
 0.0.0.0 links.mint.com
 0.0.0.0 mixedtraffic.com
 0.0.0.0 adserver.mixedtraffic.com
+0.0.0.0 mixpanel.com
+0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 ml-attr.com
@@ -919,6 +928,10 @@
 0.0.0.0 imp2.track.tappx.com
 0.0.0.0 ins.track.tappx.com
 0.0.0.0 ins2.track.tappx.com
+0.0.0.0 api.target.com
+0.0.0.0 profile.target.com
+0.0.0.0 redsky.target.com
+0.0.0.0 taglocker.target.com
 0.0.0.0 tenjin.com
 0.0.0.0 ios.tenjin.com
 0.0.0.0 api.ios.tenjin.com
@@ -1131,6 +1144,8 @@
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 widget.intercom.io
+0.0.0.0 jpush.io
+0.0.0.0 sis.jpush.io
 0.0.0.0 keen.io
 0.0.0.0 api.keen.io
 0.0.0.0 api-v3_0.us-west-2.prod.aws.keen.io
@@ -1454,6 +1469,7 @@
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 ispot.tv
 0.0.0.0 pt.ispot.tv
+0.0.0.0 staging-ps.ispot.tv
 0.0.0.0 ravm.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 bis.shoofle.tv
