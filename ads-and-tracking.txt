@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-07T12:30:11+00:00
-# Count: 1469 domains
+# Released: 2018-09-09T19:54:18+00:00
+# Count: 1485 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -128,6 +128,9 @@
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
 0.0.0.0 tracker.affirm.com
+0.0.0.0 agentanalytics.com
+0.0.0.0 s.agentanalytics.com
+0.0.0.0 t.agentanalytics.com
 0.0.0.0 airpr.com
 0.0.0.0 px.airpr.com
 0.0.0.0 airvertiseme.com
@@ -152,6 +155,8 @@
 0.0.0.0 altitude-arena.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 cookie.altitude-arena.com
+0.0.0.0 amazon-adsystem.amazon.com
+0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
@@ -181,6 +186,7 @@
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
+0.0.0.0 rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 0.0.0.0 statscollectorloadbalancer-695351754.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
@@ -225,6 +231,7 @@
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sl-native-android-hm-logging.appspot.com
 0.0.0.0 spine-insights.appspot.com
@@ -468,6 +475,7 @@
 0.0.0.0 adserver.gtcmovies.com
 0.0.0.0 gumgum.com
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 va-g2.gumgum.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 static.h-bid.com
 0.0.0.0 smetrics.hbogo.com
@@ -670,6 +678,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 ads.nexage.com
 0.0.0.0 npttech.com
 0.0.0.0 www.npttech.com
 0.0.0.0 ntellicast.com
@@ -1084,6 +1093,8 @@
 0.0.0.0 sdk.ibm.xtify.com
 0.0.0.0 sdk3.ibm.xtify.com
 0.0.0.0 adserver.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 0.0.0.0 tracking.yeehbuy.com
@@ -1093,6 +1104,8 @@
 0.0.0.0 yext-pixel.com
 0.0.0.0 www.yext-pixel.com
 0.0.0.0 yieldmo.com
+0.0.0.0 rw.yieldmo.com
+0.0.0.0 us-east-1.world.rw.yieldmo.com
 0.0.0.0 10.proxy.us-east-1.world.rw.yieldmo.com
 0.0.0.0 static.yieldmo.com
 0.0.0.0 yieldoptimizer.com
@@ -1119,6 +1132,7 @@
 0.0.0.0 match33.info
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
+0.0.0.0 insights.algolia.io
 0.0.0.0 public-analytics.useast.atlassian.io
 0.0.0.0 auth.avs.io
 0.0.0.0 pics.avs.io
@@ -1220,6 +1234,7 @@
 0.0.0.0 a-scl1.tribalfusion.com.akadns.net
 0.0.0.0 beacon-all.walmart.com.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
+0.0.0.0 ads.nexage.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
@@ -1293,6 +1308,7 @@
 0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 stats-tm.everesttech.net
 0.0.0.0 statsf-tm.everesttech.net
+0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 ezoic.net
 0.0.0.0 g.ezoic.net
 0.0.0.0 go.ezoic.net
@@ -1432,8 +1448,8 @@
 0.0.0.0 connect.onlinesucces.nl
 0.0.0.0 adsrvr.org
 0.0.0.0 t.update.adsrvr.org
+0.0.0.0 use-va1.adsrvr.org
 0.0.0.0 lpweb.altervista.org
-0.0.0.0 www-care-com.cdn.ampproject.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
