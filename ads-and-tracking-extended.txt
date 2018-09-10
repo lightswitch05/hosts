@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-09T20:46:15+00:00
-# Count: 9895 domains
+# Released: 2018-09-10T13:02:26+00:00
+# Count: 9913 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -402,6 +402,7 @@
 0.0.0.0 www.phone.sf.adroll.com
 0.0.0.0 status.adroll.com
 0.0.0.0 success.adroll.com
+0.0.0.0 tableau.adroll.com
 0.0.0.0 test.adroll.com
 0.0.0.0 post.update.adroll.com
 0.0.0.0 s.update.adroll.com
@@ -929,6 +930,7 @@
 0.0.0.0 fs7.adx1.com
 0.0.0.0 ftp.adx1.com
 0.0.0.0 www.ftp.adx1.com
+0.0.0.0 g27ve.adx1.com
 0.0.0.0 globalsight.adx1.com
 0.0.0.0 www.globalsight.adx1.com
 0.0.0.0 gttlj.adx1.com
@@ -1018,6 +1020,7 @@
 0.0.0.0 vuhgj.adx1.com
 0.0.0.0 w.adx1.com
 0.0.0.0 webmail.adx1.com
+0.0.0.0 wtmr.adx1.com
 0.0.0.0 ww.adx1.com
 0.0.0.0 www.adx1.com
 0.0.0.0 xml.adx1.com
@@ -2376,6 +2379,7 @@
 0.0.0.0 akamai-san24.exacttarget.com
 0.0.0.0 akamai-san25.exacttarget.com
 0.0.0.0 akamai-san26.exacttarget.com
+0.0.0.0 akamai-san27.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
@@ -5197,6 +5201,8 @@
 0.0.0.0 sydney.kargo.com
 0.0.0.0 vault.kargo.com
 0.0.0.0 www.kargo.com
+0.0.0.0 keywordblocks.com
+0.0.0.0 734302086.keywordblocks.com
 0.0.0.0 khingtracking.com
 0.0.0.0 action.khingtracking.com
 0.0.0.0 adserver.khingtracking.com
@@ -6372,6 +6378,7 @@
 0.0.0.0 reporting.qualtrics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 gov1.siteintercept.qualtrics.com
+0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 sjc1.qualtrics.com
 0.0.0.0 st3.qualtrics.com
 0.0.0.0 s1.st3.qualtrics.com
@@ -8587,6 +8594,11 @@
 0.0.0.0 sbx1.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 adglare.net
+0.0.0.0 cdn.adglare.net
+0.0.0.0 kidswithfoodallergies.cdn.adglare.net
+0.0.0.0 engine.adglare.net
+0.0.0.0 kidswithfoodallergies.engine.adglare.net
 0.0.0.0 admarketplace.net
 0.0.0.0 adtag.admarketplace.net
 0.0.0.0 imp.admarketplace.net
@@ -9077,6 +9089,7 @@
 0.0.0.0 s2s.msas.media.net
 0.0.0.0 se.msas.media.net
 0.0.0.0 staging.sh.msas.media.net
+0.0.0.0 weather.msas.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 publisher.media.net
 0.0.0.0 publishers.media.net
@@ -9193,6 +9206,7 @@
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 adpdl.ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
+0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 vanguard.d2.sc.omtrdc.net
 0.0.0.0 d3.sc.omtrdc.net
@@ -9526,6 +9540,7 @@
 0.0.0.0 etarget.mgr.consensu.org
 0.0.0.0 evidon.mgr.consensu.org
 0.0.0.0 faktor.mgr.consensu.org
+0.0.0.0 vendorlist.fidzup.mgr.consensu.org
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 www.gemius.mgr.consensu.org
 0.0.0.0 global.mgr.consensu.org
@@ -9571,6 +9586,8 @@
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sovrn.mgr.consensu.org
 0.0.0.0 streamamp.mgr.consensu.org
+0.0.0.0 teads.mgr.consensu.org
+0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 traffective.mgr.consensu.org
 0.0.0.0 triboo.mgr.consensu.org
 0.0.0.0 www.triboo.mgr.consensu.org
@@ -9651,6 +9668,7 @@
 0.0.0.0 aviasales.ru
 0.0.0.0 new.backoffice.aviasales.ru
 0.0.0.0 old.backoffice.aviasales.ru
+0.0.0.0 bcs.aviasales.ru
 0.0.0.0 alisa.beta.aviasales.ru
 0.0.0.0 arkb1.beta.aviasales.ru
 0.0.0.0 arkb2.beta.aviasales.ru

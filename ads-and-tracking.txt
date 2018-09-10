@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-09T20:46:15+00:00
-# Count: 1482 domains
+# Released: 2018-09-10T13:02:26+00:00
+# Count: 1489 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -536,6 +536,8 @@
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 kargo.com
 0.0.0.0 krk.kargo.com
+0.0.0.0 keywordblocks.com
+0.0.0.0 734302086.keywordblocks.com
 0.0.0.0 khingtracking.com
 0.0.0.0 adserver.khingtracking.com
 0.0.0.0 pixel.kiitties.com
@@ -753,6 +755,7 @@
 0.0.0.0 bugly.qq.com
 0.0.0.0 qualtrics.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 quantserve.com
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 px.quantserve.com
@@ -1211,6 +1214,9 @@
 0.0.0.0 virginiatour.112.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 adglare.net
+0.0.0.0 kidswithfoodallergies.cdn.adglare.net
+0.0.0.0 kidswithfoodallergies.engine.adglare.net
 0.0.0.0 admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 ads-srv.net
@@ -1367,6 +1373,7 @@
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
+0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 vanguard.d2.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
