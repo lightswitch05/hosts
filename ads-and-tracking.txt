@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-10T13:02:26+00:00
-# Count: 1489 domains
+# Released: 2018-09-11T16:14:44+00:00
+# Count: 1496 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -836,6 +836,7 @@
 0.0.0.0 sizmek.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
+0.0.0.0 dms.p.sling.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
 0.0.0.0 snapads.com
@@ -1022,6 +1023,8 @@
 0.0.0.0 vidazoo-bi-worker-connection.vidazoo.com
 0.0.0.0 videmob.com
 0.0.0.0 um.videmob.com
+0.0.0.0 videoamp.com
+0.0.0.0 b.videoamp.com
 0.0.0.0 videostat.com
 0.0.0.0 dsp.videostat.com
 0.0.0.0 viewbix.com
@@ -1149,6 +1152,7 @@
 0.0.0.0 origin-4.extole.io
 0.0.0.0 origin-5.extole.io
 0.0.0.0 beacons.extremereach.io
+0.0.0.0 trust.extremereach.io
 0.0.0.0 ghostboard.io
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
@@ -1485,6 +1489,9 @@
 0.0.0.0 static.amp.services
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
+0.0.0.0 extend.tv
+0.0.0.0 adserver-east.extend.tv
+0.0.0.0 spotx2eventsbidder-east.extend.tv
 0.0.0.0 sync.extend.tv
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 ispot.tv
