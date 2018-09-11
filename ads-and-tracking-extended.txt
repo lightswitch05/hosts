@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-10T13:02:26+00:00
-# Count: 9913 domains
+# Released: 2018-09-11T16:14:44+00:00
+# Count: 9932 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -6861,6 +6861,7 @@
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 bo.promotions.skype.com
+0.0.0.0 dms.p.sling.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
 0.0.0.0 snapads.com
@@ -7696,6 +7697,17 @@
 0.0.0.0 publisher.videmob.com
 0.0.0.0 www.publisher.videmob.com
 0.0.0.0 um.videmob.com
+0.0.0.0 videoamp.com
+0.0.0.0 b.videoamp.com
+0.0.0.0 blog.videoamp.com
+0.0.0.0 cdn.videoamp.com
+0.0.0.0 bid.dc3.videoamp.com
+0.0.0.0 drone-ci.videoamp.com
+0.0.0.0 email.videoamp.com
+0.0.0.0 info.videoamp.com
+0.0.0.0 pfsense.ops.videoamp.com
+0.0.0.0 support-test.videoamp.com
+0.0.0.0 www.videoamp.com
 0.0.0.0 videostat.com
 0.0.0.0 dsp.videostat.com
 0.0.0.0 viewbix.com
@@ -8386,6 +8398,7 @@
 0.0.0.0 origin-6.st.extole.io
 0.0.0.0 origin-7.st.extole.io
 0.0.0.0 beacons.extremereach.io
+0.0.0.0 trust.extremereach.io
 0.0.0.0 ghostboard.io
 0.0.0.0 www.ghostboard.io
 0.0.0.0 instana.io
@@ -9820,7 +9833,13 @@
 0.0.0.0 static.amp.services
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
+0.0.0.0 extend.tv
+0.0.0.0 adserver-east.extend.tv
+0.0.0.0 server.extend.tv
+0.0.0.0 www.server.extend.tv
+0.0.0.0 spotx2eventsbidder-east.extend.tv
 0.0.0.0 sync.extend.tv
+0.0.0.0 www.extend.tv
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 ispot.tv
 0.0.0.0 analytics.ispot.tv
