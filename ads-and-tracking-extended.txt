@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-11T16:14:44+00:00
-# Count: 9932 domains
+# Released: 2018-09-11T16:59:47+00:00
+# Count: 9942 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -73,6 +73,7 @@
 0.0.0.0 snackly.co
 0.0.0.0 chef.snackly.co
 0.0.0.0 frontend.snackly.co
+0.0.0.0 prod.snackly.co
 0.0.0.0 vorlon-qa.snackly.co
 0.0.0.0 247realmedia.com
 0.0.0.0 247connect.247realmedia.com
@@ -811,6 +812,7 @@
 0.0.0.0 wiki.advidi.com
 0.0.0.0 www.advidi.com
 0.0.0.0 adviserplus.com
+0.0.0.0 accountmanager.adviserplus.com
 0.0.0.0 autodiscover.adviserplus.com
 0.0.0.0 cas.adviserplus.com
 0.0.0.0 cascade.adviserplus.com
@@ -821,6 +823,7 @@
 0.0.0.0 mail.adviserplus.com
 0.0.0.0 news.adviserplus.com
 0.0.0.0 rdsportal.adviserplus.com
+0.0.0.0 secretmanager.adviserplus.com
 0.0.0.0 secure.adviserplus.com
 0.0.0.0 servicedesk.adviserplus.com
 0.0.0.0 ssltest.adviserplus.com
@@ -2209,6 +2212,8 @@
 0.0.0.0 www.ext.dynamicyield.com
 0.0.0.0 gateway.dynamicyield.com
 0.0.0.0 www.gateway.dynamicyield.com
+0.0.0.0 grp.dynamicyield.com
+0.0.0.0 www.grp.dynamicyield.com
 0.0.0.0 hackathon.dynamicyield.com
 0.0.0.0 www.hackathon.dynamicyield.com
 0.0.0.0 images.dynamicyield.com
@@ -5343,6 +5348,7 @@
 0.0.0.0 search.livefyre.com
 0.0.0.0 sentry.livefyre.com
 0.0.0.0 socialproxy.livefyre.com
+0.0.0.0 status.livefyre.com
 0.0.0.0 stream.livefyre.com
 0.0.0.0 stream1.livefyre.com
 0.0.0.0 studio.livefyre.com
@@ -5569,6 +5575,8 @@
 0.0.0.0 www.eu.cdn.survey.medallia.com
 0.0.0.0 ger.cdn.survey.medallia.com
 0.0.0.0 www.ger.cdn.survey.medallia.com
+0.0.0.0 sea1.cdn.survey.medallia.com
+0.0.0.0 www.sea1.cdn.survey.medallia.com
 0.0.0.0 us.cdn.survey.medallia.com
 0.0.0.0 www.us.cdn.survey.medallia.com
 0.0.0.0 iad01-bfp02.mediaplex.com
@@ -5808,6 +5816,7 @@
 0.0.0.0 static2.mopub.com
 0.0.0.0 post.update.mopub.com
 0.0.0.0 s.update.mopub.com
+0.0.0.0 t.update.mopub.com
 0.0.0.0 www.mopub.com
 0.0.0.0 www3.mopub.com
 0.0.0.0 p-stats.movetv.com
@@ -6864,6 +6873,7 @@
 0.0.0.0 dms.p.sling.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
+0.0.0.0 www.smrtb.com
 0.0.0.0 snapads.com
 0.0.0.0 ads-stats-limiter-shadow.snapads.com
 0.0.0.0 adserver.snapads.com
