@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-11T16:59:47+00:00
-# Count: 1496 domains
+# Released: 2018-09-13T23:57:59+00:00
+# Count: 1498 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -294,6 +294,8 @@
 0.0.0.0 ck.bucksense.com
 0.0.0.0 buypixelads.com
 0.0.0.0 buzzdeck.com
+0.0.0.0 c3tag.com
+0.0.0.0 694-img.c3tag.com
 0.0.0.0 campaign-archive.com
 0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
@@ -1085,7 +1087,6 @@
 0.0.0.0 www.ucc.wix.com
 0.0.0.0 vk.wix.com
 0.0.0.0 wixed.wix.com
-0.0.0.0 apps.wixrestaurants.com
 0.0.0.0 wmadv.com
 0.0.0.0 wootric.com
 0.0.0.0 api.wootric.com
@@ -1245,6 +1246,7 @@
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
+0.0.0.0 ma85-r-analytics.akamaized.net
 0.0.0.0 cs531.wac.alphacdn.net
 0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 dcs-vod.apis.anvato.net

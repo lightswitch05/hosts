@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
-# Released: 2018-09-11T16:17:53+00:00
-# Count: 672 domains
+# Released: 2018-09-13T12:39:02+00:00
+# Count: 673 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -647,6 +647,7 @@
 0.0.0.0 www-forbes-com.cdn.ampproject.org
 0.0.0.0 www-roanoke-com.cdn.ampproject.org
 0.0.0.0 www-todaysparent-com.cdn.ampproject.org
+0.0.0.0 www-whattoexpect-com.cdn.ampproject.org
 0.0.0.0 status.ampproject.org
 0.0.0.0 www.ampproject.org
 0.0.0.0 geoscripts.meredith.services
