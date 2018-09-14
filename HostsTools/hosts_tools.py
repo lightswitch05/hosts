@@ -12,6 +12,7 @@ ALLOWED_DOMAIN_PATTERN = re.compile("^[^\*\?\[\]***REMOVED******REMOVED***\|\\\/
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
+# Title: Lightswitch05's [file_name]
 # Released: [timestamp]
 # Count: [domain_count] domains
 # Details: https://github.com/lightswitch05/hosts
