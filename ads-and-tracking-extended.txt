@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-14T13:34:06+00:00
-# Count: 8581 domains
+# Released: 2018-09-15T15:35:26+00:00
+# Count: 8605 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5255,6 +5255,16 @@
 0.0.0.0 pegasus.ads.scanapps.com
 0.0.0.0 scannet.ads.scanapps.com
 0.0.0.0 beacon.scanapps.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 end.scorecardresearch.com
+0.0.0.0 www.end.scorecardresearch.com
+0.0.0.0 g.scorecardresearch.com
+0.0.0.0 www.g.scorecardresearch.com
+0.0.0.0 italy.scorecardresearch.com
+0.0.0.0 www.italy.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 seb.scorecardresearch.com
+0.0.0.0 www.seb.scorecardresearch.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 selectablemedia.com
 0.0.0.0 cdn.selectablemedia.com
@@ -5650,6 +5660,7 @@
 0.0.0.0 www.cf.ssacdn.com
 0.0.0.0 cncn.ssacdn.com
 0.0.0.0 www.cncn.ssacdn.com
+0.0.0.0 cx.ssacdn.com
 0.0.0.0 cxcc.ssacdn.com
 0.0.0.0 www.cxcc.ssacdn.com
 0.0.0.0 gcdn.ssacdn.com
@@ -6306,6 +6317,14 @@
 0.0.0.0 adserver.valuemd.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 www.venatusmedia.com
+0.0.0.0 vergic.com
+0.0.0.0 hm-content.vergic.com
+0.0.0.0 knowledge.vergic.com
+0.0.0.0 www.knowledge.vergic.com
+0.0.0.0 login.vergic.com
+0.0.0.0 remote.vergic.com
+0.0.0.0 us-commsrv-a.vergic.com
+0.0.0.0 www.vergic.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 s-adobeanalytics.vice.com
 0.0.0.0 vice-web-statics-cdn.vice.com
@@ -7407,6 +7426,7 @@
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
+0.0.0.0 vivaki.demdex.net
 0.0.0.0 districtm.net
 0.0.0.0 bamboo.districtm.net
 0.0.0.0 bamboo-testing.districtm.net
@@ -7877,6 +7897,7 @@
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
+0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 d1.sv.omtrdc.net
 0.0.0.0 delivery.d1.sv.omtrdc.net
 0.0.0.0 d2.sv.omtrdc.net
@@ -8095,6 +8116,8 @@
 0.0.0.0 csp-testsite.timecommerce.net
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sconsentit9.trafficmanager.net
+0.0.0.0 userreplay.net
+0.0.0.0 cdn.userreplay.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 usersegment.wpdigital.net
@@ -8566,6 +8589,7 @@
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 advertisingbeacon.co.uk
 0.0.0.0 beacon.advertisingbeacon.co.uk
+0.0.0.0 ssc.independent.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
 0.0.0.0 www.rubiconproject.us

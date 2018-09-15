@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-14T13:34:06+00:00
-# Count: 1497 domains
+# Released: 2018-09-15T15:35:26+00:00
+# Count: 1508 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -810,6 +810,8 @@
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 ads.scanapps.com
 0.0.0.0 beacon.scanapps.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 selectablemedia.com
 0.0.0.0 cdn.selectablemedia.com
@@ -863,6 +865,7 @@
 0.0.0.0 adserver.sprintdisk.com
 0.0.0.0 sprymetrics.com
 0.0.0.0 ssacdn.com
+0.0.0.0 cx.ssacdn.com
 0.0.0.0 www.ssacdn.com
 0.0.0.0 metrics.starz.com
 0.0.0.0 stripcdn.com
@@ -1012,6 +1015,9 @@
 0.0.0.0 adserver.valuemd.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 www.venatusmedia.com
+0.0.0.0 vergic.com
+0.0.0.0 hm-content.vergic.com
+0.0.0.0 us-commsrv-a.vergic.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 s-adobeanalytics.vice.com
 0.0.0.0 vice-web-statics-cdn.vice.com
@@ -1285,6 +1291,7 @@
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
+0.0.0.0 vivaki.demdex.net
 0.0.0.0 districtm.net
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -1386,6 +1393,7 @@
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
+0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
@@ -1442,6 +1450,8 @@
 0.0.0.0 timecommerce.net
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sconsentit9.trafficmanager.net
+0.0.0.0 userreplay.net
+0.0.0.0 cdn.userreplay.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 usersegment.wpdigital.net
@@ -1509,6 +1519,7 @@
 0.0.0.0 analytics.xcal.tv
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 advertisingbeacon.co.uk
+0.0.0.0 ssc.independent.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
