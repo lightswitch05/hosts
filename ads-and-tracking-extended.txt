@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-17T13:07:28+00:00
-# Count: 8795 domains
+# Released: 2018-09-17T19:14:48+00:00
+# Count: 8824 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2252,6 +2252,7 @@
 0.0.0.0 cjadsystems.dotomi.com
 0.0.0.0 dev.cjadsystems.dotomi.com
 0.0.0.0 production.cjadsystems.dotomi.com
+0.0.0.0 cjperso.dotomi.com
 0.0.0.0 cjpersonalizer.dotomi.com
 0.0.0.0 cjpersonalizer-dev.dotomi.com
 0.0.0.0 client.dotomi.com
@@ -5392,6 +5393,15 @@
 0.0.0.0 webcast.rubiconproject.com
 0.0.0.0 www.webcast.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
+0.0.0.0 rxthdr.com
+0.0.0.0 d.rxthdr.com
+0.0.0.0 vpn01.infra.prod.do-ams2.rxthdr.com
+0.0.0.0 pa.rxthdr.com
+0.0.0.0 prod-infra-vpn01.rxthdr.com
+0.0.0.0 r.rxthdr.com
+0.0.0.0 test.rxthdr.com
+0.0.0.0 testd.rxthdr.com
+0.0.0.0 testr.rxthdr.com
 0.0.0.0 ryke4peep.com
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
@@ -7201,6 +7211,23 @@
 0.0.0.0 www2.branch.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
+0.0.0.0 districtm.io
+0.0.0.0 cdn.districtm.io
+0.0.0.0 dev.cdn.districtm.io
+0.0.0.0 data.districtm.io
+0.0.0.0 dev-cdn.districtm.io
+0.0.0.0 dev-dmx.districtm.io
+0.0.0.0 dmx.districtm.io
+0.0.0.0 dev.dmx.districtm.io
+0.0.0.0 drone.dmx.districtm.io
+0.0.0.0 grafana.dmx.districtm.io
+0.0.0.0 stats.dmx.districtm.io
+0.0.0.0 drone.districtm.io
+0.0.0.0 loader-io.districtm.io
+0.0.0.0 rtb.districtm.io
+0.0.0.0 www.rtb.districtm.io
+0.0.0.0 she.said.districtm.io
+0.0.0.0 test.districtm.io
 0.0.0.0 extole.io
 0.0.0.0 lo.extole.io
 0.0.0.0 api.lo.extole.io
@@ -8137,6 +8164,7 @@
 0.0.0.0 adnimation-d.openx.net
 0.0.0.0 browser-tools.openx.net
 0.0.0.0 cafemedia-d.openx.net
+0.0.0.0 cosmicshovel-d.openx.net
 0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 faithit-d.openx.net
@@ -8153,6 +8181,7 @@
 0.0.0.0 yellow.soju.openx.net
 0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
+0.0.0.0 u.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 www.openx.net

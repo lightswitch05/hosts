@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-17T13:07:28+00:00
-# Count: 1535 domains
+# Released: 2018-09-17T19:14:48+00:00
+# Count: 1542 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -822,6 +822,8 @@
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 rxthdr.com
+0.0.0.0 pa.rxthdr.com
 0.0.0.0 ryke4peep.com
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
@@ -1174,6 +1176,9 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
+0.0.0.0 districtm.io
+0.0.0.0 cdn.districtm.io
+0.0.0.0 dmx.districtm.io
 0.0.0.0 extole.io
 0.0.0.0 origin.extole.io
 0.0.0.0 origin-2.extole.io
@@ -1434,6 +1439,7 @@
 0.0.0.0 openx.net
 0.0.0.0 adnimation-d.openx.net
 0.0.0.0 cafemedia-d.openx.net
+0.0.0.0 cosmicshovel-d.openx.net
 0.0.0.0 diply-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 faithit-d.openx.net
@@ -1443,6 +1449,7 @@
 0.0.0.0 rock-you-d.openx.net
 0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
+0.0.0.0 u.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 pixel.optimalq.net
