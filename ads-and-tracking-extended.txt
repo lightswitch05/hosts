@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-17T19:14:48+00:00
-# Count: 8824 domains
+# Released: 2018-09-18T12:43:10+00:00
+# Count: 8839 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3791,6 +3791,8 @@
 0.0.0.0 sci.intuit.com
 0.0.0.0 smartlinks.intuit.com
 0.0.0.0 smartlinks-e2e.intuit.com
+0.0.0.0 ws-skreemr.origin.inverse.com
+0.0.0.0 pillager.inverse.com
 0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
 0.0.0.0 ascentdata.irganalytics.com
@@ -3857,6 +3859,16 @@
 0.0.0.0 when-pigs-fly.juicemobile.com
 0.0.0.0 www.juicemobile.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 jwpltx.com
+0.0.0.0 s.c.jwpltx.com
+0.0.0.0 dev.jwpltx.com
+0.0.0.0 i.jwpltx.com
+0.0.0.0 s.n.jwpltx.com
+0.0.0.0 nc-s.jwpltx.com
+0.0.0.0 s.jwpltx.com
+0.0.0.0 www.s.jwpltx.com
+0.0.0.0 stg.jwpltx.com
+0.0.0.0 g.jwpsrv.com
 0.0.0.0 kampyle.com
 0.0.0.0 assets.kampyle.com
 0.0.0.0 cdn-usent.kampyle.com
@@ -5233,6 +5245,7 @@
 0.0.0.0 ebm.e.redbox.com
 0.0.0.0 www.ebm.e.redbox.com
 0.0.0.0 image.tx.redbox.com
+0.0.0.0 alb.reddit.com
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 metrics.reebok.com
@@ -5832,6 +5845,8 @@
 0.0.0.0 scc.ssacdn.com
 0.0.0.0 vcc.ssacdn.com
 0.0.0.0 www.ssacdn.com
+0.0.0.0 stack-sonar.com
+0.0.0.0 www.stack-sonar.com
 0.0.0.0 metrics.starz.com
 0.0.0.0 stripcdn.com
 0.0.0.0 b-eu10.stripcdn.com
