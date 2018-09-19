@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-19T16:43:43+00:00
-# Count: 8871 domains
+# Released: 2018-09-19T20:29:57+00:00
+# Count: 8873 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -4758,6 +4758,8 @@
 0.0.0.0 www.synd.netseer.com
 0.0.0.0 www.netseer.com
 0.0.0.0 www3.netseer.com
+0.0.0.0 neweggstats.com
+0.0.0.0 www.neweggstats.com
 0.0.0.0 newrelic.com
 0.0.0.0 azure-res-provider.newrelic.com
 0.0.0.0 blog.newrelic.com
