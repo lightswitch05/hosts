@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-18T12:43:10+00:00
-# Count: 1548 domains
+# Released: 2018-09-19T16:38:10+00:00
+# Count: 1565 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -264,6 +264,7 @@
 0.0.0.0 api-54-190-136-221.b2c.com
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 segment.babynamewizard.com
+0.0.0.0 bandwidthx.com
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 network-stg.bazaarvoice.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
@@ -1155,16 +1156,19 @@
 0.0.0.0 w2.yotpo.com
 0.0.0.0 yottaa.com
 0.0.0.0 stats.zotabox.com
+0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
 0.0.0.0 braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 wpad.example
 0.0.0.0 mediadelivery.fi
 0.0.0.0 is.mediadelivery.fi
 0.0.0.0 keepass.fr
 0.0.0.0 drawbrid.ge
+0.0.0.0 wpad.home
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -1230,12 +1234,17 @@
 0.0.0.0 p0.tribl.io
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 heatmap.it
+0.0.0.0 wpad.lan
+0.0.0.0 traq.li
+0.0.0.0 api.traq.li
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
+0.0.0.0 wpad.local
 0.0.0.0 bnc.lt
 0.0.0.0 custom.bnc.lt
 0.0.0.0 count.ly
 0.0.0.0 stats.count.ly
+0.0.0.0 wpad.mail
 0.0.0.0 pixel.marketing
 0.0.0.0 awstrack.me
 0.0.0.0 scysvr03.r.us-east-1.awstrack.me
@@ -1300,6 +1309,13 @@
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 bandwidthx.net
+0.0.0.0 api.bandwidthx.net
+0.0.0.0 api-dfw-b.bandwidthx.net
+0.0.0.0 api-oma-00.bandwidthx.net
+0.0.0.0 api-oma-02.bandwidthx.net
+0.0.0.0 api-oma-a.bandwidthx.net
+0.0.0.0 cdn.bandwidthx.net
 0.0.0.0 bidswitch.net
 0.0.0.0 x.bidswitch.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
@@ -1541,6 +1557,7 @@
 0.0.0.0 static.amp.services
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
+0.0.0.0 wpad.test
 0.0.0.0 extend.tv
 0.0.0.0 adserver-east.extend.tv
 0.0.0.0 spotx2eventsbidder-east.extend.tv
