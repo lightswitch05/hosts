@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-20T12:53:25+00:00
-# Count: 1568 domains
+# Released: 2018-09-21T19:04:53+00:00
+# Count: 1577 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -24,6 +24,7 @@
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
+0.0.0.0 com.tenjin.ios.api
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 ns-cdn.neustar.biz
 0.0.0.0 wpm.neustar.biz
@@ -468,6 +469,7 @@
 0.0.0.0 franklyinc.com
 0.0.0.0 ngw-static.franklyinc.com
 0.0.0.0 metrics.freecreditscore.com
+0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 ads-api.ft.com
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 fullstory.com
@@ -609,6 +611,7 @@
 0.0.0.0 app-sj04.marketo.com
 0.0.0.0 app-sj08.marketo.com
 0.0.0.0 app-sjo5.marketo.com
+0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 marketolive.com
 0.0.0.0 mathtag.com
 0.0.0.0 pixel-origin.mathtag.com
@@ -643,8 +646,11 @@
 0.0.0.0 adserver.mixedtraffic.com
 0.0.0.0 mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
+0.0.0.0 mkto-sj050263.com
 0.0.0.0 mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
+0.0.0.0 mktoweb.com
+0.0.0.0 docker.mktoweb.com
 0.0.0.0 ml-attr.com
 0.0.0.0 s.ml-attr.com
 0.0.0.0 mmstat.com
@@ -1066,6 +1072,8 @@
 0.0.0.0 b.videoamp.com
 0.0.0.0 videostat.com
 0.0.0.0 dsp.videostat.com
+0.0.0.0 vidora.com
+0.0.0.0 assets.vidora.com
 0.0.0.0 viewbix.com
 0.0.0.0 adserver.viewbix.com
 0.0.0.0 viewsignage.com
@@ -1338,6 +1346,7 @@
 0.0.0.0 www.criteo.net
 0.0.0.0 datamark.net
 0.0.0.0 demdex.net
+0.0.0.0 bestbuy.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 foxnet.demdex.net
