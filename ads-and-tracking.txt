@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-21T19:04:53+00:00
-# Count: 1577 domains
+# Released: 2018-09-21T19:39:44+00:00
+# Count: 1647 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -29,6 +29,7 @@
 0.0.0.0 ns-cdn.neustar.biz
 0.0.0.0 wpm.neustar.biz
 0.0.0.0 rum-collector.wpm.neustar.biz
+0.0.0.0 mkto-panda123.music.blog
 0.0.0.0 districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 flyertown.ca
@@ -646,7 +647,75 @@
 0.0.0.0 adserver.mixedtraffic.com
 0.0.0.0 mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
+0.0.0.0 mkto-ab040164.com
+0.0.0.0 mkto-ab060029.com
+0.0.0.0 mkto-ab090106.com
+0.0.0.0 mkto-ab100012.com
+0.0.0.0 mkto-ab110094.com
+0.0.0.0 mkto-ab120024.com
+0.0.0.0 mkto-ab120109.com
+0.0.0.0 mkto-ab130158.com
+0.0.0.0 mkto-ab160178.com
+0.0.0.0 mkto-ab210183.com
+0.0.0.0 mkto-ab220122.com
+0.0.0.0 mkto-ab220160.com
+0.0.0.0 mkto-ab230119.com
+0.0.0.0 mkto-ab260057.com
+0.0.0.0 mkto-ab260082.com
+0.0.0.0 mkto-ab280131.com
+0.0.0.0 mkto-ab290078.com
+0.0.0.0 mkto-ab290138.com
+0.0.0.0 mkto-ab290158.com
+0.0.0.0 mkto-ab300027.com
+0.0.0.0 mkto-ab300112.com
+0.0.0.0 mkto-ab310019.com
+0.0.0.0 mkto-ab310065.com
+0.0.0.0 mkto-aba0380.com
+0.0.0.0 mkto-abm0208.com
+0.0.0.0 mkto-b0065.com
+0.0.0.0 mkto-e0185.com
+0.0.0.0 mkto-f0054.com
+0.0.0.0 mkto-i0026.com
+0.0.0.0 mkto-lon020055.com
+0.0.0.0 mkto-lon020292.com
+0.0.0.0 mkto-lon030316.com
+0.0.0.0 mkto-lon070016.com
+0.0.0.0 mkto-lon080014.com
+0.0.0.0 mkto-p0016.com
+0.0.0.0 mkto-q0059.com
+0.0.0.0 mkto-q0111.com
+0.0.0.0 mkto-sj020094.com
 0.0.0.0 mkto-sj050263.com
+0.0.0.0 mkto-sj060082.com
+0.0.0.0 mkto-sj070017.com
+0.0.0.0 mkto-sj090022.com
+0.0.0.0 mkto-sj090253.com
+0.0.0.0 mkto-sj110140.com
+0.0.0.0 mkto-sj150030.com
+0.0.0.0 mkto-sj150039.com
+0.0.0.0 mkto-sj190133.com
+0.0.0.0 mkto-sj200005.com
+0.0.0.0 mkto-sj210180.com
+0.0.0.0 mkto-sj220006.com
+0.0.0.0 mkto-sj220031.com
+0.0.0.0 mkto-sj220032.com
+0.0.0.0 mkto-sj250060.com
+0.0.0.0 mkto-sjf0310.com
+0.0.0.0 mkto-sjg0058.com
+0.0.0.0 mkto-sji0011.com
+0.0.0.0 mkto-sji0026.com
+0.0.0.0 mkto-sjl0027.com
+0.0.0.0 mkto-sjp0016.com
+0.0.0.0 mkto-sn010179.com
+0.0.0.0 mkto-sn020052.com
+0.0.0.0 mkto-sn030095.com
+0.0.0.0 mkto-sn030096.com
+0.0.0.0 mkto-sn030097.com
+0.0.0.0 mkto-sn030098.com
+0.0.0.0 mkto-sn030185.com
+0.0.0.0 mkto-sn040160.com
+0.0.0.0 mkto-sn040178.com
+0.0.0.0 mkto-test.com
 0.0.0.0 mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mktoweb.com
@@ -772,6 +841,7 @@
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
 0.0.0.0 postrelease.com
+0.0.0.0 mkto-pages.power.com
 0.0.0.0 px.powerlinks.com
 0.0.0.0 preapps.com
 0.0.0.0 privy.com
