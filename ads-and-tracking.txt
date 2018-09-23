@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-23T02:29:13+00:00
-# Count: 1645 domains
+# Released: 2018-09-23T03:01:14+00:00
+# Count: 1650 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -770,6 +770,7 @@
 0.0.0.0 us.np.adproxy.ndmdhs.com
 0.0.0.0 feed-player-service.prod.ndnops.com
 0.0.0.0 adserver.netcollins.com
+0.0.0.0 optmnstr.awesomemotive.netdna-cdn.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
 0.0.0.0 assets.customerio.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
@@ -797,6 +798,7 @@
 0.0.0.0 optimezer.com
 0.0.0.0 optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
+0.0.0.0 optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 optnmstr.com
@@ -1636,6 +1638,9 @@
 0.0.0.0 static.amp.services
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
+0.0.0.0 adj.st
+0.0.0.0 nn8g.adj.st
+0.0.0.0 rzte.adj.st
 0.0.0.0 wpad.test
 0.0.0.0 extend.tv
 0.0.0.0 adserver-east.extend.tv
