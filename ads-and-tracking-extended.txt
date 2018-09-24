@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-23T03:01:14+00:00
-# Count: 9062 domains
+# Released: 2018-09-24T19:24:01+00:00
+# Count: 9078 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -58,6 +58,7 @@
 0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 leivonta.leadpages.co
 0.0.0.0 soap17.leadpages.co
+0.0.0.0 a.mailmunch.co
 0.0.0.0 sele.co
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
@@ -1543,6 +1544,7 @@
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 www.iadsdk.apple.com
+0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 appsee.com
 0.0.0.0 api.appsee.com
 0.0.0.0 www.api.appsee.com
@@ -3491,6 +3493,7 @@
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
+0.0.0.0 cdn.feeds.ibt.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 adserver.iminent.com
@@ -4090,6 +4093,8 @@
 0.0.0.0 sstats.kroger.com
 0.0.0.0 www.sstats.kroger.com
 0.0.0.0 static.lakana.com
+0.0.0.0 app.intuit.launchdarkly.com
+0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 pixel.leadnationmedia.com
 0.0.0.0 www.pixel.leadnationmedia.com
@@ -6236,6 +6241,7 @@
 0.0.0.0 tracking.tappx.com
 0.0.0.0 www.tappx.com
 0.0.0.0 taglocker.target.com
+0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 tenjin.com
 0.0.0.0 blog.tenjin.com
 0.0.0.0 email.tenjin.com
@@ -7731,6 +7737,7 @@
 0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
@@ -7850,6 +7857,7 @@
 0.0.0.0 fast.sears.demdex.net
 0.0.0.0 swa.demdex.net
 0.0.0.0 fast.swa.demdex.net
+0.0.0.0 tdameritrade.demdex.net
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
@@ -8418,6 +8426,7 @@
 0.0.0.0 admin.pixel.optimalq.net
 0.0.0.0 aero.pixel.optimalq.net
 0.0.0.0 node.pixel.optimalq.net
+0.0.0.0 www.sc.pages06.net
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
@@ -8569,6 +8578,7 @@
 0.0.0.0 mail.ads.wsrs.net
 0.0.0.0 www.ads.wsrs.net
 0.0.0.0 syndication.site.yahoo.net
+0.0.0.0 api-statcloud.a03.yahoodns.net
 0.0.0.0 yieldmanager.net
 0.0.0.0 ad.yieldmanager.net
 0.0.0.0 audience.ad.yieldmanager.net
@@ -8748,6 +8758,12 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 outbrain.org
 0.0.0.0 alldcs.outbrain.org
+0.0.0.0 privacy-center.org
+0.0.0.0 api.privacy-center.org
+0.0.0.0 sdk.privacy-center.org
+0.0.0.0 sdk-cl.privacy-center.org
+0.0.0.0 staging.privacy-center.org
+0.0.0.0 api.staging.privacy-center.org
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 www.adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
