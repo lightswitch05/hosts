@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-25T12:44:52+00:00
-# Count: 9082 domains
+# Released: 2018-09-25T19:36:02+00:00
+# Count: 9098 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -299,6 +299,14 @@
 0.0.0.0 adkmob.com
 0.0.0.0 cm.adkmob.com
 0.0.0.0 orionimg.adkmob.com
+0.0.0.0 adlightning.com
+0.0.0.0 admin.adlightning.com
+0.0.0.0 analytics.adlightning.com
+0.0.0.0 dev.adlightning.com
+0.0.0.0 prod.adlightning.com
+0.0.0.0 adtag.staging.adlightning.com
+0.0.0.0 tagan.adlightning.com
+0.0.0.0 www.adlightning.com
 0.0.0.0 admedia.com
 0.0.0.0 advertisers.admedia.com
 0.0.0.0 members.admedia.com
@@ -3108,6 +3116,7 @@
 0.0.0.0 nrb.footprintdns.com
 0.0.0.0 report.footprintdns.com
 0.0.0.0 citrix-pk2.force.com
+0.0.0.0 fullcopy-dishdigital.cs16.force.com
 0.0.0.0 foresee.com
 0.0.0.0 aaskypepool.foresee.com
 0.0.0.0 analytics.foresee.com
@@ -3215,7 +3224,12 @@
 0.0.0.0 webmail.franklyinc.com
 0.0.0.0 www.franklyinc.com
 0.0.0.0 metrics.freecreditscore.com
+0.0.0.0 freshmarketer.com
 0.0.0.0 cdn.freshmarketer.com
+0.0.0.0 changelog.freshmarketer.com
+0.0.0.0 support.freshmarketer.com
+0.0.0.0 toolbar.freshmarketer.com
+0.0.0.0 www.freshmarketer.com
 0.0.0.0 ads-api.ft.com
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 fullstory.com
@@ -8314,6 +8328,8 @@
 0.0.0.0 www.mxptint.net
 0.0.0.0 yhp.mxptint.net
 0.0.0.0 www.yhp.mxptint.net
+0.0.0.0 mzbcdn.net
+0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 omtrdc.net
 0.0.0.0 collection.sv.d1.omtrdc.net
