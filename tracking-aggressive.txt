@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2018-09-25T12:29:35+00:00
-# Count: 99 domains
+# Released: 2018-09-26T15:44:55+00:00
+# Count: 101 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -81,7 +81,9 @@
 0.0.0.0 spymasterpro.com
 0.0.0.0 surveygizmo.com
 0.0.0.0 redsky.target.com
+0.0.0.0 cdn.turner.com
 0.0.0.0 amd.cdn.turner.com
+0.0.0.0 ssl.cdn.turner.com
 0.0.0.0 samsungresources.visionobjects.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
