@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-26T14:54:54+00:00
-# Count: 9107 domains
+# Released: 2018-09-27T19:04:08+00:00
+# Count: 9189 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -227,6 +227,8 @@
 0.0.0.0 webmail.accessiblemetrics.com
 0.0.0.0 www.accessiblemetrics.com
 0.0.0.0 adserver.aceofmedia.com
+0.0.0.0 acrabakasaka.com
+0.0.0.0 a.acrabakasaka.com
 0.0.0.0 ad-score.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 www.data.ad-score.com
@@ -1136,6 +1138,10 @@
 0.0.0.0 certify-stage.alexametrics.com
 0.0.0.0 js.alexametrics.com
 0.0.0.0 pixel.alexametrics.com
+0.0.0.0 analytics.algolia.com
+0.0.0.0 analytics.de.algolia.com
+0.0.0.0 recommendation.algolia.com
+0.0.0.0 analytics.us.algolia.com
 0.0.0.0 algovid.com
 0.0.0.0 a.algovid.com
 0.0.0.0 c.algovid.com
@@ -1645,7 +1651,44 @@
 0.0.0.0 trk.atdmt.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 analytics.atlassian.com
+0.0.0.0 atwola.com
+0.0.0.0 ar.atwola.com
+0.0.0.0 logging.ar.atwola.com
+0.0.0.0 optout3.ar.atwola.com
+0.0.0.0 at.atwola.com
+0.0.0.0 cdn.at.atwola.com
+0.0.0.0 de.at.atwola.com
+0.0.0.0 fr.at.atwola.com
+0.0.0.0 ingest.at.atwola.com
 0.0.0.0 pixel.ingest.at.atwola.com
+0.0.0.0 scd.ingest.at.atwola.com
+0.0.0.0 jp.at.atwola.com
+0.0.0.0 ol.jp.at.atwola.com
+0.0.0.0 logging.at.atwola.com
+0.0.0.0 mads.at.atwola.com
+0.0.0.0 madsuk.at.atwola.com
+0.0.0.0 ol.at.atwola.com
+0.0.0.0 px.at.atwola.com
+0.0.0.0 tacoda.at.atwola.com
+0.0.0.0 cdn-sec.tacoda.at.atwola.com
+0.0.0.0 guce.tacoda.at.atwola.com
+0.0.0.0 stage.guce.tacoda.at.atwola.com
+0.0.0.0 trunk.guce.tacoda.at.atwola.com
+0.0.0.0 optout3.tacoda.at.atwola.com
+0.0.0.0 qa.tacoda.at.atwola.com
+0.0.0.0 uk.at.atwola.com
+0.0.0.0 ol.uk.at.atwola.com
+0.0.0.0 uts-api.at.atwola.com
+0.0.0.0 vivad.at.atwola.com
+0.0.0.0 cdn.atwola.com
+0.0.0.0 scdn.mm.atwola.com
+0.0.0.0 secure-cdn.mm.atwola.com
+0.0.0.0 secure-cdn.atwola.com
+0.0.0.0 cdn.uc.atwola.com
+0.0.0.0 scdn.uc.atwola.com
+0.0.0.0 as.y.atwola.com
+0.0.0.0 eu.y.atwola.com
+0.0.0.0 us.y.atwola.com
 0.0.0.0 audiensis.com
 0.0.0.0 pixel.audiensis.com
 0.0.0.0 www.pixel.audiensis.com
@@ -1685,6 +1728,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 adserver.b2c.com
 0.0.0.0 cdn.adserver.b2c.com
+0.0.0.0 api.b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 segment.babynamewizard.com
@@ -4566,6 +4610,8 @@
 0.0.0.0 status.mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 www.mixpanel.com
+0.0.0.0 mkt8668.com
+0.0.0.0 contentz.mkt8668.com
 0.0.0.0 mkto-ab040164.com
 0.0.0.0 mkto-ab060029.com
 0.0.0.0 mkto-ab090106.com
@@ -4952,6 +4998,12 @@
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 omnitagjs.com
+0.0.0.0 api.omnitagjs.com
+0.0.0.0 dyn.omnitagjs.com
+0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 ssp.omnitagjs.com
 0.0.0.0 onaudience.com
 0.0.0.0 www.onaudience.com
 0.0.0.0 x.onaudience.com
@@ -5035,6 +5087,7 @@
 0.0.0.0 www.optimizely.com
 0.0.0.0 zendesk-staging.optimizely.com
 0.0.0.0 optmnstr.com
+0.0.0.0 api.optmnstr.com
 0.0.0.0 ga.optmnstr.com
 0.0.0.0 z.optmnstr.com
 0.0.0.0 optmstr.com
@@ -5776,6 +5829,40 @@
 0.0.0.0 www.siliconorchard.com
 0.0.0.0 zaap.siliconorchard.com
 0.0.0.0 www.zaap.siliconorchard.com
+0.0.0.0 silverpop.com
+0.0.0.0 atl-sslvpn.silverpop.com
+0.0.0.0 cis.silverpop.com
+0.0.0.0 engage0.silverpop.com
+0.0.0.0 engage1.silverpop.com
+0.0.0.0 engage2.silverpop.com
+0.0.0.0 engage3.silverpop.com
+0.0.0.0 engage4.silverpop.com
+0.0.0.0 engage5.silverpop.com
+0.0.0.0 engage6.silverpop.com
+0.0.0.0 engage7.silverpop.com
+0.0.0.0 engage8.silverpop.com
+0.0.0.0 exchange.silverpop.com
+0.0.0.0 irv-sslvpn.silverpop.com
+0.0.0.0 kb.silverpop.com
+0.0.0.0 login0.silverpop.com
+0.0.0.0 login1.silverpop.com
+0.0.0.0 login2.silverpop.com
+0.0.0.0 login3.silverpop.com
+0.0.0.0 login4.silverpop.com
+0.0.0.0 login5.silverpop.com
+0.0.0.0 login6.silverpop.com
+0.0.0.0 login7.silverpop.com
+0.0.0.0 login8.silverpop.com
+0.0.0.0 marketer1.silverpop.com
+0.0.0.0 marketer2.silverpop.com
+0.0.0.0 marketer3.silverpop.com
+0.0.0.0 marketer4.silverpop.com
+0.0.0.0 content.pilot.silverpop.com
+0.0.0.0 socialpull.silverpop.com
+0.0.0.0 testkb.silverpop.com
+0.0.0.0 trans.silverpop.com
+0.0.0.0 webmail.silverpop.com
+0.0.0.0 www.silverpop.com
 0.0.0.0 sizmek.com
 0.0.0.0 adapi.sizmek.com
 0.0.0.0 www.adapi.sizmek.com
@@ -6182,6 +6269,11 @@
 0.0.0.0 www.vision.taboola.com
 0.0.0.0 workshops.taboola.com
 0.0.0.0 www.taboola.com
+0.0.0.0 tagcommander.com
+0.0.0.0 cdn.tagcommander.com
+0.0.0.0 cdn2.tagcommander.com
+0.0.0.0 mail.tagcommander.com
+0.0.0.0 manager.tagcommander.com
 0.0.0.0 pixel.tagdelivery.com
 0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
@@ -7025,6 +7117,9 @@
 0.0.0.0 z.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
+0.0.0.0 fc.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 bats.video.yahoo.com
 0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 metrics.yellowpages.com
 0.0.0.0 yext.com
@@ -7737,6 +7832,9 @@
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 arsdev.net
+0.0.0.0 accelerator.arsdev.net
+0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
@@ -8233,6 +8331,9 @@
 0.0.0.0 www.player.mediabong.net
 0.0.0.0 task.mediabong.net
 0.0.0.0 www.mediabong.net
+0.0.0.0 mkt81.net
+0.0.0.0 contentz.mkt81.net
+0.0.0.0 links.mkt81.net
 0.0.0.0 monetate.net
 0.0.0.0 ad.monetate.net
 0.0.0.0 ad2.monetate.net
@@ -8335,6 +8436,7 @@
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 adpsj.ssl.d1.sc.omtrdc.net
+0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 d2.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 adpdl.ssl.d2.sc.omtrdc.net
