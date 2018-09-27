@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-26T14:54:54+00:00
-# Count: 1673 domains
+# Released: 2018-09-27T19:04:08+00:00
+# Count: 1696 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -61,6 +61,8 @@
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 accessiblemetrics.com
 0.0.0.0 adserver.aceofmedia.com
+0.0.0.0 acrabakasaka.com
+0.0.0.0 a.acrabakasaka.com
 0.0.0.0 ad-score.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 adbiq.com
@@ -148,6 +150,10 @@
 0.0.0.0 adserver.akamanda.com
 0.0.0.0 alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
+0.0.0.0 analytics.algolia.com
+0.0.0.0 analytics.de.algolia.com
+0.0.0.0 recommendation.algolia.com
+0.0.0.0 analytics.us.algolia.com
 0.0.0.0 algovid.com
 0.0.0.0 a.algovid.com
 0.0.0.0 c.algovid.com
@@ -261,6 +267,7 @@
 0.0.0.0 atdmt.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 analytics.atlassian.com
+0.0.0.0 atwola.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 audiensis.com
 0.0.0.0 dwh-tracking.it.auth0.com
@@ -268,6 +275,7 @@
 0.0.0.0 api.autopilothq.com
 0.0.0.0 awltovhc.com
 0.0.0.0 b2c.com
+0.0.0.0 api.b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 segment.babynamewizard.com
@@ -656,6 +664,8 @@
 0.0.0.0 adserver.mixedtraffic.com
 0.0.0.0 mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
+0.0.0.0 mkt8668.com
+0.0.0.0 contentz.mkt8668.com
 0.0.0.0 mkto-ab040164.com
 0.0.0.0 mkto-ab060029.com
 0.0.0.0 mkto-ab090106.com
@@ -800,6 +810,9 @@
 0.0.0.0 ww9.ntellicast.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
+0.0.0.0 consent.cmp.oath.com
+0.0.0.0 omnitagjs.com
+0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 onaudience.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
@@ -808,6 +821,7 @@
 0.0.0.0 optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 optmnstr.com
+0.0.0.0 api.optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 optnmstr.com
@@ -953,6 +967,8 @@
 0.0.0.0 beyond-api.shopkick.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
+0.0.0.0 silverpop.com
+0.0.0.0 cis.silverpop.com
 0.0.0.0 sizmek.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
@@ -1046,6 +1062,7 @@
 0.0.0.0 images.taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 vidstat.taboola.com
+0.0.0.0 tagcommander.com
 0.0.0.0 pixel.tagdelivery.com
 0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
@@ -1226,6 +1243,9 @@
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
+0.0.0.0 fc.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 bats.video.yahoo.com
 0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 metrics.yellowpages.com
 0.0.0.0 yext.com
@@ -1397,6 +1417,8 @@
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 arsdev.net
+0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
@@ -1516,6 +1538,8 @@
 0.0.0.0 prebid.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
+0.0.0.0 mkt81.net
+0.0.0.0 contentz.mkt81.net
 0.0.0.0 monetate.net
 0.0.0.0 se.monetate.net
 0.0.0.0 metrics.dc.ad.msft.net
@@ -1532,6 +1556,7 @@
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
+0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
