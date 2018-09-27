@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2018-09-26T15:44:55+00:00
-# Count: 101 domains
+# Released: 2018-09-27T13:56:25+00:00
+# Count: 102 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -118,6 +118,7 @@
 0.0.0.0 www-sbnation-com.cdn.ampproject.org
 0.0.0.0 www-todaysparent-com.cdn.ampproject.org
 0.0.0.0 www-whattoexpect-com.cdn.ampproject.org
+0.0.0.0 api.ipify.org
 0.0.0.0 geoscripts.meredith.services
 0.0.0.0 gomoxie.solutions
 0.0.0.0 asset.gomoxie.solutions
