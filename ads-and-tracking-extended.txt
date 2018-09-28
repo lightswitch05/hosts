@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-27T19:04:08+00:00
-# Count: 9189 domains
+# Released: 2018-09-28T00:36:31+00:00
+# Count: 9325 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -132,6 +132,7 @@
 0.0.0.0 oasc17w.247realmedia.com
 0.0.0.0 oasc17y.247realmedia.com
 0.0.0.0 oasc18.247realmedia.com
+0.0.0.0 oasc18f.247realmedia.com
 0.0.0.0 oasc18u.247realmedia.com
 0.0.0.0 oasc18w.247realmedia.com
 0.0.0.0 oasc18x.247realmedia.com
@@ -465,6 +466,7 @@
 0.0.0.0 adswizz.com
 0.0.0.0 adserver.adswizz.com
 0.0.0.0 alpha.adswizz.com
+0.0.0.0 preprod.api.adswizz.com
 0.0.0.0 audiomax.adswizz.com
 0.0.0.0 clearchannel.adswizz.com
 0.0.0.0 deliveryengine.adswizz.com
@@ -488,6 +490,8 @@
 0.0.0.0 staging.adswizz.com
 0.0.0.0 adserver.staging.adswizz.com
 0.0.0.0 streaming.adswizz.com
+0.0.0.0 webchunker.streaming.adswizz.com
+0.0.0.0 api.webchunker.streaming.adswizz.com
 0.0.0.0 streaming-dev.adswizz.com
 0.0.0.0 support.adswizz.com
 0.0.0.0 www.support.adswizz.com
@@ -606,7 +610,24 @@
 0.0.0.0 adserver.adtz.com
 0.0.0.0 apps.adtz.com
 0.0.0.0 www.apps.adtz.com
+0.0.0.0 facebook-ads.adtz.com
+0.0.0.0 2open.facebook-ads.adtz.com
+0.0.0.0 dev.2open.facebook-ads.adtz.com
+0.0.0.0 www.dev.2open.facebook-ads.adtz.com
+0.0.0.0 www.dev.3dids.facebook-ads.adtz.com
+0.0.0.0 www.dev.abs-cbn.facebook-ads.adtz.com
+0.0.0.0 www.dev.accentsystems.facebook-ads.adtz.com
+0.0.0.0 www.dev.accenture-br.facebook-ads.adtz.com
+0.0.0.0 www.dev.ad-pure.facebook-ads.adtz.com
+0.0.0.0 www.dev.adam-demo.facebook-ads.adtz.com
+0.0.0.0 www.dev.adconion-us.facebook-ads.adtz.com
+0.0.0.0 dev.facebook-ads.adtz.com
 0.0.0.0 www.facturacion.facebook-ads.adtz.com
+0.0.0.0 www.dev.trial.facebook-ads.adtz.com
+0.0.0.0 www.trial.facebook-ads.adtz.com
+0.0.0.0 www.dev.trial-italia.facebook-ads.adtz.com
+0.0.0.0 unir.facebook-ads.adtz.com
+0.0.0.0 dev.unir.facebook-ads.adtz.com
 0.0.0.0 www.bootea-uk.pinterest.adtz.com
 0.0.0.0 www.canada.pinterest.adtz.com
 0.0.0.0 www.dev.pinterest.adtz.com
@@ -899,6 +920,8 @@
 0.0.0.0 55hft.adx1.com
 0.0.0.0 5g.adx1.com
 0.0.0.0 www.5g.adx1.com
+0.0.0.0 5rnl.adx1.com
+0.0.0.0 www.5rnl.adx1.com
 0.0.0.0 5ya.adx1.com
 0.0.0.0 6cg.adx1.com
 0.0.0.0 79.adx1.com
@@ -993,11 +1016,15 @@
 0.0.0.0 login.adx1.com
 0.0.0.0 www.login.adx1.com
 0.0.0.0 lync.adx1.com
+0.0.0.0 www.lync.adx1.com
 0.0.0.0 lync10.adx1.com
+0.0.0.0 www.lync10.adx1.com
 0.0.0.0 lyncaccess.adx1.com
 0.0.0.0 lyncaccess01.adx1.com
 0.0.0.0 lyncdiscover.adx1.com
+0.0.0.0 www.lyncdiscover.adx1.com
 0.0.0.0 lyncext.adx1.com
+0.0.0.0 www.lyncext.adx1.com
 0.0.0.0 lyncweb.adx1.com
 0.0.0.0 m.adx1.com
 0.0.0.0 www.m.adx1.com
@@ -1117,10 +1144,13 @@
 0.0.0.0 px.airpr.com
 0.0.0.0 roi.airpr.com
 0.0.0.0 www.roi.airpr.com
+0.0.0.0 analytics-dash.tools.airpr.com
 0.0.0.0 vpn.airpr.com
 0.0.0.0 webinar.airpr.com
 0.0.0.0 www.webinar.airpr.com
 0.0.0.0 www.airpr.com
+0.0.0.0 zero.airpr.com
+0.0.0.0 zeros.airpr.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 autodiscover.airvertiseme.com
 0.0.0.0 beacon.airvertiseme.com
@@ -1406,6 +1436,8 @@
 0.0.0.0 landing.analyticson.com
 0.0.0.0 www.landing.analyticson.com
 0.0.0.0 mail.analyticson.com
+0.0.0.0 marketplace.analyticson.com
+0.0.0.0 www.marketplace.analyticson.com
 0.0.0.0 media.analyticson.com
 0.0.0.0 www.media.analyticson.com
 0.0.0.0 medias.analyticson.com
@@ -1957,12 +1989,17 @@
 0.0.0.0 chartboost.com
 0.0.0.0 answers.chartboost.com
 0.0.0.0 www.answers.chartboost.com
+0.0.0.0 autodiscover.chartboost.com
+0.0.0.0 cpanel.chartboost.com
 0.0.0.0 engineering.chartboost.com
 0.0.0.0 www.engineering.chartboost.com
 0.0.0.0 info.chartboost.com
 0.0.0.0 live.chartboost.com
+0.0.0.0 mail.chartboost.com
 0.0.0.0 v4.chartboost.com
 0.0.0.0 v5.chartboost.com
+0.0.0.0 webdisk.chartboost.com
+0.0.0.0 webmail.chartboost.com
 0.0.0.0 www.chartboost.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
@@ -2183,6 +2220,7 @@
 0.0.0.0 www.labs.criteo.com
 0.0.0.0 ld1.criteo.com
 0.0.0.0 mail.criteo.com
+0.0.0.0 marketing.criteo.com
 0.0.0.0 nt.criteo.com
 0.0.0.0 preprod.criteo.com
 0.0.0.0 rtax.criteo.com
@@ -2279,6 +2317,7 @@
 0.0.0.0 gdpr-dev.demandbase.com
 0.0.0.0 gdpr-prod.demandbase.com
 0.0.0.0 gdpr-stg.demandbase.com
+0.0.0.0 grafana.demandbase.com
 0.0.0.0 leads.demandbase.com
 0.0.0.0 www.leads.demandbase.com
 0.0.0.0 legacy.demandbase.com
@@ -2424,6 +2463,10 @@
 0.0.0.0 community.dynamicyield.com
 0.0.0.0 community-old.dynamicyield.com
 0.0.0.0 community-old2.dynamicyield.com
+0.0.0.0 crm-preview.dynamicyield.com
+0.0.0.0 www.crm-preview.dynamicyield.com
+0.0.0.0 customer-folder.dynamicyield.com
+0.0.0.0 www.customer-folder.dynamicyield.com
 0.0.0.0 customer-folder-eu.dynamicyield.com
 0.0.0.0 dyode.dynamicyield.com
 0.0.0.0 www.dyode.dynamicyield.com
@@ -2538,9 +2581,72 @@
 0.0.0.0 www.js-cdn.dynatrace.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 eloqua.com
+0.0.0.0 access.eloqua.com
+0.0.0.0 www.access.eloqua.com
+0.0.0.0 autodiscover.eloqua.com
+0.0.0.0 cloudconnectors.eloqua.com
+0.0.0.0 compass.eloqua.com
+0.0.0.0 www.compass.eloqua.com
+0.0.0.0 dpa.dc6.eloqua.com
+0.0.0.0 devsecure.eloqua.com
+0.0.0.0 highereddemo.eloqua.com
+0.0.0.0 higheredgallery.eloqua.com
+0.0.0.0 insight.eloqua.com
+0.0.0.0 lifesciencesb2c.eloqua.com
+0.0.0.0 login.eloqua.com
+0.0.0.0 login-apps.eloqua.com
+0.0.0.0 lsb2cdemo.eloqua.com
+0.0.0.0 lsb2cgallery.eloqua.com
+0.0.0.0 mail02.eloqua.com
+0.0.0.0 manufacturing2.eloqua.com
+0.0.0.0 monitoring.eloqua.com
+0.0.0.0 mysite.eloqua.com
+0.0.0.0 www.mysite.eloqua.com
+0.0.0.0 myss.eloqua.com
+0.0.0.0 p01.eloqua.com
+0.0.0.0 p02.eloqua.com
+0.0.0.0 p03.eloqua.com
+0.0.0.0 apps.p03.eloqua.com
+0.0.0.0 insight.p03.eloqua.com
+0.0.0.0 reporting.p03.eloqua.com
+0.0.0.0 secure.p03.eloqua.com
+0.0.0.0 p04.eloqua.com
+0.0.0.0 p06.eloqua.com
+0.0.0.0 p07.eloqua.com
+0.0.0.0 apps.p07.eloqua.com
+0.0.0.0 insight.p07.eloqua.com
+0.0.0.0 reporting.p07.eloqua.com
+0.0.0.0 secure.p07.eloqua.com
+0.0.0.0 pag.eloqua.com
+0.0.0.0 hipaa-p01.releasetesting.eloqua.com
+0.0.0.0 hipaa-p02.releasetesting.eloqua.com
+0.0.0.0 hipaa-p03.releasetesting.eloqua.com
+0.0.0.0 hipaa-p04.releasetesting.eloqua.com
+0.0.0.0 hipaa-p06.releasetesting.eloqua.com
+0.0.0.0 hipaa-p07.releasetesting.eloqua.com
+0.0.0.0 returnpath.eloqua.com
+0.0.0.0 s-mail02.eloqua.com
+0.0.0.0 secure.eloqua.com
+0.0.0.0 apps.secure.eloqua.com
+0.0.0.0 insight.secure.eloqua.com
+0.0.0.0 reporting.secure.eloqua.com
+0.0.0.0 www02.secure.eloqua.com
+0.0.0.0 apps.www02.secure.eloqua.com
+0.0.0.0 insight.www02.secure.eloqua.com
+0.0.0.0 reporting.www02.secure.eloqua.com
+0.0.0.0 t.eloqua.com
+0.0.0.0 p01.t.eloqua.com
+0.0.0.0 s1516.t.eloqua.com
+0.0.0.0 testsite.eloqua.com
+0.0.0.0 dpa.tor6.eloqua.com
+0.0.0.0 webmail.eloqua.com
+0.0.0.0 www.eloqua.com
 0.0.0.0 en25.com
 0.0.0.0 img04.en25.com
 0.0.0.0 t.en25.com
+0.0.0.0 p01.t.en25.com
+0.0.0.0 s1516.t.en25.com
 0.0.0.0 engagio.com
 0.0.0.0 developer.engagio.com
 0.0.0.0 diveschool.engagio.com
@@ -2613,6 +2719,7 @@
 0.0.0.0 akamai-san25.exacttarget.com
 0.0.0.0 akamai-san26.exacttarget.com
 0.0.0.0 akamai-san27.exacttarget.com
+0.0.0.0 akamai-san28.exacttarget.com
 0.0.0.0 akamai-san30.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
@@ -3103,12 +3210,15 @@
 0.0.0.0 www.auth.k8s-prod.fiksu.com
 0.0.0.0 dex.k8s-prod.fiksu.com
 0.0.0.0 www.dex.k8s-prod.fiksu.com
+0.0.0.0 request-tracker.k8s-prod.fiksu.com
 0.0.0.0 auth.k8s-test.fiksu.com
 0.0.0.0 www.auth.k8s-test.fiksu.com
 0.0.0.0 dex.k8s-test.fiksu.com
 0.0.0.0 www.dex.k8s-test.fiksu.com
+0.0.0.0 grafana.k8s-test.fiksu.com
 0.0.0.0 login.k8s-test.fiksu.com
 0.0.0.0 www.login.k8s-test.fiksu.com
+0.0.0.0 request-tracker.k8s-test.fiksu.com
 0.0.0.0 media.fiksu.com
 0.0.0.0 resources.fiksu.com
 0.0.0.0 sdk.fiksu.com
@@ -3823,6 +3933,7 @@
 0.0.0.0 www.player.innovid.com
 0.0.0.0 priority.innovid.com
 0.0.0.0 www.priority.innovid.com
+0.0.0.0 rtr.innovid.com
 0.0.0.0 rtrx.innovid.com
 0.0.0.0 s-files.innovid.com
 0.0.0.0 support.innovid.com
@@ -3920,6 +4031,9 @@
 0.0.0.0 stage.app.jivox.com
 0.0.0.0 as.jivox.com
 0.0.0.0 cdn.jivox.com
+0.0.0.0 dev.jivox.com
+0.0.0.0 api.dev.jivox.com
+0.0.0.0 app.dev.jivox.com
 0.0.0.0 evs.jivox.com
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 secure-as.jivox.com
@@ -4395,6 +4509,7 @@
 0.0.0.0 nation.marketo.com
 0.0.0.0 app-www.nation.marketo.com
 0.0.0.0 www.nation.marketo.com
+0.0.0.0 partnerportal.marketo.com
 0.0.0.0 projects.marketo.com
 0.0.0.0 qadynamics.marketo.com
 0.0.0.0 qauiab02autodev1.marketo.com
@@ -4409,6 +4524,7 @@
 0.0.0.0 testsj01.marketo.com
 0.0.0.0 tkovpn.marketo.com
 0.0.0.0 www.tkovpn.marketo.com
+0.0.0.0 universityonline.marketo.com
 0.0.0.0 webmail.marketo.com
 0.0.0.0 www.marketo.com
 0.0.0.0 marketolive.com
@@ -4417,6 +4533,8 @@
 0.0.0.0 insights.marketolive.com
 0.0.0.0 jp.marketolive.com
 0.0.0.0 www.jp.marketolive.com
+0.0.0.0 magento.marketolive.com
+0.0.0.0 www.magento.marketolive.com
 0.0.0.0 partners.marketolive.com
 0.0.0.0 verticals.marketolive.com
 0.0.0.0 www.marketolive.com
@@ -4487,6 +4605,8 @@
 0.0.0.0 www.eu.cdn.survey.medallia.com
 0.0.0.0 ger.cdn.survey.medallia.com
 0.0.0.0 www.ger.cdn.survey.medallia.com
+0.0.0.0 qa.cdn.survey.medallia.com
+0.0.0.0 www.qa.cdn.survey.medallia.com
 0.0.0.0 sea1.cdn.survey.medallia.com
 0.0.0.0 www.sea1.cdn.survey.medallia.com
 0.0.0.0 us.cdn.survey.medallia.com
@@ -4512,6 +4632,7 @@
 0.0.0.0 sdk-analytics.metaps.com
 0.0.0.0 support.metaps.com
 0.0.0.0 test.metaps.com
+0.0.0.0 www-test.metaps.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 dc.applicationinsights.microsoft.com
 0.0.0.0 dev.applicationinsights.microsoft.com
@@ -5284,6 +5405,7 @@
 0.0.0.0 p2.placed.com
 0.0.0.0 pixel.placed.com
 0.0.0.0 places.placed.com
+0.0.0.0 sdk.placed.com
 0.0.0.0 support.placed.com
 0.0.0.0 www.placed.com
 0.0.0.0 placelocal.com
@@ -5359,6 +5481,7 @@
 0.0.0.0 staging.eam.pubocean.com
 0.0.0.0 rta.pubocean.com
 0.0.0.0 srta.pubocean.com
+0.0.0.0 www.pubocean.com
 0.0.0.0 pushspring.com
 0.0.0.0 api.pushspring.com
 0.0.0.0 canary.pushspring.com
@@ -5496,6 +5619,7 @@
 0.0.0.0 admin-stg.revcontent.com
 0.0.0.0 www.admin-stg.revcontent.com
 0.0.0.0 faq.revcontent.com
+0.0.0.0 files.revcontent.com
 0.0.0.0 internal.revcontent.com
 0.0.0.0 www.internal.revcontent.com
 0.0.0.0 labs.revcontent.com
@@ -6586,6 +6710,7 @@
 0.0.0.0 console.truconversion.com
 0.0.0.0 demopk.truconversion.com
 0.0.0.0 digitalmarketer3799.truconversion.com
+0.0.0.0 dmws.truconversion.com
 0.0.0.0 dontmakemethink.truconversion.com
 0.0.0.0 exp0811.truconversion.com
 0.0.0.0 exp1311.truconversion.com
@@ -6837,8 +6962,10 @@
 0.0.0.0 www.ads.viewsignage.com
 0.0.0.0 adserver.viewsignage.com
 0.0.0.0 www.adserver.viewsignage.com
+0.0.0.0 autodiscover.viewsignage.com
 0.0.0.0 capability.viewsignage.com
 0.0.0.0 www.capability.viewsignage.com
+0.0.0.0 cpanel.viewsignage.com
 0.0.0.0 demos.viewsignage.com
 0.0.0.0 www.demos.viewsignage.com
 0.0.0.0 live.viewsignage.com
@@ -6846,6 +6973,8 @@
 0.0.0.0 mail.viewsignage.com
 0.0.0.0 restaurant.viewsignage.com
 0.0.0.0 www.restaurant.viewsignage.com
+0.0.0.0 webdisk.viewsignage.com
+0.0.0.0 webmail.viewsignage.com
 0.0.0.0 widgets.viewsignage.com
 0.0.0.0 www.widgets.viewsignage.com
 0.0.0.0 www.viewsignage.com
@@ -6969,6 +7098,7 @@
 0.0.0.0 playdemic.r.wbinsights.com
 0.0.0.0 turbine.wbinsights.com
 0.0.0.0 wba.wbinsights.com
+0.0.0.0 www.wbinsights.com
 0.0.0.0 zeppelin.wbinsights.com
 0.0.0.0 playdemic.zeppelin.wbinsights.com
 0.0.0.0 ad.cc.webmd.com
@@ -7141,6 +7271,7 @@
 0.0.0.0 docker.jfrog-poc.nj1.yext.com
 0.0.0.0 www.docker.jfrog-poc.nj1.yext.com
 0.0.0.0 kube.nj1.yext.com
+0.0.0.0 kube-qa.nj1.yext.com
 0.0.0.0 kube-sbx.nj1.yext.com
 0.0.0.0 offers.yext.com
 0.0.0.0 office.yext.com
@@ -7164,6 +7295,7 @@
 0.0.0.0 www.techops.yext.com
 0.0.0.0 tx1.yext.com
 0.0.0.0 kube.tx1.yext.com
+0.0.0.0 kube-qa.tx1.yext.com
 0.0.0.0 kube-sbx.tx1.yext.com
 0.0.0.0 sourcegraph.uc1.yext.com
 0.0.0.0 www.sourcegraph.uc1.yext.com
@@ -8002,6 +8134,7 @@
 0.0.0.0 rubiconproject.dyns.net
 0.0.0.0 cs254.wac.edgecastcdn.net
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
@@ -8531,9 +8664,11 @@
 0.0.0.0 node.pixel.optimalq.net
 0.0.0.0 www.sc.pages06.net
 0.0.0.0 perfops.net
+0.0.0.0 admin.perfops.net
 0.0.0.0 api.perfops.net
 0.0.0.0 benchmark-origin.perfops.net
 0.0.0.0 devnull.perfops.net
+0.0.0.0 docs.perfops.net
 0.0.0.0 list.perfops.net
 0.0.0.0 panel.perfops.net
 0.0.0.0 pdf.perfops.net
@@ -8743,6 +8878,7 @@
 0.0.0.0 tr1.onlinesucces.nl
 0.0.0.0 www.tr1.onlinesucces.nl
 0.0.0.0 tr2.onlinesucces.nl
+0.0.0.0 tr3.onlinesucces.nl
 0.0.0.0 updates.onlinesucces.nl
 0.0.0.0 www.onlinesucces.nl
 0.0.0.0 adsrvr.org

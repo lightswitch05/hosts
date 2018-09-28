@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-27T19:04:08+00:00
-# Count: 1696 domains
+# Released: 2018-09-28T00:36:31+00:00
+# Count: 1703 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -430,8 +430,13 @@
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 eloqua.com
+0.0.0.0 p01.t.eloqua.com
+0.0.0.0 s1516.t.eloqua.com
 0.0.0.0 en25.com
 0.0.0.0 img04.en25.com
+0.0.0.0 p01.t.en25.com
+0.0.0.0 s1516.t.en25.com
 0.0.0.0 engagio.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 enhanced2trk.com
@@ -542,6 +547,7 @@
 0.0.0.0 inmobi.com
 0.0.0.0 innovid.com
 0.0.0.0 ag.innovid.com
+0.0.0.0 rtr.innovid.com
 0.0.0.0 s-files.innovid.com
 0.0.0.0 installfarm.com
 0.0.0.0 adserver.installfarm.com
@@ -1477,6 +1483,7 @@
 0.0.0.0 rubiconproject.dyns.net
 0.0.0.0 cs254.wac.edgecastcdn.net
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
