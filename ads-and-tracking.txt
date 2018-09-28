@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-09-28T00:36:31+00:00
-# Count: 1703 domains
+# Released: 2018-09-28T13:47:48+00:00
+# Count: 1706 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -819,6 +819,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 omnitagjs.com
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 onaudience.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
@@ -1713,6 +1714,8 @@
 0.0.0.0 analytics.xcal.tv
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 advertisingbeacon.co.uk
+0.0.0.0 swa.and.co.uk
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 ssc.independent.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
