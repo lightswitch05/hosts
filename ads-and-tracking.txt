@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-01T17:13:04+00:00
-# Count: 1713 domains
+# Released: 2018-10-01T20:28:41+00:00
+# Count: 1720 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -325,6 +325,8 @@
 0.0.0.0 ck.bucksense.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 buypixelads.com
+0.0.0.0 buysellads.com
+0.0.0.0 srv.buysellads.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 c3tag.com
 0.0.0.0 694-img.c3tag.com
@@ -1377,6 +1379,8 @@
 0.0.0.0 events.fgol.mobi
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 www1.mmnetwork.mobi
+0.0.0.0 jt.ms
+0.0.0.0 srv.jt.ms
 0.0.0.0 rbl.ms
 0.0.0.0 assets.rbl.ms
 0.0.0.0 assets-auto.rbl.ms
@@ -1444,6 +1448,8 @@
 0.0.0.0 cdn.bandwidthx.net
 0.0.0.0 bidswitch.net
 0.0.0.0 x.bidswitch.net
+0.0.0.0 carbonads.net
+0.0.0.0 srv.carbonads.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
 0.0.0.0 sconsentit904.cloudapp.net
@@ -1538,6 +1544,7 @@
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
+0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 krxd.net
 0.0.0.0 consumer.krxd.net
 0.0.0.0 lsimg.net
