@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-01T17:13:04+00:00
-# Count: 9335 domains
+# Released: 2018-10-01T20:28:41+00:00
+# Count: 9350 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1924,6 +1924,15 @@
 0.0.0.0 webdisk.buypixelads.com
 0.0.0.0 webmail.buypixelads.com
 0.0.0.0 www.buypixelads.com
+0.0.0.0 buysellads.com
+0.0.0.0 cdn.buysellads.com
+0.0.0.0 dealmanager.buysellads.com
+0.0.0.0 discover.buysellads.com
+0.0.0.0 hostedcart.buysellads.com
+0.0.0.0 optimize.buysellads.com
+0.0.0.0 s3.buysellads.com
+0.0.0.0 selfserve.buysellads.com
+0.0.0.0 srv.buysellads.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 dev.buzzdeck.com
 0.0.0.0 heatmap.buzzdeck.com
@@ -7902,6 +7911,8 @@
 0.0.0.0 www.mmnetwork.mobi
 0.0.0.0 www1.mmnetwork.mobi
 0.0.0.0 www.www1.mmnetwork.mobi
+0.0.0.0 jt.ms
+0.0.0.0 srv.jt.ms
 0.0.0.0 rbl.ms
 0.0.0.0 api.rbl.ms
 0.0.0.0 assets.rbl.ms
@@ -8003,6 +8014,9 @@
 0.0.0.0 www.dp.bidswitch.net
 0.0.0.0 x.bidswitch.net
 0.0.0.0 www.x.bidswitch.net
+0.0.0.0 carbonads.net
+0.0.0.0 order.carbonads.net
+0.0.0.0 srv.carbonads.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
 0.0.0.0 sconsentit904.cloudapp.net
@@ -8359,6 +8373,7 @@
 0.0.0.0 multiregionca.intentmedia.net
 0.0.0.0 performance.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
+0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 krxd.net
 0.0.0.0 beacon-maxis.krxd.net
 0.0.0.0 consumer.krxd.net
