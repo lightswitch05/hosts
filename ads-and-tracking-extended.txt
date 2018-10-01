@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-09-28T17:43:04+00:00
-# Count: 9329 domains
+# Released: 2018-10-01T12:25:25+00:00
+# Count: 9332 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -7251,6 +7251,7 @@
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 log.fc.yahoo.com
+0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 metrics.yellowpages.com
@@ -8827,6 +8828,8 @@
 0.0.0.0 www.ads.wsrs.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 api-statcloud.a03.yahoodns.net
+0.0.0.0 beap1.cb.g01.yahoodns.net
+0.0.0.0 ir2-beap.cb.g01.yahoodns.net
 0.0.0.0 yieldmanager.net
 0.0.0.0 ad.yieldmanager.net
 0.0.0.0 audience.ad.yieldmanager.net
