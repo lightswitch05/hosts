@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-01T12:25:25+00:00
-# Count: 9332 domains
+# Released: 2018-10-01T17:13:04+00:00
+# Count: 9335 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -230,6 +230,7 @@
 0.0.0.0 adserver.aceofmedia.com
 0.0.0.0 acrabakasaka.com
 0.0.0.0 a.acrabakasaka.com
+0.0.0.0 xhr.acrabakasaka.com
 0.0.0.0 ad-score.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 www.data.ad-score.com
@@ -1912,6 +1913,7 @@
 0.0.0.0 i.bucksense.com
 0.0.0.0 images.bucksense.com
 0.0.0.0 images-cdn.bucksense.com
+0.0.0.0 sessions.bugsnag.com
 0.0.0.0 buypixelads.com
 0.0.0.0 cpanel.buypixelads.com
 0.0.0.0 jagi.buypixelads.com
@@ -5524,6 +5526,7 @@
 0.0.0.0 reporting.qualtrics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 gov1.siteintercept.qualtrics.com
+0.0.0.0 zn6dmaopednyvtshf-ups.siteintercept.qualtrics.com
 0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 sjc1.qualtrics.com
 0.0.0.0 st3.qualtrics.com
