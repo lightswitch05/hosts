@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-01T20:28:41+00:00
-# Count: 1720 domains
+# Released: 2018-10-02T13:02:29+00:00
+# Count: 1731 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -145,6 +145,8 @@
 0.0.0.0 agentanalytics.com
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 t.agentanalytics.com
+0.0.0.0 beacon.aimtell.com
+0.0.0.0 log.aimtell.com
 0.0.0.0 airpr.com
 0.0.0.0 px.airpr.com
 0.0.0.0 airvertiseme.com
@@ -241,6 +243,7 @@
 0.0.0.0 shared.iad.appboy.com
 0.0.0.0 appdynamics.com
 0.0.0.0 cdn.appdynamics.com
+0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
@@ -333,6 +336,7 @@
 0.0.0.0 campaign-archive.com
 0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
+0.0.0.0 smetrics.capitalone.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
 0.0.0.0 a2892.casalemedia.com
@@ -576,6 +580,8 @@
 0.0.0.0 pillager.inverse.com
 0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
+0.0.0.0 jetlore.com
+0.0.0.0 assets.jetlore.com
 0.0.0.0 jivox.com
 0.0.0.0 as.jivox.com
 0.0.0.0 cdn.jivox.com
@@ -775,6 +781,8 @@
 0.0.0.0 191661.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 monetize-me.com
+0.0.0.0 monetizer101.com
+0.0.0.0 api.monetizer101.com
 0.0.0.0 mookie1.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 mopub.com
@@ -1432,6 +1440,7 @@
 0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 arsdev.net
 0.0.0.0 cdn.accelerator.arsdev.net
@@ -1484,6 +1493,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
+0.0.0.0 4354787.fls.doubleclick.net
 0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 4735610.fls.doubleclick.net
 0.0.0.0 5322221.fls.doubleclick.net
@@ -1588,6 +1598,7 @@
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
+0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net

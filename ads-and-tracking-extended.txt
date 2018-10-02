@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-01T20:28:41+00:00
-# Count: 9350 domains
+# Released: 2018-10-02T13:02:29+00:00
+# Count: 9367 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1134,6 +1134,8 @@
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 u.agentanalytics.com
 0.0.0.0 www.agentanalytics.com
+0.0.0.0 beacon.aimtell.com
+0.0.0.0 log.aimtell.com
 0.0.0.0 airpr.com
 0.0.0.0 analyst.airpr.com
 0.0.0.0 analyst-stg-coursera.airpr.com
@@ -1582,6 +1584,7 @@
 0.0.0.0 gdpr-requests.utils.appdynamics.com
 0.0.0.0 www.appdynamics.com
 0.0.0.0 www-origin.appdynamics.com
+0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -1948,6 +1951,7 @@
 0.0.0.0 us16.campaign-archive.com
 0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
+0.0.0.0 smetrics.capitalone.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
 0.0.0.0 a2892.casalemedia.com
@@ -4025,6 +4029,12 @@
 0.0.0.0 test1.irganalytics.com
 0.0.0.0 test2.irganalytics.com
 0.0.0.0 www.irganalytics.com
+0.0.0.0 jetlore.com
+0.0.0.0 api.jetlore.com
+0.0.0.0 assets.jetlore.com
+0.0.0.0 content.jetlore.com
+0.0.0.0 dashboard.jetlore.com
+0.0.0.0 www.jetlore.com
 0.0.0.0 jivox.com
 0.0.0.0 api.jivox.com
 0.0.0.0 app.api.jivox.com
@@ -4860,6 +4870,10 @@
 0.0.0.0 ads.monetize-me.com
 0.0.0.0 pixel.monetize-me.com
 0.0.0.0 vpn.monetize-me.com
+0.0.0.0 monetizer101.com
+0.0.0.0 api.monetizer101.com
+0.0.0.0 test.monetizer101.com
+0.0.0.0 www.monetizer101.com
 0.0.0.0 mookie1.com
 0.0.0.0 247access.mookie1.com
 0.0.0.0 b3.mookie1.com
@@ -7980,6 +7994,7 @@
 0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 arsdev.net
 0.0.0.0 accelerator.arsdev.net
@@ -8135,6 +8150,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
+0.0.0.0 4354787.fls.doubleclick.net
 0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 4735610.fls.doubleclick.net
 0.0.0.0 5322221.fls.doubleclick.net
@@ -8612,6 +8628,7 @@
 0.0.0.0 d4.sv.omtrdc.net
 0.0.0.0 d5.sv.omtrdc.net
 0.0.0.0 tt.omtrdc.net
+0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
