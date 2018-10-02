@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-02T13:02:29+00:00
-# Count: 1731 domains
+# Released: 2018-10-02T17:59:10+00:00
+# Count: 1740 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -437,6 +437,8 @@
 0.0.0.0 dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 js-cdn.dynatrace.com
+0.0.0.0 e0mn.com
+0.0.0.0 p.d.e0mn.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
 0.0.0.0 eloqua.com
@@ -521,6 +523,7 @@
 0.0.0.0 glasslytics.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
+0.0.0.0 contributor.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 googlesyndication.com
@@ -753,6 +756,7 @@
 0.0.0.0 mkto-sn040178.com
 0.0.0.0 mkto-test.com
 0.0.0.0 mktoresp.com
+0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mktoweb.com
 0.0.0.0 docker.mktoweb.com
@@ -1366,6 +1370,9 @@
 0.0.0.0 p0.tribl.io
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 heatmap.it
+0.0.0.0 carambo.la
+0.0.0.0 pixel.carambo.la
+0.0.0.0 route.carambo.la
 0.0.0.0 wpad.lan
 0.0.0.0 traq.li
 0.0.0.0 api.traq.li
@@ -1587,6 +1594,7 @@
 0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
@@ -1598,6 +1606,7 @@
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
+0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
