@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-02T17:59:10+00:00
-# Count: 9378 domains
+# Released: 2018-10-03T14:17:39+00:00
+# Count: 9392 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -7943,6 +7943,7 @@
 0.0.0.0 media.rbl.ms
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 res.rbl.ms
+0.0.0.0 resize.rbl.ms
 0.0.0.0 static.rbl.ms
 0.0.0.0 207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
@@ -8724,7 +8725,9 @@
 0.0.0.0 rum.perfops.net
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
+0.0.0.0 collector-a.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
+0.0.0.0 collector-pxpmp8ilui.perimeterx.net
 0.0.0.0 glb1.perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 www.perimeterx.net
@@ -9103,6 +9106,17 @@
 0.0.0.0 usersapi.testing.piwik.pro
 0.0.0.0 tmteam.piwik.pro
 0.0.0.0 www.piwik.pro
+0.0.0.0 pxi.pub
+0.0.0.0 a.pxi.pub
+0.0.0.0 auth.a.pxi.pub
+0.0.0.0 client.a.pxi.pub
+0.0.0.0 collector.a.pxi.pub
+0.0.0.0 portal.a.pxi.pub
+0.0.0.0 research.a.pxi.pub
+0.0.0.0 portal.dev14.pxi.pub
+0.0.0.0 lb-test-int.pxi.pub
+0.0.0.0 collector.staging.pxi.pub
+0.0.0.0 www.pxi.pub
 0.0.0.0 creativeads.ro
 0.0.0.0 adserver.creativeads.ro
 0.0.0.0 www.creativeads.ro
