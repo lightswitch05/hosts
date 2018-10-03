@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-02T17:59:10+00:00
-# Count: 1740 domains
+# Released: 2018-10-03T14:17:39+00:00
+# Count: 1746 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -1402,6 +1402,7 @@
 0.0.0.0 media.rbl.ms
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 res.rbl.ms
+0.0.0.0 resize.rbl.ms
 0.0.0.0 static.rbl.ms
 0.0.0.0 207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
@@ -1641,7 +1642,9 @@
 0.0.0.0 rum.perfops.net
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
+0.0.0.0 collector-a.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
+0.0.0.0 collector-pxpmp8ilui.perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 pingdom.net
 0.0.0.0 rum-static.pingdom.net
@@ -1712,6 +1715,9 @@
 0.0.0.0 cdn.piwik.pro
 0.0.0.0 mparticle.containers.piwik.pro
 0.0.0.0 marketing.piwik.pro
+0.0.0.0 pxi.pub
+0.0.0.0 client.a.pxi.pub
+0.0.0.0 collector.staging.pxi.pub
 0.0.0.0 creativeads.ro
 0.0.0.0 absum.ru
 0.0.0.0 aviasales.ru
