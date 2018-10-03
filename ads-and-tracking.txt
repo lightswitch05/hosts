@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-03T14:27:20+00:00
-# Count: 1753 domains
+# Released: 2018-10-03T21:19:13+00:00
+# Count: 1771 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -541,6 +541,8 @@
 0.0.0.0 smetrics.hbonow.com
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 gdpr-service.herokuapp.com
+0.0.0.0 adserver.allinviews.com.herokudns.com
+0.0.0.0 adserver.beeviewd.com.herokudns.com
 0.0.0.0 api.wootric.com.herokudns.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
@@ -632,6 +634,7 @@
 0.0.0.0 cdn.lmiutil.com
 0.0.0.0 localytics.com
 0.0.0.0 manifest.53.localytics.com
+0.0.0.0 cloudfront.loggly.com
 0.0.0.0 lootsie.com
 0.0.0.0 api-v2.lootsie.com
 0.0.0.0 m-freeway.com
@@ -766,8 +769,10 @@
 0.0.0.0 s.ml-attr.com
 0.0.0.0 mmstat.com
 0.0.0.0 log.gds.mmstat.com
+0.0.0.0 moatads.com
 0.0.0.0 js.moatads.com
 0.0.0.0 mb.moatads.com
+0.0.0.0 pixel.moatads.com
 0.0.0.0 pool1.moatads.com
 0.0.0.0 pool3.moatads.com
 0.0.0.0 pool4.moatads.com
@@ -817,7 +822,10 @@
 0.0.0.0 optmnstr.awesomemotive.netdna-cdn.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
 0.0.0.0 assets.customerio.netdna-cdn.com
+0.0.0.0 scout.salesloft.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
+0.0.0.0 beacon.geo.netflix.com
+0.0.0.0 beacon.us-west-2.prodaa.netflix.com
 0.0.0.0 netmng.com
 0.0.0.0 newarena.netmng.com
 0.0.0.0 netseer.com
@@ -1418,6 +1426,7 @@
 0.0.0.0 twci.112.2o7.net
 0.0.0.0 verizonwireless.112.2o7.net
 0.0.0.0 virginiatour.112.2o7.net
+0.0.0.0 hbogo.com.102.122.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 adglare.net
@@ -1448,7 +1457,6 @@
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
 0.0.0.0 ma85-r-analytics.akamaized.net
-0.0.0.0 cs531.wac.alphacdn.net
 0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 dcs-vod.apis.anvato.net
 0.0.0.0 tkx.apis.anvato.net
@@ -1474,6 +1482,7 @@
 0.0.0.0 x.bidswitch.net
 0.0.0.0 carbonads.net
 0.0.0.0 srv.carbonads.net
+0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
 0.0.0.0 sconsentit904.cloudapp.net
@@ -1481,6 +1490,9 @@
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
+0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
+0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 connexity.net
 0.0.0.0 pxl.connexity.net
@@ -1520,7 +1532,9 @@
 0.0.0.0 rubiconproject.dyns.net
 0.0.0.0 cs254.wac.edgecastcdn.net
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 metrics.cvshealth.com.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
@@ -1563,6 +1577,7 @@
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
+0.0.0.0 analytics.ihgip.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
 0.0.0.0 a021.ranker.inscname.net
@@ -1612,6 +1627,7 @@
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
+0.0.0.0 hbonow.com.ssl.sc.omtrdc.net
 0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
@@ -1677,6 +1693,7 @@
 0.0.0.0 cs936.wac.thetacdn.net
 0.0.0.0 timecommerce.net
 0.0.0.0 session.timecommerce.net
+0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 userreplay.net
 0.0.0.0 cdn.userreplay.net
@@ -1768,6 +1785,7 @@
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 trkn.us
 0.0.0.0 log.zoom.us
 0.0.0.0 adserve.video
 0.0.0.0 wpad
