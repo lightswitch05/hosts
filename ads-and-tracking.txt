@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-03T14:17:39+00:00
-# Count: 1746 domains
+# Released: 2018-10-03T14:27:20+00:00
+# Count: 1753 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -379,6 +379,7 @@
 0.0.0.0 convertro.com
 0.0.0.0 carters.sp1.convertro.com
 0.0.0.0 dishdigital.sp1.convertro.com
+0.0.0.0 consent.cookiebot.com
 0.0.0.0 coremetrics.com
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 cquotient.com
@@ -406,6 +407,7 @@
 0.0.0.0 g.defold.com
 0.0.0.0 metrics.deloitte.com
 0.0.0.0 demandbase.com
+0.0.0.0 scripts.demandbase.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 adserver.densitymedia.com
 0.0.0.0 srepdata.desmoinesregister.com
@@ -914,6 +916,7 @@
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 a.quora.com
 0.0.0.0 qwapi.com
 0.0.0.0 adsdk.qwapi.com
 0.0.0.0 adserver.rankedbyreview.com
@@ -962,6 +965,7 @@
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 scout-cdn.salesloft.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 ads.scanapps.com
 0.0.0.0 beacon.scanapps.com
@@ -1233,6 +1237,8 @@
 0.0.0.0 ad.cc.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
+0.0.0.0 whoisvisiting.com
+0.0.0.0 app.whoisvisiting.com
 0.0.0.0 acquisition-tracker.wix.com
 0.0.0.0 adsense.apps.wix.com
 0.0.0.0 premium.aws.wix.com
@@ -1341,6 +1347,7 @@
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nexus-websocket-b.intercom.io
 0.0.0.0 widget.intercom.io
+0.0.0.0 iptrack.io
 0.0.0.0 jpush.io
 0.0.0.0 sis.jpush.io
 0.0.0.0 keen.io
