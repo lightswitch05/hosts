@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-03T14:17:39+00:00
-# Count: 9392 domains
+# Released: 2018-10-03T14:27:20+00:00
+# Count: 9407 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2164,6 +2164,8 @@
 0.0.0.0 stage.convertro.com
 0.0.0.0 www.stage.convertro.com
 0.0.0.0 www.convertro.com
+0.0.0.0 consent.cookiebot.com
+0.0.0.0 www.consent.cookiebot.com
 0.0.0.0 coremetrics.com
 0.0.0.0 cn.coremetrics.com
 0.0.0.0 corpvpn.coremetrics.com
@@ -2341,6 +2343,7 @@
 0.0.0.0 www.mail.demandbase.com
 0.0.0.0 personalization.demandbase.com
 0.0.0.0 remote.demandbase.com
+0.0.0.0 scripts.demandbase.com
 0.0.0.0 staging.demandbase.com
 0.0.0.0 status.demandbase.com
 0.0.0.0 support-beta.demandbase.com
@@ -5578,6 +5581,7 @@
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 struq.quantserve.com
+0.0.0.0 a.quora.com
 0.0.0.0 qwapi.com
 0.0.0.0 adsdk.qwapi.com
 0.0.0.0 adtest.qwapi.com
@@ -5789,6 +5793,7 @@
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 scout-cdn.salesloft.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 ads.scanapps.com
 0.0.0.0 beacon.ads.scanapps.com
@@ -7138,6 +7143,15 @@
 0.0.0.0 ad.cc.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
+0.0.0.0 whoisvisiting.com
+0.0.0.0 app.whoisvisiting.com
+0.0.0.0 autodiscover.whoisvisiting.com
+0.0.0.0 dashboard.whoisvisiting.com
+0.0.0.0 do.whoisvisiting.com
+0.0.0.0 www.do.whoisvisiting.com
+0.0.0.0 mail.whoisvisiting.com
+0.0.0.0 owa.whoisvisiting.com
+0.0.0.0 www.whoisvisiting.com
 0.0.0.0 acquisition-tracker.wix.com
 0.0.0.0 adsense.apps.wix.com
 0.0.0.0 premium.aws.wix.com
@@ -7761,6 +7775,7 @@
 0.0.0.0 widget.intercom.io
 0.0.0.0 woody.intercom.io
 0.0.0.0 www.intercom.io
+0.0.0.0 iptrack.io
 0.0.0.0 jpush.io
 0.0.0.0 sis.jpush.io
 0.0.0.0 www.jpush.io
