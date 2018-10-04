@@ -1,2 +1,10 @@
 # Whitelist for ads-and-tracking-extended.txt
 
+# convertkit.com roots and non-tracking domains per issue #23
+convertkit.com
+help.convertkit.com
+learn.convertkit.com
+legal.convertkit.com
+shop.convertkit.com
+www.convertkit.com
+
