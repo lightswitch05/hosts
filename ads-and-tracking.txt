@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-03T21:19:13+00:00
-# Count: 1771 domains
+# Released: 2018-10-04T15:11:27+00:00
+# Count: 1776 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -367,6 +367,7 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 apple.comscoreresearch.com
+0.0.0.0 segmentation.condenastdigital.com
 0.0.0.0 consoliads.com
 0.0.0.0 sdk.consoliads.com
 0.0.0.0 web.consoliads.com
@@ -376,6 +377,7 @@
 0.0.0.0 lga-bid-bgp.contextweb.com
 0.0.0.0 convertkit.com
 0.0.0.0 cdn.convertkit.com
+0.0.0.0 el2.convertkit.com
 0.0.0.0 convertro.com
 0.0.0.0 carters.sp1.convertro.com
 0.0.0.0 dishdigital.sp1.convertro.com
@@ -503,6 +505,7 @@
 0.0.0.0 metrics.freecreditscore.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 cdn.freshmarketer.com
+0.0.0.0 tracking.frmllc.com
 0.0.0.0 ads-api.ft.com
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 fullstory.com
@@ -1334,6 +1337,7 @@
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 districtm.io
@@ -1735,6 +1739,7 @@
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 metrics.stjude.org
 0.0.0.0 piwik.pro
 0.0.0.0 cdn.piwik.pro
 0.0.0.0 mparticle.containers.piwik.pro
