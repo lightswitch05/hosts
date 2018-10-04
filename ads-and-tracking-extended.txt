@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-03T21:19:13+00:00
-# Count: 9427 domains
+# Released: 2018-10-04T15:11:27+00:00
+# Count: 9426 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2077,6 +2077,7 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 apple.comscoreresearch.com
+0.0.0.0 segmentation.condenastdigital.com
 0.0.0.0 consoliads.com
 0.0.0.0 consoliad.consoliads.com
 0.0.0.0 www.consoliad.consoliads.com
@@ -2118,7 +2119,6 @@
 0.0.0.0 post.update.contextweb.com
 0.0.0.0 s.update.contextweb.com
 0.0.0.0 www.contextweb.com
-0.0.0.0 convertkit.com
 0.0.0.0 api.convertkit.com
 0.0.0.0 www.api.convertkit.com
 0.0.0.0 api-black.convertkit.com
@@ -2129,13 +2129,9 @@
 0.0.0.0 cdn.convertkit.com
 0.0.0.0 cdn-staging.convertkit.com
 0.0.0.0 developers.convertkit.com
+0.0.0.0 el2.convertkit.com
 0.0.0.0 f.convertkit.com
-0.0.0.0 help.convertkit.com
-0.0.0.0 learn.convertkit.com
-0.0.0.0 legal.convertkit.com
 0.0.0.0 pages.convertkit.com
-0.0.0.0 shop.convertkit.com
-0.0.0.0 www.convertkit.com
 0.0.0.0 convertro.com
 0.0.0.0 integration.one-integration.ci.convertro.com
 0.0.0.0 one-demo.one-integration.ci.convertro.com
@@ -3407,6 +3403,7 @@
 0.0.0.0 support.freshmarketer.com
 0.0.0.0 toolbar.freshmarketer.com
 0.0.0.0 www.freshmarketer.com
+0.0.0.0 tracking.frmllc.com
 0.0.0.0 ads-api.ft.com
 0.0.0.0 spoor-api.ft.com
 0.0.0.0 fullstory.com
@@ -7684,6 +7681,7 @@
 0.0.0.0 vpn2.branch.io
 0.0.0.0 vulcan.branch.io
 0.0.0.0 www2.branch.io
+0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
 0.0.0.0 districtm.io
@@ -9102,6 +9100,7 @@
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 www.adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 metrics.stjude.org
 0.0.0.0 piwik.pro
 0.0.0.0 fonbet.auth.piwik.pro
 0.0.0.0 cdn.piwik.pro
