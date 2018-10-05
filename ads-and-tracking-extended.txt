@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-05T12:10:15+00:00
-# Count: 9427 domains
+# Released: 2018-10-05T13:22:13+00:00
+# Count: 9468 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -34,8 +34,11 @@
 0.0.0.0 mkto-panda123.music.blog
 0.0.0.0 www.mkto-panda123.music.blog
 0.0.0.0 districtm.ca
+0.0.0.0 adx.districtm.ca
+0.0.0.0 api.districtm.ca
 0.0.0.0 boost-qa2.districtm.ca
 0.0.0.0 dmx.districtm.ca
+0.0.0.0 dmx-dev.districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 b3.staging.districtm.ca
 0.0.0.0 flyertown.ca
@@ -426,6 +429,7 @@
 0.0.0.0 ldap01.adroll.com
 0.0.0.0 www.ldap01.adroll.com
 0.0.0.0 letschat.adroll.com
+0.0.0.0 pages.adroll.com
 0.0.0.0 pxl.adroll.com
 0.0.0.0 resources.adroll.com
 0.0.0.0 rollhands.adroll.com
@@ -624,6 +628,8 @@
 0.0.0.0 www.dev.adconion-us.facebook-ads.adtz.com
 0.0.0.0 dev.facebook-ads.adtz.com
 0.0.0.0 www.facturacion.facebook-ads.adtz.com
+0.0.0.0 dev.mexico.facebook-ads.adtz.com
+0.0.0.0 dev.trial.facebook-ads.adtz.com
 0.0.0.0 www.dev.trial.facebook-ads.adtz.com
 0.0.0.0 www.trial.facebook-ads.adtz.com
 0.0.0.0 www.dev.trial-italia.facebook-ads.adtz.com
@@ -1034,6 +1040,7 @@
 0.0.0.0 meet.adx1.com
 0.0.0.0 mkt.adx1.com
 0.0.0.0 mobile.adx1.com
+0.0.0.0 mta-sts.adx1.com
 0.0.0.0 oleg.adx1.com
 0.0.0.0 www.oleg.adx1.com
 0.0.0.0 owa.adx1.com
@@ -1566,6 +1573,7 @@
 0.0.0.0 info.appdynamics.com
 0.0.0.0 int.appdynamics.com
 0.0.0.0 ops.appdynamics.com
+0.0.0.0 blitz01.ops.appdynamics.com
 0.0.0.0 particle.appdynamics.com
 0.0.0.0 saas.appdynamics.com
 0.0.0.0 msrv.saas.appdynamics.com
@@ -1739,6 +1747,7 @@
 0.0.0.0 blog.autopilothq.com
 0.0.0.0 blog-hanger.autopilothq.com
 0.0.0.0 blog-test.autopilothq.com
+0.0.0.0 certbot-test.autopilothq.com
 0.0.0.0 dev0.autopilothq.com
 0.0.0.0 dev1.autopilothq.com
 0.0.0.0 dev2.autopilothq.com
@@ -1767,6 +1776,7 @@
 0.0.0.0 cdn.adserver.b2c.com
 0.0.0.0 api.b2c.com
 0.0.0.0 api-54-190-136-221.b2c.com
+0.0.0.0 homevideo.b2c.com
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 segment.babynamewizard.com
 0.0.0.0 bandwidthx.com
@@ -2675,6 +2685,7 @@
 0.0.0.0 magic.engagio.com
 0.0.0.0 support.engagio.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 www.engagio.com
 0.0.0.0 enhanced2trk.com
 0.0.0.0 enhancedstats.com
 0.0.0.0 enhancedtrk.com
@@ -2867,6 +2878,7 @@
 0.0.0.0 login-qa3.exacttarget.com
 0.0.0.0 mc.login-qa3.exacttarget.com
 0.0.0.0 login-test.exacttarget.com
+0.0.0.0 mc.login-test.exacttarget.com
 0.0.0.0 lyncdiscover.exacttarget.com
 0.0.0.0 lyncdiscoverinternal.exacttarget.com
 0.0.0.0 mail.exacttarget.com
@@ -3043,7 +3055,9 @@
 0.0.0.0 editorsupport.s50.exacttarget.com
 0.0.0.0 manage.ext.s50.exacttarget.com
 0.0.0.0 image.s50.exacttarget.com
+0.0.0.0 images.s50.exacttarget.com
 0.0.0.0 internal.s50.exacttarget.com
+0.0.0.0 line.s50.exacttarget.com
 0.0.0.0 manage.s50.exacttarget.com
 0.0.0.0 manage-api.s50.exacttarget.com
 0.0.0.0 mc.s50.exacttarget.com
@@ -3630,6 +3644,7 @@
 0.0.0.0 www.store.gumgum.com
 0.0.0.0 techblog.gumgum.com
 0.0.0.0 va-g2.gumgum.com
+0.0.0.0 video-converter.gumgum.com
 0.0.0.0 dev.webapi.gumgum.com
 0.0.0.0 post.update.wo.gumgum.com
 0.0.0.0 s.update.wo.gumgum.com
@@ -3938,6 +3953,8 @@
 0.0.0.0 w.inmobi.com
 0.0.0.0 bk.et.w.inmobi.com
 0.0.0.0 ifd.et.w.inmobi.com
+0.0.0.0 ifc-iip.w.inmobi.com
+0.0.0.0 www.ifc-iip.w.inmobi.com
 0.0.0.0 r.w.inmobi.com
 0.0.0.0 s-et.w.inmobi.com
 0.0.0.0 www.s-et.w.inmobi.com
@@ -4212,6 +4229,7 @@
 0.0.0.0 dev.us-west-1.kops.kargo.com
 0.0.0.0 prod.us-west-1.kops.kargo.com
 0.0.0.0 production.us-west-1.kops.kargo.com
+0.0.0.0 lexid.production.us-west-1.kops.kargo.com
 0.0.0.0 stage.us-west-1.kops.kargo.com
 0.0.0.0 staging.us-west-1.kops.kargo.com
 0.0.0.0 dev.us-west-2.kops.kargo.com
@@ -4365,6 +4383,7 @@
 0.0.0.0 livefyre.com
 0.0.0.0 accounts.livefyre.com
 0.0.0.0 admin.livefyre.com
+0.0.0.0 aem-six-three.livefyre.com
 0.0.0.0 analytics.livefyre.com
 0.0.0.0 announcements.livefyre.com
 0.0.0.0 answers.livefyre.com
@@ -4425,6 +4444,7 @@
 0.0.0.0 cold2.53.localytics.com
 0.0.0.0 deployer.53.localytics.com
 0.0.0.0 hot2.53.localytics.com
+0.0.0.0 logging.53.localytics.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 services.53.localytics.com
 0.0.0.0 stager.53.localytics.com
@@ -4459,6 +4479,7 @@
 0.0.0.0 api.tutorial.env.sandbox53.localytics.com
 0.0.0.0 api.tutorial-sharing.env.sandbox53.localytics.com
 0.0.0.0 api.tutorial-sharing-again.env.sandbox53.localytics.com
+0.0.0.0 api.val.env.sandbox53.localytics.com
 0.0.0.0 api.yoni.env.sandbox53.localytics.com
 0.0.0.0 neophyte.sandbox53.localytics.com
 0.0.0.0 spa-login-ui.sandbox53.localytics.com
@@ -4512,6 +4533,8 @@
 0.0.0.0 beta.developers.marketo.com
 0.0.0.0 dubvpn.marketo.com
 0.0.0.0 www.dubvpn.marketo.com
+0.0.0.0 ec2amaz-v34sjct.marketo.com
+0.0.0.0 www.ec2amaz-v34sjct.marketo.com
 0.0.0.0 ektatest.marketo.com
 0.0.0.0 engage.marketo.com
 0.0.0.0 events.marketo.com
@@ -5048,6 +5071,8 @@
 0.0.0.0 www.s2s.mparticle.com
 0.0.0.0 sales.mparticle.com
 0.0.0.0 sonarqube.mparticle.com
+0.0.0.0 support.mparticle.com
+0.0.0.0 www.support.mparticle.com
 0.0.0.0 test.mparticle.com
 0.0.0.0 www.mparticle.com
 0.0.0.0 mplxtms.com
@@ -5825,6 +5850,8 @@
 0.0.0.0 servebom.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads-qa.servebom.com
+0.0.0.0 pixel.servebom.com
+0.0.0.0 stg-ads.servebom.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 sf14g.com
@@ -6800,6 +6827,7 @@
 0.0.0.0 ho-prod-a.us-east-1.k8s.tune.com
 0.0.0.0 ops-prod-a.us-east-1.k8s.tune.com
 0.0.0.0 ops-stage-a.us-east-1.k8s.tune.com
+0.0.0.0 ops-prod-a.us-west-1.k8s.tune.com
 0.0.0.0 ops-prod-a.us-west-2.k8s.tune.com
 0.0.0.0 ops-stage-a.us-west-2.k8s.tune.com
 0.0.0.0 lab.tune.com
@@ -7361,9 +7389,12 @@
 0.0.0.0 yieldmo.com
 0.0.0.0 admin.yieldmo.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 crucible.yieldmo.com
 0.0.0.0 go.yieldmo.com
+0.0.0.0 looker.yieldmo.com
 0.0.0.0 newsite.yieldmo.com
 0.0.0.0 optout.yieldmo.com
+0.0.0.0 poweredbylooker.yieldmo.com
 0.0.0.0 preview.yieldmo.com
 0.0.0.0 privacy.yieldmo.com
 0.0.0.0 rw.yieldmo.com
@@ -7372,6 +7403,7 @@
 0.0.0.0 static.yieldmo.com
 0.0.0.0 stage.static.yieldmo.com
 0.0.0.0 static2.yieldmo.com
+0.0.0.0 sync.yieldmo.com
 0.0.0.0 tkr.yieldmo.com
 0.0.0.0 w.yieldmo.com
 0.0.0.0 www.yieldmo.com
@@ -8529,12 +8561,14 @@
 0.0.0.0 s2s.msas.media.net
 0.0.0.0 se.msas.media.net
 0.0.0.0 staging.sh.msas.media.net
+0.0.0.0 test.msas.media.net
 0.0.0.0 weather.msas.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 publisher.media.net
 0.0.0.0 publishers.media.net
 0.0.0.0 vogon.srv.media.net
 0.0.0.0 ssltest.media.net
+0.0.0.0 testle.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 ad.mediabong.net
 0.0.0.0 www.ad.mediabong.net
@@ -8766,6 +8800,7 @@
 0.0.0.0 pingdom.net
 0.0.0.0 dev-d1-rum-collector-2.pingdom.net
 0.0.0.0 dev-d1-rum-static-2.pingdom.net
+0.0.0.0 flip-flipflop.pingdom.net
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 rum-static-2.pingdom.net
@@ -8993,6 +9028,8 @@
 0.0.0.0 use-foremanproxy1.use.adsrvr.org
 0.0.0.0 use-va1.adsrvr.org
 0.0.0.0 lpweb.altervista.org
+0.0.0.0 ftp.lpweb.altervista.org
+0.0.0.0 www.lpweb.altervista.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
 0.0.0.0 admiral.mgr.consensu.org
@@ -9036,6 +9073,7 @@
 0.0.0.0 cookies-prod.onetrust.mgr.consensu.org
 0.0.0.0 cookies-staging.onetrust.mgr.consensu.org
 0.0.0.0 oriel.mgr.consensu.org
+0.0.0.0 planetmedia.mgr.consensu.org
 0.0.0.0 pluto.mgr.consensu.org
 0.0.0.0 staging.pluto.mgr.consensu.org
 0.0.0.0 www.pluto.mgr.consensu.org
@@ -9065,7 +9103,10 @@
 0.0.0.0 www.societe.mgr.consensu.org
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sovrn.mgr.consensu.org
+0.0.0.0 spolecznosci.mgr.consensu.org
+0.0.0.0 www.spolecznosci.mgr.consensu.org
 0.0.0.0 streamamp.mgr.consensu.org
+0.0.0.0 events.streamamp.mgr.consensu.org
 0.0.0.0 teads.mgr.consensu.org
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 traffective.mgr.consensu.org
