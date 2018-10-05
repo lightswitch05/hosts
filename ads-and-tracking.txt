@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-05T17:41:37+00:00
-# Count: 1793 domains
+# Released: 2018-10-05T19:47:12+00:00
+# Count: 1804 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -37,6 +37,9 @@
 0.0.0.0 stats.jpush.cn
 0.0.0.0 6sc.co
 0.0.0.0 j.6sc.co
+0.0.0.0 adpxl.co
+0.0.0.0 adpxljs.adpxl.co
+0.0.0.0 fl.adpxl.co
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 leadpages.co
@@ -279,6 +282,9 @@
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 audiensis.com
 0.0.0.0 dwh-tracking.it.auth0.com
+0.0.0.0 automatad.com
+0.0.0.0 cdn.automatad.com
+0.0.0.0 go.automatad.com
 0.0.0.0 autopilothq.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 awltovhc.com
@@ -781,6 +787,8 @@
 0.0.0.0 docker.mktoweb.com
 0.0.0.0 ml-attr.com
 0.0.0.0 s.ml-attr.com
+0.0.0.0 mm-syringe.com
+0.0.0.0 bucket1.mm-syringe.com
 0.0.0.0 mmstat.com
 0.0.0.0 log.gds.mmstat.com
 0.0.0.0 moatads.com
@@ -1510,6 +1518,7 @@
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d2leoy3k16s14d.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
@@ -1546,6 +1555,7 @@
 0.0.0.0 g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
@@ -1763,6 +1773,7 @@
 0.0.0.0 marketing.piwik.pro
 0.0.0.0 pxi.pub
 0.0.0.0 client.a.pxi.pub
+0.0.0.0 collector.a.pxi.pub
 0.0.0.0 collector.staging.pxi.pub
 0.0.0.0 creativeads.ro
 0.0.0.0 absum.ru
