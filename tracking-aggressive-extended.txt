@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-10-02T12:31:17+00:00
-# Count: 725 domains
+# Released: 2018-10-05T13:23:01+00:00
+# Count: 726 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -664,6 +664,7 @@
 0.0.0.0 www.juicer.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 api.simpleanalytics.io
+0.0.0.0 blog.simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 metabase.simpleanalytics.io
 0.0.0.0 www.simpleanalytics.io
