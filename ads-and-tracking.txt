@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-05T16:24:53+00:00
-# Count: 1781 domains
+# Released: 2018-10-05T16:48:07+00:00
+# Count: 1787 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -593,6 +593,10 @@
 0.0.0.0 pillager.inverse.com
 0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
+0.0.0.0 iubenda.com
+0.0.0.0 cdn.iubenda.com
+0.0.0.0 hits.iubenda.com
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 jetlore.com
 0.0.0.0 assets.jetlore.com
 0.0.0.0 jivox.com
@@ -1312,6 +1316,8 @@
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 w2.yotpo.com
 0.0.0.0 yottaa.com
+0.0.0.0 zemanta.com
+0.0.0.0 wprp.zemanta.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
