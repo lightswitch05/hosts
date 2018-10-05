@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-04T15:11:27+00:00
-# Count: 1776 domains
+# Released: 2018-10-05T12:10:15+00:00
+# Count: 1779 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -298,6 +298,7 @@
 0.0.0.0 adserver.beeviewd.com
 0.0.0.0 bestcontentonline.com
 0.0.0.0 adserver.bestcontentonline.com
+0.0.0.0 cdn.bestreviews.com
 0.0.0.0 bfmio.com
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 reachms.bfmio.com
@@ -473,6 +474,7 @@
 0.0.0.0 c.evidon.com
 0.0.0.0 exacttarget.com
 0.0.0.0 pages.exacttarget.com
+0.0.0.0 click.virt.s6.exacttarget.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 dctk.expedia.com
@@ -1128,6 +1130,7 @@
 0.0.0.0 terratracker.com
 0.0.0.0 theappgrader.com
 0.0.0.0 adserver.theappgrader.com
+0.0.0.0 geoip.thedailymeal.com
 0.0.0.0 metrics.thepointsguy.com
 0.0.0.0 thirdpresence.com
 0.0.0.0 a.thirdpresence.com
