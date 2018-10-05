@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-05T16:48:07+00:00
-# Count: 9511 domains
+# Released: 2018-10-05T17:03:24+00:00
+# Count: 9522 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -21,6 +21,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 172.224.197.187
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
@@ -47,6 +48,12 @@
 0.0.0.0 www.flyertown.ca
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
+0.0.0.0 6sc.co
+0.0.0.0 b.6sc.co
+0.0.0.0 j.6sc.co
+0.0.0.0 p.6sc.co
+0.0.0.0 s.6sc.co
+0.0.0.0 t.6sc.co
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 www.api.intellimize.co
@@ -196,6 +203,7 @@
 0.0.0.0 s.update.3lift.com
 0.0.0.0 t.update.3lift.com
 0.0.0.0 us-east-tlx.3lift.com
+0.0.0.0 epsilon.6sense.com
 0.0.0.0 bugsnag.appstore.a2z.com
 0.0.0.0 dashboard.1p.bugsnag.appstore.a2z.com
 0.0.0.0 hooks.1p.bugsnag.appstore.a2z.com
@@ -4531,6 +4539,7 @@
 0.0.0.0 app-nation.marketo.com
 0.0.0.0 app-sj04.marketo.com
 0.0.0.0 app-sj08.marketo.com
+0.0.0.0 app-sjf.marketo.com
 0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 autocukejvmab26a.marketo.com
@@ -8094,6 +8103,7 @@
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
 0.0.0.0 api.vungle.akadns.net
+0.0.0.0 e8999.b.akamaiedge.net
 0.0.0.0 ma85-r-analytics.akamaized.net
 0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 dcs-vod.apis.anvato.net
@@ -8284,6 +8294,7 @@
 0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 metrics.cvshealth.com.edgekey.net
+0.0.0.0 wildcard.marketo.com.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
