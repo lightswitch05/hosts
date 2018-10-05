@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-05T16:24:53+00:00
-# Count: 9470 domains
+# Released: 2018-10-05T16:48:07+00:00
+# Count: 9511 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -4054,6 +4054,16 @@
 0.0.0.0 test1.irganalytics.com
 0.0.0.0 test2.irganalytics.com
 0.0.0.0 www.irganalytics.com
+0.0.0.0 iubenda.com
+0.0.0.0 cdn.iubenda.com
+0.0.0.0 chef.iubenda.com
+0.0.0.0 hits.iubenda.com
+0.0.0.0 hits-i.iubenda.com
+0.0.0.0 staging.mater.iubenda.com
+0.0.0.0 www.staging.mater.iubenda.com
+0.0.0.0 staging2.mater.iubenda.com
+0.0.0.0 support.iubenda.com
+0.0.0.0 www.iubenda.com
 0.0.0.0 jetlore.com
 0.0.0.0 api.jetlore.com
 0.0.0.0 assets.jetlore.com
@@ -7464,6 +7474,37 @@
 0.0.0.0 www.yottaa.com
 0.0.0.0 www-dev.yottaa.com
 0.0.0.0 www-marketing.yottaa.com
+0.0.0.0 zemanta.com
+0.0.0.0 ada.zemanta.com
+0.0.0.0 adoops.zemanta.com
+0.0.0.0 api.zemanta.com
+0.0.0.0 content.zemanta.com
+0.0.0.0 cookiepixie.zemanta.com
+0.0.0.0 demo.zemanta.com
+0.0.0.0 edward.zemanta.com
+0.0.0.0 es.zemanta.com
+0.0.0.0 fstatic.zemanta.com
+0.0.0.0 i.zemanta.com
+0.0.0.0 images2.zemanta.com
+0.0.0.0 img.zemanta.com
+0.0.0.0 j.zemanta.com
+0.0.0.0 jen01.zemanta.com
+0.0.0.0 lp.zemanta.com
+0.0.0.0 office.zemanta.com
+0.0.0.0 p1.zemanta.com
+0.0.0.0 paid.zemanta.com
+0.0.0.0 prefs.zemanta.com
+0.0.0.0 www.prefs.zemanta.com
+0.0.0.0 r1.zemanta.com
+0.0.0.0 reports.zemanta.com
+0.0.0.0 rp.zemanta.com
+0.0.0.0 rsscloud.zemanta.com
+0.0.0.0 sapi.zemanta.com
+0.0.0.0 static.zemanta.com
+0.0.0.0 testr1.zemanta.com
+0.0.0.0 thumbs.zemanta.com
+0.0.0.0 wprp.zemanta.com
+0.0.0.0 www.zemanta.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
