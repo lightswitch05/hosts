@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-08T13:38:10+00:00
-# Count: 9601 domains
+# Released: 2018-10-09T00:51:25+00:00
+# Count: 9582 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -7980,28 +7980,9 @@
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
 0.0.0.0 sentry.io
-0.0.0.0 cal.a.sentry.io
-0.0.0.0 drive.a.sentry.io
-0.0.0.0 groups.a.sentry.io
-0.0.0.0 mail.a.sentry.io
-0.0.0.0 sites.a.sentry.io
-0.0.0.0 app.sentry.io
-0.0.0.0 blog.sentry.io
-0.0.0.0 community.sentry.io
-0.0.0.0 www.community.sentry.io
-0.0.0.0 docs.sentry.io
-0.0.0.0 forge.sentry.io
-0.0.0.0 forum.sentry.io
-0.0.0.0 help.sentry.io
 0.0.0.0 ingest.sentry.io
 0.0.0.0 ur93pklmrzha.ingest.sentry.io
-0.0.0.0 learn.sentry.io
-0.0.0.0 live.sentry.io
-0.0.0.0 release-registry.services.sentry.io
-0.0.0.0 start.sentry.io
-0.0.0.0 status.sentry.io
 0.0.0.0 ur93pklmrzha.sentry.io
-0.0.0.0 www.sentry.io
 0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
