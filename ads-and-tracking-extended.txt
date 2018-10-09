@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-09T00:51:25+00:00
-# Count: 9582 domains
+# Released: 2018-10-09T01:26:55+00:00
+# Count: 9612 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5511,6 +5511,35 @@
 0.0.0.0 www.ssl2.pathful.com
 0.0.0.0 www.pathful.com
 0.0.0.0 pixel.perceptlink.com
+0.0.0.0 petametrics.com
+0.0.0.0 accounts.petametrics.com
+0.0.0.0 adx.petametrics.com
+0.0.0.0 api.petametrics.com
+0.0.0.0 api-gce.petametrics.com
+0.0.0.0 api-us-west-1.petametrics.com
+0.0.0.0 bulkquery2.petametrics.com
+0.0.0.0 cdn.petametrics.com
+0.0.0.0 jenkins.gce.petametrics.com
+0.0.0.0 git.petametrics.com
+0.0.0.0 lab.petametrics.com
+0.0.0.0 query.petametrics.com
+0.0.0.0 query-165j91bg09ddqoru.petametrics.com
+0.0.0.0 query-1nj2akm8j8to357c.petametrics.com
+0.0.0.0 query-2mm073va85k9qv6f.petametrics.com
+0.0.0.0 query-8rdn4098jn202336.petametrics.com
+0.0.0.0 query-ensur7m1u4oompev.petametrics.com
+0.0.0.0 query-eu-west-1.petametrics.com
+0.0.0.0 query-europe-west1.petametrics.com
+0.0.0.0 query-fb6cjraf9cejut2a.petametrics.com
+0.0.0.0 query-gce.petametrics.com
+0.0.0.0 query-lkdk9usg5av95fvs.petametrics.com
+0.0.0.0 query-ofpar94pul5j6qhu.petametrics.com
+0.0.0.0 query-r8klqv4fq0bp9ued.petametrics.com
+0.0.0.0 query-us-east1.petametrics.com
+0.0.0.0 query-us-west1.petametrics.com
+0.0.0.0 query1.petametrics.com
+0.0.0.0 scripps.petametrics.com
+0.0.0.0 www.petametrics.com
 0.0.0.0 pgcollect.com
 0.0.0.0 pixel.pgcollect.com
 0.0.0.0 metrics.phonegap.com
@@ -7962,6 +7991,7 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 marchex.io
 0.0.0.0 rw1.marchex.io
+0.0.0.0 uid.mavencoalition.io
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io

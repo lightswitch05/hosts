@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-09T00:51:25+00:00
-# Count: 1828 domains
+# Released: 2018-10-09T01:26:55+00:00
+# Count: 1830 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -915,6 +915,7 @@
 0.0.0.0 pathful.com
 0.0.0.0 ssl.pathful.com
 0.0.0.0 pixel.perceptlink.com
+0.0.0.0 petametrics.com
 0.0.0.0 pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
@@ -1413,6 +1414,7 @@
 0.0.0.0 c.lytics.io
 0.0.0.0 marchex.io
 0.0.0.0 rw1.marchex.io
+0.0.0.0 uid.mavencoalition.io
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io
