@@ -9,3 +9,24 @@ legal.convertkit.com
 shop.convertkit.com
 www.convertkit.com
 
+# sentry.io non-tracking domains per https://github.com/StevenBlack/hosts/commit/521777278a3a496c94dda6d363695714fce2f247#r30820805
+cal.a.sentry.io
+drive.a.sentry.io
+groups.a.sentry.io
+mail.a.sentry.io
+sites.a.sentry.io
+app.sentry.io
+blog.sentry.io
+community.sentry.io
+www.community.sentry.io
+docs.sentry.io
+forge.sentry.io
+forum.sentry.io
+help.sentry.io
+learn.sentry.io
+live.sentry.io
+release-registry.services.sentry.io
+start.sentry.io
+status.sentry.io
+www.sentry.io
+
