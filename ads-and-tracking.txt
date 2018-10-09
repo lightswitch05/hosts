@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-09T01:26:55+00:00
-# Count: 1830 domains
+# Released: 2018-10-09T02:26:44+00:00
+# Count: 1834 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -98,6 +98,8 @@
 0.0.0.0 adlightning.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 admedia.com
+0.0.0.0 admedo.com
+0.0.0.0 pj.l.admedo.com
 0.0.0.0 adnxs.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 anycast.adnxs.com
@@ -563,6 +565,7 @@
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 va-g2.gumgum.com
 0.0.0.0 rp.gwallet.com
+0.0.0.0 h-bid.com
 0.0.0.0 static.h-bid.com
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
@@ -1840,6 +1843,7 @@
 0.0.0.0 swa.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 ssc.independent.co.uk
+0.0.0.0 nir.regmedia.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
