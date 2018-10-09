@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-09T01:26:55+00:00
-# Count: 9612 domains
+# Released: 2018-10-09T02:26:44+00:00
+# Count: 9640 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -337,6 +337,17 @@
 0.0.0.0 advertisers.admedia.com
 0.0.0.0 members.admedia.com
 0.0.0.0 pixel.admedia.com
+0.0.0.0 admedo.com
+0.0.0.0 app.admedo.com
+0.0.0.0 image.admedo.com
+0.0.0.0 pj.l.admedo.com
+0.0.0.0 ps.l.admedo.com
+0.0.0.0 pool.admedo.com
+0.0.0.0 pixeljs.test.admedo.com
+0.0.0.0 pixeljson.test.admedo.com
+0.0.0.0 vs.admedo.com
+0.0.0.0 vt.admedo.com
+0.0.0.0 www.admedo.com
 0.0.0.0 adnxs.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 adstxt.adnxs.com
@@ -3695,8 +3706,24 @@
 0.0.0.0 t.update.wo.gumgum.com
 0.0.0.0 www.gumgum.com
 0.0.0.0 rp.gwallet.com
+0.0.0.0 h-bid.com
+0.0.0.0 api.h-bid.com
+0.0.0.0 influx.authoritynutrition.h-bid.com
+0.0.0.0 cp.h-bid.com
+0.0.0.0 dev.cp.h-bid.com
+0.0.0.0 influx.dmv-written-test.h-bid.com
+0.0.0.0 geo.eu.h-bid.com
+0.0.0.0 influx.h-bid.com
+0.0.0.0 influx.landwirt.h-bid.com
+0.0.0.0 influx.marktcom.h-bid.com
+0.0.0.0 influx.notebookcheck.h-bid.com
+0.0.0.0 pb.h-bid.com
 0.0.0.0 static.h-bid.com
 0.0.0.0 dev.static.h-bid.com
+0.0.0.0 geo.us.h-bid.com
+0.0.0.0 influx.webcams.h-bid.com
+0.0.0.0 influx.woxikon.h-bid.com
+0.0.0.0 www.h-bid.com
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
@@ -9595,6 +9622,7 @@
 0.0.0.0 swa.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 ssc.independent.co.uk
+0.0.0.0 nir.regmedia.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
 0.0.0.0 www.rubiconproject.us
