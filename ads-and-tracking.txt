@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-09T02:26:44+00:00
-# Count: 1834 domains
+# Released: 2018-10-11T13:56:02+00:00
+# Count: 1842 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -218,6 +218,7 @@
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
+0.0.0.0 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
@@ -233,6 +234,7 @@
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 whatcounts_saas.s3.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 t.ambra.com
 0.0.0.0 amplitude.com
@@ -876,6 +878,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 ads.nexage.com
+0.0.0.0 nqs.nice264.com
 0.0.0.0 npttech.com
 0.0.0.0 www.npttech.com
 0.0.0.0 ntellicast.com
@@ -894,6 +897,7 @@
 0.0.0.0 optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 optmnstr.com
+0.0.0.0 a.optmnstr.com
 0.0.0.0 api.optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
@@ -1061,6 +1065,7 @@
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 pixel.socialtyze.com
+0.0.0.0 telemetry.sonarsource.com
 0.0.0.0 sonobi.com
 0.0.0.0 speedcurve.com
 0.0.0.0 cdn.speedcurve.com
@@ -1383,6 +1388,8 @@
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 calq.io
+0.0.0.0 api.calq.io
 0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
@@ -1613,6 +1620,7 @@
 0.0.0.0 g.ezoic.net
 0.0.0.0 go.ezoic.net
 0.0.0.0 prod.appnexus.map.fastly.net
+0.0.0.0 brightcove.map.fastly.net
 0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
