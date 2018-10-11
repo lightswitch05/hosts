@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-11T17:04:07+00:00
-# Count: 9691 domains
+# Released: 2018-10-11T18:04:18+00:00
+# Count: 9697 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3768,6 +3768,10 @@
 0.0.0.0 productads.hlserve.com
 0.0.0.0 products.hlserve.com
 0.0.0.0 www.hlserve.com
+0.0.0.0 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 clickstream-producer.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 links.ibotta.com
@@ -6739,6 +6743,7 @@
 0.0.0.0 webdisk.terratracker.com
 0.0.0.0 webmail.terratracker.com
 0.0.0.0 www.terratracker.com
+0.0.0.0 www.thdws.com
 0.0.0.0 theappgrader.com
 0.0.0.0 22.theappgrader.com
 0.0.0.0 acd.theappgrader.com
@@ -8948,6 +8953,7 @@
 0.0.0.0 h-api-test.online-metrix.net
 0.0.0.0 www.h-api-test.online-metrix.net
 0.0.0.0 h-fail-test.online-metrix.net
+0.0.0.0 h-homedepot.online-metrix.net
 0.0.0.0 h-intuit.online-metrix.net
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 www.h-sdk.online-metrix.net
