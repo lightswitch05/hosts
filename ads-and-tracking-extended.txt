@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-11T14:58:52+00:00
-# Count: 9690 domains
+# Released: 2018-10-11T17:04:07+00:00
+# Count: 9691 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5456,6 +5456,7 @@
 0.0.0.0 vconf.outbrain.com
 0.0.0.0 vconfgw.outbrain.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 analytics.paddle.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
 0.0.0.0 panadvert.com
