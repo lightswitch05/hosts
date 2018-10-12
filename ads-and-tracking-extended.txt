@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-11T18:04:18+00:00
-# Count: 9697 domains
+# Released: 2018-10-12T18:02:12+00:00
+# Count: 9700 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -9160,6 +9160,8 @@
 0.0.0.0 cdn.userreplay.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 gs.wixapps.net
+0.0.0.0 recommendation-hybrid.wpdigital.net
+0.0.0.0 recommendation-newsletter.wpdigital.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 ads.wsrs.net
 0.0.0.0 mail.ads.wsrs.net
@@ -9704,6 +9706,7 @@
 0.0.0.0 wf.adserve.video
 0.0.0.0 www.wf.adserve.video
 0.0.0.0 www.adserve.video
+0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 wpad
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 autodiscover.marketingmachine.co.za
