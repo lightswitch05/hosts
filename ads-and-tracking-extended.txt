@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-15T13:44:35+00:00
-# Count: 9713 domains
+# Released: 2018-10-15T13:53:15+00:00
+# Count: 9714 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1430,6 +1430,7 @@
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
+0.0.0.0 tracking-graphly-907699188.us-west-2.elb.amazonaws.com
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
@@ -8467,7 +8468,6 @@
 0.0.0.0 uk.doubleclick.net
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
-0.0.0.0 cs254.wac.edgecastcdn.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
