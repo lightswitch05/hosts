@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-15T13:17:09+00:00
-# Count: 9690 domains
+# Released: 2018-10-15T13:44:35+00:00
+# Count: 9713 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -80,6 +80,9 @@
 0.0.0.0 leivonta.leadpages.co
 0.0.0.0 soap17.leadpages.co
 0.0.0.0 a.mailmunch.co
+0.0.0.0 pcrl.co
+0.0.0.0 assets.pcrl.co
+0.0.0.0 www.assets.pcrl.co
 0.0.0.0 sele.co
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
@@ -3814,6 +3817,7 @@
 0.0.0.0 www.secure.impresionesweb.com
 0.0.0.0 imprev.com
 0.0.0.0 www.imprev.com
+0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 accounts.inlocomedia.com
 0.0.0.0 docs.inlocomedia.com
@@ -5609,6 +5613,11 @@
 0.0.0.0 pixel.pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
+0.0.0.0 picreel.com
+0.0.0.0 app.picreel.com
+0.0.0.0 staging.picreel.com
+0.0.0.0 system.picreel.com
+0.0.0.0 www.picreel.com
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 placed.com
 0.0.0.0 affiliate.placed.com
@@ -6765,6 +6774,8 @@
 0.0.0.0 www.theappgrader.com
 0.0.0.0 geoip.thedailymeal.com
 0.0.0.0 metrics.thepointsguy.com
+0.0.0.0 thewhizmarketing.com
+0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 thirdpresence.com
 0.0.0.0 a.thirdpresence.com
 0.0.0.0 www.a.thirdpresence.com
@@ -6858,6 +6869,7 @@
 0.0.0.0 yeag.thunderhead.com
 0.0.0.0 ytest.thunderhead.com
 0.0.0.0 ztest.thunderhead.com
+0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -7996,6 +8008,16 @@
 0.0.0.0 trust.extremereach.io
 0.0.0.0 ghostboard.io
 0.0.0.0 www.ghostboard.io
+0.0.0.0 graphly.io
+0.0.0.0 app.graphly.io
+0.0.0.0 www.app.graphly.io
+0.0.0.0 devsync.graphly.io
+0.0.0.0 docs.graphly.io
+0.0.0.0 newapp1.graphly.io
+0.0.0.0 sync.graphly.io
+0.0.0.0 tracking.graphly.io
+0.0.0.0 www.tracking.graphly.io
+0.0.0.0 www.graphly.io
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
@@ -8434,6 +8456,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 jp.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ad.mo.doubleclick.net

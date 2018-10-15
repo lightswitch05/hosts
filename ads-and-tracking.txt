@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-15T13:17:09+00:00
-# Count: 1863 domains
+# Released: 2018-10-15T13:44:35+00:00
+# Count: 1876 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -51,6 +51,8 @@
 0.0.0.0 leadpages.co
 0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 a.mailmunch.co
+0.0.0.0 pcrl.co
+0.0.0.0 assets.pcrl.co
 0.0.0.0 sele.co
 0.0.0.0 api.sele.co
 0.0.0.0 api-ntv.sele.co
@@ -594,6 +596,7 @@
 0.0.0.0 adserver.iminent.com
 0.0.0.0 impresionesweb.com
 0.0.0.0 imprev.com
+0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
 0.0.0.0 inmobi.com
@@ -941,6 +944,10 @@
 0.0.0.0 pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
+0.0.0.0 picreel.com
+0.0.0.0 app.picreel.com
+0.0.0.0 staging.picreel.com
+0.0.0.0 system.picreel.com
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 placed.com
 0.0.0.0 p.placed.com
@@ -1193,12 +1200,15 @@
 0.0.0.0 adserver.theappgrader.com
 0.0.0.0 geoip.thedailymeal.com
 0.0.0.0 metrics.thepointsguy.com
+0.0.0.0 thewhizmarketing.com
+0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 thirdpresence.com
 0.0.0.0 a.thirdpresence.com
 0.0.0.0 cdn.threadloom.com
 0.0.0.0 thunderhead.com
 0.0.0.0 eu2.thunderhead.com
 0.0.0.0 na5.thunderhead.com
+0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -1421,6 +1431,8 @@
 0.0.0.0 beacons.extremereach.io
 0.0.0.0 trust.extremereach.io
 0.0.0.0 ghostboard.io
+0.0.0.0 graphly.io
+0.0.0.0 tracking.graphly.io
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
@@ -1608,6 +1620,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
