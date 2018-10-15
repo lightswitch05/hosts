@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-12T18:02:12+00:00
-# Count: 9700 domains
+# Released: 2018-10-15T13:17:09+00:00
+# Count: 9690 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2844,6 +2844,8 @@
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p05.exacttarget.com
 0.0.0.0 artifactory-xt-p06.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p06.exacttarget.com
+0.0.0.0 artifactory-xt-s50.exacttarget.com
+0.0.0.0 sfmc-docker-prod-local.artifactory-xt-s50.exacttarget.com
 0.0.0.0 auth.exacttarget.com
 0.0.0.0 auth-san.exacttarget.com
 0.0.0.0 autodiscover.exacttarget.com
@@ -2851,7 +2853,6 @@
 0.0.0.0 api.boa.exacttarget.com
 0.0.0.0 app.boa.exacttarget.com
 0.0.0.0 auth.boa.exacttarget.com
-0.0.0.0 click.boa.exacttarget.com
 0.0.0.0 image.boa.exacttarget.com
 0.0.0.0 imh.boa.exacttarget.com
 0.0.0.0 mc.boa.exacttarget.com
@@ -2869,7 +2870,6 @@
 0.0.0.0 centro.exacttarget.com
 0.0.0.0 centro-indy.exacttarget.com
 0.0.0.0 centro-vegas.exacttarget.com
-0.0.0.0 click.exacttarget.com
 0.0.0.0 code.exacttarget.com
 0.0.0.0 content.exacttarget.com
 0.0.0.0 cust.exacttarget.com
@@ -2931,6 +2931,7 @@
 0.0.0.0 mc.login-qa1.exacttarget.com
 0.0.0.0 login-qa2.exacttarget.com
 0.0.0.0 mc.login-qa2.exacttarget.com
+0.0.0.0 s2.login-qa2.exacttarget.com
 0.0.0.0 login-qa3.exacttarget.com
 0.0.0.0 mc.login-qa3.exacttarget.com
 0.0.0.0 login-test.exacttarget.com
@@ -2958,7 +2959,6 @@
 0.0.0.0 poc.exacttarget.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 auth.poc.exacttarget.com
-0.0.0.0 click.poc.exacttarget.com
 0.0.0.0 imh.poc.exacttarget.com
 0.0.0.0 login.poc.exacttarget.com
 0.0.0.0 mc.poc.exacttarget.com
@@ -2983,7 +2983,6 @@
 0.0.0.0 prem.qa1.exacttarget.com
 0.0.0.0 s1.qa1.exacttarget.com
 0.0.0.0 auth.s1.qa1.exacttarget.com
-0.0.0.0 click.s1.qa1.exacttarget.com
 0.0.0.0 image.s1.qa1.exacttarget.com
 0.0.0.0 imh.s1.qa1.exacttarget.com
 0.0.0.0 mc.s1.qa1.exacttarget.com
@@ -2993,7 +2992,6 @@
 0.0.0.0 scpweb.s1.qa1.exacttarget.com
 0.0.0.0 s2.qa1.exacttarget.com
 0.0.0.0 auth.s2.qa1.exacttarget.com
-0.0.0.0 click.s2.qa1.exacttarget.com
 0.0.0.0 image.s2.qa1.exacttarget.com
 0.0.0.0 imh.s2.qa1.exacttarget.com
 0.0.0.0 mc.s2.qa1.exacttarget.com
@@ -3006,7 +3004,6 @@
 0.0.0.0 app.s1.qa2.exacttarget.com
 0.0.0.0 auth.s1.qa2.exacttarget.com
 0.0.0.0 cl.s1.qa2.exacttarget.com
-0.0.0.0 click.s1.qa2.exacttarget.com
 0.0.0.0 etappx.s1.qa2.exacttarget.com
 0.0.0.0 image.s1.qa2.exacttarget.com
 0.0.0.0 imh.s1.qa2.exacttarget.com
@@ -3019,7 +3016,6 @@
 0.0.0.0 api.s2.qa2.exacttarget.com
 0.0.0.0 app.s2.qa2.exacttarget.com
 0.0.0.0 auth.s2.qa2.exacttarget.com
-0.0.0.0 click.s2.qa2.exacttarget.com
 0.0.0.0 image.s2.qa2.exacttarget.com
 0.0.0.0 imh.s2.qa2.exacttarget.com
 0.0.0.0 login.s2.qa2.exacttarget.com
@@ -3034,7 +3030,6 @@
 0.0.0.0 prem.qa3.exacttarget.com
 0.0.0.0 s1.qa3.exacttarget.com
 0.0.0.0 auth.s1.qa3.exacttarget.com
-0.0.0.0 click.s1.qa3.exacttarget.com
 0.0.0.0 image.s1.qa3.exacttarget.com
 0.0.0.0 imh.s1.qa3.exacttarget.com
 0.0.0.0 mc.s1.qa3.exacttarget.com
@@ -3042,7 +3037,6 @@
 0.0.0.0 pages.s1.qa3.exacttarget.com
 0.0.0.0 s2.qa3.exacttarget.com
 0.0.0.0 auth.s2.qa3.exacttarget.com
-0.0.0.0 click.s2.qa3.exacttarget.com
 0.0.0.0 image.s2.qa3.exacttarget.com
 0.0.0.0 imh.s2.qa3.exacttarget.com
 0.0.0.0 mc.s2.qa3.exacttarget.com
@@ -3069,7 +3063,6 @@
 0.0.0.0 scpweb.s10.exacttarget.com
 0.0.0.0 s100.exacttarget.com
 0.0.0.0 auth.s100.exacttarget.com
-0.0.0.0 click.s100.exacttarget.com
 0.0.0.0 imh.s100.exacttarget.com
 0.0.0.0 mc.s100.exacttarget.com
 0.0.0.0 members.s100.exacttarget.com
@@ -3081,7 +3074,6 @@
 0.0.0.0 api.s4.exacttarget.com
 0.0.0.0 app.s4.exacttarget.com
 0.0.0.0 auth.s4.exacttarget.com
-0.0.0.0 click.s4.exacttarget.com
 0.0.0.0 etappx.s4.exacttarget.com
 0.0.0.0 gadget.s4.exacttarget.com
 0.0.0.0 image.s4.exacttarget.com
@@ -3092,7 +3084,6 @@
 0.0.0.0 pages.s4.exacttarget.com
 0.0.0.0 scpweb.s4.exacttarget.com
 0.0.0.0 virt.s4.exacttarget.com
-0.0.0.0 click.virt.s4.exacttarget.com
 0.0.0.0 webservice.s4.exacttarget.com
 0.0.0.0 ws.s4.exacttarget.com
 0.0.0.0 s5.exacttarget.com
@@ -3102,14 +3093,15 @@
 0.0.0.0 mc.s5.exacttarget.com
 0.0.0.0 members.s5.exacttarget.com
 0.0.0.0 scpweb.s5.exacttarget.com
-0.0.0.0 click.virt.s5.exacttarget.com
 0.0.0.0 s50.exacttarget.com
+0.0.0.0 anonymous.s50.exacttarget.com
 0.0.0.0 app.s50.exacttarget.com
+0.0.0.0 approvals.s50.exacttarget.com
 0.0.0.0 auth.s50.exacttarget.com
-0.0.0.0 click.s50.exacttarget.com
-0.0.0.0 click-sms.s50.exacttarget.com
+0.0.0.0 bounce.s50.exacttarget.com
 0.0.0.0 editorsupport.s50.exacttarget.com
 0.0.0.0 manage.ext.s50.exacttarget.com
+0.0.0.0 fbl.s50.exacttarget.com
 0.0.0.0 image.s50.exacttarget.com
 0.0.0.0 images.s50.exacttarget.com
 0.0.0.0 internal.s50.exacttarget.com
@@ -3120,8 +3112,10 @@
 0.0.0.0 members.s50.exacttarget.com
 0.0.0.0 origin-akamai-members.s50.exacttarget.com
 0.0.0.0 orionhttp.s50.exacttarget.com
+0.0.0.0 orionims.s50.exacttarget.com
 0.0.0.0 pages.s50.exacttarget.com
 0.0.0.0 pub.s50.exacttarget.com
+0.0.0.0 reply.s50.exacttarget.com
 0.0.0.0 rest.s50.exacttarget.com
 0.0.0.0 restapi.s50.exacttarget.com
 0.0.0.0 scpweb.s50.exacttarget.com
@@ -3135,19 +3129,15 @@
 0.0.0.0 mc.s6.exacttarget.com
 0.0.0.0 members.s6.exacttarget.com
 0.0.0.0 scpweb.s6.exacttarget.com
-0.0.0.0 click.virt.s6.exacttarget.com
 0.0.0.0 s7.exacttarget.com
 0.0.0.0 auth.s7.exacttarget.com
-0.0.0.0 click.s7.exacttarget.com
 0.0.0.0 image.s7.exacttarget.com
 0.0.0.0 mc.s7.exacttarget.com
 0.0.0.0 members.s7.exacttarget.com
 0.0.0.0 origin-auth.s7.exacttarget.com
 0.0.0.0 scpweb.s7.exacttarget.com
-0.0.0.0 click.virt.s7.exacttarget.com
 0.0.0.0 s8.exacttarget.com
 0.0.0.0 auth.s8.exacttarget.com
-0.0.0.0 click.s8.exacttarget.com
 0.0.0.0 image.s8.exacttarget.com
 0.0.0.0 mc.s8.exacttarget.com
 0.0.0.0 members.s8.exacttarget.com
@@ -3169,7 +3159,6 @@
 0.0.0.0 app.test.exacttarget.com
 0.0.0.0 webservice.keepalive.aprimo.test.exacttarget.com
 0.0.0.0 webservice.aprimo.test.exacttarget.com
-0.0.0.0 click.test.exacttarget.com
 0.0.0.0 etappx.test.exacttarget.com
 0.0.0.0 image.test.exacttarget.com
 0.0.0.0 login.test.exacttarget.com
@@ -6367,6 +6356,7 @@
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 staging.app-analytics.snapchat.com
 0.0.0.0 pixel.socialtyze.com
+0.0.0.0 pixel.solvemedia.com
 0.0.0.0 telemetry.sonarsource.com
 0.0.0.0 sonobi.com
 0.0.0.0 api.sonobi.com

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2018-10-08T13:06:30+00:00
-# Count: 105 domains
+# Released: 2018-10-15T13:15:51+00:00
+# Count: 81 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -35,6 +35,9 @@
 0.0.0.0 chatid.com
 0.0.0.0 iframe.chatid.com
 0.0.0.0 myip.dnsomatic.com
+0.0.0.0 exacttarget.com
+0.0.0.0 click.virt.s6.exacttarget.com
+0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 flexispy.com
 0.0.0.0 flipboard.com
 0.0.0.0 api.flipboard.com
