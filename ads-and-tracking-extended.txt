@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-16T14:21:50+00:00
-# Count: 9765 domains
+# Released: 2018-10-16T19:25:02+00:00
+# Count: 9787 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1172,6 +1172,9 @@
 0.0.0.0 www.stag-admin.adyoulike.com
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
+0.0.0.0 smetrics.aetn.com
+0.0.0.0 www.smetrics.aetn.com
+0.0.0.0 insights.vip.aetnd.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 agentanalytics.com
 0.0.0.0 o.agentanalytics.com
@@ -1440,6 +1443,7 @@
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
 0.0.0.0 tracking-graphly-907699188.us-west-2.elb.amazonaws.com
+0.0.0.0 ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
@@ -6033,6 +6037,7 @@
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 scout-cdn.salesloft.com
 0.0.0.0 beacon.samsclub.com
+0.0.0.0 beacon-streamer.saymedia.com
 0.0.0.0 ads.scanapps.com
 0.0.0.0 beacon.ads.scanapps.com
 0.0.0.0 exscan.ads.scanapps.com
@@ -7848,6 +7853,14 @@
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
 0.0.0.0 match33.info
+0.0.0.0 1rx.io
+0.0.0.0 east-s2s.1rx.io
+0.0.0.0 eu-s2s.1rx.io
+0.0.0.0 hb.1rx.io
+0.0.0.0 hbevents.1rx.io
+0.0.0.0 optout.1rx.io
+0.0.0.0 tag.1rx.io
+0.0.0.0 west-s2s.1rx.io
 0.0.0.0 5rocks.io
 0.0.0.0 api.5rocks.io
 0.0.0.0 ltv-bot.5rocks.io
@@ -8290,6 +8303,7 @@
 0.0.0.0 sbx1.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 ad-delivery.net
 0.0.0.0 adglare.net
 0.0.0.0 cdn.adglare.net
 0.0.0.0 kidswithfoodallergies.cdn.adglare.net
@@ -8374,6 +8388,7 @@
 0.0.0.0 order.carbonads.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 www.carbonads.net
+0.0.0.0 analytics.ccgateway.net
 0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
@@ -8588,6 +8603,7 @@
 0.0.0.0 registry.dev.fwmrm.net
 0.0.0.0 svn.dev.fwmrm.net
 0.0.0.0 manifest.fwmrm.net
+0.0.0.0 mssl.fwmrm.net
 0.0.0.0 ny5expe.fwmrm.net
 0.0.0.0 s.fwmrm.net
 0.0.0.0 stg.fwmrm.net
@@ -8772,6 +8788,9 @@
 0.0.0.0 www.link.krxd.net
 0.0.0.0 maxis.krxd.net
 0.0.0.0 userdata-maxis.krxd.net
+0.0.0.0 analytics.levelaccess.net
+0.0.0.0 api.levelaccess.net
+0.0.0.0 cdn.levelaccess.net
 0.0.0.0 lsimg.net
 0.0.0.0 i.lsimg.net
 0.0.0.0 www.i.lsimg.net
@@ -8967,6 +8986,7 @@
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 adpsj.ssl.d1.sc.omtrdc.net
+0.0.0.0 aetn.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 d2.sc.omtrdc.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
@@ -9050,6 +9070,7 @@
 0.0.0.0 meta.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 rock-you-d.openx.net
+0.0.0.0 saymedia-d.openx.net
 0.0.0.0 soju.openx.net
 0.0.0.0 black.soju.openx.net
 0.0.0.0 blue.soju.openx.net
@@ -9214,6 +9235,7 @@
 0.0.0.0 csp-dev5.timecommerce.net
 0.0.0.0 csp-testsite.timecommerce.net
 0.0.0.0 session.timecommerce.net
+0.0.0.0 cc-analytics.trafficmanager.net
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 userreplay.net
