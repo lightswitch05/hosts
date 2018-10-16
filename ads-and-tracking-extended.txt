@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-16T19:25:02+00:00
-# Count: 9787 domains
+# Released: 2018-10-16T20:48:17+00:00
+# Count: 9792 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -6056,6 +6056,8 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 seb.scorecardresearch.com
 0.0.0.0 www.seb.scorecardresearch.com
+0.0.0.0 connect.scroll.com
+0.0.0.0 static.scroll.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 sekindo.com
 0.0.0.0 console.sekindo.com
@@ -7847,6 +7849,8 @@
 0.0.0.0 platform.drawbrid.ge
 0.0.0.0 relay.drawbrid.ge
 0.0.0.0 www.drawbrid.ge
+0.0.0.0 clean.gg
+0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
@@ -8402,6 +8406,7 @@
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
+0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 connexity.net
 0.0.0.0 mxl.connexity.net
 0.0.0.0 www.mxl.connexity.net
