@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-17T18:34:48+00:00
-# Count: 9834 domains
+# Released: 2018-10-17T20:12:38+00:00
+# Count: 9852 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1839,6 +1839,23 @@
 0.0.0.0 stage3.autopilothq.com
 0.0.0.0 support.autopilothq.com
 0.0.0.0 www2.autopilothq.com
+0.0.0.0 aweber.com
+0.0.0.0 analytics.aweber.com
+0.0.0.0 analytics2.aweber.com
+0.0.0.0 blog.aweber.com
+0.0.0.0 engineering.aweber.com
+0.0.0.0 forms.aweber.com
+0.0.0.0 go.aweber.com
+0.0.0.0 help.aweber.com
+0.0.0.0 http-proxy.aweber.com
+0.0.0.0 img3.aweber.com
+0.0.0.0 jss.aweber.com
+0.0.0.0 mail1.aweber.com
+0.0.0.0 payments.aweber.com
+0.0.0.0 resources.aweber.com
+0.0.0.0 sonoa.aweber.com
+0.0.0.0 status.aweber.com
+0.0.0.0 videos.aweber.com
 0.0.0.0 awltovhc.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 b2c.com
@@ -9554,6 +9571,7 @@
 0.0.0.0 lb-test-int.pxi.pub
 0.0.0.0 collector.staging.pxi.pub
 0.0.0.0 www.pxi.pub
+0.0.0.0 zlp6s.pw
 0.0.0.0 creativeads.ro
 0.0.0.0 adserver.creativeads.ro
 0.0.0.0 www.creativeads.ro
