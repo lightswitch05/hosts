@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-17T12:49:24+00:00
-# Count: 9800 domains
+# Released: 2018-10-17T18:24:55+00:00
+# Count: 9828 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5346,6 +5346,30 @@
 0.0.0.0 support.newrelic.com
 0.0.0.0 support-legacy.newrelic.com
 0.0.0.0 try.newrelic.com
+0.0.0.0 newscgp.com
+0.0.0.0 audience.newscgp.com
+0.0.0.0 au.audience.newscgp.com
+0.0.0.0 ir.audience.newscgp.com
+0.0.0.0 originau.audience.newscgp.com
+0.0.0.0 originus.audience.newscgp.com
+0.0.0.0 uat.audience.newscgp.com
+0.0.0.0 us.audience.newscgp.com
+0.0.0.0 iglu.newscgp.com
+0.0.0.0 pixel.newscgp.com
+0.0.0.0 au.pixel.newscgp.com
+0.0.0.0 ir.pixel.newscgp.com
+0.0.0.0 originau.pixel.newscgp.com
+0.0.0.0 originus.pixel.newscgp.com
+0.0.0.0 uat.pixel.newscgp.com
+0.0.0.0 us.pixel.newscgp.com
+0.0.0.0 sit.newscgp.com
+0.0.0.0 au.tags.newscgp.com
+0.0.0.0 fox.tags.newscgp.com
+0.0.0.0 hc.tags.newscgp.com
+0.0.0.0 ir.tags.newscgp.com
+0.0.0.0 us.tags.newscgp.com
+0.0.0.0 uat.newscgp.com
+0.0.0.0 www.newscgp.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 bos.ads.nexage.com
 0.0.0.0 sjc.ads.nexage.com
@@ -5853,6 +5877,7 @@
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 realclever.com
 0.0.0.0 pixel.realclever.com
+0.0.0.0 smetrics.realtor.com
 0.0.0.0 e.redbox.com
 0.0.0.0 ebm.e.redbox.com
 0.0.0.0 www.ebm.e.redbox.com
@@ -8224,6 +8249,7 @@
 0.0.0.0 dev.bnc.lt
 0.0.0.0 qa.bnc.lt
 0.0.0.0 www.bnc.lt
+0.0.0.0 assets.context.ly
 0.0.0.0 count.ly
 0.0.0.0 blog.count.ly
 0.0.0.0 www.blog.count.ly
@@ -8410,6 +8436,7 @@
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
@@ -9007,6 +9034,7 @@
 0.0.0.0 adpdl.ssl.d2.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 fedex.com.ssl.d2.sc.omtrdc.net
+0.0.0.0 realtor.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 vanguard.d2.sc.omtrdc.net
