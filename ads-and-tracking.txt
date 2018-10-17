@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-17T18:34:48+00:00
-# Count: 1905 domains
+# Released: 2018-10-17T20:12:38+00:00
+# Count: 1908 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -304,6 +304,8 @@
 0.0.0.0 go.automatad.com
 0.0.0.0 autopilothq.com
 0.0.0.0 api.autopilothq.com
+0.0.0.0 aweber.com
+0.0.0.0 forms.aweber.com
 0.0.0.0 awltovhc.com
 0.0.0.0 b2c.com
 0.0.0.0 api.b2c.com
@@ -1874,6 +1876,7 @@
 0.0.0.0 client.a.pxi.pub
 0.0.0.0 collector.a.pxi.pub
 0.0.0.0 collector.staging.pxi.pub
+0.0.0.0 zlp6s.pw
 0.0.0.0 creativeads.ro
 0.0.0.0 absum.ru
 0.0.0.0 aviasales.ru
