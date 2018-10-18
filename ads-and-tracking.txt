@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-17T20:12:38+00:00
-# Count: 1908 domains
+# Released: 2018-10-18T12:22:54+00:00
+# Count: 1916 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -218,6 +218,7 @@
 0.0.0.0 log-c-907025318.us-east-1.elb.amazonaws.com
 0.0.0.0 logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 0.0.0.0 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
+0.0.0.0 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
@@ -425,6 +426,7 @@
 0.0.0.0 p.cquotient.com
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 metrics.crateandbarrel.com
 0.0.0.0 crazyclickstats.com
@@ -611,6 +613,7 @@
 0.0.0.0 ag.innovid.com
 0.0.0.0 rtr.innovid.com
 0.0.0.0 s-files.innovid.com
+0.0.0.0 s-static.innovid.com
 0.0.0.0 installfarm.com
 0.0.0.0 adserver.installfarm.com
 0.0.0.0 instartlogic.com
@@ -905,6 +908,7 @@
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 newscgp.com
 0.0.0.0 us.tags.newscgp.com
+0.0.0.0 analytics.newsinc.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 nqs.nice264.com
 0.0.0.0 npttech.com
@@ -1036,6 +1040,7 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
+0.0.0.0 track.sr.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 rollbar.com
 0.0.0.0 roosterfirework.com
@@ -1190,6 +1195,7 @@
 0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
 0.0.0.0 tapjoy.com
+0.0.0.0 content.tapjoy.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 tapjoyads.com
@@ -1234,6 +1240,7 @@
 0.0.0.0 capture.trackjs.com
 0.0.0.0 trackverify.com
 0.0.0.0 traffiliate.com
+0.0.0.0 eb.trbas.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
@@ -1737,6 +1744,7 @@
 0.0.0.0 crackle.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
+0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net

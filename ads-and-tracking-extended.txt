@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-17T20:12:38+00:00
-# Count: 9852 domains
+# Released: 2018-10-18T12:22:54+00:00
+# Count: 9861 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1425,6 +1425,7 @@
 0.0.0.0 log-c-907025318.us-east-1.elb.amazonaws.com
 0.0.0.0 logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 0.0.0.0 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
+0.0.0.0 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
@@ -2283,6 +2284,7 @@
 0.0.0.0 crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 realtime.crashlytics.com
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 support.crashlytics.com
 0.0.0.0 metrics.crateandbarrel.com
@@ -4105,6 +4107,7 @@
 0.0.0.0 rtr.innovid.com
 0.0.0.0 rtrx.innovid.com
 0.0.0.0 s-files.innovid.com
+0.0.0.0 s-static.innovid.com
 0.0.0.0 support.innovid.com
 0.0.0.0 sx.innovid.com
 0.0.0.0 www.innovid.com
@@ -5393,6 +5396,7 @@
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 uat.newscgp.com
 0.0.0.0 www.newscgp.com
+0.0.0.0 analytics.newsinc.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 bos.ads.nexage.com
 0.0.0.0 sjc.ads.nexage.com
@@ -5982,6 +5986,7 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
+0.0.0.0 track.sr.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 rollbar.com
 0.0.0.0 api.rollbar.com
@@ -6770,6 +6775,7 @@
 0.0.0.0 advertisers.tapjoy.com
 0.0.0.0 blog.tapjoy.com
 0.0.0.0 bonus.tapjoy.com
+0.0.0.0 content.tapjoy.com
 0.0.0.0 content-js.tapjoy.com
 0.0.0.0 www.content-js.tapjoy.com
 0.0.0.0 dev.tapjoy.com
@@ -7014,6 +7020,8 @@
 0.0.0.0 www.pixel.traffiliate.com
 0.0.0.0 stage.traffiliate.com
 0.0.0.0 www.stage.traffiliate.com
+0.0.0.0 eb.trbas.com
+0.0.0.0 www.eb.trbas.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
@@ -9038,6 +9046,7 @@
 0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 hb-api.omtrdc.net
+0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
 0.0.0.0 hb-fa-1.omtrdc.net
 0.0.0.0 hb-fa-stage.omtrdc.net
 0.0.0.0 heartbeats.omtrdc.net
