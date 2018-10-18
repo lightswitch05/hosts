@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-18T12:22:54+00:00
-# Count: 1916 domains
+# Released: 2018-10-18T12:36:03+00:00
+# Count: 1924 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -164,6 +164,8 @@
 0.0.0.0 agentanalytics.com
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 t.agentanalytics.com
+0.0.0.0 agkn.com
+0.0.0.0 js.agkn.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 airpr.com
@@ -374,6 +376,8 @@
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 cashext.com
+0.0.0.0 saa.cbsi.com
+0.0.0.0 adops.cbsinteractive.com
 0.0.0.0 celebrus.com
 0.0.0.0 delta.celebrus.com
 0.0.0.0 insights.celebrus.com
@@ -1000,6 +1004,7 @@
 0.0.0.0 qualtrics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 zn6dmaopednyvtshf-ups.siteintercept.qualtrics.com
+0.0.0.0 zn_77ycxjaq1e0122v-cbs.siteintercept.qualtrics.com
 0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 quantserve.com
 0.0.0.0 2kpixel.quantserve.com
@@ -1628,6 +1633,7 @@
 0.0.0.0 demdex.net
 0.0.0.0 bestbuy.demdex.net
 0.0.0.0 crackle.demdex.net
+0.0.0.0 dpm.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 pepsico.demdex.net
@@ -1698,6 +1704,7 @@
 0.0.0.0 glancecdn.net
 0.0.0.0 www.glancecdn.net
 0.0.0.0 go-mpulse.net
+0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 gscontxt.net
@@ -1740,6 +1747,7 @@
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 omtrdc.net
+0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 crackle.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
