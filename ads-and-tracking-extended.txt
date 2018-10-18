@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-18T12:22:54+00:00
-# Count: 9861 domains
+# Released: 2018-10-18T12:36:03+00:00
+# Count: 9889 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1184,6 +1184,29 @@
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 u.agentanalytics.com
 0.0.0.0 www.agentanalytics.com
+0.0.0.0 agkn.com
+0.0.0.0 _autodiscover._tcp.agkn.com
+0.0.0.0 ad.agkn.com
+0.0.0.0 content.agkn.com
+0.0.0.0 creative.agkn.com
+0.0.0.0 cust.agkn.com
+0.0.0.0 d.agkn.com
+0.0.0.0 dashboard.agkn.com
+0.0.0.0 demo.agkn.com
+0.0.0.0 docs.agkn.com
+0.0.0.0 html.agkn.com
+0.0.0.0 images.agkn.com
+0.0.0.0 js.agkn.com
+0.0.0.0 m.agkn.com
+0.0.0.0 mail.agkn.com
+0.0.0.0 on.agkn.com
+0.0.0.0 optout.agkn.com
+0.0.0.0 rest.agkn.com
+0.0.0.0 sandbox.agkn.com
+0.0.0.0 ticket.agkn.com
+0.0.0.0 ui.agkn.com
+0.0.0.0 www.agkn.com
+0.0.0.0 www-stage.agkn.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 airpr.com
@@ -2085,6 +2108,8 @@
 0.0.0.0 woobi-eu.casalemedia.com
 0.0.0.0 www.casalemedia.com
 0.0.0.0 cashext.com
+0.0.0.0 saa.cbsi.com
+0.0.0.0 adops.cbsinteractive.com
 0.0.0.0 celebrus.com
 0.0.0.0 cengage.celebrus.com
 0.0.0.0 delta.celebrus.com
@@ -5852,6 +5877,7 @@
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 gov1.siteintercept.qualtrics.com
 0.0.0.0 zn6dmaopednyvtshf-ups.siteintercept.qualtrics.com
+0.0.0.0 zn_77ycxjaq1e0122v-cbs.siteintercept.qualtrics.com
 0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 sjc1.qualtrics.com
 0.0.0.0 st3.qualtrics.com
@@ -8547,6 +8573,7 @@
 0.0.0.0 fast.aexp.demdex.net
 0.0.0.0 bestbuy.demdex.net
 0.0.0.0 crackle.demdex.net
+0.0.0.0 dpm.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 fast.mtvn.demdex.net
@@ -9041,6 +9068,7 @@
 0.0.0.0 collection.sv.d2.omtrdc.net
 0.0.0.0 delivery.sv.d2.omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 crackle.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
