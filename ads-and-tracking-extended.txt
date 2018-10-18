@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-18T12:36:03+00:00
-# Count: 9889 domains
+# Released: 2018-10-18T20:43:05+00:00
+# Count: 9893 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5122,6 +5122,10 @@
 0.0.0.0 measure.mobileapptracking.com
 0.0.0.0 platform.mobileapptracking.com
 0.0.0.0 stage.mobileapptracking.com
+0.0.0.0 monarchads.com
+0.0.0.0 ctv.monarchads.com
+0.0.0.0 reporting.monarchads.com
+0.0.0.0 tracking.sctv1.monarchads.com
 0.0.0.0 monetize-me.com
 0.0.0.0 ads.monetize-me.com
 0.0.0.0 pixel.monetize-me.com
