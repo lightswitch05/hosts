@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2018-10-16T14:27:06+00:00
-# Count: 33 domains
+# Released: 2018-10-18T12:14:48+00:00
+# Count: 36 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts-extended.txt
@@ -27,11 +27,14 @@
 0.0.0.0 amp.theguardian.com
 0.0.0.0 ampproject.org
 0.0.0.0 cdn.ampproject.org
+0.0.0.0 a-abcnews-com.cdn.ampproject.org
+0.0.0.0 abcnews-go-com.cdn.ampproject.org
 0.0.0.0 amp-livescience-com.cdn.ampproject.org
 0.0.0.0 amp-myrecipes-com.cdn.ampproject.org
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 aptparenting-com.cdn.ampproject.org
 0.0.0.0 collider-com.cdn.ampproject.org
+0.0.0.0 s-abcnews-com.cdn.ampproject.org
 0.0.0.0 slickdeals-net.cdn.ampproject.org
 0.0.0.0 syndication-bleacherreport-com.cdn.ampproject.org
 0.0.0.0 techcrunch-com.cdn.ampproject.org
