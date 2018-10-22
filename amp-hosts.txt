@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts.txt
-# Released: 2018-10-19T12:30:20+00:00
-# Count: 34 domains
+# Released: 2018-10-22T12:14:58+00:00
+# Count: 38 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts.txt
@@ -24,6 +24,7 @@
 0.0.0.0 amp.businessinsider.com
 0.0.0.0 amp.cloudflare.com
 0.0.0.0 discovery.amp.cloudflare.com
+0.0.0.0 amp.tennessean.com
 0.0.0.0 amp.theguardian.com
 0.0.0.0 ampproject.org
 0.0.0.0 a-abcnews-com.cdn.ampproject.org
@@ -32,6 +33,7 @@
 0.0.0.0 amp-livescience-com.cdn.ampproject.org
 0.0.0.0 amp-myrecipes-com.cdn.ampproject.org
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
+0.0.0.0 amp-sacbee-com.cdn.ampproject.org
 0.0.0.0 aptparenting-com.cdn.ampproject.org
 0.0.0.0 collider-com.cdn.ampproject.org
 0.0.0.0 s-abcnews-com.cdn.ampproject.org
@@ -44,6 +46,7 @@
 0.0.0.0 www-babble-com.cdn.ampproject.org
 0.0.0.0 www-biblestudytools-com.cdn.ampproject.org
 0.0.0.0 www-care-com.cdn.ampproject.org
+0.0.0.0 www-cbsnews-com.cdn.ampproject.org
 0.0.0.0 www-cultofmac-com.cdn.ampproject.org
 0.0.0.0 www-curejoy-com.cdn.ampproject.org
 0.0.0.0 www-express-co-uk.cdn.ampproject.org
@@ -53,5 +56,6 @@
 0.0.0.0 www-nbcnews-com.cdn.ampproject.org
 0.0.0.0 www-roanoke-com.cdn.ampproject.org
 0.0.0.0 www-sbnation-com.cdn.ampproject.org
+0.0.0.0 www-tasteofhome-com.cdn.ampproject.org
 0.0.0.0 www-todaysparent-com.cdn.ampproject.org
 0.0.0.0 www-whattoexpect-com.cdn.ampproject.org
