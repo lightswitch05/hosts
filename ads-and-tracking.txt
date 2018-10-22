@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-22T13:24:21+00:00
-# Count: 1934 domains
+# Released: 2018-10-22T13:46:52+00:00
+# Count: 1942 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -64,6 +64,8 @@
 0.0.0.0 panel.veeso.co
 0.0.0.0 247realmedia.com
 0.0.0.0 oasc18.247realmedia.com
+0.0.0.0 oasc18033.247realmedia.com
+0.0.0.0 oasc18y.247realmedia.com
 0.0.0.0 33across.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 3lift.com
@@ -1273,6 +1275,8 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 ugdturner.com
 0.0.0.0 pixel.geotex.uk.com
+0.0.0.0 undertone.com
+0.0.0.0 hb.undertone.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 ads.internal.unity3d.com
@@ -1356,6 +1360,9 @@
 0.0.0.0 wbinsights.com
 0.0.0.0 event.wbinsights.com
 0.0.0.0 ad.cc.webmd.com
+0.0.0.0 ls.webmd.com
+0.0.0.0 o.webmd.com
+0.0.0.0 ssl.o.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 whoisvisiting.com
@@ -1557,6 +1564,7 @@
 0.0.0.0 verizonwireless.112.2o7.net
 0.0.0.0 virginiatour.112.2o7.net
 0.0.0.0 hbogo.com.102.122.2o7.net
+0.0.0.0 webmdglobal.122.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 ad-delivery.net
