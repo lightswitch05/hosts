@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-22T13:46:52+00:00
-# Count: 1942 domains
+# Released: 2018-10-22T14:10:37+00:00
+# Count: 1950 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -344,6 +344,7 @@
 0.0.0.0 blismedia.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 metrics.boostmobile.com
+0.0.0.0 smetrics.boston.com
 0.0.0.0 braze.com
 0.0.0.0 yildun.iad-03.braze.com
 0.0.0.0 f1.media.brightcove.com
@@ -1443,6 +1444,7 @@
 0.0.0.0 drawbrid.ge
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
+0.0.0.0 www.sdad.guru
 0.0.0.0 wpad.home
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
@@ -1734,7 +1736,12 @@
 0.0.0.0 analytics.ihgip.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
+0.0.0.0 inscname.net
+0.0.0.0 ins-086.inscname.net
 0.0.0.0 a021.ranker.inscname.net
+0.0.0.0 a004.webmd.inscname.net
+0.0.0.0 insnw.net
+0.0.0.0 a-sg01sl07.insnw.net
 0.0.0.0 intentmedia.net
 0.0.0.0 cdn.intentmedia.net
 0.0.0.0 webtrendsinc.https.internapcdn.net
@@ -1752,6 +1759,7 @@
 0.0.0.0 maxymiser.net
 0.0.0.0 service.maxymiser.net
 0.0.0.0 media.net
+0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
