@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-22T13:24:21+00:00
-# Count: 9894 domains
+# Released: 2018-10-22T13:46:52+00:00
+# Count: 9913 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -158,6 +158,7 @@
 0.0.0.0 oasc17w.247realmedia.com
 0.0.0.0 oasc17y.247realmedia.com
 0.0.0.0 oasc18.247realmedia.com
+0.0.0.0 oasc18033.247realmedia.com
 0.0.0.0 oasc18f.247realmedia.com
 0.0.0.0 oasc18u.247realmedia.com
 0.0.0.0 oasc18w.247realmedia.com
@@ -7185,6 +7186,19 @@
 0.0.0.0 prod.ugdturner.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 pixel.geotex.uk.com
+0.0.0.0 undertone.com
+0.0.0.0 ads.undertone.com
+0.0.0.0 cdn.undertone.com
+0.0.0.0 events.undertone.com
+0.0.0.0 fpl.undertone.com
+0.0.0.0 hb.undertone.com
+0.0.0.0 info.undertone.com
+0.0.0.0 internal.undertone.com
+0.0.0.0 lyncdiscover.undertone.com
+0.0.0.0 www.lyncdiscover.undertone.com
+0.0.0.0 sip.undertone.com
+0.0.0.0 stgads.undertone.com
+0.0.0.0 webmail.undertone.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 ads.internal.unity3d.com
@@ -7516,6 +7530,10 @@
 0.0.0.0 zeppelin.wbinsights.com
 0.0.0.0 playdemic.zeppelin.wbinsights.com
 0.0.0.0 ad.cc.webmd.com
+0.0.0.0 ls.webmd.com
+0.0.0.0 o.webmd.com
+0.0.0.0 ssl.o.webmd.com
+0.0.0.0 survey.o.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 whoisvisiting.com
@@ -8400,6 +8418,7 @@
 0.0.0.0 122.2o7.net
 0.0.0.0 hbogo.com.102.122.2o7.net
 0.0.0.0 survey.122.2o7.net
+0.0.0.0 webmdglobal.122.2o7.net
 0.0.0.0 sbx1.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
