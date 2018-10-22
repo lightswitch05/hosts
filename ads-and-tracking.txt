@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-19T12:39:02+00:00
-# Count: 1932 domains
+# Released: 2018-10-22T13:24:21+00:00
+# Count: 1934 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -39,6 +39,7 @@
 0.0.0.0 districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 flyertown.ca
+0.0.0.0 www.honcode.ch
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 6sc.co
@@ -230,6 +231,7 @@
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 rumcollector-lb-304223083.us-east-1.elb.amazonaws.com
 0.0.0.0 rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
+0.0.0.0 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 0.0.0.0 statscollectorloadbalancer-695351754.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
@@ -1421,6 +1423,7 @@
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
+0.0.0.0 piwik.fobos.de
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
@@ -1499,6 +1502,8 @@
 0.0.0.0 piwik.privacytools.io
 0.0.0.0 api.pubwise.io
 0.0.0.0 metrics.readme.io
+0.0.0.0 rtk.io
+0.0.0.0 bidder.rtk.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
 0.0.0.0 sentry.io
@@ -1652,6 +1657,7 @@
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
+0.0.0.0 3944448.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 4354787.fls.doubleclick.net
 0.0.0.0 4514783.fls.doubleclick.net
