@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-23T12:53:59+00:00
-# Count: 9997 domains
+# Released: 2018-10-23T15:06:31+00:00
+# Count: 10018 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -142,6 +142,7 @@
 0.0.0.0 oasc-eu1b.247realmedia.com
 0.0.0.0 oasc-eu1c.247realmedia.com
 0.0.0.0 oasc-training7.247realmedia.com
+0.0.0.0 oasc02014.247realmedia.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oasc06.247realmedia.com
 0.0.0.0 oasc07.247realmedia.com
@@ -159,6 +160,7 @@
 0.0.0.0 oasc17y.247realmedia.com
 0.0.0.0 oasc18.247realmedia.com
 0.0.0.0 oasc18033.247realmedia.com
+0.0.0.0 oasc18d.247realmedia.com
 0.0.0.0 oasc18f.247realmedia.com
 0.0.0.0 oasc18u.247realmedia.com
 0.0.0.0 oasc18w.247realmedia.com
@@ -4006,6 +4008,8 @@
 0.0.0.0 www.helix.inmobi.com
 0.0.0.0 helixuat.inmobi.com
 0.0.0.0 www.helixuat.inmobi.com
+0.0.0.0 iam.inmobi.com
+0.0.0.0 www.iam.inmobi.com
 0.0.0.0 clarity.idsp.inmobi.com
 0.0.0.0 www.clarity.idsp.inmobi.com
 0.0.0.0 crmapi.idsp.inmobi.com
@@ -7009,6 +7013,7 @@
 0.0.0.0 ytest.thunderhead.com
 0.0.0.0 ztest.thunderhead.com
 0.0.0.0 tracking.tidalhifi.com
+0.0.0.0 dmp.tidaltv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -7602,6 +7607,12 @@
 0.0.0.0 www-staging.wootric.com
 0.0.0.0 insideintercom.wpengine.com
 0.0.0.0 syndicaster.wpengine.com
+0.0.0.0 oascentral.xfinity.com
+0.0.0.0 sdx.xfinity.com
+0.0.0.0 denver.staging.sdx.xfinity.com
+0.0.0.0 philly.staging.sdx.xfinity.com
+0.0.0.0 xapi.xfinity.com
+0.0.0.0 preview.xapi.xfinity.com
 0.0.0.0 go.xhamsterlive.com
 0.0.0.0 xtify.com
 0.0.0.0 api.xtify.com
@@ -8598,10 +8609,14 @@
 0.0.0.0 demdex.net
 0.0.0.0 fast.aexp.demdex.net
 0.0.0.0 bestbuy.demdex.net
+0.0.0.0 cbsi.demdex.net
+0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 dpm.demdex.net
+0.0.0.0 edge-va6.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 foxnet.demdex.net
+0.0.0.0 gslb.demdex.net
 0.0.0.0 intelcorp.demdex.net
 0.0.0.0 fast.mtvn.demdex.net
 0.0.0.0 pepsico.demdex.net
@@ -8613,6 +8628,7 @@
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
 0.0.0.0 vivaki.demdex.net
+0.0.0.0 xfinitydigital.demdex.net
 0.0.0.0 districtm.net
 0.0.0.0 bamboo.districtm.net
 0.0.0.0 bamboo-testing.districtm.net
@@ -8671,6 +8687,8 @@
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 scorecardresearch.com.edgekey.net
 0.0.0.0 sb.scorecardresearch.com.edgekey.net
+0.0.0.0 sdx.xfinity.com.edgekey.net
+0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 sp.escapicon.net
 0.0.0.0 www.sp.escapicon.net
@@ -8707,6 +8725,7 @@
 0.0.0.0 vip-ads-tpx.stg.ads.aws.fwmrm.net
 0.0.0.0 dev.cyclone.aws.fwmrm.net
 0.0.0.0 prod.cyclone.aws.fwmrm.net
+0.0.0.0 stg.cyclone.aws.fwmrm.net
 0.0.0.0 dev.aws.fwmrm.net
 0.0.0.0 fw1.aws.fwmrm.net
 0.0.0.0 fwsso.aws.fwmrm.net
@@ -8732,9 +8751,11 @@
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 ny5expe.fwmrm.net
 0.0.0.0 s.fwmrm.net
+0.0.0.0 g5.s.fwmrm.net
 0.0.0.0 stg.fwmrm.net
 0.0.0.0 v.stg.fwmrm.net
 0.0.0.0 v.fwmrm.net
+0.0.0.0 7468.v.fwmrm.net
 0.0.0.0 adserver.game-focus.net
 0.0.0.0 www.adserver.game-focus.net
 0.0.0.0 www.quotes.gb.net
