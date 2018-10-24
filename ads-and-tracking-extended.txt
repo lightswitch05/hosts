@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-24T17:39:21+00:00
-# Count: 10021 domains
+# Released: 2018-10-24T20:40:11+00:00
+# Count: 10044 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3751,6 +3751,29 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 c.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 metric.gstatic.com
+0.0.0.0 anycast.metric.gstatic.com
+0.0.0.0 anycast-stb.metric.gstatic.com
+0.0.0.0 anycast1.metric.gstatic.com
+0.0.0.0 anycast1-stb.metric.gstatic.com
+0.0.0.0 anycast2.metric.gstatic.com
+0.0.0.0 anycast2-stb.metric.gstatic.com
+0.0.0.0 ds.metric.gstatic.com
+0.0.0.0 stbcast.metric.gstatic.com
+0.0.0.0 stbcast-stb.metric.gstatic.com
+0.0.0.0 stbcast2.metric.gstatic.com
+0.0.0.0 stbcast2-stb.metric.gstatic.com
+0.0.0.0 stbcast3.metric.gstatic.com
+0.0.0.0 stbcast3-stb.metric.gstatic.com
+0.0.0.0 stbcast4.metric.gstatic.com
+0.0.0.0 stbcast4-stb.metric.gstatic.com
+0.0.0.0 stbcast5.metric.gstatic.com
+0.0.0.0 stbcast5-stb.metric.gstatic.com
+0.0.0.0 unicast.metric.gstatic.com
+0.0.0.0 unicast-stb.metric.gstatic.com
+0.0.0.0 unicast2.metric.gstatic.com
+0.0.0.0 unicast2-stb.metric.gstatic.com
+0.0.0.0 v4.metric.gstatic.com
 0.0.0.0 adserver.gtcmovies.com
 0.0.0.0 www.adserver.gtcmovies.com
 0.0.0.0 gumgum.com
