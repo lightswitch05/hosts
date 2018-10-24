@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-23T18:36:09+00:00
-# Count: 10018 domains
+# Released: 2018-10-24T17:39:21+00:00
+# Count: 10021 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5497,6 +5497,7 @@
 0.0.0.0 learn.optimizely.com
 0.0.0.0 learn-new.optimizely.com
 0.0.0.0 log.optimizely.com
+0.0.0.0 341800575.log.optimizely.com
 0.0.0.0 log3.optimizely.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lpo.optimizely.com
@@ -5930,6 +5931,8 @@
 0.0.0.0 parallel.qwapi.com
 0.0.0.0 psfeed.qwapi.com
 0.0.0.0 www.qwapi.com
+0.0.0.0 ralphreed.com
+0.0.0.0 www.ralphreed.com
 0.0.0.0 adserver.rankedbyreview.com
 0.0.0.0 www.adserver.rankedbyreview.com
 0.0.0.0 roiq-vice.ranker.com
