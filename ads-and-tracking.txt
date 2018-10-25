@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-24T21:06:55+00:00
-# Count: 1970 domains
+# Released: 2018-10-25T19:05:43+00:00
+# Count: 1972 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -684,6 +684,7 @@
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 assets.kochava.com
 0.0.0.0 imp.control.kochava.com
+0.0.0.0 kompasads.com
 0.0.0.0 sstats.kroger.com
 0.0.0.0 static.lakana.com
 0.0.0.0 app.intuit.launchdarkly.com
@@ -1441,6 +1442,7 @@
 0.0.0.0 yottaa.com
 0.0.0.0 zemanta.com
 0.0.0.0 wprp.zemanta.com
+0.0.0.0 analytics.zg-api.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
