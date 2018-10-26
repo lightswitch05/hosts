@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-26T15:01:57+00:00
-# Count: 1974 domains
+# Released: 2018-10-26T15:10:33+00:00
+# Count: 1986 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -44,6 +44,7 @@
 0.0.0.0 stats.jpush.cn
 0.0.0.0 6sc.co
 0.0.0.0 j.6sc.co
+0.0.0.0 prebid.adnxs.co
 0.0.0.0 adpxl.co
 0.0.0.0 adpxljs.adpxl.co
 0.0.0.0 fl.adpxl.co
@@ -108,6 +109,7 @@
 0.0.0.0 admedo.com
 0.0.0.0 pj.l.admedo.com
 0.0.0.0 adnxs.com
+0.0.0.0 acdn.adnxs.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
@@ -443,6 +445,8 @@
 0.0.0.0 crazyclickstats.com
 0.0.0.0 events.crazyclickstats.com
 0.0.0.0 insights.creativeallies.com
+0.0.0.0 creativecdn.com
+0.0.0.0 pubs2-asia.creativecdn.com
 0.0.0.0 sponge.creditkarma.com
 0.0.0.0 metrics.creditreport.com
 0.0.0.0 criteo.com
@@ -565,6 +569,7 @@
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 gaeadata.com
 0.0.0.0 gdtmdc.gaeadata.com
+0.0.0.0 hb.gammaplatform.com
 0.0.0.0 getambassador.com
 0.0.0.0 cdn.getambassador.com
 0.0.0.0 pixel.getchute.com
@@ -688,6 +693,7 @@
 0.0.0.0 imp.control.kochava.com
 0.0.0.0 kompasads.com
 0.0.0.0 sstats.kroger.com
+0.0.0.0 hb.kumma.com
 0.0.0.0 static.lakana.com
 0.0.0.0 app.intuit.launchdarkly.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
@@ -1078,6 +1084,8 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 rxthdr.com
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 ryke4peep.com
@@ -1462,6 +1470,8 @@
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
+0.0.0.0 props.id
+0.0.0.0 st-a.props.id
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -1471,6 +1481,8 @@
 0.0.0.0 tag.1rx.io
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
+0.0.0.0 admp.io
+0.0.0.0 d.admp.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 public-analytics.useast.atlassian.io
 0.0.0.0 auth.avs.io
