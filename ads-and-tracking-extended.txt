@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-26T15:10:33+00:00
-# Count: 10158 domains
+# Released: 2018-10-26T15:14:58+00:00
+# Count: 10164 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -9037,6 +9037,12 @@
 0.0.0.0 rg1.testcluster.imprev.net
 0.0.0.0 rg2.testcluster.imprev.net
 0.0.0.0 rw.testcluster.imprev.net
+0.0.0.0 innity.net
+0.0.0.0 avd.innity.net
+0.0.0.0 ssl-cdn.media.innity.net
+0.0.0.0 vcdn.media.innity.net
+0.0.0.0 www.vcdn.media.innity.net
+0.0.0.0 ssl-avd.innity.net
 0.0.0.0 inscname.net
 0.0.0.0 a23.boston.inscname.net
 0.0.0.0 a001.bostonglobe.inscname.net
