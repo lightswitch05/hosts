@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-26T15:01:57+00:00
-# Count: 10126 domains
+# Released: 2018-10-26T15:10:33+00:00
+# Count: 10158 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -64,6 +64,7 @@
 0.0.0.0 p.6sc.co
 0.0.0.0 s.6sc.co
 0.0.0.0 t.6sc.co
+0.0.0.0 prebid.adnxs.co
 0.0.0.0 adpxl.co
 0.0.0.0 adpxljs.adpxl.co
 0.0.0.0 fl.adpxl.co
@@ -2359,6 +2360,28 @@
 0.0.0.0 crazyclickstats.com
 0.0.0.0 events.crazyclickstats.com
 0.0.0.0 insights.creativeallies.com
+0.0.0.0 creativecdn.com
+0.0.0.0 00.creativecdn.com
+0.0.0.0 08.creativecdn.com
+0.0.0.0 10.creativecdn.com
+0.0.0.0 18.creativecdn.com
+0.0.0.0 19.creativecdn.com
+0.0.0.0 20.creativecdn.com
+0.0.0.0 21.creativecdn.com
+0.0.0.0 22.creativecdn.com
+0.0.0.0 23.creativecdn.com
+0.0.0.0 24.creativecdn.com
+0.0.0.0 25.creativecdn.com
+0.0.0.0 26.creativecdn.com
+0.0.0.0 aff.creativecdn.com
+0.0.0.0 afx.creativecdn.com
+0.0.0.0 pubs2-asia.creativecdn.com
+0.0.0.0 statics-asia.creativecdn.com
+0.0.0.0 statics-europe.creativecdn.com
+0.0.0.0 statics-usa.creativecdn.com
+0.0.0.0 traffic-statics-asia.creativecdn.com
+0.0.0.0 traffic-statics-europe.creativecdn.com
+0.0.0.0 traffic-statics-usa.creativecdn.com
 0.0.0.0 sponge.creditkarma.com
 0.0.0.0 metrics.creditreport.com
 0.0.0.0 criteo.com
@@ -3727,6 +3750,7 @@
 0.0.0.0 kylin.gaeadata.com
 0.0.0.0 ldap.gaeadata.com
 0.0.0.0 ldap-admin.gaeadata.com
+0.0.0.0 hb.gammaplatform.com
 0.0.0.0 getambassador.com
 0.0.0.0 admin.getambassador.com
 0.0.0.0 app.getambassador.com
@@ -4584,6 +4608,8 @@
 0.0.0.0 ads8.kompasads.com
 0.0.0.0 sstats.kroger.com
 0.0.0.0 www.sstats.kroger.com
+0.0.0.0 hb.kumma.com
+0.0.0.0 www.hb.kumma.com
 0.0.0.0 static.lakana.com
 0.0.0.0 app.intuit.launchdarkly.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
@@ -6166,6 +6192,7 @@
 0.0.0.0 www.login.rubiconproject.com
 0.0.0.0 mrp.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
+0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 qa.rubiconproject.com
 0.0.0.0 rubibid.rubiconproject.com
 0.0.0.0 secure-assets.rubiconproject.com
@@ -8077,6 +8104,9 @@
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
+0.0.0.0 props.id
+0.0.0.0 st-a.props.id
+0.0.0.0 st-insight.props.id
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
 0.0.0.0 applifier.info
@@ -8097,6 +8127,8 @@
 0.0.0.0 support.5rocks.io
 0.0.0.0 www.support.5rocks.io
 0.0.0.0 www.5rocks.io
+0.0.0.0 admp.io
+0.0.0.0 d.admp.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 www.insights.algolia.io
 0.0.0.0 public-analytics.useast.atlassian.io
