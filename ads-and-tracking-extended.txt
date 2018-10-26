@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-25T19:05:43+00:00
-# Count: 10124 domains
+# Released: 2018-10-26T15:01:57+00:00
+# Count: 10126 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2531,6 +2531,8 @@
 0.0.0.0 adserver.densitymedia.com
 0.0.0.0 srepdata.desmoinesregister.com
 0.0.0.0 user.desmoinesregister.com
+0.0.0.0 cdnstatic.detik.com
+0.0.0.0 newrevive.detik.com
 0.0.0.0 metrics.dickssportinggoods.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 digitalremedy.com
