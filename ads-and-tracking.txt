@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-29T12:44:15+00:00
-# Count: 2002 domains
+# Released: 2018-10-29T13:06:20+00:00
+# Count: 2021 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -125,6 +125,8 @@
 0.0.0.0 pandoramedia-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 pandoramedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 adobedtm.com
+0.0.0.0 adotmob.com
+0.0.0.0 sync.adotmob.com
 0.0.0.0 adpredictive.com
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
@@ -461,6 +463,16 @@
 0.0.0.0 api.curalate.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 metrics.cvshealth.com
+0.0.0.0 logger-01.vty.dailymotion.com
+0.0.0.0 logger-02.vty.dailymotion.com
+0.0.0.0 logger-03.vty.dailymotion.com
+0.0.0.0 logger-04.vty.dailymotion.com
+0.0.0.0 logger-05.vty.dailymotion.com
+0.0.0.0 logger-06.vty.dailymotion.com
+0.0.0.0 logger-07.vty.dailymotion.com
+0.0.0.0 logger-08.vty.dailymotion.com
+0.0.0.0 logger-09.vty.dailymotion.com
+0.0.0.0 logger-10.vty.dailymotion.com
 0.0.0.0 metrics.daveandbusters.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
@@ -500,6 +512,8 @@
 0.0.0.0 dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 js-cdn.dynatrace.com
+0.0.0.0 dyntrk.com
+0.0.0.0 gu.dyntrk.com
 0.0.0.0 e0mn.com
 0.0.0.0 p.d.e0mn.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
@@ -1273,7 +1287,9 @@
 0.0.0.0 eu2.thunderhead.com
 0.0.0.0 na5.thunderhead.com
 0.0.0.0 tracking.tidalhifi.com
+0.0.0.0 tidaltv.com
 0.0.0.0 dmp.tidaltv.com
+0.0.0.0 sync.tidaltv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -1479,6 +1495,7 @@
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
+0.0.0.0 hit-log.viva.co.id
 0.0.0.0 props.id
 0.0.0.0 st-a.props.id
 0.0.0.0 pixel.affcamp.co.in
@@ -1710,6 +1727,8 @@
 0.0.0.0 vivaki.demdex.net
 0.0.0.0 xfinitydigital.demdex.net
 0.0.0.0 districtm.net
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 fls.doubleclick.net
