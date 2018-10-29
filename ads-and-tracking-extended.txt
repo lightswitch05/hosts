@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-29T12:36:14+00:00
-# Count: 10274 domains
+# Released: 2018-10-29T12:44:15+00:00
+# Count: 10300 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -269,6 +269,22 @@
 0.0.0.0 js.ad-score.com
 0.0.0.0 www.js.ad-score.com
 0.0.0.0 rdrs.ad-score.com
+0.0.0.0 adasiaholdings.com
+0.0.0.0 adnetwork.adasiaholdings.com
+0.0.0.0 www.adnetwork.adasiaholdings.com
+0.0.0.0 ads.adasiaholdings.com
+0.0.0.0 blog.adasiaholdings.com
+0.0.0.0 cdn.adasiaholdings.com
+0.0.0.0 www.cdn.adasiaholdings.com
+0.0.0.0 desk.adasiaholdings.com
+0.0.0.0 dev.adasiaholdings.com
+0.0.0.0 media.adasiaholdings.com
+0.0.0.0 pixel.adasiaholdings.com
+0.0.0.0 platform.adasiaholdings.com
+0.0.0.0 publishers.adasiaholdings.com
+0.0.0.0 api.publishers.adasiaholdings.com
+0.0.0.0 stg.api.publishers.adasiaholdings.com
+0.0.0.0 www.adasiaholdings.com
 0.0.0.0 adbiq.com
 0.0.0.0 c.adbiq.com
 0.0.0.0 click.adbiq.com
@@ -487,6 +503,11 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 tap.ads-twitter.com
 0.0.0.0 www.ads-twitter.com
+0.0.0.0 ads1-adnow.com
+0.0.0.0 n.ads1-adnow.com
+0.0.0.0 st.n.ads1-adnow.com
+0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 www.ads1-adnow.com
 0.0.0.0 adsorb.com
 0.0.0.0 collect.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
@@ -6954,6 +6975,7 @@
 0.0.0.0 support.swrve.com
 0.0.0.0 us-fs10-mitm-api.swrve.com
 0.0.0.0 us-fs12-mitm-api.swrve.com
+0.0.0.0 asset.tabloidbintang.com
 0.0.0.0 taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 accessrequest.taboola.com
@@ -8379,6 +8401,9 @@
 0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
+0.0.0.0 dable.io
+0.0.0.0 images.dable.io
+0.0.0.0 static.dable.io
 0.0.0.0 districtm.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dev.cdn.districtm.io
@@ -8937,6 +8962,7 @@
 0.0.0.0 sb.scorecardresearch.com.edgekey.net
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com.edgekey.net
+0.0.0.0 static.dable.io.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 sp.escapicon.net
 0.0.0.0 www.sp.escapicon.net
