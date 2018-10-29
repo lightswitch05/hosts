@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-26T15:14:58+00:00
-# Count: 10164 domains
+# Released: 2018-10-29T12:24:34+00:00
+# Count: 10273 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -2038,6 +2038,7 @@
 0.0.0.0 iad-01.braze.com
 0.0.0.0 iad-02.braze.com
 0.0.0.0 iad-03.braze.com
+0.0.0.0 epsilon.iad-03.braze.com
 0.0.0.0 yildun.iad-03.braze.com
 0.0.0.0 iad-04.braze.com
 0.0.0.0 iad-06.braze.com
@@ -3370,6 +3371,112 @@
 0.0.0.0 www.workday.exponential.com
 0.0.0.0 workdaylab.exponential.com
 0.0.0.0 www.workdaylab.exponential.com
+0.0.0.0 extremereach.com
+0.0.0.0 adcloud.extremereach.com
+0.0.0.0 ads.extremereach.com
+0.0.0.0 agents.extremereach.com
+0.0.0.0 east.aod.extremereach.com
+0.0.0.0 west.aod.extremereach.com
+0.0.0.0 api.extremereach.com
+0.0.0.0 app.extremereach.com
+0.0.0.0 aspera.extremereach.com
+0.0.0.0 east.aspera.extremereach.com
+0.0.0.0 east.faspex.aspera.extremereach.com
+0.0.0.0 west.faspex.aspera.extremereach.com
+0.0.0.0 west.aspera.extremereach.com
+0.0.0.0 audit.extremereach.com
+0.0.0.0 api.beta.extremereach.com
+0.0.0.0 brand.extremereach.com
+0.0.0.0 canada.extremereach.com
+0.0.0.0 agents.extremereach.com.extremereach.com
+0.0.0.0 api.extremereach.com.extremereach.com
+0.0.0.0 app.extremereach.com.extremereach.com
+0.0.0.0 aspera.extremereach.com.extremereach.com
+0.0.0.0 east.aspera.extremereach.com.extremereach.com
+0.0.0.0 east.faspex.aspera.extremereach.com.extremereach.com
+0.0.0.0 west.faspex.aspera.extremereach.com.extremereach.com
+0.0.0.0 west.aspera.extremereach.com.extremereach.com
+0.0.0.0 canada.extremereach.com.extremereach.com
+0.0.0.0 services.extremereach.com.extremereach.com
+0.0.0.0 dev.extremereach.com
+0.0.0.0 abcnews.dev.extremereach.com
+0.0.0.0 agents.dev.extremereach.com
+0.0.0.0 api.dev.extremereach.com
+0.0.0.0 app.dev.extremereach.com
+0.0.0.0 canada.dev.extremereach.com
+0.0.0.0 download.dev.extremereach.com
+0.0.0.0 foxnews.dev.extremereach.com
+0.0.0.0 east.ftp.dev.extremereach.com
+0.0.0.0 west.ftp.dev.extremereach.com
+0.0.0.0 identity.dev.extremereach.com
+0.0.0.0 api.internal.dev.extremereach.com
+0.0.0.0 iva.dev.extremereach.com
+0.0.0.0 services.dev.extremereach.com
+0.0.0.0 sftp.dev.extremereach.com
+0.0.0.0 sourcecreative.dev.extremereach.com
+0.0.0.0 east.webftp.dev.extremereach.com
+0.0.0.0 west.webftp.dev.extremereach.com
+0.0.0.0 devapp.extremereach.com
+0.0.0.0 devsvn.extremereach.com
+0.0.0.0 digital.extremereach.com
+0.0.0.0 download.extremereach.com
+0.0.0.0 secure.eastftp.extremereach.com
+0.0.0.0 expwye-rsw1.corp.er.extremereach.com
+0.0.0.0 east.cloud.ftp.extremereach.com
+0.0.0.0 svr1.east.cloud.ftp.extremereach.com
+0.0.0.0 svr2.east.cloud.ftp.extremereach.com
+0.0.0.0 west.cloud.ftp.extremereach.com
+0.0.0.0 svr1.west.cloud.ftp.extremereach.com
+0.0.0.0 svr2.west.cloud.ftp.extremereach.com
+0.0.0.0 east.ftp.extremereach.com
+0.0.0.0 ftp-api-01-prod.east.ftp.extremereach.com
+0.0.0.0 support.east.ftp.extremereach.com
+0.0.0.0 talent.ftp.extremereach.com
+0.0.0.0 west.ftp.extremereach.com
+0.0.0.0 support.west.ftp.extremereach.com
+0.0.0.0 ftpchi1.extremereach.com
+0.0.0.0 ftpchi2.extremereach.com
+0.0.0.0 ftpdal1.extremereach.com
+0.0.0.0 ftpgil1.extremereach.com
+0.0.0.0 ftplac1.extremereach.com
+0.0.0.0 ftplac2.extremereach.com
+0.0.0.0 ftpnyc1.extremereach.com
+0.0.0.0 ftpnyc2.extremereach.com
+0.0.0.0 ftpsfo1.extremereach.com
+0.0.0.0 ftpsfo2.extremereach.com
+0.0.0.0 git.extremereach.com
+0.0.0.0 identity.extremereach.com
+0.0.0.0 api.internal.extremereach.com
+0.0.0.0 iva.extremereach.com
+0.0.0.0 mailing.extremereach.com
+0.0.0.0 marketing.extremereach.com
+0.0.0.0 east.prtg.extremereach.com
+0.0.0.0 west.prtg.extremereach.com
+0.0.0.0 remote.extremereach.com
+0.0.0.0 sma-lac1.remote.extremereach.com
+0.0.0.0 sma-lac2.remote.extremereach.com
+0.0.0.0 sma-rsw1.remote.extremereach.com
+0.0.0.0 sma-rsw2.remote.extremereach.com
+0.0.0.0 portal.reports.extremereach.com
+0.0.0.0 services.extremereach.com
+0.0.0.0 sftp.extremereach.com
+0.0.0.0 dev.sftp.extremereach.com
+0.0.0.0 east.sftp.extremereach.com
+0.0.0.0 west.sftp.extremereach.com
+0.0.0.0 so.extremereach.com
+0.0.0.0 st.extremereach.com
+0.0.0.0 syndication.extremereach.com
+0.0.0.0 talent.extremereach.com
+0.0.0.0 doc.talent.extremereach.com
+0.0.0.0 docs.talent.extremereach.com
+0.0.0.0 transfer.extremereach.com
+0.0.0.0 trust.extremereach.com
+0.0.0.0 uikit.extremereach.com
+0.0.0.0 east.webftp.extremereach.com
+0.0.0.0 west.webftp.extremereach.com
+0.0.0.0 secure.westftp.extremereach.com
+0.0.0.0 www.extremereach.com
+0.0.0.0 zeiterasearch.extremereach.com
 0.0.0.0 ezwebsitetraffic.com
 0.0.0.0 adserver.ezwebsitetraffic.com
 0.0.0.0 www.adserver.ezwebsitetraffic.com
@@ -8745,6 +8852,7 @@
 0.0.0.0 www.reports.datamark.net
 0.0.0.0 www.datamark.net
 0.0.0.0 demdex.net
+0.0.0.0 aexp.demdex.net
 0.0.0.0 fast.aexp.demdex.net
 0.0.0.0 bestbuy.demdex.net
 0.0.0.0 cbsi.demdex.net
@@ -8753,6 +8861,7 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 edge-va6.demdex.net
 0.0.0.0 fandangollc.demdex.net
+0.0.0.0 ford.demdex.net
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 gslb.demdex.net
 0.0.0.0 intelcorp.demdex.net
