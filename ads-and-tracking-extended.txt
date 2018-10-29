@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-29T12:44:15+00:00
-# Count: 10300 domains
+# Released: 2018-10-29T13:06:20+00:00
+# Count: 10377 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -430,6 +430,34 @@
 0.0.0.0 activation.adobedtm.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 sslproxy-prod.adobedtm.com
+0.0.0.0 adotmob.com
+0.0.0.0 git.adotmob.com
+0.0.0.0 git-pages.adotmob.com
+0.0.0.0 gitlab.adotmob.com
+0.0.0.0 ldap.adotmob.com
+0.0.0.0 ldap-2.adotmob.com
+0.0.0.0 presto-internals.adotmob.com
+0.0.0.0 presto-ldap.adotmob.com
+0.0.0.0 presto-prod.adotmob.com
+0.0.0.0 staging.adotmob.com
+0.0.0.0 tracker.staging.adotmob.com
+0.0.0.0 staging-analytics.adotmob.com
+0.0.0.0 tracker.staging-analytics.adotmob.com
+0.0.0.0 staging-dmp.adotmob.com
+0.0.0.0 tracker.staging-dmp.adotmob.com
+0.0.0.0 staging-dps.adotmob.com
+0.0.0.0 staging-dsp.adotmob.com
+0.0.0.0 tracker.staging-dsp.adotmob.com
+0.0.0.0 staging-vault.adotmob.com
+0.0.0.0 sync.adotmob.com
+0.0.0.0 sync-ovh.adotmob.com
+0.0.0.0 sync-test.adotmob.com
+0.0.0.0 test-letsencrypt.adotmob.com
+0.0.0.0 tracker.adotmob.com
+0.0.0.0 tracker-asia.adotmob.com
+0.0.0.0 tracker-us-east.adotmob.com
+0.0.0.0 vault.adotmob.com
+0.0.0.0 website-beta.adotmob.com
 0.0.0.0 adpredictive.com
 0.0.0.0 cdn.adpredictive.com
 0.0.0.0 demo.adpredictive.com
@@ -2528,6 +2556,16 @@
 0.0.0.0 zero.curalate.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 metrics.cvshealth.com
+0.0.0.0 logger-01.vty.dailymotion.com
+0.0.0.0 logger-02.vty.dailymotion.com
+0.0.0.0 logger-03.vty.dailymotion.com
+0.0.0.0 logger-04.vty.dailymotion.com
+0.0.0.0 logger-05.vty.dailymotion.com
+0.0.0.0 logger-06.vty.dailymotion.com
+0.0.0.0 logger-07.vty.dailymotion.com
+0.0.0.0 logger-08.vty.dailymotion.com
+0.0.0.0 logger-09.vty.dailymotion.com
+0.0.0.0 logger-10.vty.dailymotion.com
 0.0.0.0 metrics.daveandbusters.com
 0.0.0.0 www.metrics.daveandbusters.com
 0.0.0.0 match.deepintent.com
@@ -2819,6 +2857,27 @@
 0.0.0.0 www.zulip.dynamicyield.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 www.js-cdn.dynatrace.com
+0.0.0.0 dyntrk.com
+0.0.0.0 c.ap1.dyntrk.com
+0.0.0.0 n.ap1.dyntrk.com
+0.0.0.0 t.ap1.dyntrk.com
+0.0.0.0 c.ap2.dyntrk.com
+0.0.0.0 n.ap2.dyntrk.com
+0.0.0.0 t.ap2.dyntrk.com
+0.0.0.0 n.as1.dyntrk.com
+0.0.0.0 c.eu1.dyntrk.com
+0.0.0.0 n.eu1.dyntrk.com
+0.0.0.0 t.eu1.dyntrk.com
+0.0.0.0 n.eu2.dyntrk.com
+0.0.0.0 g.dyntrk.com
+0.0.0.0 gu.dyntrk.com
+0.0.0.0 n.dyntrk.com
+0.0.0.0 g.t.dyntrk.com
+0.0.0.0 n.us.dyntrk.com
+0.0.0.0 c.us1.dyntrk.com
+0.0.0.0 n.us1.dyntrk.com
+0.0.0.0 t.us1.dyntrk.com
+0.0.0.0 n.us2.dyntrk.com
 0.0.0.0 e0mn.com
 0.0.0.0 d.e0mn.com
 0.0.0.0 p.d.e0mn.com
@@ -7262,7 +7321,22 @@
 0.0.0.0 ytest.thunderhead.com
 0.0.0.0 ztest.thunderhead.com
 0.0.0.0 tracking.tidalhifi.com
+0.0.0.0 tidaltv.com
+0.0.0.0 afp.tidaltv.com
+0.0.0.0 www.afp.tidaltv.com
 0.0.0.0 dmp.tidaltv.com
+0.0.0.0 fs.tidaltv.com
+0.0.0.0 www.fs.tidaltv.com
+0.0.0.0 pwc.tidaltv.com
+0.0.0.0 www.pwc.tidaltv.com
+0.0.0.0 set.tidaltv.com
+0.0.0.0 www.set.tidaltv.com
+0.0.0.0 sync.tidaltv.com
+0.0.0.0 trk.tidaltv.com
+0.0.0.0 www.trk.tidaltv.com
+0.0.0.0 post.update.tidaltv.com
+0.0.0.0 s.update.tidaltv.com
+0.0.0.0 t.update.tidaltv.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -8234,6 +8308,7 @@
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
+0.0.0.0 hit-log.viva.co.id
 0.0.0.0 props.id
 0.0.0.0 st-a.props.id
 0.0.0.0 st-insight.props.id
@@ -8915,6 +8990,8 @@
 0.0.0.0 www.swag.districtm.net
 0.0.0.0 try-go.districtm.net
 0.0.0.0 video.districtm.net
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 au.doubleclick.net
