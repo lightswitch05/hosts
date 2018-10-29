@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-29T12:36:14+00:00
-# Count: 1994 domains
+# Released: 2018-10-29T12:44:15+00:00
+# Count: 2002 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -86,6 +86,8 @@
 0.0.0.0 xhr.acrabakasaka.com
 0.0.0.0 ad-score.com
 0.0.0.0 data.ad-score.com
+0.0.0.0 adasiaholdings.com
+0.0.0.0 adnetwork.adasiaholdings.com
 0.0.0.0 adbiq.com
 0.0.0.0 adbull.com
 0.0.0.0 adcolony.com
@@ -132,6 +134,8 @@
 0.0.0.0 adroll.com
 0.0.0.0 s.adroll.com
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads1-adnow.com
+0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 adsorb.com
 0.0.0.0 collect.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
@@ -1222,6 +1226,7 @@
 0.0.0.0 2712.content.swrve.com
 0.0.0.0 30073.content.swrve.com
 0.0.0.0 content-cdn.swrve.com
+0.0.0.0 asset.tabloidbintang.com
 0.0.0.0 taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 c2.taboola.com
@@ -1501,6 +1506,8 @@
 0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
+0.0.0.0 dable.io
+0.0.0.0 static.dable.io
 0.0.0.0 districtm.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
@@ -1736,6 +1743,7 @@
 0.0.0.0 sb.scorecardresearch.com.edgekey.net
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com.edgekey.net
+0.0.0.0 static.dable.io.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
