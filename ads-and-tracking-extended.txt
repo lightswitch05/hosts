@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-30T13:45:26+00:00
-# Count: 10436 domains
+# Released: 2018-10-30T20:18:17+00:00
+# Count: 10444 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3692,6 +3692,7 @@
 0.0.0.0 www.fiksu.com
 0.0.0.0 flurry.com
 0.0.0.0 admanagerplus.flurry.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 auth-canary.flurry.com
 0.0.0.0 blog.flurry.com
 0.0.0.0 canary.flurry.com
@@ -3699,6 +3700,7 @@
 0.0.0.0 cdn.flurry.com
 0.0.0.0 corp.flurry.com
 0.0.0.0 dev-x.flurry.com
+0.0.0.0 druid-broker.flurry.com
 0.0.0.0 ecto-stg.flurry.com
 0.0.0.0 explorer-staging.flurry.com
 0.0.0.0 gw.flurry.com
@@ -6293,6 +6295,7 @@
 0.0.0.0 cdn.roiq-vice.ranker.com
 0.0.0.0 metrics.ranklocal.com
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 analytics.rayjump.com
 0.0.0.0 realclever.com
 0.0.0.0 pixel.realclever.com
 0.0.0.0 smetrics.realtor.com
@@ -7034,6 +7037,10 @@
 0.0.0.0 www.referral.supersonic.com
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 www.supersonic.com
+0.0.0.0 supersonicads.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 sonic-dev.supersonicads.com
+0.0.0.0 sonic-us.supersonicads.com
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 www.pixel.surpasshosting.com
 0.0.0.0 survata.com

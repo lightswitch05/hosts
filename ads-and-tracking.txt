@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-10-30T13:45:26+00:00
-# Count: 2029 domains
+# Released: 2018-10-30T20:18:17+00:00
+# Count: 2034 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -565,6 +565,7 @@
 0.0.0.0 fiksu.com
 0.0.0.0 a.fiksu.com
 0.0.0.0 flurry.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 proton.flurry.com
 0.0.0.0 ad.foodlion.com
 0.0.0.0 footprintdns.com
@@ -1070,6 +1071,7 @@
 0.0.0.0 cdn.roiq-vice.ranker.com
 0.0.0.0 metrics.ranklocal.com
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 analytics.rayjump.com
 0.0.0.0 realclever.com
 0.0.0.0 pixel.realclever.com
 0.0.0.0 smetrics.realtor.com
@@ -1229,6 +1231,8 @@
 0.0.0.0 supersonic.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 tag-mediation.supersonic.com
+0.0.0.0 supersonicads.com
+0.0.0.0 init.supersonicads.com
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 survata.com
 0.0.0.0 ev.surveywall-api.survata.com
