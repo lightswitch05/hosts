@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-29T20:08:32+00:00
-# Count: 10376 domains
+# Released: 2018-10-30T13:45:26+00:00
+# Count: 10436 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -1293,6 +1293,60 @@
 0.0.0.0 www-stage.agkn.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 log.aimtell.com
+0.0.0.0 airfind.com
+0.0.0.0 admin.airfind.com
+0.0.0.0 analytics.airfind.com
+0.0.0.0 android.airfind.com
+0.0.0.0 api.airfind.com
+0.0.0.0 apps.airfind.com
+0.0.0.0 api.apps.airfind.com
+0.0.0.0 api.be.airfind.com
+0.0.0.0 budget.airfind.com
+0.0.0.0 cdn.airfind.com
+0.0.0.0 www.cdn.airfind.com
+0.0.0.0 cdn2.airfind.com
+0.0.0.0 cdn3.airfind.com
+0.0.0.0 api.config.airfind.com
+0.0.0.0 dev.airfind.com
+0.0.0.0 admin.dev.airfind.com
+0.0.0.0 api.dev.airfind.com
+0.0.0.0 budgetmobile.dev.airfind.com
+0.0.0.0 dailyweather.dev.airfind.com
+0.0.0.0 lifewireless.dev.airfind.com
+0.0.0.0 uscell.dev.airfind.com
+0.0.0.0 geo.airfind.com
+0.0.0.0 geo200.airfind.com
+0.0.0.0 geo500.airfind.com
+0.0.0.0 portal.airfind.com
+0.0.0.0 search.airfind.com
+0.0.0.0 staging.airfind.com
+0.0.0.0 admin.staging.airfind.com
+0.0.0.0 analytics.staging.airfind.com
+0.0.0.0 api.staging.airfind.com
+0.0.0.0 budgetmobile.staging.airfind.com
+0.0.0.0 dailyweather.staging.airfind.com
+0.0.0.0 lifewireless.staging.airfind.com
+0.0.0.0 mysite.myfamilymobile.staging.airfind.com
+0.0.0.0 mysite.net10.staging.airfind.com
+0.0.0.0 mysites.net10.staging.airfind.com
+0.0.0.0 mysite.pagepluscellular.staging.airfind.com
+0.0.0.0 safelink.staging.airfind.com
+0.0.0.0 mysite.safelink.staging.airfind.com
+0.0.0.0 mysite.simplemobile.staging.airfind.com
+0.0.0.0 mysites.simplemobile.staging.airfind.com
+0.0.0.0 mysite.telcelamerica.staging.airfind.com
+0.0.0.0 mysites.telcelamerica.staging.airfind.com
+0.0.0.0 mysite.totalwireless.staging.airfind.com
+0.0.0.0 mysites.totalwireless.staging.airfind.com
+0.0.0.0 tracfone.staging.airfind.com
+0.0.0.0 g.tracfone.staging.airfind.com
+0.0.0.0 mysite.tracfone.staging.airfind.com
+0.0.0.0 mysites.tracfone.staging.airfind.com
+0.0.0.0 uscell.staging.airfind.com
+0.0.0.0 api.tf.airfind.com
+0.0.0.0 api.tfvpn.airfind.com
+0.0.0.0 uscell.airfind.com
+0.0.0.0 www.airfind.com
 0.0.0.0 airpr.com
 0.0.0.0 analyst.airpr.com
 0.0.0.0 analyst-stg-coursera.airpr.com
@@ -5627,6 +5681,7 @@
 0.0.0.0 optmnstr.awesomemotive.netdna-cdn.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
 0.0.0.0 assets.customerio.netdna-cdn.com
+0.0.0.0 airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
 0.0.0.0 scout.salesloft.netdna-cdn.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.geo.netflix.com
@@ -8993,6 +9048,7 @@
 0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 au.doubleclick.net
 0.0.0.0 ad.au.doubleclick.net
 0.0.0.0 bh1.doubleclick.net
@@ -9001,6 +9057,7 @@
 0.0.0.0 de.doubleclick.net
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
+0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 3944448.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 4354787.fls.doubleclick.net
@@ -9065,6 +9122,8 @@
 0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
+0.0.0.0 turner-tls.map.fastly.net
+0.0.0.0 prod.turner-tls.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 contextweb.map.fastlylb.net
 0.0.0.0 prod.contextweb.map.fastlylb.net
@@ -10150,6 +10209,7 @@
 0.0.0.0 sdk-cl.privacy-center.org
 0.0.0.0 staging.privacy-center.org
 0.0.0.0 api.staging.privacy-center.org
+0.0.0.0 www.privacy-center.org
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 www.adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
