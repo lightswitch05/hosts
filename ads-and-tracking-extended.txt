@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-10-30T20:18:17+00:00
-# Count: 10444 domains
+# Released: 2018-10-31T11:38:31+00:00
+# Count: 10447 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3993,6 +3993,10 @@
 0.0.0.0 ldap.gaeadata.com
 0.0.0.0 ldap-admin.gaeadata.com
 0.0.0.0 hb.gammaplatform.com
+0.0.0.0 log.getadblock.com
+0.0.0.0 www.log.getadblock.com
+0.0.0.0 ping.getadblock.com
+0.0.0.0 www.ping.getadblock.com
 0.0.0.0 getambassador.com
 0.0.0.0 admin.getambassador.com
 0.0.0.0 app.getambassador.com
