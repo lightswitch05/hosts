@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-10-30T13:41:14+00:00
-# Count: 1132 domains
+# Released: 2018-11-01T16:26:56+00:00
+# Count: 1135 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -23,6 +23,7 @@
 
 0.0.0.0 cortana.ai
 0.0.0.0 api.cortana.ai
+0.0.0.0 compliantcd.cortana.ai
 0.0.0.0 cortanacoreruntimemds.cortana.ai
 0.0.0.0 int.gdprexport.cortana.ai
 0.0.0.0 prod.gdprexport.cortana.ai
@@ -99,6 +100,7 @@
 0.0.0.0 akamai-san26.exacttarget.com
 0.0.0.0 akamai-san27.exacttarget.com
 0.0.0.0 akamai-san28.exacttarget.com
+0.0.0.0 akamai-san29.exacttarget.com
 0.0.0.0 akamai-san30.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
@@ -946,6 +948,7 @@
 0.0.0.0 fpt-api.pingdom.com
 0.0.0.0 get.pingdom.com
 0.0.0.0 www.get.pingdom.com
+0.0.0.0 go.pingdom.com
 0.0.0.0 help.pingdom.com
 0.0.0.0 www.help.pingdom.com
 0.0.0.0 heroku.pingdom.com
