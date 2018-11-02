@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-11-01T20:26:13+00:00
-# Count: 2037 domains
+# Released: 2018-11-02T14:00:16+00:00
+# Count: 2041 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -403,6 +403,7 @@
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
+0.0.0.0 c.cintnetworks.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
 0.0.0.0 analytics.civicplus.com
@@ -737,6 +738,8 @@
 0.0.0.0 lisnr.com
 0.0.0.0 livefyre.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 livesegmentservice.com
+0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 cdn.lmiutil.com
 0.0.0.0 localytics.com
 0.0.0.0 manifest.53.localytics.com
@@ -1690,6 +1693,7 @@
 0.0.0.0 carbonads.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 analytics.ccgateway.net
+0.0.0.0 pespn.chartbeat.net
 0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
@@ -1864,6 +1868,7 @@
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 crackle.hb.omtrdc.net
+0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
