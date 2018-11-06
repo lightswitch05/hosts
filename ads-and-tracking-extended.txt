@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-11-04T15:49:13+00:00
-# Count: 10525 domains
+# Released: 2018-11-06T15:14:56+00:00
+# Count: 10559 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3510,6 +3510,29 @@
 0.0.0.0 www.exacttarget.com
 0.0.0.0 xmpp.exacttarget.com
 0.0.0.0 ads.exdynsrv.com
+0.0.0.0 exelator.com
+0.0.0.0 action.exelator.com
+0.0.0.0 cdn.exelator.com
+0.0.0.0 integ.cdn.emp.exelator.com
+0.0.0.0 integ.emp.exelator.com
+0.0.0.0 insight.exelator.com
+0.0.0.0 load.exelator.com
+0.0.0.0 www.load.exelator.com
+0.0.0.0 load77.exelator.com
+0.0.0.0 loadan.exelator.com
+0.0.0.0 loadeu.exelator.com
+0.0.0.0 loadm.exelator.com
+0.0.0.0 loadpm.exelator.com
+0.0.0.0 loadr.exelator.com
+0.0.0.0 loadus.exelator.com
+0.0.0.0 loadvxny.exelator.com
+0.0.0.0 loadvxsc.exelator.com
+0.0.0.0 loadxl.exelator.com
+0.0.0.0 meta.exelator.com
+0.0.0.0 nyjexp001.exelator.com
+0.0.0.0 pwm.exelator.com
+0.0.0.0 sandbox.exelator.com
+0.0.0.0 zabbix.exelator.com
 0.0.0.0 dctk.expedia.com
 0.0.0.0 exponential.com
 0.0.0.0 aubrandsummit.exponential.com
@@ -6128,6 +6151,8 @@
 0.0.0.0 www.ssl2.pathful.com
 0.0.0.0 www.pathful.com
 0.0.0.0 pixel.perceptlink.com
+0.0.0.0 api.permutive.com
+0.0.0.0 cdn.permutive.com
 0.0.0.0 petametrics.com
 0.0.0.0 accounts.petametrics.com
 0.0.0.0 adx.petametrics.com
@@ -7470,6 +7495,8 @@
 0.0.0.0 www.1.tl813.com
 0.0.0.0 4.tl813.com
 0.0.0.0 www.4.tl813.com
+0.0.0.0 felix.data.tm-awx.com
+0.0.0.0 mab.data.tm-awx.com
 0.0.0.0 tmathtag.com
 0.0.0.0 mail.tmathtag.com
 0.0.0.0 owa.tmathtag.com
@@ -8846,6 +8873,11 @@
 0.0.0.0 sync-unosync-com.geodns.me
 0.0.0.0 pixel.shodan.me
 0.0.0.0 trace.pixel.shodan.me
+0.0.0.0 convrse.media
+0.0.0.0 api.convrse.media
+0.0.0.0 dev.convrse.media
+0.0.0.0 api.dev.convrse.media
+0.0.0.0 get.convrse.media
 0.0.0.0 marketing365.mk
 0.0.0.0 akademija.marketing365.mk
 0.0.0.0 www.akademija.marketing365.mk
@@ -10272,7 +10304,6 @@
 0.0.0.0 webedia.mgr.consensu.org
 0.0.0.0 wpm.mgr.consensu.org
 0.0.0.0 register.consensu.org
-0.0.0.0 vendorlist.consensu.org
 0.0.0.0 smetrics.consumerreports.org
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 ketchapp.org
@@ -10505,6 +10536,9 @@
 0.0.0.0 beacon.advertisingbeacon.co.uk
 0.0.0.0 swa.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
+0.0.0.0 grapeshot.co.uk
+0.0.0.0 trinitymirror.grapeshot.co.uk
+0.0.0.0 www.grapeshot.co.uk
 0.0.0.0 ssc.independent.co.uk
 0.0.0.0 nir.regmedia.co.uk
 0.0.0.0 metrics.dockerhub.us
