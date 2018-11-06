@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2018-11-01T16:26:56+00:00
-# Count: 83 domains
+# Released: 2018-11-06T15:14:46+00:00
+# Count: 84 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -99,6 +99,7 @@
 0.0.0.0 asimov.vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo-applefinance-cache.internal.query.g03.yahoodns.net
+0.0.0.0 vendorlist.consensu.org
 0.0.0.0 api.ipify.org
 0.0.0.0 geoscripts.meredith.services
 0.0.0.0 gomoxie.solutions
