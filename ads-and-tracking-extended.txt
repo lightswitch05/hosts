@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-11-07T16:11:05+00:00
-# Count: 10503 domains
+# Released: 2018-11-07T16:20:58+00:00
+# Count: 10518 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3882,6 +3882,21 @@
 0.0.0.0 r.staging.fullstory.com
 0.0.0.0 status.fullstory.com
 0.0.0.0 www.fullstory.com
+0.0.0.0 funnelenvy.com
+0.0.0.0 api.funnelenvy.com
+0.0.0.0 backstage.funnelenvy.com
+0.0.0.0 backstage-client.funnelenvy.com
+0.0.0.0 backstage-demo-page.funnelenvy.com
+0.0.0.0 backstage-staging-experimental.funnelenvy.com
+0.0.0.0 backstage-staging-ux.funnelenvy.com
+0.0.0.0 cdn2.funnelenvy.com
+0.0.0.0 cdn3.funnelenvy.com
+0.0.0.0 get.funnelenvy.com
+0.0.0.0 www.get.funnelenvy.com
+0.0.0.0 help.funnelenvy.com
+0.0.0.0 roi.funnelenvy.com
+0.0.0.0 so.funnelenvy.com
+0.0.0.0 www.funnelenvy.com
 0.0.0.0 fyber.com
 0.0.0.0 account.fyber.com
 0.0.0.0 acp.fyber.com
