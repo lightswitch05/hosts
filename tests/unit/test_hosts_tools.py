@@ -113,6 +113,11 @@ class TestHostTools(object):
         whitelist = hosts_tools.load_domains_from_whitelist('not-a-real-file.txt')
         assert len(whitelist) == 0
 
+    def test_reduce_domains(self):
+        reduced = hosts_tools.reduce_domains(self.TEST_DOMAINS)
+        assert reduced
+        assert not ***REMOVED***'a.com', 'b.com'***REMOVED***.difference(reduced)
+
     def teardown_class(self):
         if os.path.isfile(self.TEST_FILE_NAME):
             os.remove(self.TEST_FILE_NAME)

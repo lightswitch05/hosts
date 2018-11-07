@@ -61,6 +61,24 @@ def extract_domain(domain_entry: str) -> str:
     return ''
 
 
+def reduce_domains(domains: Set[str]) -> Set[str]:
+    reduced_domains = set()
+    for domain in domains:
+        domain_parts = domain.split('.')
+        domain_parts.reverse()
+        minimum_domain = None
+        for domain_part in domain_parts:
+            if not minimum_domain:
+                minimum_domain = domain_part
+            else:
+                minimum_domain = domain_part + '.' + minimum_domain
+            if minimum_domain in domains:
+                reduced_domains.add(minimum_domain)
+                break
+    print('Reduced query list from %s to %s' % (len(domains), len(reduced_domains)))
+    return reduced_domains
+
+
 def load_domains_from_list(file_name: str) -> Set[str]:
     domains = set()
     with open(file_name) as file:
