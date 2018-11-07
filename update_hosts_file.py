@@ -28,8 +28,9 @@ def main():
     expanded_domains_len_start = len(expanded_domains)
 
     if args.update:
-        expanded_domains = set()  # Clear it out since we're doing a full update
-        for domain in main_domains:
+        expanded_domains = set(main_domains)  # Clear it out since we're doing a full update
+        lookup_domains = hosts_tools.reduce_domains(main_domains)
+        for domain in lookup_domains:
             print('Searching: %s' % domain)
             found_domains = hosts_tools.find_subdomains(domain)
             expanded_domains.update(found_domains)
