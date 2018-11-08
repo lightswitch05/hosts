@@ -4,6 +4,8 @@
 from HostsTools import hosts_tools
 import argparse
 import sys
+import time
+import json
 
 
 def parse_args() -> sys.argv:
@@ -12,8 +14,10 @@ def parse_args() -> sys.argv:
     parser.add_argument('--list', '-l', default='ads-and-tracking', help='Base list to use, defaults to "ads-and-tracking"')
     parser.add_argument('--update', '-u', default=False, action='store_true',
                         help='Run a full scan of the entire list - slow!')
+    parser.add_argument('--virustotal', '-v', default=False, action='store_true',
+                        help='Run a full scan of the entire list using VirusTotal API - slow!')
     args = parser.parse_args()
-    if not args.domains and not args.update:
+    if not args.domains and not args.update and not args.virustotal:
         parser.print_help()
         exit(1)
     return args
@@ -28,13 +32,27 @@ def main():
     expanded_domains_len_start = len(expanded_domains)
 
     if args.update:
-        expanded_domains = set(main_domains)  # Clear it out since we're doing a full update
         lookup_domains = hosts_tools.reduce_domains(main_domains)
-        for domain in lookup_domains:
+        for index, domain in enumerate(lookup_domains):
             print('Searching: %s' % domain)
             found_domains = hosts_tools.find_subdomains(domain)
             expanded_domains.update(found_domains)
             print('    Found: %s' % (len(found_domains) - 1))
+            print_progress(index, len(lookup_domains))
+
+    if args.virustotal:
+        api_key = None
+        with open('secrets.json') as f:
+            data = json.load(f)
+            api_key = data['virustotal_api_key']
+        lookup_domains = hosts_tools.reduce_domains(main_domains)
+        for index, domain in enumerate(lookup_domains):
+            print('Searching: %s' % domain)
+            found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key)
+            expanded_domains.update(found_domains)
+            print('    Found: %s' % (len(found_domains) - 1))
+            print_progress(index, len(lookup_domains))
+            time.sleep(16)  # free API is capped at 4 requests per minute
 
     for domain in args.domains:
         if hosts_tools.is_valid_domain(domain):
@@ -58,6 +76,12 @@ def main():
     hosts_tools.write_domain_list(args.list + '.txt', main_domains)
     hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
 
+
+def print_progress(current: int, total: int):
+    if total != 0:
+        percent = int((current / total) * 100)
+        if (percent % 5) == 0:
+            print('Progress: %s%%' % percent)
 
 if __name__ == "__main__":
     main()
