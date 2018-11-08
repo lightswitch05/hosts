@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-11-07T19:03:30+00:00
-# Count: 2057 domains
+# Released: 2018-11-08T13:21:00+00:00
+# Count: 2065 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -408,6 +408,8 @@
 0.0.0.0 recommendation.citrix.com
 0.0.0.0 analytics.civicplus.com
 0.0.0.0 clearbit.com
+0.0.0.0 logo.clearbit.com
+0.0.0.0 logo-core.clearbit.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 clevergirlscollective.com
 0.0.0.0 badge.clevergirlscollective.com
@@ -890,6 +892,12 @@
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mktossl.com
 0.0.0.0 ab10.mktossl.com
+0.0.0.0 ab11.mktossl.com
+0.0.0.0 ab12.mktossl.com
+0.0.0.0 ab13.mktossl.com
+0.0.0.0 ab14.mktossl.com
+0.0.0.0 ab15.mktossl.com
+0.0.0.0 ab16.mktossl.com
 0.0.0.0 mktoweb.com
 0.0.0.0 docker.mktoweb.com
 0.0.0.0 ml-attr.com
