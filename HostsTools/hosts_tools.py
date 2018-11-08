@@ -10,7 +10,7 @@ import requests
 import time
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
-ALLOWED_DOMAIN_PATTERN = re.compile("^[^\*\?\[\]{}\|\\\/&^%$#@!+=~`\s\.<>,\"]+$", re.IGNORECASE)
+ALLOWED_DOMAIN_PATTERN = re.compile("^[^\*\?\[\]{}\|\\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
