@@ -153,3 +153,28 @@ def find_subdomains(domain: str) -> Set[str]:
     except Exception:
         print('Unable to connect to crt.sh to search: %s: ' % domain)
     return found_domains
+
+
+def virustotal_find_subdomain(domain: str, api_key: str) -> Set[str]:
+    found_domains = ***REMOVED***domain***REMOVED***  # include query as a found domain
+    url = 'https://www.virustotal.com/vtapi/v2/domain/report'.format(k=api_key, d=domain)
+    try:
+        req = requests.get(url, params=***REMOVED***
+            'apikey': api_key,
+            'domain': domain
+        ***REMOVED***)
+        if req.status_code != 200:
+            print('Error received from VirusTotal: ' + req.text)
+        else:
+            try:
+                response = req.json()
+                if 'subdomains' in response and response['subdomains']:
+                    for domain in response['subdomains']:
+                        found_domain = domain.lower().strip()
+                        if is_valid_domain(found_domain):
+                            found_domains.add(found_domain)
+            except ValueError:
+                print('Unknown response from VirusTotal: ' + req.text)
+    except Exception as ex:
+        print('Unable to connect to VirusTotal to search: %s: %s' % (domain, ex))
+    return found_domains
