@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from typing import List, Set
-import re
-import requests
-import json
 import datetime
+import json
+import re
+from typing import List, Set
+
+import requests
+import time
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 ALLOWED_DOMAIN_PATTERN = re.compile("^[^\*\?\[\]***REMOVED******REMOVED***\|\\\/&^%$#@!+=~`\s\.<>,]+$", re.IGNORECASE)
@@ -177,4 +179,5 @@ def virustotal_find_subdomain(domain: str, api_key: str) -> Set[str]:
                 print('Unknown response from VirusTotal: ' + req.text)
     except Exception as ex:
         print('Unable to connect to VirusTotal to search: %s: %s' % (domain, ex))
+    time.sleep(16)  # free API is capped at 4 requests per minute
     return found_domains
