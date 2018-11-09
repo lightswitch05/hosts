@@ -65,8 +65,6 @@ def main():
             expanded_domains.update(found_domains)
             print('    Found: %s' % (len(found_domains) - 1))
 
-    expanded_domains = expanded_domains.difference(whitelist)
-
     main_domains_len_end = len(main_domains)
     main_domains_len_diff = main_domains_len_end - main_domains_len_start
     expanded_domains_len_end = len(expanded_domains)
@@ -77,7 +75,7 @@ def main():
     print('List Difference: %s' % (expanded_domains_len_end - main_domains_len_end))
 
     hosts_tools.write_domain_list(args.list + '.txt', main_domains)
-    hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
+    hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains, whitelist)
 
 
 def print_progress(current: int, total: int):

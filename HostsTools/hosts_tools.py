@@ -4,7 +4,7 @@
 import datetime
 import json
 import re
-from typing import List, Set
+from typing import List, Set, Pattern
 
 import requests
 import time
@@ -92,15 +92,16 @@ def load_domains_from_list(file_name: str) -> Set[str]:
     return domains
 
 
-def load_domains_from_whitelist(file_name: str) -> Set[str]:
+def load_domains_from_whitelist(file_name: str) -> Set[Pattern]:
     whitelist = set()
     try:
         with open(file_name) as file:
             lines = file.readlines()
             for line in lines:
-                if is_valid_domain(line):
-                    line = line.strip().lower()
-                    whitelist.add(line)
+                line = line.strip()
+                if len(line) > 0 and not line.startswith('#'):
+                    regex = re.compile(line, re.IGNORECASE)
+                    whitelist.add(regex)
     except FileNotFoundError:
         print('Unable to read whitelist: ', file_name)
     return whitelist
@@ -114,12 +115,15 @@ def build_file_header(file_name: str, list_length: int):
     return header.replace('[timestamp]', now.isoformat())
 
 
-def write_domain_list(file_name: str, domains: Set[str]):
+def write_domain_list(file_name: str, domains: Set[str], whitelist: Set[Pattern] = {}):
     sorted_domains = sort_domains(list(domains))
     with open(file_name, 'w') as file:
         file.write(build_file_header(file_name, len(sorted_domains)))
         for domain in sorted_domains:
-            file.write('0.0.0.0 %s\n' % domain)
+            if not is_in_whitelist(domain, whitelist):
+                file.write('0.0.0.0 %s\n' % domain)
+            else:
+                print("whitelisted: %s" % domain)
 
 
 def is_valid_domain(domain: str) -> bool:
@@ -128,6 +132,14 @@ def is_valid_domain(domain: str) -> bool:
     if domain[-1] == ".":
         domain = domain[:-1]  # strip exactly one dot from the right, if present
     return all(ALLOWED_DOMAIN_PATTERN.match(x) for x in domain.split("."))
+
+
+def is_in_whitelist(domain: str, whitelist: Set[Pattern]) -> bool:
+    for pattern in whitelist:
+        match = pattern.match(domain)
+        if match:
+            return True
+    return False
 
 
 def find_subdomains(domain: str) -> Set[str]:
