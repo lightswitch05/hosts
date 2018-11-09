@@ -115,15 +115,12 @@ def build_file_header(file_name: str, list_length: int):
     return header.replace('[timestamp]', now.isoformat())
 
 
-def write_domain_list(file_name: str, domains: Set[str], whitelist: Set[Pattern] = {}):
+def write_domain_list(file_name: str, domains: Set[str]):
     sorted_domains = sort_domains(list(domains))
     with open(file_name, 'w') as file:
         file.write(build_file_header(file_name, len(sorted_domains)))
         for domain in sorted_domains:
-            if not is_in_whitelist(domain, whitelist):
-                file.write('0.0.0.0 %s\n' % domain)
-            else:
-                print("whitelisted: %s" % domain)
+            file.write('0.0.0.0 %s\n' % domain)
 
 
 def is_valid_domain(domain: str) -> bool:
@@ -134,12 +131,14 @@ def is_valid_domain(domain: str) -> bool:
     return all(ALLOWED_DOMAIN_PATTERN.match(x) for x in domain.split("."))
 
 
-def is_in_whitelist(domain: str, whitelist: Set[Pattern]) -> bool:
-    for pattern in whitelist:
-        match = pattern.match(domain)
-        if match:
-            return True
-    return False
+def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
+    filtered = set(domains)
+    for domain in domains:
+        for pattern in whitelist:
+            if pattern.match(domain):
+                filtered.remove(domain)
+                print("whitelisted: %s" % domain)
+    return filtered
 
 
 def find_subdomains(domain: str) -> Set[str]:
