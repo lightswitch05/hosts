@@ -3,10 +3,15 @@
 
 import argparse
 import json
+import signal
+from typing import Set
 
 import sys
 
 from HostsTools import hosts_tools
+
+global QUIT_GRACEFULLY
+QUIT_GRACEFULLY = False
 
 
 def parse_args() -> sys.argv:
@@ -32,38 +37,25 @@ def main():
     whitelist = hosts_tools.load_domains_from_whitelist(args.list + '-whitelist.txt')
     main_domains_len_start = len(main_domains)
     expanded_domains_len_start = len(expanded_domains)
-    api_key = None
     with open('secrets.json') as f:
         data = json.load(f)
         api_key = data['virustotal_api_key']
 
     if args.update:
-        lookup_domains = hosts_tools.reduce_domains(main_domains)
-        for index, domain in enumerate(lookup_domains):
-            print('Searching: %s' % domain)
-            found_domains = hosts_tools.find_subdomains(domain)
-            expanded_domains.update(found_domains)
-            print('    Found: %s' % (len(found_domains) - 1))
-            print_progress(index, len(lookup_domains))
+        found = crt_update(main_domains)
+        expanded_domains.update(found)
 
     if args.virustotal:
-        lookup_domains = hosts_tools.reduce_domains(main_domains)
-        for index, domain in enumerate(lookup_domains):
-            print('Searching: %s' % domain)
-            found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key)
-            expanded_domains.update(found_domains)
-            print('    Found: %s' % (len(found_domains) - 1))
-            print_progress(index, len(lookup_domains))
+        found = virustotal_update(main_domains, api_key)
+        expanded_domains.update(found)
 
-    for domain in args.domains:
-        if hosts_tools.is_valid_domain(domain):
-            main_domains.add(domain)
-            print('Searching: %s' % domain)
-            found_domains = hosts_tools.find_subdomains(domain)
-            expanded_domains.update(found_domains)
-            found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key)
-            expanded_domains.update(found_domains)
-            print('    Found: %s' % (len(found_domains) - 1))
+    found = crt_update(args.domains)
+    expanded_domains.update(found)
+
+    found = virustotal_update(args.domains, api_key)
+    expanded_domains.update(found)
+
+    expanded_domains = hosts_tools.filter_whitelist(expanded_domains, whitelist)
 
     main_domains_len_end = len(main_domains)
     main_domains_len_diff = main_domains_len_end - main_domains_len_start
@@ -75,7 +67,35 @@ def main():
     print('List Difference: %s' % (expanded_domains_len_end - main_domains_len_end))
 
     hosts_tools.write_domain_list(args.list + '.txt', main_domains)
-    hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains, whitelist)
+    hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
+
+
+def crt_update(main_domains: Set[str]):
+    found = set()
+    lookup_domains = hosts_tools.reduce_domains(main_domains)
+    for index, domain in enumerate(lookup_domains):
+        if QUIT_GRACEFULLY:
+            break
+        print('Searching: %s' % domain)
+        found_domains = hosts_tools.find_subdomains(domain)
+        found.update(found_domains)
+        print('    Found: %s' % (len(found_domains) - 1))
+        print_progress(index, len(lookup_domains))
+    return found
+
+
+def virustotal_update(main_domains: Set[str], api_key: str):
+    found = set()
+    lookup_domains = hosts_tools.reduce_domains(main_domains)
+    for index, domain in enumerate(lookup_domains):
+        if QUIT_GRACEFULLY:
+            break
+        print('Searching: %s' % domain)
+        found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key)
+        found.update(found_domains)
+        print('    Found: %s' % (len(found_domains) - 1))
+        print_progress(index, len(lookup_domains))
+    return found
 
 
 def print_progress(current: int, total: int):
@@ -85,5 +105,12 @@ def print_progress(current: int, total: int):
             print('Progress: %s%%' % percent)
 
 
+def quit_gracefully(sig, frame):
+    global QUIT_GRACEFULLY
+    print('Quitting gracefully')
+    QUIT_GRACEFULLY = True
+
+
 if __name__ == "__main__":
+    signal.signal(signal.SIGINT, quit_gracefully)
     main()
