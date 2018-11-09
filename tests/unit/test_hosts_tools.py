@@ -112,11 +112,6 @@ class TestHostTools(object):
         assert domains
         assert not self.TEST_DOMAINS.difference(domains)
 
-    def test_load_domains_from_whitelist(self):
-        whitelist = hosts_tools.load_domains_from_whitelist(self.TEST_WHITELIST_FILE_NAME)
-        assert whitelist
-        assert not self.TEST_WHITELIST.difference(whitelist)
-
     def test_missing_whitelist(self):
         whitelist = hosts_tools.load_domains_from_whitelist('not-a-real-file.txt')
         assert len(whitelist) == 0

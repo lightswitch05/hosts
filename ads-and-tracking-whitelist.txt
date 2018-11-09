@@ -1,77 +1,51 @@
 # Whitelist for ads-and-tracking-extended.txt
 
 # convertkit.com roots and non-tracking domains per issue #23
-convertkit.com
-developers.convertkit.com
-help.convertkit.com
-learn.convertkit.com
-legal.convertkit.com
-shop.convertkit.com
-www.convertkit.com
+^convertkit\.com$
+^developers\.convertkit\.com$
+^help\.convertkit\.com$
+^learn\.convertkit\.com$
+^legal\.convertkit\.com$
+^shop\.convertkit\.com$
+^www\.convertkit\.com$
 
 # sentry.io non-tracking domains per https://github.com/StevenBlack/hosts/commit/521777278a3a496c94dda6d363695714fce2f247#r30820805
-cal.a.sentry.io
-drive.a.sentry.io
-groups.a.sentry.io
-mail.a.sentry.io
-sites.a.sentry.io
-app.sentry.io
-blog.sentry.io
-community.sentry.io
-www.community.sentry.io
-docs.sentry.io
-forge.sentry.io
-forum.sentry.io
-help.sentry.io
-learn.sentry.io
-live.sentry.io
-release-registry.services.sentry.io
-start.sentry.io
-status.sentry.io
-www.sentry.io
+^cal.a.sentry\.io
+^drive\.a\.sentry\.io$
+^groups\.a\.sentry\.io$
+^mail\.a\.sentry\.io$
+^sites\.a\.sentry\.io$
+^app\.sentry\.io$
+^blog\.sentry\.io$
+^community\.sentry\.io$
+^www\.community\.sentry\.io$
+^docs\.sentry\.io$
+^forge\.sentry\.io$
+^forum\.sentry\.io$
+^help\.sentry\.io$
+^learn\.sentry\.io$
+^live\.sentry\.io$
+^release\-registry\.services\.sentry\.io$
+^start\.sentry\.io$
+^status\.sentry\.io$
+^www\.sentry\.io$
 
 # click subdomains for exacttarget.com
-click.boa.exacttarget.com
-click.exacttarget.com
-click.poc.exacttarget.com
-click.s1.qa1.exacttarget.com
-click.s2.qa1.exacttarget.com
-click.s1.qa2.exacttarget.com
-click.s2.qa2.exacttarget.com
-click.s1.qa3.exacttarget.com
-click.s2.qa3.exacttarget.com
-click.s100.exacttarget.com
-click.s4.exacttarget.com
-click.virt.s4.exacttarget.com
-click.virt.s5.exacttarget.com
-click.s50.exacttarget.com
-click-sms.s50.exacttarget.com
-click.virt.s6.exacttarget.com
-click.s7.exacttarget.com
-click.virt.s7.exacttarget.com
-click.s8.exacttarget.com
-click.test.exacttarget.com
+^click\.\S*exacttarget\.com$
 
 # engineering blog
-engineering.curalate.com
+^engineering\.curalate\.com$
 
 # https://github.com/lightswitch05/hosts/issues/38
-vendorlist.consensu.org
+^vendorlist\.consensu\.org$
 
-# Junk found in autodiscovery
-api-glb-sjc.smoot.apple.comapi.acompli.netapi.mixpanel.comapi.segment.ioapi.twitch.tvapi.twitter.comapiservices.krxd.netapps.itunes.comas.jivox.com
-outlook.office365.comp.flite.comp08-keyvalueservice.icloud.compfa.levexis.compixel.adsafeprotected.complayercdn.jivox.com
-weather.comwww-punch-opensocial.googleusercontent.comwww.google-analytics.comwww.google.comwww.googleapis.comwww.gstatic.comwww.placelocal.com
-tracking.campaign-tracking-service.placelocal.comtracking.campaign-tracking-service.placelocal.com
-stags.bluekai.comtacoda.at.atwola.comtags.bluekai.comtracker.marinsm.com
-ns14.ns12.ns11.ns12.ns12.ns11.ns13.ns11.ns12.ns11.ns12.ns14.ads.lfstmedia.com
-ns12.ns14.ns13.ns14.ns13.ns13.ns12.ns14.ns14.ns12.ns12.ns12.ads.lfstmedia.com
-ns14.ns12.ns11.ns12.ns12.ns11.ns13.ns11.ns12.ns11.ns12.ns14.ads.lfstmedia.com
-ns11.ns12.ns12.ns13.ns13.ns12.ns14.ads.lfstmedia.com
-ns14.ns13.ns12.ns14.ns14.ns12.ns12.ns12.ns14.ns14.ns13.ns13.ns14.ads.lfstmedia.com
-ns14.ns12.ns13.ns13.ns12.ns12.ns12.ns13.ns12.ns13.ns11.ns11.ns14.ns14.ads.lfstmedia.com
-ns14.ns11.ns14.ns14.ns12.ns11.ns12.ns11.ns14.ns12.ns11.ns12.ns12.ads.lfstmedia.com
-ns12.ns14.ns12.ns12.ns13.ns12.ns14.ns11.ns12.ns12.ads.lfstmedia.com
-ns12.ns12.ns13.ns14.ns12.ns12.ns13.ns11.ns13.ns14.ns12.ns12.ns12.ads.lfstmedia.com
+# Assorted Junk found in autodiscovery
+(\S*\.com\S*|\S*\.cloud\S*)***REMOVED***4,***REMOVED***
+(\.ns\d\d)***REMOVED***6,***REMOVED***\S*lfstmedia\.com$
 
+# gstatic.com junk like p2-ghnopls3mhgfk-srif7zvswmajyk6c-if-v6exp3-v4.metric.gstatic.com
+^\S*\w***REMOVED***13***REMOVED***-\w***REMOVED***15***REMOVED***\S*metric\.gstatic\.com$
+
+# online-metrix junk like ljcjjbch-749b6d0236c5a836f1aa1fb1642fc000eafda630-am1.d.aa.online-metrix.net
+^\s*\w***REMOVED***8***REMOVED***-\w***REMOVED***40***REMOVED***\S*online-metrix\.net$
 
