@@ -49,3 +49,6 @@
 # online-metrix junk like ljcjjbch-749b6d0236c5a836f1aa1fb1642fc000eafda630-am1.d.aa.online-metrix.net
 ^\s*\w***REMOVED***8***REMOVED***-\w***REMOVED***40***REMOVED***\S*online-metrix\.net$
 
+# parsely daily configs like srv-2018-11-13-12.config.parsely.com
+^srv-\d***REMOVED***4***REMOVED***-\d***REMOVED***2***REMOVED***-\d***REMOVED***2***REMOVED***\S*\.parsely.com
+
