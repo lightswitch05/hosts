@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2018-11-08T20:33:40+00:00
-# Count: 84 domains
+# Released: 2018-11-13T15:28:30+00:00
+# Count: 86 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
@@ -51,6 +51,8 @@
 0.0.0.0 js.hellomedian.com
 0.0.0.0 livechatinc.com
 0.0.0.0 cdn.livechatinc.com
+0.0.0.0 livefyre.com
+0.0.0.0 cdn.livefyre.com
 0.0.0.0 maxmind.com
 0.0.0.0 js.maxmind.com
 0.0.0.0 share.microsoft.com

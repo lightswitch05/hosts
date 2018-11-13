@@ -27,6 +27,7 @@ def parse_args() -> sys.argv:
     if not args.domains and not args.update and not args.virustotal:
         parser.print_help()
         exit(1)
+    validate_domain_args(args.domains)
     return args
 
 
@@ -49,6 +50,7 @@ def main():
         found = virustotal_update(main_domains, api_key)
         expanded_domains.update(found)
 
+    main_domains.update(args.domains)
     found = crt_update(args.domains)
     expanded_domains.update(found)
 
@@ -103,6 +105,12 @@ def print_progress(current: int, total: int):
         percent = int((current / total) * 100)
         if (percent % 5) == 0:
             print('Progress: %s%%' % percent)
+
+
+def validate_domain_args(domains):
+    for domain in domains:
+        if not hosts_tools.is_valid_domain(domain):
+            raise Exception('Invalid domain: ', domain)
 
 
 def quit_gracefully(sig, frame):
