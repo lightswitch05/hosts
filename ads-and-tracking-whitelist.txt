@@ -50,5 +50,8 @@
 ^\s*\w***REMOVED***8***REMOVED***-\w***REMOVED***40***REMOVED***\S*online-metrix\.net$
 
 # parsely daily configs like srv-2018-11-13-12.config.parsely.com
-^srv-\d***REMOVED***4***REMOVED***-\d***REMOVED***2***REMOVED***-\d***REMOVED***2***REMOVED***\S*\.parsely.com
+^srv-\d***REMOVED***4***REMOVED***-\d***REMOVED***2***REMOVED***-\d***REMOVED***2***REMOVED***\S*\.parsely.com$
+
+# https://github.com/StevenBlack/hosts/issues/709
+^assets\.adobedtm\.com$
 
