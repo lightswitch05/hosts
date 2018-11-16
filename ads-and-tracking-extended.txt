@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-11-14T17:49:50+00:00
-# Count: 25522 domains
+# Released: 2018-11-16T13:49:58+00:00
+# Count: 25523 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3101,6 +3101,7 @@
 0.0.0.0 www.btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 www.device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 t.ambra.com
