@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-11-16T15:11:20+00:00
-# Count: 2513 domains
+# Released: 2018-11-16T15:32:58+00:00
+# Count: 2530 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -56,6 +56,7 @@
 0.0.0.0 aicpa.ugc.bazaarvoice.com
 0.0.0.0 amprobe.ugc.bazaarvoice.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 anntaylor.ugc.bazaarvoice.com
 0.0.0.0 apc.ugc.bazaarvoice.com
 0.0.0.0 arcteryx.ugc.bazaarvoice.com
 0.0.0.0 argos.ugc.bazaarvoice.com
@@ -73,6 +74,7 @@
 0.0.0.0 buybuybaby.ugc.bazaarvoice.com
 0.0.0.0 c5.ugc.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
+0.0.0.0 callawayjapan.ugc.bazaarvoice.com
 0.0.0.0 carters.ugc.bazaarvoice.com
 0.0.0.0 cdw.ugc.bazaarvoice.com
 0.0.0.0 cdwg.ugc.bazaarvoice.com
@@ -125,15 +127,18 @@
 0.0.0.0 karstadt.ugc.bazaarvoice.com
 0.0.0.0 kaspersky.ugc.bazaarvoice.com
 0.0.0.0 kohls.ugc.bazaarvoice.com
+0.0.0.0 lactaid.ugc.bazaarvoice.com
 0.0.0.0 lego.ugc.bazaarvoice.com
 0.0.0.0 lizearle.ugc.bazaarvoice.com
 0.0.0.0 lowes.ugc.bazaarvoice.com
 0.0.0.0 lululemon.ugc.bazaarvoice.com
 0.0.0.0 macys.ugc.bazaarvoice.com
+0.0.0.0 madewell.ugc.bazaarvoice.com
 0.0.0.0 magpie-static.ugc.bazaarvoice.com
 0.0.0.0 marriott.ugc.bazaarvoice.com
 0.0.0.0 matalan.ugc.bazaarvoice.com
 0.0.0.0 microcenter.ugc.bazaarvoice.com
+0.0.0.0 missselfridge.ugc.bazaarvoice.com
 0.0.0.0 ncl.ugc.bazaarvoice.com
 0.0.0.0 norauto.ugc.bazaarvoice.com
 0.0.0.0 nordstrom.ugc.bazaarvoice.com
@@ -148,6 +153,7 @@
 0.0.0.0 qvc.ugc.bazaarvoice.com
 0.0.0.0 redwingheritage.ugc.bazaarvoice.com
 0.0.0.0 restaurant.ugc.bazaarvoice.com
+0.0.0.0 ridgid.ugc.bazaarvoice.com
 0.0.0.0 sainsburysgrocery.ugc.bazaarvoice.com
 0.0.0.0 scan.ugc.bazaarvoice.com
 0.0.0.0 screwfix.ugc.bazaarvoice.com
@@ -156,10 +162,13 @@
 0.0.0.0 stihl.ugc.bazaarvoice.com
 0.0.0.0 surfdome.ugc.bazaarvoice.com
 0.0.0.0 t-mobile.ugc.bazaarvoice.com
+0.0.0.0 targetaustralia.ugc.bazaarvoice.com
 0.0.0.0 tassimo-eu.ugc.bazaarvoice.com
+0.0.0.0 theworks.ugc.bazaarvoice.com
 0.0.0.0 ticketmaster.ugc.bazaarvoice.com
 0.0.0.0 tommybahama.ugc.bazaarvoice.com
 0.0.0.0 topman.ugc.bazaarvoice.com
+0.0.0.0 toppstiles.ugc.bazaarvoice.com
 0.0.0.0 toro.ugc.bazaarvoice.com
 0.0.0.0 toyota.ugc.bazaarvoice.com
 0.0.0.0 truevalue.ugc.bazaarvoice.com
@@ -832,6 +841,7 @@
 0.0.0.0 accounts.flipboard.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad-beta.flipboard.com
+0.0.0.0 amp.flipboard.com
 0.0.0.0 api.flipboard.com
 0.0.0.0 api-china.flipboard.com
 0.0.0.0 artforfreedom.flipboard.com
@@ -1130,6 +1140,7 @@
 0.0.0.0 glympse.com
 0.0.0.0 api.glympse.com
 0.0.0.0 motd.api.glympse.com
+0.0.0.0 www.api.glympse.com
 0.0.0.0 beta-users.glympse.com
 0.0.0.0 blog.glympse.com
 0.0.0.0 business.glympse.com
@@ -1308,6 +1319,7 @@
 0.0.0.0 livefyre.com
 0.0.0.0 accounts.livefyre.com
 0.0.0.0 admin.livefyre.com
+0.0.0.0 aem-past.livefyre.com
 0.0.0.0 aem-six-three.livefyre.com
 0.0.0.0 analytics.livefyre.com
 0.0.0.0 announcements.livefyre.com
@@ -1344,6 +1356,7 @@
 0.0.0.0 ct244.dsr.livefyre.com
 0.0.0.0 ct245.dsr.livefyre.com
 0.0.0.0 ct246.dsr.livefyre.com
+0.0.0.0 ct247.dsr.livefyre.com
 0.0.0.0 ct248.dsr.livefyre.com
 0.0.0.0 lc48.dsr.livefyre.com
 0.0.0.0 lc49.dsr.livefyre.com
@@ -1578,6 +1591,7 @@
 0.0.0.0 bose.narvar.com
 0.0.0.0 brownells.narvar.com
 0.0.0.0 buyautoparts.narvar.com
+0.0.0.0 cabelas.narvar.com
 0.0.0.0 calvinklein.narvar.com
 0.0.0.0 canadagoose.narvar.com
 0.0.0.0 care.narvar.com
@@ -1708,6 +1722,7 @@
 0.0.0.0 images-async.olark.com
 0.0.0.0 ip-jabber.olark.com
 0.0.0.0 ip-rpc1.olark.com
+0.0.0.0 ip-www.olark.com
 0.0.0.0 log.olark.com
 0.0.0.0 mi.olark.com
 0.0.0.0 michigan.olark.com
@@ -2469,6 +2484,7 @@
 0.0.0.0 vs33.tawk.to
 0.0.0.0 vs34.tawk.to
 0.0.0.0 vs35.tawk.to
+0.0.0.0 vs37.tawk.to
 0.0.0.0 vs38.tawk.to
 0.0.0.0 vs39.tawk.to
 0.0.0.0 vs4.tawk.to
@@ -2490,6 +2506,7 @@
 0.0.0.0 vs56.tawk.to
 0.0.0.0 vs57.tawk.to
 0.0.0.0 vs58.tawk.to
+0.0.0.0 vs59.tawk.to
 0.0.0.0 vs6.tawk.to
 0.0.0.0 vs60.tawk.to
 0.0.0.0 vs61.tawk.to
