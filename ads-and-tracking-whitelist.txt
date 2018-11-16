@@ -50,5 +50,8 @@
 ^\s*\w{8}-\w{40}\S*online-metrix\.net$
 
 # parsely daily configs like srv-2018-11-13-12.config.parsely.com
-^srv-\d{4}-\d{2}-\d{2}\S*\.parsely.com
+^srv-\d{4}-\d{2}-\d{2}\S*\.parsely.com$
+
+# https://github.com/StevenBlack/hosts/issues/709
+^assets\.adobedtm\.com$
 
