@@ -55,3 +55,16 @@
 # https://github.com/StevenBlack/hosts/issues/709
 ^assets\.adobedtm\.com$
 
+# any domain with a UUID like fb195559-9e15-4d98-ac46-fd628c25a557.us.u.fastly-insights.com
+^\S*\w***REMOVED***8***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***12***REMOVED***\.\S*$
+
+# 3db86671a7efd715238810b33494f41a.nrb.footprintdns.com
+^\w***REMOVED***32***REMOVED***\S*\.footprintdns.com$
+
+# 414fe5ead28f931cb34ab4ac5400e3fdca.ulink.adjust.com
+^\w***REMOVED***32,34***REMOVED***\S*\.adjust.com$
+
+# 18d11390ed9d01311ca512313d08f98b.yottaa.net
+^\w***REMOVED***32***REMOVED***\S*\.yottaa.net$
+
+
