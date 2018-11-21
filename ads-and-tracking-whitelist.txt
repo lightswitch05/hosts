@@ -70,3 +70,20 @@
 # dpm.demdex.net seems to be breaking sling
 ^dpm\.demdex\.net$
 
+# innocuous subdomains
+^jira
+^bamboo
+^bitbucket
+^gitlab
+^wiki\.
+^git\.
+\S*\.vpn\.
+^vpn\.
+^ldap\.
+^support\.
+^confluence\.
+^svn\.
+^hipchat\.
+^slack\.
+
+
