@@ -67,4 +67,6 @@
 # 18d11390ed9d01311ca512313d08f98b.yottaa.net
 ^\w***REMOVED***32***REMOVED***\S*\.yottaa.net$
 
+# dpm.demdex.net seems to be breaking sling
+^dpm\.demdex\.net$
 
