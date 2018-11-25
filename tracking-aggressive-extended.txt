@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-11-20T13:00:40+00:00
-# Count: 2555 domains
+# Released: 2018-11-25T02:38:24+00:00
+# Count: 2578 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -52,6 +52,7 @@
 0.0.0.0 location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 www.location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 ugc.bazaarvoice.com
+0.0.0.0 adidas.ugc.bazaarvoice.com
 0.0.0.0 adidasjp.ugc.bazaarvoice.com
 0.0.0.0 ae.ugc.bazaarvoice.com
 0.0.0.0 aicpa.ugc.bazaarvoice.com
@@ -75,8 +76,10 @@
 0.0.0.0 brother-emea.ugc.bazaarvoice.com
 0.0.0.0 burton.ugc.bazaarvoice.com
 0.0.0.0 buybuybaby.ugc.bazaarvoice.com
+0.0.0.0 c1.ugc.bazaarvoice.com
 0.0.0.0 c5.ugc.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
+0.0.0.0 callawaygolfpreowned.ugc.bazaarvoice.com
 0.0.0.0 callawayjapan.ugc.bazaarvoice.com
 0.0.0.0 carters.ugc.bazaarvoice.com
 0.0.0.0 cdw.ugc.bazaarvoice.com
@@ -85,6 +88,7 @@
 0.0.0.0 champssports.ugc.bazaarvoice.com
 0.0.0.0 cheapcaribbean.ugc.bazaarvoice.com
 0.0.0.0 chewy.ugc.bazaarvoice.com
+0.0.0.0 chicos.ugc.bazaarvoice.com
 0.0.0.0 choice.ugc.bazaarvoice.com
 0.0.0.0 choice-au.ugc.bazaarvoice.com
 0.0.0.0 coach-ssl.ugc.bazaarvoice.com
@@ -106,12 +110,14 @@
 0.0.0.0 eileenfisher.ugc.bazaarvoice.com
 0.0.0.0 epsonenau.ugc.bazaarvoice.com
 0.0.0.0 epsonlatinamerica.ugc.bazaarvoice.com
+0.0.0.0 escentual.ugc.bazaarvoice.com
 0.0.0.0 evanscycles-uk.ugc.bazaarvoice.com
 0.0.0.0 exxonmobil.ugc.bazaarvoice.com
 0.0.0.0 fellowes.ugc.bazaarvoice.com
 0.0.0.0 fidelity-ssl.ugc.bazaarvoice.com
 0.0.0.0 figis.ugc.bazaarvoice.com
 0.0.0.0 finishline.ugc.bazaarvoice.com
+0.0.0.0 footlocker.ugc.bazaarvoice.com
 0.0.0.0 furniturerow.ugc.bazaarvoice.com
 0.0.0.0 golfnow.ugc.bazaarvoice.com
 0.0.0.0 grainger.ugc.bazaarvoice.com
@@ -153,6 +159,7 @@
 0.0.0.0 nordstrom.ugc.bazaarvoice.com
 0.0.0.0 northerntool.ugc.bazaarvoice.com
 0.0.0.0 officedepot.ugc.bazaarvoice.com
+0.0.0.0 officedesigns.ugc.bazaarvoice.com
 0.0.0.0 officeworks.ugc.bazaarvoice.com
 0.0.0.0 orange.ugc.bazaarvoice.com
 0.0.0.0 orchardbrands.ugc.bazaarvoice.com
@@ -160,13 +167,17 @@
 0.0.0.0 paris.ugc.bazaarvoice.com
 0.0.0.0 philips.ugc.bazaarvoice.com
 0.0.0.0 picard.ugc.bazaarvoice.com
+0.0.0.0 puma.ugc.bazaarvoice.com
 0.0.0.0 pumajapan.ugc.bazaarvoice.com
 0.0.0.0 qvc.ugc.bazaarvoice.com
 0.0.0.0 redwingheritage.ugc.bazaarvoice.com
 0.0.0.0 restaurant.ugc.bazaarvoice.com
 0.0.0.0 ridgid.ugc.bazaarvoice.com
+0.0.0.0 rogaine.ugc.bazaarvoice.com
 0.0.0.0 sainsburysgrocery.ugc.bazaarvoice.com
 0.0.0.0 scan.ugc.bazaarvoice.com
+0.0.0.0 scholastic.ugc.bazaarvoice.com
+0.0.0.0 scholasticclubs.ugc.bazaarvoice.com
 0.0.0.0 screwfix.ugc.bazaarvoice.com
 0.0.0.0 sephora.ugc.bazaarvoice.com
 0.0.0.0 serta.ugc.bazaarvoice.com
@@ -184,6 +195,7 @@
 0.0.0.0 toppstiles.ugc.bazaarvoice.com
 0.0.0.0 topshop.ugc.bazaarvoice.com
 0.0.0.0 toro.ugc.bazaarvoice.com
+0.0.0.0 toryburch.ugc.bazaarvoice.com
 0.0.0.0 toyota.ugc.bazaarvoice.com
 0.0.0.0 truevalue.ugc.bazaarvoice.com
 0.0.0.0 truevalueprojects.ugc.bazaarvoice.com
@@ -195,6 +207,7 @@
 0.0.0.0 vandenborre.ugc.bazaarvoice.com
 0.0.0.0 verizonwireless.ugc.bazaarvoice.com
 0.0.0.0 verkkokauppa.ugc.bazaarvoice.com
+0.0.0.0 vitaminworld.ugc.bazaarvoice.com
 0.0.0.0 vodafone.ugc.bazaarvoice.com
 0.0.0.0 walmart.ugc.bazaarvoice.com
 0.0.0.0 wiggle.ugc.bazaarvoice.com
@@ -432,13 +445,16 @@
 0.0.0.0 db146.mta.exacttarget.com
 0.0.0.0 db152.mta.exacttarget.com
 0.0.0.0 db40.mta.exacttarget.com
+0.0.0.0 de184.mta.exacttarget.com
 0.0.0.0 de30.mta.exacttarget.com
 0.0.0.0 df101.mta.exacttarget.com
 0.0.0.0 df102.mta.exacttarget.com
 0.0.0.0 df129.mta.exacttarget.com
 0.0.0.0 df157.mta.exacttarget.com
 0.0.0.0 df183.mta.exacttarget.com
+0.0.0.0 df2.mta.exacttarget.com
 0.0.0.0 df215.mta.exacttarget.com
+0.0.0.0 df66.mta.exacttarget.com
 0.0.0.0 df67.mta.exacttarget.com
 0.0.0.0 dg152.mta.exacttarget.com
 0.0.0.0 dg176.mta.exacttarget.com
@@ -1656,6 +1672,8 @@
 0.0.0.0 nike.narvar.com
 0.0.0.0 nordstrom.narvar.com
 0.0.0.0 nordstromrack.narvar.com
+0.0.0.0 off5th.narvar.com
+0.0.0.0 oldnavy.narvar.com
 0.0.0.0 palletforks.narvar.com
 0.0.0.0 pandora.narvar.com
 0.0.0.0 patagonia.narvar.com
@@ -1671,6 +1689,8 @@
 0.0.0.0 returns.narvar.com
 0.0.0.0 revzilla.narvar.com
 0.0.0.0 roamans.narvar.com
+0.0.0.0 samsclub.narvar.com
+0.0.0.0 samsonite.narvar.com
 0.0.0.0 see.narvar.com
 0.0.0.0 shutterfly.narvar.com
 0.0.0.0 signaturehardware.narvar.com
@@ -1689,6 +1709,7 @@
 0.0.0.0 tracking.narvar.com
 0.0.0.0 tracking-assets-prod01.narvar.com
 0.0.0.0 trackingimg.narvar.com
+0.0.0.0 tumi.narvar.com
 0.0.0.0 victoriassecret.narvar.com
 0.0.0.0 volcom.narvar.com
 0.0.0.0 walmart.narvar.com
@@ -1856,6 +1877,7 @@
 0.0.0.0 s4018.pingdom.com
 0.0.0.0 s4019.pingdom.com
 0.0.0.0 s4020.pingdom.com
+0.0.0.0 s4032.pingdom.com
 0.0.0.0 s4037.pingdom.com
 0.0.0.0 s4041.pingdom.com
 0.0.0.0 s410.pingdom.com
@@ -2481,6 +2503,7 @@
 0.0.0.0 vs10.tawk.to
 0.0.0.0 vs100.tawk.to
 0.0.0.0 vs12.tawk.to
+0.0.0.0 vs13.tawk.to
 0.0.0.0 vs14.tawk.to
 0.0.0.0 vs15.tawk.to
 0.0.0.0 vs16.tawk.to
