@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2018-11-24T03:22:58+00:00
-# Count: 358 domains
+# Released: 2018-11-25T02:20:22+00:00
+# Count: 362 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts-extended.txt
@@ -116,6 +116,7 @@
 0.0.0.0 www-yahoo-com.amp.cloudflare.com
 0.0.0.0 www-younews-in.amp.cloudflare.com
 0.0.0.0 amp.knoxnews.com
+0.0.0.0 amp.si.com
 0.0.0.0 amp.tennessean.com
 0.0.0.0 amp.theguardian.com
 0.0.0.0 amp.usatoday.com
@@ -141,6 +142,7 @@
 0.0.0.0 amp-myrecipes-com.cdn.ampproject.org
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 amp-sacbee-com.cdn.ampproject.org
+0.0.0.0 amp-si-com.cdn.ampproject.org
 0.0.0.0 amp-timeinc-net.cdn.ampproject.org
 0.0.0.0 amp-usatoday-com.cdn.ampproject.org
 0.0.0.0 amp-wcvb-com.cdn.ampproject.org
@@ -301,6 +303,7 @@
 0.0.0.0 www-curejoy-com.cdn.ampproject.org
 0.0.0.0 www-dailystar-co-uk.cdn.ampproject.org
 0.0.0.0 www-daytondailynews-com.cdn.ampproject.org
+0.0.0.0 www-digitalcitizen-life.cdn.ampproject.org
 0.0.0.0 www-docusign-com.cdn.ampproject.org
 0.0.0.0 www-electronicshub-org.cdn.ampproject.org
 0.0.0.0 www-equipandoloja-net-br.cdn.ampproject.org
@@ -353,6 +356,7 @@
 0.0.0.0 www-sezenaksu-net.cdn.ampproject.org
 0.0.0.0 www-sfgate-com.cdn.ampproject.org
 0.0.0.0 www-shacknews-com.cdn.ampproject.org
+0.0.0.0 www-streakingthelawn-com.cdn.ampproject.org
 0.0.0.0 www-tasteofhome-com.cdn.ampproject.org
 0.0.0.0 www-techspot-com.cdn.ampproject.org
 0.0.0.0 www-theatlantic-com.cdn.ampproject.org
