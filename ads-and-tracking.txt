@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-11-22T13:17:04+00:00
-# Count: 2064 domains
+# Released: 2018-11-25T02:06:47+00:00
+# Count: 2066 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -544,6 +544,7 @@
 0.0.0.0 market.epom.com
 0.0.0.0 eqads.com
 0.0.0.0 um2.eqads.com
+0.0.0.0 log.espn.com
 0.0.0.0 essads.com
 0.0.0.0 client-api.essads.com
 0.0.0.0 esttrk.com
@@ -1430,6 +1431,7 @@
 0.0.0.0 core.vntsm.com
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb-config.vntsm.com
+0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 vsassets.com
 0.0.0.0 vungle.com
