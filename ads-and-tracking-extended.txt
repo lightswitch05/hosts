@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-11-25T02:06:47+00:00
-# Count: 25645 domains
+# Released: 2018-11-26T14:12:39+00:00
+# Count: 25719 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -601,6 +601,7 @@
 0.0.0.0 acrabakasaka.com
 0.0.0.0 a.acrabakasaka.com
 0.0.0.0 xhr.acrabakasaka.com
+0.0.0.0 tracking.acs529.com
 0.0.0.0 ad-score.com
 0.0.0.0 api.ad-score.com
 0.0.0.0 cdn.ad-score.com
@@ -2711,6 +2712,7 @@
 0.0.0.0 analytics.algolia.com
 0.0.0.0 analytics.de.algolia.com
 0.0.0.0 recommendation.algolia.com
+0.0.0.0 telemetry.algolia.com
 0.0.0.0 analytics.us.algolia.com
 0.0.0.0 algovid.com
 0.0.0.0 a.algovid.com
@@ -5596,6 +5598,7 @@
 0.0.0.0 stage.convertro.com
 0.0.0.0 www.stage.convertro.com
 0.0.0.0 www.convertro.com
+0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 www.consent.cookiebot.com
 0.0.0.0 coremetrics.com
@@ -9157,6 +9160,10 @@
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 doppler.hulu.com
+0.0.0.0 www.doppler.hulu.com
+0.0.0.0 vortex.hulu.com
+0.0.0.0 www.vortex.hulu.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
@@ -17380,6 +17387,10 @@
 0.0.0.0 dashboard.tvadsync.com
 0.0.0.0 px.tvadsync.com
 0.0.0.0 www.tvadsync.com
+0.0.0.0 tvpixel.com
+0.0.0.0 c.tvpixel.com
+0.0.0.0 p.tvpixel.com
+0.0.0.0 www.tvpixel.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn-eb.syndication.twitter.com
@@ -21017,6 +21028,7 @@
 0.0.0.0 mads.at.atwola.com.adcom.akadns.net
 0.0.0.0 madsuk.at.atwola.com.adcom.akadns.net
 0.0.0.0 stats.gc-apple.com.akadns.net
+0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 perf.postrelease.com.akadns.net
@@ -23265,6 +23277,7 @@
 0.0.0.0 collection.sv.d2.omtrdc.net
 0.0.0.0 delivery.sv.d2.omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 animeconsortiumjapan.hb.omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 crackle.hb.omtrdc.net
@@ -23282,36 +23295,49 @@
 0.0.0.0 ns1.omtrdc.net
 0.0.0.0 ns2.omtrdc.net
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 adobeconsumer.sc.omtrdc.net
 0.0.0.0 advancedinfoservicespubliccompanylimited.sc.omtrdc.net
 0.0.0.0 aeoncredit.sc.omtrdc.net
 0.0.0.0 aicpa.sc.omtrdc.net
 0.0.0.0 aigjapan.sc.omtrdc.net
+0.0.0.0 animeconsortiumjapan.sc.omtrdc.net
 0.0.0.0 anixterinc.sc.omtrdc.net
 0.0.0.0 anshin.sc.omtrdc.net
 0.0.0.0 asahishimbun.sc.omtrdc.net
+0.0.0.0 associatednorthcliffedigital.sc.omtrdc.net
+0.0.0.0 axelspringer.sc.omtrdc.net
 0.0.0.0 b.sc.omtrdc.net
+0.0.0.0 barclaysinternational.sc.omtrdc.net
 0.0.0.0 bcg.sc.omtrdc.net
 0.0.0.0 cabelasinc.sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 capitaland.sc.omtrdc.net
 0.0.0.0 cathayunitedbank.sc.omtrdc.net
 0.0.0.0 cbbb.sc.omtrdc.net
+0.0.0.0 cisco.sc.omtrdc.net
+0.0.0.0 ciscolearningnetwork.sc.omtrdc.net
 0.0.0.0 cluesnetwork.sc.omtrdc.net
 0.0.0.0 www.colesonline.sc.omtrdc.net
 0.0.0.0 www.time.com.sc.omtrdc.net
 0.0.0.0 commerceforward.sc.omtrdc.net
 0.0.0.0 concurtechnologies.sc.omtrdc.net
+0.0.0.0 cylance.sc.omtrdc.net
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 adobepoctrials.d1.sc.omtrdc.net
 0.0.0.0 aetna.d1.sc.omtrdc.net
 0.0.0.0 apianalytics.d1.sc.omtrdc.net
+0.0.0.0 btbusiness.d1.sc.omtrdc.net
 0.0.0.0 citrixsaas.d1.sc.omtrdc.net
+0.0.0.0 adobe.com.d1.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
+0.0.0.0 dis.d1.sc.omtrdc.net
 0.0.0.0 esteelauder.d1.sc.omtrdc.net
 0.0.0.0 geico.d1.sc.omtrdc.net
 0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
+0.0.0.0 mousecomputer.d1.sc.omtrdc.net
 0.0.0.0 netsuite.d1.sc.omtrdc.net
 0.0.0.0 newjobs.d1.sc.omtrdc.net
+0.0.0.0 nielsencom.d1.sc.omtrdc.net
 0.0.0.0 nikkei.d1.sc.omtrdc.net
 0.0.0.0 nikon.d1.sc.omtrdc.net
 0.0.0.0 paloaltonetworks.d1.sc.omtrdc.net
@@ -23342,7 +23368,9 @@
 0.0.0.0 www.koreanair.d2.sc.omtrdc.net
 0.0.0.0 marine.d2.sc.omtrdc.net
 0.0.0.0 michaelkors.d2.sc.omtrdc.net
+0.0.0.0 muji.d2.sc.omtrdc.net
 0.0.0.0 pmi.d2.sc.omtrdc.net
+0.0.0.0 riafinancial.d2.sc.omtrdc.net
 0.0.0.0 riverbedtechnology.d2.sc.omtrdc.net
 0.0.0.0 simonandschuster.d2.sc.omtrdc.net
 0.0.0.0 smbctrustbank.d2.sc.omtrdc.net
@@ -23354,18 +23382,23 @@
 0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 toppan.d2.sc.omtrdc.net
+0.0.0.0 ucan.d2.sc.omtrdc.net
 0.0.0.0 upc.d2.sc.omtrdc.net
 0.0.0.0 vanguard.d2.sc.omtrdc.net
 0.0.0.0 d3.sc.omtrdc.net
 0.0.0.0 adidas.d3.sc.omtrdc.net
+0.0.0.0 alitalia.d3.sc.omtrdc.net
 0.0.0.0 bddf.d3.sc.omtrdc.net
 0.0.0.0 bmweretail.d3.sc.omtrdc.net
 0.0.0.0 bmwgroupapps.d3.sc.omtrdc.net
 0.0.0.0 dhlcom.d3.sc.omtrdc.net
+0.0.0.0 dyson.d3.sc.omtrdc.net
+0.0.0.0 fordeu.d3.sc.omtrdc.net
 0.0.0.0 fti.d3.sc.omtrdc.net
 0.0.0.0 gemalto.d3.sc.omtrdc.net
 0.0.0.0 hm.d3.sc.omtrdc.net
 0.0.0.0 kaspersky.d3.sc.omtrdc.net
+0.0.0.0 kaufland.d3.sc.omtrdc.net
 0.0.0.0 lafourchette.d3.sc.omtrdc.net
 0.0.0.0 mediaset.d3.sc.omtrdc.net
 0.0.0.0 www.merckgroup.d3.sc.omtrdc.net
@@ -23374,14 +23407,18 @@
 0.0.0.0 nissanheliosjaoaam.d3.sc.omtrdc.net
 0.0.0.0 opelautomobilegmbh.d3.sc.omtrdc.net
 0.0.0.0 pandoraas.d3.sc.omtrdc.net
+0.0.0.0 renaultaam.d3.sc.omtrdc.net
+0.0.0.0 rscomponentsltd.d3.sc.omtrdc.net
 0.0.0.0 www.rscomponentsltd.d3.sc.omtrdc.net
 0.0.0.0 telefonicauk.d3.sc.omtrdc.net
+0.0.0.0 theopenuniversity.d3.sc.omtrdc.net
 0.0.0.0 trusteesofthebritishmuseum.d3.sc.omtrdc.net
 0.0.0.0 ubmtech.d3.sc.omtrdc.net
 0.0.0.0 yamahamotoreurope.d3.sc.omtrdc.net
 0.0.0.0 dfsgroup.sc.omtrdc.net
 0.0.0.0 digitalgov.sc.omtrdc.net
 0.0.0.0 www.discoverydp.sc.omtrdc.net
+0.0.0.0 ehealthcare.sc.omtrdc.net
 0.0.0.0 epsonukltd.sc.omtrdc.net
 0.0.0.0 fossil.sc.omtrdc.net
 0.0.0.0 globis.sc.omtrdc.net
@@ -23389,6 +23426,8 @@
 0.0.0.0 hpjapan.sc.omtrdc.net
 0.0.0.0 hsbcbankglobal.sc.omtrdc.net
 0.0.0.0 hsbcbankhase.sc.omtrdc.net
+0.0.0.0 huawei.sc.omtrdc.net
+0.0.0.0 hulu.sc.omtrdc.net
 0.0.0.0 www.indigoaviation.sc.omtrdc.net
 0.0.0.0 ipros.sc.omtrdc.net
 0.0.0.0 jcb.sc.omtrdc.net
@@ -23404,6 +23443,8 @@
 0.0.0.0 maruivoi.sc.omtrdc.net
 0.0.0.0 medix.sc.omtrdc.net
 0.0.0.0 mercer.sc.omtrdc.net
+0.0.0.0 mgm.sc.omtrdc.net
+0.0.0.0 mitsubishielectric.sc.omtrdc.net
 0.0.0.0 mscdirect.sc.omtrdc.net
 0.0.0.0 msftenterprise.sc.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
@@ -23418,6 +23459,7 @@
 0.0.0.0 overseachinesebankingcorporationlimited.sc.omtrdc.net
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 panduit.sc.omtrdc.net
+0.0.0.0 permatabank.sc.omtrdc.net
 0.0.0.0 pitneybowes.sc.omtrdc.net
 0.0.0.0 plantronics.sc.omtrdc.net
 0.0.0.0 pluralsight.sc.omtrdc.net
@@ -23428,6 +23470,9 @@
 0.0.0.0 recruit.sc.omtrdc.net
 0.0.0.0 redhat.sc.omtrdc.net
 0.0.0.0 registercom.sc.omtrdc.net
+0.0.0.0 sfinvfisherinvestments.sc.omtrdc.net
+0.0.0.0 sfisherinvestments.sc.omtrdc.net
+0.0.0.0 siemens.sc.omtrdc.net
 0.0.0.0 signet.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
 0.0.0.0 spicejetlimited.sc.omtrdc.net
@@ -23435,18 +23480,21 @@
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 hbonow.com.ssl.sc.omtrdc.net
 0.0.0.0 thebiglead.com.ssl.sc.omtrdc.net
+0.0.0.0 valuecityfurniture.com.ssl.sc.omtrdc.net
 0.0.0.0 makro.pl.ssl.sc.omtrdc.net
 0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 calvinklein.us.ssl.sc.omtrdc.net
 0.0.0.0 takamilabo.sc.omtrdc.net
 0.0.0.0 tatasiaairlinesltd.sc.omtrdc.net
 0.0.0.0 tcscom.sc.omtrdc.net
+0.0.0.0 techdata.sc.omtrdc.net
 0.0.0.0 telkomsel.sc.omtrdc.net
 0.0.0.0 tycoelectronics.sc.omtrdc.net
 0.0.0.0 verisignchina.sc.omtrdc.net
 0.0.0.0 westcongroup.sc.omtrdc.net
 0.0.0.0 westpacbankinggroup.sc.omtrdc.net
 0.0.0.0 wileypublishing.sc.omtrdc.net
+0.0.0.0 wogadobeanalytics.sc.omtrdc.net
 0.0.0.0 worldbankgroup.sc.omtrdc.net
 0.0.0.0 d1.sv.omtrdc.net
 0.0.0.0 delivery.d1.sv.omtrdc.net
@@ -23459,6 +23507,7 @@
 0.0.0.0 3m.tt.omtrdc.net
 0.0.0.0 abbottlaboratories.tt.omtrdc.net
 0.0.0.0 adobe.tt.omtrdc.net
+0.0.0.0 adobeinternalmobiles.tt.omtrdc.net
 0.0.0.0 adobeinthvateam.tt.omtrdc.net
 0.0.0.0 adobeintyudaiyamamot.tt.omtrdc.net
 0.0.0.0 adt.tt.omtrdc.net
@@ -23466,12 +23515,15 @@
 0.0.0.0 aetna.tt.omtrdc.net
 0.0.0.0 agilenttechnologies.tt.omtrdc.net
 0.0.0.0 ais.tt.omtrdc.net
+0.0.0.0 alitalia.tt.omtrdc.net
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 americanairlines.tt.omtrdc.net
 0.0.0.0 asoscomltd.tt.omtrdc.net
 0.0.0.0 asurioninsuranceserv.tt.omtrdc.net
 0.0.0.0 attservicesinc.tt.omtrdc.net
 0.0.0.0 australianewzealandb.tt.omtrdc.net
+0.0.0.0 avivauk.tt.omtrdc.net
+0.0.0.0 avnet.tt.omtrdc.net
 0.0.0.0 bamtech.tt.omtrdc.net
 0.0.0.0 bmcsoftwareinc.tt.omtrdc.net
 0.0.0.0 branchbankingtrustco.tt.omtrdc.net
@@ -23486,6 +23538,7 @@
 0.0.0.0 computersciencescorp.tt.omtrdc.net
 0.0.0.0 concurtechnologies.tt.omtrdc.net
 0.0.0.0 creditcardscom.tt.omtrdc.net
+0.0.0.0 cylance.tt.omtrdc.net
 0.0.0.0 dardenrestaurants.tt.omtrdc.net
 0.0.0.0 dbs.tt.omtrdc.net
 0.0.0.0 dbsgsmc.tt.omtrdc.net
@@ -23495,13 +23548,16 @@
 0.0.0.0 digicert.tt.omtrdc.net
 0.0.0.0 digitaltransf.tt.omtrdc.net
 0.0.0.0 dsgretaillimited.tt.omtrdc.net
+0.0.0.0 dyson.tt.omtrdc.net
 0.0.0.0 enterpriseholdingsin.tt.omtrdc.net
 0.0.0.0 eondigitaluk.tt.omtrdc.net
 0.0.0.0 epson.tt.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 fedex.tt.omtrdc.net
 0.0.0.0 fiacardservicesgroup.tt.omtrdc.net
+0.0.0.0 fidelityinternationa.tt.omtrdc.net
 0.0.0.0 fireeye.tt.omtrdc.net
+0.0.0.0 fordeu.tt.omtrdc.net
 0.0.0.0 geico.tt.omtrdc.net
 0.0.0.0 globis.tt.omtrdc.net
 0.0.0.0 guitarcenter.tt.omtrdc.net
@@ -23519,11 +23575,14 @@
 0.0.0.0 jcb.tt.omtrdc.net
 0.0.0.0 jtt.tt.omtrdc.net
 0.0.0.0 junipernetworks.tt.omtrdc.net
+0.0.0.0 kaercher.tt.omtrdc.net
+0.0.0.0 kakakucom.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 lafourchette.tt.omtrdc.net
 0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 makemytrip.tt.omtrdc.net
 0.0.0.0 malaysiaairlines.tt.omtrdc.net
+0.0.0.0 marksandspencer.tt.omtrdc.net
 0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 maruig.tt.omtrdc.net
 0.0.0.0 mboxedge18.tt.omtrdc.net
@@ -23531,6 +23590,8 @@
 0.0.0.0 melbourneit.tt.omtrdc.net
 0.0.0.0 mercer.tt.omtrdc.net
 0.0.0.0 metlifeglobal.tt.omtrdc.net
+0.0.0.0 mgm.tt.omtrdc.net
+0.0.0.0 minetlife.tt.omtrdc.net
 0.0.0.0 mitsubishimotorscorp.tt.omtrdc.net
 0.0.0.0 mlbadvancedmedialp.tt.omtrdc.net
 0.0.0.0 monsterworldwide.tt.omtrdc.net
@@ -23544,6 +23605,7 @@
 0.0.0.0 nissanjp.tt.omtrdc.net
 0.0.0.0 nttplalaisp.tt.omtrdc.net
 0.0.0.0 nvidia.tt.omtrdc.net
+0.0.0.0 paloaltonetworks.tt.omtrdc.net
 0.0.0.0 panasoniccorporation.tt.omtrdc.net
 0.0.0.0 panduitcorporation.tt.omtrdc.net
 0.0.0.0 plantronics.tt.omtrdc.net
@@ -23552,9 +23614,12 @@
 0.0.0.0 premierfarnell.tt.omtrdc.net
 0.0.0.0 qatarairways.tt.omtrdc.net
 0.0.0.0 rakutentravel.tt.omtrdc.net
+0.0.0.0 recruitcap.tt.omtrdc.net
+0.0.0.0 recruitsuumo.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 registercom.tt.omtrdc.net
 0.0.0.0 riverbed.tt.omtrdc.net
+0.0.0.0 rscomponentsltd.tt.omtrdc.net
 0.0.0.0 samsungchina.tt.omtrdc.net
 0.0.0.0 savethechildrenfeder.tt.omtrdc.net
 0.0.0.0 schwab.tt.omtrdc.net
@@ -23565,6 +23630,7 @@
 0.0.0.0 skillsfuturesingapor.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 sonymobcomm.tt.omtrdc.net
+0.0.0.0 sonysonet2.tt.omtrdc.net
 0.0.0.0 staging.tt.omtrdc.net
 0.0.0.0 starhubltd.tt.omtrdc.net
 0.0.0.0 statestreetcorporati.tt.omtrdc.net
@@ -23572,7 +23638,10 @@
 0.0.0.0 tdbankfinancialgroup.tt.omtrdc.net
 0.0.0.0 telefonicauklimited.tt.omtrdc.net
 0.0.0.0 telkomsel.tt.omtrdc.net
+0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 theamericannationalr.tt.omtrdc.net
+0.0.0.0 thenielsencompany.tt.omtrdc.net
+0.0.0.0 trendmicro.tt.omtrdc.net
 0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 usaa.tt.omtrdc.net
@@ -23584,7 +23653,10 @@
 0.0.0.0 wbg.tt.omtrdc.net
 0.0.0.0 webex.tt.omtrdc.net
 0.0.0.0 webmdcom.tt.omtrdc.net
+0.0.0.0 webresint.tt.omtrdc.net
+0.0.0.0 websense.tt.omtrdc.net
 0.0.0.0 westerndigital.tt.omtrdc.net
+0.0.0.0 workday.tt.omtrdc.net
 0.0.0.0 wwgraingerinc.tt.omtrdc.net
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 1120.trkpnt.ongage.net
@@ -25340,6 +25412,8 @@
 0.0.0.0 yymt.adj.st
 0.0.0.0 zkwk.adj.st
 0.0.0.0 wpad.test
+0.0.0.0 cdn-media.brightline.tv
+0.0.0.0 services.brightline.tv
 0.0.0.0 extend.tv
 0.0.0.0 adaptvbidder-east.extend.tv
 0.0.0.0 adaptvbidder-west.extend.tv
