@@ -135,7 +135,7 @@ def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
     filtered = set(domains)
     for domain in domains:
         for pattern in whitelist:
-            if pattern.match(domain):
+            if domain in filtered and pattern.match(domain):
                 filtered.remove(domain)
                 print("whitelisted: %s" % domain)
     return filtered
