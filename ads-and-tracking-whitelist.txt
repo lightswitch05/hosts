@@ -95,3 +95,7 @@
 ^test\.
 ^optout\.
 
+# only block root - not user-att-104-1-192-0.a248.e.akamai.net
+^user-att-\S*.a248.e.akamai.net$
+
+
