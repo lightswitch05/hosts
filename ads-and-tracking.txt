@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-03T15:19:24+00:00
-# Count: 2093 domains
+# Released: 2018-12-03T17:42:57+00:00
+# Count: 2095 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -79,6 +79,8 @@
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 bugsnag.appstore.a2z.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
+0.0.0.0 aaxads.com
+0.0.0.0 c.aaxads.com
 0.0.0.0 accessiblemetrics.com
 0.0.0.0 adserver.aceofmedia.com
 0.0.0.0 acrabakasaka.com

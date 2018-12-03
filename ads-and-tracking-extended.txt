@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-12-03T15:19:24+00:00
-# Count: 27054 domains
+# Released: 2018-12-03T17:42:57+00:00
+# Count: 27069 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -603,6 +603,21 @@
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
 0.0.0.0 upload.bugsnag.appstore.a2z.com
+0.0.0.0 aaxads.com
+0.0.0.0 abcdtest.aaxads.com
+0.0.0.0 c.aaxads.com
+0.0.0.0 forbes.aaxads.com
+0.0.0.0 l.aaxads.com
+0.0.0.0 l1.aaxads.com
+0.0.0.0 l4.aaxads.com
+0.0.0.0 lb.aaxads.com
+0.0.0.0 cpanel.optout.aaxads.com
+0.0.0.0 mail.optout.aaxads.com
+0.0.0.0 webdisk.optout.aaxads.com
+0.0.0.0 webmail.optout.aaxads.com
+0.0.0.0 www.optout.aaxads.com
+0.0.0.0 p.aaxads.com
+0.0.0.0 s.aaxads.com
 0.0.0.0 accessiblemetrics.com
 0.0.0.0 cpanel.accessiblemetrics.com
 0.0.0.0 mail.accessiblemetrics.com
