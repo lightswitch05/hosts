@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-11-30T21:35:33+00:00
-# Count: 2089 domains
+# Released: 2018-12-03T15:19:24+00:00
+# Count: 2093 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -1072,6 +1072,7 @@
 0.0.0.0 mkto-pages.power.com
 0.0.0.0 px.powerlinks.com
 0.0.0.0 preapps.com
+0.0.0.0 track.pricespider.com
 0.0.0.0 privy.com
 0.0.0.0 widget.privy.com
 0.0.0.0 metrics.protectmyid.com
@@ -1426,6 +1427,8 @@
 0.0.0.0 static.vilynx.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 uid1.vindicosuite.com
+0.0.0.0 visibleconsumerinsight.com
+0.0.0.0 track.visibleconsumerinsight.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vizury.com
 0.0.0.0 cdn25.vizury.com
@@ -1936,6 +1939,7 @@
 0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
+0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 trkpnt.ongage.net
