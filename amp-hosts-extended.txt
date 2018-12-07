@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2018-12-05T12:22:27+00:00
-# Count: 415 domains
+# Released: 2018-12-07T12:21:55+00:00
+# Count: 425 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts-extended.txt
@@ -151,6 +151,7 @@
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 amp-sacbee-com.cdn.ampproject.org
 0.0.0.0 amp-si-com.cdn.ampproject.org
+0.0.0.0 amp-theadvertiser-com.cdn.ampproject.org
 0.0.0.0 amp-thestate-com.cdn.ampproject.org
 0.0.0.0 amp-timeinc-net.cdn.ampproject.org
 0.0.0.0 amp-usatoday-com.cdn.ampproject.org
@@ -179,6 +180,7 @@
 0.0.0.0 d1doqjmisr497k-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d1lss44hh2trtw-cloudfront-net.cdn.ampproject.org
 0.0.0.0 deadrabbit-barstoolsports-net.cdn.ampproject.org
+0.0.0.0 deadspin-com.cdn.ampproject.org
 0.0.0.0 diyprojects-com.cdn.ampproject.org
 0.0.0.0 ecs--assets-repairpal-com.cdn.ampproject.org
 0.0.0.0 elcomercio-pe.cdn.ampproject.org
@@ -239,10 +241,12 @@
 0.0.0.0 mobile-reuters-com.cdn.ampproject.org
 0.0.0.0 mp3teca-com.cdn.ampproject.org
 0.0.0.0 mundohispanico-com.cdn.ampproject.org
+0.0.0.0 nba-nbcsports-com.cdn.ampproject.org
 0.0.0.0 noticias-uol-com-br.cdn.ampproject.org
 0.0.0.0 nypost-com.cdn.ampproject.org
 0.0.0.0 observer-com.cdn.ampproject.org
 0.0.0.0 oflifeandlisa-com.cdn.ampproject.org
+0.0.0.0 pagesix-com.cdn.ampproject.org
 0.0.0.0 people-com.cdn.ampproject.org
 0.0.0.0 phototass1-cdnvideo-ru.cdn.ampproject.org
 0.0.0.0 prod--cdn-thekrazycouponlady-com.cdn.ampproject.org
@@ -281,6 +285,7 @@
 0.0.0.0 thekrazycouponlady-com.cdn.ampproject.org
 0.0.0.0 thunderousintentions-com.cdn.ampproject.org
 0.0.0.0 turbotax-intuit-com.cdn.ampproject.org
+0.0.0.0 tw-amp-chahaoba-com.cdn.ampproject.org
 0.0.0.0 ukraina-ru.cdn.ampproject.org
 0.0.0.0 union-theknot-com.cdn.ampproject.org
 0.0.0.0 usatbrownswire-files-wordpress-com.cdn.ampproject.org
@@ -311,12 +316,14 @@
 0.0.0.0 www-babble-com.cdn.ampproject.org
 0.0.0.0 www-barstoolsports-com.cdn.ampproject.org
 0.0.0.0 www-bassilo-it.cdn.ampproject.org
+0.0.0.0 www-bbc-com.cdn.ampproject.org
 0.0.0.0 www-bet-com.cdn.ampproject.org
 0.0.0.0 www-betreut-de.cdn.ampproject.org
 0.0.0.0 www-biblestudytools-com.cdn.ampproject.org
 0.0.0.0 www-bit-nelfr-com.cdn.ampproject.org
 0.0.0.0 www-bloodyelbow-com.cdn.ampproject.org
 0.0.0.0 www-bloomberg-com.cdn.ampproject.org
+0.0.0.0 www-bostonglobe-com.cdn.ampproject.org
 0.0.0.0 www-broadwayworld-com.cdn.ampproject.org
 0.0.0.0 www-buro247-ru.cdn.ampproject.org
 0.0.0.0 www-burtonmail-co-uk.cdn.ampproject.org
@@ -394,6 +401,7 @@
 0.0.0.0 www-officeholidays-com.cdn.ampproject.org
 0.0.0.0 www-peta-org-uk.cdn.ampproject.org
 0.0.0.0 www-pinterest-com.cdn.ampproject.org
+0.0.0.0 www-promiflash-de.cdn.ampproject.org
 0.0.0.0 www-psychologytoday-com.cdn.ampproject.org
 0.0.0.0 www-recode-net.cdn.ampproject.org
 0.0.0.0 www-revistaforum-com-br.cdn.ampproject.org
@@ -405,6 +413,7 @@
 0.0.0.0 www-sezenaksu-net.cdn.ampproject.org
 0.0.0.0 www-sfgate-com.cdn.ampproject.org
 0.0.0.0 www-shacknews-com.cdn.ampproject.org
+0.0.0.0 www-southbendtribune-com.cdn.ampproject.org
 0.0.0.0 www-sportskeeda-com.cdn.ampproject.org
 0.0.0.0 www-streakingthelawn-com.cdn.ampproject.org
 0.0.0.0 www-sun--sentinel-com.cdn.ampproject.org
@@ -420,6 +429,7 @@
 0.0.0.0 www-turfshowtimes-com.cdn.ampproject.org
 0.0.0.0 www-urbandictionary-com.cdn.ampproject.org
 0.0.0.0 www-vanityfair-com.cdn.ampproject.org
+0.0.0.0 www-voici-fr.cdn.ampproject.org
 0.0.0.0 www-vox-com.cdn.ampproject.org
 0.0.0.0 www-vulture-com.cdn.ampproject.org
 0.0.0.0 www-washingtonpost-com.cdn.ampproject.org
