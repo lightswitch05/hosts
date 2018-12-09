@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2018-12-07T12:21:55+00:00
-# Count: 425 domains
+# Released: 2018-12-09T12:20:58+00:00
+# Count: 438 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts-extended.txt
@@ -152,6 +152,7 @@
 0.0.0.0 amp-sacbee-com.cdn.ampproject.org
 0.0.0.0 amp-si-com.cdn.ampproject.org
 0.0.0.0 amp-theadvertiser-com.cdn.ampproject.org
+0.0.0.0 amp-theguardian-com.cdn.ampproject.org
 0.0.0.0 amp-thestate-com.cdn.ampproject.org
 0.0.0.0 amp-timeinc-net.cdn.ampproject.org
 0.0.0.0 amp-usatoday-com.cdn.ampproject.org
@@ -166,6 +167,7 @@
 0.0.0.0 c1-neweggimages-com.cdn.ampproject.org
 0.0.0.0 cdn-apartmenttherapy-info.cdn.ampproject.org
 0.0.0.0 cdn-branch-io.cdn.ampproject.org
+0.0.0.0 cdn-datafloq-com.cdn.ampproject.org
 0.0.0.0 cdn-gsmarena-com.cdn.ampproject.org
 0.0.0.0 cdn1--www-wrestlezone-com.cdn.ampproject.org
 0.0.0.0 cdn1-itpro-co-uk.cdn.ampproject.org
@@ -179,6 +181,7 @@
 0.0.0.0 d167y3o4ydtmfg-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d1doqjmisr497k-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d1lss44hh2trtw-cloudfront-net.cdn.ampproject.org
+0.0.0.0 datafloq-com.cdn.ampproject.org
 0.0.0.0 deadrabbit-barstoolsports-net.cdn.ampproject.org
 0.0.0.0 deadspin-com.cdn.ampproject.org
 0.0.0.0 diyprojects-com.cdn.ampproject.org
@@ -218,13 +221,17 @@
 0.0.0.0 img4-dmty-pl.cdn.ampproject.org
 0.0.0.0 imgur-com.cdn.ampproject.org
 0.0.0.0 joker-doeda-com.cdn.ampproject.org
+0.0.0.0 karierafreelancera-wordpress-com.cdn.ampproject.org
 0.0.0.0 kjtesmnktqewkibfydup5kptvdr6x4i647ts7ajbqjdisellsnyq.cdn.ampproject.org
+0.0.0.0 klwp--pro-es-aptoide-com.cdn.ampproject.org
 0.0.0.0 kwcqmo-hoep-site.cdn.ampproject.org
 0.0.0.0 la100-cienradios-com.cdn.ampproject.org
 0.0.0.0 liveresources-mensxp-com.cdn.ampproject.org
 0.0.0.0 livraria-bibliacatolica-com-br.cdn.ampproject.org
 0.0.0.0 loadvid-online.cdn.ampproject.org
 0.0.0.0 m-47news-ru.cdn.ampproject.org
+0.0.0.0 m-apkpure-com.cdn.ampproject.org
+0.0.0.0 m-brasilescola-uol-com-br.cdn.ampproject.org
 0.0.0.0 m-gsmarena-com.cdn.ampproject.org
 0.0.0.0 m-huffingtonpost-gr.cdn.ampproject.org
 0.0.0.0 m-jpost-com.cdn.ampproject.org
@@ -335,6 +342,7 @@
 0.0.0.0 www-ccn-com.cdn.ampproject.org
 0.0.0.0 www-chicagotribune-com.cdn.ampproject.org
 0.0.0.0 www-chron-com.cdn.ampproject.org
+0.0.0.0 www-cleveland-com.cdn.ampproject.org
 0.0.0.0 www-cnbc-com.cdn.ampproject.org
 0.0.0.0 www-cnet-com.cdn.ampproject.org
 0.0.0.0 www-collinsdictionary-com.cdn.ampproject.org
@@ -365,12 +373,14 @@
 0.0.0.0 www-groupon-com.cdn.ampproject.org
 0.0.0.0 www-harpersbazaar-de.cdn.ampproject.org
 0.0.0.0 www-highpe-com.cdn.ampproject.org
+0.0.0.0 www-history-com.cdn.ampproject.org
 0.0.0.0 www-hotnewhiphop-com.cdn.ampproject.org
 0.0.0.0 www-howtoisolve-com.cdn.ampproject.org
 0.0.0.0 www-igeeksblog-com.cdn.ampproject.org
 0.0.0.0 www-ilfoglio-it.cdn.ampproject.org
 0.0.0.0 www-ilmessaggero-it.cdn.ampproject.org
 0.0.0.0 www-in-gr.cdn.ampproject.org
+0.0.0.0 www-inspiredbythis-com.cdn.ampproject.org
 0.0.0.0 www-instantcheckmate-com.cdn.ampproject.org
 0.0.0.0 www-itpro-co-uk.cdn.ampproject.org
 0.0.0.0 www-jpost-com.cdn.ampproject.org
@@ -397,6 +407,7 @@
 0.0.0.0 www-nba-com.cdn.ampproject.org
 0.0.0.0 www-nbcnews-com.cdn.ampproject.org
 0.0.0.0 www-newsweek-com.cdn.ampproject.org
+0.0.0.0 www-nikkansports-com.cdn.ampproject.org
 0.0.0.0 www-nytimes-com.cdn.ampproject.org
 0.0.0.0 www-officeholidays-com.cdn.ampproject.org
 0.0.0.0 www-peta-org-uk.cdn.ampproject.org
@@ -410,6 +421,7 @@
 0.0.0.0 www-samsung-com.cdn.ampproject.org
 0.0.0.0 www-sbnation-com.cdn.ampproject.org
 0.0.0.0 www-seattlepi-com.cdn.ampproject.org
+0.0.0.0 www-self-com.cdn.ampproject.org
 0.0.0.0 www-sezenaksu-net.cdn.ampproject.org
 0.0.0.0 www-sfgate-com.cdn.ampproject.org
 0.0.0.0 www-shacknews-com.cdn.ampproject.org
@@ -419,6 +431,7 @@
 0.0.0.0 www-sun--sentinel-com.cdn.ampproject.org
 0.0.0.0 www-tasteofhome-com.cdn.ampproject.org
 0.0.0.0 www-techspot-com.cdn.ampproject.org
+0.0.0.0 www-theandroidsoul-com.cdn.ampproject.org
 0.0.0.0 www-theatlantic-com.cdn.ampproject.org
 0.0.0.0 www-theverge-com.cdn.ampproject.org
 0.0.0.0 www-theweathernetwork-com.cdn.ampproject.org
