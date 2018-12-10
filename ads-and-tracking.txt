@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-10T15:58:32+00:00
-# Count: 2093 domains
+# Released: 2018-12-10T16:08:44+00:00
+# Count: 2114 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -1132,10 +1132,31 @@
 0.0.0.0 rocketadx.com
 0.0.0.0 ads.roku.com
 0.0.0.0 p.ads.roku.com
+0.0.0.0 cloudservices.roku.com
 0.0.0.0 logs.roku.com
+0.0.0.0 amarillo.logs.roku.com
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 bryan.logs.roku.com
+0.0.0.0 camden.logs.roku.com
 0.0.0.0 cooper.logs.roku.com
+0.0.0.0 digdug.logs.roku.com
+0.0.0.0 digdug-g2.logs.roku.com
 0.0.0.0 giga.logs.roku.com
+0.0.0.0 gilbert.logs.roku.com
+0.0.0.0 griffin.logs.roku.com
+0.0.0.0 hereford.logs.roku.com
+0.0.0.0 lagrange.logs.roku.com
+0.0.0.0 liberty.logs.roku.com
+0.0.0.0 littlefield.logs.roku.com
+0.0.0.0 longview.logs.roku.com
+0.0.0.0 midland.logs.roku.com
+0.0.0.0 mobile.logs.roku.com
+0.0.0.0 paolo.logs.roku.com
+0.0.0.0 richmond.logs.roku.com
+0.0.0.0 rollingwood.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
+0.0.0.0 sugarland.logs.roku.com
+0.0.0.0 tyler.logs.roku.com
 0.0.0.0 track.sr.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 rollbar.com
