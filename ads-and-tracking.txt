@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-05T14:21:51+00:00
-# Count: 2094 domains
+# Released: 2018-12-11T15:13:21+00:00
+# Count: 2116 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -662,6 +662,7 @@
 0.0.0.0 clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 hs-scripts.com
+0.0.0.0 htlbid.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 links.ibotta.com
@@ -1131,10 +1132,31 @@
 0.0.0.0 rocketadx.com
 0.0.0.0 ads.roku.com
 0.0.0.0 p.ads.roku.com
+0.0.0.0 cloudservices.roku.com
 0.0.0.0 logs.roku.com
+0.0.0.0 amarillo.logs.roku.com
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 bryan.logs.roku.com
+0.0.0.0 camden.logs.roku.com
 0.0.0.0 cooper.logs.roku.com
+0.0.0.0 digdug.logs.roku.com
+0.0.0.0 digdug-g2.logs.roku.com
 0.0.0.0 giga.logs.roku.com
+0.0.0.0 gilbert.logs.roku.com
+0.0.0.0 griffin.logs.roku.com
+0.0.0.0 hereford.logs.roku.com
+0.0.0.0 lagrange.logs.roku.com
+0.0.0.0 liberty.logs.roku.com
+0.0.0.0 littlefield.logs.roku.com
+0.0.0.0 longview.logs.roku.com
+0.0.0.0 midland.logs.roku.com
+0.0.0.0 mobile.logs.roku.com
+0.0.0.0 paolo.logs.roku.com
+0.0.0.0 richmond.logs.roku.com
+0.0.0.0 rollingwood.logs.roku.com
 0.0.0.0 scribe.logs.roku.com
+0.0.0.0 sugarland.logs.roku.com
+0.0.0.0 tyler.logs.roku.com
 0.0.0.0 track.sr.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 rollbar.com
@@ -1523,7 +1545,6 @@
 0.0.0.0 p.yotpo.com
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 w2.yotpo.com
-0.0.0.0 yottaa.com
 0.0.0.0 zemanta.com
 0.0.0.0 wprp.zemanta.com
 0.0.0.0 analytics.zg-api.com
@@ -2016,7 +2037,6 @@
 0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 ir2-beap.cb.g01.yahoodns.net
 0.0.0.0 yieldmanager.net
-0.0.0.0 yottaa.net
 0.0.0.0 qoe-1.yottaa.net
 0.0.0.0 ywxi.net
 0.0.0.0 cdn.ywxi.net
