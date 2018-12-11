@@ -116,4 +116,14 @@
 # Way too many of these api-34-212-119-222.b2c.com
 ^api-\S+\.b2c.com$
 
+# Looks like these might be random 699-uli-976.mktoresp.com
+^\d{3}-[a-z]{3}-\d{3}\.mktoresp.com$
+
+# Perhaps chat specific 93489-39.chat.api.drift.com
+# also 1050938-38.live.api.drift.com
+^\d+-\d+\.(chat|live)\.api\.drift\.com$
+
+# There are a ton of these - maybe random s1259914507.t.eloqua.com
+^s\d+\.t\.en25\.com$
+
 
