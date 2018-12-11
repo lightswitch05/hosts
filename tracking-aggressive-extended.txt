@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-09T12:40:31+00:00
-# Count: 2658 domains
+# Released: 2018-12-11T12:38:09+00:00
+# Count: 2673 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -154,6 +154,7 @@
 0.0.0.0 kbb.ugc.bazaarvoice.com
 0.0.0.0 kiehls-us.ugc.bazaarvoice.com
 0.0.0.0 kirklands.ugc.bazaarvoice.com
+0.0.0.0 kodakeurope.ugc.bazaarvoice.com
 0.0.0.0 kohls.ugc.bazaarvoice.com
 0.0.0.0 lactaid.ugc.bazaarvoice.com
 0.0.0.0 ladyfootlocker.ugc.bazaarvoice.com
@@ -162,6 +163,7 @@
 0.0.0.0 lizearle.ugc.bazaarvoice.com
 0.0.0.0 lowes.ugc.bazaarvoice.com
 0.0.0.0 lululemon.ugc.bazaarvoice.com
+0.0.0.0 lumens.ugc.bazaarvoice.com
 0.0.0.0 macys.ugc.bazaarvoice.com
 0.0.0.0 madewell.ugc.bazaarvoice.com
 0.0.0.0 magpie-static.ugc.bazaarvoice.com
@@ -182,6 +184,7 @@
 0.0.0.0 orange.ugc.bazaarvoice.com
 0.0.0.0 orchardbrands.ugc.bazaarvoice.com
 0.0.0.0 orientaltrading.ugc.bazaarvoice.com
+0.0.0.0 oriflame.ugc.bazaarvoice.com
 0.0.0.0 orion.ugc.bazaarvoice.com
 0.0.0.0 paris.ugc.bazaarvoice.com
 0.0.0.0 philips.ugc.bazaarvoice.com
@@ -487,6 +490,7 @@
 0.0.0.0 df183.mta.exacttarget.com
 0.0.0.0 df2.mta.exacttarget.com
 0.0.0.0 df215.mta.exacttarget.com
+0.0.0.0 df222.mta.exacttarget.com
 0.0.0.0 df66.mta.exacttarget.com
 0.0.0.0 df67.mta.exacttarget.com
 0.0.0.0 dg152.mta.exacttarget.com
@@ -1270,6 +1274,7 @@
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 www.chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
+0.0.0.0 1.chromefeedcontentsuggestions-pa.googleapis.com
 0.0.0.0 hellomedian.com
 0.0.0.0 app.hellomedian.com
 0.0.0.0 app-cache.hellomedian.com
@@ -1675,11 +1680,13 @@
 0.0.0.0 charlotterusse.narvar.com
 0.0.0.0 chicos.narvar.com
 0.0.0.0 colehaan.narvar.com
+0.0.0.0 columbia.narvar.com
 0.0.0.0 corp.narvar.com
 0.0.0.0 crocs.narvar.com
 0.0.0.0 developer.narvar.com
 0.0.0.0 dickssportinggoods.narvar.com
 0.0.0.0 discuss.narvar.com
+0.0.0.0 dressbarn.narvar.com
 0.0.0.0 dsw.narvar.com
 0.0.0.0 dvf.narvar.com
 0.0.0.0 eastbay.narvar.com
@@ -1724,9 +1731,11 @@
 0.0.0.0 off5th.narvar.com
 0.0.0.0 oldnavy.narvar.com
 0.0.0.0 onekingslane.narvar.com
+0.0.0.0 orvis.narvar.com
 0.0.0.0 palletforks.narvar.com
 0.0.0.0 pandora.narvar.com
 0.0.0.0 patagonia.narvar.com
+0.0.0.0 paulaschoice.narvar.com
 0.0.0.0 petco.narvar.com
 0.0.0.0 pier1.narvar.com
 0.0.0.0 prettylittlething.narvar.com
@@ -1757,6 +1766,7 @@
 0.0.0.0 thenorthface.narvar.com
 0.0.0.0 therealreal.narvar.com
 0.0.0.0 thermofisher.narvar.com
+0.0.0.0 tiffany.narvar.com
 0.0.0.0 titanfitness.narvar.com
 0.0.0.0 tracking.narvar.com
 0.0.0.0 tracking-assets-prod01.narvar.com
@@ -2380,6 +2390,7 @@
 0.0.0.0 api.simpleanalytics.io
 0.0.0.0 blog.simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 iceland.simpleanalytics.io
 0.0.0.0 metabase.simpleanalytics.io
 0.0.0.0 www.simpleanalytics.io
 0.0.0.0 buff.ly
@@ -2490,6 +2501,7 @@
 0.0.0.0 connector-wolseley.uk.gomoxie.solutions
 0.0.0.0 events-capitagroup.uk.gomoxie.solutions
 0.0.0.0 events-chillinsurance.uk.gomoxie.solutions
+0.0.0.0 events-hofmann.uk.gomoxie.solutions
 0.0.0.0 events-love2shop.uk.gomoxie.solutions
 0.0.0.0 events-newcote.uk.gomoxie.solutions
 0.0.0.0 events-parkretail.uk.gomoxie.solutions
@@ -2498,6 +2510,7 @@
 0.0.0.0 events-wolseley.uk.gomoxie.solutions
 0.0.0.0 identity-capitagroup.uk.gomoxie.solutions
 0.0.0.0 identity-chillinsurance.uk.gomoxie.solutions
+0.0.0.0 identity-hofmann.uk.gomoxie.solutions
 0.0.0.0 identity-love2shop.uk.gomoxie.solutions
 0.0.0.0 identity-newcote.uk.gomoxie.solutions
 0.0.0.0 identity-parkretail.uk.gomoxie.solutions
@@ -2507,6 +2520,7 @@
 0.0.0.0 location.uk.gomoxie.solutions
 0.0.0.0 log-capitagroup.uk.gomoxie.solutions
 0.0.0.0 log-chillinsurance.uk.gomoxie.solutions
+0.0.0.0 log-hofmann.uk.gomoxie.solutions
 0.0.0.0 log-love2shop.uk.gomoxie.solutions
 0.0.0.0 log-newcote.uk.gomoxie.solutions
 0.0.0.0 log-parkretail.uk.gomoxie.solutions
@@ -2515,6 +2529,7 @@
 0.0.0.0 tawk.to
 0.0.0.0 asa11.tawk.to
 0.0.0.0 asa12.tawk.to
+0.0.0.0 asa14.tawk.to
 0.0.0.0 asa18.tawk.to
 0.0.0.0 asa5.tawk.to
 0.0.0.0 asa6.tawk.to
