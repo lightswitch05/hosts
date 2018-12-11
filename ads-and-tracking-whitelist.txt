@@ -124,6 +124,7 @@
 ^\d+-\d+\.(chat|live)\.api\.drift\.com$
 
 # There are a ton of these - maybe random s1259914507.t.eloqua.com
-^s\d+\.t\.en25\.com$
+# also s1575097598.t.eloqua.com
+^s\d+\.t\.(en25|eloqua)\.com$
 
 
