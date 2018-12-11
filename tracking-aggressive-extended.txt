@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-11T15:19:02+00:00
-# Count: 2546 domains
+# Released: 2018-12-11T15:25:34+00:00
+# Count: 2544 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -21,7 +21,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-0.0.0.0 759a9c3683f062e642a5db69e46694d03c6300aa
 0.0.0.0 cortana.ai
 0.0.0.0 api.cortana.ai
 0.0.0.0 querysuggestions-int.api.cortana.ai
@@ -2220,7 +2219,6 @@
 0.0.0.0 weather.wapp.wii.com
 0.0.0.0 cdf-anon.xboxlive.com
 0.0.0.0 settings-ssl.xboxlive.com
-0.0.0.0 head
 0.0.0.0 ipinfo.io
 0.0.0.0 4.ipinfo.io
 0.0.0.0 admin.ipinfo.io
