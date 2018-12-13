@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-11T15:25:34+00:00
-# Count: 2544 domains
+# Released: 2018-12-13T13:10:45+00:00
+# Count: 2553 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -96,6 +96,7 @@
 0.0.0.0 choice-au.ugc.bazaarvoice.com
 0.0.0.0 clarins.ugc.bazaarvoice.com
 0.0.0.0 coach-ssl.ugc.bazaarvoice.com
+0.0.0.0 coachuk.ugc.bazaarvoice.com
 0.0.0.0 coaststores.ugc.bazaarvoice.com
 0.0.0.0 columbiasportswear.ugc.bazaarvoice.com
 0.0.0.0 conforama.ugc.bazaarvoice.com
@@ -114,6 +115,7 @@
 0.0.0.0 eastbay.ugc.bazaarvoice.com
 0.0.0.0 eileenfisher.ugc.bazaarvoice.com
 0.0.0.0 ensure.ugc.bazaarvoice.com
+0.0.0.0 epson-store.ugc.bazaarvoice.com
 0.0.0.0 epsonenau.ugc.bazaarvoice.com
 0.0.0.0 epsonlatinamerica.ugc.bazaarvoice.com
 0.0.0.0 escentual.ugc.bazaarvoice.com
@@ -239,6 +241,7 @@
 0.0.0.0 wella-us.ugc.bazaarvoice.com
 0.0.0.0 wiggle.ugc.bazaarvoice.com
 0.0.0.0 wonderbox.ugc.bazaarvoice.com
+0.0.0.0 wusthof.ugc.bazaarvoice.com
 0.0.0.0 xerox.ugc.bazaarvoice.com
 0.0.0.0 location.bloomberg.com
 0.0.0.0 personalization.bloomberg.com
@@ -297,6 +300,7 @@
 0.0.0.0 akamai-san30.exacttarget.com
 0.0.0.0 akamai-san31.exacttarget.com
 0.0.0.0 akamai-san32.exacttarget.com
+0.0.0.0 akamai-san33.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
@@ -402,6 +406,7 @@
 0.0.0.0 prg-mc-dr.global.exacttarget.com
 0.0.0.0 prg-members.global.exacttarget.com
 0.0.0.0 prg-members-dr.global.exacttarget.com
+0.0.0.0 www.global.exacttarget.com
 0.0.0.0 globalops.exacttarget.com
 0.0.0.0 gtm01.exacttarget.com
 0.0.0.0 gtm02.exacttarget.com
@@ -429,6 +434,7 @@
 0.0.0.0 login.exacttarget.com
 0.0.0.0 mc.login.exacttarget.com
 0.0.0.0 mc27dc2p63lspxl102q8rxr927qm.login.exacttarget.com
+0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
 0.0.0.0 s50.login.exacttarget.com
 0.0.0.0 login-qa1.exacttarget.com
@@ -475,6 +481,7 @@
 0.0.0.0 cw3.mta.exacttarget.com
 0.0.0.0 cw78.mta.exacttarget.com
 0.0.0.0 cw82.mta.exacttarget.com
+0.0.0.0 cz194.mta.exacttarget.com
 0.0.0.0 cz40.mta.exacttarget.com
 0.0.0.0 db102.mta.exacttarget.com
 0.0.0.0 db146.mta.exacttarget.com
@@ -496,10 +503,12 @@
 0.0.0.0 dg152.mta.exacttarget.com
 0.0.0.0 dg176.mta.exacttarget.com
 0.0.0.0 dg250.mta.exacttarget.com
+0.0.0.0 dg32.mta.exacttarget.com
 0.0.0.0 dg7.mta.exacttarget.com
 0.0.0.0 dg92.mta.exacttarget.com
 0.0.0.0 di82.mta.exacttarget.com
 0.0.0.0 dj2.mta.exacttarget.com
+0.0.0.0 el70.mta.exacttarget.com
 0.0.0.0 fg34.mta.exacttarget.com
 0.0.0.0 fg40.mta.exacttarget.com
 0.0.0.0 fg56.mta.exacttarget.com
