@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-16T17:31:58+00:00
-# Count: 2125 domains
+# Released: 2018-12-16T17:44:23+00:00
+# Count: 2130 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -132,6 +132,8 @@
 0.0.0.0 adotmob.com
 0.0.0.0 sync.adotmob.com
 0.0.0.0 adpredictive.com
+0.0.0.0 adpushup.com
+0.0.0.0 cdn.adpushup.com
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
 0.0.0.0 adrelevantis.com
@@ -423,6 +425,8 @@
 0.0.0.0 clevergirlscollective.com
 0.0.0.0 badge.clevergirlscollective.com
 0.0.0.0 clickconvertsell.com
+0.0.0.0 clickfunnels.com
+0.0.0.0 app.clickfunnels.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 mediavine-res.cloudinary.com
 0.0.0.0 clrstm.com
@@ -1759,6 +1763,7 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 analytics.ccgateway.net
 0.0.0.0 pespn.chartbeat.net
+0.0.0.0 hop.clickbank.net
 0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
