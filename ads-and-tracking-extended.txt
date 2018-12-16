@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-12-13T17:03:00+00:00
-# Count: 25696 domains
+# Released: 2018-12-16T17:31:58+00:00
+# Count: 25756 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -15151,6 +15151,7 @@
 0.0.0.0 wpt.speedcurve.com
 0.0.0.0 wpt1.speedcurve.com
 0.0.0.0 www.speedcurve.com
+0.0.0.0 analytics.spongecell.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-static.spotify.com
@@ -20795,6 +20796,7 @@
 0.0.0.0 demdex.net
 0.0.0.0 127.demdex.net
 0.0.0.0 aaa.demdex.net
+0.0.0.0 aaaautoclubsouth.demdex.net
 0.0.0.0 abc.demdex.net
 0.0.0.0 abg.demdex.net
 0.0.0.0 absa.demdex.net
@@ -20803,18 +20805,22 @@
 0.0.0.0 adobe.demdex.net
 0.0.0.0 aexp.demdex.net
 0.0.0.0 fast.aexp.demdex.net
+0.0.0.0 agilent.demdex.net
 0.0.0.0 aicpa.demdex.net
 0.0.0.0 airtel.demdex.net
 0.0.0.0 alitalia.demdex.net
 0.0.0.0 ally.demdex.net
 0.0.0.0 amadeusitgroup.demdex.net
 0.0.0.0 amc.demdex.net
+0.0.0.0 americanairlines.demdex.net
 0.0.0.0 amersports.demdex.net
 0.0.0.0 amplifon.demdex.net
+0.0.0.0 ancestry-mcsp.demdex.net
 0.0.0.0 anixterinc.demdex.net
 0.0.0.0 fast.anshin.demdex.net
 0.0.0.0 anz.demdex.net
 0.0.0.0 aoretail.demdex.net
+0.0.0.0 appleitunes.demdex.net
 0.0.0.0 asiamiles.demdex.net
 0.0.0.0 fast.asiamiles.demdex.net
 0.0.0.0 asos.demdex.net
@@ -20823,19 +20829,25 @@
 0.0.0.0 audible.demdex.net
 0.0.0.0 aufeminin.demdex.net
 0.0.0.0 auspost.demdex.net
+0.0.0.0 avayainc.demdex.net
 0.0.0.0 aviancaadobe.demdex.net
 0.0.0.0 axelspringer.demdex.net
+0.0.0.0 b2w.demdex.net
 0.0.0.0 ba.demdex.net
 0.0.0.0 bamtech.demdex.net
 0.0.0.0 bawagpsk.demdex.net
 0.0.0.0 bbandt.demdex.net
 0.0.0.0 bbg.demdex.net
+0.0.0.0 bellmedia.demdex.net
 0.0.0.0 bestbuy.demdex.net
 0.0.0.0 bestbuycanada.demdex.net
+0.0.0.0 betandwin.demdex.net
 0.0.0.0 bitdefender.demdex.net
+0.0.0.0 bizjounals.demdex.net
 0.0.0.0 bmc.demdex.net
 0.0.0.0 fast.bmc.demdex.net
 0.0.0.0 bmofinancial.demdex.net
+0.0.0.0 boehringer.demdex.net
 0.0.0.0 bofa.demdex.net
 0.0.0.0 boncom.demdex.net
 0.0.0.0 bose.demdex.net
@@ -20854,21 +20866,28 @@
 0.0.0.0 cdiscount.demdex.net
 0.0.0.0 centurylink.demdex.net
 0.0.0.0 cetelemportugal.demdex.net
+0.0.0.0 christies.demdex.net
 0.0.0.0 ciena.demdex.net
 0.0.0.0 cimb.demdex.net
 0.0.0.0 cisco.demdex.net
 0.0.0.0 fast.cisco.demdex.net
 0.0.0.0 ciscolearningnetwork.demdex.net
 0.0.0.0 ciscowebex.demdex.net
+0.0.0.0 clydesdalebankplc.demdex.net
 0.0.0.0 comcast.demdex.net
+0.0.0.0 comcastathena.demdex.net
+0.0.0.0 commerceforward.demdex.net
 0.0.0.0 fast.computersciencescorporation.demdex.net
 0.0.0.0 condenast.demdex.net
+0.0.0.0 cornerbanca.demdex.net
 0.0.0.0 costco.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 creditone.demdex.net
 0.0.0.0 cru.demdex.net
 0.0.0.0 csas.demdex.net
 0.0.0.0 cumminsandpartners.demdex.net
+0.0.0.0 dardenrestaurants.demdex.net
+0.0.0.0 darty.demdex.net
 0.0.0.0 deere.demdex.net
 0.0.0.0 dell.demdex.net
 0.0.0.0 delta.demdex.net
@@ -20880,6 +20899,7 @@
 0.0.0.0 douglasgmbh.demdex.net
 0.0.0.0 dowjones.demdex.net
 0.0.0.0 dpcomdhl.demdex.net
+0.0.0.0 dsgretaillimited.demdex.net
 0.0.0.0 dswinc.demdex.net
 0.0.0.0 fast.dunbradstreetinc.demdex.net
 0.0.0.0 ebayinc.demdex.net
@@ -20892,6 +20912,7 @@
 0.0.0.0 elsevier.demdex.net
 0.0.0.0 equinox.demdex.net
 0.0.0.0 error.demdex.net
+0.0.0.0 fast.espn.demdex.net
 0.0.0.0 euronewsgroup.demdex.net
 0.0.0.0 everydayhealth.demdex.net
 0.0.0.0 expedia.demdex.net
@@ -20900,6 +20921,7 @@
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 fedex.demdex.net
 0.0.0.0 fgh.demdex.net
+0.0.0.0 fglsports.demdex.net
 0.0.0.0 fidelity.demdex.net
 0.0.0.0 fifththird.demdex.net
 0.0.0.0 findlaw.demdex.net
@@ -20912,6 +20934,8 @@
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 foxtel.demdex.net
+0.0.0.0 freescalesemiconduct.demdex.net
+0.0.0.0 fressnapf.demdex.net
 0.0.0.0 frontiercomm.demdex.net
 0.0.0.0 galeriakaufhof.demdex.net
 0.0.0.0 gannett.demdex.net
@@ -20936,7 +20960,9 @@
 0.0.0.0 hyundai.demdex.net
 0.0.0.0 iciciprulife.demdex.net
 0.0.0.0 ihg.demdex.net
+0.0.0.0 incommholdings.demdex.net
 0.0.0.0 ingbankslaski.demdex.net
+0.0.0.0 ingitaly.demdex.net
 0.0.0.0 ingrammicro.demdex.net
 0.0.0.0 intelcorp.demdex.net
 0.0.0.0 intersportfrance.demdex.net
@@ -20945,11 +20971,13 @@
 0.0.0.0 jcrew.demdex.net
 0.0.0.0 jet.demdex.net
 0.0.0.0 johnlewis.demdex.net
+0.0.0.0 junkeemedia.demdex.net
 0.0.0.0 kaspersky.demdex.net
 0.0.0.0 kauflandstiftung.demdex.net
 0.0.0.0 kijiji.demdex.net
 0.0.0.0 kohls.demdex.net
 0.0.0.0 landsend.demdex.net
+0.0.0.0 lapress.demdex.net
 0.0.0.0 laredoute.demdex.net
 0.0.0.0 lcinternational.demdex.net
 0.0.0.0 ldproducts.demdex.net
@@ -20962,6 +20990,7 @@
 0.0.0.0 manulife.demdex.net
 0.0.0.0 marktplaats.demdex.net
 0.0.0.0 marriottinternationa.demdex.net
+0.0.0.0 mathrubhumi.demdex.net
 0.0.0.0 mathworks.demdex.net
 0.0.0.0 mcafeeinc.demdex.net
 0.0.0.0 mediaset.demdex.net
@@ -20983,21 +21012,28 @@
 0.0.0.0 nba.demdex.net
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcuni.demdex.net
+0.0.0.0 nd.demdex.net
+0.0.0.0 netshoes.demdex.net
 0.0.0.0 fast.netsuiteinc.demdex.net
 0.0.0.0 networkappliance.demdex.net
 0.0.0.0 newegginc.demdex.net
+0.0.0.0 newpharma.demdex.net
 0.0.0.0 newscorpau.demdex.net
 0.0.0.0 newyorklife.demdex.net
 0.0.0.0 nfl.demdex.net
+0.0.0.0 nintendoofamericainc.demdex.net
 0.0.0.0 nissan-helios-na.demdex.net
 0.0.0.0 nissanhelioseurope.demdex.net
 0.0.0.0 nuance.demdex.net
 0.0.0.0 nutanix.demdex.net
+0.0.0.0 nyulmc.demdex.net
 0.0.0.0 officeworks.demdex.net
 0.0.0.0 okaidi.demdex.net
 0.0.0.0 omniture.demdex.net
 0.0.0.0 orange.demdex.net
+0.0.0.0 ovstk.demdex.net
 0.0.0.0 pabst.demdex.net
+0.0.0.0 paloalto.demdex.net
 0.0.0.0 panasonicglobal.demdex.net
 0.0.0.0 pcf.demdex.net
 0.0.0.0 pcl.demdex.net
@@ -21005,13 +21041,17 @@
 0.0.0.0 pfizerpch.demdex.net
 0.0.0.0 pluralsight.demdex.net
 0.0.0.0 postoffice.demdex.net
+0.0.0.0 prisacom.demdex.net
+0.0.0.0 proximus.demdex.net
 0.0.0.0 purestorage.demdex.net
 0.0.0.0 px.demdex.net
 0.0.0.0 qdg.demdex.net
 0.0.0.0 questsoftware.demdex.net
+0.0.0.0 rakutensecurities.demdex.net
 0.0.0.0 rbs.demdex.net
 0.0.0.0 rcci.demdex.net
 0.0.0.0 reagroup-1.demdex.net
+0.0.0.0 redbox.demdex.net
 0.0.0.0 redhat.demdex.net
 0.0.0.0 rei-mcsp.demdex.net
 0.0.0.0 renault.demdex.net
@@ -21034,6 +21074,7 @@
 0.0.0.0 samsungseao.demdex.net
 0.0.0.0 sap.demdex.net
 0.0.0.0 saxo-bank.demdex.net
+0.0.0.0 scentsy.demdex.net
 0.0.0.0 schwab.demdex.net
 0.0.0.0 scotiabank.demdex.net
 0.0.0.0 scripps.demdex.net
@@ -21059,6 +21100,7 @@
 0.0.0.0 spotify.demdex.net
 0.0.0.0 spreadshirt.demdex.net
 0.0.0.0 starbucks.demdex.net
+0.0.0.0 starkgroup.demdex.net
 0.0.0.0 subaruofamerica.demdex.net
 0.0.0.0 subway.demdex.net
 0.0.0.0 suncorp.demdex.net
@@ -21066,6 +21108,7 @@
 0.0.0.0 swa.demdex.net
 0.0.0.0 fast.swa.demdex.net
 0.0.0.0 swinburneuniversityoftech.demdex.net
+0.0.0.0 swisscom.demdex.net
 0.0.0.0 fast.swisscom.demdex.net
 0.0.0.0 symantec.demdex.net
 0.0.0.0 tcs.demdex.net
@@ -21081,12 +21124,18 @@
 0.0.0.0 fast.timeuk.demdex.net
 0.0.0.0 tmg.demdex.net
 0.0.0.0 tnz.demdex.net
+0.0.0.0 tracfone.demdex.net
 0.0.0.0 tribunemedia.demdex.net
 0.0.0.0 trowepriceassociatesinc.demdex.net
+0.0.0.0 turner2.demdex.net
 0.0.0.0 tycoelectronicscorporation.demdex.net
 0.0.0.0 uber.demdex.net
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 ubm.demdex.net
+0.0.0.0 underarmourinc.demdex.net
+0.0.0.0 unibet.demdex.net
+0.0.0.0 unilever.demdex.net
+0.0.0.0 unitedhealthgroup.demdex.net
 0.0.0.0 ups.demdex.net
 0.0.0.0 usaa.demdex.net
 0.0.0.0 usbank.demdex.net
@@ -21094,24 +21143,34 @@
 0.0.0.0 verizon.demdex.net
 0.0.0.0 verizoncorp.demdex.net
 0.0.0.0 verizonenterprise.demdex.net
+0.0.0.0 verizontelematic.demdex.net
 0.0.0.0 vfde.demdex.net
 0.0.0.0 vice.demdex.net
 0.0.0.0 vidalfrance.demdex.net
+0.0.0.0 virginaustralia.demdex.net
 0.0.0.0 vivaki.demdex.net
 0.0.0.0 vmwareinc.demdex.net
 0.0.0.0 fast.vmwareinc.demdex.net
+0.0.0.0 vocento.demdex.net
+0.0.0.0 vodafonein.demdex.net
 0.0.0.0 vodafoneuk.demdex.net
 0.0.0.0 volkswagen.demdex.net
 0.0.0.0 volvo.demdex.net
+0.0.0.0 vsctechnologies.demdex.net
 0.0.0.0 webmd.demdex.net
 0.0.0.0 wellsfargobankna.demdex.net
 0.0.0.0 westcon.demdex.net
 0.0.0.0 westernunion.demdex.net
 0.0.0.0 wfg.demdex.net
 0.0.0.0 wileypublishing.demdex.net
+0.0.0.0 williamhill.demdex.net
 0.0.0.0 wizink.demdex.net
+0.0.0.0 wogaa.demdex.net
+0.0.0.0 worldbank.demdex.net
+0.0.0.0 www.demdex.net
 0.0.0.0 xerox.demdex.net
 0.0.0.0 xfinitydigital.demdex.net
+0.0.0.0 xingag.demdex.net
 0.0.0.0 yellspain.demdex.net
 0.0.0.0 yle.demdex.net
 0.0.0.0 zebratechnologies.demdex.net
@@ -21384,6 +21443,7 @@
 0.0.0.0 6747132.fls.doubleclick.net
 0.0.0.0 6763511.fls.doubleclick.net
 0.0.0.0 6854279.fls.doubleclick.net
+0.0.0.0 685973.fls.doubleclick.net
 0.0.0.0 6869300.fls.doubleclick.net
 0.0.0.0 6870903.fls.doubleclick.net
 0.0.0.0 6883423.fls.doubleclick.net
