@@ -127,4 +127,7 @@
 # also s1575097598.t.eloqua.com
 ^s\d+\.t\.(en25|eloqua)\.com$
 
+# Whitelist random looking clickbank domains like fdcbd9l73gup3o9ri5sb4hnyc6.hop.clickbank.net
+^\S***REMOVED***26***REMOVED***.hop.clickbank.net$
+
 
