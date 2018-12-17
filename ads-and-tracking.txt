@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-17T13:45:31+00:00
-# Count: 2132 domains
+# Released: 2018-12-17T19:12:11+00:00
+# Count: 2135 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -671,6 +671,7 @@
 0.0.0.0 htlbid.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 vortex.hulu.com
+0.0.0.0 iad-apple.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
@@ -1721,6 +1722,8 @@
 0.0.0.0 ns.leadback.ace.advertising.com.adcom.akadns.net
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 vortex.hulu.com.akadns.net
+0.0.0.0 iad-apple.com.akadns.net
+0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 rfihub.com.akadns.net
