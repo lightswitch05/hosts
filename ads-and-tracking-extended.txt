@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-12-16T17:44:23+00:00
-# Count: 25934 domains
+# Released: 2018-12-17T13:41:02+00:00
+# Count: 25936 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -15559,6 +15559,8 @@
 0.0.0.0 na-gateway.supersonicads.com
 0.0.0.0 nativeapi.supersonicads.com
 0.0.0.0 outcome.supersonicads.com
+0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 postback.supersonicads.com
 0.0.0.0 pub-api.supersonicads.com
