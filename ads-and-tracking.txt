@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-13T17:03:00+00:00
-# Count: 2116 domains
+# Released: 2018-12-18T13:52:41+00:00
+# Count: 2136 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -94,6 +94,7 @@
 0.0.0.0 adbiq.com
 0.0.0.0 adbull.com
 0.0.0.0 adcolony.com
+0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 director.adcolony.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 adcrowd.com
@@ -131,6 +132,8 @@
 0.0.0.0 adotmob.com
 0.0.0.0 sync.adotmob.com
 0.0.0.0 adpredictive.com
+0.0.0.0 adpushup.com
+0.0.0.0 cdn.adpushup.com
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
 0.0.0.0 adrelevantis.com
@@ -422,6 +425,8 @@
 0.0.0.0 clevergirlscollective.com
 0.0.0.0 badge.clevergirlscollective.com
 0.0.0.0 clickconvertsell.com
+0.0.0.0 clickfunnels.com
+0.0.0.0 app.clickfunnels.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 mediavine-res.cloudinary.com
 0.0.0.0 clrstm.com
@@ -666,6 +671,7 @@
 0.0.0.0 htlbid.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 vortex.hulu.com
+0.0.0.0 iad-apple.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
 0.0.0.0 s.ibotta.com
@@ -691,6 +697,7 @@
 0.0.0.0 s-video.innovid.com
 0.0.0.0 installfarm.com
 0.0.0.0 adserver.installfarm.com
+0.0.0.0 tracking.instantcheckmate.com
 0.0.0.0 instartlogic.com
 0.0.0.0 insights.integralads.com
 0.0.0.0 intelsad.com
@@ -1232,6 +1239,7 @@
 0.0.0.0 sonobi.com
 0.0.0.0 speedcurve.com
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 analytics.spongecell.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-static.spotify.com
@@ -1293,6 +1301,7 @@
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 supersonicads.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 survata.com
 0.0.0.0 ev.surveywall-api.survata.com
@@ -1713,6 +1722,8 @@
 0.0.0.0 ns.leadback.ace.advertising.com.adcom.akadns.net
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 vortex.hulu.com.akadns.net
+0.0.0.0 iad-apple.com.akadns.net
+0.0.0.0 webproxy-advp.iad-apple.com.akadns.net
 0.0.0.0 postrelease.com.akadns.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 rfihub.com.akadns.net
@@ -1757,6 +1768,7 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 analytics.ccgateway.net
 0.0.0.0 pespn.chartbeat.net
+0.0.0.0 hop.clickbank.net
 0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
@@ -1789,17 +1801,22 @@
 0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 edge-va6.demdex.net
+0.0.0.0 fast.espn.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 ford.demdex.net
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 gslb.demdex.net
+0.0.0.0 havas.demdex.net
 0.0.0.0 intelcorp.demdex.net
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 tdameritrade.demdex.net
+0.0.0.0 tracfone.demdex.net
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 vanguard.demdex.net
 0.0.0.0 verizon.demdex.net
+0.0.0.0 verizoncorp.demdex.net
+0.0.0.0 verizonwireless.demdex.net
 0.0.0.0 vivaki.demdex.net
 0.0.0.0 xfinitydigital.demdex.net
 0.0.0.0 districtm.net
@@ -1820,6 +1837,7 @@
 0.0.0.0 5322221.fls.doubleclick.net
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 6635101.fls.doubleclick.net
+0.0.0.0 685973.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -1962,6 +1980,7 @@
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
@@ -2092,6 +2111,7 @@
 0.0.0.0 adj.st
 0.0.0.0 76g3.adj.st
 0.0.0.0 7xdj.adj.st
+0.0.0.0 dhs7.adj.st
 0.0.0.0 h38c.adj.st
 0.0.0.0 nn8g.adj.st
 0.0.0.0 rzte.adj.st
