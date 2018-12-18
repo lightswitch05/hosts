@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-18T14:07:09+00:00
-# Count: 2142 domains
+# Released: 2018-12-18T21:21:02+00:00
+# Count: 2145 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -111,6 +111,8 @@
 0.0.0.0 orionimg.adkmob.com
 0.0.0.0 adlightning.com
 0.0.0.0 tagan.adlightning.com
+0.0.0.0 admantx.com
+0.0.0.0 usasync01.admantx.com
 0.0.0.0 admedia.com
 0.0.0.0 admedo.com
 0.0.0.0 pj.l.admedo.com
@@ -597,6 +599,7 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 gateway.foresee.com
 0.0.0.0 record.foresee.com
+0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fqtag.com
 0.0.0.0 s.fqtag.com
 0.0.0.0 metrics.freecreditscore.com
