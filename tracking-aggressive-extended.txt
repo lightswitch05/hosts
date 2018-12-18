@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-17T12:40:47+00:00
-# Count: 2568 domains
+# Released: 2018-12-18T14:12:29+00:00
+# Count: 2569 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -1780,6 +1780,7 @@
 0.0.0.0 wyoming.olark.com
 0.0.0.0 zulu.olark.com
 0.0.0.0 zw.olark.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 pingdom.com
 0.0.0.0 aday.pingdom.com
 0.0.0.0 api.pingdom.com

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-18T13:52:41+00:00
-# Count: 2136 domains
+# Released: 2018-12-18T14:07:09+00:00
+# Count: 2142 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -267,6 +267,7 @@
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
+0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 t.ambra.com
 0.0.0.0 amplitude.com
@@ -1139,6 +1140,7 @@
 0.0.0.0 rocketadv.com
 0.0.0.0 rocketadx.com
 0.0.0.0 ads.roku.com
+0.0.0.0 i.ads.roku.com
 0.0.0.0 p.ads.roku.com
 0.0.0.0 cloudservices.roku.com
 0.0.0.0 logs.roku.com
@@ -1220,6 +1222,7 @@
 0.0.0.0 api-p.shopcurbside.com
 0.0.0.0 shopkick.com
 0.0.0.0 beyond-api.shopkick.com
+0.0.0.0 stats.api.si.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 silverpop.com
@@ -1256,6 +1259,7 @@
 0.0.0.0 ssacdn.com
 0.0.0.0 cx.ssacdn.com
 0.0.0.0 www.ssacdn.com
+0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 metrics.starz.com
 0.0.0.0 stripcdn.com
@@ -1551,6 +1555,7 @@
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 cs.yieldoptimizer.com
 0.0.0.0 tag.yieldoptimizer.com
+0.0.0.0 ymstat.com
 0.0.0.0 yodelmobile.com
 0.0.0.0 p.yotpo.com
 0.0.0.0 staticw2.yotpo.com
@@ -1645,6 +1650,7 @@
 0.0.0.0 bip.presage.io
 0.0.0.0 piwik.privacytools.io
 0.0.0.0 api.pubwise.io
+0.0.0.0 api.radar.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 rtk.io
 0.0.0.0 bidder.rtk.io
