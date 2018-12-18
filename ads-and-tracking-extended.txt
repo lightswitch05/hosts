@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-12-18T13:52:41+00:00
-# Count: 26037 domains
+# Released: 2018-12-18T14:07:09+00:00
+# Count: 26044 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -3100,6 +3100,7 @@
 0.0.0.0 www.device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
+0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 t.ambra.com
 0.0.0.0 amplitude.com
@@ -14867,6 +14868,7 @@
 0.0.0.0 tech.shopkick.com
 0.0.0.0 web.shopkick.com
 0.0.0.0 www.shopkick.com
+0.0.0.0 stats.api.si.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 www.adsdk.siliconorchard.com
@@ -15419,6 +15421,7 @@
 0.0.0.0 v.ssacdn.com
 0.0.0.0 vcc.ssacdn.com
 0.0.0.0 www.ssacdn.com
+0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 api.stack-sonar.com
 0.0.0.0 www.stack-sonar.com
@@ -18286,6 +18289,9 @@
 0.0.0.0 rubicon-dc2.yieldoptimizer.com
 0.0.0.0 rubicon-dc3.yieldoptimizer.com
 0.0.0.0 tag.yieldoptimizer.com
+0.0.0.0 ymstat.com
+0.0.0.0 dev.ymstat.com
+0.0.0.0 www.ymstat.com
 0.0.0.0 yodelmobile.com
 0.0.0.0 daniel.yodelmobile.com
 0.0.0.0 www.daniel.yodelmobile.com
@@ -19336,6 +19342,7 @@
 0.0.0.0 www.presage.io
 0.0.0.0 piwik.privacytools.io
 0.0.0.0 api.pubwise.io
+0.0.0.0 api.radar.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 rtk.io
 0.0.0.0 bidder.rtk.io
