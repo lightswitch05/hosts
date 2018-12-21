@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-19T12:44:50+00:00
-# Count: 2583 domains
+# Released: 2018-12-21T12:48:13+00:00
+# Count: 2595 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -110,6 +110,7 @@
 0.0.0.0 disneystore.ugc.bazaarvoice.com
 0.0.0.0 display.ugc.bazaarvoice.com
 0.0.0.0 display-qa.ugc.bazaarvoice.com
+0.0.0.0 display-rc.ugc.bazaarvoice.com
 0.0.0.0 display-stg.ugc.bazaarvoice.com
 0.0.0.0 display-test.ugc.bazaarvoice.com
 0.0.0.0 dorothyperkins.ugc.bazaarvoice.com
@@ -117,6 +118,7 @@
 0.0.0.0 drsfosterandsmith.ugc.bazaarvoice.com
 0.0.0.0 eastbay.ugc.bazaarvoice.com
 0.0.0.0 eileenfisher.ugc.bazaarvoice.com
+0.0.0.0 emedco.ugc.bazaarvoice.com
 0.0.0.0 ensure.ugc.bazaarvoice.com
 0.0.0.0 epson-store.ugc.bazaarvoice.com
 0.0.0.0 epsonenau.ugc.bazaarvoice.com
@@ -244,6 +246,7 @@
 0.0.0.0 vandenborre.ugc.bazaarvoice.com
 0.0.0.0 verizonwireless.ugc.bazaarvoice.com
 0.0.0.0 verkkokauppa.ugc.bazaarvoice.com
+0.0.0.0 virginwines.ugc.bazaarvoice.com
 0.0.0.0 vitaminworld.ugc.bazaarvoice.com
 0.0.0.0 vodafone.ugc.bazaarvoice.com
 0.0.0.0 walmart.ugc.bazaarvoice.com
@@ -475,6 +478,7 @@
 0.0.0.0 cc15.mta.exacttarget.com
 0.0.0.0 cd152.mta.exacttarget.com
 0.0.0.0 cj135.mta.exacttarget.com
+0.0.0.0 cl125.mta.exacttarget.com
 0.0.0.0 cr10.mta.exacttarget.com
 0.0.0.0 cr101.mta.exacttarget.com
 0.0.0.0 cr107.mta.exacttarget.com
@@ -2088,6 +2092,12 @@
 0.0.0.0 webdisk.admin.spymasterpro.com
 0.0.0.0 webmail.admin.spymasterpro.com
 0.0.0.0 www.admin.spymasterpro.com
+0.0.0.0 api.spymasterpro.com
+0.0.0.0 cpanel.api.spymasterpro.com
+0.0.0.0 mail.api.spymasterpro.com
+0.0.0.0 webdisk.api.spymasterpro.com
+0.0.0.0 webmail.api.spymasterpro.com
+0.0.0.0 www.api.spymasterpro.com
 0.0.0.0 captain.spymasterpro.com
 0.0.0.0 www.captain.spymasterpro.com
 0.0.0.0 cpanel.spymasterpro.com
@@ -2283,6 +2293,7 @@
 0.0.0.0 api.simpleanalytics.io
 0.0.0.0 blog.simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 external.simpleanalytics.io
 0.0.0.0 iceland.simpleanalytics.io
 0.0.0.0 metabase.simpleanalytics.io
 0.0.0.0 notify.simpleanalytics.io
@@ -2443,6 +2454,7 @@
 0.0.0.0 asa3.tawk.to
 0.0.0.0 asa5.tawk.to
 0.0.0.0 asa6.tawk.to
+0.0.0.0 asa7.tawk.to
 0.0.0.0 asa8.tawk.to
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb11.tawk.to
