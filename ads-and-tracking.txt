@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-18T21:21:02+00:00
-# Count: 2145 domains
+# Released: 2018-12-21T14:04:19+00:00
+# Count: 2148 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -626,6 +626,7 @@
 0.0.0.0 getambassador.com
 0.0.0.0 cdn.getambassador.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
 0.0.0.0 analytics.getpostman.com
@@ -1779,6 +1780,7 @@
 0.0.0.0 pespn.chartbeat.net
 0.0.0.0 hop.clickbank.net
 0.0.0.0 cookieconsent.cloudapp.net
+0.0.0.0 pdwuengagementapiwkr.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
 0.0.0.0 sconsentit903.cloudapp.net
 0.0.0.0 sconsentit904.cloudapp.net
@@ -1840,6 +1842,7 @@
 0.0.0.0 3944448.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
 0.0.0.0 4354787.fls.doubleclick.net
+0.0.0.0 4449091.fls.doubleclick.net
 0.0.0.0 4514783.fls.doubleclick.net
 0.0.0.0 4645336.fls.doubleclick.net
 0.0.0.0 4735610.fls.doubleclick.net
