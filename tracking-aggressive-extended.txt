@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-23T12:47:35+00:00
-# Count: 2596 domains
+# Released: 2018-12-25T12:47:09+00:00
+# Count: 2604 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -82,6 +82,7 @@
 0.0.0.0 c1.ugc.bazaarvoice.com
 0.0.0.0 c5.ugc.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
+0.0.0.0 callaway.ugc.bazaarvoice.com
 0.0.0.0 callawaygolfpreowned.ugc.bazaarvoice.com
 0.0.0.0 callawayjapan.ugc.bazaarvoice.com
 0.0.0.0 carters.ugc.bazaarvoice.com
@@ -116,6 +117,7 @@
 0.0.0.0 dorothyperkins.ugc.bazaarvoice.com
 0.0.0.0 douglas.ugc.bazaarvoice.com
 0.0.0.0 drsfosterandsmith.ugc.bazaarvoice.com
+0.0.0.0 dyson.ugc.bazaarvoice.com
 0.0.0.0 eastbay.ugc.bazaarvoice.com
 0.0.0.0 eileenfisher.ugc.bazaarvoice.com
 0.0.0.0 emedco.ugc.bazaarvoice.com
@@ -226,6 +228,7 @@
 0.0.0.0 tassimo-eu.ugc.bazaarvoice.com
 0.0.0.0 thebodyshop.ugc.bazaarvoice.com
 0.0.0.0 thebodyshop-usa.ugc.bazaarvoice.com
+0.0.0.0 thebodyshopca.ugc.bazaarvoice.com
 0.0.0.0 theentertainer.ugc.bazaarvoice.com
 0.0.0.0 theworks.ugc.bazaarvoice.com
 0.0.0.0 ticketmaster.ugc.bazaarvoice.com
@@ -449,6 +452,7 @@
 0.0.0.0 mc27dc2p63lspxl102q8rxr927qm.login.exacttarget.com
 0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
+0.0.0.0 mcq3v6k8917x8lg5w6s-94jck1r4.login.exacttarget.com
 0.0.0.0 s50.login.exacttarget.com
 0.0.0.0 login-qa1.exacttarget.com
 0.0.0.0 mc.login-qa1.exacttarget.com
@@ -1080,8 +1084,12 @@
 0.0.0.0 demo.gigya.com
 0.0.0.0 dev.demo.gigya.com
 0.0.0.0 www.dev.demo.gigya.com
+0.0.0.0 idp.demo.gigya.com
+0.0.0.0 www.idp.demo.gigya.com
 0.0.0.0 rp.demo.gigya.com
 0.0.0.0 www.rp.demo.gigya.com
+0.0.0.0 sp.demo.gigya.com
+0.0.0.0 www.sp.demo.gigya.com
 0.0.0.0 staging.demo.gigya.com
 0.0.0.0 www.staging.demo.gigya.com
 0.0.0.0 www.demo.gigya.com
