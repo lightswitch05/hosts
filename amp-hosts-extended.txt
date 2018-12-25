@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2018-12-23T12:26:35+00:00
-# Count: 492 domains
+# Released: 2018-12-25T12:26:08+00:00
+# Count: 507 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts-extended.txt
@@ -180,6 +180,8 @@
 0.0.0.0 cdn2--www-wrestlezone-com.cdn.ampproject.org
 0.0.0.0 cdn2-gsmarena-com.cdn.ampproject.org
 0.0.0.0 cdn3--www-wrestlezone-com.cdn.ampproject.org
+0.0.0.0 cdn57-androidauthority-net.cdn.ampproject.org
+0.0.0.0 cdn7-bbend-net.cdn.ampproject.org
 0.0.0.0 cdn8-bigcommerce-com.cdn.ampproject.org
 0.0.0.0 chasehsabina-com.cdn.ampproject.org
 0.0.0.0 cms-barstoolsports-com.cdn.ampproject.org
@@ -297,6 +299,7 @@
 0.0.0.0 slickdeals-net.cdn.ampproject.org
 0.0.0.0 sondershausen-thueringer--allgemeine-de.cdn.ampproject.org
 0.0.0.0 spletnik-ru.cdn.ampproject.org
+0.0.0.0 sputniknews-com.cdn.ampproject.org
 0.0.0.0 ssla-ulximg-com.cdn.ampproject.org
 0.0.0.0 sslc-ulximg-com.cdn.ampproject.org
 0.0.0.0 ssld-ulximg-com.cdn.ampproject.org
@@ -384,6 +387,7 @@
 0.0.0.0 www-courant-com.cdn.ampproject.org
 0.0.0.0 www-cultofmac-com.cdn.ampproject.org
 0.0.0.0 www-curejoy-com.cdn.ampproject.org
+0.0.0.0 www-cybereason-com.cdn.ampproject.org
 0.0.0.0 www-dailystar-co-uk.cdn.ampproject.org
 0.0.0.0 www-daytondailynews-com.cdn.ampproject.org
 0.0.0.0 www-digitalcitizen-life.cdn.ampproject.org
@@ -405,6 +409,8 @@
 0.0.0.0 www-fxstreet-com.cdn.ampproject.org
 0.0.0.0 www-gamenerdz-com.cdn.ampproject.org
 0.0.0.0 www-gamespot-com.cdn.ampproject.org
+0.0.0.0 www-gizchina-com.cdn.ampproject.org
+0.0.0.0 www-globalresearch-ca.cdn.ampproject.org
 0.0.0.0 www-golf-com.cdn.ampproject.org
 0.0.0.0 www-google-com.cdn.ampproject.org
 0.0.0.0 www-gourmettraveller-com-au.cdn.ampproject.org
@@ -413,14 +419,18 @@
 0.0.0.0 www-harpersbazaar-de.cdn.ampproject.org
 0.0.0.0 www-highpe-com.cdn.ampproject.org
 0.0.0.0 www-history-com.cdn.ampproject.org
+0.0.0.0 www-hit--channel-com.cdn.ampproject.org
 0.0.0.0 www-hotnewhiphop-com.cdn.ampproject.org
 0.0.0.0 www-howtoisolve-com.cdn.ampproject.org
+0.0.0.0 www-humanite-fr.cdn.ampproject.org
+0.0.0.0 www-iefimerida-gr.cdn.ampproject.org
 0.0.0.0 www-ifcmtrade-asia.cdn.ampproject.org
 0.0.0.0 www-igeeksblog-com.cdn.ampproject.org
 0.0.0.0 www-ilfoglio-it.cdn.ampproject.org
 0.0.0.0 www-ilmessaggero-it.cdn.ampproject.org
 0.0.0.0 www-in-gr.cdn.ampproject.org
 0.0.0.0 www-independent-co-uk.cdn.ampproject.org
+0.0.0.0 www-insider-gr.cdn.ampproject.org
 0.0.0.0 www-inspiredbythis-com.cdn.ampproject.org
 0.0.0.0 www-instantcheckmate-com.cdn.ampproject.org
 0.0.0.0 www-inverse-com.cdn.ampproject.org
@@ -432,6 +442,7 @@
 0.0.0.0 www-ksta-de.cdn.ampproject.org
 0.0.0.0 www-la--croix-com.cdn.ampproject.org
 0.0.0.0 www-ladbible-com.cdn.ampproject.org
+0.0.0.0 www-ladylike-gr.cdn.ampproject.org
 0.0.0.0 www-lanacion-com-ar.cdn.ampproject.org
 0.0.0.0 www-laprensa-hn.cdn.ampproject.org
 0.0.0.0 www-latimes-com.cdn.ampproject.org
@@ -453,10 +464,12 @@
 0.0.0.0 www-nikkansports-com.cdn.ampproject.org
 0.0.0.0 www-nytimes-com.cdn.ampproject.org
 0.0.0.0 www-nzz-ch.cdn.ampproject.org
+0.0.0.0 www-ocregister-com.cdn.ampproject.org
 0.0.0.0 www-officeholidays-com.cdn.ampproject.org
 0.0.0.0 www-peta-org-uk.cdn.ampproject.org
 0.0.0.0 www-pinterest-com.cdn.ampproject.org
 0.0.0.0 www-promiflash-de.cdn.ampproject.org
+0.0.0.0 www-protagon-gr.cdn.ampproject.org
 0.0.0.0 www-psychologytoday-com.cdn.ampproject.org
 0.0.0.0 www-recode-net.cdn.ampproject.org
 0.0.0.0 www-revistaforum-com-br.cdn.ampproject.org
@@ -485,6 +498,7 @@
 0.0.0.0 www-theatlantic-com.cdn.ampproject.org
 0.0.0.0 www-thecut-com.cdn.ampproject.org
 0.0.0.0 www-thedailymeal-com.cdn.ampproject.org
+0.0.0.0 www-thepressroom-gr.cdn.ampproject.org
 0.0.0.0 www-theverge-com.cdn.ampproject.org
 0.0.0.0 www-theweathernetwork-com.cdn.ampproject.org
 0.0.0.0 www-thisweeknews-com.cdn.ampproject.org
@@ -502,6 +516,7 @@
 0.0.0.0 www-weeklystandard-com.cdn.ampproject.org
 0.0.0.0 www-wfla-com.cdn.ampproject.org
 0.0.0.0 www-whattoexpect-com.cdn.ampproject.org
+0.0.0.0 www-windows--commandline-com.cdn.ampproject.org
 0.0.0.0 www-wired-com.cdn.ampproject.org
 0.0.0.0 www-wkyc-com.cdn.ampproject.org
 0.0.0.0 www-wrestlezone-com.cdn.ampproject.org
