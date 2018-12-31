@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-29T12:51:30+00:00
-# Count: 2611 domains
+# Released: 2018-12-31T12:47:11+00:00
+# Count: 2613 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -698,6 +698,7 @@
 0.0.0.0 members.s4.exacttarget.com
 0.0.0.0 pages.s4.exacttarget.com
 0.0.0.0 pub.s4.exacttarget.com
+0.0.0.0 reply-mx.s4.exacttarget.com
 0.0.0.0 scpweb.s4.exacttarget.com
 0.0.0.0 view.s4.exacttarget.com
 0.0.0.0 virt.s4.exacttarget.com
@@ -2527,6 +2528,7 @@
 0.0.0.0 www.wordpress48.phdev.tawk.to
 0.0.0.0 www.phdev.tawk.to
 0.0.0.0 ref.tawk.to
+0.0.0.0 static-a.tawk.to
 0.0.0.0 static-v.tawk.to
 0.0.0.0 upload.tawk.to
 0.0.0.0 va.tawk.to
