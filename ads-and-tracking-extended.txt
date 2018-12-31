@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2018-12-29T12:27:49+00:00
-# Count: 30952 domains
+# Released: 2018-12-31T12:23:28+00:00
+# Count: 31104 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -502,6 +502,7 @@
 0.0.0.0 oascnx18077.247realmedia.com
 0.0.0.0 oase00793.247realmedia.com
 0.0.0.0 oase00821.247realmedia.com
+0.0.0.0 oase00824.247realmedia.com
 0.0.0.0 oase00906.247realmedia.com
 0.0.0.0 oase00917.247realmedia.com
 0.0.0.0 oasn-en1.247realmedia.com
@@ -1027,6 +1028,7 @@
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fra1-mobile.adnxs.com
 0.0.0.0 g.adnxs.com
+0.0.0.0 sin1.g.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 ams10.ib.adnxs.com
@@ -2560,6 +2562,7 @@
 0.0.0.0 pulsepoint-platform.rtb.adx1.com
 0.0.0.0 www.pulsepoint-platform.rtb.adx1.com
 0.0.0.0 readywind.rtb.adx1.com
+0.0.0.0 reklam-adexpertsmedia.rtb.adx1.com
 0.0.0.0 reklam-adfries.rtb.adx1.com
 0.0.0.0 reklam-adsiduous.rtb.adx1.com
 0.0.0.0 rtbc-waardex.rtb.adx1.com
@@ -3753,6 +3756,7 @@
 0.0.0.0 global.appsflyer.com
 0.0.0.0 hq.appsflyer.com
 0.0.0.0 hq1.appsflyer.com
+0.0.0.0 hq58.appsflyer.com
 0.0.0.0 hub.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impressions-gc.appsflyer.com
@@ -4563,6 +4567,7 @@
 0.0.0.0 ms148-115.bronto.com
 0.0.0.0 ms148-122.bronto.com
 0.0.0.0 ms148-129.bronto.com
+0.0.0.0 ms148-130.bronto.com
 0.0.0.0 ms148-138.bronto.com
 0.0.0.0 ms148-140.bronto.com
 0.0.0.0 ms148-145.bronto.com
@@ -4581,6 +4586,7 @@
 0.0.0.0 ms157-014.bronto.com
 0.0.0.0 ms157-016.bronto.com
 0.0.0.0 ms157-021.bronto.com
+0.0.0.0 ms157-053.bronto.com
 0.0.0.0 ms163.bronto.com
 0.0.0.0 ms171.bronto.com
 0.0.0.0 ms179.bronto.com
@@ -4873,6 +4879,7 @@
 0.0.0.0 a109.casalemedia.com
 0.0.0.0 a1134.casalemedia.com
 0.0.0.0 a1162.casalemedia.com
+0.0.0.0 a1210.casalemedia.com
 0.0.0.0 a1219.casalemedia.com
 0.0.0.0 a1221.casalemedia.com
 0.0.0.0 a1224.casalemedia.com
@@ -5167,6 +5174,7 @@
 0.0.0.0 a1732.casalemedia.com
 0.0.0.0 a174.casalemedia.com
 0.0.0.0 a1749.casalemedia.com
+0.0.0.0 a1756.casalemedia.com
 0.0.0.0 a1759.casalemedia.com
 0.0.0.0 a1765.casalemedia.com
 0.0.0.0 a1770.casalemedia.com
@@ -5369,6 +5377,7 @@
 0.0.0.0 a2159.casalemedia.com
 0.0.0.0 a2162.casalemedia.com
 0.0.0.0 a2163.casalemedia.com
+0.0.0.0 a2164.casalemedia.com
 0.0.0.0 a2165.casalemedia.com
 0.0.0.0 a2167.casalemedia.com
 0.0.0.0 a2168.casalemedia.com
@@ -5669,6 +5678,7 @@
 0.0.0.0 a3392.casalemedia.com
 0.0.0.0 a3393.casalemedia.com
 0.0.0.0 a3395.casalemedia.com
+0.0.0.0 a3397.casalemedia.com
 0.0.0.0 a3398.casalemedia.com
 0.0.0.0 a3399.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
@@ -5690,10 +5700,12 @@
 0.0.0.0 a3631.casalemedia.com
 0.0.0.0 a3635.casalemedia.com
 0.0.0.0 a3641.casalemedia.com
+0.0.0.0 a3659.casalemedia.com
 0.0.0.0 a3673.casalemedia.com
 0.0.0.0 a3677.casalemedia.com
 0.0.0.0 a3687.casalemedia.com
 0.0.0.0 a3693.casalemedia.com
+0.0.0.0 a3705.casalemedia.com
 0.0.0.0 a371.casalemedia.com
 0.0.0.0 a3717.casalemedia.com
 0.0.0.0 a3720.casalemedia.com
@@ -5767,6 +5779,7 @@
 0.0.0.0 a4382.casalemedia.com
 0.0.0.0 a4384.casalemedia.com
 0.0.0.0 a4385.casalemedia.com
+0.0.0.0 a4386.casalemedia.com
 0.0.0.0 a4387.casalemedia.com
 0.0.0.0 a4388.casalemedia.com
 0.0.0.0 a4391.casalemedia.com
@@ -5795,17 +5808,21 @@
 0.0.0.0 a4425.casalemedia.com
 0.0.0.0 a4426.casalemedia.com
 0.0.0.0 a4427.casalemedia.com
+0.0.0.0 a4428.casalemedia.com
 0.0.0.0 a4429.casalemedia.com
 0.0.0.0 a4430.casalemedia.com
 0.0.0.0 a4433.casalemedia.com
 0.0.0.0 a4434.casalemedia.com
 0.0.0.0 a4435.casalemedia.com
+0.0.0.0 a4436.casalemedia.com
 0.0.0.0 a4438.casalemedia.com
 0.0.0.0 a4439.casalemedia.com
+0.0.0.0 a4440.casalemedia.com
 0.0.0.0 a4442.casalemedia.com
 0.0.0.0 a4444.casalemedia.com
 0.0.0.0 a4447.casalemedia.com
 0.0.0.0 a4449.casalemedia.com
+0.0.0.0 a4450.casalemedia.com
 0.0.0.0 a4452.casalemedia.com
 0.0.0.0 a4453.casalemedia.com
 0.0.0.0 a4455.casalemedia.com
@@ -5848,6 +5865,7 @@
 0.0.0.0 a4509.casalemedia.com
 0.0.0.0 a4512.casalemedia.com
 0.0.0.0 a4514.casalemedia.com
+0.0.0.0 a4515.casalemedia.com
 0.0.0.0 a4517.casalemedia.com
 0.0.0.0 a4520.casalemedia.com
 0.0.0.0 a4521.casalemedia.com
@@ -5856,6 +5874,7 @@
 0.0.0.0 a4525.casalemedia.com
 0.0.0.0 a4529.casalemedia.com
 0.0.0.0 a4531.casalemedia.com
+0.0.0.0 a4532.casalemedia.com
 0.0.0.0 a4533.casalemedia.com
 0.0.0.0 a4534.casalemedia.com
 0.0.0.0 a4535.casalemedia.com
@@ -5871,6 +5890,7 @@
 0.0.0.0 a4548.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4551.casalemedia.com
+0.0.0.0 a4553.casalemedia.com
 0.0.0.0 a4554.casalemedia.com
 0.0.0.0 a4556.casalemedia.com
 0.0.0.0 a4557.casalemedia.com
@@ -5906,6 +5926,7 @@
 0.0.0.0 a4757.casalemedia.com
 0.0.0.0 a4767.casalemedia.com
 0.0.0.0 a4771.casalemedia.com
+0.0.0.0 a4796.casalemedia.com
 0.0.0.0 a4799.casalemedia.com
 0.0.0.0 a4801.casalemedia.com
 0.0.0.0 a4802.casalemedia.com
@@ -5958,12 +5979,15 @@
 0.0.0.0 a4864.casalemedia.com
 0.0.0.0 a4865.casalemedia.com
 0.0.0.0 a4866.casalemedia.com
+0.0.0.0 a4867.casalemedia.com
 0.0.0.0 a4868.casalemedia.com
 0.0.0.0 a4869.casalemedia.com
+0.0.0.0 a4870.casalemedia.com
 0.0.0.0 a4871.casalemedia.com
 0.0.0.0 a4872.casalemedia.com
 0.0.0.0 a4873.casalemedia.com
 0.0.0.0 a4874.casalemedia.com
+0.0.0.0 a4876.casalemedia.com
 0.0.0.0 a4877.casalemedia.com
 0.0.0.0 a4879.casalemedia.com
 0.0.0.0 a4881.casalemedia.com
@@ -5986,6 +6010,7 @@
 0.0.0.0 a4902.casalemedia.com
 0.0.0.0 a4903.casalemedia.com
 0.0.0.0 a4904.casalemedia.com
+0.0.0.0 a4905.casalemedia.com
 0.0.0.0 a4906.casalemedia.com
 0.0.0.0 a4907.casalemedia.com
 0.0.0.0 a4908.casalemedia.com
@@ -6011,6 +6036,7 @@
 0.0.0.0 a704.casalemedia.com
 0.0.0.0 a777.casalemedia.com
 0.0.0.0 a877.casalemedia.com
+0.0.0.0 a914.casalemedia.com
 0.0.0.0 a940.casalemedia.com
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 as.casalemedia.com
@@ -6202,6 +6228,7 @@
 0.0.0.0 babbar89.clickfunnels.com
 0.0.0.0 bbiz.clickfunnels.com
 0.0.0.0 bequick.clickfunnels.com
+0.0.0.0 billydarr.clickfunnels.com
 0.0.0.0 blogv2new.clickfunnels.com
 0.0.0.0 blueprint-to-success.clickfunnels.com
 0.0.0.0 brooklynandbaileyshop.clickfunnels.com
@@ -6213,6 +6240,7 @@
 0.0.0.0 o5.sg.clickmail.clickfunnels.com
 0.0.0.0 o7.sg.clickmail.clickfunnels.com
 0.0.0.0 contact-fr.clickfunnels.com
+0.0.0.0 contactfranbuchanan.clickfunnels.com
 0.0.0.0 countonus.clickfunnels.com
 0.0.0.0 cszinc.clickfunnels.com
 0.0.0.0 d1000.clickfunnels.com
@@ -6231,6 +6259,7 @@
 0.0.0.0 fitwomenforlife.clickfunnels.com
 0.0.0.0 formannamarketinggroup.clickfunnels.com
 0.0.0.0 fownder.clickfunnels.com
+0.0.0.0 frankkernprivate.clickfunnels.com
 0.0.0.0 funnelgiveaway.clickfunnels.com
 0.0.0.0 goto.clickfunnels.com
 0.0.0.0 graedizzle.clickfunnels.com
@@ -6271,6 +6300,7 @@
 0.0.0.0 markettraders.clickfunnels.com
 0.0.0.0 medicalsecrets.clickfunnels.com
 0.0.0.0 micah.clickfunnels.com
+0.0.0.0 mikaelgustavsson.clickfunnels.com
 0.0.0.0 ministrypass.clickfunnels.com
 0.0.0.0 mspell.clickfunnels.com
 0.0.0.0 musicindustryblueprint.clickfunnels.com
@@ -6305,6 +6335,7 @@
 0.0.0.0 skillznanaimo.clickfunnels.com
 0.0.0.0 smithlarry55.clickfunnels.com
 0.0.0.0 specialaccess.clickfunnels.com
+0.0.0.0 sportsprofit.clickfunnels.com
 0.0.0.0 static.clickfunnels.com
 0.0.0.0 stj.clickfunnels.com
 0.0.0.0 success1.clickfunnels.com
@@ -6322,6 +6353,7 @@
 0.0.0.0 tshukelageorge.clickfunnels.com
 0.0.0.0 tyrellwilson.clickfunnels.com
 0.0.0.0 vertex.clickfunnels.com
+0.0.0.0 victoriasecretcontest.clickfunnels.com
 0.0.0.0 victorywithjordan.clickfunnels.com
 0.0.0.0 vsncash.clickfunnels.com
 0.0.0.0 workwithjini.clickfunnels.com
@@ -7153,6 +7185,7 @@
 0.0.0.0 creative.demandbase.com
 0.0.0.0 dashboard.demandbase.com
 0.0.0.0 dashboard-api.demandbase.com
+0.0.0.0 dashboard-web-rancher.demandbase.com
 0.0.0.0 demandbase.demandbase.com
 0.0.0.0 www.demandbase.demandbase.com
 0.0.0.0 demandblog.demandbase.com
@@ -7182,6 +7215,7 @@
 0.0.0.0 api.production.oregon.demandbase.com
 0.0.0.0 performance.demandbase.com
 0.0.0.0 personalization.demandbase.com
+0.0.0.0 rancher-k8s.demandbase.com
 0.0.0.0 remote.demandbase.com
 0.0.0.0 response.demandbase.com
 0.0.0.0 app.response.demandbase.com
@@ -7306,6 +7340,7 @@
 0.0.0.0 iad02-login.dotomi.com
 0.0.0.0 iad02-login-ds.dotomi.com
 0.0.0.0 iad03-usadmm.dotomi.com
+0.0.0.0 iad04-convex.dotomi.com
 0.0.0.0 iad04-usadmm-ds.dotomi.com
 0.0.0.0 iad05-login.dotomi.com
 0.0.0.0 iad05-login-ds.dotomi.com
@@ -7358,6 +7393,7 @@
 0.0.0.0 sjc05-login-ds.dotomi.com
 0.0.0.0 sjc06-login.dotomi.com
 0.0.0.0 sjc07-convex.dotomi.com
+0.0.0.0 sjc07-usadmm.dotomi.com
 0.0.0.0 sjc07-usadmm-ds.dotomi.com
 0.0.0.0 specific-match.dotomi.com
 0.0.0.0 spotx-match.dotomi.com
@@ -8484,6 +8520,7 @@
 0.0.0.0 members.s4.exacttarget.com
 0.0.0.0 pages.s4.exacttarget.com
 0.0.0.0 pub.s4.exacttarget.com
+0.0.0.0 reply-mx.s4.exacttarget.com
 0.0.0.0 scpweb.s4.exacttarget.com
 0.0.0.0 view.s4.exacttarget.com
 0.0.0.0 virt.s4.exacttarget.com
@@ -10932,6 +10969,7 @@
 0.0.0.0 342534530.keywordblocks.com
 0.0.0.0 346420541.keywordblocks.com
 0.0.0.0 351371116.keywordblocks.com
+0.0.0.0 367936889.keywordblocks.com
 0.0.0.0 368215761.keywordblocks.com
 0.0.0.0 369357884.keywordblocks.com
 0.0.0.0 www.373532743.keywordblocks.com
@@ -10940,6 +10978,7 @@
 0.0.0.0 383798059.keywordblocks.com
 0.0.0.0 394402663.keywordblocks.com
 0.0.0.0 405763861.keywordblocks.com
+0.0.0.0 412245036.keywordblocks.com
 0.0.0.0 413527474.keywordblocks.com
 0.0.0.0 414073572.keywordblocks.com
 0.0.0.0 415757512.keywordblocks.com
@@ -10973,6 +11012,7 @@
 0.0.0.0 523239022.keywordblocks.com
 0.0.0.0 527555022.keywordblocks.com
 0.0.0.0 535225459.keywordblocks.com
+0.0.0.0 536812012.keywordblocks.com
 0.0.0.0 548546200.keywordblocks.com
 0.0.0.0 554609078.keywordblocks.com
 0.0.0.0 561064522.keywordblocks.com
@@ -13268,6 +13308,7 @@
 0.0.0.0 co-uk-h-l.netmng.com
 0.0.0.0 com-acura.netmng.com
 0.0.0.0 com-avaya.netmng.com
+0.0.0.0 com-belk.netmng.com
 0.0.0.0 com-bf.netmng.com
 0.0.0.0 com-bmwusa.netmng.com
 0.0.0.0 com-centurylink.netmng.com
@@ -13783,6 +13824,7 @@
 0.0.0.0 a10156884438.cdn.optimizely.com
 0.0.0.0 a10239430432.cdn.optimizely.com
 0.0.0.0 a1031717218.cdn.optimizely.com
+0.0.0.0 a10368671339.cdn.optimizely.com
 0.0.0.0 a10370800528.cdn.optimizely.com
 0.0.0.0 a10371410898.cdn.optimizely.com
 0.0.0.0 a1040888755.cdn.optimizely.com
@@ -13830,6 +13872,7 @@
 0.0.0.0 a12195013087.cdn.optimizely.com
 0.0.0.0 a125375509.cdn.optimizely.com
 0.0.0.0 a125877026.cdn.optimizely.com
+0.0.0.0 a1291990137.cdn.optimizely.com
 0.0.0.0 a1292040173.cdn.optimizely.com
 0.0.0.0 a13222550.cdn.optimizely.com
 0.0.0.0 a13455326.cdn.optimizely.com
@@ -15086,6 +15129,7 @@
 0.0.0.0 allisonpr.qualtrics.com
 0.0.0.0 amazon1.qualtrics.com
 0.0.0.0 amazon10.qualtrics.com
+0.0.0.0 amazon456.qualtrics.com
 0.0.0.0 amazon6.qualtrics.com
 0.0.0.0 amazonlocalcommerce.qualtrics.com
 0.0.0.0 amazonww.qualtrics.com
@@ -15120,6 +15164,7 @@
 0.0.0.0 smusg.au1.qualtrics.com
 0.0.0.0 theinterpreters.au1.qualtrics.com
 0.0.0.0 tollholdings.au1.qualtrics.com
+0.0.0.0 uusocsci.au1.qualtrics.com
 0.0.0.0 auburn.qualtrics.com
 0.0.0.0 autodeskpartner.qualtrics.com
 0.0.0.0 avon.qualtrics.com
@@ -15210,6 +15255,7 @@
 0.0.0.0 sherryfitzgerald.az1.qualtrics.com
 0.0.0.0 survey.az1.qualtrics.com
 0.0.0.0 surveys.az1.qualtrics.com
+0.0.0.0 synchronysurvey.az1.qualtrics.com
 0.0.0.0 syneoshealth.az1.qualtrics.com
 0.0.0.0 thesmarteam.az1.qualtrics.com
 0.0.0.0 thomsonreutersfr.az1.qualtrics.com
@@ -15269,6 +15315,7 @@
 0.0.0.0 amnhealthcare.co1.qualtrics.com
 0.0.0.0 aramark.co1.qualtrics.com
 0.0.0.0 associationlab.co1.qualtrics.com
+0.0.0.0 bmo.co1.qualtrics.com
 0.0.0.0 bmwna.co1.qualtrics.com
 0.0.0.0 boeinghorizonx.co1.qualtrics.com
 0.0.0.0 brookeside.co1.qualtrics.com
@@ -15384,6 +15431,7 @@
 0.0.0.0 echo.qualtrics.com
 0.0.0.0 ecuau.qualtrics.com
 0.0.0.0 edr.qualtrics.com
+0.0.0.0 educationtemple.qualtrics.com
 0.0.0.0 efirstbank.qualtrics.com
 0.0.0.0 employment.qualtrics.com
 0.0.0.0 equinix.qualtrics.com
@@ -15801,6 +15849,7 @@
 0.0.0.0 toprightgroup.qualtrics.com
 0.0.0.0 trade.qualtrics.com
 0.0.0.0 transunion.qualtrics.com
+0.0.0.0 ttec360.qualtrics.com
 0.0.0.0 tuck.qualtrics.com
 0.0.0.0 tufts.qualtrics.com
 0.0.0.0 ubayreuthmarketing.qualtrics.com
@@ -15830,6 +15879,7 @@
 0.0.0.0 webroot.qualtrics.com
 0.0.0.0 wharton.qualtrics.com
 0.0.0.0 whirlpoolci.qualtrics.com
+0.0.0.0 wikimedia.qualtrics.com
 0.0.0.0 wordpressstaging.qualtrics.com
 0.0.0.0 www.qualtrics.com
 0.0.0.0 yalesurvey.qualtrics.com
@@ -18436,6 +18486,7 @@
 0.0.0.0 9dzih-xonlm.ads.tremorhub.com
 0.0.0.0 9rmjh-1etx5.ads.tremorhub.com
 0.0.0.0 9rmjh-1yl80.ads.tremorhub.com
+0.0.0.0 9rmjh-3mz81.ads.tremorhub.com
 0.0.0.0 9rmjh-ej8c5.ads.tremorhub.com
 0.0.0.0 9rmjh-nt2kk.ads.tremorhub.com
 0.0.0.0 9rmjh-oyqsg.ads.tremorhub.com
@@ -18464,6 +18515,7 @@
 0.0.0.0 ea4sm.ads.tremorhub.com
 0.0.0.0 ebiz7-e8al4.ads.tremorhub.com
 0.0.0.0 ebiz7-qsvl8.ads.tremorhub.com
+0.0.0.0 el0u2-0b0ya.ads.tremorhub.com
 0.0.0.0 el0u2-4lspl.ads.tremorhub.com
 0.0.0.0 el0u2-500zi.ads.tremorhub.com
 0.0.0.0 el0u2-bg5sq.ads.tremorhub.com
@@ -18472,6 +18524,7 @@
 0.0.0.0 el0u2-cdjgc.ads.tremorhub.com
 0.0.0.0 el0u2-dlor9.ads.tremorhub.com
 0.0.0.0 el0u2-dx3ap.ads.tremorhub.com
+0.0.0.0 el0u2-gx923.ads.tremorhub.com
 0.0.0.0 el0u2-j2od8.ads.tremorhub.com
 0.0.0.0 el0u2-lnk08.ads.tremorhub.com
 0.0.0.0 el0u2-n7y1y.ads.tremorhub.com
@@ -18530,6 +18583,7 @@
 0.0.0.0 i79zj-6vf4w.ads.tremorhub.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
 0.0.0.0 i79zj-u3y92.ads.tremorhub.com
+0.0.0.0 if0q4-q71wl.ads.tremorhub.com
 0.0.0.0 io0t2-q1swq.ads.tremorhub.com
 0.0.0.0 j54v6-lz7sc.ads.tremorhub.com
 0.0.0.0 j5en0-0yusz.ads.tremorhub.com
@@ -18631,6 +18685,7 @@
 0.0.0.0 pc083-0qo9e.ads.tremorhub.com
 0.0.0.0 pc083-8yo5j.ads.tremorhub.com
 0.0.0.0 pc083-93h3b.ads.tremorhub.com
+0.0.0.0 pc083-bxzgc.ads.tremorhub.com
 0.0.0.0 pc083-cxg6f.ads.tremorhub.com
 0.0.0.0 pc083-cyee6.ads.tremorhub.com
 0.0.0.0 pc083-hrzbj.ads.tremorhub.com
@@ -18792,6 +18847,7 @@
 0.0.0.0 q017o-yne0v.ads.tremorhub.com
 0.0.0.0 q017o-ytish.ads.tremorhub.com
 0.0.0.0 q017o-zqb5e.ads.tremorhub.com
+0.0.0.0 qc8tl-c57fu.ads.tremorhub.com
 0.0.0.0 qc8tl-f87zk.ads.tremorhub.com
 0.0.0.0 qc8tl-kbvkw.ads.tremorhub.com
 0.0.0.0 qc8tl-n48lk.ads.tremorhub.com
@@ -18823,6 +18879,7 @@
 0.0.0.0 tvg3z-1ee4u.ads.tremorhub.com
 0.0.0.0 u4yby.ads.tremorhub.com
 0.0.0.0 ufzua-051ht.ads.tremorhub.com
+0.0.0.0 ulrd6-ckiw9.ads.tremorhub.com
 0.0.0.0 uqcwd.ads.tremorhub.com
 0.0.0.0 v9ynb-oq2fg.ads.tremorhub.com
 0.0.0.0 vfgfc-vgzn7.ads.tremorhub.com
@@ -19289,12 +19346,14 @@
 0.0.0.0 unrulyx-us-028.unrulymedia.com
 0.0.0.0 unrulyx-us-029.unrulymedia.com
 0.0.0.0 unrulyx-us-030.unrulymedia.com
+0.0.0.0 unrulyx-us-033.unrulymedia.com
 0.0.0.0 unrulyx-us-034.unrulymedia.com
 0.0.0.0 unrulyx-us-035.unrulymedia.com
 0.0.0.0 unrulyx-us-037.unrulymedia.com
 0.0.0.0 unrulyx-us-038.unrulymedia.com
 0.0.0.0 unrulyx-us-039.unrulymedia.com
 0.0.0.0 unrulyx-us-040.unrulymedia.com
+0.0.0.0 unrulyx-us-041.unrulymedia.com
 0.0.0.0 unrulyx-us-042.unrulymedia.com
 0.0.0.0 unrulyx-us-044.unrulymedia.com
 0.0.0.0 unrulyx-us-045.unrulymedia.com
@@ -21214,6 +21273,7 @@
 0.0.0.0 henri-bendel.extole.io
 0.0.0.0 homedepot.extole.io
 0.0.0.0 honcker.extole.io
+0.0.0.0 issaonline.extole.io
 0.0.0.0 keds.extole.io
 0.0.0.0 kettlebell-kitchen.extole.io
 0.0.0.0 lab-series.extole.io
@@ -21900,6 +21960,7 @@
 0.0.0.0 5qntn2rp.r.us-east-1.awstrack.me
 0.0.0.0 64gh35gd.r.us-east-1.awstrack.me
 0.0.0.0 6fx61hh3.r.us-east-1.awstrack.me
+0.0.0.0 6fyrbl55.r.us-east-1.awstrack.me
 0.0.0.0 6grgdcw6.r.us-east-1.awstrack.me
 0.0.0.0 6q39gws4.r.us-east-1.awstrack.me
 0.0.0.0 6wm6wrrc.r.us-east-1.awstrack.me
@@ -22088,6 +22149,7 @@
 0.0.0.0 nz5s43x8.r.us-west-2.awstrack.me
 0.0.0.0 q41k7rpt.r.us-west-2.awstrack.me
 0.0.0.0 q890sm5p.r.us-west-2.awstrack.me
+0.0.0.0 qgdkrqxr.r.us-west-2.awstrack.me
 0.0.0.0 qk8jykhv.r.us-west-2.awstrack.me
 0.0.0.0 qtxgvf3k.r.us-west-2.awstrack.me
 0.0.0.0 qw6nsd37.r.us-west-2.awstrack.me
@@ -23338,6 +23400,8 @@
 0.0.0.0 bob415.atwarrior.hop.clickbank.net
 0.0.0.0 authnumer.hop.clickbank.net
 0.0.0.0 kevinpitts.authnumer.hop.clickbank.net
+0.0.0.0 btlife.hop.clickbank.net
+0.0.0.0 henrymcfly.btlife.hop.clickbank.net
 0.0.0.0 srl35.camp2001.hop.clickbank.net
 0.0.0.0 srl35.camp2004.hop.clickbank.net
 0.0.0.0 cbcashcode.hop.clickbank.net
@@ -23379,10 +23443,12 @@
 0.0.0.0 mmmedia999.fitcookger.hop.clickbank.net
 0.0.0.0 forsurveys.hop.clickbank.net
 0.0.0.0 adamvale.fxautobots.hop.clickbank.net
+0.0.0.0 ngt1510.gaming777.hop.clickbank.net
 0.0.0.0 short34.gaming777.hop.clickbank.net
 0.0.0.0 short34.goldops777.hop.clickbank.net
 0.0.0.0 popester.gsniper.hop.clickbank.net
 0.0.0.0 kayball55.highepcs.hop.clickbank.net
+0.0.0.0 yourclickbanknickname.highepcs.hop.clickbank.net
 0.0.0.0 hooke1.hop.clickbank.net
 0.0.0.0 hop142.hotstocks.hop.clickbank.net
 0.0.0.0 hpincomeel.hop.clickbank.net
@@ -23400,6 +23466,7 @@
 0.0.0.0 cq2smooth.joomla12.hop.clickbank.net
 0.0.0.0 dinbound.leadrocket.hop.clickbank.net
 0.0.0.0 jimzimm.martin7.hop.clickbank.net
+0.0.0.0 zzzzz.martin7.hop.clickbank.net
 0.0.0.0 mdrep.hop.clickbank.net
 0.0.0.0 1secure.mdrep.hop.clickbank.net
 0.0.0.0 greatbids.mdrep.hop.clickbank.net
@@ -23420,6 +23487,7 @@
 0.0.0.0 short34.photojobs.hop.clickbank.net
 0.0.0.0 hop142.plpinvest.hop.clickbank.net
 0.0.0.0 zzzzz.pureheal.hop.clickbank.net
+0.0.0.0 promoforal.racingeye.hop.clickbank.net
 0.0.0.0 redteax.hop.clickbank.net
 0.0.0.0 ecash888.redteax.hop.clickbank.net
 0.0.0.0 jecanet01.redteax.hop.clickbank.net
@@ -23434,10 +23502,17 @@
 0.0.0.0 7239112.sysdel.hop.clickbank.net
 0.0.0.0 tedsplans.hop.clickbank.net
 0.0.0.0 4web2refer.tedsplans.hop.clickbank.net
+0.0.0.0 textchem.hop.clickbank.net
+0.0.0.0 makhimwant.textchem.hop.clickbank.net
+0.0.0.0 thetripods.hop.clickbank.net
+0.0.0.0 emmbrook.thetripods.hop.clickbank.net
 0.0.0.0 kensfree.thetripods.hop.clickbank.net
+0.0.0.0 totalpat.hop.clickbank.net
+0.0.0.0 ksiaxu99.totalpat.hop.clickbank.net
 0.0.0.0 jasonb25.traffbots.hop.clickbank.net
 0.0.0.0 theaivideo.traffbots.hop.clickbank.net
 0.0.0.0 indycar500.tykelly.hop.clickbank.net
+0.0.0.0 zzzzz.vertigodiz.hop.clickbank.net
 0.0.0.0 kensfree.wbreeze.hop.clickbank.net
 0.0.0.0 rosamund12.weconvert.hop.clickbank.net
 0.0.0.0 lionsea.wisefixer.hop.clickbank.net
@@ -23615,6 +23690,7 @@
 0.0.0.0 aaa.demdex.net
 0.0.0.0 aaaautoclubsouth.demdex.net
 0.0.0.0 aaanortheast.demdex.net
+0.0.0.0 aaas.demdex.net
 0.0.0.0 fast.aaas.demdex.net
 0.0.0.0 aarp.demdex.net
 0.0.0.0 abbviecommercial.demdex.net
@@ -23665,6 +23741,7 @@
 0.0.0.0 archant.demdex.net
 0.0.0.0 argenta.demdex.net
 0.0.0.0 argos.demdex.net
+0.0.0.0 asadventure.demdex.net
 0.0.0.0 asahishimbun.demdex.net
 0.0.0.0 fast.asahishimbun.demdex.net
 0.0.0.0 asb.demdex.net
@@ -23696,6 +23773,7 @@
 0.0.0.0 bancosabadell.demdex.net
 0.0.0.0 bankinter.demdex.net
 0.0.0.0 barclaybankdelaware.demdex.net
+0.0.0.0 barnes.demdex.net
 0.0.0.0 bawagpsk.demdex.net
 0.0.0.0 bbandt.demdex.net
 0.0.0.0 bbg.demdex.net
@@ -23804,6 +23882,7 @@
 0.0.0.0 cumminsandpartners.demdex.net
 0.0.0.0 cyberport.demdex.net
 0.0.0.0 dahsing.demdex.net
+0.0.0.0 dansksupermarked.demdex.net
 0.0.0.0 dardenrestaurants.demdex.net
 0.0.0.0 darty.demdex.net
 0.0.0.0 dayintegrationinternal.demdex.net
@@ -23829,6 +23908,7 @@
 0.0.0.0 directv.demdex.net
 0.0.0.0 discoverfinancialservices.demdex.net
 0.0.0.0 discovery.demdex.net
+0.0.0.0 disney-1.demdex.net
 0.0.0.0 disneyinternational.demdex.net
 0.0.0.0 distrelec.demdex.net
 0.0.0.0 docomobiz.demdex.net
@@ -23950,6 +24030,7 @@
 0.0.0.0 hpe.demdex.net
 0.0.0.0 hpjapan.demdex.net
 0.0.0.0 fast.hpjapan.demdex.net
+0.0.0.0 hrblock.demdex.net
 0.0.0.0 hsbcbankcmb.demdex.net
 0.0.0.0 hsbcbankcommon.demdex.net
 0.0.0.0 hsbcbankglobal.demdex.net
@@ -24025,12 +24106,14 @@
 0.0.0.0 lifesize.demdex.net
 0.0.0.0 lifewaychristianresources.demdex.net
 0.0.0.0 lilacservices.demdex.net
+0.0.0.0 lintv.demdex.net
 0.0.0.0 lmi.demdex.net
 0.0.0.0 lnkd.demdex.net
 0.0.0.0 loewshotels.demdex.net
 0.0.0.0 logitech.demdex.net
 0.0.0.0 lot.demdex.net
 0.0.0.0 lottomaticaspa.demdex.net
+0.0.0.0 lowescompaniesinc.demdex.net
 0.0.0.0 luiza.demdex.net
 0.0.0.0 macu.demdex.net
 0.0.0.0 macyscominc.demdex.net
@@ -24135,6 +24218,7 @@
 0.0.0.0 pennymacloanservices.demdex.net
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 pfizerpch.demdex.net
+0.0.0.0 pgatourcom.demdex.net
 0.0.0.0 philipslighting.demdex.net
 0.0.0.0 fast.philipslighting.demdex.net
 0.0.0.0 plantronics.demdex.net
@@ -24236,6 +24320,7 @@
 0.0.0.0 sisalspa.demdex.net
 0.0.0.0 skydeutschland.demdex.net
 0.0.0.0 skyit.demdex.net
+0.0.0.0 skyperfectjsat.demdex.net
 0.0.0.0 slickdeals.demdex.net
 0.0.0.0 smart.demdex.net
 0.0.0.0 smartbox.demdex.net
@@ -24310,6 +24395,7 @@
 0.0.0.0 tmg.demdex.net
 0.0.0.0 tmobile.demdex.net
 0.0.0.0 tnz.demdex.net
+0.0.0.0 tommybahamagroupinc.demdex.net
 0.0.0.0 toridoll.demdex.net
 0.0.0.0 toshibamemory.demdex.net
 0.0.0.0 toyotaquebec.demdex.net
@@ -24319,6 +24405,7 @@
 0.0.0.0 tribunemedia.demdex.net
 0.0.0.0 trowepriceassociatesinc.demdex.net
 0.0.0.0 truth.demdex.net
+0.0.0.0 tsb.demdex.net
 0.0.0.0 tu.demdex.net
 0.0.0.0 turbotax.demdex.net
 0.0.0.0 turner2.demdex.net
@@ -24334,6 +24421,7 @@
 0.0.0.0 unicharm.demdex.net
 0.0.0.0 unilever.demdex.net
 0.0.0.0 unilever2.demdex.net
+0.0.0.0 unilever3.demdex.net
 0.0.0.0 unileverbrazil.demdex.net
 0.0.0.0 unitedhealthgroup.demdex.net
 0.0.0.0 unitedoverseasbanklimited.demdex.net
@@ -24349,6 +24437,7 @@
 0.0.0.0 verizoncorp.demdex.net
 0.0.0.0 verizonenterprise.demdex.net
 0.0.0.0 verizontelematic.demdex.net
+0.0.0.0 verizonwireless.demdex.net
 0.0.0.0 vfc.demdex.net
 0.0.0.0 vfde.demdex.net
 0.0.0.0 vfes.demdex.net
@@ -24372,6 +24461,7 @@
 0.0.0.0 volkswagen.demdex.net
 0.0.0.0 volkswagenag.demdex.net
 0.0.0.0 volvo.demdex.net
+0.0.0.0 vonagemarketingllc.demdex.net
 0.0.0.0 vsctechnologies.demdex.net
 0.0.0.0 walgreens.demdex.net
 0.0.0.0 walmart-wmi.demdex.net
@@ -24453,6 +24543,7 @@
 0.0.0.0 1507006.fls.doubleclick.net
 0.0.0.0 1513878.fls.doubleclick.net
 0.0.0.0 1539833.fls.doubleclick.net
+0.0.0.0 1594671.fls.doubleclick.net
 0.0.0.0 1620481.fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 1847082.fls.doubleclick.net
@@ -24467,6 +24558,7 @@
 0.0.0.0 2036857.fls.doubleclick.net
 0.0.0.0 2069924.fls.doubleclick.net
 0.0.0.0 2146987.fls.doubleclick.net
+0.0.0.0 21700000001383540.fls.doubleclick.net
 0.0.0.0 2209222.fls.doubleclick.net
 0.0.0.0 2275258.fls.doubleclick.net
 0.0.0.0 2292430.fls.doubleclick.net
@@ -24491,6 +24583,7 @@
 0.0.0.0 2589057.fls.doubleclick.net
 0.0.0.0 2589209.fls.doubleclick.net
 0.0.0.0 2611388.fls.doubleclick.net
+0.0.0.0 2629570.fls.doubleclick.net
 0.0.0.0 2677521.fls.doubleclick.net
 0.0.0.0 2680866.fls.doubleclick.net
 0.0.0.0 2686334.fls.doubleclick.net
@@ -24526,6 +24619,7 @@
 0.0.0.0 3130320.fls.doubleclick.net
 0.0.0.0 3183552.fls.doubleclick.net
 0.0.0.0 3226898.fls.doubleclick.net
+0.0.0.0 3251450.fls.doubleclick.net
 0.0.0.0 3258478.fls.doubleclick.net
 0.0.0.0 3294027.fls.doubleclick.net
 0.0.0.0 3327570.fls.doubleclick.net
@@ -24610,6 +24704,7 @@
 0.0.0.0 4144533.fls.doubleclick.net
 0.0.0.0 4150631.fls.doubleclick.net
 0.0.0.0 4160741.fls.doubleclick.net
+0.0.0.0 4168207.fls.doubleclick.net
 0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 4188817.fls.doubleclick.net
 0.0.0.0 4191263.fls.doubleclick.net
@@ -24668,6 +24763,7 @@
 0.0.0.0 4406266.fls.doubleclick.net
 0.0.0.0 4411868.fls.doubleclick.net
 0.0.0.0 4440053.fls.doubleclick.net
+0.0.0.0 4441280.fls.doubleclick.net
 0.0.0.0 4441435.fls.doubleclick.net
 0.0.0.0 44414354441435.fls.doubleclick.net
 0.0.0.0 4448269.fls.doubleclick.net
@@ -24691,6 +24787,7 @@
 0.0.0.0 4489469.fls.doubleclick.net
 0.0.0.0 4490379.fls.doubleclick.net
 0.0.0.0 4493414.fls.doubleclick.net
+0.0.0.0 4497467.fls.doubleclick.net
 0.0.0.0 4497536.fls.doubleclick.net
 0.0.0.0 4497791.fls.doubleclick.net
 0.0.0.0 4504571.fls.doubleclick.net
@@ -24831,6 +24928,7 @@
 0.0.0.0 5142311.fls.doubleclick.net
 0.0.0.0 5142430.fls.doubleclick.net
 0.0.0.0 5143415.fls.doubleclick.net
+0.0.0.0 5153027.fls.doubleclick.net
 0.0.0.0 5157214.fls.doubleclick.net
 0.0.0.0 5178832.fls.doubleclick.net
 0.0.0.0 5179318.fls.doubleclick.net
@@ -24870,6 +24968,7 @@
 0.0.0.0 5321212.fls.doubleclick.net
 0.0.0.0 5322221.fls.doubleclick.net
 0.0.0.0 5322602.fls.doubleclick.net
+0.0.0.0 5322912.fls.doubleclick.net
 0.0.0.0 5325104.fls.doubleclick.net
 0.0.0.0 5326342.fls.doubleclick.net
 0.0.0.0 5339147.fls.doubleclick.net
@@ -24913,6 +25012,7 @@
 0.0.0.0 5522649.fls.doubleclick.net
 0.0.0.0 5522853.fls.doubleclick.net
 0.0.0.0 5524617.fls.doubleclick.net
+0.0.0.0 5529421.fls.doubleclick.net
 0.0.0.0 5529932.fls.doubleclick.net
 0.0.0.0 5545945.fls.doubleclick.net
 0.0.0.0 5546719.fls.doubleclick.net
@@ -24921,6 +25021,7 @@
 0.0.0.0 5548329.fls.doubleclick.net
 0.0.0.0 5548951.fls.doubleclick.net
 0.0.0.0 5549733.fls.doubleclick.net
+0.0.0.0 5553929.fls.doubleclick.net
 0.0.0.0 5566424.fls.doubleclick.net
 0.0.0.0 5566429.fls.doubleclick.net
 0.0.0.0 5566805.fls.doubleclick.net
@@ -24941,6 +25042,7 @@
 0.0.0.0 5657203.fls.doubleclick.net
 0.0.0.0 5683605.fls.doubleclick.net
 0.0.0.0 5690326.fls.doubleclick.net
+0.0.0.0 5691183.fls.doubleclick.net
 0.0.0.0 5691721.fls.doubleclick.net
 0.0.0.0 5722802.fls.doubleclick.net
 0.0.0.0 5724196.fls.doubleclick.net
@@ -24970,6 +25072,7 @@
 0.0.0.0 5921516.fls.doubleclick.net
 0.0.0.0 5922977.fls.doubleclick.net
 0.0.0.0 5924310.fls.doubleclick.net
+0.0.0.0 5924507.fls.doubleclick.net
 0.0.0.0 5944844.fls.doubleclick.net
 0.0.0.0 5969207.fls.doubleclick.net
 0.0.0.0 5987900.fls.doubleclick.net
@@ -25020,8 +25123,10 @@
 0.0.0.0 6194572.fls.doubleclick.net
 0.0.0.0 6207537.fls.doubleclick.net
 0.0.0.0 6219472.fls.doubleclick.net
+0.0.0.0 6220024.fls.doubleclick.net
 0.0.0.0 6220909.fls.doubleclick.net
 0.0.0.0 6221823.fls.doubleclick.net
+0.0.0.0 6224713.fls.doubleclick.net
 0.0.0.0 6229489.fls.doubleclick.net
 0.0.0.0 6229693.fls.doubleclick.net
 0.0.0.0 6231708.fls.doubleclick.net
@@ -25046,6 +25151,7 @@
 0.0.0.0 6319064.fls.doubleclick.net
 0.0.0.0 6319867.fls.doubleclick.net
 0.0.0.0 6321365.fls.doubleclick.net
+0.0.0.0 6322706.fls.doubleclick.net
 0.0.0.0 6331029.fls.doubleclick.net
 0.0.0.0 6333375.fls.doubleclick.net
 0.0.0.0 6337916.fls.doubleclick.net
@@ -25056,6 +25162,7 @@
 0.0.0.0 6343900.fls.doubleclick.net
 0.0.0.0 6344022.fls.doubleclick.net
 0.0.0.0 6344610.fls.doubleclick.net
+0.0.0.0 6344812.fls.doubleclick.net
 0.0.0.0 6350306.fls.doubleclick.net
 0.0.0.0 6360663.fls.doubleclick.net
 0.0.0.0 6361199.fls.doubleclick.net
@@ -25063,10 +25170,12 @@
 0.0.0.0 6372968.fls.doubleclick.net
 0.0.0.0 6414906.fls.doubleclick.net
 0.0.0.0 6415709.fls.doubleclick.net
+0.0.0.0 6417139.fls.doubleclick.net
 0.0.0.0 6417308.fls.doubleclick.net
 0.0.0.0 6417343.fls.doubleclick.net
 0.0.0.0 6422108.fls.doubleclick.net
 0.0.0.0 6439606.fls.doubleclick.net
+0.0.0.0 6441767.fls.doubleclick.net
 0.0.0.0 6442406.fls.doubleclick.net
 0.0.0.0 6451349.fls.doubleclick.net
 0.0.0.0 6475501.fls.doubleclick.net
@@ -25075,6 +25184,7 @@
 0.0.0.0 6493911.fls.doubleclick.net
 0.0.0.0 6494367.fls.doubleclick.net
 0.0.0.0 6494702.fls.doubleclick.net
+0.0.0.0 6495108.fls.doubleclick.net
 0.0.0.0 6497422.fls.doubleclick.net
 0.0.0.0 6498503.fls.doubleclick.net
 0.0.0.0 6498619.fls.doubleclick.net
@@ -25087,6 +25197,7 @@
 0.0.0.0 6523104.fls.doubleclick.net
 0.0.0.0 6523441.fls.doubleclick.net
 0.0.0.0 6523538.fls.doubleclick.net
+0.0.0.0 6531092.fls.doubleclick.net
 0.0.0.0 6540762.fls.doubleclick.net
 0.0.0.0 6566435.fls.doubleclick.net
 0.0.0.0 6566482.fls.doubleclick.net
@@ -25101,6 +25212,7 @@
 0.0.0.0 6587613.fls.doubleclick.net
 0.0.0.0 6588635.fls.doubleclick.net
 0.0.0.0 6588650.fls.doubleclick.net
+0.0.0.0 6589201.fls.doubleclick.net
 0.0.0.0 6589441.fls.doubleclick.net
 0.0.0.0 6589630.fls.doubleclick.net
 0.0.0.0 6589769.fls.doubleclick.net
@@ -25131,6 +25243,7 @@
 0.0.0.0 6662109.fls.doubleclick.net
 0.0.0.0 6679503.fls.doubleclick.net
 0.0.0.0 6696502.fls.doubleclick.net
+0.0.0.0 6699922.fls.doubleclick.net
 0.0.0.0 6702704.fls.doubleclick.net
 0.0.0.0 6709343.fls.doubleclick.net
 0.0.0.0 6719212.fls.doubleclick.net
@@ -25153,6 +25266,7 @@
 0.0.0.0 6883423.fls.doubleclick.net
 0.0.0.0 6901690.fls.doubleclick.net
 0.0.0.0 6902239.fls.doubleclick.net
+0.0.0.0 690327.fls.doubleclick.net
 0.0.0.0 6907820.fls.doubleclick.net
 0.0.0.0 6909863.fls.doubleclick.net
 0.0.0.0 6927552.fls.doubleclick.net
@@ -25212,6 +25326,7 @@
 0.0.0.0 8061178.fls.doubleclick.net
 0.0.0.0 8062430.fls.doubleclick.net
 0.0.0.0 8064740.fls.doubleclick.net
+0.0.0.0 8067701.fls.doubleclick.net
 0.0.0.0 8076479.fls.doubleclick.net
 0.0.0.0 8081836.fls.doubleclick.net
 0.0.0.0 8085340.fls.doubleclick.net
@@ -25271,11 +25386,13 @@
 0.0.0.0 8175096.fls.doubleclick.net
 0.0.0.0 8175776.fls.doubleclick.net
 0.0.0.0 8180606.fls.doubleclick.net
+0.0.0.0 8181422.fls.doubleclick.net
 0.0.0.0 8183467.fls.doubleclick.net
 0.0.0.0 8183490.fls.doubleclick.net
 0.0.0.0 8186393.fls.doubleclick.net
 0.0.0.0 8187921.fls.doubleclick.net
 0.0.0.0 8188171.fls.doubleclick.net
+0.0.0.0 8188177.fls.doubleclick.net
 0.0.0.0 8188398.fls.doubleclick.net
 0.0.0.0 8193275.fls.doubleclick.net
 0.0.0.0 8194054.fls.doubleclick.net
@@ -25299,6 +25416,7 @@
 0.0.0.0 8232301.fls.doubleclick.net
 0.0.0.0 8233749.fls.doubleclick.net
 0.0.0.0 8234645.fls.doubleclick.net
+0.0.0.0 8234710.fls.doubleclick.net
 0.0.0.0 8235431.fls.doubleclick.net
 0.0.0.0 8236307.fls.doubleclick.net
 0.0.0.0 8236634.fls.doubleclick.net
@@ -25306,10 +25424,12 @@
 0.0.0.0 8239228.fls.doubleclick.net
 0.0.0.0 8239358.fls.doubleclick.net
 0.0.0.0 8241818.fls.doubleclick.net
+0.0.0.0 8242862.fls.doubleclick.net
 0.0.0.0 8243073.fls.doubleclick.net
 0.0.0.0 8243610.fls.doubleclick.net
 0.0.0.0 8244849.fls.doubleclick.net
 0.0.0.0 8244852.fls.doubleclick.net
+0.0.0.0 8244864.fls.doubleclick.net
 0.0.0.0 8244867.fls.doubleclick.net
 0.0.0.0 8247178.fls.doubleclick.net
 0.0.0.0 8248472.fls.doubleclick.net
@@ -25324,9 +25444,11 @@
 0.0.0.0 8270544.fls.doubleclick.net
 0.0.0.0 8272383.fls.doubleclick.net
 0.0.0.0 8272590.fls.doubleclick.net
+0.0.0.0 8272827.fls.doubleclick.net
 0.0.0.0 8274087.fls.doubleclick.net
 0.0.0.0 8275102.fls.doubleclick.net
 0.0.0.0 8275671.fls.doubleclick.net
+0.0.0.0 8278640.fls.doubleclick.net
 0.0.0.0 8279717.fls.doubleclick.net
 0.0.0.0 8279771.fls.doubleclick.net
 0.0.0.0 8285120.fls.doubleclick.net
@@ -25353,6 +25475,7 @@
 0.0.0.0 8305177.fls.doubleclick.net
 0.0.0.0 8307817.fls.doubleclick.net
 0.0.0.0 8307999.fls.doubleclick.net
+0.0.0.0 8310439.fls.doubleclick.net
 0.0.0.0 8311786.fls.doubleclick.net
 0.0.0.0 8312094.fls.doubleclick.net
 0.0.0.0 8312753.fls.doubleclick.net
@@ -25361,9 +25484,11 @@
 0.0.0.0 8316584.fls.doubleclick.net
 0.0.0.0 8320288.fls.doubleclick.net
 0.0.0.0 8322168.fls.doubleclick.net
+0.0.0.0 8326294.fls.doubleclick.net
 0.0.0.0 8328018.fls.doubleclick.net
 0.0.0.0 8329473.fls.doubleclick.net
 0.0.0.0 8329645.fls.doubleclick.net
+0.0.0.0 8329925.fls.doubleclick.net
 0.0.0.0 8336348.fls.doubleclick.net
 0.0.0.0 8337859.fls.doubleclick.net
 0.0.0.0 8341669.fls.doubleclick.net
@@ -25385,6 +25510,7 @@
 0.0.0.0 8397396.fls.doubleclick.net
 0.0.0.0 8402569.fls.doubleclick.net
 0.0.0.0 8406658.fls.doubleclick.net
+0.0.0.0 8407793.fls.doubleclick.net
 0.0.0.0 8408214.fls.doubleclick.net
 0.0.0.0 8416677.fls.doubleclick.net
 0.0.0.0 8417422.fls.doubleclick.net
@@ -25412,8 +25538,10 @@
 0.0.0.0 8461881.fls.doubleclick.net
 0.0.0.0 8464365.fls.doubleclick.net
 0.0.0.0 8464532.fls.doubleclick.net
+0.0.0.0 8465317.fls.doubleclick.net
 0.0.0.0 8465655.fls.doubleclick.net
 0.0.0.0 8468588.fls.doubleclick.net
+0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 8471268.fls.doubleclick.net
 0.0.0.0 8477518.fls.doubleclick.net
 0.0.0.0 8477703.fls.doubleclick.net
@@ -25429,20 +25557,25 @@
 0.0.0.0 8491270.fls.doubleclick.net
 0.0.0.0 8498942.fls.doubleclick.net
 0.0.0.0 8499033.fls.doubleclick.net
+0.0.0.0 8499822.fls.doubleclick.net
 0.0.0.0 8500219.fls.doubleclick.net
 0.0.0.0 8505980.fls.doubleclick.net
+0.0.0.0 8506465.fls.doubleclick.net
 0.0.0.0 8507614.fls.doubleclick.net
 0.0.0.0 8508680.fls.doubleclick.net
 0.0.0.0 8510628.fls.doubleclick.net
 0.0.0.0 8516364.fls.doubleclick.net
 0.0.0.0 8518036.fls.doubleclick.net
+0.0.0.0 8520018.fls.doubleclick.net
 0.0.0.0 8520373.fls.doubleclick.net
+0.0.0.0 8520907.fls.doubleclick.net
 0.0.0.0 8522218.fls.doubleclick.net
 0.0.0.0 8526573.fls.doubleclick.net
 0.0.0.0 8530325.fls.doubleclick.net
 0.0.0.0 8531066.fls.doubleclick.net
 0.0.0.0 8531376.fls.doubleclick.net
 0.0.0.0 8539659.fls.doubleclick.net
+0.0.0.0 8542521.fls.doubleclick.net
 0.0.0.0 8543057.fls.doubleclick.net
 0.0.0.0 8543678.fls.doubleclick.net
 0.0.0.0 8544285.fls.doubleclick.net
@@ -25456,6 +25589,7 @@
 0.0.0.0 8558434.fls.doubleclick.net
 0.0.0.0 8558821.fls.doubleclick.net
 0.0.0.0 8569570.fls.doubleclick.net
+0.0.0.0 8573791.fls.doubleclick.net
 0.0.0.0 8575223.fls.doubleclick.net
 0.0.0.0 8577454.fls.doubleclick.net
 0.0.0.0 8577835.fls.doubleclick.net
@@ -25466,9 +25600,11 @@
 0.0.0.0 8604778.fls.doubleclick.net
 0.0.0.0 8609570.fls.doubleclick.net
 0.0.0.0 8617457.fls.doubleclick.net
+0.0.0.0 8617505.fls.doubleclick.net
 0.0.0.0 8624609.fls.doubleclick.net
 0.0.0.0 8630238.fls.doubleclick.net
 0.0.0.0 8632583.fls.doubleclick.net
+0.0.0.0 8632748.fls.doubleclick.net
 0.0.0.0 8636744.fls.doubleclick.net
 0.0.0.0 8641828.fls.doubleclick.net
 0.0.0.0 8643885.fls.doubleclick.net
@@ -25489,11 +25625,13 @@
 0.0.0.0 8690485.fls.doubleclick.net
 0.0.0.0 8690588.fls.doubleclick.net
 0.0.0.0 8692949.fls.doubleclick.net
+0.0.0.0 8697439.fls.doubleclick.net
 0.0.0.0 8701972.fls.doubleclick.net
 0.0.0.0 8702362.fls.doubleclick.net
 0.0.0.0 8705427.fls.doubleclick.net
 0.0.0.0 8705590.fls.doubleclick.net
 0.0.0.0 8714993.fls.doubleclick.net
+0.0.0.0 8717217.fls.doubleclick.net
 0.0.0.0 8718622.fls.doubleclick.net
 0.0.0.0 8719329.fls.doubleclick.net
 0.0.0.0 8720601.fls.doubleclick.net
@@ -25502,6 +25640,7 @@
 0.0.0.0 8723523.fls.doubleclick.net
 0.0.0.0 8723789.fls.doubleclick.net
 0.0.0.0 8726049.fls.doubleclick.net
+0.0.0.0 8732703.fls.doubleclick.net
 0.0.0.0 8733944.fls.doubleclick.net
 0.0.0.0 8734555.fls.doubleclick.net
 0.0.0.0 8739830.fls.doubleclick.net
@@ -25525,6 +25664,7 @@
 0.0.0.0 8780794.fls.doubleclick.net
 0.0.0.0 8781999.fls.doubleclick.net
 0.0.0.0 8789300.fls.doubleclick.net
+0.0.0.0 8791481.fls.doubleclick.net
 0.0.0.0 8792151.fls.doubleclick.net
 0.0.0.0 8795912.fls.doubleclick.net
 0.0.0.0 8800863.fls.doubleclick.net
@@ -25587,6 +25727,7 @@
 0.0.0.0 8939054.fls.doubleclick.net
 0.0.0.0 8941241.fls.doubleclick.net
 0.0.0.0 8942215.fls.doubleclick.net
+0.0.0.0 8948717.fls.doubleclick.net
 0.0.0.0 8952013.fls.doubleclick.net
 0.0.0.0 8953853.fls.doubleclick.net
 0.0.0.0 8954378.fls.doubleclick.net
@@ -25601,9 +25742,11 @@
 0.0.0.0 8965093.fls.doubleclick.net
 0.0.0.0 8968565.fls.doubleclick.net
 0.0.0.0 8970775.fls.doubleclick.net
+0.0.0.0 8970922.fls.doubleclick.net
 0.0.0.0 8970969.fls.doubleclick.net
 0.0.0.0 8972651.fls.doubleclick.net
 0.0.0.0 8977942.fls.doubleclick.net
+0.0.0.0 8980845.fls.doubleclick.net
 0.0.0.0 8984124.fls.doubleclick.net
 0.0.0.0 8984127.fls.doubleclick.net
 0.0.0.0 8989649.fls.doubleclick.net
@@ -25611,6 +25754,7 @@
 0.0.0.0 9000382.fls.doubleclick.net
 0.0.0.0 9000430.fls.doubleclick.net
 0.0.0.0 9001195.fls.doubleclick.net
+0.0.0.0 9001851.fls.doubleclick.net
 0.0.0.0 9001947.fls.doubleclick.net
 0.0.0.0 9008412.fls.doubleclick.net
 0.0.0.0 9011931.fls.doubleclick.net
@@ -25631,12 +25775,15 @@
 0.0.0.0 9053167.fls.doubleclick.net
 0.0.0.0 9053269.fls.doubleclick.net
 0.0.0.0 9058262.fls.doubleclick.net
+0.0.0.0 9060861.fls.doubleclick.net
 0.0.0.0 9063248.fls.doubleclick.net
+0.0.0.0 9066440.fls.doubleclick.net
 0.0.0.0 9075029.fls.doubleclick.net
 0.0.0.0 908072.fls.doubleclick.net
 0.0.0.0 9082048.fls.doubleclick.net
 0.0.0.0 9085528.fls.doubleclick.net
 0.0.0.0 9086187.fls.doubleclick.net
+0.0.0.0 9097573.fls.doubleclick.net
 0.0.0.0 9105926.fls.doubleclick.net
 0.0.0.0 9109054.fls.doubleclick.net
 0.0.0.0 940892.fls.doubleclick.net
@@ -28119,6 +28266,7 @@
 0.0.0.0 tsbuk.tt.omtrdc.net
 0.0.0.0 tuiukltd.tt.omtrdc.net
 0.0.0.0 twcroadrunner.tt.omtrdc.net
+0.0.0.0 txdot.tt.omtrdc.net
 0.0.0.0 txuenergy.tt.omtrdc.net
 0.0.0.0 tycoelectronicscorpo.tt.omtrdc.net
 0.0.0.0 ubm.tt.omtrdc.net
@@ -28395,6 +28543,7 @@
 0.0.0.0 guardian-d.openx.net
 0.0.0.0 gumtreeuk-d.openx.net
 0.0.0.0 hanzamedia-d.openx.net
+0.0.0.0 hashtaglabs-d.openx.net
 0.0.0.0 hatena-d.openx.net
 0.0.0.0 healthline-d.openx.net
 0.0.0.0 hearstnewspapers-d.openx.net
@@ -28564,6 +28713,7 @@
 0.0.0.0 rtb-xv.openx.net
 0.0.0.0 rtbdemand-d.openx.net
 0.0.0.0 rtkio-d.openx.net
+0.0.0.0 rumblepst-d.openx.net
 0.0.0.0 ruptly-d.openx.net
 0.0.0.0 saambaa-d.openx.net
 0.0.0.0 salemwebnetworks-d.openx.net
@@ -29154,6 +29304,7 @@
 0.0.0.0 lax-247.lax-rtb1.rfihub.net
 0.0.0.0 lax-248.lax-rtb1.rfihub.net
 0.0.0.0 lax-252.lax-rtb1.rfihub.net
+0.0.0.0 lax-260.lax-rtb1.rfihub.net
 0.0.0.0 lax-262.lax-rtb1.rfihub.net
 0.0.0.0 lax-267.lax-rtb1.rfihub.net
 0.0.0.0 lax-271.lax-rtb1.rfihub.net
@@ -30793,6 +30944,7 @@
 0.0.0.0 serverc743.shoofle.tv
 0.0.0.0 serverc847.shoofle.tv
 0.0.0.0 serverc863.shoofle.tv
+0.0.0.0 serverc958.shoofle.tv
 0.0.0.0 servercin.shoofle.tv
 0.0.0.0 serverdokku.shoofle.tv
 0.0.0.0 serverhap.shoofle.tv
