@@ -1,13 +1,13 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2018-12-31T12:47:11+00:00
-# Count: 2613 domains
+# Released: 2019-01-01T12:49:10+00:00
+# Count: 2620 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
 #
-# Copyright 2018 Daniel White
+# Copyright 2019 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -127,6 +127,7 @@
 0.0.0.0 epson-store.ugc.bazaarvoice.com
 0.0.0.0 epsonenau.ugc.bazaarvoice.com
 0.0.0.0 epsonlatinamerica.ugc.bazaarvoice.com
+0.0.0.0 ernestjones.ugc.bazaarvoice.com
 0.0.0.0 escentual.ugc.bazaarvoice.com
 0.0.0.0 evanscycles-uk.ugc.bazaarvoice.com
 0.0.0.0 exxonmobil.ugc.bazaarvoice.com
@@ -1230,6 +1231,7 @@
 0.0.0.0 lb-d.us1.gigya.com
 0.0.0.0 reports.us1.gigya.com
 0.0.0.0 socialize.us1.gigya.com
+0.0.0.0 sslproxy.us1.gigya.com
 0.0.0.0 us1-direct.gigya.com
 0.0.0.0 us1-email-mng.gigya.com
 0.0.0.0 www.us1-email-mng.gigya.com
@@ -2313,6 +2315,7 @@
 0.0.0.0 metabase.simpleanalytics.io
 0.0.0.0 notify.simpleanalytics.io
 0.0.0.0 queue.simpleanalytics.io
+0.0.0.0 monit.queue.simpleanalytics.io
 0.0.0.0 test93f9h93hf39fjka93.simpleanalytics.io
 0.0.0.0 testing.simpleanalytics.io
 0.0.0.0 www.simpleanalytics.io
@@ -2357,6 +2360,7 @@
 0.0.0.0 events-jjillecp.gomoxie.solutions
 0.0.0.0 events-lifetimefitness.gomoxie.solutions
 0.0.0.0 events-michaelkors.gomoxie.solutions
+0.0.0.0 events-michaelkorsca.gomoxie.solutions
 0.0.0.0 events-michaelkorseu.gomoxie.solutions
 0.0.0.0 events-michaelkorsit.gomoxie.solutions
 0.0.0.0 events-michaelkorstest.gomoxie.solutions
@@ -2382,6 +2386,7 @@
 0.0.0.0 identity-hawkincentives.gomoxie.solutions
 0.0.0.0 identity-lifetimefitness.gomoxie.solutions
 0.0.0.0 identity-michaelkors.gomoxie.solutions
+0.0.0.0 identity-michaelkorsca.gomoxie.solutions
 0.0.0.0 identity-michaelkorsde.gomoxie.solutions
 0.0.0.0 identity-michaelkorses.gomoxie.solutions
 0.0.0.0 identity-michaelkorseu.gomoxie.solutions
@@ -2393,6 +2398,7 @@
 0.0.0.0 identity-sandals.gomoxie.solutions
 0.0.0.0 identity-shareacoke.gomoxie.solutions
 0.0.0.0 identity-signetjewelers.gomoxie.solutions
+0.0.0.0 identity-southbeachdiet.gomoxie.solutions
 0.0.0.0 identity-synchrony.gomoxie.solutions
 0.0.0.0 identity-usaaeligibility.gomoxie.solutions
 0.0.0.0 identity-yankeecandle.gomoxie.solutions
@@ -2409,6 +2415,7 @@
 0.0.0.0 log-jjillecp.gomoxie.solutions
 0.0.0.0 log-lifetimefitness.gomoxie.solutions
 0.0.0.0 log-michaelkors.gomoxie.solutions
+0.0.0.0 log-michaelkorsca.gomoxie.solutions
 0.0.0.0 log-michaelkorsde.gomoxie.solutions
 0.0.0.0 log-michaelkorseu.gomoxie.solutions
 0.0.0.0 log-michaelkorsit.gomoxie.solutions
