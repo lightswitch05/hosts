@@ -1,13 +1,13 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2018-12-31T12:26:05+00:00
-# Count: 523 domains
+# Released: 2019-01-01T12:27:56+00:00
+# Count: 529 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/amp-hosts-extended.txt
 #
-# Copyright 2018 Daniel White
+# Copyright 2019 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -139,6 +139,7 @@
 0.0.0.0 amp-dailycaller-com.cdn.ampproject.org
 0.0.0.0 amp-diariopopular-com-ar.cdn.ampproject.org
 0.0.0.0 amp-dw-com.cdn.ampproject.org
+0.0.0.0 amp-economist-com.cdn.ampproject.org
 0.0.0.0 amp-express-de.cdn.ampproject.org
 0.0.0.0 amp-fastcompany-com.cdn.ampproject.org
 0.0.0.0 amp-france24-com.cdn.ampproject.org
@@ -175,6 +176,7 @@
 0.0.0.0 cdn--europe1-lanmedia-fr.cdn.ampproject.org
 0.0.0.0 cdn-apartmenttherapy-info.cdn.ampproject.org
 0.0.0.0 cdn-branch-io.cdn.ampproject.org
+0.0.0.0 cdn-collider-com.cdn.ampproject.org
 0.0.0.0 cdn-concreteplayground-com.cdn.ampproject.org
 0.0.0.0 cdn-datafloq-com.cdn.ampproject.org
 0.0.0.0 cdn-gsmarena-com.cdn.ampproject.org
@@ -276,6 +278,7 @@
 0.0.0.0 mundohispanico-com.cdn.ampproject.org
 0.0.0.0 nba-nbcsports-com.cdn.ampproject.org
 0.0.0.0 new--projects-icicihomesearch-com.cdn.ampproject.org
+0.0.0.0 newsinfo-inquirer-net.cdn.ampproject.org
 0.0.0.0 noticias-uol-com-br.cdn.ampproject.org
 0.0.0.0 nypdecider-files-wordpress-com.cdn.ampproject.org
 0.0.0.0 nypost-com.cdn.ampproject.org
@@ -334,6 +337,7 @@
 0.0.0.0 thunderousintentions-com.cdn.ampproject.org
 0.0.0.0 turbotax-intuit-com.cdn.ampproject.org
 0.0.0.0 tw-amp-chahaoba-com.cdn.ampproject.org
+0.0.0.0 tzf5nl3typyogpvuf27fcxkq47trkksnzor6uik7s7en2qgnnvxq.cdn.ampproject.org
 0.0.0.0 ukraina-ru.cdn.ampproject.org
 0.0.0.0 union-theknot-com.cdn.ampproject.org
 0.0.0.0 usatbrownswire-files-wordpress-com.cdn.ampproject.org
@@ -406,6 +410,7 @@
 0.0.0.0 www-docusign-com.cdn.ampproject.org
 0.0.0.0 www-drawnames-com.cdn.ampproject.org
 0.0.0.0 www-eater-com.cdn.ampproject.org
+0.0.0.0 www-economist-com.cdn.ampproject.org
 0.0.0.0 www-el--nacional-com.cdn.ampproject.org
 0.0.0.0 www-electronicshub-org.cdn.ampproject.org
 0.0.0.0 www-equipandoloja-net-br.cdn.ampproject.org
@@ -458,6 +463,7 @@
 0.0.0.0 www-ladylike-gr.cdn.ampproject.org
 0.0.0.0 www-lanacion-com-ar.cdn.ampproject.org
 0.0.0.0 www-laprensa-hn.cdn.ampproject.org
+0.0.0.0 www-laprensalara-com-ve.cdn.ampproject.org
 0.0.0.0 www-latimes-com.cdn.ampproject.org
 0.0.0.0 www-lci-fr.cdn.ampproject.org
 0.0.0.0 www-lojacomac-com-br.cdn.ampproject.org
