@@ -48,10 +48,14 @@
 (\.ns\d\d){6,}\S*lfstmedia\.com$
 
 # gstatic.com junk like p2-ghnopls3mhgfk-srif7zvswmajyk6c-if-v6exp3-v4.metric.gstatic.com
-^\S*\w{13}-\w{15}\S*metric\.gstatic\.com$
+# 25475662-v2c3io3objoazsmg-c2r-ds.metric.gstatic.com
+^\S*\w{8,13}-\w{15,16}\S*metric\.gstatic\.com$
+
 
 # online-metrix junk like ljcjjbch-749b6d0236c5a836f1aa1fb1642fc000eafda630-am1.d.aa.online-metrix.net
-^\s*\w{8}-\w{40}\S*online-metrix\.net$
+# ol0w57c49k-751efdcaeb8792dfc730fcfaac567d8ffaa938aa-am1.d.aa.online-metrix.net
+^\s*\w{8,10}-\w{37,40}\S*online-metrix\.net$
+
 
 # parsely daily configs like srv-2018-11-13-12.config.parsely.com
 ^srv-\d{4}-\d{2}-\d{2}\S*\.parsely.com$
@@ -129,5 +133,9 @@
 
 # Whitelist random looking clickbank domains like fdcbd9l73gup3o9ri5sb4hnyc6.hop.clickbank.net
 ^\S{26}.hop.clickbank.net$
+
+# random looking awstrack 192c6sfx.r.eu-west-1.awstrack.me
+\S*\w{7,8}\.r\.\S*awstrack\.me$
+
 
 
