@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2018-12-21T14:04:19+00:00
-# Count: 2148 domains
+# Released: 2018-12-27T18:23:45+00:00
+# Count: 2142 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -1421,6 +1421,7 @@
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 publisher-config-gcp.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 unrulymedia.com
 0.0.0.0 targeting.unrulymedia.com
@@ -1697,14 +1698,7 @@
 0.0.0.0 www1.mmnetwork.mobi
 0.0.0.0 jt.ms
 0.0.0.0 srv.jt.ms
-0.0.0.0 rbl.ms
-0.0.0.0 assets.rbl.ms
-0.0.0.0 assets-auto.rbl.ms
-0.0.0.0 media.rbl.ms
 0.0.0.0 pages-stats.rbl.ms
-0.0.0.0 res.rbl.ms
-0.0.0.0 resize.rbl.ms
-0.0.0.0 static.rbl.ms
 0.0.0.0 207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
 0.0.0.0 2o7.net
