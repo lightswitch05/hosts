@@ -48,10 +48,14 @@
 (\.ns\d\d)***REMOVED***6,***REMOVED***\S*lfstmedia\.com$
 
 # gstatic.com junk like p2-ghnopls3mhgfk-srif7zvswmajyk6c-if-v6exp3-v4.metric.gstatic.com
-^\S*\w***REMOVED***13***REMOVED***-\w***REMOVED***15***REMOVED***\S*metric\.gstatic\.com$
+# 25475662-v2c3io3objoazsmg-c2r-ds.metric.gstatic.com
+^\S*\w***REMOVED***8,13***REMOVED***-\w***REMOVED***15,16***REMOVED***\S*metric\.gstatic\.com$
+
 
 # online-metrix junk like ljcjjbch-749b6d0236c5a836f1aa1fb1642fc000eafda630-am1.d.aa.online-metrix.net
-^\s*\w***REMOVED***8***REMOVED***-\w***REMOVED***40***REMOVED***\S*online-metrix\.net$
+# ol0w57c49k-751efdcaeb8792dfc730fcfaac567d8ffaa938aa-am1.d.aa.online-metrix.net
+^\s*\w***REMOVED***8,10***REMOVED***-\w***REMOVED***37,40***REMOVED***\S*online-metrix\.net$
+
 
 # parsely daily configs like srv-2018-11-13-12.config.parsely.com
 ^srv-\d***REMOVED***4***REMOVED***-\d***REMOVED***2***REMOVED***-\d***REMOVED***2***REMOVED***\S*\.parsely.com$
@@ -129,5 +133,9 @@
 
 # Whitelist random looking clickbank domains like fdcbd9l73gup3o9ri5sb4hnyc6.hop.clickbank.net
 ^\S***REMOVED***26***REMOVED***.hop.clickbank.net$
+
+# random looking awstrack 192c6sfx.r.eu-west-1.awstrack.me
+\S*\w***REMOVED***7,8***REMOVED***\.r\.\S*awstrack\.me$
+
 
 
