@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-03T16:13:58+00:00
-# Count: 25727 domains
+# Released: 2019-01-03T16:25:58+00:00
+# Count: 25731 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -25470,6 +25470,7 @@
 0.0.0.0 om.api.ispot.tv
 0.0.0.0 staging.om.api.ispot.tv
 0.0.0.0 www.staging.om.api.ispot.tv
+0.0.0.0 uat.api.ispot.tv
 0.0.0.0 assets.ispot.tv
 0.0.0.0 adam.assets.ispot.tv
 0.0.0.0 autodiscover.ispot.tv
@@ -25497,6 +25498,9 @@
 0.0.0.0 mx.ispot.tv
 0.0.0.0 nat.ispot.tv
 0.0.0.0 pd.ispot.tv
+0.0.0.0 pi.ispot.tv
+0.0.0.0 pop.ispot.tv
+0.0.0.0 pop3.ispot.tv
 0.0.0.0 pt.ispot.tv
 0.0.0.0 www.pt.ispot.tv
 0.0.0.0 pte.ispot.tv
