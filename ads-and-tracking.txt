@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-01-02T15:59:32+00:00
-# Count: 2142 domains
+# Released: 2019-01-03T16:13:58+00:00
+# Count: 2145 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -573,6 +573,7 @@
 0.0.0.0 exelator.com
 0.0.0.0 loadr.exelator.com
 0.0.0.0 dctk.expedia.com
+0.0.0.0 collector.prod.expedia.com
 0.0.0.0 exponential.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 extremereach.com
@@ -1406,6 +1407,8 @@
 0.0.0.0 tvpixel.com
 0.0.0.0 p.tvpixel.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 uciservice.com
+0.0.0.0 www.uciservice.com
 0.0.0.0 ugdturner.com
 0.0.0.0 pixel.geotex.uk.com
 0.0.0.0 undertone.com
