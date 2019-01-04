@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-03T18:08:51+00:00
-# Count: 25733 domains
+# Released: 2019-01-04T20:56:05+00:00
+# Count: 25727 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -19125,6 +19125,8 @@
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api-ping.intercom.io
 0.0.0.0 app.intercom.io
+0.0.0.0 corporate.intercom.io
+0.0.0.0 internal.corporate.intercom.io
 0.0.0.0 demo.intercom.io
 0.0.0.0 demos.intercom.io
 0.0.0.0 engineering.intercom.io
@@ -25621,16 +25623,9 @@
 0.0.0.0 beacon.advertisingbeacon.co.uk
 0.0.0.0 swa.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
-0.0.0.0 grapeshot.co.uk
 0.0.0.0 abscbn.grapeshot.co.uk
 0.0.0.0 ad-incisive.grapeshot.co.uk
 0.0.0.0 adform.grapeshot.co.uk
-0.0.0.0 admin.grapeshot.co.uk
-0.0.0.0 admin-appnexus.grapeshot.co.uk
-0.0.0.0 admin-gs-cats.grapeshot.co.uk
-0.0.0.0 admin-msix.grapeshot.co.uk
-0.0.0.0 admin-thetradedesk.grapeshot.co.uk
-0.0.0.0 admin-turn.grapeshot.co.uk
 0.0.0.0 ss4.ams.grapeshot.co.uk
 0.0.0.0 ss5.ams.grapeshot.co.uk
 0.0.0.0 ss1.ash.grapeshot.co.uk
@@ -25704,7 +25699,6 @@
 0.0.0.0 virgin.grapeshot.co.uk
 0.0.0.0 vmp.grapeshot.co.uk
 0.0.0.0 wiley.grapeshot.co.uk
-0.0.0.0 www.grapeshot.co.uk
 0.0.0.0 xaxis.grapeshot.co.uk
 0.0.0.0 ssc.independent.co.uk
 0.0.0.0 nir.regmedia.co.uk
