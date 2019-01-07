@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-04T20:56:05+00:00
-# Count: 25727 domains
+# Released: 2019-01-07T16:10:30+00:00
+# Count: 25730 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -8403,6 +8403,8 @@
 0.0.0.0 www.getsitecontrol.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
+0.0.0.0 glassboxcdn.com
+0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
 0.0.0.0 www.glasslytics.com
 0.0.0.0 adserver.goodnuze.com
@@ -19098,6 +19100,7 @@
 0.0.0.0 tracking.graphly.io
 0.0.0.0 www.tracking.graphly.io
 0.0.0.0 www.graphly.io
+0.0.0.0 cem.hotelsapi.io
 0.0.0.0 instana.io
 0.0.0.0 artifact-public.instana.io
 0.0.0.0 demo.instana.io
