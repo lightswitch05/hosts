@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-01-08T13:52:44+00:00
-# Count: 2153 domains
+# Released: 2019-01-08T16:21:25+00:00
+# Count: 2157 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -776,6 +776,7 @@
 0.0.0.0 b-code.liadm.com
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 lijit.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 vap.lijit.com
@@ -1768,6 +1769,9 @@
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 lightboxapi1.azurewebsites.net
+0.0.0.0 lightboxapi2.azurewebsites.net
+0.0.0.0 lightboxapi3.azurewebsites.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 api.bandwidthx.net
 0.0.0.0 api-dfw-b.bandwidthx.net
