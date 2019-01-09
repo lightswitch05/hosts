@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-08T19:55:35+00:00
-# Count: 25750 domains
+# Released: 2019-01-09T15:29:41+00:00
+# Count: 25765 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -5374,6 +5374,13 @@
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 www.smetrics.cnn.com
 0.0.0.0 pixel.collosteam.com
+0.0.0.0 colossusssp.com
+0.0.0.0 node1.colossusssp.com
+0.0.0.0 node2.colossusssp.com
+0.0.0.0 node3.colossusssp.com
+0.0.0.0 supply.colossusssp.com
+0.0.0.0 sync.colossusssp.com
+0.0.0.0 www.colossusssp.com
 0.0.0.0 company-target.com
 0.0.0.0 a.company-target.com
 0.0.0.0 east-pool.a.company-target.com
@@ -14600,6 +14607,14 @@
 0.0.0.0 s.servedby-buysellads.com
 0.0.0.0 ss.servedby-buysellads.com
 0.0.0.0 static.servedby-buysellads.com
+0.0.0.0 serverbid.com
+0.0.0.0 app.serverbid.com
+0.0.0.0 dev.serverbid.com
+0.0.0.0 e.serverbid.com
+0.0.0.0 e-eu-central-1.serverbid.com
+0.0.0.0 rtb.serverbid.com
+0.0.0.0 sync.serverbid.com
+0.0.0.0 www.serverbid.com
 0.0.0.0 sf14g.com
 0.0.0.0 4.sf14g.com
 0.0.0.0 t.sf14g.com
