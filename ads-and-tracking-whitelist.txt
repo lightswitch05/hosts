@@ -137,5 +137,11 @@
 # random looking awstrack 192c6sfx.r.eu-west-1.awstrack.me
 \S*\w{7,8}\.r\.\S*awstrack\.me$
 
+# grapeshot hosts incorrectly blocked
+# https://github.com/StevenBlack/hosts/pull/876
+#
+# Whitelist admin tools and root
+^(www\.)?grapeshot\.co\.uk$
+^admin(-\S+)?\.grapeshot.co.uk$
 
 
