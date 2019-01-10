@@ -1,4 +1,4 @@
-requests
-pytest
-pytest-pep8
-pytest-cov
+requests>=2.21.0
+pytest>=4.1.0
+pytest-pep8>=1.0.6
+pytest-cov>=2.6.1
