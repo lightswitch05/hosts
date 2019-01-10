@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-01-02T16:01:58+00:00
-# Count: 2142 domains
+# Released: 2019-01-10T15:44:54+00:00
+# Count: 2165 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -437,6 +437,8 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 pixel.collosteam.com
+0.0.0.0 colossusssp.com
+0.0.0.0 sync.colossusssp.com
 0.0.0.0 company-target.com
 0.0.0.0 d.company-target.com
 0.0.0.0 segments.company-target.com
@@ -573,6 +575,7 @@
 0.0.0.0 exelator.com
 0.0.0.0 loadr.exelator.com
 0.0.0.0 dctk.expedia.com
+0.0.0.0 collector.prod.expedia.com
 0.0.0.0 exponential.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 extremereach.com
@@ -637,6 +640,8 @@
 0.0.0.0 widgets.getsitecontrol.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
+0.0.0.0 glassboxcdn.com
+0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
@@ -757,6 +762,7 @@
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 assets.kochava.com
 0.0.0.0 imp.control.kochava.com
+0.0.0.0 beam.koddi.com
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 kompasads.com
 0.0.0.0 sstats.kroger.com
@@ -772,6 +778,7 @@
 0.0.0.0 b-code.liadm.com
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 lijit.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 vap.lijit.com
@@ -1090,6 +1097,7 @@
 0.0.0.0 track.pricespider.com
 0.0.0.0 privy.com
 0.0.0.0 widget.privy.com
+0.0.0.0 www2.profitwell.com
 0.0.0.0 metrics.protectmyid.com
 0.0.0.0 pt2tracker.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -1210,6 +1218,9 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 serverbid.com
+0.0.0.0 e.serverbid.com
+0.0.0.0 sync.serverbid.com
 0.0.0.0 sf14g.com
 0.0.0.0 invenio.sgn.com
 0.0.0.0 shareaholic.com
@@ -1406,6 +1417,8 @@
 0.0.0.0 tvpixel.com
 0.0.0.0 p.tvpixel.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 uciservice.com
+0.0.0.0 www.uciservice.com
 0.0.0.0 ugdturner.com
 0.0.0.0 pixel.geotex.uk.com
 0.0.0.0 undertone.com
@@ -1627,6 +1640,8 @@
 0.0.0.0 ghostboard.io
 0.0.0.0 graphly.io
 0.0.0.0 tracking.graphly.io
+0.0.0.0 cem.hotelsapi.io
+0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 instana.io
 0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
@@ -1759,6 +1774,9 @@
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 lightboxapi1.azurewebsites.net
+0.0.0.0 lightboxapi2.azurewebsites.net
+0.0.0.0 lightboxapi3.azurewebsites.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 api.bandwidthx.net
 0.0.0.0 api-dfw-b.bandwidthx.net
@@ -1788,6 +1806,7 @@
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net
 0.0.0.0 connexity.net
@@ -1813,6 +1832,7 @@
 0.0.0.0 gslb.demdex.net
 0.0.0.0 havas.demdex.net
 0.0.0.0 intelcorp.demdex.net
+0.0.0.0 millercoors.demdex.net
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 tdameritrade.demdex.net
@@ -1949,6 +1969,8 @@
 0.0.0.0 metrics.dc.ad.msft.net
 0.0.0.0 mxptint.net
 0.0.0.0 mpd.mxptint.net
+0.0.0.0 myvisualiq.net
+0.0.0.0 vt.myvisualiq.net
 0.0.0.0 mzbcdn.net
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
@@ -2133,6 +2155,7 @@
 0.0.0.0 sync.extend.tv
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 ispot.tv
+0.0.0.0 pi.ispot.tv
 0.0.0.0 pt.ispot.tv
 0.0.0.0 staging-ps.ispot.tv
 0.0.0.0 ravm.tv

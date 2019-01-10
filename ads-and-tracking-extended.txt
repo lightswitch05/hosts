@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-06T11:26:10+00:00
-# Count: 31247 domains
+# Released: 2019-01-10T15:44:54+00:00
+# Count: 31282 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -6525,6 +6525,13 @@
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 www.smetrics.cnn.com
 0.0.0.0 pixel.collosteam.com
+0.0.0.0 colossusssp.com
+0.0.0.0 node1.colossusssp.com
+0.0.0.0 node2.colossusssp.com
+0.0.0.0 node3.colossusssp.com
+0.0.0.0 supply.colossusssp.com
+0.0.0.0 sync.colossusssp.com
+0.0.0.0 www.colossusssp.com
 0.0.0.0 company-target.com
 0.0.0.0 a.company-target.com
 0.0.0.0 east-pool.a.company-target.com
@@ -8825,6 +8832,7 @@
 0.0.0.0 www.exelator.com
 0.0.0.0 zabbix.exelator.com
 0.0.0.0 dctk.expedia.com
+0.0.0.0 collector.prod.expedia.com
 0.0.0.0 exponential.com
 0.0.0.0 advertisers.exponential.com
 0.0.0.0 api.exponential.com
@@ -9692,6 +9700,8 @@
 0.0.0.0 www.getsitecontrol.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
+0.0.0.0 glassboxcdn.com
+0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
 0.0.0.0 www.glasslytics.com
 0.0.0.0 adserver.goodnuze.com
@@ -11330,6 +11340,7 @@
 0.0.0.0 static.kochava.com
 0.0.0.0 www.kochava.com
 0.0.0.0 xxxbidder.kochava.com
+0.0.0.0 beam.koddi.com
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 kompasads.com
 0.0.0.0 ads3.kompasads.com
@@ -11475,6 +11486,7 @@
 0.0.0.0 adfeedback.lifestreet.com
 0.0.0.0 ns12.lifestreet.com
 0.0.0.0 www.lifestreet.com
+0.0.0.0 www.lightboxcdn.com
 0.0.0.0 lijit.com
 0.0.0.0 adcenter.lijit.com
 0.0.0.0 adintegration.lijit.com
@@ -15226,6 +15238,7 @@
 0.0.0.0 updates.privy.com
 0.0.0.0 widget.privy.com
 0.0.0.0 www.privy.com
+0.0.0.0 www2.profitwell.com
 0.0.0.0 metrics.protectmyid.com
 0.0.0.0 pt2tracker.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -16713,6 +16726,14 @@
 0.0.0.0 s.servedby-buysellads.com
 0.0.0.0 ss.servedby-buysellads.com
 0.0.0.0 static.servedby-buysellads.com
+0.0.0.0 serverbid.com
+0.0.0.0 app.serverbid.com
+0.0.0.0 dev.serverbid.com
+0.0.0.0 e.serverbid.com
+0.0.0.0 e-eu-central-1.serverbid.com
+0.0.0.0 rtb.serverbid.com
+0.0.0.0 sync.serverbid.com
+0.0.0.0 www.serverbid.com
 0.0.0.0 sf14g.com
 0.0.0.0 4.sf14g.com
 0.0.0.0 t.sf14g.com
@@ -19333,6 +19354,8 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn-eb.syndication.twitter.com
+0.0.0.0 uciservice.com
+0.0.0.0 www.uciservice.com
 0.0.0.0 ugdturner.com
 0.0.0.0 dev.ugdturner.com
 0.0.0.0 prod.ugdturner.com
@@ -21633,6 +21656,8 @@
 0.0.0.0 tracking.graphly.io
 0.0.0.0 www.tracking.graphly.io
 0.0.0.0 www.graphly.io
+0.0.0.0 cem.hotelsapi.io
+0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 instana.io
 0.0.0.0 artifact-public.instana.io
 0.0.0.0 demo.instana.io
@@ -23229,6 +23254,9 @@
 0.0.0.0 ww.audienceinsights.net
 0.0.0.0 www.audienceinsights.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 lightboxapi1.azurewebsites.net
+0.0.0.0 lightboxapi2.azurewebsites.net
+0.0.0.0 lightboxapi3.azurewebsites.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 adminx.bandwidthx.net
 0.0.0.0 api.bandwidthx.net
@@ -23504,6 +23532,7 @@
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net
 0.0.0.0 connexity.net
@@ -24435,6 +24464,7 @@
 0.0.0.0 verizonenterprise.demdex.net
 0.0.0.0 verizontelematic.demdex.net
 0.0.0.0 verizonwireless.demdex.net
+0.0.0.0 fast.verizonwireless.demdex.net
 0.0.0.0 vfc.demdex.net
 0.0.0.0 vfde.demdex.net
 0.0.0.0 vfes.demdex.net
@@ -27378,6 +27408,18 @@
 0.0.0.0 www.mxptint.net
 0.0.0.0 yhp.mxptint.net
 0.0.0.0 www.yhp.mxptint.net
+0.0.0.0 myvisualiq.net
+0.0.0.0 q.myvisualiq.net
+0.0.0.0 r.myvisualiq.net
+0.0.0.0 t.myvisualiq.net
+0.0.0.0 www.t.myvisualiq.net
+0.0.0.0 t01.myvisualiq.net
+0.0.0.0 tracker.myvisualiq.net
+0.0.0.0 trk.myvisualiq.net
+0.0.0.0 u.myvisualiq.net
+0.0.0.0 v.myvisualiq.net
+0.0.0.0 vt.myvisualiq.net
+0.0.0.0 www.vt.myvisualiq.net
 0.0.0.0 mzbcdn.net
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 sdn01.mzbcdn.net
@@ -31005,6 +31047,7 @@
 0.0.0.0 mx.ispot.tv
 0.0.0.0 nat.ispot.tv
 0.0.0.0 pd.ispot.tv
+0.0.0.0 pi.ispot.tv
 0.0.0.0 pop.ispot.tv
 0.0.0.0 pop3.ispot.tv
 0.0.0.0 pt.ispot.tv
@@ -31131,16 +31174,9 @@
 0.0.0.0 beacon.advertisingbeacon.co.uk
 0.0.0.0 swa.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
-0.0.0.0 grapeshot.co.uk
 0.0.0.0 abscbn.grapeshot.co.uk
 0.0.0.0 ad-incisive.grapeshot.co.uk
 0.0.0.0 adform.grapeshot.co.uk
-0.0.0.0 admin.grapeshot.co.uk
-0.0.0.0 admin-appnexus.grapeshot.co.uk
-0.0.0.0 admin-gs-cats.grapeshot.co.uk
-0.0.0.0 admin-msix.grapeshot.co.uk
-0.0.0.0 admin-thetradedesk.grapeshot.co.uk
-0.0.0.0 admin-turn.grapeshot.co.uk
 0.0.0.0 ss4.ams.grapeshot.co.uk
 0.0.0.0 ss5.ams.grapeshot.co.uk
 0.0.0.0 ss1.ash.grapeshot.co.uk
@@ -31217,7 +31253,6 @@
 0.0.0.0 virgin.grapeshot.co.uk
 0.0.0.0 vmp.grapeshot.co.uk
 0.0.0.0 wiley.grapeshot.co.uk
-0.0.0.0 www.grapeshot.co.uk
 0.0.0.0 xaxis.grapeshot.co.uk
 0.0.0.0 ssc.independent.co.uk
 0.0.0.0 nir.regmedia.co.uk
