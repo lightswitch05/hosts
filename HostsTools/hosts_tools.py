@@ -121,6 +121,7 @@ def write_domain_list(file_name: str, domains: Set[str]):
         file.write(build_file_header(file_name, len(sorted_domains)))
         for domain in sorted_domains:
             file.write('0.0.0.0 %s\n' % domain)
+        file.write('\n\n')
 
 
 def is_valid_domain(domain: str) -> bool:
