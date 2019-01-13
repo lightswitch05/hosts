@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-01-10T16:50:25+00:00
-# Count: 2627 domains
+# Released: 2019-01-13T11:56:51+00:00
+# Count: 2644 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -206,6 +206,7 @@
 0.0.0.0 oriflame.ugc.bazaarvoice.com
 0.0.0.0 orion.ugc.bazaarvoice.com
 0.0.0.0 paris.ugc.bazaarvoice.com
+0.0.0.0 parkerpen.ugc.bazaarvoice.com
 0.0.0.0 pediasure.ugc.bazaarvoice.com
 0.0.0.0 philips.ugc.bazaarvoice.com
 0.0.0.0 picard.ugc.bazaarvoice.com
@@ -260,6 +261,7 @@
 0.0.0.0 vitacost.ugc.bazaarvoice.com
 0.0.0.0 vitaminworld.ugc.bazaarvoice.com
 0.0.0.0 vodafone.ugc.bazaarvoice.com
+0.0.0.0 wallis.ugc.bazaarvoice.com
 0.0.0.0 walmart.ugc.bazaarvoice.com
 0.0.0.0 wella-us.ugc.bazaarvoice.com
 0.0.0.0 wiggle.ugc.bazaarvoice.com
@@ -500,14 +502,17 @@
 0.0.0.0 cr196.mta.exacttarget.com
 0.0.0.0 cr21.mta.exacttarget.com
 0.0.0.0 cr212.mta.exacttarget.com
+0.0.0.0 cr61.mta.exacttarget.com
 0.0.0.0 cr7.mta.exacttarget.com
 0.0.0.0 cr75.mta.exacttarget.com
 0.0.0.0 cr99.mta.exacttarget.com
 0.0.0.0 cs200.mta.exacttarget.com
+0.0.0.0 cw112.mta.exacttarget.com
 0.0.0.0 cw223.mta.exacttarget.com
 0.0.0.0 cw3.mta.exacttarget.com
 0.0.0.0 cw78.mta.exacttarget.com
 0.0.0.0 cw82.mta.exacttarget.com
+0.0.0.0 cz128.mta.exacttarget.com
 0.0.0.0 cz194.mta.exacttarget.com
 0.0.0.0 cz40.mta.exacttarget.com
 0.0.0.0 db102.mta.exacttarget.com
@@ -538,12 +543,14 @@
 0.0.0.0 dj2.mta.exacttarget.com
 0.0.0.0 el70.mta.exacttarget.com
 0.0.0.0 fg158.mta.exacttarget.com
+0.0.0.0 fg203.mta.exacttarget.com
 0.0.0.0 fg34.mta.exacttarget.com
 0.0.0.0 fg40.mta.exacttarget.com
 0.0.0.0 fg56.mta.exacttarget.com
 0.0.0.0 fg84.mta.exacttarget.com
 0.0.0.0 fg92.mta.exacttarget.com
 0.0.0.0 fq141.mta.exacttarget.com
+0.0.0.0 fq197.mta.exacttarget.com
 0.0.0.0 fq25.mta.exacttarget.com
 0.0.0.0 nexus.exacttarget.com
 0.0.0.0 ns1.exacttarget.com
@@ -1335,6 +1342,8 @@
 0.0.0.0 landing.hellomedian.com
 0.0.0.0 socket.hellomedian.com
 0.0.0.0 socket-az.hellomedian.com
+0.0.0.0 socket-rtc.hellomedian.com
+0.0.0.0 staging.hellomedian.com
 0.0.0.0 www.hellomedian.com
 0.0.0.0 livechatinc.com
 0.0.0.0 accounts.livechatinc.com
@@ -1486,6 +1495,7 @@
 0.0.0.0 ct246.dsr.livefyre.com
 0.0.0.0 ct247.dsr.livefyre.com
 0.0.0.0 ct248.dsr.livefyre.com
+0.0.0.0 ct249.dsr.livefyre.com
 0.0.0.0 lc48.dsr.livefyre.com
 0.0.0.0 lc49.dsr.livefyre.com
 0.0.0.0 lc50.dsr.livefyre.com
@@ -2323,6 +2333,7 @@
 0.0.0.0 notify.simpleanalytics.io
 0.0.0.0 queue.simpleanalytics.io
 0.0.0.0 monit.queue.simpleanalytics.io
+0.0.0.0 test-external-ssl-319481934.simpleanalytics.io
 0.0.0.0 test93f9h93hf39fjka93.simpleanalytics.io
 0.0.0.0 testing.simpleanalytics.io
 0.0.0.0 www.simpleanalytics.io
@@ -2346,6 +2357,7 @@
 0.0.0.0 connector-jjillecp.gomoxie.solutions
 0.0.0.0 connector-lifetimefitness.gomoxie.solutions
 0.0.0.0 connector-michaelkors.gomoxie.solutions
+0.0.0.0 connector-michaelkorsuk.gomoxie.solutions
 0.0.0.0 connector-peoples.gomoxie.solutions
 0.0.0.0 connector-rcn.gomoxie.solutions
 0.0.0.0 connector-sandals.gomoxie.solutions
@@ -2368,6 +2380,7 @@
 0.0.0.0 events-lifetimefitness.gomoxie.solutions
 0.0.0.0 events-michaelkors.gomoxie.solutions
 0.0.0.0 events-michaelkorsca.gomoxie.solutions
+0.0.0.0 events-michaelkorsde.gomoxie.solutions
 0.0.0.0 events-michaelkorseu.gomoxie.solutions
 0.0.0.0 events-michaelkorsit.gomoxie.solutions
 0.0.0.0 events-michaelkorstest.gomoxie.solutions
@@ -2408,6 +2421,7 @@
 0.0.0.0 identity-southbeachdiet.gomoxie.solutions
 0.0.0.0 identity-synchrony.gomoxie.solutions
 0.0.0.0 identity-usaaeligibility.gomoxie.solutions
+0.0.0.0 identity-vitacost.gomoxie.solutions
 0.0.0.0 identity-yankeecandle.gomoxie.solutions
 0.0.0.0 location.gomoxie.solutions
 0.0.0.0 log-bms_bms.gomoxie.solutions
@@ -2437,6 +2451,7 @@
 0.0.0.0 log-synchrony.gomoxie.solutions
 0.0.0.0 log-usaaeligibility.gomoxie.solutions
 0.0.0.0 log-usaahomeowners.gomoxie.solutions
+0.0.0.0 log-vitacost.gomoxie.solutions
 0.0.0.0 log-yankeecandle.gomoxie.solutions
 0.0.0.0 stage.gomoxie.solutions
 0.0.0.0 uk.gomoxie.solutions
@@ -2482,7 +2497,9 @@
 0.0.0.0 asa16.tawk.to
 0.0.0.0 asa17.tawk.to
 0.0.0.0 asa18.tawk.to
+0.0.0.0 asa2.tawk.to
 0.0.0.0 asa3.tawk.to
+0.0.0.0 asa4.tawk.to
 0.0.0.0 asa5.tawk.to
 0.0.0.0 asa6.tawk.to
 0.0.0.0 asa7.tawk.to
