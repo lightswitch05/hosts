@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-01-16T13:52:47+00:00
-# Count: 2168 domains
+# Released: 2019-01-17T21:20:01+00:00
+# Count: 2178 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -482,6 +482,10 @@
 0.0.0.0 metrics.creditreport.com
 0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 cname01.cryptolootminer.com
+0.0.0.0 cname03.cryptolootminer.com
+0.0.0.0 cname04.cryptolootminer.com
+0.0.0.0 cname05.cryptolootminer.com
 0.0.0.0 ctrix.com
 0.0.0.0 curalate.com
 0.0.0.0 api.curalate.com
@@ -1279,6 +1283,12 @@
 0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 metrics.starz.com
+0.0.0.0 statdynamic.com
+0.0.0.0 cdn-101.statdynamic.com
+0.0.0.0 cdn-102.statdynamic.com
+0.0.0.0 cdn-103.statdynamic.com
+0.0.0.0 cdn-104.statdynamic.com
+0.0.0.0 cdn-105.statdynamic.com
 0.0.0.0 stripcdn.com
 0.0.0.0 b-eu10.stripcdn.com
 0.0.0.0 b-eu15.stripcdn.com
