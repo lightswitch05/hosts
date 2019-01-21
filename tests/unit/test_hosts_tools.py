@@ -64,6 +64,14 @@ class TestHostTools(object):
         is_valid = hosts_tools.is_valid_domain("www.example.com.")
         assert is_valid
 
+    def test_leading_dash_is_not_a_valid_domain(self):
+        is_valid = hosts_tools.is_valid_domain("-example.com")
+        assert not is_valid
+
+    def test_middle_dash_is_a_valid_domain(self):
+        is_valid = hosts_tools.is_valid_domain("my-example.com")
+        assert is_valid
+
     def test_extract_basic(self):
         extracted = hosts_tools.extract_domain("0.0.0.0 example.com")
         assert extracted == "example.com"
