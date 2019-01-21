@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-01-13T11:56:51+00:00
-# Count: 2644 domains
+# Released: 2019-01-20T11:57:12+00:00
+# Count: 2658 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
@@ -111,6 +111,7 @@
 0.0.0.0 davidsbridal.ugc.bazaarvoice.com
 0.0.0.0 debenhams.ugc.bazaarvoice.com
 0.0.0.0 digitalfederalcreditunion.ugc.bazaarvoice.com
+0.0.0.0 discovercard.ugc.bazaarvoice.com
 0.0.0.0 disneystore.ugc.bazaarvoice.com
 0.0.0.0 display.ugc.bazaarvoice.com
 0.0.0.0 display-qa.ugc.bazaarvoice.com
@@ -149,6 +150,7 @@
 0.0.0.0 grainger.ugc.bazaarvoice.com
 0.0.0.0 grays.ugc.bazaarvoice.com
 0.0.0.0 halfords.ugc.bazaarvoice.com
+0.0.0.0 happyangler.ugc.bazaarvoice.com
 0.0.0.0 heine.ugc.bazaarvoice.com
 0.0.0.0 hema.ugc.bazaarvoice.com
 0.0.0.0 hobbs.ugc.bazaarvoice.com
@@ -225,6 +227,7 @@
 0.0.0.0 screwfix.ugc.bazaarvoice.com
 0.0.0.0 sephora.ugc.bazaarvoice.com
 0.0.0.0 serta.ugc.bazaarvoice.com
+0.0.0.0 skii.ugc.bazaarvoice.com
 0.0.0.0 son-video.ugc.bazaarvoice.com
 0.0.0.0 sorelintl.ugc.bazaarvoice.com
 0.0.0.0 stenaline.ugc.bazaarvoice.com
@@ -264,6 +267,7 @@
 0.0.0.0 wallis.ugc.bazaarvoice.com
 0.0.0.0 walmart.ugc.bazaarvoice.com
 0.0.0.0 wella-us.ugc.bazaarvoice.com
+0.0.0.0 whitehouseblackmarket.ugc.bazaarvoice.com
 0.0.0.0 wiggle.ugc.bazaarvoice.com
 0.0.0.0 wonderbox.ugc.bazaarvoice.com
 0.0.0.0 wusthof.ugc.bazaarvoice.com
@@ -460,6 +464,7 @@
 0.0.0.0 login.exacttarget.com
 0.0.0.0 mc.login.exacttarget.com
 0.0.0.0 mc27dc2p63lspxl102q8rxr927qm.login.exacttarget.com
+0.0.0.0 mc2htylff8d1bqx7d8y8wzppn744.login.exacttarget.com
 0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
 0.0.0.0 mcq3v6k8917x8lg5w6s-94jck1r4.login.exacttarget.com
@@ -508,6 +513,7 @@
 0.0.0.0 cr99.mta.exacttarget.com
 0.0.0.0 cs200.mta.exacttarget.com
 0.0.0.0 cw112.mta.exacttarget.com
+0.0.0.0 cw215.mta.exacttarget.com
 0.0.0.0 cw223.mta.exacttarget.com
 0.0.0.0 cw3.mta.exacttarget.com
 0.0.0.0 cw78.mta.exacttarget.com
@@ -524,6 +530,7 @@
 0.0.0.0 de55.mta.exacttarget.com
 0.0.0.0 df101.mta.exacttarget.com
 0.0.0.0 df102.mta.exacttarget.com
+0.0.0.0 df111.mta.exacttarget.com
 0.0.0.0 df129.mta.exacttarget.com
 0.0.0.0 df157.mta.exacttarget.com
 0.0.0.0 df174.mta.exacttarget.com
@@ -541,6 +548,7 @@
 0.0.0.0 dg92.mta.exacttarget.com
 0.0.0.0 di82.mta.exacttarget.com
 0.0.0.0 dj2.mta.exacttarget.com
+0.0.0.0 ef193.mta.exacttarget.com
 0.0.0.0 el70.mta.exacttarget.com
 0.0.0.0 fg158.mta.exacttarget.com
 0.0.0.0 fg203.mta.exacttarget.com
@@ -1390,6 +1398,7 @@
 0.0.0.0 chat56d.livechatinc.com
 0.0.0.0 chat56f.livechatinc.com
 0.0.0.0 community-staging.livechatinc.com
+0.0.0.0 crm.livechatinc.com
 0.0.0.0 dashboard.livechatinc.com
 0.0.0.0 dev-platform.livechatinc.com
 0.0.0.0 developers.livechatinc.com
@@ -1409,6 +1418,7 @@
 0.0.0.0 api.labs.livechatinc.com
 0.0.0.0 cdnx.labs.livechatinc.com
 0.0.0.0 gis.labs.livechatinc.com
+0.0.0.0 lp.labs.livechatinc.com
 0.0.0.0 mp.labs.livechatinc.com
 0.0.0.0 partners.labs.livechatinc.com
 0.0.0.0 queue.labs.livechatinc.com
@@ -1877,6 +1887,7 @@
 0.0.0.0 s4032.pingdom.com
 0.0.0.0 s4037.pingdom.com
 0.0.0.0 s4041.pingdom.com
+0.0.0.0 s4044.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s411.pingdom.com
 0.0.0.0 s412.pingdom.com
@@ -2395,6 +2406,7 @@
 0.0.0.0 events-southbeachdiet.gomoxie.solutions
 0.0.0.0 events-synchrony.gomoxie.solutions
 0.0.0.0 events-usaaeligibility.gomoxie.solutions
+0.0.0.0 events-vitacost.gomoxie.solutions
 0.0.0.0 events-yankeecandle.gomoxie.solutions
 0.0.0.0 identity-bms_bms.gomoxie.solutions
 0.0.0.0 identity-cb.gomoxie.solutions
@@ -2506,11 +2518,13 @@
 0.0.0.0 asa8.tawk.to
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb11.tawk.to
+0.0.0.0 asb16.tawk.to
 0.0.0.0 asb17.tawk.to
 0.0.0.0 asb18.tawk.to
 0.0.0.0 asb2.tawk.to
 0.0.0.0 asb3.tawk.to
 0.0.0.0 asb4.tawk.to
+0.0.0.0 asb5.tawk.to
 0.0.0.0 asb6.tawk.to
 0.0.0.0 asb7.tawk.to
 0.0.0.0 asb8.tawk.to
