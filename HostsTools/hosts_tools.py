@@ -10,7 +10,8 @@ import requests
 import time
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
-ALLOWED_DOMAIN_PATTERN = re.compile("^[^\*\?\[\]{}\|\\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
+EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
+ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]{}\|\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
@@ -129,7 +130,7 @@ def is_valid_domain(domain: str) -> bool:
         return False
     if domain[-1] == ".":
         domain = domain[:-1]  # strip exactly one dot from the right, if present
-    return all(ALLOWED_DOMAIN_PATTERN.match(x) for x in domain.split("."))
+    return all(ALLOWED_DOMAIN_PATTERN.match(x) and not EXCLUDE_DOMAIN_PATTERN.match(x) for x in domain.split("."))
 
 
 def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
