@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-01-23T22:11:55+00:00
-# Count: 2188 domains
+# Released: 2019-01-24T14:44:47+00:00
+# Count: 2228 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -40,6 +40,8 @@
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 flyertown.ca
 0.0.0.0 www.honcode.ch
+0.0.0.0 firstfetchflash.club
+0.0.0.0 morningflashsee.club
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 6sc.co
@@ -87,6 +89,8 @@
 0.0.0.0 a.acrabakasaka.com
 0.0.0.0 xhr.acrabakasaka.com
 0.0.0.0 tracking.acs529.com
+0.0.0.0 ad-pixel.com
+0.0.0.0 s.ad-pixel.com
 0.0.0.0 ad-score.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 adasiaholdings.com
@@ -133,6 +137,8 @@
 0.0.0.0 adobedtm.com
 0.0.0.0 adotmob.com
 0.0.0.0 sync.adotmob.com
+0.0.0.0 adpiano.com
+0.0.0.0 cs.adpiano.com
 0.0.0.0 adpredictive.com
 0.0.0.0 adpushup.com
 0.0.0.0 cdn.adpushup.com
@@ -353,6 +359,7 @@
 0.0.0.0 cnn.sdk.beemray.com
 0.0.0.0 beeviewd.com
 0.0.0.0 adserver.beeviewd.com
+0.0.0.0 bestadbid.com
 0.0.0.0 bestcontentonline.com
 0.0.0.0 adserver.bestcontentonline.com
 0.0.0.0 cdn.bestreviews.com
@@ -612,6 +619,7 @@
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fqtag.com
 0.0.0.0 s.fqtag.com
+0.0.0.0 freecalculation.com
 0.0.0.0 metrics.freecreditscore.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 cdn.freshmarketer.com
@@ -1477,6 +1485,7 @@
 0.0.0.0 hm-content.vergic.com
 0.0.0.0 us-commsrv-a.vergic.com
 0.0.0.0 sanalytics.verizonwireless.com
+0.0.0.0 veryield-malyst.com
 0.0.0.0 s-adobeanalytics.vice.com
 0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vicedata.com
@@ -1617,6 +1626,29 @@
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
+0.0.0.0 checkdealgoldliteflash.icu
+0.0.0.0 www.checkdealgoldliteflash.icu
+0.0.0.0 doconcretegreatliteflash.icu
+0.0.0.0 fasterdltypeliteflash.icu
+0.0.0.0 www.fasterdltypeliteflash.icu
+0.0.0.0 fixmaintainbestaflash.icu
+0.0.0.0 www.fixmaintainbestaflash.icu
+0.0.0.0 makebestmaintainaflash.icu
+0.0.0.0 www.makebestmaintainaflash.icu
+0.0.0.0 mediafreshgreatliteflash.icu
+0.0.0.0 midgreatdlliteflash.icu
+0.0.0.0 www.midgreatdlliteflash.icu
+0.0.0.0 mixmaintainbestaflash.icu
+0.0.0.0 www.mixmaintainbestaflash.icu
+0.0.0.0 mixmaintenancegreatliteflash.icu
+0.0.0.0 savegolddealliteflash.icu
+0.0.0.0 www.savegolddealliteflash.icu
+0.0.0.0 topfuturetypeaflash.icu
+0.0.0.0 www.topfuturetypeaflash.icu
+0.0.0.0 upgradebestfinishtheclicks.icu
+0.0.0.0 upgradedltypeliteflash.icu
+0.0.0.0 www.upgradedltypeliteflash.icu
+0.0.0.0 windowinstalldealaflash.icu
 0.0.0.0 hit-log.viva.co.id
 0.0.0.0 props.id
 0.0.0.0 st-a.props.id
@@ -2138,6 +2170,7 @@
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
 0.0.0.0 metrics.stjude.org
+0.0.0.0 booe.pro
 0.0.0.0 piwik.pro
 0.0.0.0 cdn.piwik.pro
 0.0.0.0 mparticle.containers.piwik.pro
@@ -2157,6 +2190,9 @@
 0.0.0.0 retargeting.bksn.se
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
+0.0.0.0 newadvancetypeliteflash.services
+0.0.0.0 smallbestappleliteflash.services
+0.0.0.0 www.smallbestappleliteflash.services
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 adj.st
@@ -2206,6 +2242,10 @@
 0.0.0.0 adserve.video
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 wpad
+0.0.0.0 theperfectupdate4everyone.xyz
+0.0.0.0 workingversion.theperfectupdate4everyone.xyz
+0.0.0.0 yourbestsiteforlinksitenew.xyz
+0.0.0.0 whenupgrade.yourbestsiteforlinksitenew.xyz
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 openx.co.za
 0.0.0.0 adserver.openx.co.za
