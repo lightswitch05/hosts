@@ -8,6 +8,7 @@ from typing import List, Set, Pattern
 
 import requests
 import time
+import traceback
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
@@ -149,7 +150,7 @@ def find_subdomains(domain: str) -> Set[str]:
     try:
         req = requests.get(url, headers={
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0'
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0'
         })
         if req.status_code != 200:
             print('Error received from crt.sh: ' + req.text)
@@ -158,11 +159,12 @@ def find_subdomains(domain: str) -> Set[str]:
                 content = req.content.decode('utf-8')
                 data = json.loads("[{}]".format(content.replace('}{', '},{')))
                 for key, value in enumerate(data):
-                    found_domain = value['name_value'].lower().strip()
-                    if found_domain.startswith('*.'):
-                        found_domain = found_domain[2:]
-                    if is_valid_domain(found_domain):
-                        found_domains.add(found_domain)
+                    if 'name_value' in value:
+                        found_domain = value['name_value'].lower().strip()
+                        if found_domain.startswith('*.'):
+                            found_domain = found_domain[2:]
+                        if is_valid_domain(found_domain):
+                            found_domains.add(found_domain)
             except ValueError:
                 print('Unknown response from crt.sh: ' + req.text)
     except Exception:
