@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-23T22:11:55+00:00
-# Count: 32202 domains
+# Released: 2019-01-24T14:44:47+00:00
+# Count: 32322 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -95,6 +95,10 @@
 0.0.0.0 feeds.flyertown.ca
 0.0.0.0 www.flyertown.ca
 0.0.0.0 www.honcode.ch
+0.0.0.0 firstfetchflash.club
+0.0.0.0 www.firstfetchflash.club
+0.0.0.0 morningflashsee.club
+0.0.0.0 www.morningflashsee.club
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 6sc.co
@@ -711,6 +715,8 @@
 0.0.0.0 a.acrabakasaka.com
 0.0.0.0 xhr.acrabakasaka.com
 0.0.0.0 tracking.acs529.com
+0.0.0.0 ad-pixel.com
+0.0.0.0 s.ad-pixel.com
 0.0.0.0 ad-score.com
 0.0.0.0 api.ad-score.com
 0.0.0.0 cdn.ad-score.com
@@ -1504,6 +1510,78 @@
 0.0.0.0 vault.adotmob.com
 0.0.0.0 website-beta.adotmob.com
 0.0.0.0 www.adotmob.com
+0.0.0.0 adpiano.com
+0.0.0.0 alt11.adpiano.com
+0.0.0.0 alt15.adpiano.com
+0.0.0.0 alt3.adpiano.com
+0.0.0.0 alt5.adpiano.com
+0.0.0.0 alt6.adpiano.com
+0.0.0.0 apsx.adpiano.com
+0.0.0.0 ax.adpiano.com
+0.0.0.0 best.adpiano.com
+0.0.0.0 cdm.adpiano.com
+0.0.0.0 cdw.adpiano.com
+0.0.0.0 cloud.adpiano.com
+0.0.0.0 cs.adpiano.com
+0.0.0.0 dsp-link.adpiano.com
+0.0.0.0 dsp-link10.adpiano.com
+0.0.0.0 dsp-link3.adpiano.com
+0.0.0.0 dsp-link4.adpiano.com
+0.0.0.0 dsp-link5.adpiano.com
+0.0.0.0 dsp-link7.adpiano.com
+0.0.0.0 dsp-link8.adpiano.com
+0.0.0.0 dsp-link9.adpiano.com
+0.0.0.0 dsp-link99.adpiano.com
+0.0.0.0 dx.adpiano.com
+0.0.0.0 exchange.adpiano.com
+0.0.0.0 get.adpiano.com
+0.0.0.0 ggl.adpiano.com
+0.0.0.0 go.adpiano.com
+0.0.0.0 hd.adpiano.com
+0.0.0.0 hp.adpiano.com
+0.0.0.0 offer.adpiano.com
+0.0.0.0 partner1.adpiano.com
+0.0.0.0 partner10.adpiano.com
+0.0.0.0 partner11.adpiano.com
+0.0.0.0 partner12.adpiano.com
+0.0.0.0 partner14.adpiano.com
+0.0.0.0 partner15.adpiano.com
+0.0.0.0 partner16.adpiano.com
+0.0.0.0 partner17.adpiano.com
+0.0.0.0 partner18.adpiano.com
+0.0.0.0 partner2.adpiano.com
+0.0.0.0 partner5.adpiano.com
+0.0.0.0 partner6.adpiano.com
+0.0.0.0 partner8.adpiano.com
+0.0.0.0 partner9.adpiano.com
+0.0.0.0 pick.adpiano.com
+0.0.0.0 ps.adpiano.com
+0.0.0.0 pu.adpiano.com
+0.0.0.0 rock.adpiano.com
+0.0.0.0 slv.adpiano.com
+0.0.0.0 srv1.adpiano.com
+0.0.0.0 srv10.adpiano.com
+0.0.0.0 srv11.adpiano.com
+0.0.0.0 srv12.adpiano.com
+0.0.0.0 srv13.adpiano.com
+0.0.0.0 srv14.adpiano.com
+0.0.0.0 srv18.adpiano.com
+0.0.0.0 srv3.adpiano.com
+0.0.0.0 srv4.adpiano.com
+0.0.0.0 srv5.adpiano.com
+0.0.0.0 srv6.adpiano.com
+0.0.0.0 srv7.adpiano.com
+0.0.0.0 srv8.adpiano.com
+0.0.0.0 srv9.adpiano.com
+0.0.0.0 str.adpiano.com
+0.0.0.0 tls.adpiano.com
+0.0.0.0 v2.adpiano.com
+0.0.0.0 vip.adpiano.com
+0.0.0.0 web.adpiano.com
+0.0.0.0 wi.adpiano.com
+0.0.0.0 win.adpiano.com
+0.0.0.0 www.adpiano.com
+0.0.0.0 xe.adpiano.com
 0.0.0.0 adpredictive.com
 0.0.0.0 ad.adpredictive.com
 0.0.0.0 adserv.adpredictive.com
@@ -4284,6 +4362,8 @@
 0.0.0.0 vb2.beeviewd.com
 0.0.0.0 vic.beeviewd.com
 0.0.0.0 www.beeviewd.com
+0.0.0.0 bestadbid.com
+0.0.0.0 wb2.bestadbid.com
 0.0.0.0 bestcontentonline.com
 0.0.0.0 adserver.bestcontentonline.com
 0.0.0.0 bicat.bestcontentonline.com
@@ -9561,6 +9641,7 @@
 0.0.0.0 s.fqtag.com
 0.0.0.0 testle.fqtag.com
 0.0.0.0 www.fqtag.com
+0.0.0.0 freecalculation.com
 0.0.0.0 metrics.freecreditscore.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 1mj8mssvlk16dwqy805o3wj.freshmarketer.com
@@ -20329,6 +20410,7 @@
 0.0.0.0 visitor-af.vergic.com
 0.0.0.0 www.vergic.com
 0.0.0.0 sanalytics.verizonwireless.com
+0.0.0.0 veryield-malyst.com
 0.0.0.0 s-adobeanalytics.vice.com
 0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vicedata.com
@@ -21587,6 +21669,34 @@
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
 0.0.0.0 wpad.home
+0.0.0.0 checkdealgoldliteflash.icu
+0.0.0.0 www.checkdealgoldliteflash.icu
+0.0.0.0 doconcretegreatliteflash.icu
+0.0.0.0 www2.doconcretegreatliteflash.icu
+0.0.0.0 fasterdltypeliteflash.icu
+0.0.0.0 www.fasterdltypeliteflash.icu
+0.0.0.0 fixmaintainbestaflash.icu
+0.0.0.0 www.fixmaintainbestaflash.icu
+0.0.0.0 makebestmaintainaflash.icu
+0.0.0.0 www.makebestmaintainaflash.icu
+0.0.0.0 mediafreshgreatliteflash.icu
+0.0.0.0 www2.mediafreshgreatliteflash.icu
+0.0.0.0 midgreatdlliteflash.icu
+0.0.0.0 www.midgreatdlliteflash.icu
+0.0.0.0 mixmaintainbestaflash.icu
+0.0.0.0 www.mixmaintainbestaflash.icu
+0.0.0.0 mixmaintenancegreatliteflash.icu
+0.0.0.0 www2.mixmaintenancegreatliteflash.icu
+0.0.0.0 savegolddealliteflash.icu
+0.0.0.0 www.savegolddealliteflash.icu
+0.0.0.0 topfuturetypeaflash.icu
+0.0.0.0 www.topfuturetypeaflash.icu
+0.0.0.0 upgradebestfinishtheclicks.icu
+0.0.0.0 www.upgradebestfinishtheclicks.icu
+0.0.0.0 upgradedltypeliteflash.icu
+0.0.0.0 www.upgradedltypeliteflash.icu
+0.0.0.0 windowinstalldealaflash.icu
+0.0.0.0 www2.windowinstalldealaflash.icu
 0.0.0.0 hit-log.viva.co.id
 0.0.0.0 props.id
 0.0.0.0 a.props.id
@@ -31171,6 +31281,7 @@
 0.0.0.0 www.adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
 0.0.0.0 metrics.stjude.org
+0.0.0.0 booe.pro
 0.0.0.0 piwik.pro
 0.0.0.0 annefrank.piwik.pro
 0.0.0.0 aumago.piwik.pro
@@ -31475,6 +31586,10 @@
 0.0.0.0 events.amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 www.amp.services
+0.0.0.0 newadvancetypeliteflash.services
+0.0.0.0 www2.newadvancetypeliteflash.services
+0.0.0.0 smallbestappleliteflash.services
+0.0.0.0 www.smallbestappleliteflash.services
 0.0.0.0 terminus.services
 0.0.0.0 engagement.terminus.services
 0.0.0.0 vidassets.terminus.services
@@ -32211,6 +32326,11 @@
 0.0.0.0 www.adserve.video
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 wpad
+0.0.0.0 theperfectupdate4everyone.xyz
+0.0.0.0 learn2upgrade.theperfectupdate4everyone.xyz
+0.0.0.0 yourbestsiteforlinksitenew.xyz
+0.0.0.0 whenupgrade.yourbestsiteforlinksitenew.xyz
+0.0.0.0 workingupdate.yourbestsiteforlinksitenew.xyz
 0.0.0.0 marketingmachine.co.za
 0.0.0.0 autodiscover.marketingmachine.co.za
 0.0.0.0 insights.marketingmachine.co.za
