@@ -8,7 +8,7 @@ from typing import List, Set, Pattern
 
 import requests
 import time
-import traceback
+import shutil
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
@@ -124,6 +124,7 @@ def write_domain_list(file_name: str, domains: Set[str]):
         for domain in sorted_domains:
             file.write('0.0.0.0 %s\n' % domain)
         file.write('\n\n')
+    shutil.copyfile(file_name, 'docs/lists/' + file_name)
 
 
 def is_valid_domain(domain: str) -> bool:
