@@ -5,7 +5,7 @@
 [![last commit](https://img.shields.io/github/last-commit/lightswitch05/hosts.svg)](https://github.com/lightswitch05/hosts/commits/master)
 [![commit activity](https://img.shields.io/github/commit-activity/y/lightswitch05/hosts.svg)](https://github.com/lightswitch05/hosts/commits/master)
 [![donate](https://img.shields.io/badge/Donate-EFF-orange.svg)](https://supporters.eff.org/donate)
-![gitter](https://img.shields.io/gitter/room/lightswitch05/hosts.svg)
+[![gitter](https://img.shields.io/gitter/room/lightswitch05/hosts.svg)](https://gitter.im/lightswitch05/hosts)
 
 A collection of `hosts` files for domain blocking. If you find something in a list that you believe is a mistake or breaks functionality, please open a ticket and I'll consider removing it. Also, if you find a unblocked subdomain of a blocked root domain, please let me know so I can add it to a list.
 
