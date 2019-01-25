@@ -1,0 +1,72 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Hostfile blocklist for ads and tracking</title>
+    <meta name="description" content="Hostfile blocklist for ads and tracking">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <main>
+        <h1>Hosts: <small><a href="https://github.com/lightswitch05/hosts" >Source on Github</a></small></h1>
+        <p>
+            <a href="https://travis-ci.org/lightswitch05/hosts" rel="nofollow">
+                <img alt="Build Status" src="https://travis-ci.org/lightswitch05/hosts.svg?branch=master" style="max-width:100%;">
+            </a>
+            <a href="https://github.com/lightswitch05/hosts/blob/master/LICENSE">
+                <img alt="license" src="https://img.shields.io/github/license/lightswitch05/hosts.svg" style="max-width:100%;">
+            </a>
+            <a href="https://github.com/lightswitch05/hosts/commits/master">
+                <img alt="last commit" src="https://img.shields.io/github/last-commit/lightswitch05/hosts.svg" style="max-width:100%;">
+            </a>
+            <a href="https://github.com/lightswitch05/hosts/commits/master">
+                <img alt="commit activity" src="https://img.shields.io/github/commit-activity/y/lightswitch05/hosts.svg" style="max-width:100%;">
+            </a>
+            <a href="https://supporters.eff.org/donate" rel="nofollow">
+                <img alt="donate" src="https://img.shields.io/badge/Donate-EFF-orange.svg" style="max-width:100%;">
+            </a>
+        </p>
+        <p>
+            A collection of hosts files for domain blocking. If you find something in a list that you believe is a mistake or breaks functionality,
+            please <a href="https://github.com/lightswitch05/hosts/issues">open a ticket</a> and I'll consider removing it.
+            Also, if you find a unblocked subdomain of a blocked root domain, please let me know so I can add it to a list.
+        </p>
+        <table>
+            <thead>
+            <tr>
+                <th>Host file recipe</th>
+                <th>Description</th>
+                <th align="center">Raw hosts</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Ads &amp; Tracking</td>
+                <td>A programmatically expanded list of hosts I've found to not be on other lists. This list is very reliable and I recommend using it.</td>
+                <td align="center"><a href="lists/ads-and-tracking-extended.txt">link</a></td>
+            </tr>
+            <tr>
+                <td>Tracking Aggressive</td>
+                <td>
+                    A very aggressive block list for tracking, geo-targeting, &amp; ads. This list will likely break functionality,
+                    so do not use it unless you are willing to maintain your own whitelist. If you find something in this list that you think is a mistake,
+                    please <a href="https://github.com/lightswitch05/hosts/issues">open a ticket</a>a and we can discuss it. Keep in mind that this is an aggressive list.
+                </td>
+                <td align="center"><a href="lists/tracking-aggressive-extended.txt">link</a></td>
+            </tr>
+            <tr>
+                <td>AMP Hosts</td>
+                <td>
+                    <a href="https://www.theregister.co.uk/2017/05/19/open_source_insider_google_amp_bad_bad_bad/">Google's Accelerated Mobile Pages (AMP)</a>
+                    are taking over the web. Block AMP pages with this list. Since I use <a href="https://duckduckgo.com/">DuckDuckGo</a>,
+                    this list is pretty sparse and suggestions are welcome!
+                </td>
+                <td align="center"><a href="lists/amp-hosts-extended.txt">link</a></td>
+            </tr>
+            </tbody>
+        </table>
+    </main>
+</body>
+</html>
