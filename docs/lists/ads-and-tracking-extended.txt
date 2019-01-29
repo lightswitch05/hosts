@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-28T14:50:52+00:00
-# Count: 32702 domains
+# Released: 2019-01-29T13:50:15+00:00
+# Count: 32707 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
@@ -12575,6 +12575,7 @@
 0.0.0.0 vpaid.mathtag.com
 0.0.0.0 vpx.mathtag.com
 0.0.0.0 www.mathtag.com
+0.0.0.0 geoip-js.maxmind.com
 0.0.0.0 maxpoint.com
 0.0.0.0 autodiscover.maxpoint.com
 0.0.0.0 dialin.maxpoint.com
@@ -25125,6 +25126,7 @@
 0.0.0.0 mazdamotorofamericainc.demdex.net
 0.0.0.0 mcafeeinc.demdex.net
 0.0.0.0 mcclatchy.demdex.net
+0.0.0.0 fast.mcclatchy.demdex.net
 0.0.0.0 mcd.demdex.net
 0.0.0.0 mckinseyknowledge.demdex.net
 0.0.0.0 mediaset.demdex.net
@@ -26155,6 +26157,7 @@
 0.0.0.0 5584487.fls.doubleclick.net
 0.0.0.0 5597621.fls.doubleclick.net
 0.0.0.0 5603454.fls.doubleclick.net
+0.0.0.0 5605209.fls.doubleclick.net
 0.0.0.0 5608418.fls.doubleclick.net
 0.0.0.0 5626211.fls.doubleclick.net
 0.0.0.0 5627815.fls.doubleclick.net
@@ -27269,6 +27272,7 @@
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 static.dable.io.edgekey.net
+0.0.0.0 mi.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 sp.escapicon.net
 0.0.0.0 www.sp.escapicon.net
@@ -27684,6 +27688,7 @@
 0.0.0.0 vice-euwest.gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hsadpixel.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
 0.0.0.0 analytics.ihgip.net
