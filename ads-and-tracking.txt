@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-01-28T14:50:52+00:00
-# Count: 2231 domains
+# Released: 2019-01-29T13:50:14+00:00
+# Count: 2237 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
@@ -842,6 +842,7 @@
 0.0.0.0 marketolive.com
 0.0.0.0 mathtag.com
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 geoip-js.maxmind.com
 0.0.0.0 maxpoint.com
 0.0.0.0 ir.maxpoint.com
 0.0.0.0 mmfiles.amp.mcafee.com
@@ -1889,6 +1890,7 @@
 0.0.0.0 gslb.demdex.net
 0.0.0.0 havas.demdex.net
 0.0.0.0 intelcorp.demdex.net
+0.0.0.0 mcclatchy.demdex.net
 0.0.0.0 millercoors.demdex.net
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 samsungelectronicsamericainc.demdex.net
@@ -1919,6 +1921,7 @@
 0.0.0.0 4735610.fls.doubleclick.net
 0.0.0.0 5322221.fls.doubleclick.net
 0.0.0.0 5362399.fls.doubleclick.net
+0.0.0.0 5605209.fls.doubleclick.net
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 685973.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
@@ -1943,6 +1946,7 @@
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 static.dable.io.edgekey.net
+0.0.0.0 mi.edgekey.net
 0.0.0.0 escapicon.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
@@ -1982,6 +1986,7 @@
 0.0.0.0 gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hsadpixel.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
 0.0.0.0 analytics.ihgip.net
@@ -2056,6 +2061,7 @@
 0.0.0.0 vanguard.d2.sc.omtrdc.net
 0.0.0.0 hulu.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
+0.0.0.0 mcclatchy.sc.omtrdc.net
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
