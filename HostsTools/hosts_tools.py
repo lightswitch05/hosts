@@ -21,7 +21,7 @@ FILE_HEADER = """
 # Count: [domain_count] domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
-# Source: https://raw.githubusercontent.com/lightswitch05/hosts/master/[file_name]
+# Source: https://www.github.developerdan.com/hosts/lists/[file_name]
 #
 # Copyright [yyyy] Daniel White
 #
