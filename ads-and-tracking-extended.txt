@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-01-31T17:26:15+00:00
-# Count: 32731 domains
+# Released: 2019-02-01T14:13:55+00:00
+# Count: 32735 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10337,6 +10337,10 @@
 0.0.0.0 woxikon.h-bid.com
 0.0.0.0 influx.woxikon.h-bid.com
 0.0.0.0 www.h-bid.com
+0.0.0.0 perr.h-cdn.com
+0.0.0.0 player.h-cdn.com
+0.0.0.0 in.player.h-cdn.com
+0.0.0.0 player2.h-cdn.com
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
