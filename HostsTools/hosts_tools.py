@@ -142,17 +142,15 @@ def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = ***REMOVED****
             if domain in filtered and pattern.match(domain):
                 filtered.remove(domain)
                 print("whitelisted: %s" % domain)
-        try:
-            if len(domain) > 2 and len(domain) % 2 == 0:
-                half = len(domain) // 2
-                first = domain[:half]
-                second = domain[half:]
-                if first == second:
-                    filtered.remove(domain)
-                    print("whitelisted: %s" % domain)
-        except Exception as e:
-            print(domain)
-            raise e
+        if len(domain) > 2 and len(domain) % 2 == 0:
+            half = len(domain) // 2
+            first = domain[:half]
+            second = domain[half:]
+            if first == second:
+                filtered.remove(domain)
+                print("whitelisted: %s" % domain)
+            else:
+                print(first + " " + second)
 
     return filtered
 
