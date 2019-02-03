@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-01T14:13:55+00:00
-# Count: 2246 domains
+# Released: 2019-02-03T16:26:32+00:00
+# Count: 2252 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1060,6 +1060,7 @@
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
 0.0.0.0 optimizely.com
+0.0.0.0 a6529002483.cdn.optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 341800575.log.optimizely.com
@@ -1172,6 +1173,8 @@
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 metrics.reebok.com
 0.0.0.0 metrics.rent.com
+0.0.0.0 res-x.com
+0.0.0.0 ris.res-x.com
 0.0.0.0 returnpath.com
 0.0.0.0 revcontent.com
 0.0.0.0 segment.revelist.com
@@ -1664,6 +1667,8 @@
 0.0.0.0 hit-log.viva.co.id
 0.0.0.0 props.id
 0.0.0.0 st-a.props.id
+0.0.0.0 spot.im
+0.0.0.0 open-api.spot.im
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -1898,6 +1903,7 @@
 0.0.0.0 gslb.demdex.net
 0.0.0.0 havas.demdex.net
 0.0.0.0 intelcorp.demdex.net
+0.0.0.0 lowescompaniesinc.demdex.net
 0.0.0.0 mcclatchy.demdex.net
 0.0.0.0 millercoors.demdex.net
 0.0.0.0 pepsico.demdex.net
