@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-03T11:47:04+00:00
-# Count: 33117 domains
+# Released: 2019-02-03T16:26:32+00:00
+# Count: 33195 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17170,6 +17170,15 @@
 0.0.0.0 metrics.reebok.com
 0.0.0.0 metrics.rent.com
 0.0.0.0 www.metrics.rent.com
+0.0.0.0 res-x.com
+0.0.0.0 client.res-x.com
+0.0.0.0 ns1.res-x.com
+0.0.0.0 ns2.res-x.com
+0.0.0.0 ns3.res-x.com
+0.0.0.0 ns4.res-x.com
+0.0.0.0 ris.res-x.com
+0.0.0.0 vs.res-x.com
+0.0.0.0 www.res-x.com
 0.0.0.0 returnpath.com
 0.0.0.0 api.returnpath.com
 0.0.0.0 autodiscover.returnpath.com
@@ -22199,6 +22208,75 @@
 0.0.0.0 st-a.props.id
 0.0.0.0 st-insight.props.id
 0.0.0.0 www.props.id
+0.0.0.0 spot.im
+0.0.0.0 ad-choices.spot.im
+0.0.0.0 admin.spot.im
+0.0.0.0 ak-app-cdn.spot.im
+0.0.0.0 ak-dynamic-cdn.spot.im
+0.0.0.0 ak-launcher.spot.im
+0.0.0.0 ak-publisher-assets.spot.im
+0.0.0.0 all.spot.im
+0.0.0.0 amp.spot.im
+0.0.0.0 analytics.spot.im
+0.0.0.0 analytics-read.spot.im
+0.0.0.0 api.spot.im
+0.0.0.0 api-launcher.spot.im
+0.0.0.0 app-cdn.spot.im
+0.0.0.0 cloudfront-app-cdn.spot.im
+0.0.0.0 community.spot.im
+0.0.0.0 conversation-read.spot.im
+0.0.0.0 dynamic-cdn.spot.im
+0.0.0.0 email-connect.spot.im
+0.0.0.0 embed.spot.im
+0.0.0.0 events-collector.spot.im
+0.0.0.0 extract.spot.im
+0.0.0.0 hw-images.spot.im
+0.0.0.0 images.spot.im
+0.0.0.0 import.spot.im
+0.0.0.0 init.spot.im
+0.0.0.0 launcher.spot.im
+0.0.0.0 mc-siderail.spot.im
+0.0.0.0 me.spot.im
+0.0.0.0 moderation.spot.im
+0.0.0.0 mp3-community.spot.im
+0.0.0.0 newsfeed-sync.spot.im
+0.0.0.0 notifications.spot.im
+0.0.0.0 open-api.spot.im
+0.0.0.0 pix.spot.im
+0.0.0.0 pixel.spot.im
+0.0.0.0 premaster-spotops.spot.im
+0.0.0.0 premaster-spoxy.spot.im
+0.0.0.0 public-user.spot.im
+0.0.0.0 publisher-assets.spot.im
+0.0.0.0 rank.spot.im
+0.0.0.0 recirculation.spot.im
+0.0.0.0 recommendation.spot.im
+0.0.0.0 s.spot.im
+0.0.0.0 sccden.spot.im
+0.0.0.0 sentry.spot.im
+0.0.0.0 seo.spot.im
+0.0.0.0 social-connect.spot.im
+0.0.0.0 spotops.spot.im
+0.0.0.0 spoxy-eb.spot.im
+0.0.0.0 spoxy-launcher.spot.im
+0.0.0.0 spoxy-shard1.spot.im
+0.0.0.0 spoxy-shard2.spot.im
+0.0.0.0 spoxy-shard3.spot.im
+0.0.0.0 spoxy-shard4.spot.im
+0.0.0.0 spoxy-shard5.spot.im
+0.0.0.0 spoxy-shard6.spot.im
+0.0.0.0 spoxy-shard8.spot.im
+0.0.0.0 sso.spot.im
+0.0.0.0 staging-api.spot.im
+0.0.0.0 stagingv2.spot.im
+0.0.0.0 topics.spot.im
+0.0.0.0 tracker.spot.im
+0.0.0.0 traffic.spot.im
+0.0.0.0 v1.spot.im
+0.0.0.0 v2.spot.im
+0.0.0.0 ws.spot.im
+0.0.0.0 ws-api.spot.im
+0.0.0.0 www.spot.im
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
 0.0.0.0 applifier.info
