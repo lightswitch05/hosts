@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-01-30T15:43:11+00:00
-# Count: 2676 domains
+# Released: 2019-02-03T12:11:19+00:00
+# Count: 2687 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -52,8 +52,10 @@
 0.0.0.0 location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 www.location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 ugc.bazaarvoice.com
+0.0.0.0 acmetools.ugc.bazaarvoice.com
 0.0.0.0 adidas.ugc.bazaarvoice.com
 0.0.0.0 adidasjp.ugc.bazaarvoice.com
+0.0.0.0 adobe.ugc.bazaarvoice.com
 0.0.0.0 ae.ugc.bazaarvoice.com
 0.0.0.0 aicpa.ugc.bazaarvoice.com
 0.0.0.0 allenedmonds.ugc.bazaarvoice.com
@@ -240,6 +242,7 @@
 0.0.0.0 sorelintl.ugc.bazaarvoice.com
 0.0.0.0 stenaline.ugc.bazaarvoice.com
 0.0.0.0 stihl.ugc.bazaarvoice.com
+0.0.0.0 sunglasshut.ugc.bazaarvoice.com
 0.0.0.0 surfdome.ugc.bazaarvoice.com
 0.0.0.0 suunto.ugc.bazaarvoice.com
 0.0.0.0 t-mobile.ugc.bazaarvoice.com
@@ -476,6 +479,7 @@
 0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
 0.0.0.0 mcq3v6k8917x8lg5w6s-94jck1r4.login.exacttarget.com
+0.0.0.0 mcx915krlq4sx-35t6rmswbqw924.login.exacttarget.com
 0.0.0.0 s50.login.exacttarget.com
 0.0.0.0 login-qa1.exacttarget.com
 0.0.0.0 mc.login-qa1.exacttarget.com
@@ -509,6 +513,7 @@
 0.0.0.0 cl125.mta.exacttarget.com
 0.0.0.0 cr10.mta.exacttarget.com
 0.0.0.0 cr101.mta.exacttarget.com
+0.0.0.0 cr102.mta.exacttarget.com
 0.0.0.0 cr107.mta.exacttarget.com
 0.0.0.0 cr121.mta.exacttarget.com
 0.0.0.0 cr144.mta.exacttarget.com
@@ -803,6 +808,7 @@
 0.0.0.0 origin-auth.s7.exacttarget.com
 0.0.0.0 pages.s7.exacttarget.com
 0.0.0.0 pub.s7.exacttarget.com
+0.0.0.0 reply-mx.s7.exacttarget.com
 0.0.0.0 scpweb.s7.exacttarget.com
 0.0.0.0 view.s7.exacttarget.com
 0.0.0.0 click.virt.s7.exacttarget.com
@@ -1008,6 +1014,7 @@
 0.0.0.0 downloads.flipboard.com
 0.0.0.0 editor.flipboard.com
 0.0.0.0 email.flipboard.com
+0.0.0.0 o2.email.flipboard.com
 0.0.0.0 o3.email.flipboard.com
 0.0.0.0 o7.email.flipboard.com
 0.0.0.0 engineering.flipboard.com
@@ -1361,6 +1368,7 @@
 0.0.0.0 developer.hellomedian.com
 0.0.0.0 js.hellomedian.com
 0.0.0.0 landing.hellomedian.com
+0.0.0.0 meeting.hellomedian.com
 0.0.0.0 socket.hellomedian.com
 0.0.0.0 socket-az.hellomedian.com
 0.0.0.0 socket-rtc.hellomedian.com
@@ -1739,6 +1747,7 @@
 0.0.0.0 geo.office365.com
 0.0.0.0 lb.geo.office365.com
 0.0.0.0 olark.com
+0.0.0.0 108-events.olark.com
 0.0.0.0 125-events.olark.com
 0.0.0.0 150-events.olark.com
 0.0.0.0 157-events.olark.com
@@ -1782,6 +1791,7 @@
 0.0.0.0 ip-jabber.olark.com
 0.0.0.0 ip-rpc1.olark.com
 0.0.0.0 ip-www.olark.com
+0.0.0.0 knrpc.olark.com
 0.0.0.0 log.olark.com
 0.0.0.0 mi.olark.com
 0.0.0.0 michigan.olark.com
@@ -2536,6 +2546,7 @@
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb11.tawk.to
 0.0.0.0 asb12.tawk.to
+0.0.0.0 asb13.tawk.to
 0.0.0.0 asb16.tawk.to
 0.0.0.0 asb17.tawk.to
 0.0.0.0 asb18.tawk.to
