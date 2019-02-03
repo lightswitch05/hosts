@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-03T16:26:32+00:00
-# Count: 33195 domains
+# Released: 2019-02-03T19:27:18+00:00
+# Count: 33158 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -1020,7 +1020,6 @@
 0.0.0.0 rtb.dashbida.com.admedia.com
 0.0.0.0 ssphwy.com.admedia.com
 0.0.0.0 lb1.ssphwy.com.admedia.com
-0.0.0.0 pixel.admedia.compixel.admedia.com
 0.0.0.0 dl.admedia.com
 0.0.0.0 dnav.admedia.com
 0.0.0.0 email2.admedia.com
@@ -1111,7 +1110,6 @@
 0.0.0.0 cloudflare.cdneval.adnxs.com
 0.0.0.0 fastly.cdneval.adnxs.com
 0.0.0.0 highwinds.cdneval.adnxs.com
-0.0.0.0 m.adnxs.comm.adnxs.com
 0.0.0.0 cr.adnxs.com
 0.0.0.0 crcdn.adnxs.com
 0.0.0.0 dcdn.adnxs.com
@@ -1248,7 +1246,6 @@
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 cdn.oas-c18.adnxs.com
-0.0.0.0 cdn.oas-c18.adnxs.comcdn.oas-c18.adnxs.com
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.oas-training7.adnxs.com
 0.0.0.0 openadid.adnxs.com
@@ -1688,7 +1685,6 @@
 0.0.0.0 adgainer.adready.com
 0.0.0.0 adsupnow.adready.com
 0.0.0.0 asu.adready.com
-0.0.0.0 a.adready.coma.adready.com
 0.0.0.0 cosmopolitan.adready.com
 0.0.0.0 cpxiasia.adready.com
 0.0.0.0 csuorganizational.adready.com
@@ -2602,7 +2598,6 @@
 0.0.0.0 www.cme.adx1.com
 0.0.0.0 comcdn.adx1.com
 0.0.0.0 adx1.comcdn.adx1.com
-0.0.0.0 cdn.adx1.comcdn.adx1.com
 0.0.0.0 consultant.adx1.com
 0.0.0.0 ctj.adx1.com
 0.0.0.0 cust95.adx1.com
@@ -3450,7 +3445,6 @@
 0.0.0.0 www.api.amplitude.com
 0.0.0.0 casestudies.amplitude.com
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 api.amplitude.comapi.amplitude.com
 0.0.0.0 crash.amplitude.com
 0.0.0.0 demo.amplitude.com
 0.0.0.0 dev.amplitude.com
@@ -4041,7 +4035,6 @@
 0.0.0.0 arrivalist.com
 0.0.0.0 b.arrivalist.com
 0.0.0.0 cdn.arrivalist.com
-0.0.0.0 dc.arrivalist.comdc.arrivalist.com
 0.0.0.0 dc.arrivalist.com
 0.0.0.0 dev-dc.arrivalist.com
 0.0.0.0 legacy-reports.arrivalist.com
@@ -4755,8 +4748,6 @@
 0.0.0.0 cdhmanager-prod.bronto.com
 0.0.0.0 cdn.bronto.com
 0.0.0.0 www.cdn.bronto.com
-0.0.0.0 cdn.bronto.comcdn.bronto.com
-0.0.0.0 maw.bronto.commaw.bronto.com
 0.0.0.0 community.bronto.com
 0.0.0.0 content2.bronto.com
 0.0.0.0 content3.bronto.com
@@ -11193,12 +11184,8 @@
 0.0.0.0 www.cdn.jivox.com
 0.0.0.0 cdn-as.jivox.com
 0.0.0.0 cdn-in.jivox.com
-0.0.0.0 as.jivox.comas.jivox.com
 0.0.0.0 apple-finance.query.yahoo.comas.jivox.com
-0.0.0.0 evs.jivox.comevs.jivox.com
-0.0.0.0 playercdn.jivox.complayercdn.jivox.com
 0.0.0.0 platform.twitter.complayercdn.jivox.com
-0.0.0.0 pxl.jivox.compxl.jivox.com
 0.0.0.0 creativescdn.jivox.com
 0.0.0.0 dev.jivox.com
 0.0.0.0 api.dev.jivox.com
@@ -11380,7 +11367,6 @@
 0.0.0.0 xxl.cloud.kargo.com
 0.0.0.0 cma.kargo.com
 0.0.0.0 cma-mgmt.kargo.com
-0.0.0.0 prg.kargo.comprg.kargo.com
 0.0.0.0 content.kargo.com
 0.0.0.0 cp.kargo.com
 0.0.0.0 crb.kargo.com
@@ -11944,7 +11930,6 @@
 0.0.0.0 bidder.kochava.com
 0.0.0.0 collective.kochava.com
 0.0.0.0 frontend-na.collective.kochava.com
-0.0.0.0 control.kochava.comcontrol.kochava.com
 0.0.0.0 exch.quantserve.comcontrol.kochava.com
 0.0.0.0 control.kochava.com
 0.0.0.0 clk.control.kochava.com
@@ -12030,7 +12015,6 @@
 0.0.0.0 ns12.cms.lfstmedia.com
 0.0.0.0 www.cms.lfstmedia.com
 0.0.0.0 v4.avs.activscreen.comads.lfstmedia.com
-0.0.0.0 ads.lfstmedia.comads.lfstmedia.com
 0.0.0.0 de.lfstmedia.com
 0.0.0.0 deadxrtb.lfstmedia.com
 0.0.0.0 www.google.frads.lfstmedia.com
@@ -12373,8 +12357,6 @@
 0.0.0.0 412zyxpfmadi0918.marinsm.com
 0.0.0.0 ad.marinsm.com
 0.0.0.0 ads.marinsm.com
-0.0.0.0 cs.marinsm.comcs.marinsm.com
-0.0.0.0 tracker.marinsm.comtracker.marinsm.com
 0.0.0.0 cs.marinsm.com
 0.0.0.0 htttracker.marinsm.com
 0.0.0.0 pro.marinsm.com
@@ -14583,8 +14565,6 @@
 0.0.0.0 broker.omnitagjs.com
 0.0.0.0 broker-fra01.omnitagjs.com
 0.0.0.0 broker-usa02.omnitagjs.com
-0.0.0.0 fo-ssp.omnitagjs.comfo-ssp.omnitagjs.com
-0.0.0.0 visitor.omnitagjs.comvisitor.omnitagjs.com
 0.0.0.0 dyn.omnitagjs.com
 0.0.0.0 adyoulike.dyn.omnitagjs.com
 0.0.0.0 adyoulike-api.dyn.omnitagjs.com
@@ -15792,13 +15772,9 @@
 0.0.0.0 beaver.placelocal.com
 0.0.0.0 campaign-tracking-service.placelocal.com
 0.0.0.0 41tracking.campaign-tracking-service.placelocal.com
-0.0.0.0 tracking.campaign-tracking-service.placelocal.comtracking.campaign-tracking-service.placelocal.com
 0.0.0.0 tracking.campaign-tracking-service.placelocal.com
 0.0.0.0 chapelboro.placelocal.com
 0.0.0.0 collector.placelocal.com
-0.0.0.0 ak-cdn.placelocal.comak-cdn.placelocal.com
-0.0.0.0 creative.placelocal.comcreative.placelocal.com
-0.0.0.0 filter.placelocal.comfilter.placelocal.com
 0.0.0.0 creative.placelocal.com
 0.0.0.0 dailypress.placelocal.com
 0.0.0.0 deseret.placelocal.com
@@ -16139,7 +16115,6 @@
 0.0.0.0 aws.au1.qualtrics.com
 0.0.0.0 bmsau.au1.qualtrics.com
 0.0.0.0 bmwjapan.au1.qualtrics.com
-0.0.0.0 nortonrosefulbright.au1.qualtrics.comnortonrosefulbright.au1.qualtrics.com
 0.0.0.0 employment.au1.qualtrics.com
 0.0.0.0 flindersuw.au1.qualtrics.com
 0.0.0.0 fujixerox.au1.qualtrics.com
@@ -17379,7 +17354,6 @@
 0.0.0.0 cemail.rollbar.com
 0.0.0.0 changelog.rollbar.com
 0.0.0.0 watson.telemetry.microsoft.comapi.rollbar.com
-0.0.0.0 api.rollbar.comapi.rollbar.com
 0.0.0.0 email.mail.rollbar.com
 0.0.0.0 ping.rollbar.com
 0.0.0.0 status.rollbar.com
@@ -17720,7 +17694,6 @@
 0.0.0.0 clickcdn.shareaholic.com
 0.0.0.0 cm.shareaholic.com
 0.0.0.0 cm-web.shareaholic.com
-0.0.0.0 partner.shareaholic.compartner.shareaholic.com
 0.0.0.0 content.shareaholic.com
 0.0.0.0 d.shareaholic.com
 0.0.0.0 feedback.shareaholic.com
@@ -20996,7 +20969,6 @@
 0.0.0.0 app.videostat.com
 0.0.0.0 app2.videostat.com
 0.0.0.0 dl-debug.dropbox.comdsp.videostat.com
-0.0.0.0 dsp.videostat.comdsp.videostat.com
 0.0.0.0 data-api.videostat.com
 0.0.0.0 dsp.videostat.com
 0.0.0.0 dsp-1.videostat.com
@@ -21122,13 +21094,8 @@
 0.0.0.0 cbs.vindicosuite.com
 0.0.0.0 cdn.vindicosuite.com
 0.0.0.0 cdn-sm.vindicosuite.com
-0.0.0.0 mpp.vindicosuite.commpp.vindicosuite.com
-0.0.0.0 mpp2.vindicosuite.commpp2.vindicosuite.com
 0.0.0.0 p24-buy.itunes.apple.complay.itunes.apple.comrtb.vindicosuite.com
 0.0.0.0 sc.iasds01.comsdk.vindicosuite.com
-0.0.0.0 sdk.vindicosuite.comsdk.vindicosuite.com
-0.0.0.0 uid.vindicosuite.comuid.vindicosuite.com
-0.0.0.0 x.vindicosuite.comx.vindicosuite.com
 0.0.0.0 fx.vindicosuite.com
 0.0.0.0 fxumo.vindicosuite.com
 0.0.0.0 login.vindicosuite.com
@@ -23004,7 +22971,6 @@
 0.0.0.0 o1.email.keen.io
 0.0.0.0 feedback.keen.io
 0.0.0.0 apollo.internal.glbs.keen.io
-0.0.0.0 api.keen.ioapi.keen.io
 0.0.0.0 learn.keen.io
 0.0.0.0 minecraft.keen.io
 0.0.0.0 pushpop.keen.io
@@ -24491,7 +24457,6 @@
 0.0.0.0 audienceinsights.net
 0.0.0.0 ecure.audienceinsights.net
 0.0.0.0 er.audienceinsights.net
-0.0.0.0 secure.audienceinsights.netsecure.audienceinsights.net
 0.0.0.0 ns1.audienceinsights.net
 0.0.0.0 ns2.audienceinsights.net
 0.0.0.0 pixel.audienceinsights.net
@@ -28017,7 +27982,6 @@
 0.0.0.0 generationtux.glancecdn.net
 0.0.0.0 honeywell.glancecdn.net
 0.0.0.0 n2y.glancecdn.net
-0.0.0.0 www.glancecdn.netwww.glancecdn.net
 0.0.0.0 verizon.glancecdn.net
 0.0.0.0 walgreens.glancecdn.net
 0.0.0.0 whipplehill.glancecdn.net
@@ -33156,7 +33120,6 @@
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 theenthusiastnetwork.grapeshot.co.uk
 0.0.0.0 trinitymirror.grapeshot.co.uk
-0.0.0.0 flxone.grapeshot.co.ukflxone.grapeshot.co.uk
 0.0.0.0 vice.grapeshot.co.uk
 0.0.0.0 virgin.grapeshot.co.uk
 0.0.0.0 vmp.grapeshot.co.uk
