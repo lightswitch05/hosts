@@ -23,6 +23,8 @@ def parse_args() -> sys.argv:
                         help='Run a full scan of the entire list - slow!')
     parser.add_argument('--virustotal', '-v', default=False, action='store_true',
                         help='Run a full scan of the entire list using VirusTotal API - slow!')
+    parser.add_argument('--dryrun', '-t', default=False, action='store_true',
+                        help='Dry run - do not write any list modifications')
     args = parser.parse_args()
     if not args.domains and not args.update and not args.virustotal:
         parser.print_help()
@@ -68,8 +70,9 @@ def main():
     print('Extended List: %s, expanded by %s' % (expanded_domains_len_end, expanded_domains_len_diff))
     print('List Difference: %s' % (expanded_domains_len_end - main_domains_len_end))
 
-    hosts_tools.write_domain_list(args.list + '.txt', main_domains)
-    hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
+    if not args.dryrun:
+        hosts_tools.write_domain_list(args.list + '.txt', main_domains)
+        hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
 
 
 def crt_update(main_domains: Set[str]):

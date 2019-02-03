@@ -114,6 +114,7 @@ class TestHostTools(object):
     def test_write_domain_list(self):
         hosts_tools.write_domain_list(self.TEST_FILE_NAME, self.TEST_DOMAINS)
         assert os.path.isfile(self.TEST_FILE_NAME)
+        assert os.path.isfile('docs/lists/' + self.TEST_FILE_NAME)
 
     def test_read_domains_list(self):
         domains = hosts_tools.load_domains_from_list(self.TEST_FILE_NAME)
@@ -129,8 +130,21 @@ class TestHostTools(object):
         assert reduced
         assert not {'a.com', 'b.com'}.difference(reduced)
 
+    def test_duplicated_domain_is_whitelisted(self):
+        domains = {
+            'example.com',
+            'ad.example.comad.example.com',
+            'ad.example.com'
+        }
+        filtered = hosts_tools.filter_whitelist(domains, set())
+        assert filtered == {'example.com', 'ad.example.com'}
+
     def teardown_class(self):
         if os.path.isfile(self.TEST_FILE_NAME):
             os.remove(self.TEST_FILE_NAME)
         if os.path.isfile(self.TEST_WHITELIST_FILE_NAME):
             os.remove(self.TEST_WHITELIST_FILE_NAME)
+        if os.path.isfile('docs/lists/' + self.TEST_FILE_NAME):
+            os.remove('docs/lists/' + self.TEST_FILE_NAME)
+        if os.path.isfile('docs/lists/' + self.TEST_WHITELIST_FILE_NAME):
+            os.remove('docs/lists/' + self.TEST_WHITELIST_FILE_NAME)
