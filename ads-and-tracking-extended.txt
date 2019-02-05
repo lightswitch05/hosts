@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-05T17:35:54+00:00
-# Count: 33314 domains
+# Released: 2019-02-05T18:06:10+00:00
+# Count: 33318 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -4026,6 +4026,8 @@
 0.0.0.0 sl-native-android-hm-logging.appspot.com
 0.0.0.0 spine-insights.appspot.com
 0.0.0.0 www.spine-insights.appspot.com
+0.0.0.0 tc-bic.appspot.com
+0.0.0.0 www.tc-bic.appspot.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 apptrckr.com
@@ -14032,6 +14034,7 @@
 0.0.0.0 dn.mxpnl.com
 0.0.0.0 images.mxpnl.com
 0.0.0.0 dev.images.mxpnl.com
+0.0.0.0 log.us.mybogames.com
 0.0.0.0 mynativeplatform.com
 0.0.0.0 ck.mynativeplatform.com
 0.0.0.0 cks.mynativeplatform.com
@@ -32412,6 +32415,7 @@
 0.0.0.0 collector.staging.pxi.pub
 0.0.0.0 www.pxi.pub
 0.0.0.0 zlp6s.pw
+0.0.0.0 t1.re
 0.0.0.0 creativeads.ro
 0.0.0.0 adserver.creativeads.ro
 0.0.0.0 www.creativeads.ro
