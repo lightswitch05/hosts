@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-05T17:14:59+00:00
-# Count: 33207 domains
+# Released: 2019-02-05T17:35:54+00:00
+# Count: 33314 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10637,6 +10637,13 @@
 0.0.0.0 go.imprev.com
 0.0.0.0 tracking.imprev.com
 0.0.0.0 www.imprev.com
+0.0.0.0 imrworldwide.com
+0.0.0.0 secure-ap-southeast-1.imrworldwide.com
+0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 secure-gl.imrworldwide.com
+0.0.0.0 secure-origin.imrworldwide.com
+0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 secure-wbw.imrworldwide.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 accounts.inlocomedia.com
@@ -18251,6 +18258,56 @@
 0.0.0.0 www.sizmek.com
 0.0.0.0 zendesk.sizmek.com
 0.0.0.0 www.zendesk.sizmek.com
+0.0.0.0 skimresources.com
+0.0.0.0 1.skimresources.com
+0.0.0.0 2fr.skimresources.com
+0.0.0.0 assist.skimresources.com
+0.0.0.0 assistjs.skimresources.com
+0.0.0.0 b.skimresources.com
+0.0.0.0 c.skimresources.com
+0.0.0.0 cdn.skimresources.com
+0.0.0.0 pixel.tapad.comp.skimresources.com
+0.0.0.0 portal.c7dc.comr.skimresources.com
+0.0.0.0 pool4.moatads.comr.skimresources.com
+0.0.0.0 skimresources.comskimguid5cfe46e98c38599806b1ebfe38a2c042.skimresources.com
+0.0.0.0 skimresources.comskimsess0a055c00afff20fbb8ba707c17650acb.skimresources.com
+0.0.0.0 d.skimresources.com
+0.0.0.0 e.skimresources.com
+0.0.0.0 tc.eu-west.skimresources.com
+0.0.0.0 fx.skimresources.com
+0.0.0.0 g.skimresources.com
+0.0.0.0 glb.skimresources.com
+0.0.0.0 go.skimresources.com
+0.0.0.0 i.skimresources.com
+0.0.0.0 www.i.skimresources.com
+0.0.0.0 images.skimresources.com
+0.0.0.0 ipc.skimresources.com
+0.0.0.0 assist.js.skimresources.com
+0.0.0.0 k.skimresources.com
+0.0.0.0 ks.skimresources.com
+0.0.0.0 lb.skimresources.com
+0.0.0.0 m.skimresources.com
+0.0.0.0 p34-keyvalueservice-current.edge.icloud.apple-dns.nett.skimresources.com
+0.0.0.0 ssl.google-analytics.comstatic.xx.fbcdn.nett.skimresources.com
+0.0.0.0 o.skimresources.com
+0.0.0.0 op.skimresources.com
+0.0.0.0 yoc.optout.skimresources.com
+0.0.0.0 p.skimresources.com
+0.0.0.0 www.p.skimresources.com
+0.0.0.0 p-kube.skimresources.com
+0.0.0.0 tc.pixel-us-east.skimresources.com
+0.0.0.0 r.skimresources.com
+0.0.0.0 glb.r.skimresources.com
+0.0.0.0 www.r.skimresources.com
+0.0.0.0 r2.skimresources.com
+0.0.0.0 s.skimresources.com
+0.0.0.0 t.skimresources.com
+0.0.0.0 www.t.skimresources.com
+0.0.0.0 tc.us-east.skimresources.com
+0.0.0.0 tc.us-west.skimresources.com
+0.0.0.0 wordpress.skimresources.com
+0.0.0.0 www.skimresources.com
+0.0.0.0 x.skimresources.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 bo.promotions.skype.com
@@ -23036,6 +23093,55 @@
 0.0.0.0 www1.marchex.io
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 jelly.mdhv.io
+0.0.0.0 ntv.io
+0.0.0.0 a.ntv.io
+0.0.0.0 cdn.ntv.io
+0.0.0.0 demo.ntv.io
+0.0.0.0 east-edge.ntv.io
+0.0.0.0 i.ntv.io
+0.0.0.0 moneywise-edge.ntv.io
+0.0.0.0 pub.ntv.io
+0.0.0.0 s.ntv.io
+0.0.0.0 share.ntv.io
+0.0.0.0 ajc.share.ntv.io
+0.0.0.0 al.share.ntv.io
+0.0.0.0 bossip.share.ntv.io
+0.0.0.0 chicagotribune.share.ntv.io
+0.0.0.0 chron.share.ntv.io
+0.0.0.0 cio.share.ntv.io
+0.0.0.0 cnn.share.ntv.io
+0.0.0.0 computerworld.share.ntv.io
+0.0.0.0 cooktopcove.share.ntv.io
+0.0.0.0 csoonline.share.ntv.io
+0.0.0.0 entrepreneur.share.ntv.io
+0.0.0.0 faithinthenews.share.ntv.io
+0.0.0.0 fortune.share.ntv.io
+0.0.0.0 fox25boston.share.ntv.io
+0.0.0.0 gayety.share.ntv.io
+0.0.0.0 grandhaventribune.share.ntv.io
+0.0.0.0 infoworld.share.ntv.io
+0.0.0.0 instyle.share.ntv.io
+0.0.0.0 kcci.share.ntv.io
+0.0.0.0 littlethings.share.ntv.io
+0.0.0.0 mercurynews.share.ntv.io
+0.0.0.0 miamiherald.share.ntv.io
+0.0.0.0 mlive.share.ntv.io
+0.0.0.0 nativomobileapps.share.ntv.io
+0.0.0.0 newsweek.share.ntv.io
+0.0.0.0 nydailynews.share.ntv.io
+0.0.0.0 pcworld.share.ntv.io
+0.0.0.0 post-gazette.share.ntv.io
+0.0.0.0 sanduskyregister.share.ntv.io
+0.0.0.0 saveur.share.ntv.io
+0.0.0.0 si.share.ntv.io
+0.0.0.0 silive.share.ntv.io
+0.0.0.0 stamfordadvocate.share.ntv.io
+0.0.0.0 theledger.share.ntv.io
+0.0.0.0 travelandleisure.share.ntv.io
+0.0.0.0 usnews.share.ntv.io
+0.0.0.0 wsbradio.share.ntv.io
+0.0.0.0 www.share.ntv.io
+0.0.0.0 valuewalk-com-edge.ntv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 sss.cdn.onthe.io
 0.0.0.0 www.cdn.onthe.io
@@ -24854,6 +24960,7 @@
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
+0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net
 0.0.0.0 connexity.net
 0.0.0.0 cpa.connexity.net
