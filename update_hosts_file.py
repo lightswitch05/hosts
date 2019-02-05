@@ -25,6 +25,8 @@ def parse_args() -> sys.argv:
                         help='Run a full scan of the entire list using VirusTotal API - slow!')
     parser.add_argument('--dryrun', '-t', default=False, action='store_true',
                         help='Dry run - do not write any list modifications')
+    parser.add_argument('--verbose', '-vvv', default=False, action='store_true',
+                        help='Verbose logging')
     args = parser.parse_args()
     if not args.domains and not args.update and not args.virustotal:
         parser.print_help()
@@ -45,18 +47,18 @@ def main():
         api_key = data['virustotal_api_key']
 
     if args.update:
-        found = crt_update(main_domains)
+        found = crt_update(main_domains, args.verbose)
         expanded_domains.update(found)
 
     if args.virustotal:
-        found = virustotal_update(main_domains, api_key)
+        found = virustotal_update(main_domains, api_key, args.verbose)
         expanded_domains.update(found)
 
     main_domains.update(args.domains)
-    found = crt_update(args.domains)
+    found = crt_update(args.domains, args.verbose)
     expanded_domains.update(found)
 
-    found = virustotal_update(args.domains, api_key)
+    found = virustotal_update(args.domains, api_key, args.verbose)
     expanded_domains.update(found)
 
     expanded_domains = hosts_tools.filter_whitelist(expanded_domains, whitelist)
@@ -75,28 +77,28 @@ def main():
         hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
 
 
-def crt_update(main_domains: Set[str]):
+def crt_update(main_domains: Set[str], verbose: bool):
     found = set()
     lookup_domains = hosts_tools.reduce_domains(main_domains)
     for index, domain in enumerate(lookup_domains):
         if QUIT_GRACEFULLY:
             break
         print('Searching: %s' % domain)
-        found_domains = hosts_tools.find_subdomains(domain)
+        found_domains = hosts_tools.find_subdomains(domain, verbose)
         found.update(found_domains)
         print('    Found: %s' % (len(found_domains) - 1))
         print_progress(index, len(lookup_domains))
     return found
 
 
-def virustotal_update(main_domains: Set[str], api_key: str):
+def virustotal_update(main_domains: Set[str], api_key: str, verbose: bool):
     found = set()
     lookup_domains = hosts_tools.reduce_domains(main_domains)
     for index, domain in enumerate(lookup_domains):
         if QUIT_GRACEFULLY:
             break
         print('Searching: %s' % domain)
-        found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key)
+        found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key, verbose)
         found.update(found_domains)
         print('    Found: %s' % (len(found_domains) - 1))
         print_progress(index, len(lookup_domains))

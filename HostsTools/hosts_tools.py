@@ -153,7 +153,7 @@ def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
     return filtered
 
 
-def find_subdomains(domain: str) -> Set[str]:
+def find_subdomains(domain: str, verbose: bool = False) -> Set[str]:
     found_domains = {domain}  # include query as a found domain
     url = 'https://crt.sh/?q=%.{d}&output=json'.format(d=domain)
     try:
@@ -170,6 +170,8 @@ def find_subdomains(domain: str) -> Set[str]:
                 for key, value in enumerate(data):
                     if 'name_value' in value:
                         found_domain = value['name_value'].lower().strip()
+                        if verbose:
+                            print('Found: %s' % found_domain)
                         if found_domain.startswith('*.'):
                             found_domain = found_domain[2:]
                         if is_valid_domain(found_domain):
@@ -181,7 +183,7 @@ def find_subdomains(domain: str) -> Set[str]:
     return found_domains
 
 
-def virustotal_find_subdomain(domain: str, api_key: str) -> Set[str]:
+def virustotal_find_subdomain(domain: str, api_key: str, verbose: bool = False) -> Set[str]:
     found_domains = {domain}  # include query as a found domain
     url = 'https://www.virustotal.com/vtapi/v2/domain/report'.format(k=api_key, d=domain)
     try:
@@ -198,6 +200,8 @@ def virustotal_find_subdomain(domain: str, api_key: str) -> Set[str]:
                     for domain in response['subdomains']:
                         found_domain = domain.lower().strip()
                         if is_valid_domain(found_domain):
+                            if verbose:
+                                print('Found: %s' % found_domain)
                             found_domains.add(found_domain)
             except ValueError:
                 print('Unknown response from VirusTotal: ' + req.text)
