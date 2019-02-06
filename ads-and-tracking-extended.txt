@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-05T18:38:26+00:00
-# Count: 33319 domains
+# Released: 2019-02-06T03:25:33+00:00
+# Count: 33334 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -4870,6 +4870,12 @@
 0.0.0.0 portal.browserhawk.com
 0.0.0.0 ret.browserhawk.com
 0.0.0.0 www.browserhawk.com
+0.0.0.0 browsiprod.com
+0.0.0.0 device-detect.browsiprod.com
+0.0.0.0 events.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 btstatic.com
 0.0.0.0 l.btstatic.com
 0.0.0.0 s.btstatic.com
@@ -7120,6 +7126,15 @@
 0.0.0.0 post.update.contextweb.com
 0.0.0.0 s.update.contextweb.com
 0.0.0.0 www.contextweb.com
+0.0.0.0 convertexperiments.com
+0.0.0.0 cdn-1.convertexperiments.com
+0.0.0.0 cdn-2.convertexperiments.com
+0.0.0.0 cdn-3.convertexperiments.com
+0.0.0.0 track.convertexperiments.com
+0.0.0.0 www.10021410.track.convertexperiments.com
+0.0.0.0 datauid.track.convertexperiments.com
+0.0.0.0 www.track.convertexperiments.com
+0.0.0.0 www.convertexperiments.com
 0.0.0.0 api.convertkit.com
 0.0.0.0 www.api.convertkit.com
 0.0.0.0 api-black.convertkit.com

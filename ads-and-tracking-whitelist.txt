@@ -150,3 +150,7 @@
 # any subdomain of t1.r since its mostly random can can be anything
 ^.*\.t1\.re$
 
+# a bunch of integers: 1000109.track.convertexperiments.com
+^\d+\.track\.convertexperiments\.com$
+
+
