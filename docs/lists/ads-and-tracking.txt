@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-05T18:38:26+00:00
-# Count: 2271 domains
+# Released: 2019-02-06T03:25:33+00:00
+# Count: 2278 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -397,6 +397,9 @@
 0.0.0.0 js.bronto.com
 0.0.0.0 browserhawk.com
 0.0.0.0 lib.browserhawk.com
+0.0.0.0 browsiprod.com
+0.0.0.0 events.browsiprod.com
+0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 btstatic.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 bucksense.com
@@ -465,6 +468,10 @@
 0.0.0.0 contextweb.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 lga-bid-bgp.contextweb.com
+0.0.0.0 convertexperiments.com
+0.0.0.0 cdn-1.convertexperiments.com
+0.0.0.0 cdn-2.convertexperiments.com
+0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 convertkit.com
 0.0.0.0 cdn.convertkit.com
 0.0.0.0 el2.convertkit.com
