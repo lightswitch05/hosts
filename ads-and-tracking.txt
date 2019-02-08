@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-08T15:12:43+00:00
-# Count: 2291 domains
+# Released: 2019-02-08T21:08:39+00:00
+# Count: 2293 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -623,6 +623,8 @@
 0.0.0.0 metrics.fidelity.com
 0.0.0.0 fiksu.com
 0.0.0.0 a.fiksu.com
+0.0.0.0 filteringlist.com
+0.0.0.0 cdn.filteringlist.com
 0.0.0.0 flurry.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 proton.flurry.com
