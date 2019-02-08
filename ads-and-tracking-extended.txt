@@ -1,11 +1,12 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-08T14:22:53+00:00
-# Count: 33351 domains
+# Released: 2019-02-08T15:12:43+00:00
+# Count: 33375 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+# Expires: 2 days
 #
 # Copyright 2019 Daniel White
 #
@@ -885,6 +886,11 @@
 0.0.0.0 addevent.com
 0.0.0.0 track.addevent.com
 0.0.0.0 www.addevent.com
+0.0.0.0 addragon.com
+0.0.0.0 addragon-addragon.addragon.com
+0.0.0.0 ads.addragon.com
+0.0.0.0 status.addragon.com
+0.0.0.0 www.addragon.com
 0.0.0.0 stats.addsearch.com
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
@@ -7757,6 +7763,10 @@
 0.0.0.0 zero.curalate.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 metrics.cvshealth.com
+0.0.0.0 czilladx.com
+0.0.0.0 cdn.czilladx.com
+0.0.0.0 request.czilladx.com
+0.0.0.0 serve.czilladx.com
 0.0.0.0 logger-01.vty.dailymotion.com
 0.0.0.0 logger-02.vty.dailymotion.com
 0.0.0.0 logger-03.vty.dailymotion.com
@@ -22730,6 +22740,20 @@
 0.0.0.0 calq.io
 0.0.0.0 api.calq.io
 0.0.0.0 www.calq.io
+0.0.0.0 cointraffic.io
+0.0.0.0 api.cointraffic.io
+0.0.0.0 apps.cointraffic.io
+0.0.0.0 apps2.cointraffic.io
+0.0.0.0 apps3.cointraffic.io
+0.0.0.0 apps6.cointraffic.io
+0.0.0.0 appsha1.cointraffic.io
+0.0.0.0 dev.cointraffic.io
+0.0.0.0 dev-api.cointraffic.io
+0.0.0.0 files.cointraffic.io
+0.0.0.0 master-api.cointraffic.io
+0.0.0.0 ppsha1.cointraffic.io
+0.0.0.0 rm.cointraffic.io
+0.0.0.0 www.cointraffic.io
 0.0.0.0 segmentation.k8s.us-east-1--production.containers.aws.conde.io
 0.0.0.0 rum.conde.io
 0.0.0.0 edge-e-balw.customer.io
@@ -32109,6 +32133,7 @@
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www.lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
+0.0.0.0 cdn.bibblio.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
 0.0.0.0 admiral.mgr.consensu.org
