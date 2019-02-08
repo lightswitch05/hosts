@@ -22,6 +22,7 @@ FILE_HEADER = """
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/[file_name]
+# Expires: 2 days
 #
 # Copyright [yyyy] Daniel White
 #
