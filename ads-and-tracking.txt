@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-06T03:25:33+00:00
-# Count: 2278 domains
+# Released: 2019-02-08T14:22:53+00:00
+# Count: 2284 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -37,11 +37,14 @@
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 mkto-panda123.music.blog
 0.0.0.0 districtm.ca
+0.0.0.0 cdn.districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 flyertown.ca
 0.0.0.0 www.honcode.ch
 0.0.0.0 firstfetchflash.club
 0.0.0.0 morningflashsee.club
+0.0.0.0 traffic.club
+0.0.0.0 track.traffic.club
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
 0.0.0.0 6sc.co
@@ -1449,6 +1452,8 @@
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 tkbo.com
+0.0.0.0 track.tkbo.com
 0.0.0.0 tl813.com
 0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 mab.data.tm-awx.com
@@ -2081,6 +2086,7 @@
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
+0.0.0.0 cruisecritic.d1.sc.omtrdc.net
 0.0.0.0 aetn.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 taxslayer.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
