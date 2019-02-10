@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-08T21:08:39+00:00
-# Count: 2293 domains
+# Released: 2019-02-10T17:08:04+00:00
+# Count: 2300 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -548,6 +548,7 @@
 0.0.0.0 www.digitalremedy.com
 0.0.0.0 papajohns-chat.digitalroots.com
 0.0.0.0 adserver.directworksmedia.com
+0.0.0.0 discovernative.com
 0.0.0.0 hasoffers.disqus.com
 0.0.0.0 dmpxs.com
 0.0.0.0 ciq.dmpxs.com
@@ -661,6 +662,7 @@
 0.0.0.0 gaeadata.com
 0.0.0.0 gdtmdc.gaeadata.com
 0.0.0.0 hb.gammaplatform.com
+0.0.0.0 geniusonclick.com
 0.0.0.0 log.getadblock.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 getambassador.com
@@ -1160,6 +1162,7 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 pubocean.com
 0.0.0.0 rta.pubocean.com
+0.0.0.0 pushmejs.com
 0.0.0.0 pushspring.com
 0.0.0.0 api.pushspring.com
 0.0.0.0 bugly.qq.com
@@ -1385,6 +1388,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 load.sumo.com
+0.0.0.0 superonclick.com
 0.0.0.0 supersonic.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 tag-mediation.supersonic.com
@@ -1664,6 +1668,7 @@
 0.0.0.0 adserver.webstatsserver.de
 0.0.0.0 braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 tracking.wpnetwork.eu
 0.0.0.0 wpad.example
 0.0.0.0 keepass.fr
 0.0.0.0 drawbrid.ge
@@ -1702,6 +1707,7 @@
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
 0.0.0.0 match33.info
+0.0.0.0 mystighty.info
 0.0.0.0 1rx.io
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 tag.1rx.io
@@ -2219,6 +2225,7 @@
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
 0.0.0.0 cdn.bibblio.org
+0.0.0.0 commercialvalue.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
