@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-08T21:08:39+00:00
-# Count: 33377 domains
+# Released: 2019-02-10T17:08:04+00:00
+# Count: 33389 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -7878,6 +7878,8 @@
 0.0.0.0 papajohns-chat.digitalroots.com
 0.0.0.0 adserver.directworksmedia.com
 0.0.0.0 www.adserver.directworksmedia.com
+0.0.0.0 discovernative.com
+0.0.0.0 www.discovernative.com
 0.0.0.0 hasoffers.disqus.com
 0.0.0.0 dmpxs.com
 0.0.0.0 bob.dmpxs.com
@@ -10107,6 +10109,8 @@
 0.0.0.0 testmdc.gaeadata.com
 0.0.0.0 userfile.gaeadata.com
 0.0.0.0 hb.gammaplatform.com
+0.0.0.0 geniusonclick.com
+0.0.0.0 www.geniusonclick.com
 0.0.0.0 log.getadblock.com
 0.0.0.0 dev.log.getadblock.com
 0.0.0.0 www.log.getadblock.com
@@ -16086,6 +16090,7 @@
 0.0.0.0 sonarqube.pubocean.com
 0.0.0.0 srta.pubocean.com
 0.0.0.0 www.pubocean.com
+0.0.0.0 pushmejs.com
 0.0.0.0 pushspring.com
 0.0.0.0 adotron.pushspring.com
 0.0.0.0 api.pushspring.com
@@ -18796,6 +18801,8 @@
 0.0.0.0 stg4.sumo.com
 0.0.0.0 load.stg4.sumo.com
 0.0.0.0 www.sumo.com
+0.0.0.0 superonclick.com
+0.0.0.0 www.superonclick.com
 0.0.0.0 supersonic.com
 0.0.0.0 china.supersonic.com
 0.0.0.0 logs.supersonic.com
@@ -22255,6 +22262,7 @@
 0.0.0.0 k8s.region-001.s-euc-1.braze.eu
 0.0.0.0 k8s.stc-001.s-euc-1.braze.eu
 0.0.0.0 www.braze.eu
+0.0.0.0 tracking.wpnetwork.eu
 0.0.0.0 wpad.example
 0.0.0.0 keepass.fr
 0.0.0.0 www.keepass.fr
@@ -22390,6 +22398,8 @@
 0.0.0.0 lb-delivery.us-east-1.applifier.info
 0.0.0.0 www.applifier.info
 0.0.0.0 match33.info
+0.0.0.0 mystighty.info
+0.0.0.0 www.mystighty.info
 0.0.0.0 1rx.io
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 a-nj.1rx.io
@@ -32136,6 +32146,8 @@
 0.0.0.0 www.lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
 0.0.0.0 cdn.bibblio.org
+0.0.0.0 commercialvalue.org
+0.0.0.0 www.commercialvalue.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
 0.0.0.0 admiral.mgr.consensu.org
