@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-11T13:58:21+00:00
-# Count: 33864 domains
+# Released: 2019-02-11T17:56:51+00:00
+# Count: 33868 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17990,7 +17990,11 @@
 0.0.0.0 qa-tags.selectablemedia.com
 0.0.0.0 test-cdn.selectablemedia.com
 0.0.0.0 www.selectablemedia.com
+0.0.0.0 sentry-cdn.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 js.sentry-cdn.com
+0.0.0.0 s1.sentry-cdn.com
+0.0.0.0 www.sentry-cdn.com
 0.0.0.0 servebom.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads-qa.servebom.com
