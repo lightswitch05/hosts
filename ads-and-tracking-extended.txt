@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-11T17:56:51+00:00
-# Count: 33868 domains
+# Released: 2019-02-11T23:27:43+00:00
+# Count: 33909 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10375,6 +10375,47 @@
 0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
 0.0.0.0 www.glasslytics.com
+0.0.0.0 gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 autoconfig.gmial.com
+0.0.0.0 www.autoconfig.gmial.com
+0.0.0.0 autodiscover.gmial.com
+0.0.0.0 www.autodiscover.gmial.com
+0.0.0.0 gmail.com.gmial.com
+0.0.0.0 www.gmail.com.gmial.com
+0.0.0.0 imap.gmial.com
+0.0.0.0 www.imap.gmial.com
+0.0.0.0 inbox.gmial.com
+0.0.0.0 keys.gmial.com
+0.0.0.0 lyncdiscover.gmial.com
+0.0.0.0 www.lyncdiscover.gmial.com
+0.0.0.0 lyncdiscoverinternal.gmial.com
+0.0.0.0 www.lyncdiscoverinternal.gmial.com
+0.0.0.0 m.gmial.com
+0.0.0.0 mail.gmial.com
+0.0.0.0 www.mail.gmial.com
+0.0.0.0 mailgate.gmial.com
+0.0.0.0 www.mailgate.gmial.com
+0.0.0.0 mobileniveldiez.gmial.com
+0.0.0.0 out.gmial.com
+0.0.0.0 www.out.gmial.com
+0.0.0.0 pop.gmial.com
+0.0.0.0 www.pop.gmial.com
+0.0.0.0 pop3.gmial.com
+0.0.0.0 relay.gmial.com
+0.0.0.0 www.relay.gmial.com
+0.0.0.0 sip.gmial.com
+0.0.0.0 www.sip.gmial.com
+0.0.0.0 sipexternal.gmial.com
+0.0.0.0 www.sipexternal.gmial.com
+0.0.0.0 sipinternal.gmial.com
+0.0.0.0 www.sipinternal.gmial.com
+0.0.0.0 webmail.gmial.com
+0.0.0.0 www.webmail.gmial.com
+0.0.0.0 ww.gmial.com
+0.0.0.0 www.gmial.com
+0.0.0.0 www3.gmial.com
+0.0.0.0 wwww.gmial.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 adserver.goodnuze.com
 0.0.0.0 goodyield.com
