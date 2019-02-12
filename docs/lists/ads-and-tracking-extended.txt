@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-11T23:27:43+00:00
-# Count: 33909 domains
+# Released: 2019-02-12T14:18:52+00:00
+# Count: 33925 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10217,6 +10217,22 @@
 0.0.0.0 ldap-admin.gaeadata.com
 0.0.0.0 testmdc.gaeadata.com
 0.0.0.0 userfile.gaeadata.com
+0.0.0.0 gamail.com
+0.0.0.0 _sipfederationtls._tcp.gamail.com
+0.0.0.0 autodiscover.gamail.com
+0.0.0.0 gwww.gamail.com
+0.0.0.0 imap.gamail.com
+0.0.0.0 lyncdiscover.gamail.com
+0.0.0.0 lyncdiscoverinternal.gamail.com
+0.0.0.0 mail.gamail.com
+0.0.0.0 pop3.gamail.com
+0.0.0.0 roche.gamail.com
+0.0.0.0 sip.gamail.com
+0.0.0.0 sipexternal.gamail.com
+0.0.0.0 sipinternal.gamail.com
+0.0.0.0 ww.gamail.com
+0.0.0.0 www.gamail.com
+0.0.0.0 www.www.gamail.com
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 www.geniusonclick.com
