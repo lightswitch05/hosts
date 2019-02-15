@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-14T18:02:26+00:00
-# Count: 2315 domains
+# Released: 2019-02-15T14:03:59+00:00
+# Count: 2317 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -894,6 +894,8 @@
 0.0.0.0 metaps.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 dc.applicationinsights.microsoft.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 uhf.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 bling2.midasplayer.com
