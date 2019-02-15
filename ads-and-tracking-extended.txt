@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-14T18:02:26+00:00
-# Count: 33935 domains
+# Released: 2019-02-15T14:04:00+00:00
+# Count: 33945 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -13078,6 +13078,16 @@
 0.0.0.0 dev.ppe.applicationinsights.microsoft.com
 0.0.0.0 rt.applicationinsights.microsoft.com
 0.0.0.0 www.applicationinsights.microsoft.com
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 eu-v20.events.data.microsoft.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 umwatsonc.events.data.microsoft.com
+0.0.0.0 us-v20.events.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.com
+0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 uhf.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 adsrv2.midasplayer.com
