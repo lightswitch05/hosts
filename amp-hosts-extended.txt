@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2019-02-12T13:43:55+00:00
-# Count: 713 domains
+# Released: 2019-02-17T11:55:29+00:00
+# Count: 747 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -132,6 +132,7 @@
 0.0.0.0 248qms3nhmvl15d4ne1i4pxl--wpengine-netdna--ssl-com.cdn.ampproject.org
 0.0.0.0 4901ux2g6mmvdk3no47o3nyn--wpengine-netdna--ssl-com.cdn.ampproject.org
 0.0.0.0 66-media-tumblr-com.cdn.ampproject.org
+0.0.0.0 6abc-com.cdn.ampproject.org
 0.0.0.0 a-abcnews-com.cdn.ampproject.org
 0.0.0.0 a0-muscache-com.cdn.ampproject.org
 0.0.0.0 abc7news-com.cdn.ampproject.org
@@ -169,6 +170,7 @@
 0.0.0.0 amp-myrecipes-com.cdn.ampproject.org
 0.0.0.0 amp-newsbomb-gr.cdn.ampproject.org
 0.0.0.0 amp-queen-gr.cdn.ampproject.org
+0.0.0.0 amp-raise-com.cdn.ampproject.org
 0.0.0.0 amp-rappler-com.cdn.ampproject.org
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 amp-sacbee-com.cdn.ampproject.org
@@ -194,15 +196,18 @@
 0.0.0.0 assets-vogue-com.cdn.ampproject.org
 0.0.0.0 backroadplanet-com.cdn.ampproject.org
 0.0.0.0 bc-marfeelcache-com.cdn.ampproject.org
+0.0.0.0 bet1-supertoto20-com.cdn.ampproject.org
 0.0.0.0 blog-ballard-com.cdn.ampproject.org
 0.0.0.0 blog-bonus-ly.cdn.ampproject.org
 0.0.0.0 blog-leonardo-com-au.cdn.ampproject.org
+0.0.0.0 borjomiok-com-ua.cdn.ampproject.org
 0.0.0.0 br18-com-br.cdn.ampproject.org
 0.0.0.0 brightside-me.cdn.ampproject.org
 0.0.0.0 brownswire-usatoday-com.cdn.ampproject.org
 0.0.0.0 c-ndtvimg-com.cdn.ampproject.org
 0.0.0.0 c1-neweggimages-com.cdn.ampproject.org
 0.0.0.0 calhas-wordpress-com.cdn.ampproject.org
+0.0.0.0 carolsilverio-files-wordpress-com.cdn.ampproject.org
 0.0.0.0 cdn--europe1-lanmedia-fr.cdn.ampproject.org
 0.0.0.0 cdn--img-health-com.cdn.ampproject.org
 0.0.0.0 cdn-apartmenttherapy-info.cdn.ampproject.org
@@ -232,10 +237,12 @@
 0.0.0.0 concreteplayground-com.cdn.ampproject.org
 0.0.0.0 constitutioncenter-org.cdn.ampproject.org
 0.0.0.0 craftedincarhartt-wordpress-com.cdn.ampproject.org
+0.0.0.0 criticalhits-com-br.cdn.ampproject.org
 0.0.0.0 d167y3o4ydtmfg-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d1doqjmisr497k-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d1lss44hh2trtw-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d2cyt36b7wnvt9-cloudfront-net.cdn.ampproject.org
+0.0.0.0 d36cmr08aasnby-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d37eaxu2a94nga-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d3lp4xedbqa8a5-cloudfront-net.cdn.ampproject.org
 0.0.0.0 d3sv2eduhewoas-cloudfront-net.cdn.ampproject.org
@@ -271,10 +278,12 @@
 0.0.0.0 files-shape-gr.cdn.ampproject.org
 0.0.0.0 film-wp-pl.cdn.ampproject.org
 0.0.0.0 filmschoolrejects-com.cdn.ampproject.org
+0.0.0.0 fonts-gstatic-com.cdn.ampproject.org
 0.0.0.0 fonts-voxmedia-com.cdn.ampproject.org
 0.0.0.0 foreignpolicy-com.cdn.ampproject.org
 0.0.0.0 fsmedia-imgix-net.cdn.ampproject.org
 0.0.0.0 gadzetomania-pl.cdn.ampproject.org
+0.0.0.0 genius-com.cdn.ampproject.org
 0.0.0.0 gestion-pe.cdn.ampproject.org
 0.0.0.0 gewehr98-wordpress-com.cdn.ampproject.org
 0.0.0.0 gizmodo-com.cdn.ampproject.org
@@ -303,8 +312,10 @@
 0.0.0.0 imageresizer-static9-net-au.cdn.ampproject.org
 0.0.0.0 images-9monate-de.cdn.ampproject.org
 0.0.0.0 images-carscoops-com.cdn.ampproject.org
+0.0.0.0 images-genius-com.cdn.ampproject.org
 0.0.0.0 images-jpost-com.cdn.ampproject.org
 0.0.0.0 images-lady-mail-ru.cdn.ampproject.org
+0.0.0.0 images-thewest-com-au.cdn.ampproject.org
 0.0.0.0 img2-likar-info.cdn.ampproject.org
 0.0.0.0 img4-dmty-pl.cdn.ampproject.org
 0.0.0.0 imgur-com.cdn.ampproject.org
@@ -374,10 +385,13 @@
 0.0.0.0 new--projects-icicihomesearch-com.cdn.ampproject.org
 0.0.0.0 newsinfo-inquirer-net.cdn.ampproject.org
 0.0.0.0 noticias-uol-com-br.cdn.ampproject.org
+0.0.0.0 nulltx-com.cdn.ampproject.org
 0.0.0.0 nypdecider-files-wordpress-com.cdn.ampproject.org
 0.0.0.0 nypost-com.cdn.ampproject.org
+0.0.0.0 observantiae-com.cdn.ampproject.org
 0.0.0.0 observer-com.cdn.ampproject.org
 0.0.0.0 oflifeandlisa-com.cdn.ampproject.org
+0.0.0.0 p5-focus-de.cdn.ampproject.org
 0.0.0.0 pagesix-com.cdn.ampproject.org
 0.0.0.0 pasteup-guim-co-uk.cdn.ampproject.org
 0.0.0.0 people-com.cdn.ampproject.org
@@ -392,10 +406,12 @@
 0.0.0.0 repairpal-com.cdn.ampproject.org
 0.0.0.0 res-abc-net-au.cdn.ampproject.org
 0.0.0.0 respondidos-br-aptoide-com.cdn.ampproject.org
+0.0.0.0 ria-ru.cdn.ampproject.org
 0.0.0.0 riafan-ru.cdn.ampproject.org
 0.0.0.0 ru-armeniasputnik-am.cdn.ampproject.org
 0.0.0.0 rus-azatutyun-am.cdn.ampproject.org
 0.0.0.0 s-abcnews-com.cdn.ampproject.org
+0.0.0.0 s-glbimg-com.cdn.ampproject.org
 0.0.0.0 s13-stc-all-kpcdn-net.cdn.ampproject.org
 0.0.0.0 s3-cointelegraph-com.cdn.ampproject.org
 0.0.0.0 secure-gravatar-com.cdn.ampproject.org
@@ -431,7 +447,10 @@
 0.0.0.0 static1-ideal-es.cdn.ampproject.org
 0.0.0.0 static2-ideal-es.cdn.ampproject.org
 0.0.0.0 static3-ideal-es.cdn.ampproject.org
+0.0.0.0 styles-redditmedia-com.cdn.ampproject.org
+0.0.0.0 super--mario--maker--beta--2-en-aptoide-com.cdn.ampproject.org
 0.0.0.0 syndication-bleacherreport-com.cdn.ampproject.org
+0.0.0.0 t0-gstatic-com.cdn.ampproject.org
 0.0.0.0 t3n-de.cdn.ampproject.org
 0.0.0.0 techcrunch-com.cdn.ampproject.org
 0.0.0.0 tecnoblog-net.cdn.ampproject.org
@@ -439,6 +458,7 @@
 0.0.0.0 theinspiredapple-net.cdn.ampproject.org
 0.0.0.0 thekrazycouponlady-com.cdn.ampproject.org
 0.0.0.0 thepointsguy-com.cdn.ampproject.org
+0.0.0.0 thewest-com-au.cdn.ampproject.org
 0.0.0.0 thunderousintentions-com.cdn.ampproject.org
 0.0.0.0 turbotax-intuit-com.cdn.ampproject.org
 0.0.0.0 tw-amp-chahaoba-com.cdn.ampproject.org
@@ -466,13 +486,16 @@
 0.0.0.0 video--images-vice-com.cdn.ampproject.org
 0.0.0.0 webapi-unionesarda-it.cdn.ampproject.org
 0.0.0.0 woculus-com.cdn.ampproject.org
+0.0.0.0 wompampsupport-azureedge-net.cdn.ampproject.org
 0.0.0.0 wpcdn-pl.cdn.ampproject.org
+0.0.0.0 www-1stdibs-com.cdn.ampproject.org
 0.0.0.0 www-adslgate-com.cdn.ampproject.org
 0.0.0.0 www-airbnb-gr.cdn.ampproject.org
 0.0.0.0 www-al-com.cdn.ampproject.org
 0.0.0.0 www-alhurra-com.cdn.ampproject.org
 0.0.0.0 www-allmenus-com.cdn.ampproject.org
 0.0.0.0 www-allure-com.cdn.ampproject.org
+0.0.0.0 www-amp-caneey-com.cdn.ampproject.org
 0.0.0.0 www-ampproject-org.cdn.ampproject.org
 0.0.0.0 www-anaptiksi-eu.cdn.ampproject.org
 0.0.0.0 www-androidlista-com-br.cdn.ampproject.org
@@ -501,12 +524,14 @@
 0.0.0.0 www-bonappetit-com.cdn.ampproject.org
 0.0.0.0 www-boost-ai.cdn.ampproject.org
 0.0.0.0 www-bostonglobe-com.cdn.ampproject.org
+0.0.0.0 www-bovary-gr.cdn.ampproject.org
 0.0.0.0 www-breitbart-com.cdn.ampproject.org
 0.0.0.0 www-broadwayworld-com.cdn.ampproject.org
 0.0.0.0 www-buro247-ru.cdn.ampproject.org
 0.0.0.0 www-burtonmail-co-uk.cdn.ampproject.org
 0.0.0.0 www-businesstimes-com-sg.cdn.ampproject.org
 0.0.0.0 www-campaignmonitor-com.cdn.ampproject.org
+0.0.0.0 www-canlimacizlebe-com.cdn.ampproject.org
 0.0.0.0 www-care-com.cdn.ampproject.org
 0.0.0.0 www-carscoops-com.cdn.ampproject.org
 0.0.0.0 www-cbanque-com.cdn.ampproject.org
@@ -531,6 +556,7 @@
 0.0.0.0 www-dailystar-co-uk.cdn.ampproject.org
 0.0.0.0 www-daytondailynews-com.cdn.ampproject.org
 0.0.0.0 www-dealcatcher-com.cdn.ampproject.org
+0.0.0.0 www-denverpost-com.cdn.ampproject.org
 0.0.0.0 www-designlisticle-com.cdn.ampproject.org
 0.0.0.0 www-dgreetings-com.cdn.ampproject.org
 0.0.0.0 www-digitalcitizen-life.cdn.ampproject.org
@@ -546,13 +572,16 @@
 0.0.0.0 www-eldinamo-cl.cdn.ampproject.org
 0.0.0.0 www-electronicshub-org.cdn.ampproject.org
 0.0.0.0 www-emporiopatanegra-com-br.cdn.ampproject.org
+0.0.0.0 www-enabbaladi-net.cdn.ampproject.org
 0.0.0.0 www-equipandoloja-net-br.cdn.ampproject.org
 0.0.0.0 www-esmaelmorais-com-br.cdn.ampproject.org
 0.0.0.0 www-espn-com.cdn.ampproject.org
 0.0.0.0 www-estiloydeco-com.cdn.ampproject.org
+0.0.0.0 www-eurogamer-net.cdn.ampproject.org
 0.0.0.0 www-express-co-uk.cdn.ampproject.org
 0.0.0.0 www-extratipp-com.cdn.ampproject.org
 0.0.0.0 www-fastcommerce-com-br.cdn.ampproject.org
+0.0.0.0 www-financialexpress-com.cdn.ampproject.org
 0.0.0.0 www-foodnetwork-com.cdn.ampproject.org
 0.0.0.0 www-forbes-com.cdn.ampproject.org
 0.0.0.0 www-forbes-ru.cdn.ampproject.org
@@ -589,6 +618,7 @@
 0.0.0.0 www-ilfoglio-it.cdn.ampproject.org
 0.0.0.0 www-ilmessaggero-it.cdn.ampproject.org
 0.0.0.0 www-ilromanista-eu.cdn.ampproject.org
+0.0.0.0 www-imm-com-pl.cdn.ampproject.org
 0.0.0.0 www-in-gr.cdn.ampproject.org
 0.0.0.0 www-independent-co-uk.cdn.ampproject.org
 0.0.0.0 www-indiatoday-in.cdn.ampproject.org
@@ -643,12 +673,14 @@
 0.0.0.0 www-nzz-ch.cdn.ampproject.org
 0.0.0.0 www-oberlo-com.cdn.ampproject.org
 0.0.0.0 www-ocregister-com.cdn.ampproject.org
+0.0.0.0 www-odigostoupoliti-eu.cdn.ampproject.org
 0.0.0.0 www-officeholidays-com.cdn.ampproject.org
 0.0.0.0 www-peta-org-uk.cdn.ampproject.org
 0.0.0.0 www-petitchef-ro.cdn.ampproject.org
 0.0.0.0 www-pinterest-com.cdn.ampproject.org
 0.0.0.0 www-plotek-pl.cdn.ampproject.org
 0.0.0.0 www-pop3subsidie-nl.cdn.ampproject.org
+0.0.0.0 www-pravda-com-ua.cdn.ampproject.org
 0.0.0.0 www-promiflash-de.cdn.ampproject.org
 0.0.0.0 www-protagon-gr.cdn.ampproject.org
 0.0.0.0 www-psychologytoday-com.cdn.ampproject.org
@@ -679,6 +711,8 @@
 0.0.0.0 www-stltoday-com.cdn.ampproject.org
 0.0.0.0 www-streakingthelawn-com.cdn.ampproject.org
 0.0.0.0 www-sun--sentinel-com.cdn.ampproject.org
+0.0.0.0 www-supertoto20-com.cdn.ampproject.org
+0.0.0.0 www-tanea-gr.cdn.ampproject.org
 0.0.0.0 www-tasteofhome-com.cdn.ampproject.org
 0.0.0.0 www-techspot-com.cdn.ampproject.org
 0.0.0.0 www-telesurtv-net.cdn.ampproject.org
