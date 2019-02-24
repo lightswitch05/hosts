@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-02-17T12:16:10+00:00
-# Count: 2713 domains
+# Released: 2019-02-24T12:15:14+00:00
+# Count: 2727 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -80,6 +80,7 @@
 0.0.0.0 bloomingdales.ugc.bazaarvoice.com
 0.0.0.0 bol.ugc.bazaarvoice.com
 0.0.0.0 bootlegger.ugc.bazaarvoice.com
+0.0.0.0 boscovs.ugc.bazaarvoice.com
 0.0.0.0 boulanger.ugc.bazaarvoice.com
 0.0.0.0 brother-emea.ugc.bazaarvoice.com
 0.0.0.0 burton.ugc.bazaarvoice.com
@@ -117,6 +118,7 @@
 0.0.0.0 dat.ugc.bazaarvoice.com
 0.0.0.0 davidsbridal.ugc.bazaarvoice.com
 0.0.0.0 debenhams.ugc.bazaarvoice.com
+0.0.0.0 dickssportinggoods.ugc.bazaarvoice.com
 0.0.0.0 digitalfederalcreditunion.ugc.bazaarvoice.com
 0.0.0.0 discovercard.ugc.bazaarvoice.com
 0.0.0.0 disneystore.ugc.bazaarvoice.com
@@ -153,6 +155,7 @@
 0.0.0.0 footlocker.ugc.bazaarvoice.com
 0.0.0.0 fresh.ugc.bazaarvoice.com
 0.0.0.0 furniturerow.ugc.bazaarvoice.com
+0.0.0.0 gamestop.ugc.bazaarvoice.com
 0.0.0.0 garnieruk.ugc.bazaarvoice.com
 0.0.0.0 generac.ugc.bazaarvoice.com
 0.0.0.0 ghdhair.ugc.bazaarvoice.com
@@ -263,6 +266,7 @@
 0.0.0.0 thebodyshopca.ugc.bazaarvoice.com
 0.0.0.0 theentertainer.ugc.bazaarvoice.com
 0.0.0.0 theworks.ugc.bazaarvoice.com
+0.0.0.0 thomascook.ugc.bazaarvoice.com
 0.0.0.0 ticketmaster.ugc.bazaarvoice.com
 0.0.0.0 tommybahama.ugc.bazaarvoice.com
 0.0.0.0 topman.ugc.bazaarvoice.com
@@ -429,6 +433,7 @@
 0.0.0.0 dev.exacttarget.com
 0.0.0.0 dev1.exacttarget.com
 0.0.0.0 dialin.exacttarget.com
+0.0.0.0 ea-atl.exacttarget.com
 0.0.0.0 ea-dfw5.exacttarget.com
 0.0.0.0 email.exacttarget.com
 0.0.0.0 etappx.exacttarget.com
@@ -565,9 +570,11 @@
 0.0.0.0 df183.mta.exacttarget.com
 0.0.0.0 df2.mta.exacttarget.com
 0.0.0.0 df215.mta.exacttarget.com
+0.0.0.0 df219.mta.exacttarget.com
 0.0.0.0 df222.mta.exacttarget.com
 0.0.0.0 df66.mta.exacttarget.com
 0.0.0.0 df67.mta.exacttarget.com
+0.0.0.0 dg109.mta.exacttarget.com
 0.0.0.0 dg152.mta.exacttarget.com
 0.0.0.0 dg176.mta.exacttarget.com
 0.0.0.0 dg250.mta.exacttarget.com
@@ -591,6 +598,7 @@
 0.0.0.0 fq201.mta.exacttarget.com
 0.0.0.0 fq215.mta.exacttarget.com
 0.0.0.0 fq25.mta.exacttarget.com
+0.0.0.0 gc87.mta.exacttarget.com
 0.0.0.0 nexus.exacttarget.com
 0.0.0.0 ns1.exacttarget.com
 0.0.0.0 ns2.exacttarget.com
@@ -1788,6 +1796,7 @@
 0.0.0.0 859-events.olark.com
 0.0.0.0 942-events.olark.com
 0.0.0.0 98-events.olark.com
+0.0.0.0 997-events.olark.com
 0.0.0.0 999-async.olark.com
 0.0.0.0 api.olark.com
 0.0.0.0 assets.olark.com
@@ -2382,12 +2391,14 @@
 0.0.0.0 chat.simpleanalytics.io
 0.0.0.0 external.simpleanalytics.io
 0.0.0.0 gif.simpleanalytics.io
+0.0.0.0 helpdesk.simpleanalytics.io
 0.0.0.0 iceland.simpleanalytics.io
 0.0.0.0 metabase.simpleanalytics.io
 0.0.0.0 monitor.simpleanalytics.io
 0.0.0.0 notify.simpleanalytics.io
 0.0.0.0 queue.simpleanalytics.io
 0.0.0.0 monit.queue.simpleanalytics.io
+0.0.0.0 test.simpleanalytics.io
 0.0.0.0 test-external-ssl-319481934.simpleanalytics.io
 0.0.0.0 test93f9h93hf39fjka93.simpleanalytics.io
 0.0.0.0 testing.simpleanalytics.io
@@ -2454,6 +2465,7 @@
 0.0.0.0 events-synchrony.gomoxie.solutions
 0.0.0.0 events-usaa.gomoxie.solutions
 0.0.0.0 events-usaaeligibility.gomoxie.solutions
+0.0.0.0 events-usaaumbrella.gomoxie.solutions
 0.0.0.0 events-vitacost.gomoxie.solutions
 0.0.0.0 events-yankeecandle.gomoxie.solutions
 0.0.0.0 identity-bms_bms.gomoxie.solutions
@@ -2482,6 +2494,7 @@
 0.0.0.0 identity-southbeachdiet.gomoxie.solutions
 0.0.0.0 identity-synchrony.gomoxie.solutions
 0.0.0.0 identity-usaaeligibility.gomoxie.solutions
+0.0.0.0 identity-usaaumbrella.gomoxie.solutions
 0.0.0.0 identity-vitacost.gomoxie.solutions
 0.0.0.0 identity-yankeecandle.gomoxie.solutions
 0.0.0.0 location.gomoxie.solutions
@@ -2513,6 +2526,7 @@
 0.0.0.0 log-synchrony.gomoxie.solutions
 0.0.0.0 log-usaaeligibility.gomoxie.solutions
 0.0.0.0 log-usaahomeowners.gomoxie.solutions
+0.0.0.0 log-usaaumbrella.gomoxie.solutions
 0.0.0.0 log-vitacost.gomoxie.solutions
 0.0.0.0 log-yankeecandle.gomoxie.solutions
 0.0.0.0 stage.gomoxie.solutions
