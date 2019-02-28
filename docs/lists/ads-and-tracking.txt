@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-27T20:29:32+00:00
-# Count: 2329 domains
+# Released: 2019-02-28T13:43:57+00:00
+# Count: 2344 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -55,6 +55,8 @@
 0.0.0.0 adpxl.co
 0.0.0.0 adpxljs.adpxl.co
 0.0.0.0 fl.adpxl.co
+0.0.0.0 clinch.co
+0.0.0.0 trk.clinch.co
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 leadpages.co
@@ -171,6 +173,8 @@
 0.0.0.0 assets.adsttc.com
 0.0.0.0 nrd.adsttc.com
 0.0.0.0 adswizz.com
+0.0.0.0 adsymptotic.com
+0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
 0.0.0.0 adthrive.com
@@ -895,6 +899,7 @@
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 video.mediavine.com
 0.0.0.0 tracker.meetleads.com
+0.0.0.0 cdn.merklesearch.com
 0.0.0.0 metaps.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 dc.applicationinsights.microsoft.com
@@ -1191,6 +1196,9 @@
 0.0.0.0 2kpixel.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 quantummetric.com
+0.0.0.0 bbb-app.quantummetric.com
+0.0.0.0 bbb-sync.quantummetric.com
 0.0.0.0 a.quora.com
 0.0.0.0 qwapi.com
 0.0.0.0 adsdk.qwapi.com
@@ -1259,6 +1267,7 @@
 0.0.0.0 rollbar.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 www.roosterfirework.com
+0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 metrics.rubiconglobal.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
@@ -1332,6 +1341,9 @@
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 socialannex.com
+0.0.0.0 cdn.socialannex.com
+0.0.0.0 s22.socialannex.com
 0.0.0.0 pixel.socialtyze.com
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 telemetry.sonarsource.com
@@ -1742,6 +1754,8 @@
 0.0.0.0 adapt.io
 0.0.0.0 admp.io
 0.0.0.0 d.admp.io
+0.0.0.0 akstat.io
+0.0.0.0 173c5b06.akstat.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 public-analytics.useast.atlassian.io
 0.0.0.0 auth.avs.io
@@ -2005,6 +2019,7 @@
 0.0.0.0 5605209.fls.doubleclick.net
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 685973.fls.doubleclick.net
+0.0.0.0 8222151.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
