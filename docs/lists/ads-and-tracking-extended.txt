@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-02-28T13:43:57+00:00
-# Count: 34534 domains
+# Released: 2019-02-28T16:18:11+00:00
+# Count: 34535 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -22229,6 +22229,7 @@
 0.0.0.0 www.do.whoisvisiting.com
 0.0.0.0 mail.whoisvisiting.com
 0.0.0.0 www.whoisvisiting.com
+0.0.0.0 telemetry.remoteapp.windowsazure.com
 0.0.0.0 acquisition-tracker.wix.com
 0.0.0.0 adsense.apps.wix.com
 0.0.0.0 premium.aws.wix.com
