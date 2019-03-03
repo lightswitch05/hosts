@@ -903,8 +903,6 @@
 0.0.0.0 metaps.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 dc.applicationinsights.microsoft.com
-0.0.0.0 events.data.microsoft.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 uhf.microsoft.com
 0.0.0.0 midasplayer.com
 0.0.0.0 bling2.midasplayer.com
@@ -1632,7 +1630,6 @@
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 whoisvisiting.com
 0.0.0.0 app.whoisvisiting.com
-0.0.0.0 telemetry.remoteapp.windowsazure.com
 0.0.0.0 acquisition-tracker.wix.com
 0.0.0.0 adsense.apps.wix.com
 0.0.0.0 premium.aws.wix.com
