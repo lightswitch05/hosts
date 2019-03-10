@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-03-03T12:19:53+00:00
-# Count: 2743 domains
+# Released: 2019-03-10T12:19:55+00:00
+# Count: 2754 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -115,6 +115,7 @@
 0.0.0.0 conrad.ugc.bazaarvoice.com
 0.0.0.0 containerstore.ugc.bazaarvoice.com
 0.0.0.0 coopertire.ugc.bazaarvoice.com
+0.0.0.0 cyberport.ugc.bazaarvoice.com
 0.0.0.0 dat.ugc.bazaarvoice.com
 0.0.0.0 davidsbridal.ugc.bazaarvoice.com
 0.0.0.0 debenhams.ugc.bazaarvoice.com
@@ -202,6 +203,7 @@
 0.0.0.0 lizearle.ugc.bazaarvoice.com
 0.0.0.0 lowes.ugc.bazaarvoice.com
 0.0.0.0 lululemon.ugc.bazaarvoice.com
+0.0.0.0 lululemoneurope.ugc.bazaarvoice.com
 0.0.0.0 lululemonhongkong.ugc.bazaarvoice.com
 0.0.0.0 lumens.ugc.bazaarvoice.com
 0.0.0.0 macys.ugc.bazaarvoice.com
@@ -498,6 +500,8 @@
 0.0.0.0 mc27dc2p63lspxl102q8rxr927qm.login.exacttarget.com
 0.0.0.0 mc2htylff8d1bqx7d8y8wzppn744.login.exacttarget.com
 0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
+0.0.0.0 mcbkmr7kl7clfww8xvcjnp1mvht4.login.exacttarget.com
+0.0.0.0 mcbxb5x9l3891h1jz4j8hrp1gls0.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
 0.0.0.0 mcq3v6k8917x8lg5w6s-94jck1r4.login.exacttarget.com
 0.0.0.0 mcx915krlq4sx-35t6rmswbqw924.login.exacttarget.com
@@ -533,11 +537,14 @@
 0.0.0.0 ce157.mta.exacttarget.com
 0.0.0.0 cj135.mta.exacttarget.com
 0.0.0.0 cl125.mta.exacttarget.com
+0.0.0.0 cn5.mta.exacttarget.com
 0.0.0.0 cr10.mta.exacttarget.com
 0.0.0.0 cr101.mta.exacttarget.com
 0.0.0.0 cr102.mta.exacttarget.com
 0.0.0.0 cr107.mta.exacttarget.com
+0.0.0.0 cr119.mta.exacttarget.com
 0.0.0.0 cr121.mta.exacttarget.com
+0.0.0.0 cr13.mta.exacttarget.com
 0.0.0.0 cr144.mta.exacttarget.com
 0.0.0.0 cr184.mta.exacttarget.com
 0.0.0.0 cr196.mta.exacttarget.com
@@ -594,6 +601,9 @@
 0.0.0.0 di82.mta.exacttarget.com
 0.0.0.0 dj2.mta.exacttarget.com
 0.0.0.0 ef193.mta.exacttarget.com
+0.0.0.0 el67.mta.exacttarget.com
+0.0.0.0 el68.mta.exacttarget.com
+0.0.0.0 el69.mta.exacttarget.com
 0.0.0.0 el70.mta.exacttarget.com
 0.0.0.0 fg158.mta.exacttarget.com
 0.0.0.0 fg203.mta.exacttarget.com
@@ -2395,6 +2405,7 @@
 0.0.0.0 juicer.io
 0.0.0.0 assets.juicer.io
 0.0.0.0 clj.juicer.io
+0.0.0.0 clj-staging.juicer.io
 0.0.0.0 help.juicer.io
 0.0.0.0 staging.juicer.io
 0.0.0.0 static.juicer.io
