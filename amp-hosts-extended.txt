@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2019-03-10T11:59:07+00:00
-# Count: 842 domains
+# Released: 2019-03-11T14:11:48+00:00
+# Count: 850 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -124,6 +124,7 @@
 0.0.0.0 amp.si.com
 0.0.0.0 amp.tennessean.com
 0.0.0.0 amp.theguardian.com
+0.0.0.0 amp.thestate.com
 0.0.0.0 amp.usatoday.com
 0.0.0.0 ampproject.org
 0.0.0.0 cdn.ampproject.org
@@ -166,6 +167,7 @@
 0.0.0.0 amp-france24-com.cdn.ampproject.org
 0.0.0.0 amp-freep-com.cdn.ampproject.org
 0.0.0.0 amp-gospelherald-com.cdn.ampproject.org
+0.0.0.0 amp-kentucky-com.cdn.ampproject.org
 0.0.0.0 amp-kiplinger-com.cdn.ampproject.org
 0.0.0.0 amp-knowyourmeme-com.cdn.ampproject.org
 0.0.0.0 amp-knoxnews-com.cdn.ampproject.org
@@ -184,6 +186,7 @@
 0.0.0.0 amp-sport360-com.cdn.ampproject.org
 0.0.0.0 amp-star--telegram-com.cdn.ampproject.org
 0.0.0.0 amp-strana-ua.cdn.ampproject.org
+0.0.0.0 amp-tennessean-com.cdn.ampproject.org
 0.0.0.0 amp-theadvertiser-com.cdn.ampproject.org
 0.0.0.0 amp-theguardian-com.cdn.ampproject.org
 0.0.0.0 amp-thestate-com.cdn.ampproject.org
@@ -345,6 +348,7 @@
 0.0.0.0 images-genius-com.cdn.ampproject.org
 0.0.0.0 images-jpost-com.cdn.ampproject.org
 0.0.0.0 images-lady-mail-ru.cdn.ampproject.org
+0.0.0.0 images-salsify-com.cdn.ampproject.org
 0.0.0.0 images-thewest-com-au.cdn.ampproject.org
 0.0.0.0 images-tmz-com.cdn.ampproject.org
 0.0.0.0 img-cinemablend-com.cdn.ampproject.org
@@ -396,6 +400,7 @@
 0.0.0.0 m-mynet-com.cdn.ampproject.org
 0.0.0.0 m-newegg-com.cdn.ampproject.org
 0.0.0.0 m-news-ngs-ru.cdn.ampproject.org
+0.0.0.0 m-paginebianche-it.cdn.ampproject.org
 0.0.0.0 m-portafolio-co.cdn.ampproject.org
 0.0.0.0 m-ratingcero-com.cdn.ampproject.org
 0.0.0.0 m-smaker-pl.cdn.ampproject.org
@@ -754,6 +759,7 @@
 0.0.0.0 www-newsweek-com.cdn.ampproject.org
 0.0.0.0 www-nikkansports-com.cdn.ampproject.org
 0.0.0.0 www-nj-com.cdn.ampproject.org
+0.0.0.0 www-noodlebarphx-com.cdn.ampproject.org
 0.0.0.0 www-nou--pou-gr.cdn.ampproject.org
 0.0.0.0 www-nwfdailynews-com.cdn.ampproject.org
 0.0.0.0 www-nytimes-com.cdn.ampproject.org
@@ -786,6 +792,7 @@
 0.0.0.0 www-sbnation-com.cdn.ampproject.org
 0.0.0.0 www-seattlepi-com.cdn.ampproject.org
 0.0.0.0 www-sebastiandaily-com.cdn.ampproject.org
+0.0.0.0 www-segodnya-ua.cdn.ampproject.org
 0.0.0.0 www-self-com.cdn.ampproject.org
 0.0.0.0 www-sezenaksu-net.cdn.ampproject.org
 0.0.0.0 www-sfgate-com.cdn.ampproject.org
@@ -811,6 +818,7 @@
 0.0.0.0 www-telegram-com.cdn.ampproject.org
 0.0.0.0 www-telesurtv-net.cdn.ampproject.org
 0.0.0.0 www-televisa-com.cdn.ampproject.org
+0.0.0.0 www-tennisworldusa-org.cdn.ampproject.org
 0.0.0.0 www-termometropolitico-it.cdn.ampproject.org
 0.0.0.0 www-theandroidsoul-com.cdn.ampproject.org
 0.0.0.0 www-theatlantic-com.cdn.ampproject.org
