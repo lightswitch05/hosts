@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-02-28T16:18:11+00:00
-# Count: 2345 domains
+# Released: 2019-03-12T13:52:03+00:00
+# Count: 2350 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1117,6 +1117,8 @@
 0.0.0.0 optvdo.com
 0.0.0.0 c.optvdo.com
 0.0.0.0 v.optvdo.com
+0.0.0.0 cobrowse.oraclecloud.com
+0.0.0.0 sc61124012us1.cobrowse.oraclecloud.com
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 analytics.paddle.com
@@ -1500,6 +1502,8 @@
 0.0.0.0 mab.data.tm-awx.com
 0.0.0.0 tmathtag.com
 0.0.0.0 topprotestsigns.com
+0.0.0.0 smetrics.toyota.com
+0.0.0.0 tags.toyota.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackjs.com
 0.0.0.0 capture.trackjs.com
@@ -1628,6 +1632,8 @@
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
+0.0.0.0 whisk.com
+0.0.0.0 cdn.whisk.com
 0.0.0.0 whoisvisiting.com
 0.0.0.0 app.whoisvisiting.com
 0.0.0.0 acquisition-tracker.wix.com
@@ -2169,12 +2175,14 @@
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 disney.tt.omtrdc.net
 0.0.0.0 dsg.tt.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
+0.0.0.0 toyota.tt.omtrdc.net
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 online-metrix.net
 0.0.0.0 aa.online-metrix.net
