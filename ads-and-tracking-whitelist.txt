@@ -204,4 +204,11 @@
 # a bunch of integers: 1000109.track.convertexperiments.com
 ^\d+\.track\.convertexperiments\.com$
 
+# allow comments for spot.im - #78
+^(\S+-)?launcher\.spot\.im$
+^spoxy-\S+\.spot\.im$
+^(\S+-)?app-cdn\.spot\.im$
+^(\S+-)?images\.spot\.im$
+
+
 
