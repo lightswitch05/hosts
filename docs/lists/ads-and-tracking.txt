@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-03-12T16:17:01+00:00
-# Count: 2351 domains
+# Released: 2019-03-12T17:30:26+00:00
+# Count: 2358 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1160,6 +1160,11 @@
 0.0.0.0 placeyourview.com
 0.0.0.0 adserver.placeyourview.com
 0.0.0.0 adserver.plastikcity.com
+0.0.0.0 playbuzz.com
+0.0.0.0 ads.playbuzz.com
+0.0.0.0 embed.playbuzz.com
+0.0.0.0 pixel.playbuzz.com
+0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 playhaven.com
 0.0.0.0 media.playhaven.com
 0.0.0.0 static-uk.plista.com
@@ -2058,6 +2063,7 @@
 0.0.0.0 stats-tm.everesttech.net
 0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 jps.evolok.net
 0.0.0.0 ezoic.net
 0.0.0.0 g.ezoic.net
 0.0.0.0 go.ezoic.net
@@ -2225,6 +2231,7 @@
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
+0.0.0.0 sc-static.net
 0.0.0.0 sharethis.net
 0.0.0.0 seg-server-lb.global.prod1.sharethis.net
 0.0.0.0 smaato.net

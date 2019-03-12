@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-03-12T16:27:44+00:00
-# Count: 35444 domains
+# Released: 2019-03-12T17:30:27+00:00
+# Count: 35534 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -16788,6 +16788,94 @@
 0.0.0.0 vic.placeyourview.com
 0.0.0.0 www.placeyourview.com
 0.0.0.0 adserver.plastikcity.com
+0.0.0.0 playbuzz.com
+0.0.0.0 ads.playbuzz.com
+0.0.0.0 alpha.playbuzz.com
+0.0.0.0 api.playbuzz.com
+0.0.0.0 api-staging.playbuzz.com
+0.0.0.0 authorization.playbuzz.com
+0.0.0.0 automation.playbuzz.com
+0.0.0.0 aws.playbuzz.com
+0.0.0.0 branded-analytics-provider.playbuzz.com
+0.0.0.0 branded-elements-events.playbuzz.com
+0.0.0.0 business.playbuzz.com
+0.0.0.0 cdn.playbuzz.com
+0.0.0.0 cta-redirect.playbuzz.com
+0.0.0.0 datacollection.playbuzz.com
+0.0.0.0 datacollection-v1.playbuzz.com
+0.0.0.0 delta.playbuzz.com
+0.0.0.0 editor.playbuzz.com
+0.0.0.0 element-viewer.playbuzz.com
+0.0.0.0 email-service.playbuzz.com
+0.0.0.0 embed.playbuzz.com
+0.0.0.0 engage.playbuzz.com
+0.0.0.0 feed.playbuzz.com
+0.0.0.0 formats.playbuzz.com
+0.0.0.0 go.playbuzz.com
+0.0.0.0 gr.playbuzz.com
+0.0.0.0 iis-1.playbuzz.com
+0.0.0.0 iis-2.playbuzz.com
+0.0.0.0 iis-3.playbuzz.com
+0.0.0.0 iis-4.playbuzz.com
+0.0.0.0 iis-5.playbuzz.com
+0.0.0.0 img.playbuzz.com
+0.0.0.0 impact.playbuzz.com
+0.0.0.0 impact-proxy.playbuzz.com
+0.0.0.0 impact-stats.playbuzz.com
+0.0.0.0 instantarticles.playbuzz.com
+0.0.0.0 landing.playbuzz.com
+0.0.0.0 mail.playbuzz.com
+0.0.0.0 mcd.playbuzz.com
+0.0.0.0 mcd-playlist.playbuzz.com
+0.0.0.0 mcd-sdk.playbuzz.com
+0.0.0.0 mcd-vid.playbuzz.com
+0.0.0.0 me.playbuzz.com
+0.0.0.0 moderation.playbuzz.com
+0.0.0.0 mon-oo.playbuzz.com
+0.0.0.0 node.playbuzz.com
+0.0.0.0 oembed.playbuzz.com
+0.0.0.0 pb-branded-element.playbuzz.com
+0.0.0.0 pb-play.playbuzz.com
+0.0.0.0 pb-story.playbuzz.com
+0.0.0.0 pixel.playbuzz.com
+0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 prd-collector-anon-video.playbuzz.com
+0.0.0.0 prd-collector-auth.playbuzz.com
+0.0.0.0 publishers.playbuzz.com
+0.0.0.0 r.playbuzz.com
+0.0.0.0 res-format-convo.playbuzz.com
+0.0.0.0 res-format-countdown.playbuzz.com
+0.0.0.0 res-format-create.playbuzz.com
+0.0.0.0 res-format-list.playbuzz.com
+0.0.0.0 res-format-shorts.playbuzz.com
+0.0.0.0 res-format-snap-article.playbuzz.com
+0.0.0.0 res-format-story.playbuzz.com
+0.0.0.0 res-format-video-snaps.playbuzz.com
+0.0.0.0 res-homepage.playbuzz.com
+0.0.0.0 rest-api-v2.playbuzz.com
+0.0.0.0 restapi.playbuzz.com
+0.0.0.0 revenue-dashboard.playbuzz.com
+0.0.0.0 sandbox-1.playbuzz.com
+0.0.0.0 sandbox-3.playbuzz.com
+0.0.0.0 sandbox-4.playbuzz.com
+0.0.0.0 sandbox-5.playbuzz.com
+0.0.0.0 site.playbuzz.com
+0.0.0.0 social-data-collection.playbuzz.com
+0.0.0.0 ssp.playbuzz.com
+0.0.0.0 stg-authorization.playbuzz.com
+0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 stream.playbuzz.com
+0.0.0.0 tag-manager.playbuzz.com
+0.0.0.0 testing.playbuzz.com
+0.0.0.0 updates.playbuzz.com
+0.0.0.0 us.playbuzz.com
+0.0.0.0 user.playbuzz.com
+0.0.0.0 vid.playbuzz.com
+0.0.0.0 vid1.playbuzz.com
+0.0.0.0 video.playbuzz.com
+0.0.0.0 voting.playbuzz.com
+0.0.0.0 www.playbuzz.com
+0.0.0.0 yapi.playbuzz.com
 0.0.0.0 playhaven.com
 0.0.0.0 adhtml-chirpads.playhaven.com
 0.0.0.0 admin-api.playhaven.com
@@ -29731,6 +29819,7 @@
 0.0.0.0 tp00-va5.everesttech.net
 0.0.0.0 va5.everesttech.net
 0.0.0.0 ync-tm.everesttech.net
+0.0.0.0 jps.evolok.net
 0.0.0.0 ezoic.net
 0.0.0.0 angelfire-com.ezoic.net
 0.0.0.0 cdn.ezoic.net
@@ -33563,6 +33652,7 @@
 0.0.0.0 tca-82.tca-rtb1.rfihub.net
 0.0.0.0 txa-rtb1.rfihub.net
 0.0.0.0 vtyo-rtb1.rfihub.net
+0.0.0.0 sc-static.net
 0.0.0.0 sharethis.net
 0.0.0.0 inline-api-server-elb.lb.dev1.sharethis.net
 0.0.0.0 countserver.k.sharethis.net
