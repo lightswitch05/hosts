@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-03-13T12:42:17+00:00
-# Count: 35567 domains
+# Released: 2019-03-13T12:50:39+00:00
+# Count: 35676 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -33,6 +33,14 @@
 0.0.0.0 proxy.ascend.ai
 0.0.0.0 rt.ascend.ai
 0.0.0.0 www.ascend.ai
+0.0.0.0 native.ai
+0.0.0.0 api.native.ai
+0.0.0.0 app.native.ai
+0.0.0.0 cdn.native.ai
+0.0.0.0 data.native.ai
+0.0.0.0 delta.native.ai
+0.0.0.0 ns2.native.ai
+0.0.0.0 www.native.ai
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
@@ -11682,6 +11690,7 @@
 0.0.0.0 andrea.s3.iubenda.com
 0.0.0.0 wpbootstrap.iubenda.com
 0.0.0.0 www.iubenda.com
+0.0.0.0 jamexistence.com
 0.0.0.0 jetlore.com
 0.0.0.0 api.jetlore.com
 0.0.0.0 assets.jetlore.com
@@ -31100,6 +31109,106 @@
 0.0.0.0 sdn01.mzbcdn.net
 0.0.0.0 www.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
+0.0.0.0 nuggad.net
+0.0.0.0 366ebra.nuggad.net
+0.0.0.0 4wmp.nuggad.net
+0.0.0.0 71i.nuggad.net
+0.0.0.0 71iapp.nuggad.net
+0.0.0.0 abcmobno.nuggad.net
+0.0.0.0 abcmobno-s.nuggad.net
+0.0.0.0 abcno.nuggad.net
+0.0.0.0 ad-choices.nuggad.net
+0.0.0.0 ad-s.nuggad.net
+0.0.0.0 ad-sync.nuggad.net
+0.0.0.0 adasta.nuggad.net
+0.0.0.0 adcloud-dp.nuggad.net
+0.0.0.0 adform-sync.nuggad.net
+0.0.0.0 adscale.nuggad.net
+0.0.0.0 adselect.nuggad.net
+0.0.0.0 adverline.nuggad.net
+0.0.0.0 adverline-s.nuggad.net
+0.0.0.0 advideum.nuggad.net
+0.0.0.0 advideum-s.nuggad.net
+0.0.0.0 adweb.nuggad.net
+0.0.0.0 adweb-s.nuggad.net
+0.0.0.0 aeadv-dp.nuggad.net
+0.0.0.0 agora.nuggad.net
+0.0.0.0 airberlinde.nuggad.net
+0.0.0.0 airberlinde-dp.nuggad.net
+0.0.0.0 allermediamobse.nuggad.net
+0.0.0.0 allermediase.nuggad.net
+0.0.0.0 amdk.nuggad.net
+0.0.0.0 amediamobno.nuggad.net
+0.0.0.0 amfi.nuggad.net
+0.0.0.0 ammobfi.nuggad.net
+0.0.0.0 amno-dp.nuggad.net
+0.0.0.0 analyser.nuggad.net
+0.0.0.0 antenne.nuggad.net
+0.0.0.0 antennereunion.nuggad.net
+0.0.0.0 aol.nuggad.net
+0.0.0.0 api.nuggad.net
+0.0.0.0 appn-sync.nuggad.net
+0.0.0.0 as.nuggad.net
+0.0.0.0 asmi-mobile.nuggad.net
+0.0.0.0 asqandreamedia.nuggad.net
+0.0.0.0 asqbayard.nuggad.net
+0.0.0.0 asqccm.nuggad.net
+0.0.0.0 asqdailymotion.nuggad.net
+0.0.0.0 asqeborealis.nuggad.net
+0.0.0.0 asqlemonde.nuggad.net
+0.0.0.0 asqlesechos.nuggad.net
+0.0.0.0 asqliberation.nuggad.net
+0.0.0.0 asqm6.nuggad.net
+0.0.0.0 asqmadein.nuggad.net
+0.0.0.0 asqmedia365.nuggad.net
+0.0.0.0 asqmediaobs.nuggad.net
+0.0.0.0 asqmeteofrance.nuggad.net
+0.0.0.0 asqneweb.nuggad.net
+0.0.0.0 asqplaneteverte.nuggad.net
+0.0.0.0 asqprisma.nuggad.net
+0.0.0.0 asqregieobs.nuggad.net
+0.0.0.0 asqrtl.nuggad.net
+0.0.0.0 asqvice.nuggad.net
+0.0.0.0 axdget-sync.nuggad.net
+0.0.0.0 axdsnc-sync.nuggad.net
+0.0.0.0 bat-adler.nuggad.net
+0.0.0.0 bat-bvb.nuggad.net
+0.0.0.0 bat-falkensteiner.nuggad.net
+0.0.0.0 bat-gym.nuggad.net
+0.0.0.0 bat-mcbuero.nuggad.net
+0.0.0.0 bat-mps.nuggad.net
+0.0.0.0 bat-schwab.nuggad.net
+0.0.0.0 bbelements-s.nuggad.net
+0.0.0.0 ci.nuggad.net
+0.0.0.0 crm.nuggad.net
+0.0.0.0 dataexchangerpl.nuggad.net
+0.0.0.0 dataexchangerpl-dp.nuggad.net
+0.0.0.0 datmean-sync.nuggad.net
+0.0.0.0 dbadk.nuggad.net
+0.0.0.0 define.nuggad.net
+0.0.0.0 derstandard.nuggad.net
+0.0.0.0 derstandard-s.nuggad.net
+0.0.0.0 dfds.nuggad.net
+0.0.0.0 dfds-s.nuggad.net
+0.0.0.0 dp-sync.nuggad.net
+0.0.0.0 dpcom.nuggad.net
+0.0.0.0 dpg.nuggad.net
+0.0.0.0 ebayit-dp.nuggad.net
+0.0.0.0 ebmobdk.nuggad.net
+0.0.0.0 efilialede-dp-s.nuggad.net
+0.0.0.0 f.nuggad.net
+0.0.0.0 ip-s.nuggad.net
+0.0.0.0 lpm-boursier.nuggad.net
+0.0.0.0 lpm-slate.nuggad.net
+0.0.0.0 nrjinapp.nuggad.net
+0.0.0.0 om.nuggad.net
+0.0.0.0 oms.nuggad.net
+0.0.0.0 pbtgx-u-ds.nuggad.net
+0.0.0.0 pbtngx-u-ds.nuggad.net
+0.0.0.0 si.nuggad.net
+0.0.0.0 smartclip.nuggad.net
+0.0.0.0 survey.nuggad.net
+0.0.0.0 webedia-fr.nuggad.net
 0.0.0.0 omtrdc.net
 0.0.0.0 collection.sv.d1.omtrdc.net
 0.0.0.0 delivery.sv.d1.omtrdc.net

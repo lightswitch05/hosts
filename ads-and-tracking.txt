@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-03-13T12:42:17+00:00
-# Count: 2360 domains
+# Released: 2019-03-13T12:50:39+00:00
+# Count: 2365 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -28,6 +28,8 @@
 0.0.0.0 media.ascend.ai
 0.0.0.0 participant.ascend.ai
 0.0.0.0 proxy.ascend.ai
+0.0.0.0 native.ai
+0.0.0.0 cdn.native.ai
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
@@ -793,6 +795,7 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 hits.iubenda.com
 0.0.0.0 hits-i.iubenda.com
+0.0.0.0 jamexistence.com
 0.0.0.0 jetlore.com
 0.0.0.0 assets.jetlore.com
 0.0.0.0 jivox.com
@@ -2147,6 +2150,8 @@
 0.0.0.0 mzbcdn.net
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
+0.0.0.0 nuggad.net
+0.0.0.0 southernx.nuggad.net
 0.0.0.0 omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
