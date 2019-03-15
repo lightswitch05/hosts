@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-03-15T17:37:49+00:00
-# Count: 2377 domains
+# Released: 2019-03-15T19:55:29+00:00
+# Count: 2382 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -401,6 +401,8 @@
 0.0.0.0 blismedia.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 img1.blogblog.com
+0.0.0.0 boldchat.com
+0.0.0.0 cbi.boldchat.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
 0.0.0.0 cdn.brandmetrics.com
@@ -830,6 +832,7 @@
 0.0.0.0 khingtracking.com
 0.0.0.0 adserver.khingtracking.com
 0.0.0.0 pixel.kiitties.com
+0.0.0.0 metric.kirklands.com
 0.0.0.0 kochava.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 assets.kochava.com
@@ -855,6 +858,8 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 lisnr.com
+0.0.0.0 listrakbi.com
+0.0.0.0 cdn.listrakbi.com
 0.0.0.0 livesegmentservice.com
 0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 cdn.lmiutil.com
