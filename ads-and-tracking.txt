@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-03-14T19:35:14+00:00
-# Count: 2370 domains
+# Released: 2019-03-15T14:57:54+00:00
+# Count: 2375 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -110,9 +110,11 @@
 0.0.0.0 adbiq.com
 0.0.0.0 adbull.com
 0.0.0.0 adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 director.adcolony.com
 0.0.0.0 iosads24.adcolony.com
+0.0.0.0 wd.adcolony.com
 0.0.0.0 adcrowd.com
 0.0.0.0 addevent.com
 0.0.0.0 addragon.com
@@ -653,6 +655,9 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 gateway.foresee.com
 0.0.0.0 record.foresee.com
+0.0.0.0 forter.com
+0.0.0.0 2c5de9923d36.cdn4.forter.com
+0.0.0.0 null.cdn4.forter.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fqtag.com
 0.0.0.0 s.fqtag.com
