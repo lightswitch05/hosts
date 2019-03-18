@@ -36,6 +36,7 @@
 
 # click subdomains for exacttarget.com
 ^click\.\S*exacttarget\.com$
+^\S+\.login\.exacttarget\.com$
 
 # engineering blog
 ^engineering\.curalate\.com$
@@ -215,5 +216,14 @@
 
 # ows-bo-app04-06.boldchat.com
 ^\S+-\d\d\.boldchat\.com
+
+# 5aabc021199544001546d309.tracker.adotmob.com
+^\S{24}\.tracker\.adotmob\.com$
+
+# 970aa1c49a6d2536125ee6cb9202dda7.api.appsee.com
+^\S{32}\.api\.appsee\.com$
+
+# 537ecfa500821d720b000005.api.5rocks.io
+^\S{24}\.api\.5rocks\.io$
 
 
