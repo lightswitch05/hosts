@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-03-17T10:57:18+00:00
-# Count: 35850 domains
+# Released: 2019-03-18T12:48:22+00:00
+# Count: 35855 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -140,6 +140,7 @@
 0.0.0.0 trk.adpxl.co
 0.0.0.0 wpg.adpxl.co
 0.0.0.0 www.adpxl.co
+0.0.0.0 metrics.aeon.co
 0.0.0.0 clinch.co
 0.0.0.0 cdn.clinch.co
 0.0.0.0 dyn-cdn.clinch.co
@@ -30343,8 +30344,12 @@
 0.0.0.0 vice-useast.gscontxt.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hsadpixel.net
+0.0.0.0 hsadspixel.net
+0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
+0.0.0.0 hsleadflows.net
+0.0.0.0 js.hsleadflows.net
 0.0.0.0 analytics.ihgip.net
 0.0.0.0 www.analytics.ihgip.net
 0.0.0.0 imprev.net
