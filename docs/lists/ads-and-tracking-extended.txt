@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-03-18T13:52:41+00:00
-# Count: 35560 domains
+# Released: 2019-03-20T13:16:03+00:00
+# Count: 35565 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -4951,7 +4951,12 @@
 0.0.0.0 tracking.bucksense.com
 0.0.0.0 tracking2.bucksense.com
 0.0.0.0 www.bucksense.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 campaigns.bugsnag.com
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 upload.bugsnag.com
 0.0.0.0 bung.com
 0.0.0.0 bga.bung.com
 0.0.0.0 bnaportal.n.a.dir.bung.com
