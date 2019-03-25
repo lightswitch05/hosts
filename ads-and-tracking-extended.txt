@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-03-21T12:58:05+00:00
-# Count: 35567 domains
+# Released: 2019-03-25T17:30:33+00:00
+# Count: 35569 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -20506,6 +20506,8 @@
 0.0.0.0 taglocker.target.com
 0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 uat-net.technoratimedia.com
+0.0.0.0 piwik.teladoc.com
+0.0.0.0 tag-manager.teladoc.com
 0.0.0.0 tenjin.com
 0.0.0.0 email.tenjin.com
 0.0.0.0 ios.tenjin.com
