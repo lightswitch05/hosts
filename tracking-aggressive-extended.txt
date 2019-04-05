@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-04-05T12:41:25+00:00
-# Count: 2833 domains
+# Released: 2019-04-05T13:10:02+00:00
+# Count: 2883 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -67,6 +67,7 @@
 0.0.0.0 apc.ugc.bazaarvoice.com
 0.0.0.0 arcteryx.ugc.bazaarvoice.com
 0.0.0.0 argos.ugc.bazaarvoice.com
+0.0.0.0 arrow.ugc.bazaarvoice.com
 0.0.0.0 asda.ugc.bazaarvoice.com
 0.0.0.0 avon-ru.ugc.bazaarvoice.com
 0.0.0.0 avon-uk.ugc.bazaarvoice.com
@@ -116,6 +117,7 @@
 0.0.0.0 containerstore.ugc.bazaarvoice.com
 0.0.0.0 coopertire.ugc.bazaarvoice.com
 0.0.0.0 cyberport.ugc.bazaarvoice.com
+0.0.0.0 danmurphys.ugc.bazaarvoice.com
 0.0.0.0 dat.ugc.bazaarvoice.com
 0.0.0.0 davidsbridal.ugc.bazaarvoice.com
 0.0.0.0 debenhams.ugc.bazaarvoice.com
@@ -183,6 +185,7 @@
 0.0.0.0 jcrewfactory.ugc.bazaarvoice.com
 0.0.0.0 jmbruneau.ugc.bazaarvoice.com
 0.0.0.0 joesjeansreviews.ugc.bazaarvoice.com
+0.0.0.0 johndeere.ugc.bazaarvoice.com
 0.0.0.0 johnlewis.ugc.bazaarvoice.com
 0.0.0.0 karstadt.ugc.bazaarvoice.com
 0.0.0.0 kaspersky.ugc.bazaarvoice.com
@@ -216,10 +219,12 @@
 0.0.0.0 missselfridge.ugc.bazaarvoice.com
 0.0.0.0 mmd.ugc.bazaarvoice.com
 0.0.0.0 mountainhardwear.ugc.bazaarvoice.com
+0.0.0.0 nationwide.ugc.bazaarvoice.com
 0.0.0.0 ncl.ugc.bazaarvoice.com
 0.0.0.0 nikon.ugc.bazaarvoice.com
 0.0.0.0 norauto.ugc.bazaarvoice.com
 0.0.0.0 nordstrom.ugc.bazaarvoice.com
+0.0.0.0 noritake.ugc.bazaarvoice.com
 0.0.0.0 northerntool.ugc.bazaarvoice.com
 0.0.0.0 ob.ugc.bazaarvoice.com
 0.0.0.0 odysseygolf.ugc.bazaarvoice.com
@@ -326,6 +331,7 @@
 0.0.0.0 internal.chatid.com
 0.0.0.0 internal-analytics.chatid.com
 0.0.0.0 ls.chatid.com
+0.0.0.0 ls1x.chatid.com
 0.0.0.0 mb.chatid.com
 0.0.0.0 support.chatid.com
 0.0.0.0 www.support.chatid.com
@@ -443,6 +449,7 @@
 0.0.0.0 ea-atl.exacttarget.com
 0.0.0.0 ea-dfw5.exacttarget.com
 0.0.0.0 ea-ind.exacttarget.com
+0.0.0.0 ea-las.exacttarget.com
 0.0.0.0 email.exacttarget.com
 0.0.0.0 etappx.exacttarget.com
 0.0.0.0 etinswdem01.exacttarget.com
@@ -502,8 +509,10 @@
 0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
 0.0.0.0 mcbkmr7kl7clfww8xvcjnp1mvht4.login.exacttarget.com
 0.0.0.0 mcbxb5x9l3891h1jz4j8hrp1gls0.login.exacttarget.com
+0.0.0.0 mchlvl7-nh5pbjzs0-4wgl5wgnd1.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
 0.0.0.0 mcq3v6k8917x8lg5w6s-94jck1r4.login.exacttarget.com
+0.0.0.0 mcvsb3gbtj9sn8ltvq3j4l-bw21y.login.exacttarget.com
 0.0.0.0 mcx915krlq4sx-35t6rmswbqw924.login.exacttarget.com
 0.0.0.0 s50.login.exacttarget.com
 0.0.0.0 login-qa1.exacttarget.com
@@ -528,13 +537,16 @@
 0.0.0.0 mcdemo.exacttarget.com
 0.0.0.0 meet.exacttarget.com
 0.0.0.0 members.exacttarget.com
+0.0.0.0 ag125.mta.exacttarget.com
 0.0.0.0 ai170.mta.exacttarget.com
 0.0.0.0 av95.mta.exacttarget.com
 0.0.0.0 ba3.mta.exacttarget.com
+0.0.0.0 bk190.mta.exacttarget.com
 0.0.0.0 br33.mta.exacttarget.com
 0.0.0.0 cc15.mta.exacttarget.com
 0.0.0.0 cd152.mta.exacttarget.com
 0.0.0.0 ce157.mta.exacttarget.com
+0.0.0.0 ce198.mta.exacttarget.com
 0.0.0.0 cj135.mta.exacttarget.com
 0.0.0.0 cl125.mta.exacttarget.com
 0.0.0.0 cn5.mta.exacttarget.com
@@ -546,6 +558,7 @@
 0.0.0.0 cr121.mta.exacttarget.com
 0.0.0.0 cr13.mta.exacttarget.com
 0.0.0.0 cr144.mta.exacttarget.com
+0.0.0.0 cr172.mta.exacttarget.com
 0.0.0.0 cr184.mta.exacttarget.com
 0.0.0.0 cr196.mta.exacttarget.com
 0.0.0.0 cr21.mta.exacttarget.com
@@ -564,14 +577,20 @@
 0.0.0.0 cw78.mta.exacttarget.com
 0.0.0.0 cw82.mta.exacttarget.com
 0.0.0.0 cz128.mta.exacttarget.com
+0.0.0.0 cz178.mta.exacttarget.com
 0.0.0.0 cz194.mta.exacttarget.com
 0.0.0.0 cz40.mta.exacttarget.com
 0.0.0.0 db102.mta.exacttarget.com
 0.0.0.0 db146.mta.exacttarget.com
 0.0.0.0 db152.mta.exacttarget.com
+0.0.0.0 db29.mta.exacttarget.com
 0.0.0.0 db40.mta.exacttarget.com
+0.0.0.0 db60.mta.exacttarget.com
+0.0.0.0 db90.mta.exacttarget.com
 0.0.0.0 de100.mta.exacttarget.com
 0.0.0.0 de119.mta.exacttarget.com
+0.0.0.0 de129.mta.exacttarget.com
+0.0.0.0 de168.mta.exacttarget.com
 0.0.0.0 de184.mta.exacttarget.com
 0.0.0.0 de30.mta.exacttarget.com
 0.0.0.0 de55.mta.exacttarget.com
@@ -606,18 +625,26 @@
 0.0.0.0 el69.mta.exacttarget.com
 0.0.0.0 el70.mta.exacttarget.com
 0.0.0.0 fg158.mta.exacttarget.com
+0.0.0.0 fg183.mta.exacttarget.com
 0.0.0.0 fg203.mta.exacttarget.com
 0.0.0.0 fg34.mta.exacttarget.com
 0.0.0.0 fg40.mta.exacttarget.com
 0.0.0.0 fg56.mta.exacttarget.com
 0.0.0.0 fg84.mta.exacttarget.com
 0.0.0.0 fg92.mta.exacttarget.com
+0.0.0.0 fq112.mta.exacttarget.com
+0.0.0.0 fq139.mta.exacttarget.com
 0.0.0.0 fq141.mta.exacttarget.com
+0.0.0.0 fq148.mta.exacttarget.com
+0.0.0.0 fq167.mta.exacttarget.com
+0.0.0.0 fq17.mta.exacttarget.com
+0.0.0.0 fq170.mta.exacttarget.com
 0.0.0.0 fq180.mta.exacttarget.com
 0.0.0.0 fq197.mta.exacttarget.com
 0.0.0.0 fq201.mta.exacttarget.com
 0.0.0.0 fq215.mta.exacttarget.com
 0.0.0.0 fq25.mta.exacttarget.com
+0.0.0.0 fq43.mta.exacttarget.com
 0.0.0.0 fq9.mta.exacttarget.com
 0.0.0.0 gc87.mta.exacttarget.com
 0.0.0.0 nexus.exacttarget.com
@@ -913,6 +940,7 @@
 0.0.0.0 xmpp.exacttarget.com
 0.0.0.0 xtinmta007.exacttarget.com
 0.0.0.0 xtinmta02-29.exacttarget.com
+0.0.0.0 xtinmta02-73.exacttarget.com
 0.0.0.0 xtinmta03-148.exacttarget.com
 0.0.0.0 xtinmta03-48.exacttarget.com
 0.0.0.0 flexispy.com
@@ -1409,10 +1437,12 @@
 0.0.0.0 assets-eu.hellomedian.com
 0.0.0.0 blog.hellomedian.com
 0.0.0.0 www.blog.hellomedian.com
+0.0.0.0 cdn.hellomedian.com
 0.0.0.0 creuset.hellomedian.com
 0.0.0.0 demo.hellomedian.com
 0.0.0.0 developer.hellomedian.com
 0.0.0.0 js.hellomedian.com
+0.0.0.0 js-cdn.hellomedian.com
 0.0.0.0 js-dev.hellomedian.com
 0.0.0.0 landing.hellomedian.com
 0.0.0.0 meeting.hellomedian.com
@@ -1420,6 +1450,7 @@
 0.0.0.0 socket-az.hellomedian.com
 0.0.0.0 socket-rtc.hellomedian.com
 0.0.0.0 staging.hellomedian.com
+0.0.0.0 status.hellomedian.com
 0.0.0.0 www.hellomedian.com
 0.0.0.0 livechatinc.com
 0.0.0.0 accounts.livechatinc.com
@@ -1433,6 +1464,7 @@
 0.0.0.0 appstatic2.livechatinc.com
 0.0.0.0 assets.livechatinc.com
 0.0.0.0 beta.livechatinc.com
+0.0.0.0 bigcommerce.livechatinc.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn-akamai.livechatinc.com
 0.0.0.0 cdn-ec.livechatinc.com
@@ -1576,6 +1608,7 @@
 0.0.0.0 ct247.dsr.livefyre.com
 0.0.0.0 ct248.dsr.livefyre.com
 0.0.0.0 ct249.dsr.livefyre.com
+0.0.0.0 ct250.dsr.livefyre.com
 0.0.0.0 lc48.dsr.livefyre.com
 0.0.0.0 lc49.dsr.livefyre.com
 0.0.0.0 lc50.dsr.livefyre.com
@@ -1701,6 +1734,7 @@
 0.0.0.0 ct7-test.maxmind.com
 0.0.0.0 ct8-test.maxmind.com
 0.0.0.0 ct9-test.maxmind.com
+0.0.0.0 datareview.maxmind.com
 0.0.0.0 dev.maxmind.com
 0.0.0.0 device.maxmind.com
 0.0.0.0 download.maxmind.com
@@ -1913,6 +1947,7 @@
 0.0.0.0 blog.pingdom.com
 0.0.0.0 borntohack.pingdom.com
 0.0.0.0 calendar.pingdom.com
+0.0.0.0 cdn.pingdom.com
 0.0.0.0 dev-tms-tester.pingdom.com
 0.0.0.0 dnscheck.pingdom.com
 0.0.0.0 docs.pingdom.com
@@ -1963,6 +1998,8 @@
 0.0.0.0 s4037.pingdom.com
 0.0.0.0 s4041.pingdom.com
 0.0.0.0 s4044.pingdom.com
+0.0.0.0 s4047.pingdom.com
+0.0.0.0 s4051.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s411.pingdom.com
 0.0.0.0 s412.pingdom.com
@@ -2043,6 +2080,7 @@
 0.0.0.0 cw1c3i.providesupport.com
 0.0.0.0 cw1c4b.providesupport.com
 0.0.0.0 cw1c4i.providesupport.com
+0.0.0.0 cw1do-sg.providesupport.com
 0.0.0.0 cw2c1b.providesupport.com
 0.0.0.0 cw2c1i.providesupport.com
 0.0.0.0 cw2c2b.providesupport.com
@@ -2083,6 +2121,7 @@
 0.0.0.0 jw1c3i.providesupport.com
 0.0.0.0 jw1c4b.providesupport.com
 0.0.0.0 jw1c4i.providesupport.com
+0.0.0.0 jw1do-sg.providesupport.com
 0.0.0.0 jw2c1b.providesupport.com
 0.0.0.0 jw2c1i.providesupport.com
 0.0.0.0 jw2c2b.providesupport.com
@@ -2341,6 +2380,7 @@
 0.0.0.0 i2.cdn.turner.com
 0.0.0.0 iphone-cnn.cdn.turner.com
 0.0.0.0 iphone-nba.cdn.turner.com
+0.0.0.0 marchmadness.cdn.turner.com
 0.0.0.0 nba.cdn.turner.com
 0.0.0.0 nba-ssl.cdn.turner.com
 0.0.0.0 nba-tntovertime-hls.cdn.turner.com
@@ -2440,6 +2480,7 @@
 0.0.0.0 stagingv2.spot.im
 0.0.0.0 status.spot.im
 0.0.0.0 support.spot.im
+0.0.0.0 t1-spoxy.spot.im
 0.0.0.0 tol-spoxy.spot.im
 0.0.0.0 topics.spot.im
 0.0.0.0 tracker.spot.im
@@ -2523,6 +2564,7 @@
 0.0.0.0 connector-cb.gomoxie.solutions
 0.0.0.0 connector-coned.gomoxie.solutions
 0.0.0.0 connector-conedtest.gomoxie.solutions
+0.0.0.0 connector-ctfs.gomoxie.solutions
 0.0.0.0 connector-essex.gomoxie.solutions
 0.0.0.0 connector-flowers.gomoxie.solutions
 0.0.0.0 connector-hawkincentives.gomoxie.solutions
@@ -2558,6 +2600,7 @@
 0.0.0.0 events-michaelkorsit.gomoxie.solutions
 0.0.0.0 events-michaelkorstest.gomoxie.solutions
 0.0.0.0 events-michaelkorsuk.gomoxie.solutions
+0.0.0.0 events-norton.gomoxie.solutions
 0.0.0.0 events-nortontest.gomoxie.solutions
 0.0.0.0 events-nutrisystem.gomoxie.solutions
 0.0.0.0 events-peoples.gomoxie.solutions
@@ -2587,8 +2630,10 @@
 0.0.0.0 identity-michaelkorsde.gomoxie.solutions
 0.0.0.0 identity-michaelkorses.gomoxie.solutions
 0.0.0.0 identity-michaelkorseu.gomoxie.solutions
+0.0.0.0 identity-michaelkorsfr.gomoxie.solutions
 0.0.0.0 identity-michaelkorsit.gomoxie.solutions
 0.0.0.0 identity-michaelkorsuk.gomoxie.solutions
+0.0.0.0 identity-norton.gomoxie.solutions
 0.0.0.0 identity-nortontest.gomoxie.solutions
 0.0.0.0 identity-peoples.gomoxie.solutions
 0.0.0.0 identity-rbc.gomoxie.solutions
@@ -2599,6 +2644,7 @@
 0.0.0.0 identity-southbeachdiet.gomoxie.solutions
 0.0.0.0 identity-synchrony.gomoxie.solutions
 0.0.0.0 identity-usaaeligibility.gomoxie.solutions
+0.0.0.0 identity-usaahomeowners.gomoxie.solutions
 0.0.0.0 identity-usaaumbrella.gomoxie.solutions
 0.0.0.0 identity-vitacost.gomoxie.solutions
 0.0.0.0 identity-yankeecandle.gomoxie.solutions
@@ -2619,8 +2665,10 @@
 0.0.0.0 log-michaelkorsca.gomoxie.solutions
 0.0.0.0 log-michaelkorsde.gomoxie.solutions
 0.0.0.0 log-michaelkorseu.gomoxie.solutions
+0.0.0.0 log-michaelkorsfr.gomoxie.solutions
 0.0.0.0 log-michaelkorsit.gomoxie.solutions
 0.0.0.0 log-michaelkorsuk.gomoxie.solutions
+0.0.0.0 log-norton.gomoxie.solutions
 0.0.0.0 log-nortontest.gomoxie.solutions
 0.0.0.0 log-peoples.gomoxie.solutions
 0.0.0.0 log-rbc.gomoxie.solutions
@@ -2630,6 +2678,7 @@
 0.0.0.0 log-signetjewelers.gomoxie.solutions
 0.0.0.0 log-southbeachdiet.gomoxie.solutions
 0.0.0.0 log-synchrony.gomoxie.solutions
+0.0.0.0 log-usaa.gomoxie.solutions
 0.0.0.0 log-usaaeligibility.gomoxie.solutions
 0.0.0.0 log-usaahomeowners.gomoxie.solutions
 0.0.0.0 log-usaaumbrella.gomoxie.solutions
@@ -2748,6 +2797,7 @@
 0.0.0.0 wordpress48.phdev.tawk.to
 0.0.0.0 www.wordpress48.phdev.tawk.to
 0.0.0.0 www.phdev.tawk.to
+0.0.0.0 plugins.tawk.to
 0.0.0.0 ref.tawk.to
 0.0.0.0 static-a.tawk.to
 0.0.0.0 static-v.tawk.to
