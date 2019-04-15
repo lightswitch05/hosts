@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-04-08T04:25:10+00:00
-# Count: 2885 domains
+# Released: 2019-04-15T04:25:10+00:00
+# Count: 2903 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -177,6 +177,7 @@
 0.0.0.0 hp.ugc.bazaarvoice.com
 0.0.0.0 hsamuel.ugc.bazaarvoice.com
 0.0.0.0 icebreaker.ugc.bazaarvoice.com
+0.0.0.0 idealworld.ugc.bazaarvoice.com
 0.0.0.0 insinkerator.ugc.bazaarvoice.com
 0.0.0.0 intercontinental.ugc.bazaarvoice.com
 0.0.0.0 irishsetter.ugc.bazaarvoice.com
@@ -186,6 +187,7 @@
 0.0.0.0 jmbruneau.ugc.bazaarvoice.com
 0.0.0.0 joesjeansreviews.ugc.bazaarvoice.com
 0.0.0.0 johndeere.ugc.bazaarvoice.com
+0.0.0.0 johnfrieda.ugc.bazaarvoice.com
 0.0.0.0 johnlewis.ugc.bazaarvoice.com
 0.0.0.0 karstadt.ugc.bazaarvoice.com
 0.0.0.0 kaspersky.ugc.bazaarvoice.com
@@ -211,6 +213,7 @@
 0.0.0.0 lumens.ugc.bazaarvoice.com
 0.0.0.0 macys.ugc.bazaarvoice.com
 0.0.0.0 madewell.ugc.bazaarvoice.com
+0.0.0.0 magento.ugc.bazaarvoice.com
 0.0.0.0 magpie-static.ugc.bazaarvoice.com
 0.0.0.0 marriott.ugc.bazaarvoice.com
 0.0.0.0 matalan.ugc.bazaarvoice.com
@@ -246,6 +249,7 @@
 0.0.0.0 pumajapan.ugc.bazaarvoice.com
 0.0.0.0 qvc.ugc.bazaarvoice.com
 0.0.0.0 redwingheritage.ugc.bazaarvoice.com
+0.0.0.0 reebokglobal.ugc.bazaarvoice.com
 0.0.0.0 reebokjp.ugc.bazaarvoice.com
 0.0.0.0 restaurant.ugc.bazaarvoice.com
 0.0.0.0 ridgid.ugc.bazaarvoice.com
@@ -559,6 +563,7 @@
 0.0.0.0 cr121.mta.exacttarget.com
 0.0.0.0 cr13.mta.exacttarget.com
 0.0.0.0 cr144.mta.exacttarget.com
+0.0.0.0 cr146.mta.exacttarget.com
 0.0.0.0 cr172.mta.exacttarget.com
 0.0.0.0 cr184.mta.exacttarget.com
 0.0.0.0 cr196.mta.exacttarget.com
@@ -585,6 +590,7 @@
 0.0.0.0 db102.mta.exacttarget.com
 0.0.0.0 db146.mta.exacttarget.com
 0.0.0.0 db152.mta.exacttarget.com
+0.0.0.0 db167.mta.exacttarget.com
 0.0.0.0 db29.mta.exacttarget.com
 0.0.0.0 db40.mta.exacttarget.com
 0.0.0.0 db60.mta.exacttarget.com
@@ -647,6 +653,7 @@
 0.0.0.0 fq215.mta.exacttarget.com
 0.0.0.0 fq25.mta.exacttarget.com
 0.0.0.0 fq43.mta.exacttarget.com
+0.0.0.0 fq69.mta.exacttarget.com
 0.0.0.0 fq9.mta.exacttarget.com
 0.0.0.0 gc87.mta.exacttarget.com
 0.0.0.0 nexus.exacttarget.com
@@ -891,6 +898,7 @@
 0.0.0.0 mc.s8.exacttarget.com
 0.0.0.0 members.s8.exacttarget.com
 0.0.0.0 scpweb.s8.exacttarget.com
+0.0.0.0 view.s8.exacttarget.com
 0.0.0.0 s91.exacttarget.com
 0.0.0.0 image.s91.exacttarget.com
 0.0.0.0 mc.s91.exacttarget.com
@@ -2431,6 +2439,7 @@
 0.0.0.0 app-cdn.spot.im
 0.0.0.0 blog.spot.im
 0.0.0.0 cloudfront-app-cdn.spot.im
+0.0.0.0 cloudfront-dynamic-cdn.spot.im
 0.0.0.0 community.spot.im
 0.0.0.0 conversation-read.spot.im
 0.0.0.0 developers.spot.im
@@ -2466,6 +2475,7 @@
 0.0.0.0 sentry.spot.im
 0.0.0.0 seo.spot.im
 0.0.0.0 social-connect.spot.im
+0.0.0.0 spot-headers.spot.im
 0.0.0.0 spotops.spot.im
 0.0.0.0 spoxy-eb.spot.im
 0.0.0.0 spoxy-launcher.spot.im
@@ -2531,8 +2541,10 @@
 0.0.0.0 help.juicer.io
 0.0.0.0 staging.juicer.io
 0.0.0.0 static.juicer.io
+0.0.0.0 white-label.juicer.io
 0.0.0.0 www.juicer.io
 0.0.0.0 simpleanalytics.io
+0.0.0.0 acceptance.simpleanalytics.io
 0.0.0.0 api.simpleanalytics.io
 0.0.0.0 blog.simpleanalytics.io
 0.0.0.0 cdn.simpleanalytics.io
@@ -2574,6 +2586,7 @@
 0.0.0.0 connector-lifetimefitness.gomoxie.solutions
 0.0.0.0 connector-michaelkors.gomoxie.solutions
 0.0.0.0 connector-michaelkorsuk.gomoxie.solutions
+0.0.0.0 connector-norton.gomoxie.solutions
 0.0.0.0 connector-peoples.gomoxie.solutions
 0.0.0.0 connector-rcn.gomoxie.solutions
 0.0.0.0 connector-sandals.gomoxie.solutions
@@ -2809,6 +2822,11 @@
 0.0.0.0 vs1.tawk.to
 0.0.0.0 vs10.tawk.to
 0.0.0.0 vs100.tawk.to
+0.0.0.0 vs101.tawk.to
+0.0.0.0 vs102.tawk.to
+0.0.0.0 vs103.tawk.to
+0.0.0.0 vs104.tawk.to
+0.0.0.0 vs105.tawk.to
 0.0.0.0 vs11.tawk.to
 0.0.0.0 vs12.tawk.to
 0.0.0.0 vs13.tawk.to
