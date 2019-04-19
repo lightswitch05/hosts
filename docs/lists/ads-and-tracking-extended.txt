@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-04-18T13:24:57+00:00
-# Count: 37486 domains
+# Released: 2019-04-19T12:00:32+00:00
+# Count: 37490 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -7618,6 +7618,8 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 www.smetrics.cnn.com
+0.0.0.0 analytics.cohesionapps.com
+0.0.0.0 staging.analytics.cohesionapps.com
 0.0.0.0 pixel.collosteam.com
 0.0.0.0 colossusssp.com
 0.0.0.0 node1.colossusssp.com
@@ -10988,6 +10990,7 @@
 0.0.0.0 zogsports.getambassador.com
 0.0.0.0 zottosleep.getambassador.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 tag.getdrip.com
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
@@ -34721,6 +34724,7 @@
 0.0.0.0 collector-pxtneymj9v.perimeterx.net
 0.0.0.0 collector-pxtsf7wcbr.perimeterx.net
 0.0.0.0 collector-pxu6b0qd2s.perimeterx.net
+0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 collector-pxumsss5ar.perimeterx.net
 0.0.0.0 collector-pxur63h57z.perimeterx.net
 0.0.0.0 collector-pxw587i9y4.perimeterx.net
