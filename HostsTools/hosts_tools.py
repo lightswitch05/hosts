@@ -160,14 +160,13 @@ def find_subdomains(domain: str, verbose: bool = False) -> Set[str]:
     try:
         req = requests.get(url, headers={
             'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0'
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0'
         })
         if req.status_code != 200:
             print('Error received from crt.sh: ' + req.text)
         else:
             try:
-                content = req.content.decode('utf-8')
-                data = json.loads("[{}]".format(content.replace('}{', '},{')))
+                data = json.loads(req.content.decode('utf-8'))
                 for key, value in enumerate(data):
                     if 'name_value' in value:
                         found_domain = value['name_value'].lower().strip()

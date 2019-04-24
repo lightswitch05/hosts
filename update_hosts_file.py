@@ -86,6 +86,7 @@ def crt_update(main_domains: Set[str], verbose: bool):
         print('Searching: %s' % domain)
         found_domains = hosts_tools.find_subdomains(domain, verbose)
         found.update(found_domains)
+        found.update(main_domains)
         print('    Found: %s' % (len(found_domains) - 1))
         print_progress(index, len(lookup_domains))
     return found
@@ -100,6 +101,7 @@ def virustotal_update(main_domains: Set[str], api_key: str, verbose: bool):
         print('Searching: %s' % domain)
         found_domains = hosts_tools.virustotal_find_subdomain(domain, api_key, verbose)
         found.update(found_domains)
+        found.update(main_domains)
         print('    Found: %s' % (len(found_domains) - 1))
         print_progress(index, len(lookup_domains))
     return found
