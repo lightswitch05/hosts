@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-04-24T15:02:58+00:00
-# Count: 37497 domains
+# Released: 2019-04-25T12:35:16+00:00
+# Count: 37518 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -8714,6 +8714,27 @@
 0.0.0.0 vcm-match.dotomi.com
 0.0.0.0 www.dotomi.com
 0.0.0.0 zedo-match.dotomi.com
+0.0.0.0 doubleclick.com
+0.0.0.0 advertisers.doubleclick.com
+0.0.0.0 advertisersapitest.doubleclick.com
+0.0.0.0 click.comms.doubleclick.com
+0.0.0.0 image.comms.doubleclick.com
+0.0.0.0 view.comms.doubleclick.com
+0.0.0.0 emea.doubleclick.com
+0.0.0.0 googleads.g.doubleclick.com
+0.0.0.0 logincrc.doubleclick.com
+0.0.0.0 m.doubleclick.com
+0.0.0.0 mediavisor.doubleclick.com
+0.0.0.0 ns2.doubleclick.com
+0.0.0.0 reports.doubleclick.com
+0.0.0.0 search.doubleclick.com
+0.0.0.0 static.doubleclick.com
+0.0.0.0 studio.doubleclick.com
+0.0.0.0 studioapi.doubleclick.com
+0.0.0.0 team.doubleclick.com
+0.0.0.0 www.doubleclick.com
+0.0.0.0 www2.doubleclick.com
+0.0.0.0 www3.doubleclick.com
 0.0.0.0 doubleverify.com
 0.0.0.0 analytics.doubleverify.com
 0.0.0.0 ansp.doubleverify.com
