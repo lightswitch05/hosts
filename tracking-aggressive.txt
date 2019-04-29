@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-03-13T15:29:33+00:00
-# Count: 92 domains
+# Released: 2019-04-29T13:03:42+00:00
+# Count: 93 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -46,6 +46,7 @@
 0.0.0.0 gigya.com
 0.0.0.0 cdns.gigya.com
 0.0.0.0 glympse.com
+0.0.0.0 dns.google.com
 0.0.0.0 appsitemsuggest-pa.googleapis.com
 0.0.0.0 chromecontentsuggestions-pa.googleapis.com
 0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
