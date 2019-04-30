@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-04-29T13:03:42+00:00
-# Count: 2915 domains
+# Released: 2019-04-30T17:09:43+00:00
+# Count: 2953 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -86,7 +86,9 @@
 0.0.0.0 brother-emea.ugc.bazaarvoice.com
 0.0.0.0 burton.ugc.bazaarvoice.com
 0.0.0.0 buybuybaby.ugc.bazaarvoice.com
+0.0.0.0 bvpstemplates.ugc.bazaarvoice.com
 0.0.0.0 c1.ugc.bazaarvoice.com
+0.0.0.0 c4.ugc.bazaarvoice.com
 0.0.0.0 c5.ugc.bazaarvoice.com
 0.0.0.0 c6.ugc.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
@@ -108,6 +110,7 @@
 0.0.0.0 choice.ugc.bazaarvoice.com
 0.0.0.0 choice-au.ugc.bazaarvoice.com
 0.0.0.0 clarins.ugc.bazaarvoice.com
+0.0.0.0 classicindustries.ugc.bazaarvoice.com
 0.0.0.0 coach-ssl.ugc.bazaarvoice.com
 0.0.0.0 coachuk.ugc.bazaarvoice.com
 0.0.0.0 coaststores.ugc.bazaarvoice.com
@@ -137,6 +140,7 @@
 0.0.0.0 eastbay.ugc.bazaarvoice.com
 0.0.0.0 eileenfisher.ugc.bazaarvoice.com
 0.0.0.0 elcorteingles.ugc.bazaarvoice.com
+0.0.0.0 electrolux.ugc.bazaarvoice.com
 0.0.0.0 emedco.ugc.bazaarvoice.com
 0.0.0.0 ensure.ugc.bazaarvoice.com
 0.0.0.0 epson-store.ugc.bazaarvoice.com
@@ -379,7 +383,17 @@
 0.0.0.0 akamai-san31.exacttarget.com
 0.0.0.0 akamai-san32.exacttarget.com
 0.0.0.0 akamai-san33.exacttarget.com
+0.0.0.0 akamai-san34.exacttarget.com
+0.0.0.0 akamai-san35.exacttarget.com
+0.0.0.0 akamai-san36.exacttarget.com
+0.0.0.0 akamai-san37.exacttarget.com
+0.0.0.0 akamai-san38.exacttarget.com
+0.0.0.0 akamai-san39.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
+0.0.0.0 akamai-san40.exacttarget.com
+0.0.0.0 akamai-san41.exacttarget.com
+0.0.0.0 akamai-san42.exacttarget.com
+0.0.0.0 akamai-san43.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
 0.0.0.0 akamai-san7.exacttarget.com
@@ -516,9 +530,11 @@
 0.0.0.0 mc.login.exacttarget.com
 0.0.0.0 mc27dc2p63lspxl102q8rxr927qm.login.exacttarget.com
 0.0.0.0 mc2htylff8d1bqx7d8y8wzppn744.login.exacttarget.com
+0.0.0.0 mc2qfj9vjsgdl5y4td-lpwzw5jrq.login.exacttarget.com
 0.0.0.0 mc3ny8ttvqddzv8hptxzd08lm760.login.exacttarget.com
 0.0.0.0 mcbkmr7kl7clfww8xvcjnp1mvht4.login.exacttarget.com
 0.0.0.0 mcbxb5x9l3891h1jz4j8hrp1gls0.login.exacttarget.com
+0.0.0.0 mcc7mbnnyjxyf9r6kjw5-3lbxr31.login.exacttarget.com
 0.0.0.0 mchlvl7-nh5pbjzs0-4wgl5wgnd1.login.exacttarget.com
 0.0.0.0 mckfsqm9tnf4jp6rz-v4p5zfkltm.login.exacttarget.com
 0.0.0.0 mcq3v6k8917x8lg5w6s-94jck1r4.login.exacttarget.com
@@ -529,6 +545,7 @@
 0.0.0.0 mc.login-qa1.exacttarget.com
 0.0.0.0 login-qa2.exacttarget.com
 0.0.0.0 mc.login-qa2.exacttarget.com
+0.0.0.0 mc34-nbtsyjx-jfbr4ks1v2b5tz4.login-qa2.exacttarget.com
 0.0.0.0 s2.login-qa2.exacttarget.com
 0.0.0.0 login-qa3.exacttarget.com
 0.0.0.0 mc.login-qa3.exacttarget.com
@@ -575,6 +592,7 @@
 0.0.0.0 cr196.mta.exacttarget.com
 0.0.0.0 cr21.mta.exacttarget.com
 0.0.0.0 cr212.mta.exacttarget.com
+0.0.0.0 cr33.mta.exacttarget.com
 0.0.0.0 cr61.mta.exacttarget.com
 0.0.0.0 cr7.mta.exacttarget.com
 0.0.0.0 cr75.mta.exacttarget.com
@@ -597,6 +615,7 @@
 0.0.0.0 db146.mta.exacttarget.com
 0.0.0.0 db152.mta.exacttarget.com
 0.0.0.0 db167.mta.exacttarget.com
+0.0.0.0 db211.mta.exacttarget.com
 0.0.0.0 db29.mta.exacttarget.com
 0.0.0.0 db40.mta.exacttarget.com
 0.0.0.0 db60.mta.exacttarget.com
@@ -657,6 +676,7 @@
 0.0.0.0 fq197.mta.exacttarget.com
 0.0.0.0 fq201.mta.exacttarget.com
 0.0.0.0 fq215.mta.exacttarget.com
+0.0.0.0 fq226.mta.exacttarget.com
 0.0.0.0 fq25.mta.exacttarget.com
 0.0.0.0 fq43.mta.exacttarget.com
 0.0.0.0 fq69.mta.exacttarget.com
@@ -875,6 +895,7 @@
 0.0.0.0 click.s6.exacttarget.com
 0.0.0.0 image.s6.exacttarget.com
 0.0.0.0 imh.s6.exacttarget.com
+0.0.0.0 inbound.s6.exacttarget.com
 0.0.0.0 inbound-reply.s6.exacttarget.com
 0.0.0.0 mc.s6.exacttarget.com
 0.0.0.0 members.s6.exacttarget.com
@@ -898,6 +919,7 @@
 0.0.0.0 scpweb.s7.exacttarget.com
 0.0.0.0 view.s7.exacttarget.com
 0.0.0.0 click.virt.s7.exacttarget.com
+0.0.0.0 origin-click.virt.s7.exacttarget.com
 0.0.0.0 s8.exacttarget.com
 0.0.0.0 auth.s8.exacttarget.com
 0.0.0.0 click.s8.exacttarget.com
@@ -936,6 +958,9 @@
 0.0.0.0 webservice.test.exacttarget.com
 0.0.0.0 ws.test.exacttarget.com
 0.0.0.0 ms.ws.test.exacttarget.com
+0.0.0.0 testtimeout.exacttarget.com
+0.0.0.0 testtimeout1.exacttarget.com
+0.0.0.0 testtimeoutqa.exacttarget.com
 0.0.0.0 view.exacttarget.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 globus.virt.exacttarget.com
@@ -1406,6 +1431,7 @@
 0.0.0.0 enterprise.glympse.com
 0.0.0.0 admin.enterprise.glympse.com
 0.0.0.0 api.enterprise.glympse.com
+0.0.0.0 partner-api.enterprise.glympse.com
 0.0.0.0 groups.glympse.com
 0.0.0.0 hackathon.glympse.com
 0.0.0.0 help.glympse.com
@@ -1853,6 +1879,7 @@
 0.0.0.0 150-events.olark.com
 0.0.0.0 157-events.olark.com
 0.0.0.0 162-events.olark.com
+0.0.0.0 164-events.olark.com
 0.0.0.0 18-events.olark.com
 0.0.0.0 199-events.olark.com
 0.0.0.0 20-events.olark.com
@@ -1966,6 +1993,7 @@
 0.0.0.0 borntohack.pingdom.com
 0.0.0.0 calendar.pingdom.com
 0.0.0.0 cdn.pingdom.com
+0.0.0.0 www.cdn.pingdom.com
 0.0.0.0 dev-tms-tester.pingdom.com
 0.0.0.0 dnscheck.pingdom.com
 0.0.0.0 docs.pingdom.com
@@ -2070,6 +2098,8 @@
 0.0.0.0 st-livemap.pingdom.com
 0.0.0.0 st-secure-stats.pingdom.com
 0.0.0.0 st-share.pingdom.com
+0.0.0.0 st-tms-tester-eu.pingdom.com
+0.0.0.0 st-tms-tester-us-east.pingdom.com
 0.0.0.0 stats.pingdom.com
 0.0.0.0 status.pingdom.com
 0.0.0.0 support.pingdom.com
@@ -2365,6 +2395,7 @@
 0.0.0.0 try.surveygizmo.com
 0.0.0.0 www.try.surveygizmo.com
 0.0.0.0 welisten-vansd-org.surveygizmo.com
+0.0.0.0 wpengine.surveygizmo.com
 0.0.0.0 ww2.surveygizmo.com
 0.0.0.0 www.surveygizmo.com
 0.0.0.0 redsky.target.com
@@ -2449,6 +2480,7 @@
 0.0.0.0 cloudfront-app-cdn.spot.im
 0.0.0.0 cloudfront-dynamic-cdn.spot.im
 0.0.0.0 community.spot.im
+0.0.0.0 www.community.spot.im
 0.0.0.0 conversation-read.spot.im
 0.0.0.0 developers.spot.im
 0.0.0.0 dynamic-cdn.spot.im
@@ -2480,6 +2512,7 @@
 0.0.0.0 recommendation.spot.im
 0.0.0.0 s.spot.im
 0.0.0.0 sccden.spot.im
+0.0.0.0 sccdens.spot.im
 0.0.0.0 sentry.spot.im
 0.0.0.0 seo.spot.im
 0.0.0.0 social-connect.spot.im
@@ -2549,9 +2582,11 @@
 0.0.0.0 clj-staging.juicer.io
 0.0.0.0 help.juicer.io
 0.0.0.0 staging.juicer.io
+0.0.0.0 clj.staging.juicer.io
 0.0.0.0 static.juicer.io
 0.0.0.0 white-label.juicer.io
 0.0.0.0 www.juicer.io
+0.0.0.0 clj.www.juicer.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 acceptance.simpleanalytics.io
 0.0.0.0 api.simpleanalytics.io
@@ -2597,6 +2632,7 @@
 0.0.0.0 connector-michaelkors.gomoxie.solutions
 0.0.0.0 connector-michaelkorsuk.gomoxie.solutions
 0.0.0.0 connector-norton.gomoxie.solutions
+0.0.0.0 connector-nutrisystem.gomoxie.solutions
 0.0.0.0 connector-peoples.gomoxie.solutions
 0.0.0.0 connector-rcn.gomoxie.solutions
 0.0.0.0 connector-sandals.gomoxie.solutions
@@ -2696,6 +2732,7 @@
 0.0.0.0 log-michaelkorsuk.gomoxie.solutions
 0.0.0.0 log-norton.gomoxie.solutions
 0.0.0.0 log-nortontest.gomoxie.solutions
+0.0.0.0 log-nutrisystem.gomoxie.solutions
 0.0.0.0 log-peoples.gomoxie.solutions
 0.0.0.0 log-rbc.gomoxie.solutions
 0.0.0.0 log-rcn.gomoxie.solutions
@@ -2936,6 +2973,7 @@
 0.0.0.0 vs97.tawk.to
 0.0.0.0 vs98.tawk.to
 0.0.0.0 vs99.tawk.to
+0.0.0.0 windows.tawk.to
 0.0.0.0 www.tawk.to
 
 
