@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-04-30T17:14:14+00:00
-# Count: 39075 domains
+# Released: 2019-04-30T20:23:54+00:00
+# Count: 39084 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -18532,6 +18532,14 @@
 0.0.0.0 public.pushspring.com
 0.0.0.0 cdn.public.pushspring.com
 0.0.0.0 www.pushspring.com
+0.0.0.0 pymx5.com
+0.0.0.0 api.pymx5.com
+0.0.0.0 cd-core.pymx5.com
+0.0.0.0 clearpanel.pymx5.com
+0.0.0.0 cp-api.pymx5.com
+0.0.0.0 plugin.pymx5.com
+0.0.0.0 tag.pymx5.com
+0.0.0.0 www.pymx5.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 ahf.bugly.qq.com
@@ -22743,6 +22751,7 @@
 0.0.0.0 secure.tmathtag.com
 0.0.0.0 ssl.tmathtag.com
 0.0.0.0 www.tmathtag.com
+0.0.0.0 ipapi.tmbi.com
 0.0.0.0 topprotestsigns.com
 0.0.0.0 mail.topprotestsigns.com
 0.0.0.0 webdisk.topprotestsigns.com
