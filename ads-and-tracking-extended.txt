@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-05-02T11:11:32+00:00
-# Count: 39653 domains
+# Released: 2019-05-09T11:10:24+00:00
+# Count: 39686 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -1107,6 +1107,7 @@
 0.0.0.0 addragon-addragon-review-geo-le1785.addragon.com
 0.0.0.0 addragon-addragon-review-mailchimp-9zlqqi.addragon.com
 0.0.0.0 addragon-addragon-review-minimum-sp-u6c5mv.addragon.com
+0.0.0.0 addragon-addragon-review-scoring-wanvyb.addragon.com
 0.0.0.0 addragon-addragon-review-turbolinks-tvj2l4.addragon.com
 0.0.0.0 addragon-addragon-review-ui-rad-3z8d0l.addragon.com
 0.0.0.0 addragon-addragon-review-user-log-s-ny12y9.addragon.com
@@ -2923,6 +2924,7 @@
 0.0.0.0 staging.banners.advidi.com
 0.0.0.0 bi.advidi.com
 0.0.0.0 ctrack.advidi.com
+0.0.0.0 custom-pixel.advidi.com
 0.0.0.0 design.advidi.com
 0.0.0.0 www.design.advidi.com
 0.0.0.0 events.advidi.com
@@ -4298,6 +4300,7 @@
 0.0.0.0 msrv.saastest.appdynamics.com
 0.0.0.0 dev.msrv.saastest.appdynamics.com
 0.0.0.0 staging.msrv.saastest.appdynamics.com
+0.0.0.0 portal-jenkins.saastest.appdynamics.com
 0.0.0.0 staging.saastest.appdynamics.com
 0.0.0.0 sampleapp.appdynamics.com
 0.0.0.0 sng-vpn.appdynamics.com
@@ -7362,6 +7365,7 @@
 0.0.0.0 ht.casalemedia.com
 0.0.0.0 ht-lb.casalemedia.com
 0.0.0.0 ht-lb-sec.casalemedia.com
+0.0.0.0 htlb.casalemedia.com
 0.0.0.0 instream.casalemedia.com
 0.0.0.0 ip.casalemedia.com
 0.0.0.0 ip-sec.casalemedia.com
@@ -9440,6 +9444,7 @@
 0.0.0.0 success.drift.com
 0.0.0.0 team.drift.com
 0.0.0.0 updates.drift.com
+0.0.0.0 video.drift.com
 0.0.0.0 www.drift.com
 0.0.0.0 driftt.com
 0.0.0.0 annotate.driftt.com
@@ -9909,6 +9914,7 @@
 0.0.0.0 ma.eqads.com
 0.0.0.0 nm.eqads.com
 0.0.0.0 scratch.eqads.com
+0.0.0.0 test-collector.eqads.com
 0.0.0.0 um.eqads.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 w-ads.eqads.com
@@ -12343,6 +12349,8 @@
 0.0.0.0 analytics.glance.inmobi.com
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 www.in.analytics.glance.inmobi.com
+0.0.0.0 oppo.analytics.glance.inmobi.com
+0.0.0.0 www.oppo.analytics.glance.inmobi.com
 0.0.0.0 www.analytics.glance.inmobi.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 in.api.glance.inmobi.com
@@ -12458,6 +12466,7 @@
 0.0.0.0 www.reaper.pulse.inmobi.com
 0.0.0.0 static.pulse.inmobi.com
 0.0.0.0 uat.pulse.inmobi.com
+0.0.0.0 bt.uat.pulse.inmobi.com
 0.0.0.0 www.uat.pulse.inmobi.com
 0.0.0.0 www.pulse.inmobi.com
 0.0.0.0 pulse-uat.inmobi.com
@@ -12679,6 +12688,8 @@
 0.0.0.0 www.customer.instartlogic.com
 0.0.0.0 demo2.instartlogic.com
 0.0.0.0 demo5.instartlogic.com
+0.0.0.0 demo7.instartlogic.com
+0.0.0.0 demo8.instartlogic.com
 0.0.0.0 go.instartlogic.com
 0.0.0.0 goto.instartlogic.com
 0.0.0.0 info.instartlogic.com
@@ -12915,6 +12926,7 @@
 0.0.0.0 s.n.jwpltx.com
 0.0.0.0 nc-s.jwpltx.com
 0.0.0.0 ping-origin-dev.jwpltx.com
+0.0.0.0 ping-origin-stg.jwpltx.com
 0.0.0.0 s.jwpltx.com
 0.0.0.0 www.s.jwpltx.com
 0.0.0.0 stg.jwpltx.com
@@ -14692,6 +14704,7 @@
 0.0.0.0 web-int.marketo.com
 0.0.0.0 web-lon.marketo.com
 0.0.0.0 web-qe.marketo.com
+0.0.0.0 web-sn.marketo.com
 0.0.0.0 web-st.marketo.com
 0.0.0.0 www.marketo.com
 0.0.0.0 marketolive.com
@@ -21557,6 +21570,8 @@
 0.0.0.0 sam.snapads.com
 0.0.0.0 staging.sam.snapads.com
 0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 rtb-ads.shadow.snapads.com
+0.0.0.0 usc-rtb.shadow.snapads.com
 0.0.0.0 adserver.staging.snapads.com
 0.0.0.0 stats-reporting-server-prod.snapads.com
 0.0.0.0 stats-reporting-server-shadow.snapads.com
@@ -22752,6 +22767,8 @@
 0.0.0.0 tenjin.com
 0.0.0.0 col-edge-prod.tenjin.com
 0.0.0.0 email.tenjin.com
+0.0.0.0 production-us.internal.tenjin.com
+0.0.0.0 staging-us.internal.tenjin.com
 0.0.0.0 ios.tenjin.com
 0.0.0.0 api.ios.tenjin.com
 0.0.0.0 jp.tenjin.com
@@ -23839,6 +23856,7 @@
 0.0.0.0 3-eu.tribalfusion.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a-lb.tribalfusion.com
+0.0.0.0 a-stage1-dsa.tribalfusion.com
 0.0.0.0 ads.tribalfusion.com
 0.0.0.0 adxrtb-as.tribalfusion.com
 0.0.0.0 adxrtb-eu.tribalfusion.com
@@ -25575,6 +25593,8 @@
 0.0.0.0 d.analytics.yahoo.com
 0.0.0.0 e.analytics.yahoo.com
 0.0.0.0 idsync.analytics.yahoo.com
+0.0.0.0 service.idsync.analytics.yahoo.com
+0.0.0.0 service-dev.idsync.analytics.yahoo.com
 0.0.0.0 js.analytics.yahoo.com
 0.0.0.0 mobile.analytics.yahoo.com
 0.0.0.0 o.analytics.yahoo.com
@@ -25587,6 +25607,7 @@
 0.0.0.0 sp-ycpi.analytics.yahoo.com
 0.0.0.0 stg-y.analytics.yahoo.com
 0.0.0.0 test-d.analytics.yahoo.com
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 dev.ups.analytics.yahoo.com
 0.0.0.0 ut.analytics.yahoo.com
 0.0.0.0 ut-api.analytics.yahoo.com
@@ -25740,9 +25761,17 @@
 0.0.0.0 home.yieldmo.com
 0.0.0.0 kinesis.yieldmo.com
 0.0.0.0 lam.yieldmo.com
+0.0.0.0 lam2.yieldmo.com
+0.0.0.0 lam3.yieldmo.com
 0.0.0.0 lam30.yieldmo.com
 0.0.0.0 lam31.yieldmo.com
 0.0.0.0 lam34.yieldmo.com
+0.0.0.0 lam35.yieldmo.com
+0.0.0.0 lam36.yieldmo.com
+0.0.0.0 lam37.yieldmo.com
+0.0.0.0 lam38.yieldmo.com
+0.0.0.0 lam4.yieldmo.com
+0.0.0.0 lam5.yieldmo.com
 0.0.0.0 looker.yieldmo.com
 0.0.0.0 newlam.yieldmo.com
 0.0.0.0 newlam23.yieldmo.com
@@ -26802,6 +26831,8 @@
 0.0.0.0 dev.cdn.districtm.io
 0.0.0.0 data.districtm.io
 0.0.0.0 druid-router.data.districtm.io
+0.0.0.0 metabase.data.districtm.io
+0.0.0.0 superset.data.districtm.io
 0.0.0.0 dev-cdn.districtm.io
 0.0.0.0 dev-dmx.districtm.io
 0.0.0.0 dmx.districtm.io
@@ -34354,6 +34385,7 @@
 0.0.0.0 looker.monetate.net
 0.0.0.0 marketer.monetate.net
 0.0.0.0 marketer-next-release.monetate.net
+0.0.0.0 mpx.monetate.net
 0.0.0.0 reco.monetate.net
 0.0.0.0 retailer.monetate.net
 0.0.0.0 sb.monetate.net
@@ -39435,6 +39467,7 @@
 0.0.0.0 www.ispot.tv
 0.0.0.0 www.www.ispot.tv
 0.0.0.0 ravm.tv
+0.0.0.0 raps.ravm.tv
 0.0.0.0 rxr.ravm.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 adserver.shoofle.tv
