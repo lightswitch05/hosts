@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-05-20T16:32:21+00:00
-# Count: 40421 domains
+# Released: 2019-05-20T16:40:41+00:00
+# Count: 40433 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10148,6 +10148,18 @@
 0.0.0.0 mail.esttrk.com
 0.0.0.0 webdisk.esttrk.com
 0.0.0.0 www.esttrk.com
+0.0.0.0 eum-appdynamics.com
+0.0.0.0 agg.eum-appdynamics.com
+0.0.0.0 api.eum-appdynamics.com
+0.0.0.0 col.eum-appdynamics.com
+0.0.0.0 eu-col-lbg.eum-appdynamics.com
+0.0.0.0 eumsm.eum-appdynamics.com
+0.0.0.0 fra-col.eum-appdynamics.com
+0.0.0.0 image.eum-appdynamics.com
+0.0.0.0 mobile.eum-appdynamics.com
+0.0.0.0 mobile-config.eum-appdynamics.com
+0.0.0.0 pdx-col.eum-appdynamics.com
+0.0.0.0 syd-col.eum-appdynamics.com
 0.0.0.0 evgnet.com
 0.0.0.0 fidelity.api.evgnet.com
 0.0.0.0 www.fidelity.api.evgnet.com
