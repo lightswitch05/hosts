@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-05-22T12:33:50+00:00
-# Count: 2422 domains
+# Released: 2019-05-22T12:45:20+00:00
+# Count: 2427 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -452,6 +452,7 @@
 0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
 0.0.0.0 smetrics.capitalone.com
+0.0.0.0 pixel.care.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
 0.0.0.0 a2892.casalemedia.com
@@ -806,6 +807,7 @@
 0.0.0.0 apppersonalization.api.intuit.com
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 mintsurvey.api.intuit.com
+0.0.0.0 eventbus.intuit.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 mint.finance.intuit.com
 0.0.0.0 offcnt.intuit.com
@@ -1374,6 +1376,9 @@
 0.0.0.0 sizmek.com
 0.0.0.0 skimresources.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 cfg.skol-apps.com
+0.0.0.0 app.skol-to.com
+0.0.0.0 cfg.skollabs.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 smrtb.com
