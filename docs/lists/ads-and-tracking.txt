@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-05-24T14:05:40+00:00
-# Count: 2428 domains
+# Released: 2019-05-26T13:29:10+00:00
+# Count: 2443 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -146,6 +146,7 @@
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 m.adnxs.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 rb.adnxs.com
@@ -187,6 +188,7 @@
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
 0.0.0.0 adthrive.com
+0.0.0.0 track.adthrive.com
 0.0.0.0 adtilt.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 adtouchlabs.com
@@ -216,6 +218,7 @@
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 agkn.com
+0.0.0.0 aa.agkn.com
 0.0.0.0 js.agkn.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 log.aimtell.com
@@ -369,6 +372,8 @@
 0.0.0.0 go.automatad.com
 0.0.0.0 autopilothq.com
 0.0.0.0 api.autopilothq.com
+0.0.0.0 avidly.com
+0.0.0.0 accountkit.avidly.com
 0.0.0.0 aweber.com
 0.0.0.0 forms.aweber.com
 0.0.0.0 awltovhc.com
@@ -511,6 +516,7 @@
 0.0.0.0 cdn-2.convertexperiments.com
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 convertkit.com
+0.0.0.0 app.convertkit.com
 0.0.0.0 cdn.convertkit.com
 0.0.0.0 el2.convertkit.com
 0.0.0.0 convertro.com
@@ -540,6 +546,7 @@
 0.0.0.0 metrics.creditreport.com
 0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 dis.criteo.com
 0.0.0.0 cname01.cryptolootminer.com
 0.0.0.0 cname03.cryptolootminer.com
 0.0.0.0 cname04.cryptolootminer.com
@@ -746,6 +753,9 @@
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 player2.h-cdn.com
+0.0.0.0 haloapps.com
+0.0.0.0 i.haloapps.com
+0.0.0.0 c.sta.haloapps.com
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
@@ -1270,6 +1280,8 @@
 0.0.0.0 revcontent.com
 0.0.0.0 segment.revelist.com
 0.0.0.0 ads.revjet.com
+0.0.0.0 rfihub.com
+0.0.0.0 p.rfihub.com
 0.0.0.0 rkdms.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 rlcdn.com
@@ -1601,6 +1613,8 @@
 0.0.0.0 unrulymedia.com
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 pre-usermatch.targeting.unrulymedia.com
+0.0.0.0 upltv.com
+0.0.0.0 ads-sdk.upltv.com
 0.0.0.0 urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
@@ -1938,6 +1952,7 @@
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 ad-delivery.net
+0.0.0.0 adadvisor.net
 0.0.0.0 adglare.net
 0.0.0.0 kidswithfoodallergies.cdn.adglare.net
 0.0.0.0 kidswithfoodallergies.engine.adglare.net

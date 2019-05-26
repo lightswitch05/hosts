@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-05-24T14:05:40+00:00
-# Count: 40960 domains
+# Released: 2019-05-26T13:29:10+00:00
+# Count: 41051 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -1660,6 +1660,8 @@
 0.0.0.0 laxl-ib.adnxs.com
 0.0.0.0 lib.adnxs.com
 0.0.0.0 m.adnxs.com
+0.0.0.0 a.m.adnxs.com
+0.0.0.0 www.m.adnxs.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mobile.adnxs.com
 0.0.0.0 ams1.mobile.adnxs.com
@@ -4965,6 +4967,20 @@
 0.0.0.0 thorpedo.autopilothq.com
 0.0.0.0 www.autopilothq.com
 0.0.0.0 www2.autopilothq.com
+0.0.0.0 avidly.com
+0.0.0.0 accountkit.avidly.com
+0.0.0.0 adr-sdk.avidly.com
+0.0.0.0 adr-sdk-cn.avidly.com
+0.0.0.0 ads-sdk.avidly.com
+0.0.0.0 ads-sdk-cn.avidly.com
+0.0.0.0 api.avidly.com
+0.0.0.0 cn.avidly.com
+0.0.0.0 o1.email.avidly.com
+0.0.0.0 playable-api.avidly.com
+0.0.0.0 push-api.avidly.com
+0.0.0.0 report-ads-sdk.avidly.com
+0.0.0.0 sdk.avidly.com
+0.0.0.0 www.avidly.com
 0.0.0.0 aweber.com
 0.0.0.0 01.aweber.com
 0.0.0.0 158.aweber.com
@@ -12392,6 +12408,36 @@
 0.0.0.0 in.player.h-cdn.com
 0.0.0.0 www.player.h-cdn.com
 0.0.0.0 player2.h-cdn.com
+0.0.0.0 haloapps.com
+0.0.0.0 a-sta.haloapps.com
+0.0.0.0 ann-sta.haloapps.com
+0.0.0.0 c-sta.haloapps.com
+0.0.0.0 d.haloapps.com
+0.0.0.0 dc.haloapps.com
+0.0.0.0 deeplink.haloapps.com
+0.0.0.0 dh.haloapps.com
+0.0.0.0 ecs-hk-01.haloapps.com
+0.0.0.0 game-ad-sdk.haloapps.com
+0.0.0.0 gameday-api.haloapps.com
+0.0.0.0 i.haloapps.com
+0.0.0.0 img-ann-sta.haloapps.com
+0.0.0.0 mo.haloapps.com
+0.0.0.0 o.haloapps.com
+0.0.0.0 o2.haloapps.com
+0.0.0.0 ssl01.haloapps.com
+0.0.0.0 ssl02.haloapps.com
+0.0.0.0 ssl03.haloapps.com
+0.0.0.0 ssl04.haloapps.com
+0.0.0.0 ssl05.haloapps.com
+0.0.0.0 ssl06.haloapps.com
+0.0.0.0 ssl07.haloapps.com
+0.0.0.0 ssl08.haloapps.com
+0.0.0.0 a.sta.haloapps.com
+0.0.0.0 c.sta.haloapps.com
+0.0.0.0 stat.haloapps.com
+0.0.0.0 mo.test.haloapps.com
+0.0.0.0 url.haloapps.com
+0.0.0.0 www.haloapps.com
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
@@ -21177,6 +21223,24 @@
 0.0.0.0 segment.revelist.com
 0.0.0.0 ads.revjet.com
 0.0.0.0 ns21.ads.revjet.com
+0.0.0.0 rfihub.com
+0.0.0.0 a.rfihub.com
+0.0.0.0 eqv-rtb1.rfihub.com
+0.0.0.0 eqv-400.eqv-rtb1.rfihub.com
+0.0.0.0 ewr-rtb1.rfihub.com
+0.0.0.0 fra-rtb1.rfihub.com
+0.0.0.0 inw-rtb1.rfihub.com
+0.0.0.0 lax-rtb1.rfihub.com
+0.0.0.0 p.rfihub.com
+0.0.0.0 pnc-rtb1.rfihub.com
+0.0.0.0 rtb-ssl.rfihub.com
+0.0.0.0 sjc-rtb1.rfihub.com
+0.0.0.0 sjc-232.sjc-rtb1.rfihub.com
+0.0.0.0 sjc-234.sjc-rtb1.rfihub.com
+0.0.0.0 tca-rtb1.rfihub.com
+0.0.0.0 txa-rtb1.rfihub.com
+0.0.0.0 ubertags.rfihub.com
+0.0.0.0 vtyo-rtb1.rfihub.com
 0.0.0.0 rkdms.com
 0.0.0.0 a.rkdms.com
 0.0.0.0 ads.rkdms.com
@@ -25335,6 +25399,18 @@
 0.0.0.0 cloud.video.unrulymedia.com
 0.0.0.0 viralvideochart.unrulymedia.com
 0.0.0.0 www.unrulymedia.com
+0.0.0.0 upltv.com
+0.0.0.0 a-sta-cn.upltv.com
+0.0.0.0 ads-sdk.upltv.com
+0.0.0.0 ads-sdk-cn.upltv.com
+0.0.0.0 b.upltv.com
+0.0.0.0 c-sta-cn.upltv.com
+0.0.0.0 js-sdk-cdn.upltv.com
+0.0.0.0 report-ads-sdk.upltv.com
+0.0.0.0 tech-support.upltv.com
+0.0.0.0 track-jx.upltv.com
+0.0.0.0 v.upltv.com
+0.0.0.0 www.upltv.com
 0.0.0.0 urbanairship.com
 0.0.0.0 analyze.urbanairship.com
 0.0.0.0 api.urbanairship.com
@@ -29531,6 +29607,21 @@
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 ad-delivery.net
+0.0.0.0 adadvisor.net
+0.0.0.0 ab.adadvisor.net
+0.0.0.0 allfail-www.all.adadvisor.net
+0.0.0.0 allfail-all.adadvisor.net
+0.0.0.0 allfail-east.adadvisor.net
+0.0.0.0 allfail-west.adadvisor.net
+0.0.0.0 ap.adadvisor.net
+0.0.0.0 cdn1.adadvisor.net
+0.0.0.0 allfail-www.east.adadvisor.net
+0.0.0.0 pixel.adadvisor.net
+0.0.0.0 uk.adadvisor.net
+0.0.0.0 us.adadvisor.net
+0.0.0.0 west.adadvisor.net
+0.0.0.0 allfail-www.west.adadvisor.net
+0.0.0.0 www.adadvisor.net
 0.0.0.0 adglare.net
 0.0.0.0 cdn.adglare.net
 0.0.0.0 adberry.cdn.adglare.net
