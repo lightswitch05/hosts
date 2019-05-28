@@ -229,5 +229,7 @@
 # 20818029p.rfihub.com
 ^\d{8}p\.rfihub\.com$
 
+# 1059362.collect.igodigital.com
+^\d{5,}\.collect\.igodigital\.com$
 
 
