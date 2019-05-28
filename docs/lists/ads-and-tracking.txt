@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-05-27T01:28:10+00:00
-# Count: 2444 domains
+# Released: 2019-05-28T13:00:49+00:00
+# Count: 2447 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -784,6 +784,7 @@
 0.0.0.0 s.ibotta.com
 0.0.0.0 cdn.feeds.ibt.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 collect.igodigital.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 adserver.iminent.com
 0.0.0.0 impresionesweb.com
@@ -2198,6 +2199,8 @@
 0.0.0.0 analytics.levelaccess.net
 0.0.0.0 api.levelaccess.net
 0.0.0.0 cdn.levelaccess.net
+0.0.0.0 lkqd.net
+0.0.0.0 ssp.lkqd.net
 0.0.0.0 lsimg.net
 0.0.0.0 i.lsimg.net
 0.0.0.0 marketo.net
