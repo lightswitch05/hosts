@@ -8,6 +8,10 @@ body {
     margin-right:auto;
 }
 
+main {
+    margin: 0 5px 0 5px;
+}
+
 a {
     color: #3282d1;
     text-decoration: none;
@@ -15,4 +19,11 @@ a {
 
 a:hover {
     color: #fff;
+}
+
+section {
+    background-color: #061f2f;
+    box-shadow: 0 1px 3px 0 #000;
+    margin: 0 0 10px 0;
+    padding: 1px 5px 1px 5px;
 }
