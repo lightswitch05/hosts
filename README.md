@@ -7,7 +7,7 @@
 [![donate](https://img.shields.io/badge/Donate-EFF-orange.svg)](https://supporters.eff.org/donate)
 [![gitter](https://img.shields.io/gitter/room/lightswitch05/hosts.svg)](https://gitter.im/lightswitch05/hosts)
 
-A collection of `hosts` files for domain blocking. If you find something in a list that you believe is a mistake or breaks functionality, please open a ticket and I'll consider removing it. Also, if you find a unblocked subdomain of a blocked root domain, please let me know so I can add it to a list.
+A collection of `hosts` files for domain blocking. If you find something in a list that you believe is a mistake or breaks functionality, please open a ticket and I'll consider removing it. Also, if you find an unblocked subdomain of a blocked root domain, please let me know so I can add it to a list.
 
 Host file recipe | Description | Raw hosts
 ---------------- | ----------- |:---------:
