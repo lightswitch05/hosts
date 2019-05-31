@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-05-30T12:57:51+00:00
-# Count: 2455 domains
+# Released: 2019-05-31T13:28:08+00:00
+# Count: 2457 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2341,6 +2341,8 @@
 0.0.0.0 ortshk.tapas.net
 0.0.0.0 timecommerce.net
 0.0.0.0 session.timecommerce.net
+0.0.0.0 trackonomics.net
+0.0.0.0 cdn-magiclinks.trackonomics.net
 0.0.0.0 cc-analytics.trafficmanager.net
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
