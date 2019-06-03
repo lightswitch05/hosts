@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-05-27T04:24:38+00:00
-# Count: 3004 domains
+# Released: 2019-06-03T04:25:07+00:00
+# Count: 3013 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -36,6 +36,8 @@
 0.0.0.0 prod.cch.msflow.cortana.ai
 0.0.0.0 cortex.shs.prod.cortana.ai
 0.0.0.0 sdf.cortana.ai
+0.0.0.0 shs-dev.cortana.ai
+0.0.0.0 shs-prod.cortana.ai
 0.0.0.0 www.cortana.ai
 0.0.0.0 data-location.enhance.co
 0.0.0.0 assets.adobedtm.com
@@ -123,6 +125,7 @@
 0.0.0.0 conrad.ugc.bazaarvoice.com
 0.0.0.0 containerstore.ugc.bazaarvoice.com
 0.0.0.0 coopertire.ugc.bazaarvoice.com
+0.0.0.0 cubesmart.ugc.bazaarvoice.com
 0.0.0.0 cvspharmacydrugs.ugc.bazaarvoice.com
 0.0.0.0 cyberport.ugc.bazaarvoice.com
 0.0.0.0 danmurphys.ugc.bazaarvoice.com
@@ -163,6 +166,7 @@
 0.0.0.0 fellowes.ugc.bazaarvoice.com
 0.0.0.0 fidelity-ssl.ugc.bazaarvoice.com
 0.0.0.0 figis.ugc.bazaarvoice.com
+0.0.0.0 fingerhut.ugc.bazaarvoice.com
 0.0.0.0 finishline.ugc.bazaarvoice.com
 0.0.0.0 footaction.ugc.bazaarvoice.com
 0.0.0.0 footlocker.ugc.bazaarvoice.com
@@ -228,6 +232,7 @@
 0.0.0.0 madewell.ugc.bazaarvoice.com
 0.0.0.0 magento.ugc.bazaarvoice.com
 0.0.0.0 magpie-static.ugc.bazaarvoice.com
+0.0.0.0 marksandspencer.ugc.bazaarvoice.com
 0.0.0.0 marriott.ugc.bazaarvoice.com
 0.0.0.0 matalan.ugc.bazaarvoice.com
 0.0.0.0 metrocashcarry.ugc.bazaarvoice.com
@@ -698,6 +703,7 @@
 0.0.0.0 fq167.mta.exacttarget.com
 0.0.0.0 fq17.mta.exacttarget.com
 0.0.0.0 fq170.mta.exacttarget.com
+0.0.0.0 fq174.mta.exacttarget.com
 0.0.0.0 fq180.mta.exacttarget.com
 0.0.0.0 fq197.mta.exacttarget.com
 0.0.0.0 fq201.mta.exacttarget.com
@@ -1167,7 +1173,9 @@
 0.0.0.0 email.flipboard.com
 0.0.0.0 o2.email.flipboard.com
 0.0.0.0 o3.email.flipboard.com
+0.0.0.0 o6.email.flipboard.com
 0.0.0.0 o7.email.flipboard.com
+0.0.0.0 o8.email.flipboard.com
 0.0.0.0 engineering.flipboard.com
 0.0.0.0 fbchina.flipboard.com
 0.0.0.0 fbprod.flipboard.com
@@ -2408,6 +2416,7 @@
 0.0.0.0 help.surveygizmo.com
 0.0.0.0 httphelp.surveygizmo.com
 0.0.0.0 incident-veriscommunity-net.surveygizmo.com
+0.0.0.0 info.surveygizmo.com
 0.0.0.0 insights.surveygizmo.com
 0.0.0.0 www.insights.surveygizmo.com
 0.0.0.0 inspire-com.surveygizmo.com
