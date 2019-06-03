@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-05-31T13:28:09+00:00
-# Count: 41144 domains
+# Released: 2019-06-03T12:21:41+00:00
+# Count: 41164 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -14436,6 +14436,26 @@
 0.0.0.0 www.khingtracking.com
 0.0.0.0 pixel.kiitties.com
 0.0.0.0 metric.kirklands.com
+0.0.0.0 klaviyo.com
+0.0.0.0 a.klaviyo.com
+0.0.0.0 fast.a.klaviyo.com
+0.0.0.0 www.a.klaviyo.com
+0.0.0.0 a-static.klaviyo.com
+0.0.0.0 www.a-static.klaviyo.com
+0.0.0.0 blog-hosted.klaviyo.com
+0.0.0.0 blog-elb.fast.klaviyo.com
+0.0.0.0 integrations.klaviyo.com
+0.0.0.0 internal.klaviyo.com
+0.0.0.0 partners.klaviyo.com
+0.0.0.0 www.partners.klaviyo.com
+0.0.0.0 prod-blog-cache.klaviyo.com
+0.0.0.0 push.klaviyo.com
+0.0.0.0 services.klaviyo.com
+0.0.0.0 sonic.klaviyo.com
+0.0.0.0 static.klaviyo.com
+0.0.0.0 status.klaviyo.com
+0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 www.klaviyo.com
 0.0.0.0 kochava.com
 0.0.0.0 analytics.kochava.com
 0.0.0.0 analytics20.kochava.com
