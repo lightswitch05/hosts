@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-03T12:21:41+00:00
-# Count: 41164 domains
+# Released: 2019-06-03T18:54:39+00:00
+# Count: 41182 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -179,6 +179,22 @@
 0.0.0.0 log.intellimize.co
 0.0.0.0 www.log.intellimize.co
 0.0.0.0 www.intellimize.co
+0.0.0.0 keywee.co
+0.0.0.0 app.keywee.co
+0.0.0.0 app3.keywee.co
+0.0.0.0 cdn.keywee.co
+0.0.0.0 email.keywee.co
+0.0.0.0 gilda.keywee.co
+0.0.0.0 www.gilda.keywee.co
+0.0.0.0 logger.keywee.co
+0.0.0.0 p2.keywee.co
+0.0.0.0 pages.keywee.co
+0.0.0.0 pixel.keywee.co
+0.0.0.0 reports.keywee.co
+0.0.0.0 tracking.keywee.co
+0.0.0.0 www.tracking.keywee.co
+0.0.0.0 video.keywee.co
+0.0.0.0 www.keywee.co
 0.0.0.0 leadpages.co
 0.0.0.0 www.123employee.leadpages.co
 0.0.0.0 www.acoustic.leadpages.co
@@ -2375,6 +2391,8 @@
 0.0.0.0 web-ads.adsorb.com
 0.0.0.0 www.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
+0.0.0.0 adssyscom.com
+0.0.0.0 www.adssyscom.com
 0.0.0.0 adsttc.com
 0.0.0.0 afd.adsttc.com
 0.0.0.0 api.adsttc.com
