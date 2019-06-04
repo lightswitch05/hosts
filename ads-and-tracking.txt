@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-03T18:54:39+00:00
-# Count: 2462 domains
+# Released: 2019-06-04T13:57:10+00:00
+# Count: 2464 domains
 # Details: https://github.com/lightswitch05/hosts
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -367,6 +367,8 @@
 0.0.0.0 cx.atdmt.com
 0.0.0.0 analytics.atlassian.com
 0.0.0.0 atwola.com
+0.0.0.0 at.atwola.com
+0.0.0.0 cdn.at.atwola.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 audiensis.com
 0.0.0.0 dwh-tracking.it.auth0.com
