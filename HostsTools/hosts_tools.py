@@ -19,7 +19,7 @@ FILE_HEADER = """
 # Title: Lightswitch05's [file_name]
 # Released: [timestamp]
 # Count: [domain_count] domains
-# Details: https://github.com/lightswitch05/hosts
+# Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/[file_name]
 # Expires: 2 days
