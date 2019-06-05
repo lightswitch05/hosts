@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-05T12:53:47+00:00
-# Count: 2468 domains
+# Released: 2019-06-05T19:05:33+00:00
+# Count: 2471 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -447,6 +447,8 @@
 0.0.0.0 s.btstatic.com
 0.0.0.0 bucksense.com
 0.0.0.0 ck.bucksense.com
+0.0.0.0 bugherd.com
+0.0.0.0 www.bugherd.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 campaigns.bugsnag.com
@@ -1868,6 +1870,7 @@
 0.0.0.0 districtm.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dmx.districtm.io
+0.0.0.0 ipa.elev.io
 0.0.0.0 extole.io
 0.0.0.0 origin.extole.io
 0.0.0.0 origin-2.extole.io
