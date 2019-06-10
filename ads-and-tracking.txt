@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-10T12:58:06+00:00
-# Count: 2469 domains
+# Released: 2019-06-10T13:00:04+00:00
+# Count: 2472 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -887,6 +887,7 @@
 0.0.0.0 app.intuit.launchdarkly.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 leadnationmedia.com
+0.0.0.0 leadsbridge.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 njadxrtb.lfstmedia.com
@@ -1526,6 +1527,8 @@
 0.0.0.0 pixel.tagdelivery.com
 0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
+0.0.0.0 tapfiliate.com
+0.0.0.0 static.tapfiliate.com
 0.0.0.0 tapjoy.com
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 content.tapjoy.com
