@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-06-05T12:54:16+00:00
-# Count: 89 domains
+# Released: 2019-06-10T12:46:43+00:00
+# Count: 91 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -31,6 +31,8 @@
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 location-services-measurements.s3-external-1.amazonaws.com
 0.0.0.0 ugc.bazaarvoice.com
+0.0.0.0 cabelas.ugc.bazaarvoice.com
+0.0.0.0 carters.ugc.bazaarvoice.com
 0.0.0.0 location.bloomberg.com
 0.0.0.0 personalization.bloomberg.com
 0.0.0.0 geoip.businessinsider.com
