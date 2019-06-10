@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-06-10T12:46:43+00:00
-# Count: 3013 domains
+# Released: 2019-06-10T12:58:17+00:00
+# Count: 3028 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -25,6 +25,8 @@
 0.0.0.0 cortana.ai
 0.0.0.0 api.cortana.ai
 0.0.0.0 querysuggestions-int.api.cortana.ai
+0.0.0.0 prod.compliantbfchannel.cortana.ai
+0.0.0.0 test.compliantbfchannel.cortana.ai
 0.0.0.0 compliantcd.cortana.ai
 0.0.0.0 cortanacoreruntimemds.cortana.ai
 0.0.0.0 cortex.shs.dev.cortana.ai
@@ -325,6 +327,7 @@
 0.0.0.0 uniqloenus.ugc.bazaarvoice.com
 0.0.0.0 urbandecay.ugc.bazaarvoice.com
 0.0.0.0 vandenborre.ugc.bazaarvoice.com
+0.0.0.0 vegascom.ugc.bazaarvoice.com
 0.0.0.0 verizonwireless.ugc.bazaarvoice.com
 0.0.0.0 verkkokauppa.ugc.bazaarvoice.com
 0.0.0.0 virginwines.ugc.bazaarvoice.com
@@ -412,6 +415,7 @@
 0.0.0.0 akamai-san42.exacttarget.com
 0.0.0.0 akamai-san43.exacttarget.com
 0.0.0.0 akamai-san44.exacttarget.com
+0.0.0.0 akamai-san45.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
 0.0.0.0 akamai-san7.exacttarget.com
@@ -560,6 +564,8 @@
 0.0.0.0 mcvsb3gbtj9sn8ltvq3j4l-bw21y.login.exacttarget.com
 0.0.0.0 mcx915krlq4sx-35t6rmswbqw924.login.exacttarget.com
 0.0.0.0 mcz17jmw1yrdnf908lv4t1wmwl88.login.exacttarget.com
+0.0.0.0 mczngp8zk1hybgx-x-9wtwh28wm0.login.exacttarget.com
+0.0.0.0 s11.login.exacttarget.com
 0.0.0.0 s50.login.exacttarget.com
 0.0.0.0 login-qa1.exacttarget.com
 0.0.0.0 mc.login-qa1.exacttarget.com
@@ -1176,6 +1182,10 @@
 0.0.0.0 o6.email.flipboard.com
 0.0.0.0 o7.email.flipboard.com
 0.0.0.0 o8.email.flipboard.com
+0.0.0.0 o16.ptr3525.email.flipboard.com
+0.0.0.0 o11.ptr6302.email.flipboard.com
+0.0.0.0 o15.ptr8133.email.flipboard.com
+0.0.0.0 o10.ptr9351.email.flipboard.com
 0.0.0.0 engineering.flipboard.com
 0.0.0.0 fbchina.flipboard.com
 0.0.0.0 fbprod.flipboard.com
@@ -2261,6 +2271,7 @@
 0.0.0.0 ns-o.providesupport.com
 0.0.0.0 ns1.providesupport.com
 0.0.0.0 ns2.providesupport.com
+0.0.0.0 ns2lo-jp.providesupport.com
 0.0.0.0 ns3.providesupport.com
 0.0.0.0 operator.providesupport.com
 0.0.0.0 operator3.providesupport.com
@@ -2529,6 +2540,7 @@
 0.0.0.0 analytics.spot.im
 0.0.0.0 analytics-read.spot.im
 0.0.0.0 api.spot.im
+0.0.0.0 api-2-0.spot.im
 0.0.0.0 api-launcher.spot.im
 0.0.0.0 app-cdn.spot.im
 0.0.0.0 blog.spot.im
@@ -2587,6 +2599,7 @@
 0.0.0.0 sso.spot.im
 0.0.0.0 staging-api.spot.im
 0.0.0.0 stagingv2.spot.im
+0.0.0.0 static-cdn.spot.im
 0.0.0.0 status.spot.im
 0.0.0.0 support.spot.im
 0.0.0.0 t1-spoxy.spot.im
@@ -2752,6 +2765,7 @@
 0.0.0.0 identity-michaelkorsfr.gomoxie.solutions
 0.0.0.0 identity-michaelkorsit.gomoxie.solutions
 0.0.0.0 identity-michaelkorsuk.gomoxie.solutions
+0.0.0.0 identity-moxiecom.gomoxie.solutions
 0.0.0.0 identity-norton.gomoxie.solutions
 0.0.0.0 identity-nortontest.gomoxie.solutions
 0.0.0.0 identity-peoples.gomoxie.solutions
@@ -2887,6 +2901,7 @@
 0.0.0.0 webmail.level2.tawk.to
 0.0.0.0 www.level2.tawk.to
 0.0.0.0 mx1.mta.tawk.to
+0.0.0.0 pages.tawk.to
 0.0.0.0 phdev.tawk.to
 0.0.0.0 cpanel.phdev.tawk.to
 0.0.0.0 drupal-main.phdev.tawk.to
