@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-10T13:00:04+00:00
-# Count: 2472 domains
+# Released: 2019-06-10T13:08:21+00:00
+# Count: 2475 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -403,6 +403,7 @@
 0.0.0.0 beeviewd.com
 0.0.0.0 adserver.beeviewd.com
 0.0.0.0 bestadbid.com
+0.0.0.0 bestbackorder.com
 0.0.0.0 bestcontentonline.com
 0.0.0.0 adserver.bestcontentonline.com
 0.0.0.0 cdn.bestreviews.com
@@ -2132,6 +2133,8 @@
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dt-cdn.net
 0.0.0.0 rubiconproject.dyns.net
+0.0.0.0 easydomain.net
+0.0.0.0 order.easydomain.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
