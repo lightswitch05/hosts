@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-11T12:36:22+00:00
-# Count: 42202 domains
+# Released: 2019-06-11T12:47:16+00:00
+# Count: 42210 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -12662,6 +12662,13 @@
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
+0.0.0.0 headlinerlabs.com
+0.0.0.0 api.headlinerlabs.com
+0.0.0.0 go.headlinerlabs.com
+0.0.0.0 plugin.headlinerlabs.com
+0.0.0.0 portal-fynd.headlinerlabs.com
+0.0.0.0 staging.headlinerlabs.com
+0.0.0.0 www.headlinerlabs.com
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 www.fs-client-logger.herokuapp.com
 0.0.0.0 gdpr-service.herokuapp.com
@@ -31570,6 +31577,7 @@
 0.0.0.0 d1spgg7psata7d.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
+0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
