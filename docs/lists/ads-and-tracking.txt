@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-11T12:47:16+00:00
-# Count: 2498 domains
+# Released: 2019-06-12T13:33:58+00:00
+# Count: 2507 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -51,6 +51,7 @@
 0.0.0.0 track.traffic.club
 0.0.0.0 s.jpush.cn
 0.0.0.0 stats.jpush.cn
+0.0.0.0 invitation.cantonfair.org.cn
 0.0.0.0 6sc.co
 0.0.0.0 j.6sc.co
 0.0.0.0 prebid.adnxs.co
@@ -78,6 +79,9 @@
 0.0.0.0 snackly.co
 0.0.0.0 veeso.co
 0.0.0.0 panel.veeso.co
+0.0.0.0 vip.126.com
+0.0.0.0 163.com
+0.0.0.0 dm.mail.163.com
 0.0.0.0 247realmedia.com
 0.0.0.0 oasc02014.247realmedia.com
 0.0.0.0 oasc18.247realmedia.com
@@ -754,6 +758,8 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 granify.com
+0.0.0.0 cdn.granify.com
 0.0.0.0 metric.gstatic.com
 0.0.0.0 adserver.gtcmovies.com
 0.0.0.0 gumgum.com
@@ -1821,6 +1827,8 @@
 0.0.0.0 ad.gt
 0.0.0.0 seg.ad.gt
 0.0.0.0 wpad.home
+0.0.0.0 tbe.host
+0.0.0.0 t.tbe.host
 0.0.0.0 checkdealgoldliteflash.icu
 0.0.0.0 www.checkdealgoldliteflash.icu
 0.0.0.0 doconcretegreatliteflash.icu
@@ -2422,6 +2430,7 @@
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
 0.0.0.0 cdn.bibblio.org
+0.0.0.0 invitation.cantonfair.org
 0.0.0.0 commercialvalue.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
