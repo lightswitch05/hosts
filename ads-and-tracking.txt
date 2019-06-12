@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-12T14:44:20+00:00
-# Count: 2509 domains
+# Released: 2019-06-12T15:45:58+00:00
+# Count: 2511 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1268,6 +1268,8 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 pubocean.com
 0.0.0.0 rta.pubocean.com
+0.0.0.0 pushengage.com
+0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 pushmejs.com
 0.0.0.0 pushspring.com
 0.0.0.0 api.pushspring.com
