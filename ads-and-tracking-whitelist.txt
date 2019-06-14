@@ -197,7 +197,7 @@
 ^admin(-\S+)?\.grapeshot.co.uk$
 
 # random looking imrworldwide domains: buuwjhqubudzehjy9ox2pfyvnnwgj1549378515.nuid.imrworldwide.com
-^\S{39,}\.nuid\.imrworldwide\.com$
+^\S{39,}\.\S+id\.imrworldwide\.com$
 
 # any subdomain of t1.r since its mostly random can can be anything
 ^.*\.t1\.re$
