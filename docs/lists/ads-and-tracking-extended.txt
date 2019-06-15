@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-14T13:38:00+00:00
-# Count: 43380 domains
+# Released: 2019-06-15T13:26:07+00:00
+# Count: 43430 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -41110,6 +41110,56 @@
 0.0.0.0 thirdparty-logserver-lb.global.prod1.sharethis.net
 0.0.0.0 widget-lb.global.prod1.sharethis.net
 0.0.0.0 seg-server-elb.lb.staging1.sharethis.net
+0.0.0.0 singular.net
+0.0.0.0 ad.singular.net
+0.0.0.0 view-prod.ad.singular.net
+0.0.0.0 api.singular.net
+0.0.0.0 app.singular.net
+0.0.0.0 attribution.singular.net
+0.0.0.0 akamai.attribution.singular.net
+0.0.0.0 eu-west-1-prod-attribution-gate.attribution.singular.net
+0.0.0.0 fbc.attribution.singular.net
+0.0.0.0 s2s.attribution.singular.net
+0.0.0.0 attribution-gate.singular.net
+0.0.0.0 c.singular.net
+0.0.0.0 www.c.singular.net
+0.0.0.0 cdn.singular.net
+0.0.0.0 click.singular.net
+0.0.0.0 devdevdev.singular.net
+0.0.0.0 prod.e.singular.net
+0.0.0.0 eu-west-1.prod.e.singular.net
+0.0.0.0 eu-central-1-prod-t.singular.net
+0.0.0.0 eu-west-1-prod-t.singular.net
+0.0.0.0 eu-west-1-prodfb-t.singular.net
+0.0.0.0 exceptions.singular.net
+0.0.0.0 explore.singular.net
+0.0.0.0 www.explore.singular.net
+0.0.0.0 exports.singular.net
+0.0.0.0 fb.singular.net
+0.0.0.0 fbclick.singular.net
+0.0.0.0 fbt.singular.net
+0.0.0.0 go.singular.net
+0.0.0.0 i.singular.net
+0.0.0.0 logs.singular.net
+0.0.0.0 maven.singular.net
+0.0.0.0 prod-t.singular.net
+0.0.0.0 prodfb-t.singular.net
+0.0.0.0 s2s.singular.net
+0.0.0.0 sdk.singular.net
+0.0.0.0 www.sdk.singular.net
+0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 staging.singular.net
+0.0.0.0 t.singular.net
+0.0.0.0 t-api.singular.net
+0.0.0.0 us-west-2-prod-t.singular.net
+0.0.0.0 us-west-2-prodfb-t.singular.net
+0.0.0.0 webapp-cdn.singular.net
+0.0.0.0 websitecdn.singular.net
+0.0.0.0 www.singular.net
+0.0.0.0 www2.singular.net
+0.0.0.0 www4.singular.net
+0.0.0.0 www7.singular.net
+0.0.0.0 www8.singular.net
 0.0.0.0 smaato.net
 0.0.0.0 204.smaato.net
 0.0.0.0 451.smaato.net
