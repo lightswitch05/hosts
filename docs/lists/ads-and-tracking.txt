@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-15T13:26:07+00:00
-# Count: 2514 domains
+# Released: 2019-06-17T12:28:11+00:00
+# Count: 2520 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -263,6 +263,8 @@
 0.0.0.0 altitude-arena.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 cookie.altitude-arena.com
+0.0.0.0 amazin.com
+0.0.0.0 www.amazin.com
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 mads.amazon.com
@@ -1180,6 +1182,8 @@
 0.0.0.0 onaudience.com
 0.0.0.0 adserver.onlinesyn.com
 0.0.0.0 jpx-d3.openxenterprise.com
+0.0.0.0 opmnstr.com
+0.0.0.0 a.opmnstr.com
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
 0.0.0.0 optimizely.com
@@ -1192,6 +1196,8 @@
 0.0.0.0 api.optmnstr.com
 0.0.0.0 optmstr.com
 0.0.0.0 a.optmstr.com
+0.0.0.0 optnmnstr.com
+0.0.0.0 a.optnmnstr.com
 0.0.0.0 optnmstr.com
 0.0.0.0 a.optnmstr.com
 0.0.0.0 opttracker.com

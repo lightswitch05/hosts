@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2019-06-17T04:03:58+00:00
-# Count: 1486 domains
+# Released: 2019-06-17T14:30:41+00:00
+# Count: 1489 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -123,6 +123,8 @@
 0.0.0.0 www-younews-in.amp.cloudflare.com
 0.0.0.0 amp.knoxnews.com
 0.0.0.0 amp.newsobserver.com
+0.0.0.0 amp.reddit.com
+0.0.0.0 www.amp.reddit.com
 0.0.0.0 amp.si.com
 0.0.0.0 amp.tennessean.com
 0.0.0.0 amp.theguardian.com
@@ -1082,6 +1084,7 @@
 0.0.0.0 www-cybereason-com.cdn.ampproject.org
 0.0.0.0 www-cybersport-ru.cdn.ampproject.org
 0.0.0.0 www-dailymail-co-uk.cdn.ampproject.org
+0.0.0.0 www-dailyrecord-co-uk.cdn.ampproject.org
 0.0.0.0 www-dailystar-co-uk.cdn.ampproject.org
 0.0.0.0 www-daytondailynews-com.cdn.ampproject.org
 0.0.0.0 www-dealcatcher-com.cdn.ampproject.org
