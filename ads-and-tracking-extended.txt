@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-18T12:04:33+00:00
-# Count: 43471 domains
+# Released: 2019-06-18T18:26:17+00:00
+# Count: 43477 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -22642,6 +22642,7 @@
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tracking.rightmessage.com
 0.0.0.0 www.rightmessage.com
+0.0.0.0 beacon.riskified.com
 0.0.0.0 rkdms.com
 0.0.0.0 a.rkdms.com
 0.0.0.0 ads.rkdms.com
@@ -23829,6 +23830,7 @@
 0.0.0.0 www.snapads.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 staging.app-analytics.snapchat.com
+0.0.0.0 tr.snapchat.com
 0.0.0.0 socialannex.com
 0.0.0.0 api.socialannex.com
 0.0.0.0 archive.socialannex.com
@@ -27723,6 +27725,9 @@
 0.0.0.0 singtel.wavesecure.com
 0.0.0.0 telkomsel.wavesecure.com
 0.0.0.0 www.wavesecure.com
+0.0.0.0 px.wayfair.com
+0.0.0.0 t.wayfair.com
+0.0.0.0 www.t.wayfair.com
 0.0.0.0 wbinsights.com
 0.0.0.0 contractor.wbinsights.com
 0.0.0.0 event.wbinsights.com
@@ -29423,6 +29428,7 @@
 0.0.0.0 static.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
+0.0.0.0 api.datasteam.io
 0.0.0.0 districtm.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dev.cdn.districtm.io
