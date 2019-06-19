@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-19T14:41:28+00:00
-# Count: 2533 domains
+# Released: 2019-06-19T15:22:13+00:00
+# Count: 2535 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1827,6 +1827,8 @@
 0.0.0.0 zemanta.com
 0.0.0.0 wprp.zemanta.com
 0.0.0.0 analytics.zg-api.com
+0.0.0.0 e.zg-api.com
+0.0.0.0 keystone.zillow.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
