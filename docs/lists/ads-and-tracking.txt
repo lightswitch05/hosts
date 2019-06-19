@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-18T18:26:17+00:00
-# Count: 2528 domains
+# Released: 2019-06-19T14:41:28+00:00
+# Count: 2533 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -518,6 +518,7 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 apple.comscoreresearch.com
+0.0.0.0 eum.concursolutions.com
 0.0.0.0 segmentation.condenastdigital.com
 0.0.0.0 consoliads.com
 0.0.0.0 sdk.consoliads.com
@@ -563,6 +564,8 @@
 0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 dis.criteo.com
+0.0.0.0 crsspxl.com
+0.0.0.0 tag.crsspxl.com
 0.0.0.0 cname01.cryptolootminer.com
 0.0.0.0 cname03.cryptolootminer.com
 0.0.0.0 cname04.cryptolootminer.com
@@ -2388,6 +2391,8 @@
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 pl-pubimgs.placester.net
 0.0.0.0 pixel.printsites.net
+0.0.0.0 pro-market.net
+0.0.0.0 ads.pro-market.net
 0.0.0.0 returnpath.net
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 nb-us.wal.co.revdn.net
