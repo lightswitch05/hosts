@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-06-10T12:58:17+00:00
-# Count: 91 domains
+# Released: 2019-06-21T13:05:31+00:00
+# Count: 92 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -64,6 +64,7 @@
 0.0.0.0 mobistealth.com
 0.0.0.0 mspy.com
 0.0.0.0 analytics.narvar.com
+0.0.0.0 seal.websecurity.norton.com
 0.0.0.0 geoip.newsdev.nytimes.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 geo.office365.com

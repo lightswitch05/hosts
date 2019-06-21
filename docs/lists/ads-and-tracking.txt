@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-20T12:37:13+00:00
-# Count: 2536 domains
+# Released: 2019-06-21T13:12:19+00:00
+# Count: 2547 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -637,6 +637,9 @@
 0.0.0.0 gu.dyntrk.com
 0.0.0.0 e0mn.com
 0.0.0.0 p.d.e0mn.com
+0.0.0.0 ecorebates.com
+0.0.0.0 lowes.ecorebates.com
+0.0.0.0 static.ecorebates.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
 0.0.0.0 eloqua.com
@@ -936,6 +939,7 @@
 0.0.0.0 cloudfront.loggly.com
 0.0.0.0 lootsie.com
 0.0.0.0 api-v2.lootsie.com
+0.0.0.0 smetrics.lowes.com
 0.0.0.0 m-freeway.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 www.m-freeway.com
@@ -1830,6 +1834,8 @@
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 e.zg-api.com
 0.0.0.0 keystone.zillow.com
+0.0.0.0 zineone.com
+0.0.0.0 apps.zineone.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
@@ -2106,6 +2112,7 @@
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
+0.0.0.0 d39vf9bwtb4sua.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
@@ -2351,6 +2358,7 @@
 0.0.0.0 hyattcorporation.tt.omtrdc.net
 0.0.0.0 kohls.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
+0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
@@ -2401,6 +2409,8 @@
 0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
 0.0.0.0 sc-static.net
+0.0.0.0 sellpoint.net
+0.0.0.0 a.sellpoint.net
 0.0.0.0 sharethis.net
 0.0.0.0 seg-server-lb.global.prod1.sharethis.net
 0.0.0.0 singular.net
@@ -2427,6 +2437,7 @@
 0.0.0.0 visto1.net
 0.0.0.0 t.visto1.net
 0.0.0.0 webcam.net
+0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
