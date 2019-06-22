@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-21T15:40:49+00:00
-# Count: 2548 domains
+# Released: 2019-06-22T18:31:00+00:00
+# Count: 2561 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -130,6 +130,8 @@
 0.0.0.0 addragon.com
 0.0.0.0 ads.addragon.com
 0.0.0.0 stats.addsearch.com
+0.0.0.0 addthis.com
+0.0.0.0 e.dlx.addthis.com
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 adenabler.com
@@ -238,6 +240,10 @@
 0.0.0.0 px.airpr.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 adserver.akamanda.com
+0.0.0.0 alcmpn.com
+0.0.0.0 ae.alcmpn.com
+0.0.0.0 rtx.alcmpn.com
+0.0.0.0 sync.alcmpn.com
 0.0.0.0 alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 analytics.algolia.com
@@ -261,6 +267,8 @@
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 allinviews.com
 0.0.0.0 adserver.allinviews.com
+0.0.0.0 alocdn.com
+0.0.0.0 p.alocdn.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 cookie.altitude-arena.com
@@ -565,6 +573,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 dis.criteo.com
+0.0.0.0 widget.criteo.com
 0.0.0.0 crsspxl.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 cname01.cryptolootminer.com
@@ -808,6 +817,8 @@
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 hotjar.com
+0.0.0.0 script.hotjar.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 htlbid.com
 0.0.0.0 doppler.hulu.com
@@ -848,6 +859,8 @@
 0.0.0.0 instartlogic.com
 0.0.0.0 insights.integralads.com
 0.0.0.0 intelsad.com
+0.0.0.0 intentiq.com
+0.0.0.0 api.intentiq.com
 0.0.0.0 blog.intercom.com
 0.0.0.0 intercomcdn.com
 0.0.0.0 js.intercomcdn.com
