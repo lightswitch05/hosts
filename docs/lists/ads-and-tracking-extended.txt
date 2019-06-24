@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-22T18:31:00+00:00
-# Count: 44374 domains
+# Released: 2019-06-24T12:56:13+00:00
+# Count: 44416 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17520,6 +17520,10 @@
 0.0.0.0 www.mixpanel.com
 0.0.0.0 mkt8668.com
 0.0.0.0 contentz.mkt8668.com
+0.0.0.0 mkt932.com
+0.0.0.0 content.mkt932.com
+0.0.0.0 contentz.mkt932.com
+0.0.0.0 www.mkt932.com
 0.0.0.0 mkto-ab040164.com
 0.0.0.0 mkto-ab060029.com
 0.0.0.0 mkto-ab090106.com
@@ -21388,6 +21392,19 @@
 0.0.0.0 sonarqube.pubocean.com
 0.0.0.0 srta.pubocean.com
 0.0.0.0 www.pubocean.com
+0.0.0.0 pursuanthealth.com
+0.0.0.0 api.pursuanthealth.com
+0.0.0.0 dev.pursuanthealth.com
+0.0.0.0 go.pursuanthealth.com
+0.0.0.0 logs.pursuanthealth.com
+0.0.0.0 my.pursuanthealth.com
+0.0.0.0 new.pursuanthealth.com
+0.0.0.0 oauth2.pursuanthealth.com
+0.0.0.0 remoteaccess.pursuanthealth.com
+0.0.0.0 selfservice.pursuanthealth.com
+0.0.0.0 trk.pursuanthealth.com
+0.0.0.0 ux-gateway.pursuanthealth.com
+0.0.0.0 www.pursuanthealth.com
 0.0.0.0 pushengage.com
 0.0.0.0 aceelectronicsforu.pushengage.com
 0.0.0.0 ad-webwinkel.pushengage.com
@@ -42455,6 +42472,31 @@
 0.0.0.0 lb.sjc1.visto1.net
 0.0.0.0 t.visto1.net
 0.0.0.0 tprod.visto1.net
+0.0.0.0 w55c.net
+0.0.0.0 ads.w55c.net
+0.0.0.0 cdn.w55c.net
+0.0.0.0 cti.w55c.net
+0.0.0.0 cts.w55c.net
+0.0.0.0 dco.w55c.net
+0.0.0.0 dco-cdn.w55c.net
+0.0.0.0 geo-lb01.w55c.net
+0.0.0.0 geo-lb02.w55c.net
+0.0.0.0 geotags.w55c.net
+0.0.0.0 cdn.glbp.w55c.net
+0.0.0.0 i.glbp.w55c.net
+0.0.0.0 pm.glbp.w55c.net
+0.0.0.0 i.w55c.net
+0.0.0.0 nocookie.w55c.net
+0.0.0.0 opt.w55c.net
+0.0.0.0 ox-d.w55c.net
+0.0.0.0 ox-i.w55c.net
+0.0.0.0 pm.w55c.net
+0.0.0.0 securetags.w55c.net
+0.0.0.0 tags.w55c.net
+0.0.0.0 target-dev.w55c.net
+0.0.0.0 testnocookie.w55c.net
+0.0.0.0 trafficmanager.w55c.net
+0.0.0.0 www.w55c.net
 0.0.0.0 webcam.net
 0.0.0.0 www.webcam.net
 0.0.0.0 scontent.webcollage.net
