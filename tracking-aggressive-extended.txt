@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-06-21T15:56:51+00:00
-# Count: 3044 domains
+# Released: 2019-06-24T04:25:26+00:00
+# Count: 3057 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -197,6 +197,7 @@
 0.0.0.0 horizonhobby.ugc.bazaarvoice.com
 0.0.0.0 hp.ugc.bazaarvoice.com
 0.0.0.0 hpemea-de.ugc.bazaarvoice.com
+0.0.0.0 hpemea-en.ugc.bazaarvoice.com
 0.0.0.0 hpemea-it.ugc.bazaarvoice.com
 0.0.0.0 hsamuel.ugc.bazaarvoice.com
 0.0.0.0 icebreaker.ugc.bazaarvoice.com
@@ -293,6 +294,7 @@
 0.0.0.0 screwfix.ugc.bazaarvoice.com
 0.0.0.0 sephora.ugc.bazaarvoice.com
 0.0.0.0 serta.ugc.bazaarvoice.com
+0.0.0.0 sharp.ugc.bazaarvoice.com
 0.0.0.0 similac.ugc.bazaarvoice.com
 0.0.0.0 skii.ugc.bazaarvoice.com
 0.0.0.0 soma.ugc.bazaarvoice.com
@@ -422,6 +424,7 @@
 0.0.0.0 akamai-san43.exacttarget.com
 0.0.0.0 akamai-san44.exacttarget.com
 0.0.0.0 akamai-san45.exacttarget.com
+0.0.0.0 akamai-san46.exacttarget.com
 0.0.0.0 akamai-san47.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
@@ -776,6 +779,8 @@
 0.0.0.0 imh.s1.qa1.exacttarget.com
 0.0.0.0 mc.s1.qa1.exacttarget.com
 0.0.0.0 members.s1.qa1.exacttarget.com
+0.0.0.0 origin-akamai-auth.s1.qa1.exacttarget.com
+0.0.0.0 origin-auth.s1.qa1.exacttarget.com
 0.0.0.0 pd1.s1.qa1.exacttarget.com
 0.0.0.0 image.pd1.s1.qa1.exacttarget.com
 0.0.0.0 scpweb.s1.qa1.exacttarget.com
@@ -786,6 +791,8 @@
 0.0.0.0 imh.s2.qa1.exacttarget.com
 0.0.0.0 mc.s2.qa1.exacttarget.com
 0.0.0.0 members.s2.qa1.exacttarget.com
+0.0.0.0 origin-akamai-auth.s2.qa1.exacttarget.com
+0.0.0.0 origin-auth.s2.qa1.exacttarget.com
 0.0.0.0 qa2.exacttarget.com
 0.0.0.0 auth.qa2.exacttarget.com
 0.0.0.0 prem.qa2.exacttarget.com
@@ -827,6 +834,7 @@
 0.0.0.0 imh.s1.qa3.exacttarget.com
 0.0.0.0 mc.s1.qa3.exacttarget.com
 0.0.0.0 members.s1.qa3.exacttarget.com
+0.0.0.0 origin-auth.s1.qa3.exacttarget.com
 0.0.0.0 pages.s1.qa3.exacttarget.com
 0.0.0.0 s2.qa3.exacttarget.com
 0.0.0.0 auth.s2.qa3.exacttarget.com
@@ -835,6 +843,7 @@
 0.0.0.0 imh.s2.qa3.exacttarget.com
 0.0.0.0 mc.s2.qa3.exacttarget.com
 0.0.0.0 members.s2.qa3.exacttarget.com
+0.0.0.0 origin-auth.s2.qa3.exacttarget.com
 0.0.0.0 scpweb.s2.qa3.exacttarget.com
 0.0.0.0 s1.qa5.exacttarget.com
 0.0.0.0 auth.s1.qa5.exacttarget.com
@@ -1388,6 +1397,7 @@
 0.0.0.0 ru1-direct.gigya.com
 0.0.0.0 ru1-st1.gigya.com
 0.0.0.0 ru1-st2.gigya.com
+0.0.0.0 ru1-st4.gigya.com
 0.0.0.0 ru1a-email-mng.gigya.com
 0.0.0.0 www.ru1a-email-mng.gigya.com
 0.0.0.0 socialize.gigya.com
@@ -1678,6 +1688,7 @@
 0.0.0.0 status.livechatinc.com
 0.0.0.0 support.livechatinc.com
 0.0.0.0 pmbounces.tickets.livechatinc.com
+0.0.0.0 url5285.livechatinc.com
 0.0.0.0 wix.livechatinc.com
 0.0.0.0 www.livechatinc.com
 0.0.0.0 livefyre.com
@@ -2701,6 +2712,7 @@
 0.0.0.0 gomoxie.solutions
 0.0.0.0 asset.gomoxie.solutions
 0.0.0.0 connector-bms_orencia.gomoxie.solutions
+0.0.0.0 connector-boscovs.gomoxie.solutions
 0.0.0.0 connector-cb.gomoxie.solutions
 0.0.0.0 connector-coned.gomoxie.solutions
 0.0.0.0 connector-conedtest.gomoxie.solutions
@@ -2771,6 +2783,7 @@
 0.0.0.0 identity-flowers.gomoxie.solutions
 0.0.0.0 identity-hawkincentives.gomoxie.solutions
 0.0.0.0 identity-lifetimefitness.gomoxie.solutions
+0.0.0.0 identity-mercer.gomoxie.solutions
 0.0.0.0 identity-michaelkors.gomoxie.solutions
 0.0.0.0 identity-michaelkorsca.gomoxie.solutions
 0.0.0.0 identity-michaelkorsde.gomoxie.solutions
