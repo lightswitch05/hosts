@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-22T18:31:00+00:00
-# Count: 2561 domains
+# Released: 2019-06-24T12:56:13+00:00
+# Count: 2570 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -139,6 +139,7 @@
 0.0.0.0 adserver.adigitalrepublic.com
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
+0.0.0.0 s2s.adjust.com
 0.0.0.0 view.adjust.com
 0.0.0.0 adkmob.com
 0.0.0.0 orionimg.adkmob.com
@@ -194,6 +195,7 @@
 0.0.0.0 nrd.adsttc.com
 0.0.0.0 adswizz.com
 0.0.0.0 adsymptotic.com
+0.0.0.0 c.adsymptotic.com
 0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
@@ -1028,6 +1030,8 @@
 0.0.0.0 switchboard.mixpanel.com
 0.0.0.0 mkt8668.com
 0.0.0.0 contentz.mkt8668.com
+0.0.0.0 mkt932.com
+0.0.0.0 contentz.mkt932.com
 0.0.0.0 mkto-ab040164.com
 0.0.0.0 mkto-ab060029.com
 0.0.0.0 mkto-ab090106.com
@@ -1299,6 +1303,8 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 pubocean.com
 0.0.0.0 rta.pubocean.com
+0.0.0.0 pursuanthealth.com
+0.0.0.0 trk.pursuanthealth.com
 0.0.0.0 pushengage.com
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 pushmejs.com
@@ -1643,6 +1649,7 @@
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackjs.com
 0.0.0.0 capture.trackjs.com
+0.0.0.0 usage.trackjs.com
 0.0.0.0 trackverify.com
 0.0.0.0 traffiliate.com
 0.0.0.0 eb.trbas.com
@@ -2450,6 +2457,8 @@
 0.0.0.0 cdn.userreplay.net
 0.0.0.0 visto1.net
 0.0.0.0 t.visto1.net
+0.0.0.0 w55c.net
+0.0.0.0 tags.w55c.net
 0.0.0.0 webcam.net
 0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
