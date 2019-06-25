@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-24T15:05:12+00:00
-# Count: 2571 domains
+# Released: 2019-06-25T20:12:54+00:00
+# Count: 2576 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1157,6 +1157,7 @@
 0.0.0.0 mparticle.com
 0.0.0.0 identity.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
+0.0.0.0 jssdks.mparticle.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
@@ -2273,6 +2274,9 @@
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
+0.0.0.0 beacon-v2.helpscout.net
+0.0.0.0 beaconapi.helpscout.net
+0.0.0.0 mktg.helpscout.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hsadpixel.net
 0.0.0.0 hsadspixel.net
@@ -2416,6 +2420,7 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
 0.0.0.0 collector-a.perimeterx.net
+0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
 0.0.0.0 collector-pxpmp8ilui.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.perimeterx.net
