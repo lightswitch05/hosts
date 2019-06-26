@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-26T15:09:06+00:00
-# Count: 44420 domains
+# Released: 2019-06-26T18:40:37+00:00
+# Count: 44456 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6789,6 +6789,33 @@
 0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 yield-manager.browsiprod.com
+0.0.0.0 brsrvr.com
+0.0.0.0 blapi.brsrvr.com
+0.0.0.0 brm-core-0.brsrvr.com
+0.0.0.0 brm-core-websphere-0.brsrvr.com
+0.0.0.0 brm-perf-core-0.brsrvr.com
+0.0.0.0 brm-staging-core-0.brsrvr.com
+0.0.0.0 brm-staging-suggest-0.brsrvr.com
+0.0.0.0 brm-suggest-0.brsrvr.com
+0.0.0.0 bsapi-e.brsrvr.com
+0.0.0.0 bsapi-e20.brsrvr.com
+0.0.0.0 bsapi-euw.brsrvr.com
+0.0.0.0 bsapi-global.brsrvr.com
+0.0.0.0 bsapi-id-5073.brsrvr.com
+0.0.0.0 bsapi-test.brsrvr.com
+0.0.0.0 bsapi-test-ssl.brsrvr.com
+0.0.0.0 bsapi-w10.brsrvr.com
+0.0.0.0 bsapi-w20.brsrvr.com
+0.0.0.0 bsapi-w6.brsrvr.com
+0.0.0.0 cdn.brsrvr.com
+0.0.0.0 cdns.brsrvr.com
+0.0.0.0 www.cdns.brsrvr.com
+0.0.0.0 cdns-eu.brsrvr.com
+0.0.0.0 p.brsrvr.com
+0.0.0.0 p-ap.brsrvr.com
+0.0.0.0 p-eu.brsrvr.com
+0.0.0.0 static.brsrvr.com
+0.0.0.0 tsapi-e.brsrvr.com
 0.0.0.0 btstatic.com
 0.0.0.0 l.btstatic.com
 0.0.0.0 s.btstatic.com
@@ -13959,6 +13986,7 @@
 0.0.0.0 mo.test.haloapps.com
 0.0.0.0 url.haloapps.com
 0.0.0.0 www.haloapps.com
+0.0.0.0 microservice.hapyak.com
 0.0.0.0 smetrics.hbogo.com
 0.0.0.0 metrics.hbonow.com
 0.0.0.0 smetrics.hbonow.com
@@ -32380,6 +32408,14 @@
 0.0.0.0 sbx1.2o7.net
 0.0.0.0 adserver.383media.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 abmr.net
+0.0.0.0 ak1.abmr.net
+0.0.0.0 ak1s.abmr.net
+0.0.0.0 ak2.abmr.net
+0.0.0.0 cm1.abmr.net
+0.0.0.0 cms.abmr.net
+0.0.0.0 secure.abmr.net
+0.0.0.0 www.abmr.net
 0.0.0.0 ad-delivery.net
 0.0.0.0 adadvisor.net
 0.0.0.0 ab.adadvisor.net
