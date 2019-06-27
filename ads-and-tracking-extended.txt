@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-06-27T11:42:46+00:00
-# Count: 44984 domains
+# Released: 2019-06-27T12:19:30+00:00
+# Count: 45027 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -70,6 +70,7 @@
 0.0.0.0 status.wpm.neustar.biz
 0.0.0.0 mkto-panda123.music.blog
 0.0.0.0 www.mkto-panda123.music.blog
+0.0.0.0 smetrics.cbc.ca
 0.0.0.0 districtm.ca
 0.0.0.0 adx.districtm.ca
 0.0.0.0 an.districtm.ca
@@ -891,6 +892,11 @@
 0.0.0.0 veeso.co
 0.0.0.0 panel.veeso.co
 0.0.0.0 www.veeso.co
+0.0.0.0 i.viafoura.co
+0.0.0.0 insights.viafoura.co
+0.0.0.0 insights-canary.viafoura.co
+0.0.0.0 interaction.viafoura.co
+0.0.0.0 notifications.viafoura.co
 0.0.0.0 vip.126.com
 0.0.0.0 178.vip.126.com
 0.0.0.0 activity.vip.126.com
@@ -10142,6 +10148,42 @@
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 eum.concursolutions.com
 0.0.0.0 segmentation.condenastdigital.com
+0.0.0.0 conductrics.com
+0.0.0.0 acquia-api.conductrics.com
+0.0.0.0 admin-api-staging-v3.conductrics.com
+0.0.0.0 admin-cdn.conductrics.com
+0.0.0.0 api.conductrics.com
+0.0.0.0 api-ams-v3.conductrics.com
+0.0.0.0 api-aus.conductrics.com
+0.0.0.0 api-cbc.conductrics.com
+0.0.0.0 api-cbc-v3.conductrics.com
+0.0.0.0 api-de-v3.conductrics.com
+0.0.0.0 api-eu.conductrics.com
+0.0.0.0 api-google.conductrics.com
+0.0.0.0 api-google-ap-v3.conductrics.com
+0.0.0.0 api-google-eu-v3.conductrics.com
+0.0.0.0 api-google-v3.conductrics.com
+0.0.0.0 api-staging-v3.conductrics.com
+0.0.0.0 api-v3.conductrics.com
+0.0.0.0 asset-cdn.conductrics.com
+0.0.0.0 cdn-ams-v3.conductrics.com
+0.0.0.0 cdn-aus-v3.conductrics.com
+0.0.0.0 cdn-cbc-v3.conductrics.com
+0.0.0.0 cdn-google-v3.conductrics.com
+0.0.0.0 cdn-staging-v3.conductrics.com
+0.0.0.0 cdn-v3.conductrics.com
+0.0.0.0 de.cdn-v3.conductrics.com
+0.0.0.0 console-cbc-v3.conductrics.com
+0.0.0.0 console-staging-v3.conductrics.com
+0.0.0.0 data-staging-v3.conductrics.com
+0.0.0.0 elastic1.conductrics.com
+0.0.0.0 g-us-v3.conductrics.com
+0.0.0.0 admin-api.g-us-v3.conductrics.com
+0.0.0.0 api.g-us-v3.conductrics.com
+0.0.0.0 cdn.g-us-v3.conductrics.com
+0.0.0.0 staging-v3.conductrics.com
+0.0.0.0 v3.conductrics.com
+0.0.0.0 www.conductrics.com
 0.0.0.0 consoliads.com
 0.0.0.0 consoliad.consoliads.com
 0.0.0.0 www.consoliad.consoliads.com
@@ -34262,6 +34304,7 @@
 0.0.0.0 catechnologies.demdex.net
 0.0.0.0 cba.demdex.net
 0.0.0.0 cbcca.demdex.net
+0.0.0.0 fast.cbcca.demdex.net
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 ccaam.demdex.net
