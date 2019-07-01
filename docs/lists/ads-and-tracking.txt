@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-06-28T12:39:31+00:00
-# Count: 2596 domains
+# Released: 2019-07-01T12:59:53+00:00
+# Count: 2609 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -728,6 +728,7 @@
 0.0.0.0 flurry.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 proton.flurry.com
+0.0.0.0 fluxloop.com
 0.0.0.0 ad.foodlion.com
 0.0.0.0 footprintdns.com
 0.0.0.0 moiawsorigin.clo.footprintdns.com
@@ -950,6 +951,7 @@
 0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 leadsbridge.com
+0.0.0.0 analytics.leviton.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
 0.0.0.0 njadxrtb.lfstmedia.com
@@ -1412,6 +1414,7 @@
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 sugarland.logs.roku.com
 0.0.0.0 tyler.logs.roku.com
+0.0.0.0 traces.sr.roku.com
 0.0.0.0 track.sr.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 rollbar.com
@@ -2025,6 +2028,8 @@
 0.0.0.0 events.tabmo.io
 0.0.0.0 tribl.io
 0.0.0.0 p0.tribl.io
+0.0.0.0 tubi.io
+0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 gatag.it
 0.0.0.0 heatmap.it
@@ -2227,6 +2232,7 @@
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 685973.fls.doubleclick.net
 0.0.0.0 8222151.fls.doubleclick.net
+0.0.0.0 8705596.fls.doubleclick.net
 0.0.0.0 g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -2467,6 +2473,8 @@
 0.0.0.0 ss-omtrdc.net
 0.0.0.0 guided.ss-omtrdc.net
 0.0.0.0 sp10050c00.guided.ss-omtrdc.net
+0.0.0.0 st-av.net
+0.0.0.0 api.st-av.net
 0.0.0.0 streamrail.net
 0.0.0.0 vast.streamrail.net
 0.0.0.0 cs905.wac.systemcdn.net
@@ -2510,6 +2518,8 @@
 0.0.0.0 eazybiz.ng
 0.0.0.0 onlinesucces.nl
 0.0.0.0 connect.onlinesucces.nl
+0.0.0.0 pinch.no
+0.0.0.0 uc-eu2.pinch.no
 0.0.0.0 hz57.online
 0.0.0.0 adsrvr.org
 0.0.0.0 t.update.adsrvr.org
@@ -2573,6 +2583,9 @@
 0.0.0.0 uu4c.adj.st
 0.0.0.0 zuzs.adj.st
 0.0.0.0 wpad.test
+0.0.0.0 adrise.tv
+0.0.0.0 cdn.adrise.tv
+0.0.0.0 uapi.adrise.tv
 0.0.0.0 cdn-media.brightline.tv
 0.0.0.0 services.brightline.tv
 0.0.0.0 extend.tv
