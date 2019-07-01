@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-01T12:59:53+00:00
-# Count: 45248 domains
+# Released: 2019-07-01T14:12:47+00:00
+# Count: 45264 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -24815,6 +24815,17 @@
 0.0.0.0 transfer8.silverpop.com
 0.0.0.0 visitorinsight.silverpop.com
 0.0.0.0 www.silverpop.com
+0.0.0.0 sitelabweb.com
+0.0.0.0 az.sitelabweb.com
+0.0.0.0 az-colrep.sitelabweb.com
+0.0.0.0 az-colres.sitelabweb.com
+0.0.0.0 colrep.sitelabweb.com
+0.0.0.0 colres.sitelabweb.com
+0.0.0.0 www.colres.sitelabweb.com
+0.0.0.0 fastly.sitelabweb.com
+0.0.0.0 njerho.sitelabweb.com
+0.0.0.0 xytex.sitelabweb.com
+0.0.0.0 www.xytex.sitelabweb.com
 0.0.0.0 sizmek.com
 0.0.0.0 adapi.sizmek.com
 0.0.0.0 www.adapi.sizmek.com
@@ -33364,6 +33375,7 @@
 0.0.0.0 user-att-99-22-168-0.e8999.b.akamaiedge.net
 0.0.0.0 user-att-99-43-168-0.e8999.b.akamaiedge.net
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 ma85-r-analytics.akamaized.net
 0.0.0.0 access-prod.apis.anvato.net
 0.0.0.0 dcs-vod.apis.anvato.net
@@ -37908,6 +37920,10 @@
 0.0.0.0 prod.sonobi-go.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 www.clarium.global.ssl.fastly.net
+0.0.0.0 dfapvmql-q.global.ssl.fastly.net
+0.0.0.0 www.dfapvmql-q.global.ssl.fastly.net
+0.0.0.0 wkxppshj-qx.global.ssl.fastly.net
+0.0.0.0 www.wkxppshj-qx.global.ssl.fastly.net
 0.0.0.0 contextweb.map.fastlylb.net
 0.0.0.0 prod.contextweb.map.fastlylb.net
 0.0.0.0 prod.outbrain.map.fastlylb.net
