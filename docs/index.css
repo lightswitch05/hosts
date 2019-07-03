@@ -4,8 +4,8 @@ body ***REMOVED***
     font-family: Lato, Helvetica, sans-serif;
 
     max-width: 960px;
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
 ***REMOVED***
 
 main ***REMOVED***
@@ -26,4 +26,12 @@ section ***REMOVED***
     box-shadow: 0 1px 3px 0 #000;
     margin: 0 0 10px 0;
     padding: 1px 5px 1px 5px;
+***REMOVED***
+
+.block-image ***REMOVED***
+    height: 100px;
+    width: 320px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 ***REMOVED***
