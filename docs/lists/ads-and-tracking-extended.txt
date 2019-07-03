@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-03T14:20:53+00:00
-# Count: 45389 domains
+# Released: 2019-07-03T15:41:49+00:00
+# Count: 45391 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -11214,6 +11214,8 @@
 0.0.0.0 user.desmoinesregister.com
 0.0.0.0 cdnstatic.detik.com
 0.0.0.0 newrevive.detik.com
+0.0.0.0 block-test.developerdan.com
+0.0.0.0 www.block-test.developerdan.com
 0.0.0.0 metrics.dickssportinggoods.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 seal.digicert.com

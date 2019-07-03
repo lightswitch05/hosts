@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts.txt
-# Released: 2019-07-02T14:26:48+00:00
-# Count: 102 domains
+# Released: 2019-07-03T15:43:27+00:00
+# Count: 103 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts.txt
@@ -25,6 +25,7 @@
 0.0.0.0 amp.businessinsider.com
 0.0.0.0 amp.cloudflare.com
 0.0.0.0 discovery.amp.cloudflare.com
+0.0.0.0 block-test.developerdan.com
 0.0.0.0 amp.knoxnews.com
 0.0.0.0 amp.newsobserver.com
 0.0.0.0 amp.reddit.com

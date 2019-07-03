@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2019-07-02T14:26:48+00:00
-# Count: 1491 domains
+# Released: 2019-07-03T15:43:27+00:00
+# Count: 1493 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -121,6 +121,8 @@
 0.0.0.0 www-watan-com.amp.cloudflare.com
 0.0.0.0 www-yahoo-com.amp.cloudflare.com
 0.0.0.0 www-younews-in.amp.cloudflare.com
+0.0.0.0 block-test.developerdan.com
+0.0.0.0 www.block-test.developerdan.com
 0.0.0.0 amp.knoxnews.com
 0.0.0.0 amp.newsobserver.com
 0.0.0.0 amp.reddit.com
