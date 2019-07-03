@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-07-02T14:26:41+00:00
-# Count: 99 domains
+# Released: 2019-07-03T15:42:19+00:00
+# Count: 100 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -44,6 +44,7 @@
 0.0.0.0 comm100.com
 0.0.0.0 ent.comm100.com
 0.0.0.0 entmax.comm100.com
+0.0.0.0 block-test.developerdan.com
 0.0.0.0 myip.dnsomatic.com
 0.0.0.0 exacttarget.com
 0.0.0.0 click.virt.s6.exacttarget.com
