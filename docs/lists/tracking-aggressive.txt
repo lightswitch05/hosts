@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-07-08T12:46:19+00:00
-# Count: 100 domains
+# Released: 2019-07-08T19:40:23+00:00
+# Count: 101 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -107,6 +107,7 @@
 0.0.0.0 images.spot.im
 0.0.0.0 launcher.spot.im
 0.0.0.0 spoxy-eb.spot.im
+0.0.0.0 coactive.io
 0.0.0.0 ipinfo.io
 0.0.0.0 juicer.io
 0.0.0.0 assets.juicer.io
