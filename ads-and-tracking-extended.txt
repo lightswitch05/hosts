@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-08T14:24:28+00:00
-# Count: 45794 domains
+# Released: 2019-07-08T15:22:43+00:00
+# Count: 45803 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -13484,6 +13484,7 @@
 0.0.0.0 www.fanbread.com
 0.0.0.0 www-tabletopstrategies-com.fanbread.com
 0.0.0.0 zooworld.fanbread.com
+0.0.0.0 services.fandom.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 h1.fastly-insights.com
 0.0.0.0 h2.fastly-insights.com
@@ -39798,6 +39799,7 @@
 0.0.0.0 sdn01.mzbcdn.net
 0.0.0.0 www.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
+0.0.0.0 speed.nocookie.net
 0.0.0.0 nuggad.net
 0.0.0.0 366centrefrance.nuggad.net
 0.0.0.0 366depechedumidi.nuggad.net
@@ -43889,6 +43891,13 @@
 0.0.0.0 vitatc.pinch.no
 0.0.0.0 w.pinch.no
 0.0.0.0 www.pinch.no
+0.0.0.0 vmg.nyc
+0.0.0.0 asi.vmg.nyc
+0.0.0.0 csi.vmg.nyc
+0.0.0.0 piwik.vmg.nyc
+0.0.0.0 predict.vmg.nyc
+0.0.0.0 tag.vmg.nyc
+0.0.0.0 yodel.vmg.nyc
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
 0.0.0.0 adsrvr.org
