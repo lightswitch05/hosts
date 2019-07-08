@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-08T15:22:43+00:00
-# Count: 2678 domains
+# Released: 2019-07-08T19:29:56+00:00
+# Count: 2686 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1213,6 +1213,8 @@
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
 0.0.0.0 mplxtms.com
+0.0.0.0 mpnrs.com
+0.0.0.0 www1.mpnrs.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 log.us.mybogames.com
@@ -1926,6 +1928,10 @@
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
 0.0.0.0 piwik.fobos.de
+0.0.0.0 heise.de
+0.0.0.0 prophet.heise.de
+0.0.0.0 ioam.de
+0.0.0.0 script.ioam.de
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
@@ -2568,6 +2574,8 @@
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 ir2-beap.cb.g01.yahoodns.net
+0.0.0.0 yieldlab.net
+0.0.0.0 ad.yieldlab.net
 0.0.0.0 yieldmanager.net
 0.0.0.0 qoe-1.yottaa.net
 0.0.0.0 ywxi.net
