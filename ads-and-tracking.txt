@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-08T19:45:40+00:00
-# Count: 2691 domains
+# Released: 2019-07-08T20:07:53+00:00
+# Count: 2694 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1297,6 +1297,7 @@
 0.0.0.0 sc61124012us1.cobrowse.oraclecloud.com
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
@@ -1935,6 +1936,7 @@
 0.0.0.0 prophet.heise.de
 0.0.0.0 ioam.de
 0.0.0.0 script.ioam.de
+0.0.0.0 ix.de
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
@@ -2410,6 +2412,8 @@
 0.0.0.0 marketo.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 www.munchkin.marketo.net
+0.0.0.0 mateti.net
+0.0.0.0 cdn.mateti.net
 0.0.0.0 maxymiser.net
 0.0.0.0 service.maxymiser.net
 0.0.0.0 media.net

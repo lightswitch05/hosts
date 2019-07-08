@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-08T19:45:40+00:00
-# Count: 46171 domains
+# Released: 2019-07-08T20:07:54+00:00
+# Count: 45986 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -21396,6 +21396,7 @@
 0.0.0.0 www2.outbrain.com
 0.0.0.0 www3.outbrain.com
 0.0.0.0 zemvideos.outbrain.com
+0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
@@ -30425,6 +30426,18 @@
 0.0.0.0 szmchecker.ioam.de
 0.0.0.0 www.ioam.de
 0.0.0.0 xml.ioam.de
+0.0.0.0 ix.de
+0.0.0.0 aktion.ix.de
+0.0.0.0 www.aktion.ix.de
+0.0.0.0 f.ix.de
+0.0.0.0 1.f.ix.de
+0.0.0.0 2.f.ix.de
+0.0.0.0 3.f.ix.de
+0.0.0.0 c.f.ix.de
+0.0.0.0 m.f.ix.de
+0.0.0.0 mtest.f.ix.de
+0.0.0.0 m.ix.de
+0.0.0.0 www.ix.de
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
@@ -39538,6 +39551,94 @@
 0.0.0.0 tlv-dc02.marketo.net
 0.0.0.0 www.tlv-dc02.marketo.net
 0.0.0.0 www.marketo.net
+0.0.0.0 mateti.net
+0.0.0.0 105260363315285.mateti.net
+0.0.0.0 105301847073437.mateti.net
+0.0.0.0 113563853979852.mateti.net
+0.0.0.0 114907818148936.mateti.net
+0.0.0.0 116407291426131.mateti.net
+0.0.0.0 151600650193895.mateti.net
+0.0.0.0 177457723720947.mateti.net
+0.0.0.0 180274047750407.mateti.net
+0.0.0.0 196380495960676.mateti.net
+0.0.0.0 215718253266138.mateti.net
+0.0.0.0 234548042809511.mateti.net
+0.0.0.0 245406294797569.mateti.net
+0.0.0.0 250331739105547.mateti.net
+0.0.0.0 251056786116093.mateti.net
+0.0.0.0 252762782158845.mateti.net
+0.0.0.0 273135153003299.mateti.net
+0.0.0.0 277330221183976.mateti.net
+0.0.0.0 294915650484552.mateti.net
+0.0.0.0 305661806187831.mateti.net
+0.0.0.0 320707967847857.mateti.net
+0.0.0.0 320776991842357.mateti.net
+0.0.0.0 321628739669852.mateti.net
+0.0.0.0 329907481269467.mateti.net
+0.0.0.0 333759873793051.mateti.net
+0.0.0.0 344100267758609.mateti.net
+0.0.0.0 349655011509897.mateti.net
+0.0.0.0 354284739376300.mateti.net
+0.0.0.0 370212450674777.mateti.net
+0.0.0.0 385255285199574.mateti.net
+0.0.0.0 428789396344161.mateti.net
+0.0.0.0 www.428789396344161.mateti.net
+0.0.0.0 437194210904568.mateti.net
+0.0.0.0 442253486085439.mateti.net
+0.0.0.0 469816027576686.mateti.net
+0.0.0.0 473613254904977.mateti.net
+0.0.0.0 482775944629827.mateti.net
+0.0.0.0 504684408060410.mateti.net
+0.0.0.0 505031984854217.mateti.net
+0.0.0.0 515064677965411.mateti.net
+0.0.0.0 548490918741427.mateti.net
+0.0.0.0 550938580922478.mateti.net
+0.0.0.0 577680464855331.mateti.net
+0.0.0.0 589514176000918.mateti.net
+0.0.0.0 596587256968718.mateti.net
+0.0.0.0 601895680266687.mateti.net
+0.0.0.0 602039762736393.mateti.net
+0.0.0.0 604499284307559.mateti.net
+0.0.0.0 630058339171838.mateti.net
+0.0.0.0 www.630058339171838.mateti.net
+0.0.0.0 634547589075016.mateti.net
+0.0.0.0 642902694028228.mateti.net
+0.0.0.0 673139783235182.mateti.net
+0.0.0.0 673163862191775.mateti.net
+0.0.0.0 675646983570972.mateti.net
+0.0.0.0 678814822311876.mateti.net
+0.0.0.0 681929200660277.mateti.net
+0.0.0.0 688012155290337.mateti.net
+0.0.0.0 697709678549224.mateti.net
+0.0.0.0 700249932971589.mateti.net
+0.0.0.0 718847883744648.mateti.net
+0.0.0.0 733138017156409.mateti.net
+0.0.0.0 734235127041830.mateti.net
+0.0.0.0 737762795603652.mateti.net
+0.0.0.0 756611583511768.mateti.net
+0.0.0.0 778835614863159.mateti.net
+0.0.0.0 796800809584825.mateti.net
+0.0.0.0 800707127625321.mateti.net
+0.0.0.0 823212195233560.mateti.net
+0.0.0.0 823532764568303.mateti.net
+0.0.0.0 849036415619964.mateti.net
+0.0.0.0 849715076759606.mateti.net
+0.0.0.0 850188086759878.mateti.net
+0.0.0.0 854925586374812.mateti.net
+0.0.0.0 915616854953982.mateti.net
+0.0.0.0 929408468507536.mateti.net
+0.0.0.0 942097254762175.mateti.net
+0.0.0.0 943093585120520.mateti.net
+0.0.0.0 952558526192102.mateti.net
+0.0.0.0 977787962413082.mateti.net
+0.0.0.0 981949533494636.mateti.net
+0.0.0.0 991505247594580.mateti.net
+0.0.0.0 992076423508064.mateti.net
+0.0.0.0 999955867561122.mateti.net
+0.0.0.0 cdn.mateti.net
+0.0.0.0 r.mateti.net
+0.0.0.0 t.mateti.net
+0.0.0.0 www.mateti.net
 0.0.0.0 maxymiser.net
 0.0.0.0 api.maxymiser.net
 0.0.0.0 migratecg-eu.maxymiser.net
