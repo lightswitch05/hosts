@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-08T14:24:27+00:00
-# Count: 2674 domains
+# Released: 2019-07-08T15:22:43+00:00
+# Count: 2678 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -738,6 +738,7 @@
 0.0.0.0 ezwebsitetraffic.com
 0.0.0.0 adserver.ezwebsitetraffic.com
 0.0.0.0 fanbread.com
+0.0.0.0 services.fandom.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 smetrics.fedex.com
 0.0.0.0 fgl.com
@@ -2419,6 +2420,7 @@
 0.0.0.0 mzbcdn.net
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
+0.0.0.0 speed.nocookie.net
 0.0.0.0 nuggad.net
 0.0.0.0 southernx.nuggad.net
 0.0.0.0 omtrdc.net
@@ -2582,6 +2584,8 @@
 0.0.0.0 connect.onlinesucces.nl
 0.0.0.0 pinch.no
 0.0.0.0 uc-eu2.pinch.no
+0.0.0.0 vmg.nyc
+0.0.0.0 predict.vmg.nyc
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
 0.0.0.0 adsrvr.org
