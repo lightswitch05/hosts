@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-08T13:22:39+00:00
-# Count: 2672 domains
+# Released: 2019-07-08T14:24:27+00:00
+# Count: 2674 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -819,6 +819,8 @@
 0.0.0.0 ampcid.google.com
 0.0.0.0 contributor.google.com
 0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 googlesyndication.com
