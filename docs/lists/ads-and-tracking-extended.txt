@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-08T19:35:19+00:00
-# Count: 46166 domains
+# Released: 2019-07-08T19:45:40+00:00
+# Count: 46171 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -5428,7 +5428,10 @@
 0.0.0.0 www.btf-analytics.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 www.device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 font-vmg.s3.amazonaws.com
+0.0.0.0 www.font-vmg.s3.amazonaws.com
 0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
+0.0.0.0 vmg-us.s3.amazonaws.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
 0.0.0.0 applicationinsights.us-east-1.amazonaws.com
 0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
@@ -29355,6 +29358,8 @@
 0.0.0.0 www.vizury.com
 0.0.0.0 www-o.vizury.com
 0.0.0.0 www1.vizury.com
+0.0.0.0 vmgood.com
+0.0.0.0 www.vmgood.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 fld.vmmpxl.com
 0.0.0.0 icon.vmmpxl.com
