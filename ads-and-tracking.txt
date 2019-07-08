@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-08T19:29:56+00:00
-# Count: 2686 domains
+# Released: 2019-07-08T19:35:19+00:00
+# Count: 2688 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1346,6 +1346,7 @@
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
+0.0.0.0 sentry.postmanlabs.com
 0.0.0.0 postrelease.com
 0.0.0.0 mkto-pages.power.com
 0.0.0.0 px.powerlinks.com
@@ -1976,6 +1977,7 @@
 0.0.0.0 hit-log.viva.co.id
 0.0.0.0 props.id
 0.0.0.0 st-a.props.id
+0.0.0.0 mailtracking.gitter.im
 0.0.0.0 spot.im
 0.0.0.0 open-api.spot.im
 0.0.0.0 pixel.affcamp.co.in
