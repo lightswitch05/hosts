@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-09T12:32:52+00:00
-# Count: 2696 domains
+# Released: 2019-07-09T14:42:29+00:00
+# Count: 2700 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -112,6 +112,8 @@
 0.0.0.0 acashatusa.com
 0.0.0.0 www.acashatusa.com
 0.0.0.0 accessiblemetrics.com
+0.0.0.0 accountkit.com
+0.0.0.0 graph.accountkit.com
 0.0.0.0 adserver.aceofmedia.com
 0.0.0.0 acrabakasaka.com
 0.0.0.0 a.acrabakasaka.com
@@ -970,6 +972,8 @@
 0.0.0.0 khingtracking.com
 0.0.0.0 adserver.khingtracking.com
 0.0.0.0 pixel.kiitties.com
+0.0.0.0 clientmetrics.kik.com
+0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 metric.kirklands.com
 0.0.0.0 klaviyo.com
 0.0.0.0 static.klaviyo.com
