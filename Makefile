@@ -16,7 +16,7 @@ setup:
 
 test-travis:
 	@$(PYTEST)
-	@sonar-scanner
+	@sonar-scanner -Dproject.settings=./sonar-project.properties
 
 test:
 	@$(PYTHON) -m $(PYTEST)
