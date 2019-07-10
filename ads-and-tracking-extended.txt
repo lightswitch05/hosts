@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-10T14:59:45+00:00
-# Count: 46097 domains
+# Released: 2019-07-10T16:36:33+00:00
+# Count: 46099 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17592,6 +17592,8 @@
 0.0.0.0 magic-analytics.magmic.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 segment.mamaslatinas.com
+0.0.0.0 events.mapbox.com
+0.0.0.0 snap.events.mapbox.com
 0.0.0.0 marfeelcache.com
 0.0.0.0 altb.marfeelcache.com
 0.0.0.0 altbc.marfeelcache.com
