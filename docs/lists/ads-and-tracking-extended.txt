@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-09T14:42:29+00:00
-# Count: 46003 domains
+# Released: 2019-07-10T13:46:49+00:00
+# Count: 46047 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -43959,6 +43959,7 @@
 0.0.0.0 www.webcam.net
 0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
+0.0.0.0 cookiesuksouth.blob.core.windows.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
@@ -45772,6 +45773,49 @@
 0.0.0.0 vroku-cbo-2.shoofle.tv
 0.0.0.0 vroku-openrtb-gateway.shoofle.tv
 0.0.0.0 www.shoofle.tv
+0.0.0.0 adr.superawesome.tv
+0.0.0.0 ads.superawesome.tv
+0.0.0.0 staging.beta.ads.superawesome.tv
+0.0.0.0 staging.ads.superawesome.tv
+0.0.0.0 advertiser.superawesome.tv
+0.0.0.0 advertisers.superawesome.tv
+0.0.0.0 advertising.superawesome.tv
+0.0.0.0 classifier.superawesome.tv
+0.0.0.0 api.classifier.superawesome.tv
+0.0.0.0 broker.classifier.superawesome.tv
+0.0.0.0 www.classifier.superawesome.tv
+0.0.0.0 broker.cloud.superawesome.tv
+0.0.0.0 ads.dashboard.superawesome.tv
+0.0.0.0 api.dashboard.superawesome.tv
+0.0.0.0 ads.beta.dashboard.superawesome.tv
+0.0.0.0 campaigns.beta.dashboard.superawesome.tv
+0.0.0.0 staging.beta.dashboard.superawesome.tv
+0.0.0.0 ads.staging.beta.dashboard.superawesome.tv
+0.0.0.0 swapit.beta.dashboard.superawesome.tv
+0.0.0.0 campaigns.dashboard.superawesome.tv
+0.0.0.0 context-matching.dashboard.superawesome.tv
+0.0.0.0 forecast.dashboard.superawesome.tv
+0.0.0.0 forecasting-api.dashboard.superawesome.tv
+0.0.0.0 graphql.dashboard.superawesome.tv
+0.0.0.0 inventory.dashboard.superawesome.tv
+0.0.0.0 placement-links.dashboard.superawesome.tv
+0.0.0.0 reports.dashboard.superawesome.tv
+0.0.0.0 staging.dashboard.superawesome.tv
+0.0.0.0 campaigns.staging.dashboard.superawesome.tv
+0.0.0.0 swapit.dashboard.superawesome.tv
+0.0.0.0 ads.dev.superawesome.tv
+0.0.0.0 broker.classifier.dev.superawesome.tv
+0.0.0.0 forecast.superawesome.tv
+0.0.0.0 httpsads.superawesome.tv
+0.0.0.0 events.kws.superawesome.tv
+0.0.0.0 niantic-events.kws.superawesome.tv
+0.0.0.0 newads.superawesome.tv
+0.0.0.0 ads.staging.superawesome.tv
+0.0.0.0 broker.cloud.staging.superawesome.tv
+0.0.0.0 eu-west-1-ads.staging.superawesome.tv
+0.0.0.0 events.kws.staging.superawesome.tv
+0.0.0.0 newads.staging.superawesome.tv
+0.0.0.0 us-east-1-ads.superawesome.tv
 0.0.0.0 syndicaster.tv
 0.0.0.0 api.syndicaster.tv
 0.0.0.0 api-static.syndicaster.tv
