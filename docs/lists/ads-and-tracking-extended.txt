@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-10T13:46:49+00:00
-# Count: 46047 domains
+# Released: 2019-07-10T14:01:09+00:00
+# Count: 46059 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -46,6 +46,10 @@
 0.0.0.0 ns2.native.ai
 0.0.0.0 api.test.native.ai
 0.0.0.0 www.native.ai
+0.0.0.0 nova.ai
+0.0.0.0 app.nova.ai
+0.0.0.0 icm.nova.ai
+0.0.0.0 www.nova.ai
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
@@ -20259,6 +20263,7 @@
 0.0.0.0 www.a.et.nytimes.com
 0.0.0.0 www.et.nytimes.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
+0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
 0.0.0.0 omnitagjs.com
 0.0.0.0 10.72.180.60visitor.omnitagjs.com
 0.0.0.0 10.72.180.60visitor-usa02.omnitagjs.com
@@ -26009,6 +26014,10 @@
 0.0.0.0 load.stg4.sumo.com
 0.0.0.0 sload.stg4.sumo.com
 0.0.0.0 www.sumo.com
+0.0.0.0 aaguides.superawesome.com
+0.0.0.0 adgallery.superawesome.com
+0.0.0.0 marketing.superawesome.com
+0.0.0.0 novatracking.superawesome.com
 0.0.0.0 superonclick.com
 0.0.0.0 www.superonclick.com
 0.0.0.0 supersonic.com
@@ -30414,6 +30423,7 @@
 0.0.0.0 ws2.adtech.de
 0.0.0.0 www.adtech.de
 0.0.0.0 piwik.fobos.de
+0.0.0.0 prophet.heise.de
 0.0.0.0 ioam.de
 0.0.0.0 ads.ioam.de
 0.0.0.0 apptest.ioam.de
@@ -31253,6 +31263,8 @@
 0.0.0.0 www2.branch.io
 0.0.0.0 calq.io
 0.0.0.0 api.calq.io
+0.0.0.0 mail.calq.io
+0.0.0.0 webdisk.calq.io
 0.0.0.0 www.calq.io
 0.0.0.0 cointraffic.io
 0.0.0.0 api.cointraffic.io

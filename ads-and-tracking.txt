@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-10T13:46:49+00:00
-# Count: 2727 domains
+# Released: 2019-07-10T14:01:09+00:00
+# Count: 2733 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -30,6 +30,7 @@
 0.0.0.0 proxy.ascend.ai
 0.0.0.0 native.ai
 0.0.0.0 cdn.native.ai
+0.0.0.0 nova.ai
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
@@ -1271,6 +1272,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
+0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
 0.0.0.0 omnitagjs.com
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 hb-api.omnitagjs.com
@@ -1630,6 +1632,10 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 load.sumo.com
+0.0.0.0 aaguides.superawesome.com
+0.0.0.0 adgallery.superawesome.com
+0.0.0.0 marketing.superawesome.com
+0.0.0.0 novatracking.superawesome.com
 0.0.0.0 superonclick.com
 0.0.0.0 supersonic.com
 0.0.0.0 logs.supersonic.com
