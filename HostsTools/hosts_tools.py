@@ -157,55 +157,53 @@ def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
 def find_subdomains(domain: str, verbose: bool = False) -> Set[str]:
     found_domains = {domain}  # include query as a found domain
     url = 'https://crt.sh/?q=%.{d}&output=json'.format(d=domain)
-    try:
-        req = requests.get(url, headers={
-            'Content-Type': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0'
-        })
-        if req.status_code != 200:
-            print('Error received from crt.sh: ' + req.text)
-        else:
-            try:
-                data = json.loads(req.content.decode('utf-8'))
-                for key, value in enumerate(data):
-                    if 'name_value' in value:
-                        found_domain = value['name_value'].lower().strip()
-                        if verbose:
-                            print('Found: %s' % found_domain)
-                        if found_domain.startswith('*.'):
-                            found_domain = found_domain[2:]
-                        if is_valid_domain(found_domain):
-                            found_domains.add(found_domain)
-            except ValueError:
-                print('Unknown response from crt.sh: ' + req.text)
-    except Exception:
-        print('Unable to connect to crt.sh to search: %s: ' % domain)
+    response = safe_api_call(url)
+    for key, value in enumerate(response):
+        if 'name_value' in value:
+            found_domain = value['name_value'].lower().strip()
+            if verbose:
+                print('Found: %s' % found_domain)
+            if found_domain.startswith('*.'):
+                found_domain = found_domain[2:]
+            if is_valid_domain(found_domain):
+                found_domains.add(found_domain)
+
     return found_domains
 
 
 def virustotal_find_subdomain(domain: str, api_key: str, verbose: bool = False) -> Set[str]:
     found_domains = {domain}  # include query as a found domain
     url = 'https://www.virustotal.com/vtapi/v2/domain/report'.format(k=api_key, d=domain)
-    try:
-        req = requests.get(url, params={
-            'apikey': api_key,
-            'domain': domain
-        })
-        if req.status_code != 200:
-            print('Error received from VirusTotal: ' + req.text)
-        else:
-            try:
-                response = req.json()
-                if 'subdomains' in response and response['subdomains']:
-                    for domain in response['subdomains']:
-                        found_domain = domain.lower().strip()
-                        if is_valid_domain(found_domain):
-                            if verbose:
-                                print('Found: %s' % found_domain)
-                            found_domains.add(found_domain)
-            except ValueError:
-                print('Unknown response from VirusTotal: ' + req.text)
-    except Exception as ex:
-        print('Unable to connect to VirusTotal to search: %s: %s' % (domain, ex))
+
+    response = safe_api_call(url, params={
+        'apikey': api_key,
+        'domain': domain
+    })
+    if 'subdomains' in response and response['subdomains']:
+        for domain in response['subdomains']:
+            found_domain = domain.lower().strip()
+            if is_valid_domain(found_domain):
+                if verbose:
+                    print('Found: %s' % found_domain)
+                found_domains.add(found_domain)
+
     time.sleep(16)  # free API is capped at 4 requests per minute
     return found_domains
+
+
+def safe_api_call(url: str, params: dict = {}) -> dict:
+    try:
+        req = requests.get(url, params=params, headers={
+            'Content-Type': 'application/json',
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0'
+        })
+        if req.status_code != 200:
+            print('Error received from %s: %s' % url, req.text)
+        else:
+            try:
+                return req.json()
+            except ValueError:
+                print('Unknown response from %s: %s' % url, req.text)
+    except Exception:
+        print('Unable to connect to %s' % url)
+    return {}
