@@ -3,6 +3,7 @@
 from HostsTools import hosts_tools
 import os
 import re
+from unittest.mock import MagicMock
 
 
 class TestHostTools(object):
@@ -14,6 +15,8 @@ class TestHostTools(object):
         re.compile('^b\\.b\\.com$', re.IGNORECASE),
         re.compile('^z\\.com$', re.IGNORECASE)
     ***REMOVED***
+    CRT_RESPONSE = [***REMOVED***'name_value': '*.example.com'***REMOVED***, ***REMOVED***'name_value': 'www.example.com'***REMOVED***]
+    VIRUS_TOTAL_RESPONSE = ***REMOVED***'subdomains': ['www.example.com']***REMOVED***
 
     def setup_class(self):
         with open(self.TEST_WHITELIST_FILE_NAME, 'w') as file:
@@ -157,6 +160,16 @@ class TestHostTools(object):
         ***REMOVED***
         filtered = hosts_tools.filter_whitelist(domains, set())
         assert filtered == ***REMOVED***'example.com', 'ad.example.com'***REMOVED***
+
+    def test_find_subdomains(self):
+        hosts_tools.safe_api_call = MagicMock(return_value=self.CRT_RESPONSE)
+        found = hosts_tools.find_subdomains('example.com', True)
+        assert found == ***REMOVED***'example.com', 'www.example.com'***REMOVED***
+
+    def test_find_subdomains_virustotal(self):
+        hosts_tools.safe_api_call = MagicMock(return_value=self.VIRUS_TOTAL_RESPONSE)
+        found = hosts_tools.virustotal_find_subdomain('example.com', '', True)
+        assert found == ***REMOVED***'example.com', 'www.example.com'***REMOVED***
 
     def teardown_class(self):
         if os.path.isfile(self.TEST_FILE_NAME):
