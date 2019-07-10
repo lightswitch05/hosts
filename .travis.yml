@@ -10,6 +10,8 @@ matrix:
         - python: 3.7
           dist: xenial
           sudo: true
+          after_script: make sonar
+
 addons:
     sonarcloud:
         organization: lightswitch05
