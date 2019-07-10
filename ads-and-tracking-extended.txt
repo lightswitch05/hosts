@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-10T14:01:09+00:00
-# Count: 46059 domains
+# Released: 2019-07-10T14:17:52+00:00
+# Count: 46091 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -13950,6 +13950,26 @@
 0.0.0.0 toolbar.freshmarketer.com
 0.0.0.0 www.freshmarketer.com
 0.0.0.0 x4pmzlxcbc5ik1bk1nxxjlf.freshmarketer.com
+0.0.0.0 friendbuy.com
+0.0.0.0 api.friendbuy.com
+0.0.0.0 c.friendbuy.com
+0.0.0.0 cdn.friendbuy.com
+0.0.0.0 cdn1.friendbuy.com
+0.0.0.0 dollarshaveclub.friendbuy.com
+0.0.0.0 embed.friendbuy.com
+0.0.0.0 fb-proxy-003.friendbuy.com
+0.0.0.0 fb-proxy-main.friendbuy.com
+0.0.0.0 ff.friendbuy.com
+0.0.0.0 get.friendbuy.com
+0.0.0.0 gunnars.friendbuy.com
+0.0.0.0 meundies.friendbuy.com
+0.0.0.0 pt.friendbuy.com
+0.0.0.0 redirect.friendbuy.com
+0.0.0.0 retailer.friendbuy.com
+0.0.0.0 slackbot.friendbuy.com
+0.0.0.0 vpng2.friendbuy.com
+0.0.0.0 ws.friendbuy.com
+0.0.0.0 www.friendbuy.com
 0.0.0.0 tracking.frmllc.com
 0.0.0.0 ads-api.ft.com
 0.0.0.0 spoor-api.ft.com
@@ -17019,6 +17039,7 @@
 0.0.0.0 pixels.leadsbridge.com
 0.0.0.0 whatsnew.leadsbridge.com
 0.0.0.0 www.leadsbridge.com
+0.0.0.0 gapi.learnwithhomer.com
 0.0.0.0 analytics.leviton.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 252fcms.lfstmedia.com
@@ -32349,6 +32370,12 @@
 0.0.0.0 redirector-beta.us-east-1.awstrack.me
 0.0.0.0 us-west-2.awstrack.me
 0.0.0.0 r.us-west-2.awstrack.me
+0.0.0.0 fbot.me
+0.0.0.0 api.fbot.me
+0.0.0.0 campaign.fbot.me
+0.0.0.0 kibana2.fbot.me
+0.0.0.0 public.fbot.me
+0.0.0.0 static.fbot.me
 0.0.0.0 sync-unosync-com.geodns.me
 0.0.0.0 pixel.shodan.me
 0.0.0.0 trace.pixel.shodan.me
@@ -34567,18 +34594,23 @@
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstatb.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
+0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
+0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
+0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
+0.0.0.0 djnf6e5yyirys.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
+0.0.0.0 dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net
 0.0.0.0 us-central1-narvar-data-lake.cloudfunctions.net
 0.0.0.0 www.us-central1-narvar-data-lake.cloudfunctions.net
