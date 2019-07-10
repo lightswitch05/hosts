@@ -21,3 +21,6 @@ install:
     - make setup
 script:
     - make test-travis
+
+git:
+    depth: 15
