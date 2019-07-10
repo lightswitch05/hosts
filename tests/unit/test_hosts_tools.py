@@ -131,7 +131,7 @@ class TestHostTools(object):
         whitelist = hosts_tools.load_domains_from_whitelist('not-a-real-file.txt')
         assert len(whitelist) == 0
 
-    def test_whitelist(self):
+    def test_load_domains_from_whitelist(self):
         whitelist = hosts_tools.load_domains_from_whitelist(self.TEST_WHITELIST_FILE_NAME)
         assert len(whitelist) == 2
 
