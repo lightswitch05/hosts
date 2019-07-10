@@ -1,6 +1,7 @@
 # Hosts
 
 [![Build Status](https://travis-ci.org/lightswitch05/hosts.svg?branch=master)](https://travis-ci.org/lightswitch05/hosts)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lightswitch05_hosts&metric=alert_status)](https://sonarcloud.io/dashboard?id=lightswitch05_hosts)
 [![license](https://img.shields.io/github/license/lightswitch05/hosts.svg)](https://github.com/lightswitch05/hosts/blob/master/LICENSE)
 [![last commit](https://img.shields.io/github/last-commit/lightswitch05/hosts.svg)](https://github.com/lightswitch05/hosts/commits/master)
 [![commit activity](https://img.shields.io/github/commit-activity/y/lightswitch05/hosts.svg)](https://github.com/lightswitch05/hosts/commits/master)
