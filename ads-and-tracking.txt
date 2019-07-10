@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-10T14:17:52+00:00
-# Count: 2744 domains
+# Released: 2019-07-10T14:23:53+00:00
+# Count: 2746 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -382,6 +382,7 @@
 0.0.0.0 appsee.com
 0.0.0.0 api.appsee.com
 0.0.0.0 appsflyer.com
+0.0.0.0 sdk.appsflyer.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
@@ -688,6 +689,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 excess.duolingo.com
 0.0.0.0 dynamicyield.com
+0.0.0.0 st.dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 dyntrk.com
