@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 from HostsTools import hosts_tools
 import os
+import re
 
 
 class TestHostTools(object):
@@ -7,12 +10,15 @@ class TestHostTools(object):
     TEST_FILE_NAME = 'test-write-domain-list.txt'
     TEST_WHITELIST_FILE_NAME = 'test-write-domain-list-whitelist.txt'
     TEST_DOMAINS = ***REMOVED***'a.com', 'b.a.com', 'b.com', 'a.b.com'***REMOVED***
-    TEST_WHITELIST = ***REMOVED***'b.b.com', 'z.com'***REMOVED***
+    TEST_WHITELIST = ***REMOVED***
+        re.compile('^b\\.b\\.com$', re.IGNORECASE),
+        re.compile('^z\\.com$', re.IGNORECASE)
+    ***REMOVED***
 
     def setup_class(self):
         with open(self.TEST_WHITELIST_FILE_NAME, 'w') as file:
             for domain in self.TEST_WHITELIST:
-                file.write(domain + '\n')
+                file.write(domain.pattern + '\n')
 
     def test_none_is_not_a_valid_domain(self):
         is_valid = hosts_tools.is_valid_domain(None)
@@ -125,10 +131,23 @@ class TestHostTools(object):
         whitelist = hosts_tools.load_domains_from_whitelist('not-a-real-file.txt')
         assert len(whitelist) == 0
 
+    def test_whitelist(self):
+        whitelist = hosts_tools.load_domains_from_whitelist(self.TEST_WHITELIST_FILE_NAME)
+        assert len(whitelist) == 2
+
     def test_reduce_domains(self):
         reduced = hosts_tools.reduce_domains(self.TEST_DOMAINS)
         assert reduced
         assert not ***REMOVED***'a.com', 'b.com'***REMOVED***.difference(reduced)
+
+    def test_domain_is_whitelisted(self):
+        domains = ***REMOVED***
+            'b.com',
+            'b.b.com',
+            'ad.example.com'
+        ***REMOVED***
+        filtered = hosts_tools.filter_whitelist(domains, self.TEST_WHITELIST)
+        assert filtered == ***REMOVED***'b.com', 'ad.example.com'***REMOVED***
 
     def test_duplicated_domain_is_whitelisted(self):
         domains = ***REMOVED***
