@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-09T14:42:29+00:00
-# Count: 2700 domains
+# Released: 2019-07-10T13:46:49+00:00
+# Count: 2727 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2580,6 +2580,7 @@
 0.0.0.0 webcam.net
 0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
+0.0.0.0 cookiesuksouth.blob.core.windows.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
@@ -2693,6 +2694,32 @@
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 serverc.shoofle.tv
 0.0.0.0 static.shoofle.tv
+0.0.0.0 adr.superawesome.tv
+0.0.0.0 ads.superawesome.tv
+0.0.0.0 advertiser.superawesome.tv
+0.0.0.0 advertisers.superawesome.tv
+0.0.0.0 advertising.superawesome.tv
+0.0.0.0 classifier.superawesome.tv
+0.0.0.0 api.classifier.superawesome.tv
+0.0.0.0 broker.classifier.superawesome.tv
+0.0.0.0 broker.cloud.superawesome.tv
+0.0.0.0 dashboard.superawesome.tv
+0.0.0.0 ads.dashboard.superawesome.tv
+0.0.0.0 context-matching.dashboard.superawesome.tv
+0.0.0.0 placement-links.dashboard.superawesome.tv
+0.0.0.0 ads.dev.superawesome.tv
+0.0.0.0 broker.classifier.dev.superawesome.tv
+0.0.0.0 forecast.superawesome.tv
+0.0.0.0 httpsads.superawesome.tv
+0.0.0.0 events.kws.superawesome.tv
+0.0.0.0 niantic-events.kws.superawesome.tv
+0.0.0.0 newads.superawesome.tv
+0.0.0.0 ads.staging.superawesome.tv
+0.0.0.0 broker.cloud.staging.superawesome.tv
+0.0.0.0 eu-west-1-ads.staging.superawesome.tv
+0.0.0.0 events.kws.staging.superawesome.tv
+0.0.0.0 newads.staging.superawesome.tv
+0.0.0.0 us-east-1-ads.superawesome.tv
 0.0.0.0 syndicaster.tv
 0.0.0.0 vuble.tv
 0.0.0.0 analytics.xcal.tv
