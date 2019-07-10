@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-10T14:32:46+00:00
-# Count: 2747 domains
+# Released: 2019-07-10T14:49:56+00:00
+# Count: 2755 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -130,8 +130,11 @@
 0.0.0.0 adbull.com
 0.0.0.0 adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 director.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 adcrowd.com
@@ -369,6 +372,7 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 applovin.com
@@ -1224,6 +1228,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 s.mopub.com
 0.0.0.0 mparticle.com
+0.0.0.0 config2.mparticle.com
 0.0.0.0 identity.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
@@ -1787,6 +1792,7 @@
 0.0.0.0 upltv.com
 0.0.0.0 ads-sdk.upltv.com
 0.0.0.0 urbanairship.com
+0.0.0.0 combine.urbanairship.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 web-sdk.urbanairship.com
@@ -1856,6 +1862,7 @@
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 vsassets.com
 0.0.0.0 vungle.com
+0.0.0.0 ads.api.vungle.com
 0.0.0.0 www.vungle.com
 0.0.0.0 cdn.walkme.com
 0.0.0.0 beacon.walmart.com
@@ -2328,6 +2335,7 @@
 0.0.0.0 g.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
