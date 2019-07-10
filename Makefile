@@ -16,6 +16,7 @@ setup:
 
 test-travis:
 	@$(PYTEST)
+	@sonar-scanner
 
 test:
 	@$(PYTHON) -m $(PYTEST)
