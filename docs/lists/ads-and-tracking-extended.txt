@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-11T12:10:19+00:00
-# Count: 46721 domains
+# Released: 2019-07-11T12:59:14+00:00
+# Count: 46749 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6282,6 +6282,13 @@
 0.0.0.0 view.atdmt.com
 0.0.0.0 www.atdmt.com
 0.0.0.0 analytics.atlassian.com
+0.0.0.0 attributionapp.com
+0.0.0.0 get.attributionapp.com
+0.0.0.0 local.attributionapp.com
+0.0.0.0 www.local.attributionapp.com
+0.0.0.0 scripts.attributionapp.com
+0.0.0.0 track.attributionapp.com
+0.0.0.0 www.attributionapp.com
 0.0.0.0 atwola.com
 0.0.0.0 ar.atwola.com
 0.0.0.0 logging.glogging.ar.atwola.com
@@ -21663,6 +21670,8 @@
 0.0.0.0 testsc73578190us1.cobrowse.oraclecloud.com
 0.0.0.0 twsc57349362us3.cobrowse.oraclecloud.com
 0.0.0.0 virginazsc60936416au1.cobrowse.oraclecloud.com
+0.0.0.0 oriori.com
+0.0.0.0 www.oriori.com
 0.0.0.0 outbrain.com
 0.0.0.0 adngin.outbrain.com
 0.0.0.0 alldcs.outbrain.com
@@ -24589,6 +24598,19 @@
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 metrics.reebok.com
+0.0.0.0 rejoiner.com
+0.0.0.0 app.rejoiner.com
+0.0.0.0 cdn.rejoiner.com
+0.0.0.0 content.rejoiner.com
+0.0.0.0 integrations.rejoiner.com
+0.0.0.0 jwhelan.rejoiner.com
+0.0.0.0 rj2.rejoiner.com
+0.0.0.0 front-1.srv.rejoiner.com
+0.0.0.0 staging.rejoiner.com
+0.0.0.0 staging-ms.rejoiner.com
+0.0.0.0 status.rejoiner.com
+0.0.0.0 webflow.rejoiner.com
+0.0.0.0 www.rejoiner.com
 0.0.0.0 metrics.rent.com
 0.0.0.0 www.metrics.rent.com
 0.0.0.0 res-x.com
@@ -30756,6 +30778,8 @@
 0.0.0.0 www.zineone.com
 0.0.0.0 zb.zineone.com
 0.0.0.0 zportal.zineone.com
+0.0.0.0 iplocation.zoho.com
+0.0.0.0 salesiq.zoho.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
@@ -32476,6 +32500,10 @@
 0.0.0.0 landing.oribi.io
 0.0.0.0 mail.oribi.io
 0.0.0.0 www.oribi.io
+0.0.0.0 pagesense.io
+0.0.0.0 cdn.pagesense.io
+0.0.0.0 cdn-eu.pagesense.io
+0.0.0.0 cdn-in.pagesense.io
 0.0.0.0 pendo.io
 0.0.0.0 app.pendo.io
 0.0.0.0 www.app.pendo.io

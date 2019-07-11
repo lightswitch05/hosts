@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-10T16:36:32+00:00
-# Count: 2757 domains
+# Released: 2019-07-11T12:59:14+00:00
+# Count: 2768 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -411,6 +411,8 @@
 0.0.0.0 atdmt.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 analytics.atlassian.com
+0.0.0.0 attributionapp.com
+0.0.0.0 scripts.attributionapp.com
 0.0.0.0 atwola.com
 0.0.0.0 at.atwola.com
 0.0.0.0 cdn.at.atwola.com
@@ -1316,6 +1318,7 @@
 0.0.0.0 v.optvdo.com
 0.0.0.0 cobrowse.oraclecloud.com
 0.0.0.0 sc61124012us1.cobrowse.oraclecloud.com
+0.0.0.0 oriori.com
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 analytics.ovh.com
@@ -1430,6 +1433,9 @@
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
 0.0.0.0 metrics.reebok.com
+0.0.0.0 rejoiner.com
+0.0.0.0 cdn.rejoiner.com
+0.0.0.0 rj2.rejoiner.com
 0.0.0.0 metrics.rent.com
 0.0.0.0 res-x.com
 0.0.0.0 ris.res-x.com
@@ -1956,6 +1962,8 @@
 0.0.0.0 keystone.zillow.com
 0.0.0.0 zineone.com
 0.0.0.0 apps.zineone.com
+0.0.0.0 iplocation.zoho.com
+0.0.0.0 salesiq.zoho.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
 0.0.0.0 adtech.de
@@ -2097,6 +2105,8 @@
 0.0.0.0 tt.onthe.io
 0.0.0.0 oribi.io
 0.0.0.0 cdn.oribi.io
+0.0.0.0 pagesense.io
+0.0.0.0 cdn.pagesense.io
 0.0.0.0 pendo.io
 0.0.0.0 app.pendo.io
 0.0.0.0 cdn.pendo.io
@@ -2718,6 +2728,7 @@
 0.0.0.0 ispot.tv
 0.0.0.0 pi.ispot.tv
 0.0.0.0 pt.ispot.tv
+0.0.0.0 staging-pi.ispot.tv
 0.0.0.0 staging-ps.ispot.tv
 0.0.0.0 ravm.tv
 0.0.0.0 shoofle.tv
