@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-11T18:01:09+00:00
-# Count: 46817 domains
+# Released: 2019-07-11T20:11:03+00:00
+# Count: 46820 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -31853,7 +31853,10 @@
 0.0.0.0 static.dable.io
 0.0.0.0 thumb.dable.io
 0.0.0.0 www.dable.io
+0.0.0.0 datasteam.io
 0.0.0.0 api.datasteam.io
+0.0.0.0 app.datasteam.io
+0.0.0.0 cdn.datasteam.io
 0.0.0.0 districtm.io
 0.0.0.0 cdn.districtm.io
 0.0.0.0 dev.cdn.districtm.io
