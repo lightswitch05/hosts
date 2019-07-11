@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-11T16:01:25+00:00
-# Count: 2771 domains
+# Released: 2019-07-11T18:01:09+00:00
+# Count: 2775 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1028,6 +1028,8 @@
 0.0.0.0 localytics.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 cloudfront.loggly.com
+0.0.0.0 logrocket.com
+0.0.0.0 logs.logrocket.com
 0.0.0.0 lootsie.com
 0.0.0.0 api-v2.lootsie.com
 0.0.0.0 smetrics.lowes.com
@@ -2095,6 +2097,8 @@
 0.0.0.0 api.keen.io
 0.0.0.0 api-v3_0.us-west-2.prod.aws.keen.io
 0.0.0.0 segment.kilometer.io
+0.0.0.0 logrocket.io
+0.0.0.0 log.logrocket.io
 0.0.0.0 lytics.io
 0.0.0.0 api.lytics.io
 0.0.0.0 c.lytics.io

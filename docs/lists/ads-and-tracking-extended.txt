@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-11T16:01:25+00:00
-# Count: 46761 domains
+# Released: 2019-07-11T18:01:09+00:00
+# Count: 46817 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17833,6 +17833,34 @@
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 www.localytics.com
 0.0.0.0 cloudfront.loggly.com
+0.0.0.0 logrocket.com
+0.0.0.0 api.logrocket.com
+0.0.0.0 app.logrocket.com
+0.0.0.0 assets.logrocket.com
+0.0.0.0 b.logrocket.com
+0.0.0.0 embed.blog.logrocket.com
+0.0.0.0 brief.logrocket.com
+0.0.0.0 cdn.logrocket.com
+0.0.0.0 cdn-alpha.logrocket.com
+0.0.0.0 cdn-staging.logrocket.com
+0.0.0.0 changelog.logrocket.com
+0.0.0.0 demos.logrocket.com
+0.0.0.0 e.logrocket.com
+0.0.0.0 go.logrocket.com
+0.0.0.0 go2.logrocket.com
+0.0.0.0 graphql.logrocket.com
+0.0.0.0 i.logrocket.com
+0.0.0.0 log.logrocket.com
+0.0.0.0 login-staging.logrocket.com
+0.0.0.0 logs.logrocket.com
+0.0.0.0 phoneburner.logrocket.com
+0.0.0.0 pixel.logrocket.com
+0.0.0.0 r.logrocket.com
+0.0.0.0 staging.logrocket.com
+0.0.0.0 staging-i.logrocket.com
+0.0.0.0 status.logrocket.com
+0.0.0.0 www.logrocket.com
+0.0.0.0 www2.logrocket.com
 0.0.0.0 lootsie.com
 0.0.0.0 api.lootsie.com
 0.0.0.0 api-v2.lootsie.com
@@ -32417,6 +32445,34 @@
 0.0.0.0 web-index.keen.io
 0.0.0.0 www.keen.io
 0.0.0.0 segment.kilometer.io
+0.0.0.0 logrocket.io
+0.0.0.0 aks-test.logrocket.io
+0.0.0.0 assets.logrocket.io
+0.0.0.0 aws-test.logrocket.io
+0.0.0.0 az-test.logrocket.io
+0.0.0.0 aws.bare-metal.logrocket.io
+0.0.0.0 api.aws.bare-metal.logrocket.io
+0.0.0.0 ingest.aws.bare-metal.logrocket.io
+0.0.0.0 cdn.logrocket.io
+0.0.0.0 cdn-staging.logrocket.io
+0.0.0.0 chris-gcp.logrocket.io
+0.0.0.0 chris-test.logrocket.io
+0.0.0.0 elb.eks-test.logrocket.io
+0.0.0.0 gcp-test.logrocket.io
+0.0.0.0 jlo-azure.logrocket.io
+0.0.0.0 aws.jlo-test.logrocket.io
+0.0.0.0 gcp.jlo-test.logrocket.io
+0.0.0.0 l.logrocket.io
+0.0.0.0 log.logrocket.io
+0.0.0.0 r.logrocket.io
+0.0.0.0 renzo-aws.logrocket.io
+0.0.0.0 renzo-azure.logrocket.io
+0.0.0.0 renzo-gcp.logrocket.io
+0.0.0.0 staging-i.logrocket.io
+0.0.0.0 test-routing.logrocket.io
+0.0.0.0 api.test-routing.logrocket.io
+0.0.0.0 logrocket.test-routing.logrocket.io
+0.0.0.0 www.logrocket.io
 0.0.0.0 lytics.io
 0.0.0.0 api.lytics.io
 0.0.0.0 c.lytics.io
