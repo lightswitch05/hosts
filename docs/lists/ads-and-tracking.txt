@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-11T20:11:03+00:00
-# Count: 2777 domains
+# Released: 2019-07-12T15:31:14+00:00
+# Count: 2780 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2597,6 +2597,9 @@
 0.0.0.0 sc-static.net
 0.0.0.0 sellpoint.net
 0.0.0.0 a.sellpoint.net
+0.0.0.0 sendgrid.net
+0.0.0.0 ct.sendgrid.net
+0.0.0.0 u2729062.ct.sendgrid.net
 0.0.0.0 sharethis.net
 0.0.0.0 seg-server-lb.global.prod1.sharethis.net
 0.0.0.0 singular.net
