@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-12T15:31:15+00:00
-# Count: 47317 domains
+# Released: 2019-07-15T12:36:25+00:00
+# Count: 47373 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -25253,6 +25253,62 @@
 0.0.0.0 connect.scroll.com
 0.0.0.0 static.scroll.com
 0.0.0.0 metrics.sdkbox.com
+0.0.0.0 segment.com
+0.0.0.0 app.segment.com
+0.0.0.0 app-canary.segment.com
+0.0.0.0 app-production.segment.com
+0.0.0.0 atlantis.segment.com
+0.0.0.0 airflow.biztech.segment.com
+0.0.0.0 calvin.segment.com
+0.0.0.0 canary.segment.com
+0.0.0.0 cdn.segment.com
+0.0.0.0 cdn-settings.segment.com
+0.0.0.0 ci.segment.com
+0.0.0.0 cid.segment.com
+0.0.0.0 composer.segment.com
+0.0.0.0 foxpass.corp.segment.com
+0.0.0.0 email.segment.com
+0.0.0.0 events.segment.com
+0.0.0.0 evergreen.segment.com
+0.0.0.0 facade.segment.com
+0.0.0.0 g.segment.com
+0.0.0.0 gateway-api.segment.com
+0.0.0.0 golink.segment.com
+0.0.0.0 gopages.segment.com
+0.0.0.0 graph.segment.com
+0.0.0.0 grow.segment.com
+0.0.0.0 leaderboard.segment.com
+0.0.0.0 www.leaderboard.segment.com
+0.0.0.0 maglev.segment.com
+0.0.0.0 mobile-service.segment.com
+0.0.0.0 gdpr-controller.my.segment.com
+0.0.0.0 og-images.segment.com
+0.0.0.0 open.segment.com
+0.0.0.0 partners.segment.com
+0.0.0.0 platform-api.segment.com
+0.0.0.0 playbook.segment.com
+0.0.0.0 podcastfeeds.segment.com
+0.0.0.0 production.segment.com
+0.0.0.0 profiles.segment.com
+0.0.0.0 puzzles.segment.com
+0.0.0.0 sales.segment.com
+0.0.0.0 spec.segment.com
+0.0.0.0 sql.segment.com
+0.0.0.0 static.segment.com
+0.0.0.0 status.segment.com
+0.0.0.0 synapse.segment.com
+0.0.0.0 tooling.us-west-2.segment.com
+0.0.0.0 www.segment.com
+0.0.0.0 xid.segment.com
+0.0.0.0 atlassian-ihu9wbfxmn.xid.segment.com
+0.0.0.0 foxdcg-v5dvg7zihe.xid.segment.com
+0.0.0.0 foxlatam-kjlft4ujey.xid.segment.com
+0.0.0.0 hashicorp-fhh9vebjrx.xid.segment.com
+0.0.0.0 invisionapp-vaq807hcqi.xid.segment.com
+0.0.0.0 segment-lgj4aajfn4.xid.segment.com
+0.0.0.0 time-inc-zwpajagg7p.xid.segment.com
+0.0.0.0 whitelabel-apricot.xid.segment.com
+0.0.0.0 whitelabel-berry.xid.segment.com
 0.0.0.0 sekindo.com
 0.0.0.0 backend1.sekindo.com
 0.0.0.0 backend2.sekindo.com
