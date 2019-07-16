@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-16T01:08:52+00:00
-# Count: 47381 domains
+# Released: 2019-07-16T12:50:39+00:00
+# Count: 47450 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6947,6 +6947,7 @@
 0.0.0.0 dashboard-03.braze.com
 0.0.0.0 dashboard-04.braze.com
 0.0.0.0 dashboard-06.braze.com
+0.0.0.0 mail.development.braze.com
 0.0.0.0 go.braze.com
 0.0.0.0 k8s.infra-001.i-use-1.braze.com
 0.0.0.0 pub-services.iad.braze.com
@@ -6967,6 +6968,7 @@
 0.0.0.0 iad-03.braze.com
 0.0.0.0 alya.iad-03.braze.com
 0.0.0.0 www.alya.iad-03.braze.com
+0.0.0.0 belgikanst.iad-03.braze.com
 0.0.0.0 birigum.iad-03.braze.com
 0.0.0.0 blucher.iad-03.braze.com
 0.0.0.0 bond.iad-03.braze.com
@@ -6978,12 +6980,14 @@
 0.0.0.0 clinchitoiba.iad-03.braze.com
 0.0.0.0 cursa.iad-03.braze.com
 0.0.0.0 customer.iad-03.braze.com
+0.0.0.0 daviik.iad-03.braze.com
 0.0.0.0 earvalner.iad-03.braze.com
 0.0.0.0 epsilon.iad-03.braze.com
 0.0.0.0 www.epsilon.iad-03.braze.com
 0.0.0.0 erulus.iad-03.braze.com
 0.0.0.0 flow.iad-03.braze.com
 0.0.0.0 gaspra.iad-03.braze.com
+0.0.0.0 giausar.iad-03.braze.com
 0.0.0.0 graf.iad-03.braze.com
 0.0.0.0 hassaleh.iad-03.braze.com
 0.0.0.0 hiram.iad-03.braze.com
@@ -6992,17 +6996,26 @@
 0.0.0.0 ibis.iad-03.braze.com
 0.0.0.0 www.ibis.iad-03.braze.com
 0.0.0.0 inferna.iad-03.braze.com
+0.0.0.0 inkorabbus.iad-03.braze.com
 0.0.0.0 izar.iad-03.braze.com
+0.0.0.0 lalande.iad-03.braze.com
 0.0.0.0 lignon.iad-03.braze.com
 0.0.0.0 mag.iad-03.braze.com
 0.0.0.0 maia.iad-03.braze.com
 0.0.0.0 markab.iad-03.braze.com
 0.0.0.0 mondarigloo.iad-03.braze.com
 0.0.0.0 moyo.iad-03.braze.com
+0.0.0.0 nabina.iad-03.braze.com
 0.0.0.0 www.nabina.iad-03.braze.com
 0.0.0.0 opus.iad-03.braze.com
+0.0.0.0 peblo.iad-03.braze.com
+0.0.0.0 qablu.iad-03.braze.com
+0.0.0.0 rastaban.iad-03.braze.com
+0.0.0.0 redentoda.iad-03.braze.com
+0.0.0.0 regor.iad-03.braze.com
 0.0.0.0 rest.iad-03.braze.com
 0.0.0.0 rhea.iad-03.braze.com
+0.0.0.0 rosa.iad-03.braze.com
 0.0.0.0 ruba.iad-03.braze.com
 0.0.0.0 sagan.iad-03.braze.com
 0.0.0.0 sargas.iad-03.braze.com
@@ -7010,18 +7023,25 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 www.sdk.iad-03.braze.com
 0.0.0.0 segin.iad-03.braze.com
+0.0.0.0 seginus.iad-03.braze.com
+0.0.0.0 sina.iad-03.braze.com
 0.0.0.0 sirius.iad-03.braze.com
 0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 talar.iad-03.braze.com
 0.0.0.0 www.talar.iad-03.braze.com
 0.0.0.0 tali.iad-03.braze.com
+0.0.0.0 tama.iad-03.braze.com
 0.0.0.0 taukibreez.iad-03.braze.com
+0.0.0.0 tillster.iad-03.braze.com
 0.0.0.0 timbol.iad-03.braze.com
+0.0.0.0 uemelia.iad-03.braze.com
 0.0.0.0 wahacondrax.iad-03.braze.com
 0.0.0.0 wurren.iad-03.braze.com
 0.0.0.0 xenon.iad-03.braze.com
 0.0.0.0 yildun.iad-03.braze.com
+0.0.0.0 zelos.iad-03.braze.com
 0.0.0.0 iad-04.braze.com
+0.0.0.0 iad-05.braze.com
 0.0.0.0 iad-06.braze.com
 0.0.0.0 nashira.iad-06.braze.com
 0.0.0.0 iad-08.braze.com
@@ -12853,6 +12873,21 @@
 0.0.0.0 trackermap.evidon.com
 0.0.0.0 loader.vertica.evidon.com
 0.0.0.0 www.evidon.com
+0.0.0.0 evowise.com
+0.0.0.0 autodiscover.evowise.com
+0.0.0.0 es-mirrors.evowise.com
+0.0.0.0 it-mirrors.evowise.com
+0.0.0.0 la-mirrors.evowise.com
+0.0.0.0 mail.evowise.com
+0.0.0.0 mirror.evowise.com
+0.0.0.0 mirrors.evowise.com
+0.0.0.0 ny-mirrors.evowise.com
+0.0.0.0 relay.evowise.com
+0.0.0.0 ro-mirrors.evowise.com
+0.0.0.0 uk-mirrors.evowise.com
+0.0.0.0 vcenter.evowise.com
+0.0.0.0 vpnx.evowise.com
+0.0.0.0 www.evowise.com
 0.0.0.0 exacttarget.com
 0.0.0.0 members.11.exacttarget.com
 0.0.0.0 3sixty.exacttarget.com
@@ -15967,6 +16002,7 @@
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 mint.finance.intuit.com
 0.0.0.0 offcnt.intuit.com
+0.0.0.0 financialprovider-logos.platform.intuit.com
 0.0.0.0 trinity.platform.intuit.com
 0.0.0.0 www.trinity.platform.intuit.com
 0.0.0.0 sci.intuit.com
@@ -25984,6 +26020,9 @@
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 bo.promotions.skype.com
+0.0.0.0 slickstream.com
+0.0.0.0 backend.slickstream.com
+0.0.0.0 www.slickstream.com
 0.0.0.0 smrtb.com
 0.0.0.0 ads.smrtb.com
 0.0.0.0 assets-east.smrtb.com
@@ -26412,6 +26451,22 @@
 0.0.0.0 stack-sonar.com
 0.0.0.0 api.stack-sonar.com
 0.0.0.0 www.stack-sonar.com
+0.0.0.0 stagehosts.com
+0.0.0.0 by.stagehosts.com
+0.0.0.0 cards-ext.stagehosts.com
+0.0.0.0 cis.stagehosts.com
+0.0.0.0 cvs-stage1-by.stagehosts.com
+0.0.0.0 cvs-stage2-by.stagehosts.com
+0.0.0.0 logs.stagehosts.com
+0.0.0.0 smbuilds.stagehosts.com
+0.0.0.0 vds-stage2-by.stagehosts.com
+0.0.0.0 vds-stage4by-app.stagehosts.com
+0.0.0.0 vs-stage2-by.stagehosts.com
+0.0.0.0 vs-stage3-by.stagehosts.com
+0.0.0.0 vs-stage4-by.stagehosts.com
+0.0.0.0 vs-stage5-by.stagehosts.com
+0.0.0.0 vs-stage6-by.stagehosts.com
+0.0.0.0 vs-stage8-by.stagehosts.com
 0.0.0.0 metrics.starz.com
 0.0.0.0 statdynamic.com
 0.0.0.0 102.statdynamic.com
@@ -45472,7 +45527,21 @@
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www.lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
+0.0.0.0 bibblio.org
+0.0.0.0 amp.bibblio.org
+0.0.0.0 api.bibblio.org
+0.0.0.0 www.api.bibblio.org
+0.0.0.0 assets.bibblio.org
 0.0.0.0 cdn.bibblio.org
+0.0.0.0 explorer.bibblio.org
+0.0.0.0 www.explorer.bibblio.org
+0.0.0.0 images.bibblio.org
+0.0.0.0 rcm.bibblio.org
+0.0.0.0 redis-ui-rkkumavggjipjsgjqoxl.bibblio.org
+0.0.0.0 resources.bibblio.org
+0.0.0.0 rms.bibblio.org
+0.0.0.0 www.rms.bibblio.org
+0.0.0.0 www.bibblio.org
 0.0.0.0 invitation.cantonfair.org
 0.0.0.0 commercialvalue.org
 0.0.0.0 www.commercialvalue.org

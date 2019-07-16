@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-16T01:08:52+00:00
-# Count: 2789 domains
+# Released: 2019-07-16T12:50:39+00:00
+# Count: 2802 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -481,8 +481,13 @@
 0.0.0.0 smetrics.boston.com
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 braze.com
+0.0.0.0 iad-03.braze.com
 0.0.0.0 epsilon.iad-03.braze.com
+0.0.0.0 horus.iad-03.braze.com
 0.0.0.0 yildun.iad-03.braze.com
+0.0.0.0 iad-04.braze.com
+0.0.0.0 iad-05.braze.com
+0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 www.metrics.brightcove.com
@@ -740,6 +745,8 @@
 0.0.0.0 cdn.evgnet.com
 0.0.0.0 evidon.com
 0.0.0.0 c.evidon.com
+0.0.0.0 evowise.com
+0.0.0.0 ro-mirrors.evowise.com
 0.0.0.0 exacttarget.com
 0.0.0.0 github.exacttarget.com
 0.0.0.0 pages.exacttarget.com
@@ -1574,6 +1581,8 @@
 0.0.0.0 cfg.skollabs.com
 0.0.0.0 promotions.skype.com
 0.0.0.0 api.promotions.skype.com
+0.0.0.0 slickstream.com
+0.0.0.0 backend.slickstream.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
 0.0.0.0 snapads.com
@@ -1613,6 +1622,8 @@
 0.0.0.0 www.ssacdn.com
 0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 stack-sonar.com
+0.0.0.0 stagehosts.com
+0.0.0.0 cards-ext.stagehosts.com
 0.0.0.0 metrics.starz.com
 0.0.0.0 statdynamic.com
 0.0.0.0 cdn-101.statdynamic.com
@@ -2676,6 +2687,8 @@
 0.0.0.0 use-va1.adsrvr.org
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
+0.0.0.0 bibblio.org
+0.0.0.0 api.bibblio.org
 0.0.0.0 cdn.bibblio.org
 0.0.0.0 invitation.cantonfair.org
 0.0.0.0 commercialvalue.org
