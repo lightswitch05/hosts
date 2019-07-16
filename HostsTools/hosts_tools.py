@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import datetime
-import json
 import re
 from typing import List, Set, Pattern
 
@@ -13,6 +12,7 @@ import shutil
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
 ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]***REMOVED******REMOVED***\|\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
+HTML_FILE = 'docs/index.html'
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
@@ -126,6 +126,17 @@ def write_domain_list(file_name: str, domains: Set[str]):
             file.write('0.0.0.0 %s\n' % domain)
         file.write('\n\n')
     shutil.copyfile(file_name, 'docs/lists/' + file_name)
+    update_website_count(file_name, len(sorted_domains))
+
+
+def update_website_count(file_name: str, count: int):
+    span_id = file_name.split('.')[0] + '-count'
+    span_pattern = re.compile(f'<span id="***REMOVED***span_id***REMOVED***">\\d*</span>', flags=re.MULTILINE)
+    with open(HTML_FILE, 'r') as file:
+        file_contents = file.read()
+    file_contents = re.sub(span_pattern, f'<span id="***REMOVED***span_id***REMOVED***">***REMOVED***count***REMOVED***</span>',  file_contents)
+    with open(HTML_FILE, 'w') as file:
+        file.write(file_contents)
 
 
 def is_valid_domain(domain: str) -> bool:
