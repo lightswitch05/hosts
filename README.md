@@ -20,7 +20,7 @@ AMP Hosts | [Google's Accelerated Mobile Pages (AMP)](https://www.theregister.co
 
 ## Pre-requisites
 
-* Python 3.5 or later
+* Python 3.6 or later
 * pip3
 
 ## Setup
