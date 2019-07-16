@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-16T14:11:35+00:00
-# Count: 47565 domains
+# Released: 2019-07-16T14:42:19+00:00
+# Count: 47591 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -15007,6 +15007,24 @@
 0.0.0.0 portal-fynd.headlinerlabs.com
 0.0.0.0 staging.headlinerlabs.com
 0.0.0.0 www.headlinerlabs.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 about.heapanalytics.com
+0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 content.heapanalytics.com
+0.0.0.0 data.heapanalytics.com
+0.0.0.0 dataproxy.heapanalytics.com
+0.0.0.0 dre.heapanalytics.com
+0.0.0.0 email.heapanalytics.com
+0.0.0.0 o1.email.heapanalytics.com
+0.0.0.0 go.heapanalytics.com
+0.0.0.0 info.heapanalytics.com
+0.0.0.0 internal.heapanalytics.com
+0.0.0.0 mail.heapanalytics.com
+0.0.0.0 marketing.heapanalytics.com
+0.0.0.0 pantheon.heapanalytics.com
+0.0.0.0 socket.heapanalytics.com
+0.0.0.0 status.heapanalytics.com
+0.0.0.0 www.heapanalytics.com
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 www.fs-client-logger.herokuapp.com
 0.0.0.0 gdpr-service.herokuapp.com
@@ -32921,6 +32939,14 @@
 0.0.0.0 piwik.privacytools.io
 0.0.0.0 api.pubwise.io
 0.0.0.0 api.radar.io
+0.0.0.0 raygun.io
+0.0.0.0 api.raygun.io
+0.0.0.0 app.raygun.io
+0.0.0.0 cdn.raygun.io
+0.0.0.0 use.raygun.io
+0.0.0.0 www.use.raygun.io
+0.0.0.0 webapi.raygun.io
+0.0.0.0 www.raygun.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 rtk.io
 0.0.0.0 bidder.rtk.io

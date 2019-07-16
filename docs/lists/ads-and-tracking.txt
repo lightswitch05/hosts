@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-16T14:11:35+00:00
-# Count: 2806 domains
+# Released: 2019-07-16T14:42:19+00:00
+# Count: 2810 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -876,6 +876,8 @@
 0.0.0.0 headlinerlabs.com
 0.0.0.0 api.headlinerlabs.com
 0.0.0.0 plugin.headlinerlabs.com
+0.0.0.0 heapanalytics.com
+0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 gdpr-service.herokuapp.com
 0.0.0.0 adserver.allinviews.com.herokudns.com
@@ -2146,6 +2148,8 @@
 0.0.0.0 piwik.privacytools.io
 0.0.0.0 api.pubwise.io
 0.0.0.0 api.radar.io
+0.0.0.0 raygun.io
+0.0.0.0 cdn.raygun.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 rtk.io
 0.0.0.0 bidder.rtk.io
