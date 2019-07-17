@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-16T14:42:19+00:00
-# Count: 47591 domains
+# Released: 2019-07-17T13:17:35+00:00
+# Count: 47717 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -9643,6 +9643,15 @@
 0.0.0.0 v5.chartboost.com
 0.0.0.0 webdisk.chartboost.com
 0.0.0.0 www.chartboost.com
+0.0.0.0 chicoryapp.com
+0.0.0.0 myrecipes.chicoryapp.com
+0.0.0.0 prod-cdn.chicoryapp.com
+0.0.0.0 prod-grocer.chicoryapp.com
+0.0.0.0 prod-pixel.chicoryapp.com
+0.0.0.0 smartcart.chicoryapp.com
+0.0.0.0 tabletalk.chicoryapp.com
+0.0.0.0 www.chicoryapp.com
+0.0.0.0 yunify.chicoryapp.com
 0.0.0.0 c.cintnetworks.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
@@ -11575,6 +11584,7 @@
 0.0.0.0 request-global.czilladx.com
 0.0.0.0 request-staging.czilladx.com
 0.0.0.0 serve.czilladx.com
+0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger-01.vty.dailymotion.com
 0.0.0.0 logger-02.vty.dailymotion.com
 0.0.0.0 logger-03.vty.dailymotion.com
@@ -11710,6 +11720,7 @@
 0.0.0.0 www.demandbase.com
 0.0.0.0 www-stage.demandbase.com
 0.0.0.0 adserver.densitymedia.com
+0.0.0.0 events.deskapi.com
 0.0.0.0 srepdata.desmoinesregister.com
 0.0.0.0 user.desmoinesregister.com
 0.0.0.0 cdnstatic.detik.com
@@ -15218,6 +15229,23 @@
 0.0.0.0 www.doppler.hulu.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 www.vortex.hulu.com
+0.0.0.0 huluim.com
+0.0.0.0 assets.huluim.com
+0.0.0.0 assets1.huluim.com
+0.0.0.0 assets2.huluim.com
+0.0.0.0 assets3.huluim.com
+0.0.0.0 origin-ib.els.huluim.com
+0.0.0.0 ib.huluim.com
+0.0.0.0 ib1.huluim.com
+0.0.0.0 ib2.huluim.com
+0.0.0.0 ib3.huluim.com
+0.0.0.0 ib4.huluim.com
+0.0.0.0 ibdp.huluim.com
+0.0.0.0 livethumb.huluim.com
+0.0.0.0 www.livethumb.huluim.com
+0.0.0.0 static.huluim.com
+0.0.0.0 t2.huluim.com
+0.0.0.0 thumbnails.huluim.com
 0.0.0.0 iad-apple.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
@@ -15407,6 +15435,8 @@
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 us.imrworldwide.com
 0.0.0.0 vwrap.imrworldwide.com
+0.0.0.0 imtwjwoasak.com
+0.0.0.0 www.imtwjwoasak.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 accounts.inlocomedia.com
@@ -20837,6 +20867,8 @@
 0.0.0.0 onlinetpdaydea.com
 0.0.0.0 rewardsprogram.onlinetpdaydea.com
 0.0.0.0 jpx-d3.openxenterprise.com
+0.0.0.0 opinionstage.com
+0.0.0.0 www.opinionstage.com
 0.0.0.0 opmnstr.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 api.opmnstr.com
@@ -29111,6 +29143,95 @@
 0.0.0.0 updates.tune.com
 0.0.0.0 videos.tune.com
 0.0.0.0 www.tune.com
+0.0.0.0 turn.com
+0.0.0.0 ad.turn.com
+0.0.0.0 ak.ad.turn.com
+0.0.0.0 ad2.turn.com
+0.0.0.0 adworks.turn.com
+0.0.0.0 www.adworks.turn.com
+0.0.0.0 akamai.turn.com
+0.0.0.0 emb.akamai.turn.com
+0.0.0.0 analytics.turn.com
+0.0.0.0 apac-console.turn.com
+0.0.0.0 api.turn.com
+0.0.0.0 www.api.turn.com
+0.0.0.0 mailrelay.atl1.turn.com
+0.0.0.0 ra01.atl1.turn.com
+0.0.0.0 attadworks.turn.com
+0.0.0.0 www.attadworks.turn.com
+0.0.0.0 autodiscover.turn.com
+0.0.0.0 beacon2.turn.com
+0.0.0.0 bid-atl1.turn.com
+0.0.0.0 bid-sjc2.turn.com
+0.0.0.0 bid-spotxchange-sjc2.turn.com
+0.0.0.0 bomgar.turn.com
+0.0.0.0 www.bomgar.turn.com
+0.0.0.0 brandportal.turn.com
+0.0.0.0 www.brandportal.turn.com
+0.0.0.0 cas-bk.turn.com
+0.0.0.0 cdn.turn.com
+0.0.0.0 cdns.turn.com
+0.0.0.0 ad2.cdns.turn.com
+0.0.0.0 img.cdns.turn.com
+0.0.0.0 vid1.cdns.turn.com
+0.0.0.0 cloud.turn.com
+0.0.0.0 www.cloud.turn.com
+0.0.0.0 creative-preview.turn.com
+0.0.0.0 d.turn.com
+0.0.0.0 www.d.turn.com
+0.0.0.0 d-atl1.turn.com
+0.0.0.0 d-audienceiq-atl1.turn.com
+0.0.0.0 d-audienceiq-hkg1.turn.com
+0.0.0.0 d-audienceiq-sjc2.turn.com
+0.0.0.0 d-hkg1.turn.com
+0.0.0.0 d-p-td-atl1.turn.com
+0.0.0.0 d-p-td-hkg1.turn.com
+0.0.0.0 d-p-td-sjc2.turn.com
+0.0.0.0 d-sjc2.turn.com
+0.0.0.0 e.turn.com
+0.0.0.0 gdpr-api.turn.com
+0.0.0.0 gdpr-api-qa.turn.com
+0.0.0.0 helpcenter.turn.com
+0.0.0.0 hk-vpn.turn.com
+0.0.0.0 ns1.hkg1.turn.com
+0.0.0.0 img.turn.com
+0.0.0.0 info.turn.com
+0.0.0.0 labs.turn.com
+0.0.0.0 legacy.turn.com
+0.0.0.0 mail.turn.com
+0.0.0.0 www.mail.turn.com
+0.0.0.0 metrics.turn.com
+0.0.0.0 ns1.turn.com
+0.0.0.0 pages.turn.com
+0.0.0.0 pgp-us.turn.com
+0.0.0.0 www.pgp-us.turn.com
+0.0.0.0 pgp1-us.turn.com
+0.0.0.0 www.pgp1-us.turn.com
+0.0.0.0 presentation-ams1.turn.com
+0.0.0.0 presentation-atl1.turn.com
+0.0.0.0 presentation-hkg1.turn.com
+0.0.0.0 presentation-sjc2.turn.com
+0.0.0.0 preview.turn.com
+0.0.0.0 r.turn.com
+0.0.0.0 www.r.turn.com
+0.0.0.0 ra01.turn.com
+0.0.0.0 www.ra01.turn.com
+0.0.0.0 redbull-as.turn.com
+0.0.0.0 rwcvpn1.turn.com
+0.0.0.0 sd.turn.com
+0.0.0.0 sd-atl1.turn.com
+0.0.0.0 sd-sjc2.turn.com
+0.0.0.0 corp1.sjc2.turn.com
+0.0.0.0 ra01.sjc2.turn.com
+0.0.0.0 sjc2gp-gw.turn.com
+0.0.0.0 sr.turn.com
+0.0.0.0 www.sr.turn.com
+0.0.0.0 static.turn.com
+0.0.0.0 trust.turn.com
+0.0.0.0 turn-mail.turn.com
+0.0.0.0 turnuniversity.turn.com
+0.0.0.0 www.turnuniversity.turn.com
+0.0.0.0 www.turn.com
 0.0.0.0 turnto.com
 0.0.0.0 analytics.turnto.com
 0.0.0.0 www.analytics.turnto.com
@@ -35475,6 +35596,7 @@
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
+0.0.0.0 d3l4p0goxhm61a.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
@@ -36752,7 +36874,10 @@
 0.0.0.0 try-go.districtm.net
 0.0.0.0 video.districtm.net
 0.0.0.0 www.districtm.net
+0.0.0.0 dm-event.net
+0.0.0.0 mebed.dm-event.net
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 webed.dm-event.net
 0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -36985,6 +37110,7 @@
 0.0.0.0 3778261.fls.doubleclick.net
 0.0.0.0 3782466.fls.doubleclick.net
 0.0.0.0 3786443.fls.doubleclick.net
+0.0.0.0 3792445.fls.doubleclick.net
 0.0.0.0 3792964.fls.doubleclick.net
 0.0.0.0 3793307.fls.doubleclick.net
 0.0.0.0 3797665.fls.doubleclick.net

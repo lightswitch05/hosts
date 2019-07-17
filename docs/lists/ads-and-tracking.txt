@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-16T14:42:19+00:00
-# Count: 2810 domains
+# Released: 2019-07-17T13:17:35+00:00
+# Count: 2829 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -551,6 +551,8 @@
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
+0.0.0.0 chicoryapp.com
+0.0.0.0 www.chicoryapp.com
 0.0.0.0 c.cintnetworks.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
@@ -645,6 +647,7 @@
 0.0.0.0 metrics.cvshealth.com
 0.0.0.0 czilladx.com
 0.0.0.0 serve.czilladx.com
+0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger-01.vty.dailymotion.com
 0.0.0.0 logger-02.vty.dailymotion.com
 0.0.0.0 logger-03.vty.dailymotion.com
@@ -667,6 +670,7 @@
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 adserver.densitymedia.com
+0.0.0.0 events.deskapi.com
 0.0.0.0 srepdata.desmoinesregister.com
 0.0.0.0 user.desmoinesregister.com
 0.0.0.0 cdnstatic.detik.com
@@ -900,6 +904,9 @@
 0.0.0.0 htlbid.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 vortex.hulu.com
+0.0.0.0 huluim.com
+0.0.0.0 assets.huluim.com
+0.0.0.0 ib.huluim.com
 0.0.0.0 iad-apple.com
 0.0.0.0 links.ibotta.com
 0.0.0.0 o.ibotta.com
@@ -916,6 +923,7 @@
 0.0.0.0 imprev.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 imtwjwoasak.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
@@ -1083,6 +1091,7 @@
 0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 marketolive.com
 0.0.0.0 mathtag.com
+0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel-origin.mathtag.com
 0.0.0.0 geoip-js.maxmind.com
 0.0.0.0 maxpoint.com
@@ -1281,6 +1290,7 @@
 0.0.0.0 beacon.geo.netflix.com
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
 0.0.0.0 netmng.com
+0.0.0.0 chico.netmng.com
 0.0.0.0 newarena.netmng.com
 0.0.0.0 netseer.com
 0.0.0.0 cm.netseer.com
@@ -1311,6 +1321,8 @@
 0.0.0.0 onlinetpdaydea.com
 0.0.0.0 rewardsprogram.onlinetpdaydea.com
 0.0.0.0 jpx-d3.openxenterprise.com
+0.0.0.0 opinionstage.com
+0.0.0.0 www.opinionstage.com
 0.0.0.0 opmnstr.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 optimeze.com
@@ -1796,6 +1808,8 @@
 0.0.0.0 ma.tune.com
 0.0.0.0 configuration.ma.tune.com
 0.0.0.0 playlist.ma.tune.com
+0.0.0.0 turn.com
+0.0.0.0 d.turn.com
 0.0.0.0 turnto.com
 0.0.0.0 static.www.turnto.com
 0.0.0.0 tvadsync.com
@@ -2304,6 +2318,7 @@
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
+0.0.0.0 d3l4p0goxhm61a.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
@@ -2356,7 +2371,9 @@
 0.0.0.0 vivaki.demdex.net
 0.0.0.0 xfinitydigital.demdex.net
 0.0.0.0 districtm.net
+0.0.0.0 dm-event.net
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 webed.dm-event.net
 0.0.0.0 tofu-ssl.dmcdn.net
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
@@ -2364,6 +2381,7 @@
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 1817628.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
+0.0.0.0 3792445.fls.doubleclick.net
 0.0.0.0 3944448.fls.doubleclick.net
 0.0.0.0 4191263.fls.doubleclick.net
 0.0.0.0 4292932.fls.doubleclick.net
@@ -2691,6 +2709,7 @@
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
 0.0.0.0 adsrvr.org
+0.0.0.0 match.adsrvr.org
 0.0.0.0 t.update.adsrvr.org
 0.0.0.0 use-va1.adsrvr.org
 0.0.0.0 lpweb.altervista.org
