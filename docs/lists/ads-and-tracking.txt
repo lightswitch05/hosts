@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-19T22:35:48+00:00
-# Count: 2859 domains
+# Released: 2019-07-23T13:02:41+00:00
+# Count: 2869 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -117,6 +117,7 @@
 0.0.0.0 accountkit.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 adserver.aceofmedia.com
+0.0.0.0 lift.acquia.com
 0.0.0.0 acrabakasaka.com
 0.0.0.0 a.acrabakasaka.com
 0.0.0.0 xhr.acrabakasaka.com
@@ -461,6 +462,7 @@
 0.0.0.0 adserver.beeviewd.com
 0.0.0.0 bestadbid.com
 0.0.0.0 bestbackorder.com
+0.0.0.0 context.bestbuy.com
 0.0.0.0 bestcontentonline.com
 0.0.0.0 adserver.bestcontentonline.com
 0.0.0.0 cdn.bestreviews.com
@@ -527,6 +529,8 @@
 0.0.0.0 buysellads.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 buzzdeck.com
+0.0.0.0 abeagle-public.buzzfeed.com
+0.0.0.0 recsys-api.buzzfeed.com
 0.0.0.0 c3tag.com
 0.0.0.0 694-img.c3tag.com
 0.0.0.0 campaign-archive.com
@@ -2065,6 +2069,7 @@
 0.0.0.0 mixmaintainbestaflash.icu
 0.0.0.0 www.mixmaintainbestaflash.icu
 0.0.0.0 mixmaintenancegreatliteflash.icu
+0.0.0.0 play4funandwin.icu
 0.0.0.0 savegolddealliteflash.icu
 0.0.0.0 www.savegolddealliteflash.icu
 0.0.0.0 topfuturetypeaflash.icu
@@ -2204,6 +2209,7 @@
 0.0.0.0 wpad.lan
 0.0.0.0 traq.li
 0.0.0.0 api.traq.li
+0.0.0.0 app.link
 0.0.0.0 checkyourmoneybox98.loan
 0.0.0.0 best5768.checkyourmoneybox98.loan
 0.0.0.0 wpad.local
@@ -2560,6 +2566,9 @@
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 speed.nocookie.net
+0.0.0.0 nr-data.net
+0.0.0.0 bam.nr-data.net
+0.0.0.0 staging-bam.nr-data.net
 0.0.0.0 nuggad.net
 0.0.0.0 southernx.nuggad.net
 0.0.0.0 omtrdc.net
@@ -2875,6 +2884,7 @@
 0.0.0.0 alexaprime.xyz
 0.0.0.0 theperfectupdate4everyone.xyz
 0.0.0.0 workingversion.theperfectupdate4everyone.xyz
+0.0.0.0 winnerlink.xyz
 0.0.0.0 yourbestsiteforlinksitenew.xyz
 0.0.0.0 whenupgrade.yourbestsiteforlinksitenew.xyz
 0.0.0.0 yourprime.xyz
