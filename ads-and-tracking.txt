@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-23T17:39:40+00:00
-# Count: 2868 domains
+# Released: 2019-07-24T12:31:12+00:00
+# Count: 2871 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -786,6 +786,8 @@
 0.0.0.0 cdn.filteringlist.com
 0.0.0.0 firstpromoter.com
 0.0.0.0 cdn.firstpromoter.com
+0.0.0.0 flashtalking.com
+0.0.0.0 stat.flashtalking.com
 0.0.0.0 flurry.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 proton.flurry.com
@@ -2386,6 +2388,7 @@
 0.0.0.0 millercoors.demdex.net
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 samsungelectronicsamericainc.demdex.net
+0.0.0.0 subaruofamerica.demdex.net
 0.0.0.0 tdameritrade.demdex.net
 0.0.0.0 tmobile.demdex.net
 0.0.0.0 tracfone.demdex.net
