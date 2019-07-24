@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-24T12:31:12+00:00
-# Count: 48365 domains
+# Released: 2019-07-24T17:37:51+00:00
+# Count: 48431 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -15263,6 +15263,8 @@
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 hotfreebees.com
+0.0.0.0 www.hotfreebees.com
 0.0.0.0 hotjar.com
 0.0.0.0 adm.hotjar.com
 0.0.0.0 assets.hotjar.com
@@ -17736,6 +17738,65 @@
 0.0.0.0 ns12.lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 www.lightboxcdn.com
+0.0.0.0 lightstep.com
+0.0.0.0 api.lightstep.com
+0.0.0.0 api-grpc.lightstep.com
+0.0.0.0 api-latest.lightstep.com
+0.0.0.0 api-latest-grpc.lightstep.com
+0.0.0.0 api-loadtest.lightstep.com
+0.0.0.0 api-loadtest-grpc.lightstep.com
+0.0.0.0 api-meta.lightstep.com
+0.0.0.0 api-staging.lightstep.com
+0.0.0.0 api-staging-grpc.lightstep.com
+0.0.0.0 api2.lightstep.com
+0.0.0.0 app.lightstep.com
+0.0.0.0 app-latest.lightstep.com
+0.0.0.0 app-loadtest.lightstep.com
+0.0.0.0 app-meta.lightstep.com
+0.0.0.0 app-staging.lightstep.com
+0.0.0.0 assets.lightstep.com
+0.0.0.0 collector.lightstep.com
+0.0.0.0 collector-grpc.lightstep.com
+0.0.0.0 collector-grpc-latest.lightstep.com
+0.0.0.0 collector-grpc-loadtest.lightstep.com
+0.0.0.0 collector-grpc-meta.lightstep.com
+0.0.0.0 collector-grpc-staging.lightstep.com
+0.0.0.0 collector-http.lightstep.com
+0.0.0.0 collector-latest.lightstep.com
+0.0.0.0 collector-life360.lightstep.com
+0.0.0.0 collector-loadtest.lightstep.com
+0.0.0.0 collector-lyft-dev.lightstep.com
+0.0.0.0 collector-lyft-dev-no-grpc.lightstep.com
+0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector-meta.lightstep.com
+0.0.0.0 collector-staging.lightstep.com
+0.0.0.0 edge.lightstep.com
+0.0.0.0 go.lightstep.com
+0.0.0.0 ingest.lightstep.com
+0.0.0.0 internal-public.lightstep.com
+0.0.0.0 internal-staging.lightstep.com
+0.0.0.0 edge.loadtest.lightstep.com
+0.0.0.0 ingest.loadtest.lightstep.com
+0.0.0.0 meet.lightstep.com
+0.0.0.0 meta.lightstep.com
+0.0.0.0 ambassador.meta.lightstep.com
+0.0.0.0 api.meta.lightstep.com
+0.0.0.0 api-grpc.meta.lightstep.com
+0.0.0.0 app.meta.lightstep.com
+0.0.0.0 collector.meta.lightstep.com
+0.0.0.0 edge.meta.lightstep.com
+0.0.0.0 ingest.meta.lightstep.com
+0.0.0.0 satellite-grpc-loadtest.lightstep.com
+0.0.0.0 staging.lightstep.com
+0.0.0.0 ambassador.staging.lightstep.com
+0.0.0.0 api.staging.lightstep.com
+0.0.0.0 app.staging.lightstep.com
+0.0.0.0 collector.staging.lightstep.com
+0.0.0.0 collector-istio.staging.lightstep.com
+0.0.0.0 edge.staging.lightstep.com
+0.0.0.0 ingest.staging.lightstep.com
+0.0.0.0 status.lightstep.com
+0.0.0.0 www.lightstep.com
 0.0.0.0 lijit.com
 0.0.0.0 adcenter.lijit.com
 0.0.0.0 adintegration.lijit.com
@@ -23011,6 +23072,8 @@
 0.0.0.0 widget.privy.com
 0.0.0.0 www.privy.com
 0.0.0.0 zc.privy.com
+0.0.0.0 prizetransfer.com
+0.0.0.0 www.prizetransfer.com
 0.0.0.0 www2.profitwell.com
 0.0.0.0 metrics.protectmyid.com
 0.0.0.0 pt2tracker.com
@@ -46640,6 +46703,8 @@
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 www.adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 shoppingsurveys.org
+0.0.0.0 www.shoppingsurveys.org
 0.0.0.0 metrics.stjude.org
 0.0.0.0 booe.pro
 0.0.0.0 piwik.pro
@@ -48371,6 +48436,7 @@
 0.0.0.0 theperfectupdate4everyone.xyz
 0.0.0.0 learn2upgrade.theperfectupdate4everyone.xyz
 0.0.0.0 workingversion.theperfectupdate4everyone.xyz
+0.0.0.0 wedspicks.xyz
 0.0.0.0 winnerlink.xyz
 0.0.0.0 yourbestsiteforlinksitenew.xyz
 0.0.0.0 whenupgrade.yourbestsiteforlinksitenew.xyz

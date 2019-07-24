@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-24T12:31:12+00:00
-# Count: 2871 domains
+# Released: 2019-07-24T17:37:51+00:00
+# Count: 2880 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -911,6 +911,8 @@
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 hotfreebees.com
+0.0.0.0 www.hotfreebees.com
 0.0.0.0 hotjar.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 hs-scripts.com
@@ -1048,6 +1050,8 @@
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 www.lightboxcdn.com
+0.0.0.0 lightstep.com
+0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 lijit.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 vap.lijit.com
@@ -1425,6 +1429,8 @@
 0.0.0.0 track.pricespider.com
 0.0.0.0 privy.com
 0.0.0.0 widget.privy.com
+0.0.0.0 prizetransfer.com
+0.0.0.0 www.prizetransfer.com
 0.0.0.0 www2.profitwell.com
 0.0.0.0 metrics.protectmyid.com
 0.0.0.0 pt2tracker.com
@@ -2773,6 +2779,8 @@
 0.0.0.0 www.privacy-center.org
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 shoppingsurveys.org
+0.0.0.0 www.shoppingsurveys.org
 0.0.0.0 metrics.stjude.org
 0.0.0.0 booe.pro
 0.0.0.0 piwik.pro
@@ -2886,6 +2894,7 @@
 0.0.0.0 alexaprime.xyz
 0.0.0.0 theperfectupdate4everyone.xyz
 0.0.0.0 workingversion.theperfectupdate4everyone.xyz
+0.0.0.0 wedspicks.xyz
 0.0.0.0 winnerlink.xyz
 0.0.0.0 yourbestsiteforlinksitenew.xyz
 0.0.0.0 whenupgrade.yourbestsiteforlinksitenew.xyz
