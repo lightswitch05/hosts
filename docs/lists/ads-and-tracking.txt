@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-25T12:25:35+00:00
-# Count: 2883 domains
+# Released: 2019-07-25T14:09:31+00:00
+# Count: 2885 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -342,6 +342,7 @@
 0.0.0.0 ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
+0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 font-vmg.s3.amazonaws.com
 0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
@@ -967,6 +968,7 @@
 0.0.0.0 abtesting.intuit.com
 0.0.0.0 apppersonalization.api.intuit.com
 0.0.0.0 beyonduserpaid.api.intuit.com
+0.0.0.0 contentpersonalization.api.intuit.com
 0.0.0.0 financialprofileorchestration.api.intuit.com
 0.0.0.0 mintsurvey.api.intuit.com
 0.0.0.0 eventbus.intuit.com
