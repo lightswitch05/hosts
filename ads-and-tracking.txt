@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-29T15:19:44+00:00
-# Count: 2901 domains
+# Released: 2019-07-29T15:22:32+00:00
+# Count: 2903 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1576,6 +1576,8 @@
 0.0.0.0 beacon-streamer.saymedia.com
 0.0.0.0 ads.scanapps.com
 0.0.0.0 beacon.scanapps.com
+0.0.0.0 scanscout.com
+0.0.0.0 static-secure.scanscout.com
 0.0.0.0 scarabresearch.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 scorecardresearch.com
