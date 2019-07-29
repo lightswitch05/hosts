@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-26T17:37:12+00:00
-# Count: 2897 domains
+# Released: 2019-07-29T15:19:44+00:00
+# Count: 2901 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2853,6 +2853,7 @@
 0.0.0.0 pt.ispot.tv
 0.0.0.0 staging-pi.ispot.tv
 0.0.0.0 staging-ps.ispot.tv
+0.0.0.0 analytics.plex.tv
 0.0.0.0 ravm.tv
 0.0.0.0 shoofle.tv
 0.0.0.0 bis.shoofle.tv
@@ -2885,6 +2886,9 @@
 0.0.0.0 newads.staging.superawesome.tv
 0.0.0.0 us-east-1-ads.superawesome.tv
 0.0.0.0 syndicaster.tv
+0.0.0.0 videohub.tv
+0.0.0.0 ads.videohub.tv
+0.0.0.0 ads-secure.videohub.tv
 0.0.0.0 vuble.tv
 0.0.0.0 analytics.xcal.tv
 0.0.0.0 metricscollector.lp.xcal.tv

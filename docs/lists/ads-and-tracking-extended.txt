@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-26T17:37:12+00:00
-# Count: 48614 domains
+# Released: 2019-07-29T15:19:44+00:00
+# Count: 48656 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -48242,6 +48242,7 @@
 0.0.0.0 ww.ispot.tv
 0.0.0.0 www.ispot.tv
 0.0.0.0 www.www.ispot.tv
+0.0.0.0 analytics.plex.tv
 0.0.0.0 ravm.tv
 0.0.0.0 display.ravm.tv
 0.0.0.0 raps.ravm.tv
@@ -48386,6 +48387,47 @@
 0.0.0.0 spawn.syndicaster.tv
 0.0.0.0 uploader.syndicaster.tv
 0.0.0.0 www.syndicaster.tv
+0.0.0.0 videohub.tv
+0.0.0.0 10.videohub.tv
+0.0.0.0 ads.videohub.tv
+0.0.0.0 ads-secure.videohub.tv
+0.0.0.0 adserver.videohub.tv
+0.0.0.0 app.videohub.tv
+0.0.0.0 autodiscover.videohub.tv
+0.0.0.0 cdn-secure.videohub.tv
+0.0.0.0 dsp.videohub.tv
+0.0.0.0 dsp2-adserver.videohub.tv
+0.0.0.0 dsp3.videohub.tv
+0.0.0.0 dt.videohub.tv
+0.0.0.0 dt-secure.videohub.tv
+0.0.0.0 iad1.videohub.tv
+0.0.0.0 adserver.iad1.videohub.tv
+0.0.0.0 dsp.iad1.videohub.tv
+0.0.0.0 nginx12.iad1.videohub.tv
+0.0.0.0 nginx13.iad1.videohub.tv
+0.0.0.0 nginx14.iad1.videohub.tv
+0.0.0.0 nginx15.iad1.videohub.tv
+0.0.0.0 l0.videohub.tv
+0.0.0.0 l0-secure.videohub.tv
+0.0.0.0 lyncdiscover.videohub.tv
+0.0.0.0 meet.videohub.tv
+0.0.0.0 objects-secure.videohub.tv
+0.0.0.0 pixel.videohub.tv
+0.0.0.0 ads.sc.videohub.tv
+0.0.0.0 ads-secure.sc.videohub.tv
+0.0.0.0 adserver.sc.videohub.tv
+0.0.0.0 sip.videohub.tv
+0.0.0.0 app.stag.videohub.tv
+0.0.0.0 data.stag.videohub.tv
+0.0.0.0 dsp.stag.videohub.tv
+0.0.0.0 tagvalidator.videohub.tv
+0.0.0.0 ads.test.videohub.tv
+0.0.0.0 app.test.videohub.tv
+0.0.0.0 data.test.videohub.tv
+0.0.0.0 dsp.test.videohub.tv
+0.0.0.0 www.dsp.test.videohub.tv
+0.0.0.0 tp.videohub.tv
+0.0.0.0 www.videohub.tv
 0.0.0.0 vuble.tv
 0.0.0.0 cloud.vuble.tv
 0.0.0.0 dev.vuble.tv
