@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-07-29T15:22:32+00:00
-# Count: 48679 domains
+# Released: 2019-07-31T12:43:48+00:00
+# Count: 48712 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6988,7 +6988,13 @@
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 brandmetrics.com
+0.0.0.0 api.brandmetrics.com
+0.0.0.0 www.api.brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
+0.0.0.0 collector.brandmetrics.com
+0.0.0.0 www.collector.brandmetrics.com
+0.0.0.0 www.brandmetrics.com
 0.0.0.0 braze.com
 0.0.0.0 content.braze.com
 0.0.0.0 dashboard-01.braze.com
@@ -32593,6 +32599,13 @@
 0.0.0.0 mail.calq.io
 0.0.0.0 webdisk.calq.io
 0.0.0.0 www.calq.io
+0.0.0.0 clarium.io
+0.0.0.0 cdn.clarium.io
+0.0.0.0 protected-by.clarium.io
+0.0.0.0 www.protected-by.clarium.io
+0.0.0.0 protected-by-staging.clarium.io
+0.0.0.0 www.protected-by-staging.clarium.io
+0.0.0.0 www.clarium.io
 0.0.0.0 cointraffic.io
 0.0.0.0 api.cointraffic.io
 0.0.0.0 www.api.cointraffic.io
@@ -40341,6 +40354,7 @@
 0.0.0.0 prod.sonobi-go.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 www.clarium.global.ssl.fastly.net
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 www.dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 wkxppshj-qx.global.ssl.fastly.net
@@ -48559,6 +48573,25 @@
 0.0.0.0 wiley.grapeshot.co.uk
 0.0.0.0 xaxis.grapeshot.co.uk
 0.0.0.0 ssc.independent.co.uk
+0.0.0.0 ophan.co.uk
+0.0.0.0 airflow.ophan.co.uk
+0.0.0.0 api.ophan.co.uk
+0.0.0.0 dashboard-es6-origin.ophan.co.uk
+0.0.0.0 dashboard-origin.ophan.co.uk
+0.0.0.0 elasticsearch-6.ophan.co.uk
+0.0.0.0 auth.elasticsearch-6.ophan.co.uk
+0.0.0.0 elasticsearch-lab.ophan.co.uk
+0.0.0.0 h.ophan.co.uk
+0.0.0.0 i.ophan.co.uk
+0.0.0.0 j.ophan.co.uk
+0.0.0.0 log-copier.ophan.co.uk
+0.0.0.0 s.ophan.co.uk
+0.0.0.0 status.ophan.co.uk
+0.0.0.0 tableau.ophan.co.uk
+0.0.0.0 www.tableau.ophan.co.uk
+0.0.0.0 the-excavator.ophan.co.uk
+0.0.0.0 what-if-streaming-was-a-reality.ophan.co.uk
+0.0.0.0 zeppelin.ophan.co.uk
 0.0.0.0 nir.regmedia.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us

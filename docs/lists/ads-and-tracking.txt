@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-29T15:22:32+00:00
-# Count: 2903 domains
+# Released: 2019-07-31T12:43:48+00:00
+# Count: 2909 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -484,6 +484,7 @@
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 braze.com
 0.0.0.0 iad-03.braze.com
@@ -2134,6 +2135,8 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 calq.io
 0.0.0.0 api.calq.io
+0.0.0.0 clarium.io
+0.0.0.0 protected-by.clarium.io
 0.0.0.0 cointraffic.io
 0.0.0.0 appsha1.cointraffic.io
 0.0.0.0 concert.io
@@ -2499,6 +2502,7 @@
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 wkxppshj-qx.global.ssl.fastly.net
 0.0.0.0 contextweb.map.fastlylb.net
@@ -2900,6 +2904,8 @@
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 trinitymirror.grapeshot.co.uk
 0.0.0.0 ssc.independent.co.uk
+0.0.0.0 ophan.co.uk
+0.0.0.0 j.ophan.co.uk
 0.0.0.0 nir.regmedia.co.uk
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
