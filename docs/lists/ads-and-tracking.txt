@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-31T12:43:48+00:00
-# Count: 2909 domains
+# Released: 2019-07-31T14:41:21+00:00
+# Count: 2914 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1010,6 +1010,7 @@
 0.0.0.0 justuno.com
 0.0.0.0 analytics.justuno.com
 0.0.0.0 cdn.justuno.com
+0.0.0.0 checkip.justwatch.com
 0.0.0.0 jwpltx.com
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 kampyle.com
@@ -2029,6 +2030,8 @@
 0.0.0.0 liveapi.yext.com
 0.0.0.0 yext-pixel.com
 0.0.0.0 www.yext-pixel.com
+0.0.0.0 yieldlove.com
+0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 yieldmo.com
 0.0.0.0 rw.yieldmo.com
 0.0.0.0 us-east-1.world.rw.yieldmo.com
@@ -2053,6 +2056,8 @@
 0.0.0.0 salesiq.zoho.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 wpad.corp
+0.0.0.0 tw.cx
+0.0.0.0 i.tw.cx
 0.0.0.0 adtech.de
 0.0.0.0 piwik.fobos.de
 0.0.0.0 prophet.heise.de
