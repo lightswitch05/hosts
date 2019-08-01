@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-01T12:55:07+00:00
-# Count: 2937 domains
+# Released: 2019-08-01T13:06:25+00:00
+# Count: 2943 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2315,6 +2315,9 @@
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 ads-srv.net
 0.0.0.0 adserver.ads-srv.net
+0.0.0.0 advance.net
+0.0.0.0 helix.advance.net
+0.0.0.0 static.advance.net
 0.0.0.0 adzerk.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ak-is.net
@@ -2387,6 +2390,7 @@
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
+0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
@@ -2595,6 +2599,8 @@
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 lsimg.net
 0.0.0.0 i.lsimg.net
+0.0.0.0 luckyorange.net
+0.0.0.0 settings.luckyorange.net
 0.0.0.0 marketo.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 www.munchkin.marketo.net
