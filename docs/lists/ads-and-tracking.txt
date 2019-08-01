@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-07-31T14:41:21+00:00
-# Count: 2914 domains
+# Released: 2019-08-01T12:55:07+00:00
+# Count: 2937 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -105,6 +105,7 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 na-eb2.3lift.com
 0.0.0.0 staging-tlx.3lift.com
+0.0.0.0 tlx.3lift.com
 0.0.0.0 us-east-tlx.3lift.com
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 bugsnag.appstore.a2z.com
@@ -175,6 +176,7 @@
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 rb.adnxs.com
+0.0.0.0 secure.adnxs.com
 0.0.0.0 thunder.adnxs.com
 0.0.0.0 campaign.adobe.com
 0.0.0.0 pandoramedia.campaign.adobe.com
@@ -218,6 +220,8 @@
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
 0.0.0.0 adthrive.com
+0.0.0.0 logger.adthrive.com
+0.0.0.0 marmalade.adthrive.com
 0.0.0.0 track.adthrive.com
 0.0.0.0 adtilt.com
 0.0.0.0 www.adtilt.com
@@ -251,6 +255,7 @@
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 agkn.com
 0.0.0.0 aa.agkn.com
+0.0.0.0 d.agkn.com
 0.0.0.0 js.agkn.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 log.aimtell.com
@@ -495,6 +500,8 @@
 0.0.0.0 iad-05.braze.com
 0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-08.braze.com
+0.0.0.0 brealtime.com
+0.0.0.0 edba.brealtime.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 www.metrics.brightcove.com
 0.0.0.0 brightedge.com
@@ -516,6 +523,7 @@
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 btstatic.com
 0.0.0.0 s.btstatic.com
+0.0.0.0 bttrack.com
 0.0.0.0 bucksense.com
 0.0.0.0 ck.bucksense.com
 0.0.0.0 bugherd.com
@@ -732,6 +740,7 @@
 0.0.0.0 s1516.t.eloqua.com
 0.0.0.0 data.emb-api.com
 0.0.0.0 emxdgt.com
+0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbint.emxdgt.com
 0.0.0.0 en25.com
 0.0.0.0 img04.en25.com
@@ -880,6 +889,7 @@
 0.0.0.0 metric.gstatic.com
 0.0.0.0 adserver.gtcmovies.com
 0.0.0.0 gumgum.com
+0.0.0.0 g2.gumgum.com
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 va-g2.gumgum.com
 0.0.0.0 rp.gwallet.com
@@ -996,6 +1006,7 @@
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 analytics.jaggedpeak.com
 0.0.0.0 jamexistence.com
+0.0.0.0 cdn-social.janrain.com
 0.0.0.0 jetlore.com
 0.0.0.0 assets.jetlore.com
 0.0.0.0 jivox.com
@@ -1119,6 +1130,7 @@
 0.0.0.0 mathtag.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 sync.mathtag.com
 0.0.0.0 geoip-js.maxmind.com
 0.0.0.0 maxpoint.com
 0.0.0.0 ir.maxpoint.com
@@ -1443,6 +1455,13 @@
 0.0.0.0 www2.profitwell.com
 0.0.0.0 metrics.protectmyid.com
 0.0.0.0 pt2tracker.com
+0.0.0.0 pubexchange.com
+0.0.0.0 by.pubexchange.com
+0.0.0.0 cdn.pubexchange.com
+0.0.0.0 cdn2.pubexchange.com
+0.0.0.0 main.pubexchange.com
+0.0.0.0 pv.pubexchange.com
+0.0.0.0 traffic.pubexchange.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid88000nf.pubmatic.com
 0.0.0.0 pug44000nf.pubmatic.com
@@ -1558,6 +1577,7 @@
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 videoads-cloud.rovio.com
+0.0.0.0 rpxnow.com
 0.0.0.0 metrics.rubiconglobal.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
@@ -1627,6 +1647,7 @@
 0.0.0.0 sitelabweb.com
 0.0.0.0 colrep.sitelabweb.com
 0.0.0.0 colres.sitelabweb.com
+0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 sizmek.com
 0.0.0.0 skimresources.com
 0.0.0.0 s.skimresources.com
@@ -1848,6 +1869,7 @@
 0.0.0.0 configuration.ma.tune.com
 0.0.0.0 playlist.ma.tune.com
 0.0.0.0 turn.com
+0.0.0.0 ad.turn.com
 0.0.0.0 d.turn.com
 0.0.0.0 turnto.com
 0.0.0.0 static.www.turnto.com
@@ -2376,6 +2398,7 @@
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
 0.0.0.0 d3l4p0goxhm61a.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
+0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
 0.0.0.0 djnf6e5yyirys.cloudfront.net
