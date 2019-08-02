@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-02T18:54:02+00:00
-# Count: 2947 domains
+# Released: 2019-08-02T19:04:53+00:00
+# Count: 2952 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -546,6 +546,8 @@
 0.0.0.0 campaign-archive.com
 0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
+0.0.0.0 deviceinfo.capitalone.com
+0.0.0.0 potomac-clickstream.capitalone.com
 0.0.0.0 smetrics.capitalone.com
 0.0.0.0 capitolone.com
 0.0.0.0 www.capitolone.com
@@ -560,6 +562,7 @@
 0.0.0.0 cashrequestonline.com
 0.0.0.0 saa.cbsi.com
 0.0.0.0 adops.cbsinteractive.com
+0.0.0.0 six.cdn-net.com
 0.0.0.0 celebrus.com
 0.0.0.0 delta.celebrus.com
 0.0.0.0 insights.celebrus.com
@@ -2031,6 +2034,8 @@
 0.0.0.0 oascentral.xfinity.com
 0.0.0.0 sdx.xfinity.com
 0.0.0.0 xapi.xfinity.com
+0.0.0.0 xg4ken.com
+0.0.0.0 resources.xg4ken.com
 0.0.0.0 xhamser.com
 0.0.0.0 www.xhamser.com
 0.0.0.0 go.xhamsterlive.com
