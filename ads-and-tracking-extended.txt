@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-01T15:06:35+00:00
-# Count: 49257 domains
+# Released: 2019-08-02T18:54:02+00:00
+# Count: 49261 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -33041,6 +33041,8 @@
 0.0.0.0 dmx.us-east-1.districtm.io
 0.0.0.0 dmx.us-west-1.districtm.io
 0.0.0.0 ipa.elev.io
+0.0.0.0 apm.us-west1.gcp.cloud.es.io
+0.0.0.0 3ddd1ee09cc242c4b169d36f5a2b8b77.apm.us-west1.gcp.cloud.es.io
 0.0.0.0 extole.io
 0.0.0.0 2ndswing.extole.io
 0.0.0.0 abacusnext.extole.io
@@ -37481,6 +37483,7 @@
 0.0.0.0 globetelecoms.demdex.net
 0.0.0.0 globo.demdex.net
 0.0.0.0 gm.demdex.net
+0.0.0.0 fast.gm.demdex.net
 0.0.0.0 gmde.demdex.net
 0.0.0.0 gmfinancial.demdex.net
 0.0.0.0 goodlifefitness.demdex.net
@@ -37516,6 +37519,7 @@
 0.0.0.0 hkjcweb.demdex.net
 0.0.0.0 homeadvisor.demdex.net
 0.0.0.0 homedepot.demdex.net
+0.0.0.0 fast.homedepot.demdex.net
 0.0.0.0 homedepotca.demdex.net
 0.0.0.0 hondaaustralia.demdex.net
 0.0.0.0 hotelreservationserv.demdex.net
