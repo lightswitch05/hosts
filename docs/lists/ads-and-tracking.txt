@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-07T15:24:33+00:00
-# Count: 2959 domains
+# Released: 2019-08-07T17:20:00+00:00
+# Count: 2960 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -301,6 +301,7 @@
 0.0.0.0 www.amazin.com
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
+0.0.0.0 target.aws.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 aan.amazon-adsystem.com

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-07T15:24:34+00:00
-# Count: 50307 domains
+# Released: 2019-08-07T17:20:00+00:00
+# Count: 50323 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -5583,6 +5583,22 @@
 0.0.0.0 aax-cpm.amazon-adsystem.amazon.com
 0.0.0.0 aax-us.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
+0.0.0.0 target.aws.amazon.com
+0.0.0.0 ap-northeast-1.target.aws.amazon.com
+0.0.0.0 ap-northeast-2.target.aws.amazon.com
+0.0.0.0 ap-south-1.target.aws.amazon.com
+0.0.0.0 ap-southeast-1.target.aws.amazon.com
+0.0.0.0 ap-southeast-2.target.aws.amazon.com
+0.0.0.0 ca-central-1.target.aws.amazon.com
+0.0.0.0 eu-central-1.target.aws.amazon.com
+0.0.0.0 eu-west-1.target.aws.amazon.com
+0.0.0.0 eu-west-2.target.aws.amazon.com
+0.0.0.0 eu-west-3.target.aws.amazon.com
+0.0.0.0 sa-east-1.target.aws.amazon.com
+0.0.0.0 us-east-1.target.aws.amazon.com
+0.0.0.0 us-east-2.target.aws.amazon.com
+0.0.0.0 us-west-1.target.aws.amazon.com
+0.0.0.0 us-west-2.target.aws.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 1faax-us-east.amazon-adsystem.com
