@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-05T19:58:13+00:00
-# Count: 2956 domains
+# Released: 2019-08-07T15:24:33+00:00
+# Count: 2959 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -373,6 +373,9 @@
 0.0.0.0 track.aniview.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 dmp-pixel.aolp-prd.public.aol.com
+0.0.0.0 apester.com
+0.0.0.0 events.apester.com
+0.0.0.0 static.apester.com
 0.0.0.0 pixel.app-cast.com
 0.0.0.0 app-measurement.com
 0.0.0.0 appboy.com
