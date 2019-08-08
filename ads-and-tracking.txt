@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-07T17:20:00+00:00
-# Count: 2960 domains
+# Released: 2019-08-08T12:38:20+00:00
+# Count: 2963 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -953,7 +953,9 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 iesnare.com
 0.0.0.0 mpsnare.iesnare.com
+0.0.0.0 igodigital.com
 0.0.0.0 collect.igodigital.com
+0.0.0.0 10523621.collect.igodigital.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 adserver.iminent.com
 0.0.0.0 impresionesweb.com
@@ -2702,6 +2704,7 @@
 0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 mboxedge.tt.omtrdc.net
+0.0.0.0 pizzahutllc.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 toyota.tt.omtrdc.net
