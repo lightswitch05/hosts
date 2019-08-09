@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-09T15:30:06+00:00
-# Count: 2977 domains
+# Released: 2019-08-09T19:45:15+00:00
+# Count: 2984 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -467,7 +467,6 @@
 0.0.0.0 cdn.bc0a.com
 0.0.0.0 ixf2-api.bc0a.com
 0.0.0.0 ixfd-api.bc0a.com
-0.0.0.0 reach-api.beachfrontreach.com
 0.0.0.0 track.beachfrontreach.com
 0.0.0.0 www.beeftransmission.com
 0.0.0.0 2.beeg.com
@@ -859,6 +858,9 @@
 0.0.0.0 gaeadata.com
 0.0.0.0 gdtmdc.gaeadata.com
 0.0.0.0 gamail.com
+0.0.0.0 gameanalytics.com
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 log.getadblock.com
@@ -1000,7 +1002,6 @@
 0.0.0.0 apppersonalization.api.intuit.com
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 contentpersonalization.api.intuit.com
-0.0.0.0 financialprofileorchestration.api.intuit.com
 0.0.0.0 mintsurvey.api.intuit.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 credit.finance.intuit.com
@@ -2274,11 +2275,17 @@
 0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
 0.0.0.0 events.tabmo.io
+0.0.0.0 track.tenjin.io
 0.0.0.0 tribl.io
 0.0.0.0 p0.tribl.io
 0.0.0.0 tubi.io
 0.0.0.0 analytics-ingestion.staging-public.tubi.io
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 voodoo-ads.io
+0.0.0.0 addelivery-engine-api.voodoo-ads.io
+0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 voodoo-analytics.io
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 gatag.it
 0.0.0.0 heatmap.it
 0.0.0.0 carambo.la

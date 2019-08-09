@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-09T15:30:06+00:00
-# Count: 51717 domains
+# Released: 2019-08-09T19:45:15+00:00
+# Count: 51770 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -7464,7 +7464,6 @@
 0.0.0.0 ixf2-api.bc0a.com
 0.0.0.0 ixfd-api.bc0a.com
 0.0.0.0 staging.bc0a.com
-0.0.0.0 reach-api.beachfrontreach.com
 0.0.0.0 track.beachfrontreach.com
 0.0.0.0 www.beeftransmission.com
 0.0.0.0 2.beeg.com
@@ -15765,6 +15764,41 @@
 0.0.0.0 ww.gamail.com
 0.0.0.0 www.gamail.com
 0.0.0.0 www.www.gamail.com
+0.0.0.0 gameanalytics.com
+0.0.0.0 api.gameanalytics.com
+0.0.0.0 api-eu.gameanalytics.com
+0.0.0.0 api-us.gameanalytics.com
+0.0.0.0 cdn.gameanalytics.com
+0.0.0.0 cn.gameanalytics.com
+0.0.0.0 download.gameanalytics.com
+0.0.0.0 easy.gameanalytics.com
+0.0.0.0 email.gameanalytics.com
+0.0.0.0 o1.email.gameanalytics.com
+0.0.0.0 go.gameanalytics.com
+0.0.0.0 go-export.gameanalytics.com
+0.0.0.0 guides.gameanalytics.com
+0.0.0.0 integration.gameanalytics.com
+0.0.0.0 legacy.gameanalytics.com
+0.0.0.0 maven.gameanalytics.com
+0.0.0.0 nyblog.gameanalytics.com
+0.0.0.0 ops-query-0.gameanalytics.com
+0.0.0.0 ops-query-1.gameanalytics.com
+0.0.0.0 ops-query-2.gameanalytics.com
+0.0.0.0 ops-query-3.gameanalytics.com
+0.0.0.0 pages.gameanalytics.com
+0.0.0.0 public.gameanalytics.com
+0.0.0.0 public-production.gameanalytics.com
+0.0.0.0 query-0.gameanalytics.com
+0.0.0.0 query-1.gameanalytics.com
+0.0.0.0 query-2.gameanalytics.com
+0.0.0.0 query-3.gameanalytics.com
+0.0.0.0 restapidocs.gameanalytics.com
+0.0.0.0 ru.gameanalytics.com
+0.0.0.0 rubick.gameanalytics.com
+0.0.0.0 sandbox-api.gameanalytics.com
+0.0.0.0 summaryapidocs.gameanalytics.com
+0.0.0.0 track.gameanalytics.com
+0.0.0.0 www.gameanalytics.com
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 www.geniusonclick.com
@@ -17445,7 +17479,6 @@
 0.0.0.0 apppersonalization.api.intuit.com
 0.0.0.0 beyonduserpaid.api.intuit.com
 0.0.0.0 contentpersonalization.api.intuit.com
-0.0.0.0 financialprofileorchestration.api.intuit.com
 0.0.0.0 mintsurvey.api.intuit.com
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 credit.finance.intuit.com
@@ -35587,6 +35620,7 @@
 0.0.0.0 static.tabmo.io
 0.0.0.0 vast.tabmo.io
 0.0.0.0 www.tabmo.io
+0.0.0.0 track.tenjin.io
 0.0.0.0 tribl.io
 0.0.0.0 eu1.tribl.io
 0.0.0.0 p0.tribl.io
@@ -35605,6 +35639,25 @@
 0.0.0.0 lb.staging-public.tubi.io
 0.0.0.0 merlin.staging-public.tubi.io
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 voodoo-ads.io
+0.0.0.0 addelivery-engine-api.voodoo-ads.io
+0.0.0.0 airflow.voodoo-ads.io
+0.0.0.0 campaign-assets.voodoo-ads.io
+0.0.0.0 data-collector.voodoo-ads.io
+0.0.0.0 engine.voodoo-ads.io
+0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 prom-central.infra.voodoo-ads.io
+0.0.0.0 prom-kube-monitoring.infra.voodoo-ads.io
+0.0.0.0 prometheus-kube-monitoring.infra.voodoo-ads.io
+0.0.0.0 promfederation.infra.voodoo-ads.io
+0.0.0.0 thanos.infra.voodoo-ads.io
+0.0.0.0 kmonitoring.voodoo-ads.io
+0.0.0.0 krancher.voodoo-ads.io
+0.0.0.0 monitoring.voodoo-ads.io
+0.0.0.0 rancher.voodoo-ads.io
+0.0.0.0 splash-screen.voodoo-ads.io
+0.0.0.0 voodoo-analytics.io
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 gatag.it
 0.0.0.0 capture.gatag.it
 0.0.0.0 www.gatag.it
