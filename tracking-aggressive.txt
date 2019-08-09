@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-07-16T14:13:18+00:00
-# Count: 103 domains
+# Released: 2019-08-09T15:33:46+00:00
+# Count: 105 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -24,6 +24,8 @@
 
 0.0.0.0 cortana.ai
 0.0.0.0 api.cortana.ai
+0.0.0.0 actionbutton.co
+0.0.0.0 embed.actionbutton.co
 0.0.0.0 data-location.enhance.co
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 aimmatic.com
