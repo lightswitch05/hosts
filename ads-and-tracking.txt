@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-09T19:45:15+00:00
-# Count: 2984 domains
+# Released: 2019-08-10T12:18:45+00:00
+# Count: 2991 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -471,6 +471,8 @@
 0.0.0.0 www.beeftransmission.com
 0.0.0.0 2.beeg.com
 0.0.0.0 a2.beeg.com
+0.0.0.0 beeketing.com
+0.0.0.0 sdk.beeketing.com
 0.0.0.0 beemray.com
 0.0.0.0 sdk.beemray.com
 0.0.0.0 cnn.sdk.beemray.com
@@ -949,6 +951,7 @@
 0.0.0.0 script.hotjar.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 htlbid.com
+0.0.0.0 eventtracking.hubapi.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 huluim.com
@@ -1359,6 +1362,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
+0.0.0.0 staging-insights-collector.newrelic.com
 0.0.0.0 newscgp.com
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 analytics.newsinc.com
@@ -2319,6 +2323,9 @@
 0.0.0.0 get.convrse.media
 0.0.0.0 marketing365.mk
 0.0.0.0 events.fgol.mobi
+0.0.0.0 inner-active.mobi
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 www1.mmnetwork.mobi
 0.0.0.0 jt.ms
