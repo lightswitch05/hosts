@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-10T12:18:45+00:00
-# Count: 2991 domains
+# Released: 2019-08-12T12:43:53+00:00
+# Count: 2995 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -178,6 +178,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 nym1-ib.adnxs.com
+0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 secure.adnxs.com
@@ -667,6 +668,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 widget.criteo.com
+0.0.0.0 starling.crowdriff.com
 0.0.0.0 crsspxl.com
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 cname01.cryptolootminer.com
@@ -719,6 +721,7 @@
 0.0.0.0 adserver.directworksmedia.com
 0.0.0.0 discovernative.com
 0.0.0.0 hasoffers.disqus.com
+0.0.0.0 disqusads.com
 0.0.0.0 dmpxs.com
 0.0.0.0 ciq.dmpxs.com
 0.0.0.0 dotomi.com
@@ -2874,6 +2877,7 @@
 0.0.0.0 www.ketchapp.org
 0.0.0.0 outbrain.org
 0.0.0.0 alldcs.outbrain.org
+0.0.0.0 engage.physicstoday.org
 0.0.0.0 prebid.org
 0.0.0.0 privacy-center.org
 0.0.0.0 sdk.privacy-center.org

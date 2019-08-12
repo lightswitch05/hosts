@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-10T12:18:45+00:00
-# Count: 51889 domains
+# Released: 2019-08-12T12:43:53+00:00
+# Count: 51897 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -2940,6 +2940,7 @@
 0.0.0.0 2facdn.adnxs.com
 0.0.0.0 2fib.adnxs.com
 0.0.0.0 2fm.adnxs.com
+0.0.0.0 2fmobile.adnxs.com
 0.0.0.0 2fprebid.adnxs.com
 0.0.0.0 2fsecure.adnxs.com
 0.0.0.0 2fvcdn.adnxs.com
@@ -3352,6 +3353,8 @@
 0.0.0.0 uuid2.adnxs.com
 0.0.0.0 uuid28941104771274557111.adnxs.com
 0.0.0.0 vcdn.adnxs.com
+0.0.0.0 viber-emea.adnxs.com
+0.0.0.0 viber-us-east.adnxs.com
 0.0.0.0 wib.adnxs.com
 0.0.0.0 www.adnxs.com
 0.0.0.0 x22acdn.adnxs.com
@@ -12658,6 +12661,7 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 www2.criteo.com
 0.0.0.0 www3.criteo.com
+0.0.0.0 starling.crowdriff.com
 0.0.0.0 crsspxl.com
 0.0.0.0 ac.crsspxl.com
 0.0.0.0 datadesk.crsspxl.com
@@ -12932,6 +12936,8 @@
 0.0.0.0 discovernative.com
 0.0.0.0 www.discovernative.com
 0.0.0.0 hasoffers.disqus.com
+0.0.0.0 disqusads.com
+0.0.0.0 www.disqusads.com
 0.0.0.0 dmpxs.com
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 ciq.dmpxs.com
@@ -49895,6 +49901,8 @@
 0.0.0.0 sadc1fgt.outbrain.org
 0.0.0.0 sphere.outbrain.org
 0.0.0.0 sphere-fgt.outbrain.org
+0.0.0.0 engage.physicstoday.org
+0.0.0.0 www.engage.physicstoday.org
 0.0.0.0 prebid.org
 0.0.0.0 assets.prebid.org
 0.0.0.0 currency.prebid.org
