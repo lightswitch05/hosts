@@ -1,6 +1,6 @@
 #!/bin/bash
 git fetch
-git checkout ./**/*.txt *.txt
+git checkout ./**/*.txt *.txt ./docs/index.html
 git checkout automatic-updates
 git pull
 git pull --ff-only origin master
