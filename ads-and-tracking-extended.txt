@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-12T13:16:47+00:00
-# Count: 51897 domains
+# Released: 2019-08-13T01:05:11+00:00
+# Count: 51898 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -38268,10 +38268,11 @@
 0.0.0.0 cloudads-a.akamaihd.net
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 ma85-r-analytics.akamaized.net
-0.0.0.0 access-prod.apis.anvato.net
-0.0.0.0 dcs-vod.apis.anvato.net
+0.0.0.0 analytics.anvato.net
+0.0.0.0 collector.analytics.anvato.net
+0.0.0.0 config.analytics.anvato.net
+0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 tkx.apis.anvato.net
-0.0.0.0 w3.cdn.anvato.net
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
