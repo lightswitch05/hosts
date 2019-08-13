@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-13T01:05:11+00:00
-# Count: 51898 domains
+# Released: 2019-08-13T01:27:56+00:00
+# Count: 51902 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -16954,6 +16954,10 @@
 0.0.0.0 vwrap.imrworldwide.com
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 www.imtwjwoasak.com
+0.0.0.0 includemodal.com
+0.0.0.0 cdn.includemodal.com
+0.0.0.0 cdn2.includemodal.com
+0.0.0.0 cdn3.includemodal.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 accounts.inlocomedia.com
@@ -32953,6 +32957,7 @@
 0.0.0.0 www-staging.wootric.com
 0.0.0.0 insideintercom.wpengine.com
 0.0.0.0 syndicaster.wpengine.com
+0.0.0.0 sa135.wsbtv.com
 0.0.0.0 oascentral.xfinity.com
 0.0.0.0 sdx.xfinity.com
 0.0.0.0 denver.staging.sdx.xfinity.com
@@ -38272,7 +38277,6 @@
 0.0.0.0 collector.analytics.anvato.net
 0.0.0.0 config.analytics.anvato.net
 0.0.0.0 rt.analytics.anvato.net
-0.0.0.0 tkx.apis.anvato.net
 0.0.0.0 stats.gc.fe.apple-dns.net
 0.0.0.0 metrics.fe.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple-dns.net
