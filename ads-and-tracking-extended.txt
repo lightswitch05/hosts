@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-13T01:27:56+00:00
-# Count: 51902 domains
+# Released: 2019-08-13T01:44:08+00:00
+# Count: 52002 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10651,6 +10651,38 @@
 0.0.0.0 www.celebrus.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 www.celeritascdn.com
+0.0.0.0 chartbeat.com
+0.0.0.0 2016.chartbeat.com
+0.0.0.0 2017.chartbeat.com
+0.0.0.0 adsapi.chartbeat.com
+0.0.0.0 api.chartbeat.com
+0.0.0.0 api2.chartbeat.com
+0.0.0.0 autoapi.chartbeat.com
+0.0.0.0 static.blog.chartbeat.com
+0.0.0.0 cb.chartbeat.com
+0.0.0.0 dashapi.chartbeat.com
+0.0.0.0 dev.chartbeat.com
+0.0.0.0 election.chartbeat.com
+0.0.0.0 email.chartbeat.com
+0.0.0.0 engineering.chartbeat.com
+0.0.0.0 faq.chartbeat.com
+0.0.0.0 hacks.chartbeat.com
+0.0.0.0 log.chartbeat.com
+0.0.0.0 lp.chartbeat.com
+0.0.0.0 m.chartbeat.com
+0.0.0.0 mab.chartbeat.com
+0.0.0.0 notifications.chartbeat.com
+0.0.0.0 pages.chartbeat.com
+0.0.0.0 share.chartbeat.com
+0.0.0.0 static.chartbeat.com
+0.0.0.0 static-cms.chartbeat.com
+0.0.0.0 static-uk.chartbeat.com
+0.0.0.0 static2.chartbeat.com
+0.0.0.0 status.chartbeat.com
+0.0.0.0 post.update.chartbeat.com
+0.0.0.0 s.update.chartbeat.com
+0.0.0.0 t.update.chartbeat.com
+0.0.0.0 www.chartbeat.com
 0.0.0.0 chartboost.com
 0.0.0.0 a.chartboost.com
 0.0.0.0 a2.chartboost.com
@@ -27350,6 +27382,7 @@
 0.0.0.0 uusisuomi.rpxnow.com
 0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 widgets-cdn.rpxnow.com
+0.0.0.0 wilderness.rpxnow.com
 0.0.0.0 www.rpxnow.com
 0.0.0.0 yourname.rpxnow.com
 0.0.0.0 zendomain.rpxnow.com
@@ -31976,6 +32009,7 @@
 0.0.0.0 c00068-dl.urbanairship.com
 0.0.0.0 c00075-dl.urbanairship.com
 0.0.0.0 c00086-dl.urbanairship.com
+0.0.0.0 c00090-dl.urbanairship.com
 0.0.0.0 c00094-dl.urbanairship.com
 0.0.0.0 c00098-dl.urbanairship.com
 0.0.0.0 c00101-dl.urbanairship.com
@@ -31984,6 +32018,8 @@
 0.0.0.0 c00112-dl.urbanairship.com
 0.0.0.0 c00131-dl.urbanairship.com
 0.0.0.0 c00132-dl.urbanairship.com
+0.0.0.0 c00168-dl.urbanairship.com
+0.0.0.0 c00186-dl.urbanairship.com
 0.0.0.0 cac-api.urbanairship.com
 0.0.0.0 cdg-protect.urbanairship.com
 0.0.0.0 chat.urbanairship.com
@@ -36479,6 +36515,7 @@
 0.0.0.0 actforvictory.112.2o7.net
 0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net
 0.0.0.0 www.adbemdigitalmediarebootprod2.112.2o7.net
+0.0.0.0 adbrite.112.2o7.net
 0.0.0.0 adobe.112.2o7.net
 0.0.0.0 adobemobile.112.2o7.net
 0.0.0.0 adp.112.2o7.net
@@ -36487,12 +36524,14 @@
 0.0.0.0 aeps.112.2o7.net
 0.0.0.0 aetnaaetnaprod2018.112.2o7.net
 0.0.0.0 affargenus.112.2o7.net
+0.0.0.0 affilcrtopcolle.112.2o7.net
 0.0.0.0 aflaccojp.112.2o7.net
 0.0.0.0 agaglobalwebprod.112.2o7.net
 0.0.0.0 ageo1xxlonmmprodraw.112.2o7.net
 0.0.0.0 ageo1xxpnwicprod.112.2o7.net
 0.0.0.0 airchina.112.2o7.net
 0.0.0.0 aldinordfr.112.2o7.net
+0.0.0.0 aldinordpl.112.2o7.net
 0.0.0.0 aldinordpt.112.2o7.net
 0.0.0.0 allegis.112.2o7.net
 0.0.0.0 allyglobal.112.2o7.net
@@ -36505,7 +36544,9 @@
 0.0.0.0 amazonhramazonhra2d1prod.112.2o7.net
 0.0.0.0 amazonhrhvh.112.2o7.net
 0.0.0.0 americanairlines.112.2o7.net
+0.0.0.0 ameritradeogilvy.112.2o7.net
 0.0.0.0 amway.112.2o7.net
+0.0.0.0 amznpaymentsglobalprod.112.2o7.net
 0.0.0.0 amznshopbopprod.112.2o7.net
 0.0.0.0 ana.112.2o7.net
 0.0.0.0 anabuki.112.2o7.net
@@ -36519,6 +36560,7 @@
 0.0.0.0 aolturnercnnmoney.112.2o7.net
 0.0.0.0 aolwpmq.112.2o7.net
 0.0.0.0 aolwpnswhatsnew.112.2o7.net
+0.0.0.0 apachecorporationintranetcomm.112.2o7.net
 0.0.0.0 appleglobal.112.2o7.net
 0.0.0.0 applejobstest.112.2o7.net
 0.0.0.0 applestoreus.112.2o7.net
@@ -36555,8 +36597,10 @@
 0.0.0.0 bellserviceeng.112.2o7.net
 0.0.0.0 benqbenqb2b.112.2o7.net
 0.0.0.0 bergenstidende.112.2o7.net
+0.0.0.0 betterhg.112.2o7.net
 0.0.0.0 bglbnpparibasbglbnpparibasmvpprod.112.2o7.net
 0.0.0.0 bglbnpparibasmvpdev.112.2o7.net
+0.0.0.0 bhgkitchenbath.112.2o7.net
 0.0.0.0 bidglobal.112.2o7.net
 0.0.0.0 biglots.112.2o7.net
 0.0.0.0 bitdrive.112.2o7.net
@@ -36587,6 +36631,7 @@
 0.0.0.0 www.care2.112.2o7.net
 0.0.0.0 carfax.112.2o7.net
 0.0.0.0 carlson.112.2o7.net
+0.0.0.0 carlsonradisson.112.2o7.net
 0.0.0.0 cbaol.112.2o7.net
 0.0.0.0 cbcnewtriangle411.112.2o7.net
 0.0.0.0 cbmsn.112.2o7.net
@@ -36600,6 +36645,8 @@
 0.0.0.0 cfr.112.2o7.net
 0.0.0.0 cfrfa.112.2o7.net
 0.0.0.0 channelnet.112.2o7.net
+0.0.0.0 chrobfinancialscollections.112.2o7.net
+0.0.0.0 chrobnavispherecustomersolutions.112.2o7.net
 0.0.0.0 citgroup.112.2o7.net
 0.0.0.0 citicardjpn.112.2o7.net
 0.0.0.0 classifiedscanada.112.2o7.net
@@ -36617,6 +36664,7 @@
 0.0.0.0 cnheagletribune.112.2o7.net
 0.0.0.0 cnvhdcadealersru.112.2o7.net
 0.0.0.0 colruytcollishop.112.2o7.net
+0.0.0.0 columbiaprana.112.2o7.net
 0.0.0.0 channel4.com.112.2o7.net
 0.0.0.0 hickoryfarms.com.112.2o7.net
 0.0.0.0 infospace.com.112.2o7.net
@@ -36629,6 +36677,7 @@
 0.0.0.0 comipagopadev.112.2o7.net
 0.0.0.0 comparenetworks.112.2o7.net
 0.0.0.0 condenast.112.2o7.net
+0.0.0.0 conpst.112.2o7.net
 0.0.0.0 corelividkds.112.2o7.net
 0.0.0.0 corporationservicecompany.112.2o7.net
 0.0.0.0 coxnet.112.2o7.net
@@ -36642,6 +36691,7 @@
 0.0.0.0 cwnetworkcwseed.112.2o7.net
 0.0.0.0 cwnetworkmparticle.112.2o7.net
 0.0.0.0 daiichisankyohc.112.2o7.net
+0.0.0.0 daionewebit.112.2o7.net
 0.0.0.0 daiwashoken.112.2o7.net
 0.0.0.0 dandmholdings.112.2o7.net
 0.0.0.0 danonecowandgateprod.112.2o7.net
@@ -36650,8 +36700,10 @@
 0.0.0.0 dbshkprod.112.2o7.net
 0.0.0.0 deloittegta.112.2o7.net
 0.0.0.0 deloitteusexternaltoddev.112.2o7.net
+0.0.0.0 delphicom.112.2o7.net
 0.0.0.0 demandbprod.112.2o7.net
 0.0.0.0 demandware.112.2o7.net
+0.0.0.0 dennispublishing.112.2o7.net
 0.0.0.0 denverpost.112.2o7.net
 0.0.0.0 deutschepostag.112.2o7.net
 0.0.0.0 devsalliemaecom.112.2o7.net
@@ -36669,6 +36721,9 @@
 0.0.0.0 dpagcoagcoglobal.112.2o7.net
 0.0.0.0 dtag.112.2o7.net
 0.0.0.0 dummy.112.2o7.net
+0.0.0.0 eagamesuk.112.2o7.net
+0.0.0.0 eapogocom.112.2o7.net
+0.0.0.0 education.112.2o7.net
 0.0.0.0 educationaffiliatesprod.112.2o7.net
 0.0.0.0 efeducationfirst.112.2o7.net
 0.0.0.0 eltiempo.112.2o7.net
@@ -36685,6 +36740,8 @@
 0.0.0.0 eucpeluniversaloaxacaprod.112.2o7.net
 0.0.0.0 eucpquehacerprod.112.2o7.net
 0.0.0.0 eveningpostdigital.112.2o7.net
+0.0.0.0 evepdbrazossports.112.2o7.net
+0.0.0.0 ewscripps.112.2o7.net
 0.0.0.0 examplecom.112.2o7.net
 0.0.0.0 exchangesocialbakerssbks.112.2o7.net
 0.0.0.0 execulink.112.2o7.net
@@ -36701,6 +36758,8 @@
 0.0.0.0 folkseproduction.112.2o7.net
 0.0.0.0 forbescom.112.2o7.net
 0.0.0.0 ford.112.2o7.net
+0.0.0.0 fordfmcdealerdiscourseprod.112.2o7.net
+0.0.0.0 foxcom.112.2o7.net
 0.0.0.0 foxsimpsons.112.2o7.net
 0.0.0.0 fsecure.112.2o7.net
 0.0.0.0 fujielectricholdings.112.2o7.net
@@ -36721,23 +36780,29 @@
 0.0.0.0 giswd40.112.2o7.net
 0.0.0.0 gmap.112.2o7.net
 0.0.0.0 gmcardca.112.2o7.net
+0.0.0.0 gmchevyapprentice.112.2o7.net
 0.0.0.0 gmeurope.112.2o7.net
 0.0.0.0 gmfleet.112.2o7.net
 0.0.0.0 gmgmcard.112.2o7.net
 0.0.0.0 gmgmmediaonline.112.2o7.net
+0.0.0.0 gmhummer.112.2o7.net
 0.0.0.0 gmme.112.2o7.net
 0.0.0.0 www.gmme.112.2o7.net
 0.0.0.0 gmointernet.112.2o7.net
 0.0.0.0 gmonstarovm.112.2o7.net
 0.0.0.0 gmpowertrain.112.2o7.net
+0.0.0.0 gntbcstwltx.112.2o7.net
+0.0.0.0 gntbcstwtlv.112.2o7.net
 0.0.0.0 gol.112.2o7.net
 0.0.0.0 gpaper104.112.2o7.net
 0.0.0.0 gpaper107.112.2o7.net
 0.0.0.0 gpaper109.112.2o7.net
 0.0.0.0 gpaper10best.112.2o7.net
 0.0.0.0 gpaper111.112.2o7.net
+0.0.0.0 gpaper112.112.2o7.net
 0.0.0.0 gpaper113.112.2o7.net
 0.0.0.0 gpaper115.112.2o7.net
+0.0.0.0 gpaper116.112.2o7.net
 0.0.0.0 gpaper119.112.2o7.net
 0.0.0.0 gpaper120.112.2o7.net
 0.0.0.0 gpaper121.112.2o7.net
@@ -36790,9 +36855,11 @@
 0.0.0.0 gpaper205.112.2o7.net
 0.0.0.0 gpaper214.112.2o7.net
 0.0.0.0 gpaper218.112.2o7.net
+0.0.0.0 gpaper219.112.2o7.net
 0.0.0.0 gpaper223.112.2o7.net
 0.0.0.0 gpaper231.112.2o7.net
 0.0.0.0 gpaper246.112.2o7.net
+0.0.0.0 gpapermom104.112.2o7.net
 0.0.0.0 graco.112.2o7.net
 0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 gsicace.112.2o7.net
@@ -36803,9 +36870,11 @@
 0.0.0.0 hammacher.112.2o7.net
 0.0.0.0 harrahs.112.2o7.net
 0.0.0.0 hawaiianairlines.112.2o7.net
+0.0.0.0 hbomaxnewsiteprod.112.2o7.net
 0.0.0.0 hcchyundaicard.112.2o7.net
 0.0.0.0 hchrmain.112.2o7.net
 0.0.0.0 hcscaemcustomsites.112.2o7.net
+0.0.0.0 hcscaemlaunch.112.2o7.net
 0.0.0.0 hebsattonbrickellmiami.112.2o7.net
 0.0.0.0 hebsbhotelscorporate.112.2o7.net
 0.0.0.0 hebscrystalbrookrileycom.112.2o7.net
@@ -36825,6 +36894,7 @@
 0.0.0.0 hospitalityebusiness.112.2o7.net
 0.0.0.0 www.hospitalityebusiness.112.2o7.net
 0.0.0.0 hphqglobal.112.2o7.net
+0.0.0.0 hulu.112.2o7.net
 0.0.0.0 hyundaicard.112.2o7.net
 0.0.0.0 www.hyundaicard.112.2o7.net
 0.0.0.0 imprvdirectkegeratorlearn.112.2o7.net
@@ -36843,6 +36913,7 @@
 0.0.0.0 iycardservice.112.2o7.net
 0.0.0.0 jasper.112.2o7.net
 0.0.0.0 www.jasper.112.2o7.net
+0.0.0.0 jcrewcom.112.2o7.net
 0.0.0.0 jcrewmwcom.112.2o7.net
 0.0.0.0 joelosteenministries.112.2o7.net
 0.0.0.0 johnlewis.112.2o7.net
@@ -36864,6 +36935,7 @@
 0.0.0.0 laxprs.112.2o7.net
 0.0.0.0 laxpsd.112.2o7.net
 0.0.0.0 lclbushikaku.112.2o7.net
+0.0.0.0 lenovo.112.2o7.net
 0.0.0.0 lenovoappssystemupdateprod.112.2o7.net
 0.0.0.0 lenovoitpub.112.2o7.net
 0.0.0.0 lenovosimpletapdev.112.2o7.net
@@ -36882,6 +36954,7 @@
 0.0.0.0 mazdamazdausadtmdev.112.2o7.net
 0.0.0.0 mazdausaglobal.112.2o7.net
 0.0.0.0 mcafeeenterprise.112.2o7.net
+0.0.0.0 mclalprodesntls.112.2o7.net
 0.0.0.0 mdamarillo.112.2o7.net
 0.0.0.0 mdjacksonville.112.2o7.net
 0.0.0.0 medbroadcast.112.2o7.net
@@ -36896,6 +36969,7 @@
 0.0.0.0 mgmcircuscircusprod.112.2o7.net
 0.0.0.0 mgmotorindiaprod.112.2o7.net
 0.0.0.0 mgtimesdispatch.112.2o7.net
+0.0.0.0 mgwcbd.112.2o7.net
 0.0.0.0 mgwnct.112.2o7.net
 0.0.0.0 michelinb2cexperienceprod.112.2o7.net
 0.0.0.0 michelintrucktyreglobalprod.112.2o7.net
@@ -36921,17 +36995,21 @@
 0.0.0.0 moxievzvip.112.2o7.net
 0.0.0.0 moxievzvipstage.112.2o7.net
 0.0.0.0 msnbc.112.2o7.net
+0.0.0.0 msnbcom.112.2o7.net
+0.0.0.0 msninvite.112.2o7.net
 0.0.0.0 msnlivefavorites.112.2o7.net
 0.0.0.0 msnmerchandising.112.2o7.net
 0.0.0.0 msnportal.112.2o7.net
 0.0.0.0 www.msnportal.112.2o7.net
 0.0.0.0 msnportalent.112.2o7.net
+0.0.0.0 msnportalgame.112.2o7.net
 0.0.0.0 msnportallive.112.2o7.net
 0.0.0.0 msnportalprivacy.112.2o7.net
 0.0.0.0 msnservices.112.2o7.net
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 msnwinonecare.112.2o7.net
 0.0.0.0 msstonojssocial.112.2o7.net
+0.0.0.0 msstonojstechnet.112.2o7.net
 0.0.0.0 mswgaprod.112.2o7.net
 0.0.0.0 musiciansfriend.112.2o7.net
 0.0.0.0 mxmacromedia.112.2o7.net
@@ -36950,6 +37028,7 @@
 0.0.0.0 netrp.112.2o7.net
 0.0.0.0 networksolutions.112.2o7.net
 0.0.0.0 newegg.112.2o7.net
+0.0.0.0 newstimeslivecom.112.2o7.net
 0.0.0.0 nicknolcommerce.112.2o7.net
 0.0.0.0 nike.112.2o7.net
 0.0.0.0 nikkei.112.2o7.net
@@ -36963,8 +37042,11 @@
 0.0.0.0 njejmjetscomnetjetscom.112.2o7.net
 0.0.0.0 nmacprod.112.2o7.net
 0.0.0.0 nmanchorage.112.2o7.net
+0.0.0.0 nmbradenton.112.2o7.net
+0.0.0.0 nmfresno.112.2o7.net
 0.0.0.0 nmhiltonhead.112.2o7.net
 0.0.0.0 nmkawartha.112.2o7.net
+0.0.0.0 nmmiami.112.2o7.net
 0.0.0.0 nmminneapolis.112.2o7.net
 0.0.0.0 nmnandomedia.112.2o7.net
 0.0.0.0 nmsacramento.112.2o7.net
@@ -36972,6 +37054,7 @@
 0.0.0.0 norwegiancruiseline.112.2o7.net
 0.0.0.0 novonordiskas.112.2o7.net
 0.0.0.0 nrucfccfcextprod.112.2o7.net
+0.0.0.0 nuskinglobal.112.2o7.net
 0.0.0.0 nutanix-prod.112.2o7.net
 0.0.0.0 nutanixprod.112.2o7.net
 0.0.0.0 nytglobe.112.2o7.net
@@ -36995,10 +37078,12 @@
 0.0.0.0 onlineindigoca.112.2o7.net
 0.0.0.0 opointop2015.112.2o7.net
 0.0.0.0 optimumclassifieds.112.2o7.net
+0.0.0.0 optus.112.2o7.net
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 www.oracle.112.2o7.net
 0.0.0.0 oracleglobal.112.2o7.net
 0.0.0.0 oraclie.112.2o7.net
+0.0.0.0 overturecom.112.2o7.net
 0.0.0.0 paypal.112.2o7.net
 0.0.0.0 www.paypal.112.2o7.net
 0.0.0.0 pbsprodnew.112.2o7.net
@@ -37015,6 +37100,7 @@
 0.0.0.0 postenrtdev01.112.2o7.net
 0.0.0.0 premierfarnell.112.2o7.net
 0.0.0.0 princehotels.112.2o7.net
+0.0.0.0 prisacom.112.2o7.net
 0.0.0.0 publicationsunbound.112.2o7.net
 0.0.0.0 pubpeoplescom.112.2o7.net
 0.0.0.0 pulharktheherald.112.2o7.net
@@ -37043,16 +37129,20 @@
 0.0.0.0 scjscjcorporatenewprod.112.2o7.net
 0.0.0.0 scjwhatsinsidescjohnsonprod.112.2o7.net
 0.0.0.0 scrippsfoodnet.112.2o7.net
+0.0.0.0 scrippswxyz.112.2o7.net
 0.0.0.0 seamaarea10minutiiit.112.2o7.net
 0.0.0.0 seamparkwingit.112.2o7.net
+0.0.0.0 sears.112.2o7.net
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 setusingdataelementadobersid.112.2o7.net
 0.0.0.0 sfandrewdev.112.2o7.net
 0.0.0.0 shawtelevision.112.2o7.net
+0.0.0.0 smpopmech.112.2o7.net
 0.0.0.0 smugmugincflickrbutts.112.2o7.net
 0.0.0.0 smugmugincflickrprodudction.112.2o7.net
 0.0.0.0 smwww.112.2o7.net
 0.0.0.0 snamimmobiliareprod.112.2o7.net
+0.0.0.0 snapfish.112.2o7.net
 0.0.0.0 snickvia.112.2o7.net
 0.0.0.0 softbanktechnology.112.2o7.net
 0.0.0.0 softonic.112.2o7.net
@@ -37108,14 +37198,17 @@
 0.0.0.0 timecom.112.2o7.net
 0.0.0.0 timefortune.112.2o7.net
 0.0.0.0 tiscofgplcproprakan.112.2o7.net
+0.0.0.0 tjx.112.2o7.net
 0.0.0.0 tjxhomegoods.112.2o7.net
 0.0.0.0 tjxmarshalls.112.2o7.net
+0.0.0.0 tmsscion.112.2o7.net
 0.0.0.0 totalsystemservices.112.2o7.net
 0.0.0.0 toyota.112.2o7.net
 0.0.0.0 tpcipcomtvappprod.112.2o7.net
 0.0.0.0 trane.112.2o7.net
 0.0.0.0 tranest-schlage-link.112.2o7.net
 0.0.0.0 tranethermokingjapan.112.2o7.net
+0.0.0.0 travidiathebrick.112.2o7.net
 0.0.0.0 tsukumo.112.2o7.net
 0.0.0.0 turnerapac.112.2o7.net
 0.0.0.0 tve.112.2o7.net
@@ -37138,6 +37231,7 @@
 0.0.0.0 www.verizonwireless.112.2o7.net
 0.0.0.0 vfcthenorthfaceeuprod.112.2o7.net
 0.0.0.0 vh1com.112.2o7.net
+0.0.0.0 viacomedyde.112.2o7.net
 0.0.0.0 viadeplayer.112.2o7.net
 0.0.0.0 viamtvau.112.2o7.net
 0.0.0.0 viamtvcom.112.2o7.net
@@ -37146,16 +37240,20 @@
 0.0.0.0 vianickelodeonintl.112.2o7.net
 0.0.0.0 vianickjr.112.2o7.net
 0.0.0.0 viashockwavekeyhole.112.2o7.net
+0.0.0.0 viasyndimedia.112.2o7.net
 0.0.0.0 viavivade.112.2o7.net
 0.0.0.0 videorvrcip.112.2o7.net
 0.0.0.0 vintacom.112.2o7.net
 0.0.0.0 virginiatour.112.2o7.net
 0.0.0.0 virgopublishing.112.2o7.net
 0.0.0.0 vishay.112.2o7.net
+0.0.0.0 vodafonegroupprodro.112.2o7.net
 0.0.0.0 vodafonegroupukdev.112.2o7.net
 0.0.0.0 vuelingnewsletter.112.2o7.net
+0.0.0.0 vwctheinsider.112.2o7.net
 0.0.0.0 vwpkwbecmsprod.112.2o7.net
 0.0.0.0 vwpkwworldprod.112.2o7.net
+0.0.0.0 walgreens.112.2o7.net
 0.0.0.0 walmartcom.112.2o7.net
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 warnerbrosads.112.2o7.net
@@ -37177,6 +37275,7 @@
 0.0.0.0 wdgespcom.112.2o7.net
 0.0.0.0 wdgespfantasy.112.2o7.net
 0.0.0.0 wdgwnewabcnewsiphoneapp.112.2o7.net
+0.0.0.0 westernunionglobal.112.2o7.net
 0.0.0.0 wileypublishing.112.2o7.net
 0.0.0.0 winecom.112.2o7.net
 0.0.0.0 wingateweb.112.2o7.net
@@ -44778,6 +44877,7 @@
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 chelseafc.hb.omtrdc.net
+0.0.0.0 coxnet.hb.omtrdc.net
 0.0.0.0 crackle.hb.omtrdc.net
 0.0.0.0 dell.hb.omtrdc.net
 0.0.0.0 discoverydp.hb.omtrdc.net

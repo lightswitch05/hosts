@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-13T01:27:56+00:00
-# Count: 2997 domains
+# Released: 2019-08-13T01:44:08+00:00
+# Count: 3004 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -580,6 +580,8 @@
 0.0.0.0 delta.celebrus.com
 0.0.0.0 insights.celebrus.com
 0.0.0.0 celeritascdn.com
+0.0.0.0 chartbeat.com
+0.0.0.0 static.chartbeat.com
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
@@ -1439,6 +1441,7 @@
 0.0.0.0 api.permutive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 petametrics.com
+0.0.0.0 cdn.petametrics.com
 0.0.0.0 pgcollect.com
 0.0.0.0 metrics.phonegap.com
 0.0.0.0 tracking.photoyee.com
@@ -1609,6 +1612,7 @@
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 videoads-cloud.rovio.com
 0.0.0.0 rpxnow.com
+0.0.0.0 widget-cdn.rpxnow.com
 0.0.0.0 metrics.rubiconglobal.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
@@ -1808,6 +1812,7 @@
 0.0.0.0 taboola.com
 0.0.0.0 15.taboola.com
 0.0.0.0 c2.taboola.com
+0.0.0.0 cdn.taboola.com
 0.0.0.0 images.taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 vidstat.taboola.com
@@ -2341,6 +2346,7 @@
 0.0.0.0 207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
 0.0.0.0 2o7.net
+0.0.0.0 112.2o7.net
 0.0.0.0 bankrate.112.2o7.net
 0.0.0.0 mediaplanet.112.2o7.net
 0.0.0.0 twci.112.2o7.net
@@ -2682,6 +2688,7 @@
 0.0.0.0 omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
+0.0.0.0 coxnet.hb.omtrdc.net
 0.0.0.0 crackle.hb.omtrdc.net
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
