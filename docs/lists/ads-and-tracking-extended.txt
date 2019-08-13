@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-13T01:44:08+00:00
-# Count: 52002 domains
+# Released: 2019-08-13T01:56:10+00:00
+# Count: 52020 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -4056,6 +4056,13 @@
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 adssyscom.com
 0.0.0.0 www.adssyscom.com
+0.0.0.0 adstatic.com
+0.0.0.0 app.adstatic.com
+0.0.0.0 cdn.adstatic.com
+0.0.0.0 m.adstatic.com
+0.0.0.0 media.adstatic.com
+0.0.0.0 vip.adstatic.com
+0.0.0.0 www.adstatic.com
 0.0.0.0 adsttc.com
 0.0.0.0 afd.adsttc.com
 0.0.0.0 api.adsttc.com
@@ -23871,6 +23878,7 @@
 0.0.0.0 zemvideos.outbrain.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
+0.0.0.0 padssup.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
 0.0.0.0 panadvert.com
@@ -47536,6 +47544,16 @@
 0.0.0.0 www.pingdom.net
 0.0.0.0 www-4.pingdom.net
 0.0.0.0 pl-pubimgs.placester.net
+0.0.0.0 popads.net
+0.0.0.0 anycast.popads.net
+0.0.0.0 banners.popads.net
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
+0.0.0.0 www.c2.popads.net
+0.0.0.0 out.popads.net
+0.0.0.0 serve.popads.net
+0.0.0.0 static.popads.net
+0.0.0.0 www.popads.net
 0.0.0.0 pixel.printsites.net
 0.0.0.0 cdn.pixel.printsites.net
 0.0.0.0 ctr0181.pixel.printsites.net

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-13T01:44:08+00:00
-# Count: 3004 domains
+# Released: 2019-08-13T01:56:10+00:00
+# Count: 3009 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -214,6 +214,8 @@
 0.0.0.0 collect.adsorb.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 adssyscom.com
+0.0.0.0 adstatic.com
+0.0.0.0 vip.adstatic.com
 0.0.0.0 adsttc.com
 0.0.0.0 afd.adsttc.com
 0.0.0.0 assets.adsttc.com
@@ -1422,6 +1424,7 @@
 0.0.0.0 sync.outbrain.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
+0.0.0.0 padssup.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
 0.0.0.0 panadvert.com
@@ -2784,6 +2787,8 @@
 0.0.0.0 pingdom.net
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 pl-pubimgs.placester.net
+0.0.0.0 popads.net
+0.0.0.0 serve.popads.net
 0.0.0.0 pixel.printsites.net
 0.0.0.0 pro-market.net
 0.0.0.0 ads.pro-market.net
