@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-13T01:56:10+00:00
-# Count: 3009 domains
+# Released: 2019-08-15T13:59:45+00:00
+# Count: 3018 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1423,6 +1423,8 @@
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 analytics.ovh.com
+0.0.0.0 p2r14.com
+0.0.0.0 c.p2r14.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 padssup.com
 0.0.0.0 metrics.pagerduty.com
@@ -1850,6 +1852,7 @@
 0.0.0.0 tenjin.com
 0.0.0.0 ios.tenjin.com
 0.0.0.0 api.ios.tenjin.com
+0.0.0.0 srepdata.tennessean.com
 0.0.0.0 terratracker.com
 0.0.0.0 www.thdws.com
 0.0.0.0 theappgrader.com
@@ -1869,6 +1872,8 @@
 0.0.0.0 tidaltv.com
 0.0.0.0 dmp.tidaltv.com
 0.0.0.0 sync.tidaltv.com
+0.0.0.0 tiads.time.com
+0.0.0.0 ape-asset-tag.timeinc.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 tags.tiqcdn.com
@@ -1888,6 +1893,7 @@
 0.0.0.0 usage.trackjs.com
 0.0.0.0 trackverify.com
 0.0.0.0 traffiliate.com
+0.0.0.0 trafforsrv.com
 0.0.0.0 eb.trbas.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 ads.tremorhub.com
@@ -2447,9 +2453,12 @@
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d26opx5dl8t69i.cloudfront.net
+0.0.0.0 d2c4r37pj8idja.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
+0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
