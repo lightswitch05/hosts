@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-15T13:59:45+00:00
-# Count: 52033 domains
+# Released: 2019-08-16T01:21:28+00:00
+# Count: 52044 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -8418,12 +8418,21 @@
 0.0.0.0 screenshots.bugherd.com
 0.0.0.0 widget.bugherd.com
 0.0.0.0 www.bugherd.com
+0.0.0.0 bugsnag.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 campaigns.bugsnag.com
+0.0.0.0 enterprise-updates.bugsnag.com
+0.0.0.0 links.bugsnag.com
 0.0.0.0 notify.bugsnag.com
+0.0.0.0 on-prem-testing.bugsnag.com
+0.0.0.0 otify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 status.bugsnag.com
+0.0.0.0 updates.bugsnag.com
 0.0.0.0 upload.bugsnag.com
+0.0.0.0 www.bugsnag.com
+0.0.0.0 www-preview.bugsnag.com
 0.0.0.0 bung.com
 0.0.0.0 bga.bung.com
 0.0.0.0 bnaportal.n.a.dir.bung.com
@@ -17633,6 +17642,8 @@
 0.0.0.0 smartlinks-e2e.intuit.com
 0.0.0.0 ws-skreemr.origin.inverse.com
 0.0.0.0 pillager.inverse.com
+0.0.0.0 geolocation-api.invisionapp.com
+0.0.0.0 gr.invisionapp.com
 0.0.0.0 measure.invisionapp.com
 0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
