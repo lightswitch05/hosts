@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-20T01:41:47+00:00
-# Count: 52352 domains
+# Released: 2019-08-20T02:06:48+00:00
+# Count: 52420 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -2955,6 +2955,7 @@
 0.0.0.0 10.72.180.60secure.adnxs.com
 0.0.0.0 a.adnxs.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 www.acdn.adnxs.com
 0.0.0.0 acnd.adnxs.com
 0.0.0.0 ad.adnxs.com
 0.0.0.0 adecn.adnxs.com
@@ -2984,6 +2985,8 @@
 0.0.0.0 c17.adnxs.com
 0.0.0.0 c18.adnxs.com
 0.0.0.0 cdn.adnxs.com
+0.0.0.0 www.cdn.adnxs.com
+0.0.0.0 xsso.cdn.adnxs.com
 0.0.0.0 cdneval.adnxs.com
 0.0.0.0 akamai.cdneval.adnxs.com
 0.0.0.0 cloudflare.cdneval.adnxs.com
@@ -3045,17 +3048,23 @@
 0.0.0.0 fra119.ib.adnxs.com
 0.0.0.0 fra12.ib.adnxs.com
 0.0.0.0 fra120.ib.adnxs.com
+0.0.0.0 fra122.ib.adnxs.com
 0.0.0.0 fra127.ib.adnxs.com
+0.0.0.0 fra128.ib.adnxs.com
 0.0.0.0 fra129.ib.adnxs.com
 0.0.0.0 fra13.ib.adnxs.com
 0.0.0.0 fra130.ib.adnxs.com
+0.0.0.0 fra139.ib.adnxs.com
 0.0.0.0 fra14.ib.adnxs.com
+0.0.0.0 fra140.ib.adnxs.com
 0.0.0.0 fra141.ib.adnxs.com
+0.0.0.0 fra143.ib.adnxs.com
 0.0.0.0 fra146.ib.adnxs.com
 0.0.0.0 fra148.ib.adnxs.com
 0.0.0.0 fra15.ib.adnxs.com
 0.0.0.0 fra150.ib.adnxs.com
 0.0.0.0 fra154.ib.adnxs.com
+0.0.0.0 fra156.ib.adnxs.com
 0.0.0.0 fra157.ib.adnxs.com
 0.0.0.0 fra158.ib.adnxs.com
 0.0.0.0 fra159.ib.adnxs.com
@@ -3071,6 +3080,9 @@
 0.0.0.0 fra18.ib.adnxs.com
 0.0.0.0 fra180.ib.adnxs.com
 0.0.0.0 fra183.ib.adnxs.com
+0.0.0.0 fra184.ib.adnxs.com
+0.0.0.0 fra185.ib.adnxs.com
+0.0.0.0 fra188.ib.adnxs.com
 0.0.0.0 fra189.ib.adnxs.com
 0.0.0.0 fra19.ib.adnxs.com
 0.0.0.0 fra190.ib.adnxs.com
@@ -3078,6 +3090,7 @@
 0.0.0.0 fra194.ib.adnxs.com
 0.0.0.0 fra195.ib.adnxs.com
 0.0.0.0 fra196.ib.adnxs.com
+0.0.0.0 fra197.ib.adnxs.com
 0.0.0.0 fra198.ib.adnxs.com
 0.0.0.0 fra2.ib.adnxs.com
 0.0.0.0 fra20.ib.adnxs.com
@@ -3088,6 +3101,7 @@
 0.0.0.0 fra207.ib.adnxs.com
 0.0.0.0 fra209.ib.adnxs.com
 0.0.0.0 fra21.ib.adnxs.com
+0.0.0.0 fra211.ib.adnxs.com
 0.0.0.0 fra212.ib.adnxs.com
 0.0.0.0 fra214.ib.adnxs.com
 0.0.0.0 fra215.ib.adnxs.com
@@ -3105,17 +3119,24 @@
 0.0.0.0 fra228.ib.adnxs.com
 0.0.0.0 fra229.ib.adnxs.com
 0.0.0.0 fra23.ib.adnxs.com
+0.0.0.0 fra230.ib.adnxs.com
 0.0.0.0 fra237.ib.adnxs.com
 0.0.0.0 fra239.ib.adnxs.com
 0.0.0.0 fra24.ib.adnxs.com
+0.0.0.0 fra245.ib.adnxs.com
 0.0.0.0 fra249.ib.adnxs.com
 0.0.0.0 fra25.ib.adnxs.com
+0.0.0.0 fra251.ib.adnxs.com
 0.0.0.0 fra256.ib.adnxs.com
+0.0.0.0 fra258.ib.adnxs.com
 0.0.0.0 fra259.ib.adnxs.com
+0.0.0.0 fra26.ib.adnxs.com
 0.0.0.0 fra260.ib.adnxs.com
 0.0.0.0 fra262.ib.adnxs.com
 0.0.0.0 fra263.ib.adnxs.com
+0.0.0.0 fra265.ib.adnxs.com
 0.0.0.0 fra267.ib.adnxs.com
+0.0.0.0 fra269.ib.adnxs.com
 0.0.0.0 fra27.ib.adnxs.com
 0.0.0.0 fra271.ib.adnxs.com
 0.0.0.0 fra272.ib.adnxs.com
@@ -3124,8 +3145,12 @@
 0.0.0.0 fra279.ib.adnxs.com
 0.0.0.0 fra28.ib.adnxs.com
 0.0.0.0 fra280.ib.adnxs.com
+0.0.0.0 fra284.ib.adnxs.com
 0.0.0.0 fra286.ib.adnxs.com
 0.0.0.0 fra29.ib.adnxs.com
+0.0.0.0 fra293.ib.adnxs.com
+0.0.0.0 fra295.ib.adnxs.com
+0.0.0.0 fra298.ib.adnxs.com
 0.0.0.0 fra3.ib.adnxs.com
 0.0.0.0 fra30.ib.adnxs.com
 0.0.0.0 fra300.ib.adnxs.com
@@ -3150,6 +3175,7 @@
 0.0.0.0 fra329.ib.adnxs.com
 0.0.0.0 fra33.ib.adnxs.com
 0.0.0.0 fra333.ib.adnxs.com
+0.0.0.0 fra337.ib.adnxs.com
 0.0.0.0 fra338.ib.adnxs.com
 0.0.0.0 fra339.ib.adnxs.com
 0.0.0.0 fra34.ib.adnxs.com
@@ -3162,8 +3188,12 @@
 0.0.0.0 fra349.ib.adnxs.com
 0.0.0.0 fra35.ib.adnxs.com
 0.0.0.0 fra351.ib.adnxs.com
+0.0.0.0 fra354.ib.adnxs.com
 0.0.0.0 fra355.ib.adnxs.com
+0.0.0.0 fra359.ib.adnxs.com
 0.0.0.0 fra36.ib.adnxs.com
+0.0.0.0 fra360.ib.adnxs.com
+0.0.0.0 fra363.ib.adnxs.com
 0.0.0.0 fra366.ib.adnxs.com
 0.0.0.0 fra367.ib.adnxs.com
 0.0.0.0 fra368.ib.adnxs.com
@@ -3175,20 +3205,26 @@
 0.0.0.0 fra380.ib.adnxs.com
 0.0.0.0 fra382.ib.adnxs.com
 0.0.0.0 fra383.ib.adnxs.com
+0.0.0.0 fra385.ib.adnxs.com
 0.0.0.0 fra389.ib.adnxs.com
 0.0.0.0 fra39.ib.adnxs.com
+0.0.0.0 fra393.ib.adnxs.com
 0.0.0.0 fra399.ib.adnxs.com
 0.0.0.0 fra4.ib.adnxs.com
 0.0.0.0 fra40.ib.adnxs.com
 0.0.0.0 fra402.ib.adnxs.com
+0.0.0.0 fra403.ib.adnxs.com
 0.0.0.0 fra404.ib.adnxs.com
 0.0.0.0 fra405.ib.adnxs.com
+0.0.0.0 fra408.ib.adnxs.com
 0.0.0.0 fra409.ib.adnxs.com
 0.0.0.0 fra411.ib.adnxs.com
 0.0.0.0 fra412.ib.adnxs.com
 0.0.0.0 fra413.ib.adnxs.com
 0.0.0.0 fra415.ib.adnxs.com
 0.0.0.0 fra416.ib.adnxs.com
+0.0.0.0 fra417.ib.adnxs.com
+0.0.0.0 fra418.ib.adnxs.com
 0.0.0.0 fra42.ib.adnxs.com
 0.0.0.0 fra421.ib.adnxs.com
 0.0.0.0 fra422.ib.adnxs.com
@@ -3204,11 +3240,14 @@
 0.0.0.0 fra44.ib.adnxs.com
 0.0.0.0 fra440.ib.adnxs.com
 0.0.0.0 fra441.ib.adnxs.com
+0.0.0.0 fra442.ib.adnxs.com
 0.0.0.0 fra444.ib.adnxs.com
+0.0.0.0 fra447.ib.adnxs.com
 0.0.0.0 fra448.ib.adnxs.com
 0.0.0.0 fra449.ib.adnxs.com
 0.0.0.0 fra45.ib.adnxs.com
 0.0.0.0 fra452.ib.adnxs.com
+0.0.0.0 fra454.ib.adnxs.com
 0.0.0.0 fra455.ib.adnxs.com
 0.0.0.0 fra457.ib.adnxs.com
 0.0.0.0 fra459.ib.adnxs.com
@@ -3220,14 +3259,19 @@
 0.0.0.0 fra469.ib.adnxs.com
 0.0.0.0 fra47.ib.adnxs.com
 0.0.0.0 fra470.ib.adnxs.com
+0.0.0.0 fra472.ib.adnxs.com
 0.0.0.0 fra476.ib.adnxs.com
 0.0.0.0 fra477.ib.adnxs.com
+0.0.0.0 fra478.ib.adnxs.com
 0.0.0.0 fra48.ib.adnxs.com
 0.0.0.0 fra480.ib.adnxs.com
+0.0.0.0 fra481.ib.adnxs.com
 0.0.0.0 fra482.ib.adnxs.com
 0.0.0.0 fra484.ib.adnxs.com
+0.0.0.0 fra486.ib.adnxs.com
 0.0.0.0 fra49.ib.adnxs.com
 0.0.0.0 fra491.ib.adnxs.com
+0.0.0.0 fra493.ib.adnxs.com
 0.0.0.0 fra495.ib.adnxs.com
 0.0.0.0 fra50.ib.adnxs.com
 0.0.0.0 fra52.ib.adnxs.com
@@ -3242,8 +3286,11 @@
 0.0.0.0 fra66.ib.adnxs.com
 0.0.0.0 fra67.ib.adnxs.com
 0.0.0.0 fra68.ib.adnxs.com
+0.0.0.0 fra69.ib.adnxs.com
 0.0.0.0 fra7.ib.adnxs.com
+0.0.0.0 fra71.ib.adnxs.com
 0.0.0.0 fra72.ib.adnxs.com
+0.0.0.0 fra73.ib.adnxs.com
 0.0.0.0 fra75.ib.adnxs.com
 0.0.0.0 fra77.ib.adnxs.com
 0.0.0.0 fra78.ib.adnxs.com
@@ -6925,6 +6972,8 @@
 0.0.0.0 ms.applvn.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 www.applvn.com
+0.0.0.0 preview.console.appnexus.com
+0.0.0.0 sand.console.appnexus.com
 0.0.0.0 apponic.com
 0.0.0.0 7edit-hl7-browser-editor.apponic.com
 0.0.0.0 adobe-acrobat-reader-dc.apponic.com
@@ -10849,6 +10898,8 @@
 0.0.0.0 www.cashrequestonline.com
 0.0.0.0 saa.cbsi.com
 0.0.0.0 adops.cbsinteractive.com
+0.0.0.0 bidbarrel.cbsnews.com
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 six.cdn-net.com
 0.0.0.0 celebrus.com
 0.0.0.0 cengage.celebrus.com
@@ -18214,6 +18265,12 @@
 0.0.0.0 cma.production.ap-southeast-2.kops.kargo.com
 0.0.0.0 kraken.production.ap-southeast-2.kops.kargo.com
 0.0.0.0 stage.ap-southeast-2.kops.kargo.com
+0.0.0.0 production.ap-southeast-2.blue.kops.kargo.com
+0.0.0.0 etl.us-east-1.blue.kops.kargo.com
+0.0.0.0 mgmt.us-east-1.blue.kops.kargo.com
+0.0.0.0 production.us-east-1.blue.kops.kargo.com
+0.0.0.0 staging.us-east-1.blue.kops.kargo.com
+0.0.0.0 production.us-west-1.blue.kops.kargo.com
 0.0.0.0 production.eu-west-2.kops.kargo.com
 0.0.0.0 dev.us-east-1.kops.kargo.com
 0.0.0.0 airflow-bb.etl.us-east-1.kops.kargo.com
@@ -18241,6 +18298,7 @@
 0.0.0.0 kraken.production.us-east-1.kops.kargo.com
 0.0.0.0 lexid.production.us-east-1.kops.kargo.com
 0.0.0.0 tk.production.us-east-1.kops.kargo.com
+0.0.0.0 traefik-ingress.production.us-east-1.kops.kargo.com
 0.0.0.0 stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-mgmt.stage.us-east-1.kops.kargo.com
@@ -18286,6 +18344,7 @@
 0.0.0.0 kds.dev.us-west-2.kops.kargo.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 krk-cf.kargo.com
+0.0.0.0 krk-nlb-test.kargo.com
 0.0.0.0 kserve.kargo.com
 0.0.0.0 lavibra.kargo.com
 0.0.0.0 lifeandstyle.kargo.com
@@ -46978,6 +47037,7 @@
 0.0.0.0 allabout-d.openx.net
 0.0.0.0 allaboutlifemarketing-d.openx.net
 0.0.0.0 allmedia-d.openx.net
+0.0.0.0 alz-d.openx.net
 0.0.0.0 ambientdigital-d.openx.net
 0.0.0.0 ami-d.openx.net
 0.0.0.0 amm-d.openx.net
@@ -47140,6 +47200,7 @@
 0.0.0.0 forebase-d.openx.net
 0.0.0.0 fortravel-d.openx.net
 0.0.0.0 forumcomm-d.openx.net
+0.0.0.0 forwardpublishing-d.openx.net
 0.0.0.0 fourm-d.openx.net
 0.0.0.0 fourtests-d.openx.net
 0.0.0.0 fptadtrue-d.openx.net
@@ -47309,6 +47370,7 @@
 0.0.0.0 mynavicorp-d.openx.net
 0.0.0.0 narcity-d.openx.net
 0.0.0.0 nasdaq-d.openx.net
+0.0.0.0 nationalreview-d.openx.net
 0.0.0.0 navitimejapan-d.openx.net
 0.0.0.0 netpoint-d.openx.net
 0.0.0.0 netseer-d.openx.net
@@ -47344,7 +47406,9 @@
 0.0.0.0 osa-d.openx.net
 0.0.0.0 outbrain-d.openx.net
 0.0.0.0 outplayed-d.openx.net
+0.0.0.0 ox-delivery-prod-1-europe-west1.openx.net
 0.0.0.0 ox-delivery-prod-1-us-central1.openx.net
+0.0.0.0 ox-delivery-prod-1-us-east1.openx.net
 0.0.0.0 ox-delivery-prod-1-us-west1.openx.net
 0.0.0.0 oxjapan-d.openx.net
 0.0.0.0 patch-d.openx.net
@@ -47378,6 +47442,7 @@
 0.0.0.0 proprofs-d.openx.net
 0.0.0.0 psaads-d.openx.net
 0.0.0.0 pubgalaxy-d.openx.net
+0.0.0.0 publihebdos-d.openx.net
 0.0.0.0 publir-d.openx.net
 0.0.0.0 publisherdesk-d.openx.net
 0.0.0.0 pubnative-d.openx.net
@@ -47387,6 +47452,7 @@
 0.0.0.0 quizlet-d.openx.net
 0.0.0.0 quizony-d.openx.net
 0.0.0.0 r.openx.net
+0.0.0.0 racing-post-d.openx.net
 0.0.0.0 raiseit-d.openx.net
 0.0.0.0 rakuten-d.openx.net
 0.0.0.0 ranker-d.openx.net
@@ -47426,6 +47492,7 @@
 0.0.0.0 sbnationbidder-d.openx.net
 0.0.0.0 scopely-d.openx.net
 0.0.0.0 scout24-d.openx.net
+0.0.0.0 sea-u.openx.net
 0.0.0.0 seattle-times-d.openx.net
 0.0.0.0 seccosquared-d.openx.net
 0.0.0.0 seesaa-d.openx.net
@@ -47549,6 +47616,7 @@
 0.0.0.0 vice-d.openx.net
 0.0.0.0 videointelligence-d.openx.net
 0.0.0.0 viralize-d.openx.net
+0.0.0.0 viumbe-d.openx.net
 0.0.0.0 viviane-d.openx.net
 0.0.0.0 voyage-group-d.openx.net
 0.0.0.0 voyagermarketing-d.openx.net

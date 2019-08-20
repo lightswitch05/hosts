@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-20T01:41:47+00:00
-# Count: 3032 domains
+# Released: 2019-08-20T02:06:47+00:00
+# Count: 3040 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -175,6 +175,7 @@
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
+0.0.0.0 cdn.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 nym1-ib.adnxs.com
@@ -312,6 +313,7 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 aan.amazon-adsystem.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
@@ -407,6 +409,7 @@
 0.0.0.0 res1.applovin.com
 0.0.0.0 applvn.com
 0.0.0.0 ms.applvn.com
+0.0.0.0 console.appnexus.com
 0.0.0.0 apponic.com
 0.0.0.0 www.apponic.com
 0.0.0.0 appsee.com
@@ -582,6 +585,8 @@
 0.0.0.0 cashrequestonline.com
 0.0.0.0 saa.cbsi.com
 0.0.0.0 adops.cbsinteractive.com
+0.0.0.0 bidbarrel.cbsnews.com
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 six.cdn-net.com
 0.0.0.0 celebrus.com
 0.0.0.0 delta.celebrus.com
@@ -1070,6 +1075,7 @@
 0.0.0.0 cdn-usent.kampyle.com
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 kargo.com
+0.0.0.0 crb.kargo.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kaxsdc.com
 0.0.0.0 prod01.kaxsdc.com
@@ -1729,6 +1735,8 @@
 0.0.0.0 sombersurprise.com
 0.0.0.0 telemetry.sonarsource.com
 0.0.0.0 sonobi.com
+0.0.0.0 apex.go.sonobi.com
+0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 speedcurve.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 adtag.sphdigital.com
