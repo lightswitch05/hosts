@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-20T02:16:01+00:00
-# Count: 52421 domains
+# Released: 2019-08-20T02:32:25+00:00
+# Count: 52456 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -16415,6 +16415,10 @@
 0.0.0.0 www.gmial.com
 0.0.0.0 www3.gmial.com
 0.0.0.0 wwww.gmial.com
+0.0.0.0 log.go.com
+0.0.0.0 conv.log.go.com
+0.0.0.0 www.log.go.com
+0.0.0.0 sw88.go.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 www.seal.godaddy.com
 0.0.0.0 adserver.goodnuze.com
@@ -33780,6 +33784,21 @@
 0.0.0.0 uk.fc.yahoo.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 bats.video.yahoo.com
+0.0.0.0 ybp.yahoo.com
+0.0.0.0 bid-global.ybp.yahoo.com
+0.0.0.0 east-bid.ybp.yahoo.com
+0.0.0.0 pmp.ybp.yahoo.com
+0.0.0.0 pr.ybp.yahoo.com
+0.0.0.0 pr-apac.ybp.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 pr-bh-bucket.ybp.yahoo.com
+0.0.0.0 pr-bucket.ybp.yahoo.com
+0.0.0.0 pr-emea.ybp.yahoo.com
+0.0.0.0 pr-preprod.ybp.yahoo.com
+0.0.0.0 pr-preprod-2.ybp.yahoo.com
+0.0.0.0 bid.stg.ybp.yahoo.com
+0.0.0.0 pr.stg.ybp.yahoo.com
+0.0.0.0 stg-api.ybp.yahoo.com
 0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 metrics.yellowpages.com
 0.0.0.0 yext.com
@@ -37937,6 +37956,22 @@
 0.0.0.0 sbx1.2o7.net
 0.0.0.0 www.2o7.net
 0.0.0.0 adserver.383media.net
+0.0.0.0 3gl.net
+0.0.0.0 autopub.3gl.net
+0.0.0.0 g.3gl.net
+0.0.0.0 img.3gl.net
+0.0.0.0 inst.3gl.net
+0.0.0.0 l.3gl.net
+0.0.0.0 leu.3gl.net
+0.0.0.0 lopna.3gl.net
+0.0.0.0 r.3gl.net
+0.0.0.0 f.r.3gl.net
+0.0.0.0 www.r.3gl.net
+0.0.0.0 s.3gl.net
+0.0.0.0 scn.3gl.net
+0.0.0.0 secnet.3gl.net
+0.0.0.0 seu.3gl.net
+0.0.0.0 sopna.3gl.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 abmr.net
 0.0.0.0 ak1.abmr.net
