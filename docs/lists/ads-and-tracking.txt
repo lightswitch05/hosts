@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-18T23:46:53+00:00
-# Count: 3020 domains
+# Released: 2019-08-20T00:30:00+00:00
+# Count: 3029 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -539,6 +539,8 @@
 0.0.0.0 btstatic.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 bttrack.com
+0.0.0.0 btttag.com
+0.0.0.0 dsg2.btttag.com
 0.0.0.0 bucksense.com
 0.0.0.0 ck.bucksense.com
 0.0.0.0 bugherd.com
@@ -717,6 +719,8 @@
 0.0.0.0 newrevive.detik.com
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 metrics.dickssportinggoods.com
+0.0.0.0 smetrics.dickssportinggoods.com
+0.0.0.0 tag.dickssportinggoods.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 seal.digicert.com
 0.0.0.0 digitalremedy.com
@@ -979,6 +983,8 @@
 0.0.0.0 10523621.collect.igodigital.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 adserver.iminent.com
+0.0.0.0 impactradius-event.com
+0.0.0.0 d.impactradius-event.com
 0.0.0.0 impresionesweb.com
 0.0.0.0 imprev.com
 0.0.0.0 imrworldwide.com
@@ -1184,6 +1190,9 @@
 0.0.0.0 tracker.meetleads.com
 0.0.0.0 cdn.merklesearch.com
 0.0.0.0 metaps.com
+0.0.0.0 micpn.com
+0.0.0.0 ciunnwhq.micpn.com
+0.0.0.0 ssl.micpn.com
 0.0.0.0 applicationinsights.microsoft.com
 0.0.0.0 dc.applicationinsights.microsoft.com
 0.0.0.0 uhf.microsoft.com
