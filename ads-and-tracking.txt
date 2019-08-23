@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-20T02:32:25+00:00
-# Count: 3047 domains
+# Released: 2019-08-23T14:11:22+00:00
+# Count: 3055 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1089,6 +1089,8 @@
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 metric.kirklands.com
+0.0.0.0 kissmetrics.com
+0.0.0.0 i.kissmetrics.com
 0.0.0.0 klaviyo.com
 0.0.0.0 static.klaviyo.com
 0.0.0.0 kochava.com
@@ -1139,6 +1141,8 @@
 0.0.0.0 lootsie.com
 0.0.0.0 api-v2.lootsie.com
 0.0.0.0 smetrics.lowes.com
+0.0.0.0 analytics.lucidchart.com
+0.0.0.0 analytics.lucidpress.com
 0.0.0.0 m-freeway.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 www.m-freeway.com
@@ -1508,6 +1512,8 @@
 0.0.0.0 mkto-pages.power.com
 0.0.0.0 px.powerlinks.com
 0.0.0.0 preapps.com
+0.0.0.0 analytics.preprodpress.com
+0.0.0.0 analytics.preprodchart.comanalytics.preprodpress.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 privy.com
 0.0.0.0 widget.privy.com
@@ -2167,6 +2173,7 @@
 0.0.0.0 www.adfly.eu
 0.0.0.0 braze.eu
 0.0.0.0 praxis.fra-01.braze.eu
+0.0.0.0 analytics.lucidchart.eu
 0.0.0.0 tracking.wpnetwork.eu
 0.0.0.0 wpad.example
 0.0.0.0 keepass.fr
@@ -2501,6 +2508,7 @@
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
+0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net

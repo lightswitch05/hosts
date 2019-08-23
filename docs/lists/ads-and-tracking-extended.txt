@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-20T02:32:25+00:00
-# Count: 52456 domains
+# Released: 2019-08-23T14:11:22+00:00
+# Count: 52524 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -19290,6 +19290,68 @@
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 metric.kirklands.com
+0.0.0.0 kissmetrics.com
+0.0.0.0 api.kissmetrics.com
+0.0.0.0 app.kissmetrics.com
+0.0.0.0 aws-acm.kissmetrics.com
+0.0.0.0 calendar.kissmetrics.com
+0.0.0.0 campaigns1.kissmetrics.com
+0.0.0.0 campaigns2.kissmetrics.com
+0.0.0.0 o3.campaigns2.kissmetrics.com
+0.0.0.0 campaigns3.kissmetrics.com
+0.0.0.0 cdn10.kissmetrics.com
+0.0.0.0 code.kissmetrics.com
+0.0.0.0 core-app-rails.kissmetrics.com
+0.0.0.0 dn25.kissmetrics.com
+0.0.0.0 dn58.kissmetrics.com
+0.0.0.0 downloads.kissmetrics.com
+0.0.0.0 email.kissmetrics.com
+0.0.0.0 o2.email.kissmetrics.com
+0.0.0.0 enigma.kissmetrics.com
+0.0.0.0 et.kissmetrics.com
+0.0.0.0 focus.kissmetrics.com
+0.0.0.0 go.kissmetrics.com
+0.0.0.0 www.go.kissmetrics.com
+0.0.0.0 grow.kissmetrics.com
+0.0.0.0 www.grow.kissmetrics.com
+0.0.0.0 hq.kissmetrics.com
+0.0.0.0 i.kissmetrics.com
+0.0.0.0 infra.kissmetrics.com
+0.0.0.0 marketing.kissmetrics.com
+0.0.0.0 maven.kissmetrics.com
+0.0.0.0 middleman.kissmetrics.com
+0.0.0.0 oldsupport.kissmetrics.com
+0.0.0.0 pop.kissmetrics.com
+0.0.0.0 query.kissmetrics.com
+0.0.0.0 scripts.kissmetrics.com
+0.0.0.0 signin.kissmetrics.com
+0.0.0.0 www.signin.kissmetrics.com
+0.0.0.0 stage.kissmetrics.com
+0.0.0.0 app.stage.kissmetrics.com
+0.0.0.0 dn0.stage.kissmetrics.com
+0.0.0.0 dn2.stage.kissmetrics.com
+0.0.0.0 i.stage.kissmetrics.com
+0.0.0.0 scripts.stage.kissmetrics.com
+0.0.0.0 trk.stage.kissmetrics.com
+0.0.0.0 www.stage.kissmetrics.com
+0.0.0.0 static.kissmetrics.com
+0.0.0.0 status.kissmetrics.com
+0.0.0.0 styleguide.kissmetrics.com
+0.0.0.0 tasks.kissmetrics.com
+0.0.0.0 tools.kissmetrics.com
+0.0.0.0 trc.kissmetrics.com
+0.0.0.0 trk.kissmetrics.com
+0.0.0.0 trkx-east.kissmetrics.com
+0.0.0.0 tweets.kissmetrics.com
+0.0.0.0 wh.kissmetrics.com
+0.0.0.0 www.kissmetrics.com
+0.0.0.0 yeoldeblog.kissmetrics.com
+0.0.0.0 yjp.kissmetrics.com
+0.0.0.0 app.yjp.kissmetrics.com
+0.0.0.0 i.yjp.kissmetrics.com
+0.0.0.0 trk.yjp.kissmetrics.com
+0.0.0.0 www.yjp.kissmetrics.com
+0.0.0.0 yum.kissmetrics.com
 0.0.0.0 klaviyo.com
 0.0.0.0 a.klaviyo.com
 0.0.0.0 fast.a.klaviyo.com
@@ -20077,6 +20139,8 @@
 0.0.0.0 webapp.lootsie.com
 0.0.0.0 www.lootsie.com
 0.0.0.0 smetrics.lowes.com
+0.0.0.0 analytics.lucidchart.com
+0.0.0.0 analytics.lucidpress.com
 0.0.0.0 m-freeway.com
 0.0.0.0 data.m-freeway.com
 0.0.0.0 graph.m-freeway.com
@@ -25093,6 +25157,8 @@
 0.0.0.0 m.preapps.com
 0.0.0.0 www.m.preapps.com
 0.0.0.0 www.preapps.com
+0.0.0.0 analytics.preprodpress.com
+0.0.0.0 analytics.preprodchart.comanalytics.preprodpress.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 privy.com
 0.0.0.0 ajcrimsonbeauty.privy.com
@@ -34373,6 +34439,7 @@
 0.0.0.0 k8s.region-001.s-euc-1.braze.eu
 0.0.0.0 k8s.stc-001.s-euc-1.braze.eu
 0.0.0.0 www.braze.eu
+0.0.0.0 analytics.lucidchart.eu
 0.0.0.0 tracking.wpnetwork.eu
 0.0.0.0 wpad.example
 0.0.0.0 keepass.fr
@@ -39456,6 +39523,7 @@
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
+0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net
