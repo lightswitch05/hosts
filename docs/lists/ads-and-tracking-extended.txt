@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-23T14:22:26+00:00
-# Count: 52524 domains
+# Released: 2019-08-23T17:05:44+00:00
+# Count: 52527 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -16923,6 +16923,9 @@
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 htlbid.com
 0.0.0.0 eventtracking.hubapi.com
+0.0.0.0 guce.huffpost.com
+0.0.0.0 stage.guce.huffpost.com
+0.0.0.0 trunk.guce.huffpost.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 www.doppler.hulu.com
 0.0.0.0 vortex.hulu.com
