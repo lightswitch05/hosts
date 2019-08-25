@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts.txt
-# Released: 2019-08-20T01:46:28+00:00
-# Count: 115 domains
+# Released: 2019-08-25T01:09:36+00:00
+# Count: 120 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts.txt
@@ -23,6 +23,7 @@
 # limitations under the License.
 
 0.0.0.0 amp.businessinsider.com
+0.0.0.0 amp-assets.cinemablend.com
 0.0.0.0 amp.cloudflare.com
 0.0.0.0 discovery.amp.cloudflare.com
 0.0.0.0 block-test.developerdan.com
@@ -43,6 +44,7 @@
 0.0.0.0 247sports-com.cdn.ampproject.org
 0.0.0.0 a-abcnews-com.cdn.ampproject.org
 0.0.0.0 abcnews-go-com.cdn.ampproject.org
+0.0.0.0 amp-cinemablend-com.cdn.ampproject.org
 0.0.0.0 amp-clickondetroit-com.cdn.ampproject.org
 0.0.0.0 amp-kentucky-com.cdn.ampproject.org
 0.0.0.0 amp-knoxnews-com.cdn.ampproject.org
@@ -67,6 +69,7 @@
 0.0.0.0 m-wikihow-com.cdn.ampproject.org
 0.0.0.0 obits-mlive-com.cdn.ampproject.org
 0.0.0.0 onceamonthmeals-com.cdn.ampproject.org
+0.0.0.0 patch-com.cdn.ampproject.org
 0.0.0.0 s-abcnews-com.cdn.ampproject.org
 0.0.0.0 slickdeals-net.cdn.ampproject.org
 0.0.0.0 syndication-bleacherreport-com.cdn.ampproject.org
@@ -111,6 +114,7 @@
 0.0.0.0 www-independent-co-uk.cdn.ampproject.org
 0.0.0.0 www-khou-com.cdn.ampproject.org
 0.0.0.0 www-legacy-com.cdn.ampproject.org
+0.0.0.0 www-marieclaire-com.cdn.ampproject.org
 0.0.0.0 www-military-com.cdn.ampproject.org
 0.0.0.0 www-mymovingreviews-com.cdn.ampproject.org
 0.0.0.0 www-myrecipes-com.cdn.ampproject.org
@@ -131,6 +135,7 @@
 0.0.0.0 www-todaysparent-com.cdn.ampproject.org
 0.0.0.0 www-vanityfair-com.cdn.ampproject.org
 0.0.0.0 www-virginiafirst-com.cdn.ampproject.org
+0.0.0.0 www-vulture-com.cdn.ampproject.org
 0.0.0.0 www-washingtonpost-com.cdn.ampproject.org
 0.0.0.0 www-whattoexpect-com.cdn.ampproject.org
 0.0.0.0 www-wired-com.cdn.ampproject.org

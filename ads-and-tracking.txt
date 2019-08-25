@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-25T00:54:00+00:00
-# Count: 3024 domains
+# Released: 2019-08-25T01:15:42+00:00
+# Count: 3028 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -506,6 +506,8 @@
 0.0.0.0 img1.blogblog.com
 0.0.0.0 boldchat.com
 0.0.0.0 cbi.boldchat.com
+0.0.0.0 client-events.bookbub.com
+0.0.0.0 t.bookbub.com
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
@@ -1466,6 +1468,7 @@
 0.0.0.0 view.paradym.com
 0.0.0.0 pardot.com
 0.0.0.0 parsely.com
+0.0.0.0 cdn.parsely.com
 0.0.0.0 pathful.com
 0.0.0.0 ssl.pathful.com
 0.0.0.0 pixel.perceptlink.com

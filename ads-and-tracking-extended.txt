@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-25T00:54:01+00:00
-# Count: 52441 domains
+# Released: 2019-08-25T01:15:42+00:00
+# Count: 52445 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -8050,6 +8050,8 @@
 0.0.0.0 web-beta.boldchat.com
 0.0.0.0 ws.boldchat.com
 0.0.0.0 www.boldchat.com
+0.0.0.0 client-events.bookbub.com
+0.0.0.0 t.bookbub.com
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
@@ -35656,6 +35658,7 @@
 0.0.0.0 eum-eu-west-1.instana.io
 0.0.0.0 eum-test-fullstack-0-us-west-2.instana.io
 0.0.0.0 eum-us-west-2.instana.io
+0.0.0.0 fws-dir.instana.io
 0.0.0.0 huawei-huawei.instana.io
 0.0.0.0 internal-eum.instana.io
 0.0.0.0 maven.instana.io

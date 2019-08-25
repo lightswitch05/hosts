@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2019-08-20T01:46:28+00:00
-# Count: 1573 domains
+# Released: 2019-08-25T01:09:36+00:00
+# Count: 1577 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -23,6 +23,8 @@
 # limitations under the License.
 
 0.0.0.0 amp.businessinsider.com
+0.0.0.0 amp.cinemablend.com
+0.0.0.0 amp-assets.cinemablend.com
 0.0.0.0 amp.cloudflare.com
 0.0.0.0 71republic-com.amp.cloudflare.com
 0.0.0.0 a-abcnews-com.amp.cloudflare.com
@@ -781,6 +783,7 @@
 0.0.0.0 p5-focus-de.cdn.ampproject.org
 0.0.0.0 pagesix-com.cdn.ampproject.org
 0.0.0.0 pasteup-guim-co-uk.cdn.ampproject.org
+0.0.0.0 patch-com.cdn.ampproject.org
 0.0.0.0 people-com.cdn.ampproject.org
 0.0.0.0 people-riamedia-com-ua.cdn.ampproject.org
 0.0.0.0 perezhilton-com.cdn.ampproject.org
@@ -1325,6 +1328,7 @@
 0.0.0.0 www-mandatory-com.cdn.ampproject.org
 0.0.0.0 www-manitonetworks-com.cdn.ampproject.org
 0.0.0.0 www-marathonbet-com.cdn.ampproject.org
+0.0.0.0 www-marieclaire-com.cdn.ampproject.org
 0.0.0.0 www-marijuanabreak-com.cdn.ampproject.org
 0.0.0.0 www-marinelink-com.cdn.ampproject.org
 0.0.0.0 www-marketplace-org.cdn.ampproject.org
