@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-import update_hosts_file as update_hosts_file
+import update_hosts_file
 
 
 class TestUpdateHostsFile(object):
