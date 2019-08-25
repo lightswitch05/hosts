@@ -77,7 +77,7 @@ def main():
         hosts_tools.write_domain_list(args.list + '-extended.txt', expanded_domains)
 
 
-def crt_update(main_domains: Set[str], verbose: bool):
+def crt_update(main_domains: Set[str], verbose: bool) -> Set[str]:
     found = set()
     lookup_domains = hosts_tools.reduce_domains(main_domains)
     for index, domain in enumerate(lookup_domains):
@@ -92,7 +92,7 @@ def crt_update(main_domains: Set[str], verbose: bool):
     return found
 
 
-def virustotal_update(main_domains: Set[str], api_key: str, verbose: bool):
+def virustotal_update(main_domains: Set[str], api_key: str, verbose: bool) -> Set[str]:
     found = set()
     lookup_domains = hosts_tools.reduce_domains(main_domains)
     for index, domain in enumerate(lookup_domains):
@@ -107,7 +107,7 @@ def virustotal_update(main_domains: Set[str], api_key: str, verbose: bool):
     return found
 
 
-def print_progress(current: int, total: int):
+def print_progress(current: int, total: int) -> None:
     if total != 0:
         percent = int((current / total) * 100)
         if (percent % 5) == 0:
