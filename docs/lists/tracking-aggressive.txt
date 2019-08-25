@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-08-20T01:42:08+00:00
-# Count: 107 domains
+# Released: 2019-08-25T00:54:09+00:00
+# Count: 143 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -93,6 +93,40 @@
 0.0.0.0 spyfone.com
 0.0.0.0 spyhuman.com
 0.0.0.0 spymasterpro.com
+0.0.0.0 stripcdn.com
+0.0.0.0 b-eu10.stripcdn.com
+0.0.0.0 b-eu15.stripcdn.com
+0.0.0.0 b-eu4.stripcdn.com
+0.0.0.0 b-eu5.stripcdn.com
+0.0.0.0 b-eu6.stripcdn.com
+0.0.0.0 b-eu8.stripcdn.com
+0.0.0.0 b-eu9.stripcdn.com
+0.0.0.0 c-eu1.stripcdn.com
+0.0.0.0 c-eu2.stripcdn.com
+0.0.0.0 c-eu3.stripcdn.com
+0.0.0.0 c-eu4.stripcdn.com
+0.0.0.0 c-eu5.stripcdn.com
+0.0.0.0 c-eu8.stripcdn.com
+0.0.0.0 c-us1.stripcdn.com
+0.0.0.0 c-us2.stripcdn.com
+0.0.0.0 c-us3.stripcdn.com
+0.0.0.0 c-us4.stripcdn.com
+0.0.0.0 c-us5.stripcdn.com
+0.0.0.0 c-us8.stripcdn.com
+0.0.0.0 hls.stripcdn.com
+0.0.0.0 hls-us2.stripcdn.com
+0.0.0.0 img.stripcdn.com
+0.0.0.0 img-eu.stripcdn.com
+0.0.0.0 ns1.stripcdn.com
+0.0.0.0 ns2.stripcdn.com
+0.0.0.0 ns3.stripcdn.com
+0.0.0.0 ns4.stripcdn.com
+0.0.0.0 p-eu4.stripcdn.com
+0.0.0.0 p-us1.stripcdn.com
+0.0.0.0 p0.stripcdn.com
+0.0.0.0 p1.stripcdn.com
+0.0.0.0 st.stripcdn.com
+0.0.0.0 video-thumbs.stripcdn.com
 0.0.0.0 surveygizmo.com
 0.0.0.0 redsky.target.com
 0.0.0.0 ads.cdn.turner.com
@@ -106,6 +140,8 @@
 0.0.0.0 weather.wapp.wii.com
 0.0.0.0 cdf-anon.xboxlive.com
 0.0.0.0 settings-ssl.xboxlive.com
+0.0.0.0 go.xhamsterlive.com
+0.0.0.0 xhamsterpremium.com
 0.0.0.0 spot.im
 0.0.0.0 app-cdn.spot.im
 0.0.0.0 images.spot.im

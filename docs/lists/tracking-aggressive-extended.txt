@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-08-20T01:42:08+00:00
-# Count: 3697 domains
+# Released: 2019-08-25T00:54:09+00:00
+# Count: 3809 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -2773,6 +2773,97 @@
 0.0.0.0 webdisk.spymasterpro.com
 0.0.0.0 webmail.spymasterpro.com
 0.0.0.0 www.spymasterpro.com
+0.0.0.0 stripcdn.com
+0.0.0.0 b-as1.stripcdn.com
+0.0.0.0 b-eu1.stripcdn.com
+0.0.0.0 b-eu10.stripcdn.com
+0.0.0.0 b-eu11.stripcdn.com
+0.0.0.0 b-eu12.stripcdn.com
+0.0.0.0 b-eu13.stripcdn.com
+0.0.0.0 b-eu14.stripcdn.com
+0.0.0.0 b-eu15.stripcdn.com
+0.0.0.0 b-eu16.stripcdn.com
+0.0.0.0 b-eu2.stripcdn.com
+0.0.0.0 b-eu3.stripcdn.com
+0.0.0.0 b-eu4.stripcdn.com
+0.0.0.0 b-eu5.stripcdn.com
+0.0.0.0 b-eu6.stripcdn.com
+0.0.0.0 b-eu7.stripcdn.com
+0.0.0.0 b-eu8.stripcdn.com
+0.0.0.0 b-eu9.stripcdn.com
+0.0.0.0 b-us1.stripcdn.com
+0.0.0.0 b-us10.stripcdn.com
+0.0.0.0 b-us2.stripcdn.com
+0.0.0.0 b-us3.stripcdn.com
+0.0.0.0 b-us4.stripcdn.com
+0.0.0.0 b-us5.stripcdn.com
+0.0.0.0 b-us6.stripcdn.com
+0.0.0.0 b-us7.stripcdn.com
+0.0.0.0 b-us8.stripcdn.com
+0.0.0.0 b-us9.stripcdn.com
+0.0.0.0 c.stripcdn.com
+0.0.0.0 c-eu1.stripcdn.com
+0.0.0.0 c-eu10.stripcdn.com
+0.0.0.0 c-eu11.stripcdn.com
+0.0.0.0 c-eu12.stripcdn.com
+0.0.0.0 c-eu2.stripcdn.com
+0.0.0.0 c-eu3.stripcdn.com
+0.0.0.0 c-eu4.stripcdn.com
+0.0.0.0 c-eu5.stripcdn.com
+0.0.0.0 c-eu6.stripcdn.com
+0.0.0.0 c-eu7.stripcdn.com
+0.0.0.0 c-eu8.stripcdn.com
+0.0.0.0 c-eu9.stripcdn.com
+0.0.0.0 c-us1.stripcdn.com
+0.0.0.0 c-us10.stripcdn.com
+0.0.0.0 c-us11.stripcdn.com
+0.0.0.0 c-us2.stripcdn.com
+0.0.0.0 c-us3.stripcdn.com
+0.0.0.0 c-us4.stripcdn.com
+0.0.0.0 c-us5.stripcdn.com
+0.0.0.0 c-us6.stripcdn.com
+0.0.0.0 c-us7.stripcdn.com
+0.0.0.0 c-us8.stripcdn.com
+0.0.0.0 c-us9.stripcdn.com
+0.0.0.0 hls.stripcdn.com
+0.0.0.0 hls-eu.stripcdn.com
+0.0.0.0 hls-eu1.stripcdn.com
+0.0.0.0 hls-eu2.stripcdn.com
+0.0.0.0 hls-us.stripcdn.com
+0.0.0.0 hls-us1.stripcdn.com
+0.0.0.0 hls-us2.stripcdn.com
+0.0.0.0 hls-us3.stripcdn.com
+0.0.0.0 img.stripcdn.com
+0.0.0.0 img-as.stripcdn.com
+0.0.0.0 img-eu.stripcdn.com
+0.0.0.0 img-us.stripcdn.com
+0.0.0.0 lite-iframe.stripcdn.com
+0.0.0.0 live-eu1.stripcdn.com
+0.0.0.0 live-eu2.stripcdn.com
+0.0.0.0 live-eu3.stripcdn.com
+0.0.0.0 live-eu4.stripcdn.com
+0.0.0.0 live-us1.stripcdn.com
+0.0.0.0 live-us2.stripcdn.com
+0.0.0.0 live-us3.stripcdn.com
+0.0.0.0 ns1.stripcdn.com
+0.0.0.0 ns2.stripcdn.com
+0.0.0.0 ns3.stripcdn.com
+0.0.0.0 ns4.stripcdn.com
+0.0.0.0 p-eu4.stripcdn.com
+0.0.0.0 p-us1.stripcdn.com
+0.0.0.0 p0.stripcdn.com
+0.0.0.0 p1.stripcdn.com
+0.0.0.0 private-video.stripcdn.com
+0.0.0.0 public-video.stripcdn.com
+0.0.0.0 s-eu4.stripcdn.com
+0.0.0.0 s-eu8.stripcdn.com
+0.0.0.0 s-us6.stripcdn.com
+0.0.0.0 s-us7.stripcdn.com
+0.0.0.0 s-us8.stripcdn.com
+0.0.0.0 sp.stripcdn.com
+0.0.0.0 st.stripcdn.com
+0.0.0.0 video-thumbs.stripcdn.com
+0.0.0.0 wh.stripcdn.com
 0.0.0.0 surveygizmo.com
 0.0.0.0 apihelp.surveygizmo.com
 0.0.0.0 app.surveygizmo.com
@@ -3004,6 +3095,27 @@
 0.0.0.0 weather.wapp.wii.com
 0.0.0.0 cdf-anon.xboxlive.com
 0.0.0.0 settings-ssl.xboxlive.com
+0.0.0.0 go.xhamsterlive.com
+0.0.0.0 xhamsterpremium.com
+0.0.0.0 gold.xhamsterpremium.com
+0.0.0.0 m.xhamsterpremium.com
+0.0.0.0 stage.xhamsterpremium.com
+0.0.0.0 admin.stage.xhamsterpremium.com
+0.0.0.0 crm-api.stage.xhamsterpremium.com
+0.0.0.0 dev.stage.xhamsterpremium.com
+0.0.0.0 doc.stage.xhamsterpremium.com
+0.0.0.0 m.stage.xhamsterpremium.com
+0.0.0.0 panel.stage.xhamsterpremium.com
+0.0.0.0 stat.stage.xhamsterpremium.com
+0.0.0.0 store.stage.xhamsterpremium.com
+0.0.0.0 studio.stage.xhamsterpremium.com
+0.0.0.0 doc.studio.stage.xhamsterpremium.com
+0.0.0.0 xhapi.stage.xhamsterpremium.com
+0.0.0.0 stagestore.xhamsterpremium.com
+0.0.0.0 stat.xhamsterpremium.com
+0.0.0.0 studio.xhamsterpremium.com
+0.0.0.0 wiki.xhamsterpremium.com
+0.0.0.0 www.xhamsterpremium.com
 0.0.0.0 spot.im
 0.0.0.0 ad-choices.spot.im
 0.0.0.0 admin.spot.im
