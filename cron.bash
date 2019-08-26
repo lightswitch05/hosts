@@ -13,6 +13,7 @@ else
     echo "Updating secondary lists"
     python3 update_hosts_file.py -l amp-hosts -u -v
     python3 update_hosts_file.py -l tracking-aggressive -u -v
+    python3 update_hosts_file.py -l facebook -u -v
 fi
 git add *extended.txt docs/lists/*extended.txt docs/index.html
 git commit -m "Automatic list update"
