@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-25T13:44:52+00:00
-# Count: 3029 domains
+# Released: 2019-08-26T12:34:20+00:00
+# Count: 3032 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1669,7 +1669,9 @@
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 salesloft.com
 0.0.0.0 scout-cdn.salesloft.com
+0.0.0.0 ciencecom.salesloftlinks.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon-streamer.saymedia.com
 0.0.0.0 ads.scanapps.com
@@ -2270,6 +2272,7 @@
 0.0.0.0 api.keen.io
 0.0.0.0 api-v3_0.us-west-2.prod.aws.keen.io
 0.0.0.0 segment.kilometer.io
+0.0.0.0 leadware.io
 0.0.0.0 logrocket.io
 0.0.0.0 log.logrocket.io
 0.0.0.0 lytics.io

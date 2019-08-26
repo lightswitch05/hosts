@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-25T13:44:52+00:00
-# Count: 53785 domains
+# Released: 2019-08-26T12:34:20+00:00
+# Count: 53843 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -28697,7 +28697,60 @@
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 www.c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
+0.0.0.0 salesloft.com
+0.0.0.0 accounts.salesloft.com
+0.0.0.0 api.salesloft.com
+0.0.0.0 app.salesloft.com
+0.0.0.0 cdn-sdr.salesloft.com
+0.0.0.0 changelog.salesloft.com
+0.0.0.0 consultants.salesloft.com
+0.0.0.0 custom-tracking.salesloft.com
+0.0.0.0 dialer-backend.salesloft.com
+0.0.0.0 downloads.salesloft.com
+0.0.0.0 eu1.salesloft.com
+0.0.0.0 events.salesloft.com
+0.0.0.0 go.salesloft.com
+0.0.0.0 www.go.salesloft.com
+0.0.0.0 integrations.salesloft.com
+0.0.0.0 leadpass.salesloft.com
+0.0.0.0 meetings.salesloft.com
+0.0.0.0 meetings-api.salesloft.com
+0.0.0.0 melody-cas.salesloft.com
+0.0.0.0 my.salesloft.com
+0.0.0.0 notifications.salesloft.com
+0.0.0.0 order.salesloft.com
+0.0.0.0 outlook-connect.salesloft.com
+0.0.0.0 partners.salesloft.com
+0.0.0.0 www.partners.salesloft.com
+0.0.0.0 projects.salesloft.com
+0.0.0.0 prospector-cdn.salesloft.com
+0.0.0.0 pypi.salesloft.com
+0.0.0.0 rainmaker.salesloft.com
+0.0.0.0 recordings.salesloft.com
+0.0.0.0 river.salesloft.com
+0.0.0.0 scout.salesloft.com
 0.0.0.0 scout-cdn.salesloft.com
+0.0.0.0 sdr.salesloft.com
+0.0.0.0 o1.delivery.sdr.salesloft.com
+0.0.0.0 sendrequests.salesloft.com
+0.0.0.0 signatures.salesloft.com
+0.0.0.0 status.salesloft.com
+0.0.0.0 stream.salesloft.com
+0.0.0.0 sudonikon.salesloft.com
+0.0.0.0 systems.salesloft.com
+0.0.0.0 university.salesloft.com
+0.0.0.0 us1.salesloft.com
+0.0.0.0 notifications.us1.salesloft.com
+0.0.0.0 scout.us1.salesloft.com
+0.0.0.0 us2.salesloft.com
+0.0.0.0 scout.us2.salesloft.com
+0.0.0.0 vip.salesloft.com
+0.0.0.0 watch.salesloft.com
+0.0.0.0 www.watch.salesloft.com
+0.0.0.0 www.salesloft.com
+0.0.0.0 www2.salesloft.com
+0.0.0.0 www3.salesloft.com
+0.0.0.0 ciencecom.salesloftlinks.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon-streamer.saymedia.com
 0.0.0.0 ads.scanapps.com
@@ -36761,6 +36814,11 @@
 0.0.0.0 web-index.keen.io
 0.0.0.0 www.keen.io
 0.0.0.0 segment.kilometer.io
+0.0.0.0 leadware.io
+0.0.0.0 go.leadware.io
+0.0.0.0 www.go.leadware.io
+0.0.0.0 m.leadware.io
+0.0.0.0 www.leadware.io
 0.0.0.0 logrocket.io
 0.0.0.0 aks-test.logrocket.io
 0.0.0.0 assets.logrocket.io
