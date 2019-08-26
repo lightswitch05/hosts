@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-08-25T00:54:09+00:00
-# Count: 3809 domains
+# Released: 2019-08-26T04:32:20+00:00
+# Count: 3846 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -13,7 +13,7 @@
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 # http://www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
@@ -30,6 +30,7 @@
 0.0.0.0 prod.compliantbfchannel.cortana.ai
 0.0.0.0 test.compliantbfchannel.cortana.ai
 0.0.0.0 compliantcd.cortana.ai
+0.0.0.0 substrate.tdf.cortanaatworkservice.cortana.ai
 0.0.0.0 cortanacoreruntimemds.cortana.ai
 0.0.0.0 cortex.shs.dev.cortana.ai
 0.0.0.0 euii.cortana.ai
@@ -44,6 +45,7 @@
 0.0.0.0 sdf.cortana.ai
 0.0.0.0 shs-dev.cortana.ai
 0.0.0.0 shs-prod.cortana.ai
+0.0.0.0 devbox.tfd.cortana.ai
 0.0.0.0 substrate.tfd.cortana.ai
 0.0.0.0 www.cortana.ai
 0.0.0.0 actionbutton.co
@@ -125,6 +127,7 @@
 0.0.0.0 callawayjapan.ugc.bazaarvoice.com
 0.0.0.0 canon.ugc.bazaarvoice.com
 0.0.0.0 carnival.ugc.bazaarvoice.com
+0.0.0.0 carsondellosa.ugc.bazaarvoice.com
 0.0.0.0 carters.ugc.bazaarvoice.com
 0.0.0.0 cdiscount.ugc.bazaarvoice.com
 0.0.0.0 cdw.ugc.bazaarvoice.com
@@ -437,7 +440,11 @@
 0.0.0.0 emailmarketing.comm100.com
 0.0.0.0 emmastyle.comm100.com
 0.0.0.0 ent.comm100.com
+0.0.0.0 ent1chatserver.comm100.com
+0.0.0.0 ent1portal.comm100.com
 0.0.0.0 ent7.comm100.com
+0.0.0.0 ent7chatserver.comm100.com
+0.0.0.0 ent7portal.comm100.com
 0.0.0.0 entchatserver.comm100.com
 0.0.0.0 entchatserver7.comm100.com
 0.0.0.0 enterprise.comm100.com
@@ -450,6 +457,7 @@
 0.0.0.0 hosted.comm100.com
 0.0.0.0 hosted3.comm100.com
 0.0.0.0 hostedmax.comm100.com
+0.0.0.0 hostedremote.comm100.com
 0.0.0.0 js.comm100.com
 0.0.0.0 king4d.comm100.com
 0.0.0.0 learning.comm100.com
@@ -471,8 +479,10 @@
 0.0.0.0 route1.comm100.com
 0.0.0.0 secure.comm100.com
 0.0.0.0 shein.comm100.com
+0.0.0.0 smbchatserver.comm100.com
 0.0.0.0 stoiximan.comm100.com
 0.0.0.0 vue.comm100.com
+0.0.0.0 vuededicated.comm100.com
 0.0.0.0 wls.comm100.com
 0.0.0.0 www.comm100.com
 0.0.0.0 www2.comm100.com
@@ -526,6 +536,7 @@
 0.0.0.0 akamai-san49.exacttarget.com
 0.0.0.0 akamai-san5.exacttarget.com
 0.0.0.0 akamai-san50.exacttarget.com
+0.0.0.0 akamai-san51.exacttarget.com
 0.0.0.0 akamai-san6.exacttarget.com
 0.0.0.0 akamai-san7.exacttarget.com
 0.0.0.0 akamai-san8.exacttarget.com
@@ -1914,6 +1925,8 @@
 0.0.0.0 testsite.janrain.com
 0.0.0.0 trust.janrain.com
 0.0.0.0 university.janrain.com
+0.0.0.0 ur-demosite.janrain.com
+0.0.0.0 ur-ingress-demosite.janrain.com
 0.0.0.0 api.us.janrain.com
 0.0.0.0 multi.dev.va.janrain.com
 0.0.0.0 bdc.prod.va.janrain.com
@@ -2218,6 +2231,7 @@
 0.0.0.0 ct8-test.maxmind.com
 0.0.0.0 ct9-test.maxmind.com
 0.0.0.0 datareview.maxmind.com
+0.0.0.0 deployments.maxmind.com
 0.0.0.0 dev.maxmind.com
 0.0.0.0 device.maxmind.com
 0.0.0.0 download.maxmind.com
@@ -2225,6 +2239,9 @@
 0.0.0.0 marketing.email.maxmind.com
 0.0.0.0 o1.email.maxmind.com
 0.0.0.0 forum.maxmind.com
+0.0.0.0 gcplab1.maxmind.com
+0.0.0.0 gcplab2.maxmind.com
+0.0.0.0 gcplab3.maxmind.com
 0.0.0.0 geoip.maxmind.com
 0.0.0.0 geoip-as-southeast.maxmind.com
 0.0.0.0 geoip-ipv4.maxmind.com
@@ -2264,6 +2281,7 @@
 0.0.0.0 support.maxmind.com
 0.0.0.0 tc.maxmind.com
 0.0.0.0 www.tc.maxmind.com
+0.0.0.0 update.maxmind.com
 0.0.0.0 updates.maxmind.com
 0.0.0.0 www.maxmind.com
 0.0.0.0 www2.maxmind.com
@@ -2478,11 +2496,15 @@
 0.0.0.0 s4020.pingdom.com
 0.0.0.0 s4031.pingdom.com
 0.0.0.0 s4032.pingdom.com
+0.0.0.0 s4036.pingdom.com
 0.0.0.0 s4037.pingdom.com
+0.0.0.0 s4039.pingdom.com
 0.0.0.0 s4041.pingdom.com
 0.0.0.0 s4044.pingdom.com
 0.0.0.0 s4047.pingdom.com
 0.0.0.0 s4051.pingdom.com
+0.0.0.0 s4052.pingdom.com
+0.0.0.0 s4058.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s411.pingdom.com
 0.0.0.0 s412.pingdom.com
@@ -2493,6 +2515,7 @@
 0.0.0.0 s425.pingdom.com
 0.0.0.0 s426.pingdom.com
 0.0.0.0 s427.pingdom.com
+0.0.0.0 s428.pingdom.com
 0.0.0.0 s429.pingdom.com
 0.0.0.0 s435.pingdom.com
 0.0.0.0 s438.pingdom.com
@@ -2597,6 +2620,7 @@
 0.0.0.0 ds2.providesupport.com
 0.0.0.0 ds3.providesupport.com
 0.0.0.0 ds4.providesupport.com
+0.0.0.0 elk.providesupport.com
 0.0.0.0 errorreport.providesupport.com
 0.0.0.0 image.providesupport.com
 0.0.0.0 jw1c1b.providesupport.com
@@ -2951,6 +2975,7 @@
 0.0.0.0 2faway.vk.com
 0.0.0.0 2fm.vk.com
 0.0.0.0 2foauth.vk.com
+0.0.0.0 2fwww.vk.com
 0.0.0.0 31.vk.com
 0.0.0.0 7ww.vk.com
 0.0.0.0 admin.vk.com
@@ -2958,6 +2983,7 @@
 0.0.0.0 www.api.vk.com
 0.0.0.0 apis.vk.com
 0.0.0.0 app.vk.com
+0.0.0.0 archieve.vk.com
 0.0.0.0 auth.vk.com
 0.0.0.0 away.vk.com
 0.0.0.0 awway.vk.com
@@ -3023,6 +3049,7 @@
 0.0.0.0 forum.vk.com
 0.0.0.0 graph.vk.com
 0.0.0.0 hb.vk.com
+0.0.0.0 https.vk.com
 0.0.0.0 im.vk.com
 0.0.0.0 indianapolis.hl3qye.im81.vk.com
 0.0.0.0 im89v4.vk.com
@@ -3049,6 +3076,7 @@
 0.0.0.0 outch.vk.com
 0.0.0.0 pi.vk.com
 0.0.0.0 porno.vk.com
+0.0.0.0 post.vk.com
 0.0.0.0 ps.vk.com
 0.0.0.0 pt.vk.com
 0.0.0.0 pu.vk.com
@@ -3060,6 +3088,7 @@
 0.0.0.0 saving.vk.com
 0.0.0.0 search.vk.com
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
+0.0.0.0 srv137-185-240-87.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
@@ -3210,6 +3239,7 @@
 0.0.0.0 www.spot.im
 0.0.0.0 coactive.io
 0.0.0.0 crucible.coactive.io
+0.0.0.0 invite.coactive.io
 0.0.0.0 links.coactive.io
 0.0.0.0 www.coactive.io
 0.0.0.0 ipinfo.io
@@ -3320,16 +3350,20 @@
 0.0.0.0 events-bms_bms.gomoxie.solutions
 0.0.0.0 events-bms_opdivo.gomoxie.solutions
 0.0.0.0 events-bms_orencia.gomoxie.solutions
+0.0.0.0 events-bms_yervoy.gomoxie.solutions
 0.0.0.0 events-boscovs.gomoxie.solutions
 0.0.0.0 events-cb.gomoxie.solutions
 0.0.0.0 events-coned.gomoxie.solutions
 0.0.0.0 events-conedtest.gomoxie.solutions
 0.0.0.0 events-ctfs.gomoxie.solutions
 0.0.0.0 events-essex.gomoxie.solutions
+0.0.0.0 events-fisgovebt.gomoxie.solutions
 0.0.0.0 events-flowers.gomoxie.solutions
 0.0.0.0 events-hawkincentives.gomoxie.solutions
+0.0.0.0 events-icat.gomoxie.solutions
 0.0.0.0 events-jjillecp.gomoxie.solutions
 0.0.0.0 events-lifetimefitness.gomoxie.solutions
+0.0.0.0 events-mercury.gomoxie.solutions
 0.0.0.0 events-michaelkors.gomoxie.solutions
 0.0.0.0 events-michaelkorsca.gomoxie.solutions
 0.0.0.0 events-michaelkorsde.gomoxie.solutions
@@ -3403,6 +3437,7 @@
 0.0.0.0 log-essex.gomoxie.solutions
 0.0.0.0 log-flowers.gomoxie.solutions
 0.0.0.0 log-hawkincentives.gomoxie.solutions
+0.0.0.0 log-icat.gomoxie.solutions
 0.0.0.0 log-jjillecp.gomoxie.solutions
 0.0.0.0 log-lifetimefitness.gomoxie.solutions
 0.0.0.0 log-mercer.gomoxie.solutions
@@ -3414,6 +3449,7 @@
 0.0.0.0 log-michaelkorsfr.gomoxie.solutions
 0.0.0.0 log-michaelkorsit.gomoxie.solutions
 0.0.0.0 log-michaelkorsuk.gomoxie.solutions
+0.0.0.0 log-mig.gomoxie.solutions
 0.0.0.0 log-norton.gomoxie.solutions
 0.0.0.0 log-nortontest.gomoxie.solutions
 0.0.0.0 log-nutrisystem.gomoxie.solutions
@@ -3567,6 +3603,7 @@
 0.0.0.0 mintsim.ada.support
 0.0.0.0 moneysupermarket.ada.support
 0.0.0.0 muse.ada.support
+0.0.0.0 o.ada.support
 0.0.0.0 ops.ada.support
 0.0.0.0 airflow.ops.ada.support
 0.0.0.0 alertmanager.ops.ada.support
