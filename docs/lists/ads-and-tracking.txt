@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-26T14:54:13+00:00
-# Count: 3040 domains
+# Released: 2019-08-26T15:18:22+00:00
+# Count: 3041 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1691,6 +1691,7 @@
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 segment.com
 0.0.0.0 mobile-service.segment.com
+0.0.0.0 sponsor.segmentfault.com
 0.0.0.0 sekindo.com
 0.0.0.0 hb.sekindo.com
 0.0.0.0 selectablemedia.com
