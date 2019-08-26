@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-26T19:49:10+00:00
-# Count: 53881 domains
+# Released: 2019-08-26T21:19:22+00:00
+# Count: 53899 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -19900,6 +19900,21 @@
 0.0.0.0 app.intuit.launchdarkly.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 events.intuit.launchdarkly.com
+0.0.0.0 leadfeeder.com
+0.0.0.0 api.leadfeeder.com
+0.0.0.0 app.leadfeeder.com
+0.0.0.0 buy.leadfeeder.com
+0.0.0.0 downloads.leadfeeder.com
+0.0.0.0 get.leadfeeder.com
+0.0.0.0 www.get.leadfeeder.com
+0.0.0.0 integrations.leadfeeder.com
+0.0.0.0 lftracker.leadfeeder.com
+0.0.0.0 logos.leadfeeder.com
+0.0.0.0 maintenance.leadfeeder.com
+0.0.0.0 marketing.leadfeeder.com
+0.0.0.0 static.leadfeeder.com
+0.0.0.0 ww2.leadfeeder.com
+0.0.0.0 www.leadfeeder.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 pixel.leadnationmedia.com
 0.0.0.0 www.pixel.leadnationmedia.com
@@ -33437,6 +33452,7 @@
 0.0.0.0 www.tools.valassisdigital.com
 0.0.0.0 www.valassisdigital.com
 0.0.0.0 adserver.valuemd.com
+0.0.0.0 analytics.vcdevhub.com
 0.0.0.0 veeplay.com
 0.0.0.0 cdn.veeplay.com
 0.0.0.0 panel.veeplay.com
@@ -45029,6 +45045,7 @@
 0.0.0.0 js.hsadpixel.net
 0.0.0.0 hsadspixel.net
 0.0.0.0 js.hsadspixel.net
+0.0.0.0 hscta.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
 0.0.0.0 hsleadflows.net
@@ -51856,6 +51873,7 @@
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 www.adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 matomo.saotn.org
 0.0.0.0 shoppingsurveys.org
 0.0.0.0 the.shoppingsurveys.org
 0.0.0.0 us.shoppingsurveys.org

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-26T19:49:09+00:00
-# Count: 3041 domains
+# Released: 2019-08-26T21:19:22+00:00
+# Count: 3046 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1114,6 +1114,8 @@
 0.0.0.0 app.intuit.launchdarkly.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 events.intuit.launchdarkly.com
+0.0.0.0 leadfeeder.com
+0.0.0.0 lftracker.leadfeeder.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 leadsbridge.com
 0.0.0.0 gapi.learnwithhomer.com
@@ -1979,6 +1981,7 @@
 0.0.0.0 vacaneedasap.com
 0.0.0.0 valassisdigital.com
 0.0.0.0 adserver.valuemd.com
+0.0.0.0 analytics.vcdevhub.com
 0.0.0.0 veeplay.com
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 www.venatusmedia.com
@@ -2652,6 +2655,7 @@
 0.0.0.0 js.hsadpixel.net
 0.0.0.0 hsadspixel.net
 0.0.0.0 js.hsadspixel.net
+0.0.0.0 hscta.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
 0.0.0.0 hsleadflows.net
@@ -2929,6 +2933,7 @@
 0.0.0.0 www.privacy-center.org
 0.0.0.0 adserver.radiomediagroup.org
 0.0.0.0 metrics.robinhood.org
+0.0.0.0 matomo.saotn.org
 0.0.0.0 shoppingsurveys.org
 0.0.0.0 www.shoppingsurveys.org
 0.0.0.0 metrics.stjude.org
