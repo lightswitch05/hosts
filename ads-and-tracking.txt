@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-26T13:10:05+00:00
-# Count: 3037 domains
+# Released: 2019-08-26T14:51:23+00:00
+# Count: 3041 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -421,6 +421,7 @@
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 csp-collector.appspot.com
+0.0.0.0 deviceatlasdc.appspot.com
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sl-native-android-hm-logging.appspot.com
@@ -728,6 +729,8 @@
 0.0.0.0 cdnstatic.detik.com
 0.0.0.0 newrevive.detik.com
 0.0.0.0 block-test.developerdan.com
+0.0.0.0 deviceatlas.com
+0.0.0.0 cs-cdn.deviceatlas.com
 0.0.0.0 metrics.dickssportinggoods.com
 0.0.0.0 smetrics.dickssportinggoods.com
 0.0.0.0 tag.dickssportinggoods.com
@@ -1933,6 +1936,7 @@
 0.0.0.0 p.tvpixel.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 ubembed.com
 0.0.0.0 uciservice.com
 0.0.0.0 www.uciservice.com
 0.0.0.0 ugdturner.com

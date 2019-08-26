@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-26T13:10:05+00:00
-# Count: 53857 domains
+# Released: 2019-08-26T14:51:24+00:00
+# Count: 53879 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -7365,6 +7365,8 @@
 0.0.0.0 www.bdg-analytics.appspot.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 www.csp-collector.appspot.com
+0.0.0.0 deviceatlasdc.appspot.com
+0.0.0.0 www.deviceatlasdc.appspot.com
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 www.ima3vpaid.appspot.com
 0.0.0.0 sc-analytics.appspot.com
@@ -13562,6 +13564,18 @@
 0.0.0.0 newrevive.detik.com
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 www.block-test.developerdan.com
+0.0.0.0 deviceatlas.com
+0.0.0.0 assets.deviceatlas.com
+0.0.0.0 cs-cdn.deviceatlas.com
+0.0.0.0 detect.deviceatlas.com
+0.0.0.0 discover.deviceatlas.com
+0.0.0.0 www.discover.deviceatlas.com
+0.0.0.0 lb.deviceatlas.com
+0.0.0.0 local.deviceatlas.com
+0.0.0.0 team-tools.deviceatlas.com
+0.0.0.0 uat.deviceatlas.com
+0.0.0.0 www.deviceatlas.com
+0.0.0.0 www2.deviceatlas.com
 0.0.0.0 metrics.dickssportinggoods.com
 0.0.0.0 smetrics.dickssportinggoods.com
 0.0.0.0 tag.dickssportinggoods.com
@@ -32864,6 +32878,14 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn-eb.syndication.twitter.com
+0.0.0.0 ubembed.com
+0.0.0.0 assets.ubembed.com
+0.0.0.0 events.ubembed.com
+0.0.0.0 events-integration.ubembed.com
+0.0.0.0 js.ubembed.com
+0.0.0.0 js-integration.ubembed.com
+0.0.0.0 pages.ubembed.com
+0.0.0.0 pages-integration.ubembed.com
 0.0.0.0 uciservice.com
 0.0.0.0 www.uciservice.com
 0.0.0.0 ugdturner.com

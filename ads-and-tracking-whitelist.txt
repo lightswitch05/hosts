@@ -233,4 +233,7 @@
 # 1059362.collect.igodigital.com
 # ^\d***REMOVED***5,***REMOVED***\.collect\.igodigital\.com$
 
+# fd66de0d8cf9401b8d366fa887ee3ac0.js.ubembed.com
+^(www\.)?\S***REMOVED***32***REMOVED***\.\S+\.ubembed\.com$
+
 
