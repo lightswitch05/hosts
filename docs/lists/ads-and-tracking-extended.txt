@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-26T12:53:47+00:00
-# Count: 53850 domains
+# Released: 2019-08-26T13:10:05+00:00
+# Count: 53857 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -52233,6 +52233,13 @@
 0.0.0.0 hb-analytics.amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 www.amp.services
+0.0.0.0 heatmap.services
+0.0.0.0 dev.heatmap.services
+0.0.0.0 www.dev.heatmap.services
+0.0.0.0 perf.heatmap.services
+0.0.0.0 uat.heatmap.services
+0.0.0.0 www.uat.heatmap.services
+0.0.0.0 www.heatmap.services
 0.0.0.0 newadvancetypeliteflash.services
 0.0.0.0 www2.newadvancetypeliteflash.services
 0.0.0.0 smallbestappleliteflash.services
