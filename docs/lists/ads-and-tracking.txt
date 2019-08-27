@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-26T21:19:22+00:00
-# Count: 3046 domains
+# Released: 2019-08-27T12:41:01+00:00
+# Count: 3051 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -315,6 +315,7 @@
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
@@ -544,6 +545,8 @@
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 brsrvr.com
 0.0.0.0 cdns.brsrvr.com
+0.0.0.0 btserve.com
+0.0.0.0 www.btserve.com
 0.0.0.0 btstatic.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 bttrack.com
@@ -976,6 +979,7 @@
 0.0.0.0 www.hotfreebees.com
 0.0.0.0 hotjar.com
 0.0.0.0 script.hotjar.com
+0.0.0.0 static.hotjar.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 htlbid.com
 0.0.0.0 eventtracking.hubapi.com
@@ -2133,6 +2137,7 @@
 0.0.0.0 p.yotpo.com
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 w2.yotpo.com
+0.0.0.0 urs.zdnet.com
 0.0.0.0 zemanta.com
 0.0.0.0 wprp.zemanta.com
 0.0.0.0 analytics.zg-api.com
