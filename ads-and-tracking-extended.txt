@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-27T13:27:24+00:00
-# Count: 54081 domains
+# Released: 2019-08-28T12:46:03+00:00
+# Count: 54084 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -28472,6 +28472,9 @@
 0.0.0.0 www.rocketadv.com
 0.0.0.0 rocketadx.com
 0.0.0.0 www.rocketadx.com
+0.0.0.0 telemetry.ros.rockstargames.com
+0.0.0.0 dev.telemetry.ros.rockstargames.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 ads.roku.com
 0.0.0.0 i.ads.roku.com
 0.0.0.0 p.ads.roku.com
