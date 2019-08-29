@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-29T12:41:45+00:00
-# Count: 3076 domains
+# Released: 2019-08-29T12:56:13+00:00
+# Count: 3079 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -372,6 +372,7 @@
 0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 t.ambra.com
+0.0.0.0 mms.amc.com
 0.0.0.0 acquisition-1.americanexpress.com
 0.0.0.0 iwmap.americanexpress.com
 0.0.0.0 onexp.americanexpress.com
@@ -2155,6 +2156,8 @@
 0.0.0.0 p.yotpo.com
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 w2.yotpo.com
+0.0.0.0 youbora.com
+0.0.0.0 smartplugin.youbora.com
 0.0.0.0 urs.zdnet.com
 0.0.0.0 zemanta.com
 0.0.0.0 wprp.zemanta.com
