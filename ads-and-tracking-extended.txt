@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-08-29T02:02:50+00:00
-# Count: 54246 domains
+# Released: 2019-08-29T02:29:56+00:00
+# Count: 54332 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -289,6 +289,45 @@
 0.0.0.0 vid9495.d41.co
 0.0.0.0 vid9501.d41.co
 0.0.0.0 vid9901.d41.co
+0.0.0.0 feathr.co
+0.0.0.0 ad.feathr.co
+0.0.0.0 ads.feathr.co
+0.0.0.0 alertmanager.feathr.co
+0.0.0.0 api.feathr.co
+0.0.0.0 www.api.feathr.co
+0.0.0.0 app.feathr.co
+0.0.0.0 bbk8s.feathr.co
+0.0.0.0 bbpy3.feathr.co
+0.0.0.0 blackbox.feathr.co
+0.0.0.0 blackbox-aws-creds.feathr.co
+0.0.0.0 blackbox-billy.feathr.co
+0.0.0.0 blackbox-gunicorn-eventlet-workers.feathr.co
+0.0.0.0 blackbox-production.feathr.co
+0.0.0.0 blackbox-stripe-cards.feathr.co
+0.0.0.0 blackbox-stripe-intacct.feathr.co
+0.0.0.0 blackbox-v1.feathr.co
+0.0.0.0 cdn.feathr.co
+0.0.0.0 conversation.feathr.co
+0.0.0.0 em-link.feathr.co
+0.0.0.0 field-guide.feathr.co
+0.0.0.0 flapbook.feathr.co
+0.0.0.0 grafana.feathr.co
+0.0.0.0 info.feathr.co
+0.0.0.0 ingress.feathr.co
+0.0.0.0 l.feathr.co
+0.0.0.0 l-v1.feathr.co
+0.0.0.0 marco.feathr.co
+0.0.0.0 partner-dashboard.feathr.co
+0.0.0.0 polo.feathr.co
+0.0.0.0 www.polo.feathr.co
+0.0.0.0 polo-v0.feathr.co
+0.0.0.0 polo-v1.feathr.co
+0.0.0.0 www.polo-v1.feathr.co
+0.0.0.0 prometheus.feathr.co
+0.0.0.0 sentry.feathr.co
+0.0.0.0 stream.feathr.co
+0.0.0.0 training.feathr.co
+0.0.0.0 www.feathr.co
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 www.api.intellimize.co
@@ -13106,6 +13145,51 @@
 0.0.0.0 events.crazyclickstats.com
 0.0.0.0 hits.crazyclickstats.com
 0.0.0.0 www.crazyclickstats.com
+0.0.0.0 crazyegg.com
+0.0.0.0 0324e0417d82cc25d.crazyegg.com
+0.0.0.0 05063a2410732b6e2.crazyegg.com
+0.0.0.0 1www.crazyegg.com
+0.0.0.0 2fwww.crazyegg.com
+0.0.0.0 2www.crazyegg.com
+0.0.0.0 app.crazyegg.com
+0.0.0.0 app11.crazyegg.com
+0.0.0.0 artifacts.crazyegg.com
+0.0.0.0 cfduid.crazyegg.com
+0.0.0.0 changelog.crazyegg.com
+0.0.0.0 dev.crazyegg.com
+0.0.0.0 email-analytics.crazyegg.com
+0.0.0.0 ftrk.crazyegg.com
+0.0.0.0 h.crazyegg.com
+0.0.0.0 links.crazyegg.com
+0.0.0.0 node9.crazyegg.com
+0.0.0.0 origin.crazyegg.com
+0.0.0.0 promotable.crazyegg.com
+0.0.0.0 r.crazyegg.com
+0.0.0.0 recording.crazyegg.com
+0.0.0.0 rp-f5ddba66.crazyegg.com
+0.0.0.0 sample.crazyegg.com
+0.0.0.0 www.sample.crazyegg.com
+0.0.0.0 sample-api-v2.crazyegg.com
+0.0.0.0 script.crazyegg.com
+0.0.0.0 www.script.crazyegg.com
+0.0.0.0 scripts.crazyegg.com
+0.0.0.0 scritp.crazyegg.com
+0.0.0.0 staging.crazyegg.com
+0.0.0.0 editor.staging.crazyegg.com
+0.0.0.0 player.staging.crazyegg.com
+0.0.0.0 vcr.staging.crazyegg.com
+0.0.0.0 staging2.crazyegg.com
+0.0.0.0 editor.staging2.crazyegg.com
+0.0.0.0 player.staging2.crazyegg.com
+0.0.0.0 shopify.staging2.crazyegg.com
+0.0.0.0 vcr.staging2.crazyegg.com
+0.0.0.0 stg.crazyegg.com
+0.0.0.0 supernova.crazyegg.com
+0.0.0.0 tracker.crazyegg.com
+0.0.0.0 user-event-tracker.crazyegg.com
+0.0.0.0 v2.crazyegg.com
+0.0.0.0 www.crazyegg.com
+0.0.0.0 youso.crazyegg.com
 0.0.0.0 insights.creativeallies.com
 0.0.0.0 creativecdn.com
 0.0.0.0 00.creativecdn.com
@@ -16998,6 +17082,8 @@
 0.0.0.0 hwww.googletagmanager.com
 0.0.0.0 u002fwww.googletagmanager.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 granify.com
 0.0.0.0 app.granify.com
 0.0.0.0 stage.app.granify.com

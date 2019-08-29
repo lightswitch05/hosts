@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-29T02:02:50+00:00
-# Count: 3072 domains
+# Released: 2019-08-29T02:29:56+00:00
+# Count: 3077 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -66,6 +66,8 @@
 0.0.0.0 trk.clinch.co
 0.0.0.0 d41.co
 0.0.0.0 cdn-0.d41.co
+0.0.0.0 feathr.co
+0.0.0.0 cdn.feathr.co
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 ipfind.co
@@ -683,6 +685,8 @@
 0.0.0.0 metrics.crateandbarrel.com
 0.0.0.0 crazyclickstats.com
 0.0.0.0 events.crazyclickstats.com
+0.0.0.0 crazyegg.com
+0.0.0.0 script.crazyegg.com
 0.0.0.0 insights.creativeallies.com
 0.0.0.0 creativecdn.com
 0.0.0.0 pubs2-asia.creativecdn.com
@@ -937,6 +941,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagservices.com
 0.0.0.0 granify.com
 0.0.0.0 cdn.granify.com
 0.0.0.0 metric.gstatic.com
