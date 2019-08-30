@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-08-30T13:49:05+00:00
-# Count: 3082 domains
+# Released: 2019-08-30T17:11:52+00:00
+# Count: 3084 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1440,6 +1440,8 @@
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
+0.0.0.0 omniconvert.com
+0.0.0.0 cdn.omniconvert.com
 0.0.0.0 omnitagjs.com
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 hb-api.omnitagjs.com
