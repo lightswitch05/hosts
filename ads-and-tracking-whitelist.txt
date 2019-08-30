@@ -173,7 +173,9 @@
 ^api-\S+\.b2c.com$
 
 # Looks like these might be random 699-uli-976.mktoresp.com
-^\d***REMOVED***3***REMOVED***-[a-z]***REMOVED***3***REMOVED***-\d***REMOVED***3***REMOVED***\.mktoresp.com$
+# ^\d***REMOVED***3***REMOVED***-[a-z]***REMOVED***3***REMOVED***-\d***REMOVED***3***REMOVED***\.mktoresp.com$
+# Looks like these are not random after all: https://aws.amazon.com/rds/mysql
+
 
 # Perhaps chat specific 93489-39.chat.api.drift.com
 # also 1050938-38.live.api.drift.com
