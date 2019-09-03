@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-03T14:11:25+00:00
-# Count: 55053 domains
+# Released: 2019-09-03T20:35:55+00:00
+# Count: 55112 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6630,6 +6630,18 @@
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
 0.0.0.0 applicationinsights.us-east-1.amazonaws.com
 0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
+0.0.0.0 pinpoint.us-east-1.amazonaws.com
+0.0.0.0 e2rs-beta.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 e2rs-gamma.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 e2rs-prod.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 pas-beta.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 pas-gamma.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 send-beta.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 send-gamma.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 send-prod.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 sms-voice.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 prod.sms-voice.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 internal.prod.sms-voice.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 jhhimagesharing.ambra.com
 0.0.0.0 t.ambra.com
@@ -34790,6 +34802,42 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb-config.vntsm.com
 0.0.0.0 littlestpetshop.vntsm.com
+0.0.0.0 voicefive.com
+0.0.0.0 ar.voicefive.com
+0.0.0.0 arsvideo.voicefive.com
+0.0.0.0 arsweb.voicefive.com
+0.0.0.0 b.voicefive.com
+0.0.0.0 b-stage.voicefive.com
+0.0.0.0 bsl-sf.voicefive.com
+0.0.0.0 csurvey.voicefive.com
+0.0.0.0 ar.ia1.voicefive.com
+0.0.0.0 ar.ia2.voicefive.com
+0.0.0.0 ar.ia3.voicefive.com
+0.0.0.0 ar.ia4.voicefive.com
+0.0.0.0 ar.ia5.voicefive.com
+0.0.0.0 ar.ia6.voicefive.com
+0.0.0.0 ar.ia7.voicefive.com
+0.0.0.0 ar.ia8.voicefive.com
+0.0.0.0 ar.ia9.voicefive.com
+0.0.0.0 ar.iaa.voicefive.com
+0.0.0.0 mobile.voicefive.com
+0.0.0.0 www.mobile.voicefive.com
+0.0.0.0 ar.ri1.voicefive.com
+0.0.0.0 ar.ri2.voicefive.com
+0.0.0.0 ar.ri3.voicefive.com
+0.0.0.0 ar.ri4.voicefive.com
+0.0.0.0 ar.ri5.voicefive.com
+0.0.0.0 ar.ri6.voicefive.com
+0.0.0.0 ar.ri7.voicefive.com
+0.0.0.0 ar.ri8.voicefive.com
+0.0.0.0 ar.ri9.voicefive.com
+0.0.0.0 s.voicefive.com
+0.0.0.0 www.s.voicefive.com
+0.0.0.0 sb.voicefive.com
+0.0.0.0 seb.voicefive.com
+0.0.0.0 survey.voicefive.com
+0.0.0.0 survey2.voicefive.com
+0.0.0.0 www.voicefive.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 vsassets.com
@@ -35917,6 +35965,17 @@
 0.0.0.0 widgets.zemanta.com
 0.0.0.0 wprp.zemanta.com
 0.0.0.0 www.zemanta.com
+0.0.0.0 zergnet.com
+0.0.0.0 img.zergnet.com
+0.0.0.0 img1.zergnet.com
+0.0.0.0 img2.zergnet.com
+0.0.0.0 img3.zergnet.com
+0.0.0.0 img4.zergnet.com
+0.0.0.0 img5.zergnet.com
+0.0.0.0 ox-d.zergnet.com
+0.0.0.0 simg.zergnet.com
+0.0.0.0 static.zergnet.com
+0.0.0.0 www.zergnet.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 e.zg-api.com
 0.0.0.0 keystone.zillow.com

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-03T14:11:25+00:00
-# Count: 3085 domains
+# Released: 2019-09-03T20:35:54+00:00
+# Count: 3093 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -320,8 +320,11 @@
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 aan.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
@@ -373,6 +376,7 @@
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
 0.0.0.0 applicationinsights.us-east-1.amazonaws.com
 0.0.0.0 comms-telemetry-service.us-east-1.amazonaws.com
+0.0.0.0 pinpoint.us-east-1.amazonaws.com
 0.0.0.0 ambra.com
 0.0.0.0 t.ambra.com
 0.0.0.0 mms.amc.com
@@ -2064,6 +2068,8 @@
 0.0.0.0 core.vntsm.com
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hb-config.vntsm.com
+0.0.0.0 voicefive.com
+0.0.0.0 sb.voicefive.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 adsdk.vrvm.com
 0.0.0.0 vsassets.com
@@ -2167,6 +2173,8 @@
 0.0.0.0 urs.zdnet.com
 0.0.0.0 zemanta.com
 0.0.0.0 wprp.zemanta.com
+0.0.0.0 zergnet.com
+0.0.0.0 www.zergnet.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 e.zg-api.com
 0.0.0.0 keystone.zillow.com
