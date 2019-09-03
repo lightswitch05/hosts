@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-08-25T00:54:09+00:00
-# Count: 143 domains
+# Released: 2019-09-03T12:41:28+00:00
+# Count: 145 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -13,7 +13,7 @@
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
-# 
+#
 # http://www.apache.org/licenses/LICENSE-2.0
 #
 # Unless required by applicable law or agreed to in writing, software
@@ -87,6 +87,8 @@
 0.0.0.0 providesupport.com
 0.0.0.0 image.providesupport.com
 0.0.0.0 retinax.com
+0.0.0.0 telemetry.ros.rockstargames.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 peoplerecommendations.skype.com
 0.0.0.0 geoip.solarleadfactory.com

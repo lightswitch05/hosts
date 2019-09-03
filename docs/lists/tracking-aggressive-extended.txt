@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-08-26T04:32:20+00:00
-# Count: 3846 domains
+# Released: 2019-09-03T12:41:28+00:00
+# Count: 3849 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -2685,6 +2685,9 @@
 0.0.0.0 m.retinax.com
 0.0.0.0 webmail.retinax.com
 0.0.0.0 www.retinax.com
+0.0.0.0 telemetry.ros.rockstargames.com
+0.0.0.0 dev.telemetry.ros.rockstargames.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 consumer.entitlement.skype.com
 0.0.0.0 calling.consumer.entitlement.skype.com
 0.0.0.0 campaign.consumer.entitlement.skype.com
