@@ -13,27 +13,6 @@
 ^shop\.convertkit\.com$
 ^www\.convertkit\.com$
 
-# sentry.io non-tracking domains per https://github.com/StevenBlack/hosts/commit/521777278a3a496c94dda6d363695714fce2f247#r30820805
-^cal.a.sentry\.io
-^drive\.a\.sentry\.io$
-^groups\.a\.sentry\.io$
-^mail\.a\.sentry\.io$
-^sites\.a\.sentry\.io$
-^app\.sentry\.io$
-^blog\.sentry\.io$
-^community\.sentry\.io$
-^www\.community\.sentry\.io$
-^docs\.sentry\.io$
-^forge\.sentry\.io$
-^forum\.sentry\.io$
-^help\.sentry\.io$
-^learn\.sentry\.io$
-^live\.sentry\.io$
-^release\-registry\.services\.sentry\.io$
-^start\.sentry\.io$
-^status\.sentry\.io$
-^www\.sentry\.io$
-
 # click subdomains for exacttarget.com
 ^click\.\S*exacttarget\.com$
 ^\S+\.login\.exacttarget\.com$
@@ -60,9 +39,6 @@
 
 # parsely daily configs like srv-2018-11-13-12.config.parsely.com
 ^srv-\d***REMOVED***4***REMOVED***-\d***REMOVED***2***REMOVED***-\d***REMOVED***2***REMOVED***\S*\.parsely.com$
-
-# https://github.com/StevenBlack/hosts/issues/709
-^assets\.adobedtm\.com$
 
 # any domain with a UUID like fb195559-9e15-4d98-ac46-fd628c25a557.us.u.fastly-insights.com
 ^\S*\w***REMOVED***8***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***12***REMOVED***\.\S*$
@@ -190,13 +166,6 @@
 
 # random looking awstrack 192c6sfx.r.eu-west-1.awstrack.me
 \S*\w***REMOVED***7,8***REMOVED***\.r\.\S*awstrack\.me$
-
-# grapeshot hosts incorrectly blocked
-# https://github.com/StevenBlack/hosts/pull/876
-#
-# Whitelist admin tools and root
-^(www\.)?grapeshot\.co\.uk$
-^admin(-\S+)?\.grapeshot.co.uk$
 
 # random looking imrworldwide domains: buuwjhqubudzehjy9ox2pfyvnnwgj1549378515.nuid.imrworldwide.com
 ^\S***REMOVED***39,***REMOVED***\.\S+id\.imrworldwide\.com$
