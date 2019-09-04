@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-03T20:35:54+00:00
-# Count: 3093 domains
+# Released: 2019-09-04T13:40:25+00:00
+# Count: 3100 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -161,6 +161,9 @@
 0.0.0.0 adenabler.com
 0.0.0.0 metrics.adidas.com
 0.0.0.0 adserver.adigitalrepublic.com
+0.0.0.0 adition.com
+0.0.0.0 adfarm1.adition.com
+0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 adjust.com
 0.0.0.0 app.adjust.com
 0.0.0.0 s2s.adjust.com
@@ -850,6 +853,7 @@
 0.0.0.0 fanbread.com
 0.0.0.0 services.fandom.com
 0.0.0.0 fastly-insights.com
+0.0.0.0 www.fastly-insights.com
 0.0.0.0 smetrics.fedex.com
 0.0.0.0 fgl.com
 0.0.0.0 enhance-config.fgl.com
@@ -1778,6 +1782,8 @@
 0.0.0.0 api.promotions.skype.com
 0.0.0.0 slickstream.com
 0.0.0.0 backend.slickstream.com
+0.0.0.0 smartadserver.com
+0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
 0.0.0.0 snapads.com
@@ -2960,6 +2966,7 @@
 0.0.0.0 mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 c.sharethis.mgr.consensu.org
+0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 smetrics.consumerreports.org
 0.0.0.0 ads.filezilla-project.org
