@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-04T14:48:08+00:00
-# Count: 3099 domains
+# Released: 2019-09-04T15:20:59+00:00
+# Count: 3106 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -230,6 +230,8 @@
 0.0.0.0 assets.adsttc.com
 0.0.0.0 nrd.adsttc.com
 0.0.0.0 adswizz.com
+0.0.0.0 cdn.adswizz.com
+0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 c.adsymptotic.com
 0.0.0.0 pinterest.adsymptotic.com
@@ -409,6 +411,8 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 appboy.com
 0.0.0.0 shared.iad.appboy.com
+0.0.0.0 appboycdn.com
+0.0.0.0 js.appboycdn.com
 0.0.0.0 appdynamics.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 books-analytics-events.apple.com
@@ -1801,6 +1805,7 @@
 0.0.0.0 sonobi.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 speedcurve.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 adtag.sphdigital.com
@@ -2378,6 +2383,8 @@
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 gatag.it
 0.0.0.0 heatmap.it
+0.0.0.0 nakanohito.jp
+0.0.0.0 uh.nakanohito.jp
 0.0.0.0 carambo.la
 0.0.0.0 pixel.carambo.la
 0.0.0.0 route.carambo.la
