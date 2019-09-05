@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-04T15:20:59+00:00
-# Count: 3106 domains
+# Released: 2019-09-05T18:56:30+00:00
+# Count: 3114 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -624,6 +624,10 @@
 0.0.0.0 chartboost.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 v5.chartboost.com
+0.0.0.0 chatid.com
+0.0.0.0 iframe.chatid.com
+0.0.0.0 ls.chatid.com
+0.0.0.0 chatidcdn.com
 0.0.0.0 chicoryapp.com
 0.0.0.0 www.chicoryapp.com
 0.0.0.0 c.cintnetworks.com
@@ -711,6 +715,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 dis.criteo.com
+0.0.0.0 gum.criteo.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 starling.crowdriff.com
 0.0.0.0 crsspxl.com
@@ -1040,6 +1045,8 @@
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 includemodal.com
 0.0.0.0 cdn.includemodal.com
+0.0.0.0 indexww.com
+0.0.0.0 js-sec.indexww.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
@@ -2300,6 +2307,7 @@
 0.0.0.0 ipa.elev.io
 0.0.0.0 apm.us-west1.gcp.cloud.es.io
 0.0.0.0 3ddd1ee09cc242c4b169d36f5a2b8b77.apm.us-west1.gcp.cloud.es.io
+0.0.0.0 ethn.io
 0.0.0.0 extole.io
 0.0.0.0 origin.extole.io
 0.0.0.0 origin-2.extole.io

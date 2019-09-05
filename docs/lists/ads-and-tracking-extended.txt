@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-05T13:12:03+00:00
-# Count: 56200 domains
+# Released: 2019-09-05T18:56:30+00:00
+# Count: 56244 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -11749,6 +11749,30 @@
 0.0.0.0 v5.chartboost.com
 0.0.0.0 webdisk.chartboost.com
 0.0.0.0 www.chartboost.com
+0.0.0.0 chatid.com
+0.0.0.0 api.chatid.com
+0.0.0.0 chat.api.chatid.com
+0.0.0.0 dev-ls.api.chatid.com
+0.0.0.0 directory-qa.api.chatid.com
+0.0.0.0 directory-us.api.chatid.com
+0.0.0.0 prod-chat.api.chatid.com
+0.0.0.0 rest.api.chatid.com
+0.0.0.0 stage-ls.api.chatid.com
+0.0.0.0 directory.chatid.com
+0.0.0.0 disco.chatid.com
+0.0.0.0 iframe.chatid.com
+0.0.0.0 iframe-stage.chatid.com
+0.0.0.0 internal.chatid.com
+0.0.0.0 internal-analytics.chatid.com
+0.0.0.0 ls.chatid.com
+0.0.0.0 ls1x.chatid.com
+0.0.0.0 mb.chatid.com
+0.0.0.0 tableau.chatid.com
+0.0.0.0 automat.test.chatid.com
+0.0.0.0 gisp-demo.test.chatid.com
+0.0.0.0 wheatley.chatid.com
+0.0.0.0 www.chatid.com
+0.0.0.0 chatidcdn.com
 0.0.0.0 chicoryapp.com
 0.0.0.0 jupyter.chicoryapp.com
 0.0.0.0 myrecipes.chicoryapp.com
@@ -18306,6 +18330,17 @@
 0.0.0.0 cdn.includemodal.com
 0.0.0.0 cdn2.includemodal.com
 0.0.0.0 cdn3.includemodal.com
+0.0.0.0 indexww.com
+0.0.0.0 ht.indexww.com
+0.0.0.0 js.indexww.com
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 am2.lb.indexww.com
+0.0.0.0 ebay-us-west.lb.indexww.com
+0.0.0.0 fr1-dsr.lb.indexww.com
+0.0.0.0 va3.lb.indexww.com
+0.0.0.0 post.update.indexww.com
+0.0.0.0 s.update.indexww.com
+0.0.0.0 t.update.indexww.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 accounts.inlocomedia.com
@@ -37910,6 +37945,15 @@
 0.0.0.0 ipa.elev.io
 0.0.0.0 apm.us-west1.gcp.cloud.es.io
 0.0.0.0 3ddd1ee09cc242c4b169d36f5a2b8b77.apm.us-west1.gcp.cloud.es.io
+0.0.0.0 ethn.io
+0.0.0.0 dev.ethn.io
+0.0.0.0 new.ethn.io
+0.0.0.0 observer.ethn.io
+0.0.0.0 observer-dev.ethn.io
+0.0.0.0 email.pool.ethn.io
+0.0.0.0 rewards.ethn.io
+0.0.0.0 updates.ethn.io
+0.0.0.0 www.ethn.io
 0.0.0.0 extole.io
 0.0.0.0 1.extole.io
 0.0.0.0 1800contacts.extole.io
