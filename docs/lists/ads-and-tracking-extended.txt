@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-05T20:36:16+00:00
-# Count: 56327 domains
+# Released: 2019-09-06T12:37:43+00:00
+# Count: 56403 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -15082,6 +15082,35 @@
 0.0.0.0 www.ecorebates.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 elfsight.com
+0.0.0.0 a.elfsight.com
+0.0.0.0 www.a.elfsight.com
+0.0.0.0 analytics.elfsight.com
+0.0.0.0 apps.elfsight.com
+0.0.0.0 email.apps.elfsight.com
+0.0.0.0 www.apps.elfsight.com
+0.0.0.0 code.elfsight.com
+0.0.0.0 eapps-analytics.elfsight.com
+0.0.0.0 files.elfsight.com
+0.0.0.0 fstorage.elfsight.com
+0.0.0.0 gmstorage.elfsight.com
+0.0.0.0 stage.mail.elfsight.com
+0.0.0.0 pstorage.elfsight.com
+0.0.0.0 reviews.elfsight.com
+0.0.0.0 reviews.service.elfsight.com
+0.0.0.0 services.elfsight.com
+0.0.0.0 shopify.elfsight.com
+0.0.0.0 shoppable.elfsight.com
+0.0.0.0 shy.elfsight.com
+0.0.0.0 storage.elfsight.com
+0.0.0.0 stage.storage.elfsight.com
+0.0.0.0 tstorage.elfsight.com
+0.0.0.0 weebly.elfsight.com
+0.0.0.0 wishlist.elfsight.com
+0.0.0.0 wix.elfsight.com
+0.0.0.0 wix-test-site.elfsight.com
+0.0.0.0 www.wix-test-site.elfsight.com
+0.0.0.0 www.elfsight.com
 0.0.0.0 eloqua.com
 0.0.0.0 access.eloqua.com
 0.0.0.0 www.access.eloqua.com
@@ -17778,6 +17807,14 @@
 0.0.0.0 adserver.allinviews.com.herokudns.com
 0.0.0.0 adserver.beeviewd.com.herokudns.com
 0.0.0.0 api.wootric.com.herokudns.com
+0.0.0.0 ctb.hextom.com
+0.0.0.0 ecb.hextom.com
+0.0.0.0 fsb.hextom.com
+0.0.0.0 lsc.hextom.com
+0.0.0.0 mcc.hextom.com
+0.0.0.0 qab.hextom.com
+0.0.0.0 spm.hextom.com
+0.0.0.0 usb.hextom.com
 0.0.0.0 heyzap.com
 0.0.0.0 ams2.100tb.heyzap.com
 0.0.0.0 ams3.100tb.heyzap.com
@@ -23985,6 +24022,10 @@
 0.0.0.0 tw.np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
 0.0.0.0 feed-player-service.prod.ndnops.com
+0.0.0.0 neatab.com
+0.0.0.0 calc.neatab.com
+0.0.0.0 staging.neatab.com
+0.0.0.0 www.neatab.com
 0.0.0.0 needcashmoneyinstantly.com
 0.0.0.0 www.needcashmoneyinstantly.com
 0.0.0.0 adserver.netcollins.com
@@ -23993,6 +24034,7 @@
 0.0.0.0 assets.customerio.netdna-cdn.com
 0.0.0.0 airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
 0.0.0.0 scout.salesloft.netdna-cdn.com
+0.0.0.0 incartupsell-oihcsf0gzy.netdna-ssl.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.geo.netflix.com
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
@@ -30809,6 +30851,39 @@
 0.0.0.0 web.shopkick.com
 0.0.0.0 www.shopkick.com
 0.0.0.0 stats.api.si.com
+0.0.0.0 signifyd.com
+0.0.0.0 api.signifyd.com
+0.0.0.0 www.api.signifyd.com
+0.0.0.0 apigw.signifyd.com
+0.0.0.0 app.signifyd.com
+0.0.0.0 assets.signifyd.com
+0.0.0.0 branch.signifyd.com
+0.0.0.0 www.branch.signifyd.com
+0.0.0.0 bt.signifyd.com
+0.0.0.0 cdn.signifyd.com
+0.0.0.0 cdn-console.signifyd.com
+0.0.0.0 cdn-scripts.signifyd.com
+0.0.0.0 cdn2.signifyd.com
+0.0.0.0 connect.signifyd.com
+0.0.0.0 dev.signifyd.com
+0.0.0.0 www.dev.signifyd.com
+0.0.0.0 go.signifyd.com
+0.0.0.0 imgs.signifyd.com
+0.0.0.0 www.imgs.signifyd.com
+0.0.0.0 info.signifyd.com
+0.0.0.0 sales.signifyd.com
+0.0.0.0 staging.signifyd.com
+0.0.0.0 api.staging.signifyd.com
+0.0.0.0 app.staging.signifyd.com
+0.0.0.0 www.staging.signifyd.com
+0.0.0.0 status.signifyd.com
+0.0.0.0 tableau.signifyd.com
+0.0.0.0 temp.signifyd.com
+0.0.0.0 api.test.signifyd.com
+0.0.0.0 app.test.signifyd.com
+0.0.0.0 magento-experimental.test.signifyd.com
+0.0.0.0 whatsnew.signifyd.com
+0.0.0.0 www.signifyd.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 www.adsdk.siliconorchard.com
@@ -54009,6 +54084,7 @@
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www.lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
+0.0.0.0 app.backinstock.org
 0.0.0.0 bibblio.org
 0.0.0.0 amp.bibblio.org
 0.0.0.0 api.bibblio.org

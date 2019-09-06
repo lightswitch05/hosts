@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-05T20:36:16+00:00
-# Count: 3117 domains
+# Released: 2019-09-06T12:37:43+00:00
+# Count: 3132 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -807,6 +807,8 @@
 0.0.0.0 static.ecorebates.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 elfsight.com
+0.0.0.0 shy.elfsight.com
 0.0.0.0 eloqua.com
 0.0.0.0 p01.t.eloqua.com
 0.0.0.0 s1516.t.eloqua.com
@@ -997,6 +999,14 @@
 0.0.0.0 adserver.allinviews.com.herokudns.com
 0.0.0.0 adserver.beeviewd.com.herokudns.com
 0.0.0.0 api.wootric.com.herokudns.com
+0.0.0.0 ctb.hextom.com
+0.0.0.0 ecb.hextom.com
+0.0.0.0 fsb.hextom.com
+0.0.0.0 lsc.hextom.com
+0.0.0.0 mcc.hextom.com
+0.0.0.0 qab.hextom.com
+0.0.0.0 spm.hextom.com
+0.0.0.0 usb.hextom.com
 0.0.0.0 heyzap.com
 0.0.0.0 x.heyzap.com
 0.0.0.0 hfc195b.com
@@ -1425,6 +1435,7 @@
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
 0.0.0.0 feed-player-service.prod.ndnops.com
+0.0.0.0 neatab.com
 0.0.0.0 needcashmoneyinstantly.com
 0.0.0.0 adserver.netcollins.com
 0.0.0.0 optmnstr.awesomemotive.netdna-cdn.com
@@ -1432,6 +1443,7 @@
 0.0.0.0 assets.customerio.netdna-cdn.com
 0.0.0.0 airfind.nmv21jjpsr4e4kyh1t.netdna-cdn.com
 0.0.0.0 scout.salesloft.netdna-cdn.com
+0.0.0.0 incartupsell-oihcsf0gzy.netdna-ssl.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.geo.netflix.com
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
@@ -1776,6 +1788,8 @@
 0.0.0.0 shopkick.com
 0.0.0.0 beyond-api.shopkick.com
 0.0.0.0 stats.api.si.com
+0.0.0.0 signifyd.com
+0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 siliconorchard.com
 0.0.0.0 adsdk.siliconorchard.com
 0.0.0.0 silverpop.com
@@ -2975,6 +2989,7 @@
 0.0.0.0 use-va1.adsrvr.org
 0.0.0.0 lpweb.altervista.org
 0.0.0.0 www-cbssports-com.cdn.ampproject.org
+0.0.0.0 app.backinstock.org
 0.0.0.0 bibblio.org
 0.0.0.0 api.bibblio.org
 0.0.0.0 cdn.bibblio.org
