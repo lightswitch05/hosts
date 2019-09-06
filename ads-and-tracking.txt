@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-06T13:10:08+00:00
-# Count: 3135 domains
+# Released: 2019-09-06T15:01:11+00:00
+# Count: 3138 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -747,6 +747,7 @@
 0.0.0.0 deadlinefunnel.com
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 check.deadlinefunnel.com
+0.0.0.0 decibelinsight.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
 0.0.0.0 metrics.deloitte.com
@@ -2590,6 +2591,8 @@
 0.0.0.0 pixel.criteo.net
 0.0.0.0 www.criteo.net
 0.0.0.0 datamark.net
+0.0.0.0 decibelinsight.net
+0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 demdex.net
 0.0.0.0 aexp.demdex.net
 0.0.0.0 bestbuy.demdex.net
