@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-05T20:36:16+00:00
-# Count: 56327 domains
+# Released: 2019-09-06T01:53:22+00:00
+# Count: 56341 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17364,6 +17364,20 @@
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
 0.0.0.0 telemetry.servers.getgo.com
+0.0.0.0 gethatch.com
+0.0.0.0 aws.gethatch.com
+0.0.0.0 cdn.gethatch.com
+0.0.0.0 lyncdiscover.gethatch.com
+0.0.0.0 marketing.gethatch.com
+0.0.0.0 my.gethatch.com
+0.0.0.0 pages.gethatch.com
+0.0.0.0 papi.gethatch.com
+0.0.0.0 preprod.gethatch.com
+0.0.0.0 proxy.gethatch.com
+0.0.0.0 sip.gethatch.com
+0.0.0.0 wp.gethatch.com
+0.0.0.0 www.wp.gethatch.com
+0.0.0.0 www.gethatch.com
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 getrockerbox.com
 0.0.0.0 api.getrockerbox.com
