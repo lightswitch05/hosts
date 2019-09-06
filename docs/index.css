@@ -1,4 +1,4 @@
-body ***REMOVED***
+body {
     color: #d9d9d9;
     background-color: #212121;
     font-family: Lato, Helvetica, sans-serif;
@@ -6,32 +6,32 @@ body ***REMOVED***
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
-***REMOVED***
+}
 
-main ***REMOVED***
+main {
     margin: 0 5px 0 5px;
-***REMOVED***
+}
 
-a ***REMOVED***
+a {
     color: #3282d1;
     text-decoration: none;
-***REMOVED***
+}
 
-a:hover ***REMOVED***
+a:hover {
     color: #9CD7F7;
-***REMOVED***
+}
 
-section ***REMOVED***
+section {
     background-color: #061f2f;
     box-shadow: 0 1px 3px 0 #000;
     margin: 0 0 10px 0;
     padding: 1px 5px 1px 5px;
-***REMOVED***
+}
 
-.block-image ***REMOVED***
+.block-image {
     height: 100px;
     width: 320px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-***REMOVED***
+}

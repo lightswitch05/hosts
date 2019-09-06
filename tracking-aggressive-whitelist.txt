@@ -2,5 +2,5 @@
 
 # merge issues
 ^head$
-^[\da-zA-Z]***REMOVED***40***REMOVED***$
+^[\da-zA-Z]{40}$
 

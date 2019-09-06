@@ -68,12 +68,12 @@ def print_list_difference(list_a: HostList, list_b: HostList) -> None:
     percentage_unique_b = round((size_unique_b / len(list_b.set)) * 100, 2)
 
     print('Number of unique hosts not in the other list:')
-    print_list_fact(list_a.filename, f'***REMOVED***size_unique_a***REMOVED*** (***REMOVED***percentage_unique_a***REMOVED***%)')
-    print_list_fact(list_b.filename, f'***REMOVED***size_unique_b***REMOVED*** (***REMOVED***percentage_unique_b***REMOVED***%)')
+    print_list_fact(list_a.filename, f'{size_unique_a} ({percentage_unique_a}%)')
+    print_list_fact(list_b.filename, f'{size_unique_b} ({percentage_unique_b}%)')
 
 
 def print_list_fact(list_name, fact) -> None:
-    print('***REMOVED***:<30***REMOVED******REMOVED***:<30***REMOVED***'.format(list_name, fact))
+    print('{:<30}{:<30}'.format(list_name, fact))
 
 
 if __name__ == "__main__":

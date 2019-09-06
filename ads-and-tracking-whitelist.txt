@@ -2,7 +2,7 @@
 
 # merge issues
 ^head$
-^[\da-zA-Z]***REMOVED***40***REMOVED***$
+^[\da-zA-Z]{40}$
 
 # convertkit.com roots and non-tracking domains per issue #23
 ^convertkit\.com$
@@ -24,33 +24,33 @@
 ^vendorlist\.consensu\.org$
 
 # Assorted Junk found in autodiscovery
-(\S*\.com\S*|\S*\.cloud\S*)***REMOVED***4,***REMOVED***
-(\.ns\d\d)***REMOVED***6,***REMOVED***\S*lfstmedia\.com$
+(\S*\.com\S*|\S*\.cloud\S*){4,}
+(\.ns\d\d){6,}\S*lfstmedia\.com$
 
 # gstatic.com junk like p2-ghnopls3mhgfk-srif7zvswmajyk6c-if-v6exp3-v4.metric.gstatic.com
 # 25475662-v2c3io3objoazsmg-c2r-ds.metric.gstatic.com
-^\S*\w***REMOVED***8,13***REMOVED***-\w***REMOVED***15,16***REMOVED***\S*metric\.gstatic\.com$
+^\S*\w{8,13}-\w{15,16}\S*metric\.gstatic\.com$
 
 
 # online-metrix junk like ljcjjbch-749b6d0236c5a836f1aa1fb1642fc000eafda630-am1.d.aa.online-metrix.net
 # ol0w57c49k-751efdcaeb8792dfc730fcfaac567d8ffaa938aa-am1.d.aa.online-metrix.net
-^\s*\w***REMOVED***8,10***REMOVED***-\w***REMOVED***37,40***REMOVED***\S*online-metrix\.net$
+^\s*\w{8,10}-\w{37,40}\S*online-metrix\.net$
 
 
 # parsely daily configs like srv-2018-11-13-12.config.parsely.com
-^srv-\d***REMOVED***4***REMOVED***-\d***REMOVED***2***REMOVED***-\d***REMOVED***2***REMOVED***\S*\.parsely.com$
+^srv-\d{4}-\d{2}-\d{2}\S*\.parsely.com$
 
 # any domain with a UUID like fb195559-9e15-4d98-ac46-fd628c25a557.us.u.fastly-insights.com
-^\S*\w***REMOVED***8***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***4***REMOVED***-\w***REMOVED***12***REMOVED***\.\S*$
+^\S*\w{8}-\w{4}-\w{4}-\w{4}-\w{12}\.\S*$
 
 # 3db86671a7efd715238810b33494f41a.nrb.footprintdns.com
-^\w***REMOVED***32***REMOVED***\S*\.footprintdns.com$
+^\w{32}\S*\.footprintdns.com$
 
 # 414fe5ead28f931cb34ab4ac5400e3fdca.ulink.adjust.com
-^\w***REMOVED***32,34***REMOVED***\S*\.adjust.com$
+^\w{32,34}\S*\.adjust.com$
 
 # 18d11390ed9d01311ca512313d08f98b.yottaa.net
-^\w***REMOVED***32***REMOVED***\S*\.yottaa.net$
+^\w{32}\S*\.yottaa.net$
 
 # dpm.demdex.net seems to be breaking sling
 ^dpm\.demdex\.net$
@@ -149,7 +149,7 @@
 ^api-\S+\.b2c.com$
 
 # Looks like these might be random 699-uli-976.mktoresp.com
-# ^\d***REMOVED***3***REMOVED***-[a-z]***REMOVED***3***REMOVED***-\d***REMOVED***3***REMOVED***\.mktoresp.com$
+# ^\d{3}-[a-z]{3}-\d{3}\.mktoresp.com$
 # Looks like these are not random after all: https://aws.amazon.com/rds/mysql
 
 
@@ -162,13 +162,13 @@
 ^s\d+\.t\.(en25|eloqua)\.com$
 
 # Whitelist random looking clickbank domains like fdcbd9l73gup3o9ri5sb4hnyc6.hop.clickbank.net
-^\S***REMOVED***26***REMOVED***.hop.clickbank.net$
+^\S{26}.hop.clickbank.net$
 
 # random looking awstrack 192c6sfx.r.eu-west-1.awstrack.me
-\S*\w***REMOVED***7,8***REMOVED***\.r\.\S*awstrack\.me$
+\S*\w{7,8}\.r\.\S*awstrack\.me$
 
 # random looking imrworldwide domains: buuwjhqubudzehjy9ox2pfyvnnwgj1549378515.nuid.imrworldwide.com
-^\S***REMOVED***39,***REMOVED***\.\S+id\.imrworldwide\.com$
+^\S{39,}\.\S+id\.imrworldwide\.com$
 
 # any subdomain of t1.r since its mostly random can can be anything
 ^.*\.t1\.re$
@@ -183,31 +183,31 @@
 ^(\S+-)?images\.spot\.im$
 
 # fa635c4a71764433a3c7c4fd8b0affd0-07c0aec6173f.cdn5.forter.com
-^\S***REMOVED***45***REMOVED***\.cdn\d*\.forter\.com
+^\S{45}\.cdn\d*\.forter\.com
 
 # ows-bo-app04-06.boldchat.com
 ^\S+-\d\d\.boldchat\.com
 
 # 5aabc021199544001546d309.tracker.adotmob.com
-^\S***REMOVED***24***REMOVED***\.tracker\.adotmob\.com$
+^\S{24}\.tracker\.adotmob\.com$
 
 # 970aa1c49a6d2536125ee6cb9202dda7.api.appsee.com
-^\S***REMOVED***32***REMOVED***\.api\.appsee\.com$
+^\S{32}\.api\.appsee\.com$
 
 # 537ecfa500821d720b000005.api.5rocks.io
-^\S***REMOVED***24***REMOVED***\.api\.5rocks\.io$
+^\S{24}\.api\.5rocks\.io$
 
 # 20818029p.rfihub.com
-^\d***REMOVED***8***REMOVED***p\.rfihub\.com$
+^\d{8}p\.rfihub\.com$
 
 # I'm not sure these are random anymore after looking at pizzahut.com
 # 1059362.collect.igodigital.com
-# ^\d***REMOVED***5,***REMOVED***\.collect\.igodigital\.com$
+# ^\d{5,}\.collect\.igodigital\.com$
 
 # fd66de0d8cf9401b8d366fa887ee3ac0.js.ubembed.com
-^(www\.)?\S***REMOVED***32***REMOVED***\.\S+\.ubembed\.com$
+^(www\.)?\S{32}\.\S+\.ubembed\.com$
 
 # rp-0ef43a2c3691cdcd0.crazyegg.com
-^rp-\S***REMOVED***17***REMOVED***\.crazyegg\.com$
+^rp-\S{17}\.crazyegg\.com$
 
 

@@ -11,7 +11,7 @@ import shutil
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
-ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]***REMOVED******REMOVED***\|\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
+ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]{}\|\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
 HTML_FILE = 'docs/index.html'
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
@@ -131,10 +131,10 @@ def write_domain_list(file_name: str, domains: Set[str]):
 
 def update_website_count(file_name: str, count: int):
     span_id = file_name.split('.')[0] + '-count'
-    span_pattern = re.compile(f'<span id="***REMOVED***span_id***REMOVED***">\\d*</span>', flags=re.MULTILINE)
+    span_pattern = re.compile(f'<span id="{span_id}">\\d*</span>', flags=re.MULTILINE)
     with open(HTML_FILE, 'r') as file:
         file_contents = file.read()
-    file_contents = re.sub(span_pattern, f'<span id="***REMOVED***span_id***REMOVED***">***REMOVED***count***REMOVED***</span>',  file_contents)
+    file_contents = re.sub(span_pattern, f'<span id="{span_id}">{count}</span>',  file_contents)
     with open(HTML_FILE, 'w') as file:
         file.write(file_contents)
 
@@ -147,7 +147,7 @@ def is_valid_domain(domain: str) -> bool:
     return all(ALLOWED_DOMAIN_PATTERN.match(x) and not EXCLUDE_DOMAIN_PATTERN.match(x) for x in domain.split("."))
 
 
-def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = ***REMOVED******REMOVED***):
+def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
     filtered = set(domains)
     for domain in domains:
         for pattern in whitelist:
@@ -166,8 +166,8 @@ def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = ***REMOVED****
 
 
 def find_subdomains(domain: str, verbose: bool = False) -> Set[str]:
-    found_domains = ***REMOVED***domain***REMOVED***  # include query as a found domain
-    url = 'https://crt.sh/?q=%.***REMOVED***d***REMOVED***&output=json'.format(d=domain)
+    found_domains = {domain}  # include query as a found domain
+    url = 'https://crt.sh/?q=%.{d}&output=json'.format(d=domain)
     response = safe_api_call(url)
     for key, value in enumerate(response):
         if 'name_value' in value:
@@ -183,13 +183,13 @@ def find_subdomains(domain: str, verbose: bool = False) -> Set[str]:
 
 
 def virustotal_find_subdomain(domain: str, api_key: str, verbose: bool = False) -> Set[str]:
-    found_domains = ***REMOVED***domain***REMOVED***  # include query as a found domain
+    found_domains = {domain}  # include query as a found domain
     url = 'https://www.virustotal.com/vtapi/v2/domain/report'.format(k=api_key, d=domain)
 
-    response = safe_api_call(url, params=***REMOVED***
+    response = safe_api_call(url, params={
         'apikey': api_key,
         'domain': domain
-    ***REMOVED***)
+    })
     if 'subdomains' in response and response['subdomains']:
         for domain in response['subdomains']:
             found_domain = domain.lower().strip()
@@ -202,12 +202,12 @@ def virustotal_find_subdomain(domain: str, api_key: str, verbose: bool = False) 
     return found_domains
 
 
-def safe_api_call(url: str, params: dict = ***REMOVED******REMOVED***) -> dict:
+def safe_api_call(url: str, params: dict = {}) -> dict:
     try:
-        req = requests.get(url, params=params, headers=***REMOVED***
+        req = requests.get(url, params=params, headers={
             'Content-Type': 'application/json',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0'
-        ***REMOVED***)
+        })
         if req.status_code != 200:
             print('Error received from %s: %s' % url, req.text)
         else:
@@ -217,4 +217,4 @@ def safe_api_call(url: str, params: dict = ***REMOVED******REMOVED***) -> dict:
                 print('Unknown response from %s: %s' % url, req.text)
     except Exception:
         print('Unable to connect to %s' % url)
-    return ***REMOVED******REMOVED***
+    return {}

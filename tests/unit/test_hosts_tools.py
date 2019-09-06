@@ -10,13 +10,13 @@ class TestHostTools(object):
 
     TEST_FILE_NAME = 'test-write-domain-list.txt'
     TEST_WHITELIST_FILE_NAME = 'test-write-domain-list-whitelist.txt'
-    TEST_DOMAINS = ***REMOVED***'a.com', 'b.a.com', 'b.com', 'a.b.com'***REMOVED***
-    TEST_WHITELIST = ***REMOVED***
+    TEST_DOMAINS = {'a.com', 'b.a.com', 'b.com', 'a.b.com'}
+    TEST_WHITELIST = {
         re.compile('^b\\.b\\.com$', re.IGNORECASE),
         re.compile('^z\\.com$', re.IGNORECASE)
-    ***REMOVED***
-    CRT_RESPONSE = [***REMOVED***'name_value': '*.example.com'***REMOVED***, ***REMOVED***'name_value': 'www.example.com'***REMOVED***]
-    VIRUS_TOTAL_RESPONSE = ***REMOVED***'subdomains': ['www.example.com']***REMOVED***
+    }
+    CRT_RESPONSE = [{'name_value': '*.example.com'}, {'name_value': 'www.example.com'}]
+    VIRUS_TOTAL_RESPONSE = {'subdomains': ['www.example.com']}
 
     def setup_class(self):
         with open(self.TEST_WHITELIST_FILE_NAME, 'w') as file:
@@ -141,35 +141,35 @@ class TestHostTools(object):
     def test_reduce_domains(self):
         reduced = hosts_tools.reduce_domains(self.TEST_DOMAINS)
         assert reduced
-        assert not ***REMOVED***'a.com', 'b.com'***REMOVED***.difference(reduced)
+        assert not {'a.com', 'b.com'}.difference(reduced)
 
     def test_domain_is_whitelisted(self):
-        domains = ***REMOVED***
+        domains = {
             'b.com',
             'b.b.com',
             'ad.example.com'
-        ***REMOVED***
+        }
         filtered = hosts_tools.filter_whitelist(domains, self.TEST_WHITELIST)
-        assert filtered == ***REMOVED***'b.com', 'ad.example.com'***REMOVED***
+        assert filtered == {'b.com', 'ad.example.com'}
 
     def test_duplicated_domain_is_whitelisted(self):
-        domains = ***REMOVED***
+        domains = {
             'example.com',
             'ad.example.comad.example.com',
             'ad.example.com'
-        ***REMOVED***
+        }
         filtered = hosts_tools.filter_whitelist(domains, set())
-        assert filtered == ***REMOVED***'example.com', 'ad.example.com'***REMOVED***
+        assert filtered == {'example.com', 'ad.example.com'}
 
     def test_find_subdomains(self):
         hosts_tools.safe_api_call = MagicMock(return_value=self.CRT_RESPONSE)
         found = hosts_tools.find_subdomains('example.com', True)
-        assert found == ***REMOVED***'example.com', 'www.example.com'***REMOVED***
+        assert found == {'example.com', 'www.example.com'}
 
     def test_find_subdomains_virustotal(self):
         hosts_tools.safe_api_call = MagicMock(return_value=self.VIRUS_TOTAL_RESPONSE)
         found = hosts_tools.virustotal_find_subdomain('example.com', '', True)
-        assert found == ***REMOVED***'example.com', 'www.example.com'***REMOVED***
+        assert found == {'example.com', 'www.example.com'}
 
     def teardown_class(self):
         if os.path.isfile(self.TEST_FILE_NAME):
