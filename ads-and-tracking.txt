@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-06T19:44:40+00:00
-# Count: 3140 domains
+# Released: 2019-09-09T13:04:31+00:00
+# Count: 3172 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -46,6 +46,8 @@
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 flyertown.ca
+0.0.0.0 smedia.ca
+0.0.0.0 tm.smedia.ca
 0.0.0.0 www.honcode.ch
 0.0.0.0 firstfetchflash.club
 0.0.0.0 hoho.club
@@ -930,6 +932,10 @@
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 hb.gammaplatform.com
+0.0.0.0 apgb2b-reachcodeandproxy.gannettdigital.com
+0.0.0.0 pong.gannettdigital.com
+0.0.0.0 pong.production.gannettdigital.com
+0.0.0.0 pong2.production.gannettdigital.com
 0.0.0.0 geniusonclick.com
 0.0.0.0 log.getadblock.com
 0.0.0.0 ping.getadblock.com
@@ -969,6 +975,8 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 googletagmanager.com
@@ -1195,6 +1203,7 @@
 0.0.0.0 livesegmentservice.com
 0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 cdn.lmiutil.com
+0.0.0.0 localiq.com
 0.0.0.0 localytics.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 loggly.com
@@ -1651,6 +1660,11 @@
 0.0.0.0 metrics.ranklocal.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 reachlocal.com
+0.0.0.0 www.reachlocal.com
+0.0.0.0 reachlocallivechat.com
+0.0.0.0 www.reachlocallivechat.com
+0.0.0.0 capture-api.reachlocalservices.com
 0.0.0.0 realclever.com
 0.0.0.0 pixel.realclever.com
 0.0.0.0 pixel2.realclever.com
@@ -1684,6 +1698,9 @@
 0.0.0.0 rlcdn.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 so.rlcdn.com
+0.0.0.0 rlets.com
+0.0.0.0 cdn.rlets.com
+0.0.0.0 fault.rlets.com
 0.0.0.0 rmbutterfly.com
 0.0.0.0 analytics.robinhood.com
 0.0.0.0 crumbs.robinhood.com
@@ -1728,6 +1745,9 @@
 0.0.0.0 videoads-cloud.rovio.com
 0.0.0.0 rpxnow.com
 0.0.0.0 widget-cdn.rpxnow.com
+0.0.0.0 rtrk.com
+0.0.0.0 rcod.rtrk.com
+0.0.0.0 rtsys.rtrk.com
 0.0.0.0 metrics.rubiconglobal.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
@@ -1950,6 +1970,8 @@
 0.0.0.0 metrics.thepointsguy.com
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
+0.0.0.0 eu.thinkingchat.com
+0.0.0.0 reachlocal.thinkingchat.com
 0.0.0.0 thirdpresence.com
 0.0.0.0 a.thirdpresence.com
 0.0.0.0 cdn.threadloom.com
@@ -2133,6 +2155,7 @@
 0.0.0.0 webspectator.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
+0.0.0.0 stats.westworldmedia.com
 0.0.0.0 whisk.com
 0.0.0.0 cdn.whisk.com
 0.0.0.0 whizzco.com
@@ -2243,7 +2266,12 @@
 0.0.0.0 analytics.lucidchart.eu
 0.0.0.0 tracking.wpnetwork.eu
 0.0.0.0 wpad.example
+0.0.0.0 simpli.fi
+0.0.0.0 i.simpli.fi
+0.0.0.0 tag.simpli.fi
 0.0.0.0 keepass.fr
+0.0.0.0 tradelab.fr
+0.0.0.0 cdn.tradelab.fr
 0.0.0.0 drawbrid.ge
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
@@ -2414,6 +2442,8 @@
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 gatag.it
 0.0.0.0 heatmap.it
+0.0.0.0 idrove.it
+0.0.0.0 pureinfluencer.idrove.it
 0.0.0.0 nakanohito.jp
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 carambo.la
@@ -2766,6 +2796,7 @@
 0.0.0.0 webtrendsinc.https.internapcdn.net
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 krxd.net
+0.0.0.0 beacon.krxd.net
 0.0.0.0 consumer.krxd.net
 0.0.0.0 analytics.levelaccess.net
 0.0.0.0 api.levelaccess.net
@@ -2878,6 +2909,7 @@
 0.0.0.0 h-walmart.online-metrix.net
 0.0.0.0 openx.net
 0.0.0.0 adnimation-d.openx.net
+0.0.0.0 bloggernetwork-d.openx.net
 0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 cosmicshovel-d.openx.net
 0.0.0.0 diply-d.openx.net
