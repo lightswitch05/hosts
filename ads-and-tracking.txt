@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-09T13:07:42+00:00
-# Count: 3173 domains
+# Released: 2019-09-09T16:03:49+00:00
+# Count: 3181 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -80,6 +80,8 @@
 0.0.0.0 leadpages.co
 0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 a.mailmunch.co
+0.0.0.0 orbee.co
+0.0.0.0 analytics.orbee.co
 0.0.0.0 pcrl.co
 0.0.0.0 assets.pcrl.co
 0.0.0.0 reddit.co
@@ -535,6 +537,7 @@
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 tag.brandcdn.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 braze.com
@@ -1203,6 +1206,8 @@
 0.0.0.0 cdn.listrakbi.com
 0.0.0.0 livesegmentservice.com
 0.0.0.0 sds.livesegmentservice.com
+0.0.0.0 llanalytics.com
+0.0.0.0 t1.llanalytics.com
 0.0.0.0 cdn.lmiutil.com
 0.0.0.0 localiq.com
 0.0.0.0 localytics.com
@@ -1587,6 +1592,7 @@
 0.0.0.0 playhaven.com
 0.0.0.0 media.playhaven.com
 0.0.0.0 static-uk.plista.com
+0.0.0.0 connect.podium.com
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
@@ -1682,6 +1688,8 @@
 0.0.0.0 metrics.rent.com
 0.0.0.0 res-x.com
 0.0.0.0 ris.res-x.com
+0.0.0.0 responsetap.com
+0.0.0.0 static-ssl.responsetap.com
 0.0.0.0 returnpath.com
 0.0.0.0 revcontent.com
 0.0.0.0 trends.revcontent.com

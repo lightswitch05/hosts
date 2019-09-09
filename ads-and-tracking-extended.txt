@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-09T13:07:43+00:00
-# Count: 56965 domains
+# Released: 2019-09-09T16:03:49+00:00
+# Count: 57026 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -1171,6 +1171,37 @@
 0.0.0.0 zenovia.leadpages.co
 0.0.0.0 zerototravelpublishing.leadpages.co
 0.0.0.0 a.mailmunch.co
+0.0.0.0 orbee.co
+0.0.0.0 analytics.orbee.co
+0.0.0.0 p.analytics.orbee.co
+0.0.0.0 api.orbee.co
+0.0.0.0 dev.api.orbee.co
+0.0.0.0 stag.api.orbee.co
+0.0.0.0 v1.api.orbee.co
+0.0.0.0 app.orbee.co
+0.0.0.0 c0.orbee.co
+0.0.0.0 c1.orbee.co
+0.0.0.0 c2.orbee.co
+0.0.0.0 c3.orbee.co
+0.0.0.0 c4.orbee.co
+0.0.0.0 c5.orbee.co
+0.0.0.0 c6.orbee.co
+0.0.0.0 c7.orbee.co
+0.0.0.0 c8.orbee.co
+0.0.0.0 c9.orbee.co
+0.0.0.0 embed.orbee.co
+0.0.0.0 client.embed.orbee.co
+0.0.0.0 media.orbee.co
+0.0.0.0 meta.orbee.co
+0.0.0.0 nada.orbee.co
+0.0.0.0 platform.orbee.co
+0.0.0.0 rs.orbee.co
+0.0.0.0 vt.orbee.co
+0.0.0.0 wp.orbee.co
+0.0.0.0 corporate.wp.orbee.co
+0.0.0.0 quiz.wp.orbee.co
+0.0.0.0 wt.orbee.co
+0.0.0.0 www.orbee.co
 0.0.0.0 pcrl.co
 0.0.0.0 assets.pcrl.co
 0.0.0.0 www.assets.pcrl.co
@@ -8608,6 +8639,8 @@
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 tag.brandcdn.com
+0.0.0.0 charter.tag.brandcdn.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 api.brandmetrics.com
 0.0.0.0 www.api.brandmetrics.com
@@ -21214,6 +21247,9 @@
 0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 useastmonitoring.livesegmentservice.com
 0.0.0.0 uswestmonitoring.livesegmentservice.com
+0.0.0.0 llanalytics.com
+0.0.0.0 t1.llanalytics.com
+0.0.0.0 www.llanalytics.com
 0.0.0.0 cdn.lmiutil.com
 0.0.0.0 localiq.com
 0.0.0.0 alamogordonews.localiq.com
@@ -27242,6 +27278,7 @@
 0.0.0.0 vip-north.playhaven.com
 0.0.0.0 www.playhaven.com
 0.0.0.0 static-uk.plista.com
+0.0.0.0 connect.podium.com
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
@@ -29842,6 +29879,30 @@
 0.0.0.0 rpt1.res-x.com
 0.0.0.0 vs.res-x.com
 0.0.0.0 www.res-x.com
+0.0.0.0 responsetap.com
+0.0.0.0 call-intelligence.responsetap.com
+0.0.0.0 www.call-intelligence.responsetap.com
+0.0.0.0 call-tracking.responsetap.com
+0.0.0.0 www.call-tracking.responsetap.com
+0.0.0.0 connect.responsetap.com
+0.0.0.0 dev-sso.responsetap.com
+0.0.0.0 hello.responsetap.com
+0.0.0.0 mail2.responsetap.com
+0.0.0.0 marketing.responsetap.com
+0.0.0.0 www.marketing.responsetap.com
+0.0.0.0 metrics.responsetap.com
+0.0.0.0 pwdreset.responsetap.com
+0.0.0.0 sixsteps.responsetap.com
+0.0.0.0 www.sixsteps.responsetap.com
+0.0.0.0 sso.responsetap.com
+0.0.0.0 www.sso.responsetap.com
+0.0.0.0 static.responsetap.com
+0.0.0.0 static-cdn.responsetap.com
+0.0.0.0 static-ssl.responsetap.com
+0.0.0.0 web-dev.responsetap.com
+0.0.0.0 web-staging.responsetap.com
+0.0.0.0 www.responsetap.com
+0.0.0.0 www2.responsetap.com
 0.0.0.0 returnpath.com
 0.0.0.0 api.returnpath.com
 0.0.0.0 apistatus.returnpath.com
