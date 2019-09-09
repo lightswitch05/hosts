@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-09T16:03:49+00:00
-# Count: 3181 domains
+# Released: 2019-09-09T17:42:04+00:00
+# Count: 3231 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -28,14 +28,20 @@
 0.0.0.0 media.ascend.ai
 0.0.0.0 participant.ascend.ai
 0.0.0.0 proxy.ascend.ai
+0.0.0.0 media-lab.ai
+0.0.0.0 apps.media-lab.ai
 0.0.0.0 native.ai
 0.0.0.0 cdn.native.ai
 0.0.0.0 nova.ai
+0.0.0.0 valo.ai
+0.0.0.0 pixel.valo.ai
 0.0.0.0 m1.torrenti.al
 0.0.0.0 tru.am
 0.0.0.0 beacon.tru.am
 0.0.0.0 com.tenjin.ios.api
 0.0.0.0 metrics.hsbc.com.au
+0.0.0.0 geoedge.be
+0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 api.freshaddress.biz
 0.0.0.0 ns-cdn.neustar.biz
 0.0.0.0 wpm.neustar.biz
@@ -164,6 +170,9 @@
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 adenabler.com
+0.0.0.0 adentifi.com
+0.0.0.0 bm.adentifi.com
+0.0.0.0 rtb.adentifi.com
 0.0.0.0 metrics.adidas.com
 0.0.0.0 adserver.adigitalrepublic.com
 0.0.0.0 adition.com
@@ -179,6 +188,8 @@
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 admantx.com
 0.0.0.0 usasync01.admantx.com
+0.0.0.0 admarvel.com
+0.0.0.0 omax.admarvel.com
 0.0.0.0 admedia.com
 0.0.0.0 admedo.com
 0.0.0.0 pj.l.admedo.com
@@ -222,6 +233,8 @@
 0.0.0.0 ads1-adnow.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 adsafeprotected.com
+0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 vastpixel2.adsafeprotected.com
 0.0.0.0 video.adsafeprotected.com
 0.0.0.0 adsorb.com
@@ -242,6 +255,8 @@
 0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
+0.0.0.0 adtheorent.com
+0.0.0.0 platform.adtheorent.com
 0.0.0.0 adthrive.com
 0.0.0.0 logger.adthrive.com
 0.0.0.0 marmalade.adthrive.com
@@ -251,10 +266,14 @@
 0.0.0.0 adtouchlabs.com
 0.0.0.0 adtz.com
 0.0.0.0 adserver.adtz.com
+0.0.0.0 advenuedsp.com
+0.0.0.0 ns5.advenuedsp.com
 0.0.0.0 advertisercommunity.com
 0.0.0.0 www.en.advertisercommunity.com
 0.0.0.0 advertising.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 secure.leadback.advertising.com
+0.0.0.0 pixel.advertising.com
 0.0.0.0 sp.advertising.com
 0.0.0.0 tag.sp.advertising.com
 0.0.0.0 advertisingbox.com
@@ -527,6 +546,8 @@
 0.0.0.0 bat.bing-int.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 bizible.com
+0.0.0.0 bkrtx.com
+0.0.0.0 tags.bkrtx.com
 0.0.0.0 blismedia.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 img1.blogblog.com
@@ -750,6 +771,7 @@
 0.0.0.0 logger-08.vty.dailymotion.com
 0.0.0.0 logger-09.vty.dailymotion.com
 0.0.0.0 logger-10.vty.dailymotion.com
+0.0.0.0 datametrical.com
 0.0.0.0 metrics.daveandbusters.com
 0.0.0.0 deadlinefunnel.com
 0.0.0.0 a.deadlinefunnel.com
@@ -776,6 +798,7 @@
 0.0.0.0 tag.dickssportinggoods.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 seal.digicert.com
+0.0.0.0 ads.sfo2.cdn.digitaloceanspaces.com
 0.0.0.0 digitalremedy.com
 0.0.0.0 socialapi.digitalremedy.com
 0.0.0.0 www.digitalremedy.com
@@ -905,6 +928,7 @@
 0.0.0.0 null.cdn4.forter.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fqtag.com
+0.0.0.0 c.fqtag.com
 0.0.0.0 s.fqtag.com
 0.0.0.0 freecalculation.com
 0.0.0.0 metrics.freecreditscore.com
@@ -1411,6 +1435,8 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 z.moatads.com
+0.0.0.0 mobfox.com
+0.0.0.0 api-tracker.mobfox.com
 0.0.0.0 mobileadtrading.com
 0.0.0.0 track-west.mobileadtrading.com
 0.0.0.0 mobileapptracking.com
@@ -1452,6 +1478,11 @@
 0.0.0.0 nanorep.com
 0.0.0.0 my.nanorep.com
 0.0.0.0 analytics.narvar.com
+0.0.0.0 naturalbid.com
+0.0.0.0 tracker18.naturalbid.com
+0.0.0.0 tracker20.naturalbid.com
+0.0.0.0 tracker5.naturalbid.com
+0.0.0.0 tracker9.naturalbid.com
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
@@ -1485,7 +1516,9 @@
 0.0.0.0 newscgp.com
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 nexage.com
 0.0.0.0 ads.nexage.com
+0.0.0.0 prod-m-node-1112.nexage.com
 0.0.0.0 nqs.nice264.com
 0.0.0.0 npttech.com
 0.0.0.0 www.npttech.com
@@ -1770,6 +1803,8 @@
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 ryke4peep.com
 0.0.0.0 secure.ryke4peep.com
+0.0.0.0 sail-horizon.com
+0.0.0.0 ak.sail-horizon.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 salesloft.com
@@ -1803,6 +1838,8 @@
 0.0.0.0 pixel.servebom.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 server-corporation.com
+0.0.0.0 network.server-corporation.com
 0.0.0.0 serverbid.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 sync.serverbid.com
@@ -2162,6 +2199,8 @@
 0.0.0.0 o.webmd.com
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 webspectator.com
+0.0.0.0 webtradingspot.com
+0.0.0.0 rtb-useast.webtradingspot.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 stats.westworldmedia.com
@@ -2402,6 +2441,8 @@
 0.0.0.0 api-v3_0.us-west-2.prod.aws.keen.io
 0.0.0.0 segment.kilometer.io
 0.0.0.0 leadware.io
+0.0.0.0 liftoff.io
+0.0.0.0 impression-east.liftoff.io
 0.0.0.0 logrocket.io
 0.0.0.0 log.logrocket.io
 0.0.0.0 lytics.io
@@ -2572,6 +2613,7 @@
 0.0.0.0 lightboxapi1.azurewebsites.net
 0.0.0.0 lightboxapi2.azurewebsites.net
 0.0.0.0 lightboxapi3.azurewebsites.net
+0.0.0.0 katr.b-cdn.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 api.bandwidthx.net
 0.0.0.0 api-dfw-b.bandwidthx.net
@@ -2597,6 +2639,7 @@
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d11x7a53l5pste.cloudfront.net
 0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
@@ -2806,6 +2849,7 @@
 0.0.0.0 crbcdn.jsfiddle.net
 0.0.0.0 krxd.net
 0.0.0.0 beacon.krxd.net
+0.0.0.0 cdn.krxd.net
 0.0.0.0 consumer.krxd.net
 0.0.0.0 analytics.levelaccess.net
 0.0.0.0 api.levelaccess.net
@@ -3095,6 +3139,8 @@
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 backup.sh
+0.0.0.0 whisper.sh
+0.0.0.0 ana.whisper.sh
 0.0.0.0 adj.st
 0.0.0.0 76g3.adj.st
 0.0.0.0 7xdj.adj.st
@@ -3193,6 +3239,10 @@
 0.0.0.0 alexafriday.xyz
 0.0.0.0 alexaprime.xyz
 0.0.0.0 alexathursday.xyz
+0.0.0.0 fadb.xyz
+0.0.0.0 bid.fadb.xyz
+0.0.0.0 regularimptracker.xyz
+0.0.0.0 nn20488.regularimptracker.xyz
 0.0.0.0 theperfectupdate4everyone.xyz
 0.0.0.0 workingversion.theperfectupdate4everyone.xyz
 0.0.0.0 wedspicks.xyz
