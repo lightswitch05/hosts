@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-09T17:42:04+00:00
-# Count: 3231 domains
+# Released: 2019-09-10T12:52:40+00:00
+# Count: 3261 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -146,6 +146,7 @@
 0.0.0.0 s.ad-pixel.com
 0.0.0.0 ad-score.com
 0.0.0.0 data.ad-score.com
+0.0.0.0 js.ad-score.com
 0.0.0.0 adasiaholdings.com
 0.0.0.0 adnetwork.adasiaholdings.com
 0.0.0.0 adbiq.com
@@ -167,6 +168,7 @@
 0.0.0.0 addthis.com
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 r.dlx.addthis.com
+0.0.0.0 s7.addthis.com
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 adenabler.com
@@ -198,6 +200,7 @@
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
+0.0.0.0 b.adnxs.com
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 m.adnxs.com
@@ -266,6 +269,8 @@
 0.0.0.0 adtouchlabs.com
 0.0.0.0 adtz.com
 0.0.0.0 adserver.adtz.com
+0.0.0.0 adventurefeeds.com
+0.0.0.0 rtb.adventurefeeds.com
 0.0.0.0 advenuedsp.com
 0.0.0.0 ns5.advenuedsp.com
 0.0.0.0 advertisercommunity.com
@@ -395,6 +400,7 @@
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
 0.0.0.0 tracking-graphly-907699188.us-west-2.elb.amazonaws.com
 0.0.0.0 ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
+0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
@@ -745,6 +751,8 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 us.criteo.com
+0.0.0.0 rdi.us.criteo.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 starling.crowdriff.com
 0.0.0.0 crsspxl.com
@@ -846,6 +854,7 @@
 0.0.0.0 s1516.t.eloqua.com
 0.0.0.0 data.emb-api.com
 0.0.0.0 emxdgt.com
+0.0.0.0 cs.emxdgt.com
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbint.emxdgt.com
 0.0.0.0 en25.com
@@ -881,6 +890,7 @@
 0.0.0.0 pages.exacttarget.com
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 exelator.com
+0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 loadr.exelator.com
 0.0.0.0 dctk.expedia.com
@@ -1324,6 +1334,8 @@
 0.0.0.0 links.e2e.mint.com
 0.0.0.0 links.mint.com
 0.0.0.0 pixel.mintigo.com
+0.0.0.0 minutemediacdn.com
+0.0.0.0 images2.minutemediacdn.com
 0.0.0.0 mixedtraffic.com
 0.0.0.0 adserver.mixedtraffic.com
 0.0.0.0 mixpanel.com
@@ -1462,6 +1474,7 @@
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
 0.0.0.0 mplxtms.com
+0.0.0.0 secure-cdn.mplxtms.com
 0.0.0.0 mpnrs.com
 0.0.0.0 www1.mpnrs.com
 0.0.0.0 mxpnl.com
@@ -1479,7 +1492,10 @@
 0.0.0.0 my.nanorep.com
 0.0.0.0 analytics.narvar.com
 0.0.0.0 naturalbid.com
+0.0.0.0 tracker12.naturalbid.com
+0.0.0.0 tracker15.naturalbid.com
 0.0.0.0 tracker18.naturalbid.com
+0.0.0.0 tracker2.naturalbid.com
 0.0.0.0 tracker20.naturalbid.com
 0.0.0.0 tracker5.naturalbid.com
 0.0.0.0 tracker9.naturalbid.com
@@ -1569,6 +1585,7 @@
 0.0.0.0 oriori.com
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 widgets.outbrain.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 p2r14.com
 0.0.0.0 c.p2r14.com
@@ -1588,6 +1605,9 @@
 0.0.0.0 pathful.com
 0.0.0.0 ssl.pathful.com
 0.0.0.0 pixel.perceptlink.com
+0.0.0.0 performgroup.com
+0.0.0.0 metrics.performgroup.com
+0.0.0.0 player.performgroup.com
 0.0.0.0 permutive.com
 0.0.0.0 amp.permutive.com
 0.0.0.0 esi.amp.permutive.com
@@ -1656,8 +1676,10 @@
 0.0.0.0 main.pubexchange.com
 0.0.0.0 pv.pubexchange.com
 0.0.0.0 traffic.pubexchange.com
+0.0.0.0 pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid88000nf.pubmatic.com
+0.0.0.0 lyr.pubmatic.com
 0.0.0.0 pug44000nf.pubmatic.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 pubocean.com
@@ -1792,6 +1814,7 @@
 0.0.0.0 rtsys.rtrk.com
 0.0.0.0 metrics.rubiconglobal.com
 0.0.0.0 rubiconproject.com
+0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
@@ -1819,6 +1842,7 @@
 0.0.0.0 scarabresearch.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 connect.scroll.com
 0.0.0.0 static.scroll.com
@@ -2237,6 +2261,7 @@
 0.0.0.0 insideintercom.wpengine.com
 0.0.0.0 syndicaster.wpengine.com
 0.0.0.0 sa135.wsbtv.com
+0.0.0.0 wzrkt.com
 0.0.0.0 oascentral.xfinity.com
 0.0.0.0 sdx.xfinity.com
 0.0.0.0 xapi.xfinity.com
@@ -2307,6 +2332,8 @@
 0.0.0.0 adserver.mrnetworks.de
 0.0.0.0 adserver.telekom.de
 0.0.0.0 adserver.webstatsserver.de
+0.0.0.0 gaug.es
+0.0.0.0 secure.gaug.es
 0.0.0.0 adfly.eu
 0.0.0.0 www.adfly.eu
 0.0.0.0 braze.eu
@@ -2442,6 +2469,7 @@
 0.0.0.0 segment.kilometer.io
 0.0.0.0 leadware.io
 0.0.0.0 liftoff.io
+0.0.0.0 cdn.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 logrocket.io
 0.0.0.0 log.logrocket.io
@@ -2593,6 +2621,7 @@
 0.0.0.0 a248.e.akamai.net
 0.0.0.0 e8999.b.akamaiedge.net
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 amp.akamaized.net
 0.0.0.0 ma85-r-analytics.akamaized.net
@@ -2665,6 +2694,7 @@
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dvqigh9b7wa32.cloudfront.net
 0.0.0.0 dz1vmszs6rjp8.cloudfront.net
+0.0.0.0 us-central1-feisty-gasket-100715.cloudfunctions.net
 0.0.0.0 us-central1-narvar-data-lake.cloudfunctions.net
 0.0.0.0 connexity.net
 0.0.0.0 pxl.connexity.net
