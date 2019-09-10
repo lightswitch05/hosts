@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-10T15:40:40+00:00
-# Count: 3261 domains
+# Released: 2019-09-10T16:14:47+00:00
+# Count: 3262 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2519,6 +2519,7 @@
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 voodoo-analytics.io
 0.0.0.0 trackers.voodoo-analytics.io
+0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 gatag.it
 0.0.0.0 heatmap.it
 0.0.0.0 idrove.it
