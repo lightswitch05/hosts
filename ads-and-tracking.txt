@@ -1,7 +1,7 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-10T12:52:40+00:00
+# Released: 2019-09-10T15:40:40+00:00
 # Count: 3261 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -465,6 +465,7 @@
 0.0.0.0 appsee.com
 0.0.0.0 api.appsee.com
 0.0.0.0 appsflyer.com
+0.0.0.0 attr.appsflyer.com
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 t.appsflyer.com
@@ -3169,7 +3170,6 @@
 0.0.0.0 terminus.services
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 backup.sh
-0.0.0.0 whisper.sh
 0.0.0.0 ana.whisper.sh
 0.0.0.0 adj.st
 0.0.0.0 76g3.adj.st
