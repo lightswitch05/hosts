@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-11T13:17:17+00:00
-# Count: 3301 domains
+# Released: 2019-09-11T15:41:36+00:00
+# Count: 3322 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -277,6 +277,7 @@
 0.0.0.0 advertisercommunity.com
 0.0.0.0 www.en.advertisercommunity.com
 0.0.0.0 advertising.com
+0.0.0.0 ace.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 pixel.advertising.com
@@ -352,6 +353,8 @@
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 target.aws.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 aan.amazon-adsystem.com
@@ -2619,8 +2622,10 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 adglare.net
 0.0.0.0 kidswithfoodallergies.cdn.adglare.net
+0.0.0.0 engine.adglare.net
 0.0.0.0 kidswithfoodallergies.engine.adglare.net
 0.0.0.0 admarketplace.net
+0.0.0.0 adtag.admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 ads-srv.net
 0.0.0.0 adserver.ads-srv.net
@@ -2896,6 +2901,7 @@
 0.0.0.0 analytics.ihgip.net
 0.0.0.0 imprev.net
 0.0.0.0 idx.imprev.net
+0.0.0.0 qa-dest.imprev.net
 0.0.0.0 innity.net
 0.0.0.0 avd.innity.net
 0.0.0.0 inscname.net
@@ -2953,12 +2959,14 @@
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
 0.0.0.0 speed.nocookie.net
+0.0.0.0 ads.wikia.nocookie.net
 0.0.0.0 nr-data.net
 0.0.0.0 bam.nr-data.net
 0.0.0.0 staging-bam.nr-data.net
 0.0.0.0 nuggad.net
 0.0.0.0 southernx.nuggad.net
 0.0.0.0 omtrdc.net
+0.0.0.0 hb.omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 coxnet.hb.omtrdc.net
@@ -2969,6 +2977,7 @@
 0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
+0.0.0.0 com.sc.omtrdc.net
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 cruisecritic.d1.sc.omtrdc.net
@@ -2976,6 +2985,7 @@
 0.0.0.0 taxslayer.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 vudu.d1.sc.omtrdc.net
+0.0.0.0 d2.sc.omtrdc.net
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 ssl.d2.sc.omtrdc.net
@@ -2985,6 +2995,7 @@
 0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 vanguard.d2.sc.omtrdc.net
+0.0.0.0 d3.sc.omtrdc.net
 0.0.0.0 exchangepartnerbrightedge.sc.omtrdc.net
 0.0.0.0 hulu.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
@@ -3058,6 +3069,7 @@
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 pingdom.net
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 ads.placester.net
 0.0.0.0 pl-pubimgs.placester.net
 0.0.0.0 popads.net
 0.0.0.0 serve.popads.net
@@ -3068,6 +3080,7 @@
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
+0.0.0.0 eqv-rtb1.rfihub.net
 0.0.0.0 sc-static.net
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sellpoint.net
@@ -3140,6 +3153,8 @@
 0.0.0.0 predict.vmg.nyc
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
+0.0.0.0 ads.org
+0.0.0.0 adserver.org
 0.0.0.0 adsrvr.org
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 match.adsrvr.org
@@ -3241,6 +3256,8 @@
 0.0.0.0 bis.shoofle.tv
 0.0.0.0 serverc.shoofle.tv
 0.0.0.0 static.shoofle.tv
+0.0.0.0 spotx.tv
+0.0.0.0 js.spotx.tv
 0.0.0.0 adr.superawesome.tv
 0.0.0.0 ads.superawesome.tv
 0.0.0.0 advertiser.superawesome.tv
@@ -3289,7 +3306,9 @@
 0.0.0.0 gizmos.future-price.co.uk
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 trinitymirror.grapeshot.co.uk
+0.0.0.0 sc.independent.co.uk
 0.0.0.0 ssc.independent.co.uk
+0.0.0.0 stats.independent.co.uk
 0.0.0.0 ophan.co.uk
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 nir.regmedia.co.uk
@@ -3303,7 +3322,9 @@
 0.0.0.0 log.zoom.us
 0.0.0.0 adserve.video
 0.0.0.0 nile.works
+0.0.0.0 ext.nile.works
 0.0.0.0 loxodo-ct.ext.nile.works
+0.0.0.0 perso.nile.works
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 wpad
 0.0.0.0 alexafriday.xyz

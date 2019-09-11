@@ -4,8 +4,6 @@
 import sys
 import argparse
 import os.path
-from typing import List
-from typing import Set
 from collections import namedtuple
 from HostsTools import hosts_tools
 
@@ -18,6 +16,8 @@ def parse_args() -> sys.argv:
     parser = argparse.ArgumentParser()
     parser.add_argument('filename_a', type=str, help='First list to compare')
     parser.add_argument('filename_b', type=str, help='Second list to compare')
+    parser.add_argument('--diff', default=False, action='store_true',
+                        help='Show a full diff of the lists')
     args = parser.parse_args()
     if not (args.filename_a and args.filename_b):
         parser.print_help()
@@ -26,7 +26,7 @@ def parse_args() -> sys.argv:
     return args
 
 
-def validate_filename_args(args) -> bool:
+def validate_filename_args(args) -> None:
     if not os.path.isfile(args.filename_a):
         raise Exception('Invalid host file: ', args.filename_a)
     if not os.path.isfile(args.filename_b):
@@ -47,6 +47,9 @@ def main() -> None:
     print_list_size(list_a, list_b)
     print()
     print_list_difference(list_a, list_b)
+    if args.diff:
+        print()
+        print_list_diff(list_a, list_b)
 
 
 def print_list_size(list_a: HostList, list_b: HostList) -> None:
@@ -74,6 +77,18 @@ def print_list_difference(list_a: HostList, list_b: HostList) -> None:
 
 def print_list_fact(list_name, fact) -> None:
     print('{:<30}{:<30}'.format(list_name, fact))
+
+
+def print_list_diff(list_a: HostList, list_b: HostList) -> None:
+    full_set = list_a.set.union(list_b.set)
+    full_set_sorted = hosts_tools.sort_domains(list(full_set))
+    print('Lists Diff:')
+    print('{:<50}{:<50}'.format(list_a.filename, list_b.filename))
+    for domain in full_set_sorted:
+        list_a_value = domain if domain in list_a.set else ''
+        list_b_value = domain if domain in list_b.set else ''
+        if list_a_value != list_b_value:
+            print('{:<50}{:<50}'.format(list_a_value, list_b_value))
 
 
 if __name__ == "__main__":
