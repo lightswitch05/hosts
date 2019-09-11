@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-10T19:11:26+00:00
-# Count: 3263 domains
+# Released: 2019-09-11T02:08:31+00:00
+# Count: 3276 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1915,7 +1915,20 @@
 0.0.0.0 snapads.com
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 ad-center.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 adsapi2.snapchat.com
+0.0.0.0 adsapimus.snapchat.com
+0.0.0.0 advertising.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analyticsv2.snapchat.com
+0.0.0.0 content-insights-revenue.snapchat.com
+0.0.0.0 omnicollector.snapchat.com
+0.0.0.0 pro-insights.snapchat.com
+0.0.0.0 rtam-collector.snapchat.com
+0.0.0.0 server-analytics.snapchat.com
+0.0.0.0 story-insights.snapchat.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 socialannex.com
 0.0.0.0 cdn.socialannex.com
