@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-11T02:08:31+00:00
-# Count: 3276 domains
+# Released: 2019-09-11T02:28:04+00:00
+# Count: 3285 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1105,6 +1105,7 @@
 0.0.0.0 impresionesweb.com
 0.0.0.0 imprev.com
 0.0.0.0 imrworldwide.com
+0.0.0.0 sdk.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 includemodal.com
@@ -2342,6 +2343,8 @@
 0.0.0.0 piwik.fobos.de
 0.0.0.0 prophet.heise.de
 0.0.0.0 ioam.de
+0.0.0.0 config.ioam.de
+0.0.0.0 de.ioam.de
 0.0.0.0 script.ioam.de
 0.0.0.0 ix.de
 0.0.0.0 adserver.mrnetworks.de
@@ -2694,6 +2697,7 @@
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
+0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
@@ -3080,6 +3084,7 @@
 0.0.0.0 cc-analytics.trafficmanager.net
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
+0.0.0.0 sentinel.twitchsvc.net
 0.0.0.0 userreplay.net
 0.0.0.0 cdn.userreplay.net
 0.0.0.0 visto1.net
@@ -3204,6 +3209,7 @@
 0.0.0.0 uapi.adrise.tv
 0.0.0.0 cdn-media.brightline.tv
 0.0.0.0 services.brightline.tv
+0.0.0.0 supervisor.ext-twitch.tv
 0.0.0.0 extend.tv
 0.0.0.0 adserver-east.extend.tv
 0.0.0.0 spotx2eventsbidder-east.extend.tv
@@ -3249,6 +3255,9 @@
 0.0.0.0 syndicaster.tv
 0.0.0.0 teads.tv
 0.0.0.0 p.teads.tv
+0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 countess.twitch.tv
+0.0.0.0 spade.twitch.tv
 0.0.0.0 videohub.tv
 0.0.0.0 ads.videohub.tv
 0.0.0.0 ads-secure.videohub.tv

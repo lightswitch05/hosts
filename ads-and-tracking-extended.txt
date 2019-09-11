@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-11T02:08:31+00:00
-# Count: 58212 domains
+# Released: 2019-09-11T02:28:04+00:00
+# Count: 58219 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -44454,6 +44454,7 @@
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
+0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
@@ -55474,6 +55475,7 @@
 0.0.0.0 cc-analytics.trafficmanager.net
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
+0.0.0.0 sentinel.twitchsvc.net
 0.0.0.0 userreplay.net
 0.0.0.0 3b5b5e54.userreplay.net
 0.0.0.0 3b5b5e54-9.userreplay.net
@@ -57507,6 +57509,8 @@
 0.0.0.0 www.adrise.tv
 0.0.0.0 cdn-media.brightline.tv
 0.0.0.0 services.brightline.tv
+0.0.0.0 supervisor.ext-twitch.tv
+0.0.0.0 www.supervisor.ext-twitch.tv
 0.0.0.0 extend.tv
 0.0.0.0 adaptvbidder-east.extend.tv
 0.0.0.0 adaptvbidder-west.extend.tv
@@ -57858,6 +57862,9 @@
 0.0.0.0 www.teads.tv
 0.0.0.0 www-test.teads.tv
 0.0.0.0 ync.teads.tv
+0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 countess.twitch.tv
+0.0.0.0 spade.twitch.tv
 0.0.0.0 videohub.tv
 0.0.0.0 10.videohub.tv
 0.0.0.0 ads.videohub.tv
