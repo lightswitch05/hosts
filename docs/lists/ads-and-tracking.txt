@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-11T02:28:04+00:00
-# Count: 3285 domains
+# Released: 2019-09-11T12:51:33+00:00
+# Count: 3298 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -54,6 +54,7 @@
 0.0.0.0 flyertown.ca
 0.0.0.0 smedia.ca
 0.0.0.0 tm.smedia.ca
+0.0.0.0 adadqwq.cf
 0.0.0.0 www.honcode.ch
 0.0.0.0 firstfetchflash.club
 0.0.0.0 hoho.club
@@ -359,6 +360,7 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
@@ -655,6 +657,7 @@
 0.0.0.0 delta.celebrus.com
 0.0.0.0 insights.celebrus.com
 0.0.0.0 celeritascdn.com
+0.0.0.0 centuryautobodylv.com
 0.0.0.0 chartbeat.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 chartboost.com
@@ -743,6 +746,7 @@
 0.0.0.0 events.crazyclickstats.com
 0.0.0.0 crazyegg.com
 0.0.0.0 script.crazyegg.com
+0.0.0.0 crazywillowtree.com
 0.0.0.0 insights.creativeallies.com
 0.0.0.0 creativecdn.com
 0.0.0.0 pubs2-asia.creativecdn.com
@@ -938,6 +942,7 @@
 0.0.0.0 forter.com
 0.0.0.0 2c5de9923d36.cdn4.forter.com
 0.0.0.0 null.cdn4.forter.com
+0.0.0.0 fortressarcade.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fqtag.com
 0.0.0.0 c.fqtag.com
@@ -1214,6 +1219,7 @@
 0.0.0.0 kompasads.com
 0.0.0.0 sstats.kroger.com
 0.0.0.0 hb.kumma.com
+0.0.0.0 kursuspemrogramman.com
 0.0.0.0 static.lakana.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 app.intuit.launchdarkly.com
@@ -1321,6 +1327,8 @@
 0.0.0.0 tracker.meetleads.com
 0.0.0.0 cdn.merklesearch.com
 0.0.0.0 metaps.com
+0.0.0.0 mf-strategies.com
+0.0.0.0 www.mf-strategies.com
 0.0.0.0 micpn.com
 0.0.0.0 ciunnwhq.micpn.com
 0.0.0.0 ssl.micpn.com
@@ -1459,6 +1467,7 @@
 0.0.0.0 13146.engine.mobileapptracking.com
 0.0.0.0 191661.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
+0.0.0.0 momentumconsumermetrics.com
 0.0.0.0 monarchads.com
 0.0.0.0 ctv.monarchads.com
 0.0.0.0 tracking.sctv1.monarchads.com
@@ -1625,6 +1634,7 @@
 0.0.0.0 app.picreel.com
 0.0.0.0 staging.picreel.com
 0.0.0.0 system.picreel.com
+0.0.0.0 pinnaclecustomermetrics.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 pixlee.com
 0.0.0.0 assets.pixlee.com
@@ -1914,6 +1924,7 @@
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
 0.0.0.0 snapads.com
+0.0.0.0 adserver.snapads.com
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 ad-center.snapchat.com
@@ -2365,6 +2376,7 @@
 0.0.0.0 keepass.fr
 0.0.0.0 tradelab.fr
 0.0.0.0 cdn.tradelab.fr
+0.0.0.0 owitms.ga
 0.0.0.0 drawbrid.ge
 0.0.0.0 clean.gg
 0.0.0.0 i.clean.gg
@@ -3279,6 +3291,7 @@
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 nir.regmedia.co.uk
 0.0.0.0 search-api.fie.future.net.uk
+0.0.0.0 anonymousinsights.us
 0.0.0.0 metrics.dockerhub.us
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
