@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-11T15:41:36+00:00
-# Count: 3322 domains
+# Released: 2019-09-12T20:08:14+00:00
+# Count: 3333 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -278,6 +278,7 @@
 0.0.0.0 www.en.advertisercommunity.com
 0.0.0.0 advertising.com
 0.0.0.0 ace.advertising.com
+0.0.0.0 adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 pixel.advertising.com
@@ -563,6 +564,8 @@
 0.0.0.0 blismedia.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 img1.blogblog.com
+0.0.0.0 bluekai.com
+0.0.0.0 tags.bluekai.com
 0.0.0.0 boldchat.com
 0.0.0.0 cbi.boldchat.com
 0.0.0.0 client-events.bookbub.com
@@ -585,6 +588,7 @@
 0.0.0.0 iad-08.braze.com
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 brealtime.com
+0.0.0.0 biddr.brealtime.com
 0.0.0.0 edba.brealtime.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 www.metrics.brightcove.com
@@ -1001,6 +1005,7 @@
 0.0.0.0 cdn.getshogun.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 widgets.getsitecontrol.com
+0.0.0.0 ga.gfycat.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 socialize.us1.gigya.com
@@ -1538,6 +1543,7 @@
 0.0.0.0 newarena.netmng.com
 0.0.0.0 netseer.com
 0.0.0.0 cm.netseer.com
+0.0.0.0 cmp.network-n.com
 0.0.0.0 affiliates.networx.com
 0.0.0.0 tr.networx.com
 0.0.0.0 neweggstats.com
@@ -1696,6 +1702,7 @@
 0.0.0.0 pv.pubexchange.com
 0.0.0.0 traffic.pubexchange.com
 0.0.0.0 pubmatic.com
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid88000nf.pubmatic.com
 0.0.0.0 lyr.pubmatic.com
@@ -1854,6 +1861,7 @@
 0.0.0.0 ciencecom.salesloftlinks.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon-streamer.saymedia.com
+0.0.0.0 sbfsdvc.com
 0.0.0.0 ads.scanapps.com
 0.0.0.0 beacon.scanapps.com
 0.0.0.0 scanscout.com
@@ -1972,6 +1980,7 @@
 0.0.0.0 event.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 springserve.com
+0.0.0.0 cdn.springserve.com
 0.0.0.0 vid.springserve.com
 0.0.0.0 vid-io.springserve.com
 0.0.0.0 vpaid.springserve.com
@@ -2118,6 +2127,8 @@
 0.0.0.0 a-lb.tribalfusion.com
 0.0.0.0 truconversion.com
 0.0.0.0 app.truconversion.com
+0.0.0.0 ow.truesteamachievements.com
+0.0.0.0 adfdsaf.ow.truesteamachievements.com
 0.0.0.0 trumeasure.com
 0.0.0.0 jss.trumeasure.com
 0.0.0.0 ttflb.com
