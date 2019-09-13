@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-13T15:35:07+00:00
-# Count: 3362 domains
+# Released: 2019-09-13T19:12:32+00:00
+# Count: 3367 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -812,6 +812,7 @@
 0.0.0.0 tag.demandbase.com
 0.0.0.0 adserver.densitymedia.com
 0.0.0.0 events.deskapi.com
+0.0.0.0 sp.desmoinesregister.com
 0.0.0.0 srepdata.desmoinesregister.com
 0.0.0.0 user.desmoinesregister.com
 0.0.0.0 cdnstatic.detik.com
@@ -1119,6 +1120,7 @@
 0.0.0.0 igodigital.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 10523621.collect.igodigital.com
+0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 adserver.iminent.com
 0.0.0.0 impactradius-event.com
@@ -1752,6 +1754,8 @@
 0.0.0.0 quantummetric.com
 0.0.0.0 bbb-app.quantummetric.com
 0.0.0.0 bbb-sync.quantummetric.com
+0.0.0.0 questionmarket.com
+0.0.0.0 amch.questionmarket.com
 0.0.0.0 a.quora.com
 0.0.0.0 qwapi.com
 0.0.0.0 adsdk.qwapi.com
@@ -2990,6 +2994,7 @@
 0.0.0.0 mxptint.net
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 myvisualiq.net
+0.0.0.0 q.myvisualiq.net
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 mzbcdn.net
 0.0.0.0 cdn01.mzbcdn.net
