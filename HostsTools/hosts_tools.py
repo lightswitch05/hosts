@@ -141,7 +141,7 @@ def update_website_count(file_name: str, count: int) -> None:
 
 
 def update_website_date(file_name: str) -> None:
-    now_str = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc, microsecond=0).strftime('%B, %d %Y')
+    now_str = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc, microsecond=0).strftime('%B %d, %Y')
     span_id = file_name.split('.')[0] + '-date'
     span_pattern = re.compile(f'<span id="{span_id}">[a-zA-Z\\d,\\s]+</span>', flags=re.MULTILINE)
     with open(HTML_FILE, 'r') as file:
