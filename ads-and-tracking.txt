@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-12T20:08:14+00:00
-# Count: 3333 domains
+# Released: 2019-09-13T13:44:49+00:00
+# Count: 3360 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -42,6 +42,8 @@
 0.0.0.0 metrics.hsbc.com.au
 0.0.0.0 geoedge.be
 0.0.0.0 rumcdn.geoedge.be
+0.0.0.0 czx5eyk0exbhwp43ya.biz
+0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
 0.0.0.0 api.freshaddress.biz
 0.0.0.0 ns-cdn.neustar.biz
 0.0.0.0 wpm.neustar.biz
@@ -230,6 +232,7 @@
 0.0.0.0 adrizer.com
 0.0.0.0 run.adrizer.com
 0.0.0.0 adroll.com
+0.0.0.0 a.adroll.com
 0.0.0.0 assets1.adroll.com
 0.0.0.0 s.adroll.com
 0.0.0.0 ads-twitter.com
@@ -794,6 +797,8 @@
 0.0.0.0 logger-10.vty.dailymotion.com
 0.0.0.0 datametrical.com
 0.0.0.0 metrics.daveandbusters.com
+0.0.0.0 db-ip.com
+0.0.0.0 api-mg2.db-ip.com
 0.0.0.0 deadlinefunnel.com
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 check.deadlinefunnel.com
@@ -932,6 +937,7 @@
 0.0.0.0 cdn.firstpromoter.com
 0.0.0.0 flashtalking.com
 0.0.0.0 stat.flashtalking.com
+0.0.0.0 flittz.com
 0.0.0.0 flurry.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 proton.flurry.com
@@ -1292,6 +1298,7 @@
 0.0.0.0 marfeelrev.com
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 marinsm.com
+0.0.0.0 marketingg2.com
 0.0.0.0 marketo.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 app-ab12.marketo.com
@@ -1329,6 +1336,8 @@
 0.0.0.0 measuread.com
 0.0.0.0 b.measuread.com
 0.0.0.0 survey.medallia.com
+0.0.0.0 mediapass.com
+0.0.0.0 www.mediapass.com
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
@@ -1340,6 +1349,8 @@
 0.0.0.0 metaps.com
 0.0.0.0 mf-strategies.com
 0.0.0.0 www.mf-strategies.com
+0.0.0.0 mg2connext.com
+0.0.0.0 cdn.mg2connext.com
 0.0.0.0 micpn.com
 0.0.0.0 ciunnwhq.micpn.com
 0.0.0.0 ssl.micpn.com
@@ -1615,6 +1626,8 @@
 0.0.0.0 c.p2r14.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 padssup.com
+0.0.0.0 pagefair.com
+0.0.0.0 asset.pagefair.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
 0.0.0.0 panadvert.com
@@ -2435,6 +2448,8 @@
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
+0.0.0.0 ayc0zsm69431gfebd.info
+0.0.0.0 cdn.ayc0zsm69431gfebd.info
 0.0.0.0 match33.info
 0.0.0.0 mystighty.info
 0.0.0.0 1rx.io
@@ -2688,10 +2703,16 @@
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
 0.0.0.0 public-analytics.us-east-1.prod.public.atl-paas.net
 0.0.0.0 audienceinsights.net
+0.0.0.0 connext-cdn.ec.azureedge.net
+0.0.0.0 flittz-cdn.azureedge.net
+0.0.0.0 fp-cdn.azureedge.net
+0.0.0.0 g2insights-cdn.azureedge.net
+0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 mediaplanet.azureedge.net
 0.0.0.0 lightboxapi1.azurewebsites.net
 0.0.0.0 lightboxapi2.azurewebsites.net
 0.0.0.0 lightboxapi3.azurewebsites.net
+0.0.0.0 prod-mng-proxy-connext.azurewebsites.net
 0.0.0.0 katr.b-cdn.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 api.bandwidthx.net
@@ -2721,6 +2742,7 @@
 0.0.0.0 d11x7a53l5pste.cloudfront.net
 0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d1wa9546y9kg0n.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d26opx5dl8t69i.cloudfront.net
@@ -2960,6 +2982,7 @@
 0.0.0.0 contentz.mkt81.net
 0.0.0.0 monetate.net
 0.0.0.0 se.monetate.net
+0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 az690879.vo.msecnd.net
 0.0.0.0 metrics.dc.ad.msft.net
 0.0.0.0 mxptint.net
@@ -3134,6 +3157,8 @@
 0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 cookiesuksouth.blob.core.windows.net
+0.0.0.0 mg2assetsdev.blob.core.windows.net
+0.0.0.0 prodmg2.blob.core.windows.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
@@ -3341,6 +3366,8 @@
 0.0.0.0 alexafriday.xyz
 0.0.0.0 alexaprime.xyz
 0.0.0.0 alexathursday.xyz
+0.0.0.0 ayc0zsm69431gfebd.xyz
+0.0.0.0 cdn.ayc0zsm69431gfebd.xyz
 0.0.0.0 fadb.xyz
 0.0.0.0 bid.fadb.xyz
 0.0.0.0 regularimptracker.xyz

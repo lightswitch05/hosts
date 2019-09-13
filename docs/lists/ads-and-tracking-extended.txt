@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-12T20:08:14+00:00
-# Count: 59330 domains
+# Released: 2019-09-13T13:44:49+00:00
+# Count: 59414 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -92,6 +92,9 @@
 0.0.0.0 stagingelb.geoedge.be
 0.0.0.0 useast1clb.geoedge.be
 0.0.0.0 useast2clb.geoedge.be
+0.0.0.0 czx5eyk0exbhwp43ya.biz
+0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
+0.0.0.0 www.czx5eyk0exbhwp43ya.biz
 0.0.0.0 api.freshaddress.biz
 0.0.0.0 ns-cdn.neustar.biz
 0.0.0.0 wpm.neustar.biz
@@ -4516,6 +4519,7 @@
 0.0.0.0 content.adroll.com
 0.0.0.0 www.content.adroll.com
 0.0.0.0 d.adroll.com
+0.0.0.0 prebid.d.adroll.com
 0.0.0.0 data.adroll.com
 0.0.0.0 email.adroll.com
 0.0.0.0 feedback.adroll.com
@@ -4551,6 +4555,7 @@
 0.0.0.0 opx-winners-us-east-1-rtb.adroll.com
 0.0.0.0 opx-winners-us-west-2-rtb.adroll.com
 0.0.0.0 pages.adroll.com
+0.0.0.0 prebid.adroll.com
 0.0.0.0 pubmatic-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
@@ -14531,6 +14536,20 @@
 0.0.0.0 datametrical.com
 0.0.0.0 metrics.daveandbusters.com
 0.0.0.0 www.metrics.daveandbusters.com
+0.0.0.0 db-ip.com
+0.0.0.0 api.db-ip.com
+0.0.0.0 www.api.db-ip.com
+0.0.0.0 api-mg2.db-ip.com
+0.0.0.0 api-nike.db-ip.com
+0.0.0.0 api-osisoft.db-ip.com
+0.0.0.0 api-playbuzz.db-ip.com
+0.0.0.0 api-playwire.db-ip.com
+0.0.0.0 api-smvgroup.db-ip.com
+0.0.0.0 www.api-smvgroup.db-ip.com
+0.0.0.0 cdn.db-ip.com
+0.0.0.0 download.db-ip.com
+0.0.0.0 status.db-ip.com
+0.0.0.0 www.db-ip.com
 0.0.0.0 deadlinefunnel.com
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 www.a.deadlinefunnel.com
@@ -17097,6 +17116,9 @@
 0.0.0.0 www.flashtalking.com
 0.0.0.0 www142.flashtalking.com
 0.0.0.0 x.flashtalking.com
+0.0.0.0 flittz.com
+0.0.0.0 explore.flittz.com
+0.0.0.0 www.flittz.com
 0.0.0.0 flurry.com
 0.0.0.0 ad.flurry.com
 0.0.0.0 adlog.flurry.com
@@ -22446,6 +22468,28 @@
 0.0.0.0 w2.marinsm.com
 0.0.0.0 www.marinsm.com
 0.0.0.0 x22tracker.marinsm.com
+0.0.0.0 marketingg2.com
+0.0.0.0 citrix.marketingg2.com
+0.0.0.0 www.citrix.marketingg2.com
+0.0.0.0 citrix2.marketingg2.com
+0.0.0.0 www.citrix2.marketingg2.com
+0.0.0.0 citrix3.marketingg2.com
+0.0.0.0 www.citrix3.marketingg2.com
+0.0.0.0 ftp2.marketingg2.com
+0.0.0.0 helpdesk.marketingg2.com
+0.0.0.0 mail.marketingg2.com
+0.0.0.0 mg2art.marketingg2.com
+0.0.0.0 offerservices.marketingg2.com
+0.0.0.0 www.offerservices.marketingg2.com
+0.0.0.0 paywall.marketingg2.com
+0.0.0.0 dev.paywall.marketingg2.com
+0.0.0.0 tfs.marketingg2.com
+0.0.0.0 www.tfs.marketingg2.com
+0.0.0.0 tfs2010.marketingg2.com
+0.0.0.0 www.tfs2010.marketingg2.com
+0.0.0.0 wss.marketingg2.com
+0.0.0.0 www.wss.marketingg2.com
+0.0.0.0 www.marketingg2.com
 0.0.0.0 marketo.com
 0.0.0.0 ab-nat-2.marketo.com
 0.0.0.0 abrca01.marketo.com
@@ -22962,6 +23006,18 @@
 0.0.0.0 us.cdn.survey.medallia.com
 0.0.0.0 www.us.cdn.survey.medallia.com
 0.0.0.0 www.cdn.survey.medallia.com
+0.0.0.0 mediapass.com
+0.0.0.0 api.mediapass.com
+0.0.0.0 api-staging.mediapass.com
+0.0.0.0 cdn.mediapass.com
+0.0.0.0 cms.mediapass.com
+0.0.0.0 dashx.mediapass.com
+0.0.0.0 dev.mediapass.com
+0.0.0.0 firstcmssite.mediapass.com
+0.0.0.0 podcast.mediapass.com
+0.0.0.0 publisher.mediapass.com
+0.0.0.0 web-staging.mediapass.com
+0.0.0.0 www.mediapass.com
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
@@ -23036,6 +23092,12 @@
 0.0.0.0 mail.mf-strategies.com
 0.0.0.0 webdisk.mf-strategies.com
 0.0.0.0 www.mf-strategies.com
+0.0.0.0 mg2connext.com
+0.0.0.0 api.mg2connext.com
+0.0.0.0 cdn.mg2connext.com
+0.0.0.0 newsday-api.mg2connext.com
+0.0.0.0 philly-api.mg2connext.com
+0.0.0.0 www.mg2connext.com
 0.0.0.0 micpn.com
 0.0.0.0 03tnrovd.micpn.com
 0.0.0.0 0d8ylcrb.micpn.com
@@ -27404,6 +27466,14 @@
 0.0.0.0 c.p2r14.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 padssup.com
+0.0.0.0 pagefair.com
+0.0.0.0 asset.pagefair.com
+0.0.0.0 downloads.pagefair.com
+0.0.0.0 analytics-stats.pri.pagefair.com
+0.0.0.0 neostats.pri.pagefair.com
+0.0.0.0 publisher-home.prod.pub.pagefair.com
+0.0.0.0 stats.pagefair.com
+0.0.0.0 www.pagefair.com
 0.0.0.0 metrics.pagerduty.com
 0.0.0.0 adserver.panaceapublishing.com
 0.0.0.0 panadvert.com
@@ -39669,6 +39739,8 @@
 0.0.0.0 lb.us-east-1.applifier.info
 0.0.0.0 lb-delivery.us-east-1.applifier.info
 0.0.0.0 www.applifier.info
+0.0.0.0 ayc0zsm69431gfebd.info
+0.0.0.0 cdn.ayc0zsm69431gfebd.info
 0.0.0.0 match33.info
 0.0.0.0 mystighty.info
 0.0.0.0 www.mystighty.info
@@ -44441,10 +44513,16 @@
 0.0.0.0 tatic.audienceinsights.net
 0.0.0.0 ww.audienceinsights.net
 0.0.0.0 www.audienceinsights.net
+0.0.0.0 connext-cdn.ec.azureedge.net
+0.0.0.0 flittz-cdn.azureedge.net
+0.0.0.0 fp-cdn.azureedge.net
+0.0.0.0 g2insights-cdn.azureedge.net
+0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 mediaplanet.azureedge.net
 0.0.0.0 lightboxapi1.azurewebsites.net
 0.0.0.0 lightboxapi2.azurewebsites.net
 0.0.0.0 lightboxapi3.azurewebsites.net
+0.0.0.0 prod-mng-proxy-connext.azurewebsites.net
 0.0.0.0 katr.b-cdn.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 adminx.bandwidthx.net
@@ -45077,6 +45155,7 @@
 0.0.0.0 d11x7a53l5pste.cloudfront.net
 0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d1wa9546y9kg0n.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d26opx5dl8t69i.cloudfront.net
@@ -50781,6 +50860,7 @@
 0.0.0.0 vpn-us-east-1.monetate.net
 0.0.0.0 vpn-us-west-2.monetate.net
 0.0.0.0 www.monetate.net
+0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 az690879.vo.msecnd.net
 0.0.0.0 metrics.dc.ad.msft.net
 0.0.0.0 mxptint.net
@@ -56671,6 +56751,8 @@
 0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 cookiesuksouth.blob.core.windows.net
+0.0.0.0 mg2assetsdev.blob.core.windows.net
+0.0.0.0 prodmg2.blob.core.windows.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 www.gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
@@ -59292,6 +59374,8 @@
 0.0.0.0 alexafriday.xyz
 0.0.0.0 alexaprime.xyz
 0.0.0.0 alexathursday.xyz
+0.0.0.0 ayc0zsm69431gfebd.xyz
+0.0.0.0 cdn.ayc0zsm69431gfebd.xyz
 0.0.0.0 fadb.xyz
 0.0.0.0 bid.fadb.xyz
 0.0.0.0 regularimptracker.xyz
