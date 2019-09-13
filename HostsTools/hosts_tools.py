@@ -110,7 +110,7 @@ def load_domains_from_whitelist(file_name: str) -> Set[Pattern]:
     return whitelist
 
 
-def build_file_header(file_name: str, list_length: int):
+def build_file_header(file_name: str, list_length: int) -> str:
     now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc, microsecond=0)
     header = FILE_HEADER.replace('[domain_count]', str(list_length))
     header = header.replace('[file_name]', file_name)
@@ -118,7 +118,7 @@ def build_file_header(file_name: str, list_length: int):
     return header.replace('[timestamp]', now.isoformat())
 
 
-def write_domain_list(file_name: str, domains: Set[str]):
+def write_domain_list(file_name: str, domains: Set[str]) -> None:
     sorted_domains = sort_domains(list(domains))
     with open(file_name, 'w') as file:
         file.write(build_file_header(file_name, len(sorted_domains)))
@@ -127,14 +127,26 @@ def write_domain_list(file_name: str, domains: Set[str]):
         file.write('\n\n')
     shutil.copyfile(file_name, 'docs/lists/' + file_name)
     update_website_count(file_name, len(sorted_domains))
+    update_website_date(file_name)
 
 
-def update_website_count(file_name: str, count: int):
+def update_website_count(file_name: str, count: int) -> None:
     span_id = file_name.split('.')[0] + '-count'
     span_pattern = re.compile(f'<span id="{span_id}">\\d*</span>', flags=re.MULTILINE)
     with open(HTML_FILE, 'r') as file:
         file_contents = file.read()
     file_contents = re.sub(span_pattern, f'<span id="{span_id}">{count}</span>',  file_contents)
+    with open(HTML_FILE, 'w') as file:
+        file.write(file_contents)
+
+
+def update_website_date(file_name: str) -> None:
+    now_str = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc, microsecond=0).strftime('%B, %d %Y')
+    span_id = file_name.split('.')[0] + '-date'
+    span_pattern = re.compile(f'<span id="{span_id}">[a-zA-Z\\d,\\s]+</span>', flags=re.MULTILINE)
+    with open(HTML_FILE, 'r') as file:
+        file_contents = file.read()
+    file_contents = re.sub(span_pattern, f'<span id="{span_id}">{now_str}</span>',  file_contents)
     with open(HTML_FILE, 'w') as file:
         file.write(file_contents)
 
@@ -147,7 +159,7 @@ def is_valid_domain(domain: str) -> bool:
     return all(ALLOWED_DOMAIN_PATTERN.match(x) and not EXCLUDE_DOMAIN_PATTERN.match(x) for x in domain.split("."))
 
 
-def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}):
+def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}) -> Set[str]:
     filtered = set(domains)
     for domain in domains:
         for pattern in whitelist:

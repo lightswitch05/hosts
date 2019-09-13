@@ -114,13 +114,13 @@ def print_progress(current: int, total: int) -> None:
             print('Progress: %s%%' % percent)
 
 
-def validate_domain_args(domains):
+def validate_domain_args(domains) -> None:
     for domain in domains:
         if not hosts_tools.is_valid_domain(domain):
             raise Exception('Invalid domain: ', domain)
 
 
-def quit_gracefully(sig, frame):
+def quit_gracefully(sig, frame) -> None:
     global QUIT_GRACEFULLY
     print('Quitting gracefully')
     QUIT_GRACEFULLY = True
