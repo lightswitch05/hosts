@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-09-13T14:26:27+00:00
-# Count: 3891 domains
+# Released: 2019-09-16T04:33:47+00:00
+# Count: 3910 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -290,9 +290,11 @@
 0.0.0.0 oriflame.ugc.bazaarvoice.com
 0.0.0.0 orion.ugc.bazaarvoice.com
 0.0.0.0 pacificcoast.ugc.bazaarvoice.com
+0.0.0.0 painton.ugc.bazaarvoice.com
 0.0.0.0 paris.ugc.bazaarvoice.com
 0.0.0.0 parkerpen.ugc.bazaarvoice.com
 0.0.0.0 pediasure.ugc.bazaarvoice.com
+0.0.0.0 pgestore.ugc.bazaarvoice.com
 0.0.0.0 philips.ugc.bazaarvoice.com
 0.0.0.0 picard.ugc.bazaarvoice.com
 0.0.0.0 poetryfashion.ugc.bazaarvoice.com
@@ -1922,6 +1924,7 @@
 0.0.0.0 capture.sp.janrain.com
 0.0.0.0 multi.prod.sp.janrain.com
 0.0.0.0 ssl-cdn-quilt.janrain.com
+0.0.0.0 static.janrain.com
 0.0.0.0 status.janrain.com
 0.0.0.0 support.janrain.com
 0.0.0.0 www.support.janrain.com
@@ -2512,12 +2515,14 @@
 0.0.0.0 s4036.pingdom.com
 0.0.0.0 s4037.pingdom.com
 0.0.0.0 s4039.pingdom.com
+0.0.0.0 s4040.pingdom.com
 0.0.0.0 s4041.pingdom.com
 0.0.0.0 s4044.pingdom.com
 0.0.0.0 s4047.pingdom.com
 0.0.0.0 s4051.pingdom.com
 0.0.0.0 s4052.pingdom.com
 0.0.0.0 s4058.pingdom.com
+0.0.0.0 s4059.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s411.pingdom.com
 0.0.0.0 s412.pingdom.com
@@ -2788,6 +2793,7 @@
 0.0.0.0 webdisk.api.spymasterpro.com
 0.0.0.0 webmail.api.spymasterpro.com
 0.0.0.0 www.api.spymasterpro.com
+0.0.0.0 api1.spymasterpro.com
 0.0.0.0 captain.spymasterpro.com
 0.0.0.0 www.captain.spymasterpro.com
 0.0.0.0 cpanel.spymasterpro.com
@@ -2845,6 +2851,9 @@
 0.0.0.0 b-mse-eu12.stripcdn.com
 0.0.0.0 b-mse-eu14.stripcdn.com
 0.0.0.0 b-mse-eu16.stripcdn.com
+0.0.0.0 b-mse-eu18.stripcdn.com
+0.0.0.0 b-mse-eu6.stripcdn.com
+0.0.0.0 b-mse-eu7.stripcdn.com
 0.0.0.0 b-mse-eu8.stripcdn.com
 0.0.0.0 b-us1.stripcdn.com
 0.0.0.0 b-us10.stripcdn.com
@@ -3022,6 +3031,7 @@
 0.0.0.0 awurv664ay.vk.com
 0.0.0.0 awway.vk.com
 0.0.0.0 0-amadeus.bvdinfo.com.biblio.vk.com
+0.0.0.0 bost.vk.com
 0.0.0.0 browser.vk.com
 0.0.0.0 calls.vk.com
 0.0.0.0 cc.vk.com
@@ -3107,6 +3117,7 @@
 0.0.0.0 mv4.vk.com
 0.0.0.0 new.vk.com
 0.0.0.0 nfdhsz.vk.com
+0.0.0.0 notify.vk.com
 0.0.0.0 ntoss.vk.com
 0.0.0.0 nwww.vk.com
 0.0.0.0 oautdh.vk.com
@@ -3127,8 +3138,13 @@
 0.0.0.0 saving.vk.com
 0.0.0.0 search.vk.com
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
+0.0.0.0 srv130-129-240-87.vk.com
 0.0.0.0 srv137-185-240-87.vk.com
+0.0.0.0 srv163-11-213-95.vk.com
+0.0.0.0 srv164-11-213-95.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
+0.0.0.0 srv177-129-240-87.vk.com
+0.0.0.0 srv178-129-240-87.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
@@ -3152,6 +3168,7 @@
 0.0.0.0 uth.vk.com
 0.0.0.0 polis.vb64z9th8faec4b0.vk.com
 0.0.0.0 vkadmin.vk.com
+0.0.0.0 vu.vk.com
 0.0.0.0 vww.vk.com
 0.0.0.0 way.vk.com
 0.0.0.0 web7.vk.com
@@ -3268,6 +3285,7 @@
 0.0.0.0 status.spot.im
 0.0.0.0 support.spot.im
 0.0.0.0 t1-spoxy.spot.im
+0.0.0.0 t1-spoxy-launcher.spot.im
 0.0.0.0 tol-spoxy.spot.im
 0.0.0.0 topics.spot.im
 0.0.0.0 tracker.spot.im
@@ -3550,6 +3568,7 @@
 0.0.0.0 log-wolseley.uk.gomoxie.solutions
 0.0.0.0 ada.support
 0.0.0.0 2.ada.support
+0.0.0.0 2fwww.ada.support
 0.0.0.0 500px.ada.support
 0.0.0.0 airasia.ada.support
 0.0.0.0 android.ada.support
