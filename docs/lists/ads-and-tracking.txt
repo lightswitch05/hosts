@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-13T19:12:32+00:00
-# Count: 3367 domains
+# Released: 2019-09-16T12:20:45+00:00
+# Count: 3373 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1166,6 +1166,8 @@
 0.0.0.0 contentpersonalization.api.intuit.com
 0.0.0.0 mintsurvey.api.intuit.com
 0.0.0.0 eventbus.intuit.com
+0.0.0.0 experimentation.intuit.com
+0.0.0.0 edge.experimentation.intuit.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 mint.finance.intuit.com
 0.0.0.0 offcnt.intuit.com
@@ -1249,6 +1251,7 @@
 0.0.0.0 leadsbridge.com
 0.0.0.0 leanplum.com
 0.0.0.0 gapi.learnwithhomer.com
+0.0.0.0 recommendations.letslinc.com
 0.0.0.0 analytics.leviton.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 grtb-nj.lfstmedia.com
@@ -1745,6 +1748,7 @@
 0.0.0.0 zn8p1dph4rgqzwv0x-move.siteintercept.qualtrics.com
 0.0.0.0 zn_77ycxjaq1e0122v-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn_agburbioucamt8f-babycenter.siteintercept.qualtrics.com
+0.0.0.0 zn_elgllynyxrpbdgz-sygenta.siteintercept.qualtrics.com
 0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 znbc5k4v9qea3h0pj-fandango.siteintercept.qualtrics.com
 0.0.0.0 quantserve.com
@@ -3361,6 +3365,8 @@
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 ss2.us
+0.0.0.0 x.ss2.us
 0.0.0.0 trkn.us
 0.0.0.0 log.zoom.us
 0.0.0.0 adserve.video

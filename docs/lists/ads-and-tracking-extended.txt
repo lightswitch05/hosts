@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-13T19:12:33+00:00
-# Count: 60091 domains
+# Released: 2019-09-16T12:20:45+00:00
+# Count: 60134 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -19819,6 +19819,17 @@
 0.0.0.0 contentpersonalization.api.intuit.com
 0.0.0.0 mintsurvey.api.intuit.com
 0.0.0.0 eventbus.intuit.com
+0.0.0.0 experimentation.intuit.com
+0.0.0.0 assignmentsvc.au.experimentation.intuit.com
+0.0.0.0 assignmentsvc.ca.experimentation.intuit.com
+0.0.0.0 config.experimentation.intuit.com
+0.0.0.0 edge.experimentation.intuit.com
+0.0.0.0 au.edge.experimentation.intuit.com
+0.0.0.0 br.edge.experimentation.intuit.com
+0.0.0.0 ca.edge.experimentation.intuit.com
+0.0.0.0 in.edge.experimentation.intuit.com
+0.0.0.0 uk.edge.experimentation.intuit.com
+0.0.0.0 assignmentsvc.us.experimentation.intuit.com
 0.0.0.0 credit.finance.intuit.com
 0.0.0.0 mint.finance.intuit.com
 0.0.0.0 offcnt.intuit.com
@@ -21739,6 +21750,7 @@
 0.0.0.0 web.leanplum.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 gapi.learnwithhomer.com
+0.0.0.0 recommendations.letslinc.com
 0.0.0.0 analytics.leviton.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 252fcms.lfstmedia.com
@@ -31061,6 +31073,7 @@
 0.0.0.0 52zn_3xebfjduss0srw5-cbs.siteintercept.qualtrics.com
 0.0.0.0 52zn_ccjokix6bpit8tr-cbs.siteintercept.qualtrics.com
 0.0.0.0 74zn0xlipfbraa8u6z7-platts.siteintercept.qualtrics.com
+0.0.0.0 9nohczmy1mejzkr-hulu.siteintercept.qualtrics.com
 0.0.0.0 ato.siteintercept.qualtrics.com
 0.0.0.0 cbhs.siteintercept.qualtrics.com
 0.0.0.0 cbs.siteintercept.qualtrics.com
@@ -31096,6 +31109,7 @@
 0.0.0.0 zn0bbkz3nvwwiwhfv-xerox.siteintercept.qualtrics.com
 0.0.0.0 zn0bnnurkaoqhhd0n-cushwake.siteintercept.qualtrics.com
 0.0.0.0 zn0cfkvh4tbzplosp-recreationgov.siteintercept.qualtrics.com
+0.0.0.0 zn0dqsxgvbzaslil3-uhg1.siteintercept.qualtrics.com
 0.0.0.0 zn0e0bzgmz1mjcd1h-ato.siteintercept.qualtrics.com
 0.0.0.0 zn0e7lbdt63ib24sj-viceroy.siteintercept.qualtrics.com
 0.0.0.0 zn0ec68sa2lrtjvj3-bluekc.siteintercept.qualtrics.com
@@ -31118,6 +31132,7 @@
 0.0.0.0 zn0xgnnh2wkcz5p09-move.siteintercept.qualtrics.com
 0.0.0.0 zn0xidhqnpghfjswn-atbfeedback.siteintercept.qualtrics.com
 0.0.0.0 zn0xleir6swszany9-canadapostdigital.siteintercept.qualtrics.com
+0.0.0.0 zn0xmnygpneiallxn-hsbcdigital.siteintercept.qualtrics.com
 0.0.0.0 zn0xpcivkpe2ub0qx-lendingclub.siteintercept.qualtrics.com
 0.0.0.0 zn1ahcrtqb5lnqdmj-mit.siteintercept.qualtrics.com
 0.0.0.0 zn1c6corzqufu4ojp-tarkett.siteintercept.qualtrics.com
@@ -31136,6 +31151,7 @@
 0.0.0.0 zn23tfkufzixrvweb-chamberlaingroup.siteintercept.qualtrics.com
 0.0.0.0 zn25gnhojvhbtq6x3-salliemae.siteintercept.qualtrics.com
 0.0.0.0 zn260umz6gvyi017k-imercer.siteintercept.qualtrics.com
+0.0.0.0 zn2ajbxnl73emluld-archildrens.siteintercept.qualtrics.com
 0.0.0.0 zn2aygbmy5t4yhg21-altair.siteintercept.qualtrics.com
 0.0.0.0 zn2beeq1ud2kalo8r-interlinebrands.siteintercept.qualtrics.com
 0.0.0.0 zn2gabpsdv2al2gdj-ochsner.siteintercept.qualtrics.com
@@ -31143,6 +31159,7 @@
 0.0.0.0 zn2if26p79dwqlel7-royalmail.siteintercept.qualtrics.com
 0.0.0.0 zn2mc7sbmn5kcgg7h-hondaeurope.siteintercept.qualtrics.com
 0.0.0.0 zn2nleasmftetyaav-eon.siteintercept.qualtrics.com
+0.0.0.0 zn2nog2ukqhzqejkn-fmrpi.siteintercept.qualtrics.com
 0.0.0.0 zn2r67bziksipqrxd-ciscoengineering.siteintercept.qualtrics.com
 0.0.0.0 zn2skdlwiokog4zp3-teconnectivity.siteintercept.qualtrics.com
 0.0.0.0 zn2t7odbza4windsb-aexpfeedback.siteintercept.qualtrics.com
@@ -31156,6 +31173,7 @@
 0.0.0.0 zn3bfxb2uowgia7sr-f5.siteintercept.qualtrics.com
 0.0.0.0 zn3bhfdulj7vtgut3-monotype.siteintercept.qualtrics.com
 0.0.0.0 zn3crwiy4fgouzqhb-buccaneers.siteintercept.qualtrics.com
+0.0.0.0 zn3dztgoccrdzg1h7-desjardins.siteintercept.qualtrics.com
 0.0.0.0 zn3f1vs28f3xiwmsn-cbhs.siteintercept.qualtrics.com
 0.0.0.0 zn3fmvx5udlpekdwj-crain.siteintercept.qualtrics.com
 0.0.0.0 zn3i73akojccvd1ft-lds.siteintercept.qualtrics.com
@@ -31164,6 +31182,8 @@
 0.0.0.0 zn3lwsfwmnkphu1zr-wiley.siteintercept.qualtrics.com
 0.0.0.0 zn3mbrsehqjk0j36d-millerwelds.siteintercept.qualtrics.com
 0.0.0.0 zn3pg3jzgfzrbl3x7-magnolia.siteintercept.qualtrics.com
+0.0.0.0 zn3qnls7tzxgf77yr-rogers.siteintercept.qualtrics.com
+0.0.0.0 zn3r7xsmexfpfm3ul-sapinsights.siteintercept.qualtrics.com
 0.0.0.0 zn3rppkvhyoouqmix-uhg1.siteintercept.qualtrics.com
 0.0.0.0 zn3rwsuwgll7ciktv-woodcraft.siteintercept.qualtrics.com
 0.0.0.0 zn3tphmkchhzaq8tv-carfax.siteintercept.qualtrics.com
@@ -31172,6 +31192,7 @@
 0.0.0.0 zn3xeyguhe8idwa8d-alaskaair.siteintercept.qualtrics.com
 0.0.0.0 zn3yfianqevy9gvyn-sap.siteintercept.qualtrics.com
 0.0.0.0 zn41r1dpknmdeypvr-evernote.siteintercept.qualtrics.com
+0.0.0.0 zn42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 0.0.0.0 zn43febpplzacr5kl-uhaul.siteintercept.qualtrics.com
 0.0.0.0 zn43pkehril6w8dft-delawarenorth.siteintercept.qualtrics.com
 0.0.0.0 zn4hhwcajzb97gay5-virginmedia.siteintercept.qualtrics.com
@@ -31213,6 +31234,7 @@
 0.0.0.0 zn5bgzezzprzebpm5-atlassian.siteintercept.qualtrics.com
 0.0.0.0 zn5bvpdtma7urhqyn-qdigitalsupport.siteintercept.qualtrics.com
 0.0.0.0 zn5cfoezj2kv4n9ub-generalmotors.siteintercept.qualtrics.com
+0.0.0.0 zn5cktcjmv6tjoudh-ourdailybread.siteintercept.qualtrics.com
 0.0.0.0 zn5dsmed9vveh3ruh-lds.siteintercept.qualtrics.com
 0.0.0.0 zn5gwkvcsqs0v88yt-delawarenorth.siteintercept.qualtrics.com
 0.0.0.0 zn5gypougd7dbxn0h-fdicsurveys.siteintercept.qualtrics.com
@@ -31226,6 +31248,7 @@
 0.0.0.0 zn5psovn6eac4xa7h-anz.siteintercept.qualtrics.com
 0.0.0.0 zn5uulicwngsljoab-autozone.siteintercept.qualtrics.com
 0.0.0.0 zn5uwrz1caqxtx62p-saxobank.siteintercept.qualtrics.com
+0.0.0.0 zn5vyxrjezvglj7tv-ppg.siteintercept.qualtrics.com
 0.0.0.0 zn5ydlsbwpgrsccsp-qps.siteintercept.qualtrics.com
 0.0.0.0 zn5z45bl4kvg9ly17-sni.siteintercept.qualtrics.com
 0.0.0.0 zn5znfuutmq7imrpr-reagroup.siteintercept.qualtrics.com
@@ -31233,6 +31256,7 @@
 0.0.0.0 zn6dmaopednyvtshf-ups.siteintercept.qualtrics.com
 0.0.0.0 zn6dwvcqfq8u65ow1-finnair.siteintercept.qualtrics.com
 0.0.0.0 zn6ebai8hakqsyy4j-christies.siteintercept.qualtrics.com
+0.0.0.0 zn6ecbcgiuxajj3rr-salliemae.siteintercept.qualtrics.com
 0.0.0.0 zn6ee90kafxg6pdqp-techdata.siteintercept.qualtrics.com
 0.0.0.0 zn6ensxhllssfs0rv-carfax.siteintercept.qualtrics.com
 0.0.0.0 zn6fejqgxgvcvczk1-usautosales.siteintercept.qualtrics.com
@@ -31252,7 +31276,9 @@
 0.0.0.0 zn6mcrij6xncfajof-adidastrial.siteintercept.qualtrics.com
 0.0.0.0 zn6mk9e4g9teuoflv-ameriprise.siteintercept.qualtrics.com
 0.0.0.0 zn6nkjalzk41zee2f-asurion.siteintercept.qualtrics.com
+0.0.0.0 zn6otcnwnvnuwtiwl-procore.siteintercept.qualtrics.com
 0.0.0.0 zn6p9bxntjlusyijn-gamestop.siteintercept.qualtrics.com
+0.0.0.0 zn6ppyjxvin10cnp7-scrippsmedia.siteintercept.qualtrics.com
 0.0.0.0 zn6qzq6caaucudesr-pluralsight.siteintercept.qualtrics.com
 0.0.0.0 zn6rk6tr2d4thcrsb-lds.siteintercept.qualtrics.com
 0.0.0.0 zn6ru6zltjmdoufnf-sprintt.siteintercept.qualtrics.com
@@ -31277,6 +31303,7 @@
 0.0.0.0 zn7pvvogbfmgnzg4b-kumandgo.siteintercept.qualtrics.com
 0.0.0.0 zn7vxbjk81nhox2qf-springernature.siteintercept.qualtrics.com
 0.0.0.0 zn7wdmojjixvhyobn-news.siteintercept.qualtrics.com
+0.0.0.0 zn7wjxa5brlo6jo3h-delawarenorth.siteintercept.qualtrics.com
 0.0.0.0 zn86vyv7vw2c4mvaz-delldigital.siteintercept.qualtrics.com
 0.0.0.0 zn87imi219ekz3pob-donorschoose.siteintercept.qualtrics.com
 0.0.0.0 zn88jixcivzfb3vpp-nci.siteintercept.qualtrics.com
@@ -31285,6 +31312,7 @@
 0.0.0.0 zn8e3naiir98qpzrn-danielwellington.siteintercept.qualtrics.com
 0.0.0.0 zn8e5vlzqy9mhzlnd-libertyinsurance.siteintercept.qualtrics.com
 0.0.0.0 zn8evbkmddvgumhzx-cityuhk.siteintercept.qualtrics.com
+0.0.0.0 zn8f6sba0qn0utxhb-ticketmaster.siteintercept.qualtrics.com
 0.0.0.0 zn8fc7p6hnurs1nbf-aicpa.siteintercept.qualtrics.com
 0.0.0.0 zn8g0qupgyv2j31an-gocompare.siteintercept.qualtrics.com
 0.0.0.0 zn8g4akfwkoquzztd-dnb.siteintercept.qualtrics.com
@@ -31293,6 +31321,7 @@
 0.0.0.0 zn8hezhjpprzbi2i5-eon.siteintercept.qualtrics.com
 0.0.0.0 zn8hwsrrlvkvg8bpo-move.siteintercept.qualtrics.com
 0.0.0.0 zn8i03elsrj8ujesh-transunioncxusa.siteintercept.qualtrics.com
+0.0.0.0 zn8iaehq4y3tgazmp-nbacx.siteintercept.qualtrics.com
 0.0.0.0 zn8ifp1kdneyz0med-rogers.siteintercept.qualtrics.com
 0.0.0.0 zn8ijbipivx3mjv9j-avios.siteintercept.qualtrics.com
 0.0.0.0 zn8j2flphjpn3r9zj-agoda1.siteintercept.qualtrics.com
@@ -31328,6 +31357,7 @@
 0.0.0.0 zn9tny8luse16pxev-answerlab.siteintercept.qualtrics.com
 0.0.0.0 zn9tpesl2k1zdbytl-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn9tvudrzogmmrfjt-vrt.siteintercept.qualtrics.com
+0.0.0.0 zn9ufzluqllsdj0an-hsbcdigital.siteintercept.qualtrics.com
 0.0.0.0 zn9ukpsktwmhag3xl-rate.siteintercept.qualtrics.com
 0.0.0.0 zn9xowqszdbqtbfwx-seasamsung.siteintercept.qualtrics.com
 0.0.0.0 zn9y00s1jxlzaato1-zoro.siteintercept.qualtrics.com
@@ -31352,6 +31382,7 @@
 0.0.0.0 zn_3xebfjduss0srw5-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn_42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 0.0.0.0 zn_4idmtxejrfrwvi5-quicken.siteintercept.qualtrics.com
+0.0.0.0 zn_55bdrev4af0c1yl-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn_5cfoezj2kv4n9ub-generalmotors.siteintercept.qualtrics.com
 0.0.0.0 zn_5u81q8n4jdu5ls9-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn_6esongwexc3sowr-rga.siteintercept.qualtrics.com
@@ -31359,6 +31390,7 @@
 0.0.0.0 zn_7u8vieqdpenxvv3-hyatt.siteintercept.qualtrics.com
 0.0.0.0 zn_8wwshualrtjyaoj-crain.siteintercept.qualtrics.com
 0.0.0.0 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
+0.0.0.0 zn_a2whpsc1leeqvkv-buccaneers.siteintercept.qualtrics.com
 0.0.0.0 zn_a9290jo7eb4diuz-mayoclinicsurveys.siteintercept.qualtrics.com
 0.0.0.0 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn_agburbioucamt8f-babycenter.siteintercept.qualtrics.com
@@ -31375,6 +31407,7 @@
 0.0.0.0 zn_eb5fvg8zad5ghtt-crain.siteintercept.qualtrics.com
 0.0.0.0 zn_ed65ynwxvsuk9lf-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn_ejsytbr8b8t6jel-sonycorporation.siteintercept.qualtrics.com
+0.0.0.0 zn_elgllynyxrpbdgz-sygenta.siteintercept.qualtrics.com
 0.0.0.0 zn_ezyilxhyzpbamlp-telus.siteintercept.qualtrics.com
 0.0.0.0 zna3ibgvbbhforp7n-web.siteintercept.qualtrics.com
 0.0.0.0 zna3u13simmcmdd0p-renault.siteintercept.qualtrics.com
@@ -31415,6 +31448,7 @@
 0.0.0.0 znbmujw2vcljimxnp-mastercard.siteintercept.qualtrics.com
 0.0.0.0 znboxwfdurwatbcy9-delawarenorth.siteintercept.qualtrics.com
 0.0.0.0 znboxxjgn65c0lkmz-wholefoods.siteintercept.qualtrics.com
+0.0.0.0 znbqj3egyjwfzib9r-communicatehealth.siteintercept.qualtrics.com
 0.0.0.0 znbr5amnlemoxdurh-redbubble.siteintercept.qualtrics.com
 0.0.0.0 znbrloirhhveyl5rz-bose.siteintercept.qualtrics.com
 0.0.0.0 znbsgdeu4idqsr8db-mit.siteintercept.qualtrics.com
@@ -31449,12 +31483,14 @@
 0.0.0.0 znczmeihu4g9mgthz-arkema.siteintercept.qualtrics.com
 0.0.0.0 znczq7eyghxqqqhor-caleres.siteintercept.qualtrics.com
 0.0.0.0 znd0bfdqlqg9ciloh-uber.siteintercept.qualtrics.com
+0.0.0.0 znd3v7rbphouxilfr-rentpath.siteintercept.qualtrics.com
 0.0.0.0 znd4iaa5ygd7nexul-yoox.siteintercept.qualtrics.com
 0.0.0.0 znd6vm6wv06ormkfh-hbp.siteintercept.qualtrics.com
 0.0.0.0 znd729re6aqcrkd0n-sae.siteintercept.qualtrics.com
 0.0.0.0 zndamtq5vlzl8a6ot-hsbcdigital.siteintercept.qualtrics.com
 0.0.0.0 zndbqcvd5yvdbqvef-travelers.siteintercept.qualtrics.com
 0.0.0.0 zndccaxz8h8qirmi1-netaporter.siteintercept.qualtrics.com
+0.0.0.0 zndcic8ql9y0mznn3-screenpilot.siteintercept.qualtrics.com
 0.0.0.0 znddr6qbfenxmzyrl-havenpower.siteintercept.qualtrics.com
 0.0.0.0 zndhqs6gleddsmngz-natgeoexpeditions.siteintercept.qualtrics.com
 0.0.0.0 zndhztugwqhlulqht-aexpfeedback.siteintercept.qualtrics.com
@@ -31482,6 +31518,7 @@
 0.0.0.0 zneex5qn74n7jckl7-expediainc.siteintercept.qualtrics.com
 0.0.0.0 zneex9v5omnknmibj-seagatecx.siteintercept.qualtrics.com
 0.0.0.0 znefynndqka4qf0fh-euroflorist.siteintercept.qualtrics.com
+0.0.0.0 znehbisrtonkrj9oz-belden.siteintercept.qualtrics.com
 0.0.0.0 znej7k4eplq9fdf8f-afklm.siteintercept.qualtrics.com
 0.0.0.0 znejw6fzxpoc4z2sj-pluralsight.siteintercept.qualtrics.com
 0.0.0.0 znejxinwd5ypqiki9-hydroquebec.siteintercept.qualtrics.com
@@ -31494,12 +31531,14 @@
 0.0.0.0 zneq0eic3xaurqgmh-consumerinfo.siteintercept.qualtrics.com
 0.0.0.0 znequvsn9dye3xf9b-amcci.siteintercept.qualtrics.com
 0.0.0.0 znetevwa2wlb6en9p-coned.siteintercept.qualtrics.com
+0.0.0.0 znetjitvxsol8c1x7-vrt.siteintercept.qualtrics.com
 0.0.0.0 znevcenxkc1nzdyub-deakinsurveys.siteintercept.qualtrics.com
 0.0.0.0 znevcrkpzely9tahj-afklm.siteintercept.qualtrics.com
 0.0.0.0 znevspo0tupz8xswr-atbfeedback.siteintercept.qualtrics.com
 0.0.0.0 znevt70vo9sffck33-nationalgrid.siteintercept.qualtrics.com
 0.0.0.0 znew2pz3yjx9poggn-intuitsocial.siteintercept.qualtrics.com
 0.0.0.0 znexfou61kord3xmj-mouser.siteintercept.qualtrics.com
+0.0.0.0 znexlek0kfmide9dr-uhgta.siteintercept.qualtrics.com
 0.0.0.0 znexx818wz4mzxpe8-hpsupport.siteintercept.qualtrics.com
 0.0.0.0 zney281m5bvkorinx-coupons.siteintercept.qualtrics.com
 0.0.0.0 zney5zyja13iz0ypp-autodeskfeedback.siteintercept.qualtrics.com
@@ -59949,6 +59988,10 @@
 0.0.0.0 www.samplicio.us
 0.0.0.0 www1.samplicio.us
 0.0.0.0 www2.samplicio.us
+0.0.0.0 ss2.us
+0.0.0.0 o.ss2.us
+0.0.0.0 s.ss2.us
+0.0.0.0 x.ss2.us
 0.0.0.0 trkn.us
 0.0.0.0 aa.trkn.us
 0.0.0.0 log.zoom.us
