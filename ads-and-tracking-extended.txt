@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-16T12:40:08+00:00
-# Count: 60349 domains
+# Released: 2019-09-16T15:27:26+00:00
+# Count: 60363 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -23661,6 +23661,12 @@
 0.0.0.0 video-staging.mediavine.com
 0.0.0.0 web-staging.mediavine.com
 0.0.0.0 www.mediavine.com
+0.0.0.0 mediavoice.com
+0.0.0.0 api.mediavoice.com
+0.0.0.0 cdn.mediavoice.com
+0.0.0.0 plugin.mediavoice.com
+0.0.0.0 status.mediavoice.com
+0.0.0.0 www.mediavoice.com
 0.0.0.0 tracker.meetleads.com
 0.0.0.0 www.tracker.meetleads.com
 0.0.0.0 cdn.merklesearch.com
@@ -39416,7 +39422,14 @@
 0.0.0.0 it.fc.yahoo.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 uk.fc.yahoo.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 aa.geo.yahoo.com
+0.0.0.0 data.geo.yahoo.com
+0.0.0.0 eu.geo.yahoo.com
+0.0.0.0 in.ord.geo.yahoo.com
+0.0.0.0 in.rsel.geo.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 ybp.yahoo.com
 0.0.0.0 bid-global.ybp.yahoo.com
@@ -57554,6 +57567,7 @@
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 sentinel.twitchsvc.net
+0.0.0.0 p.typekit.net
 0.0.0.0 userreplay.net
 0.0.0.0 3b5b5e54.userreplay.net
 0.0.0.0 3b5b5e54-9.userreplay.net

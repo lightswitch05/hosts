@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-16T12:40:08+00:00
-# Count: 3387 domains
+# Released: 2019-09-16T15:27:26+00:00
+# Count: 3393 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1362,6 +1362,8 @@
 0.0.0.0 mediavine.com
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 video.mediavine.com
+0.0.0.0 mediavoice.com
+0.0.0.0 plugin.mediavoice.com
 0.0.0.0 tracker.meetleads.com
 0.0.0.0 cdn.merklesearch.com
 0.0.0.0 metaps.com
@@ -2353,12 +2355,15 @@
 0.0.0.0 sdk3.ibm.xtify.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 log.fc.yahoo.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
+0.0.0.0 geo.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 ybp.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -3172,6 +3177,7 @@
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 sentinel.twitchsvc.net
+0.0.0.0 p.typekit.net
 0.0.0.0 userreplay.net
 0.0.0.0 cdn.userreplay.net
 0.0.0.0 visto1.net
