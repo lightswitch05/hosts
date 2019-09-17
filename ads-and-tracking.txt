@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-16T15:27:26+00:00
-# Count: 3393 domains
+# Released: 2019-09-17T19:40:46+00:00
+# Count: 3396 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2534,6 +2534,7 @@
 0.0.0.0 trust.extremereach.io
 0.0.0.0 sentry.dev.geekbot.io
 0.0.0.0 ghostboard.io
+0.0.0.0 gleam.io
 0.0.0.0 js.gleam.io
 0.0.0.0 graphly.io
 0.0.0.0 tracking.graphly.io
@@ -3119,6 +3120,8 @@
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 pixel.optimalq.net
+0.0.0.0 owneriq.net
+0.0.0.0 px.owneriq.net
 0.0.0.0 pages03.net
 0.0.0.0 www.sc.pages03.net
 0.0.0.0 www.sc.pages06.net

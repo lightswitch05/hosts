@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-16T15:27:26+00:00
-# Count: 60363 domains
+# Released: 2019-09-17T19:40:47+00:00
+# Count: 60417 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -41321,8 +41321,18 @@
 0.0.0.0 sentry.dev.geekbot.io
 0.0.0.0 ghostboard.io
 0.0.0.0 www.ghostboard.io
+0.0.0.0 gleam.io
+0.0.0.0 email.gleam.io
+0.0.0.0 info.gleam.io
 0.0.0.0 js.gleam.io
 0.0.0.0 www.js.gleam.io
+0.0.0.0 preview.gleam.io
+0.0.0.0 r.gleam.io
+0.0.0.0 stage.gleam.io
+0.0.0.0 preview.stage.gleam.io
+0.0.0.0 stage-b.gleam.io
+0.0.0.0 preview.stage-b.gleam.io
+0.0.0.0 www.gleam.io
 0.0.0.0 graphly.io
 0.0.0.0 app.graphly.io
 0.0.0.0 www.app.graphly.io
@@ -55006,6 +55016,50 @@
 0.0.0.0 pixel.optimalq.net
 0.0.0.0 aero.pixel.optimalq.net
 0.0.0.0 node.pixel.optimalq.net
+0.0.0.0 owneriq.net
+0.0.0.0 auto.owneriq.net
+0.0.0.0 cb2.dev.rtb.us-east-1.aws.owneriq.net
+0.0.0.0 babycare.owneriq.net
+0.0.0.0 bidder.owneriq.net
+0.0.0.0 lbinaplax.bidder.owneriq.net
+0.0.0.0 www.lbinaplax.bidder.owneriq.net
+0.0.0.0 lbinapnym.bidder.owneriq.net
+0.0.0.0 lbinapnym2.bidder.owneriq.net
+0.0.0.0 lbnyj.bidder.owneriq.net
+0.0.0.0 www.lbnyj.bidder.owneriq.net
+0.0.0.0 lbnyj2.bidder.owneriq.net
+0.0.0.0 lbsjc.bidder.owneriq.net
+0.0.0.0 cellphone.owneriq.net
+0.0.0.0 stage.coex.owneriq.net
+0.0.0.0 dl.owneriq.net
+0.0.0.0 web1.dr.owneriq.net
+0.0.0.0 fitness.owneriq.net
+0.0.0.0 images.owneriq.net
+0.0.0.0 grafana1.dev.infra.owneriq.net
+0.0.0.0 lawnandgarden.owneriq.net
+0.0.0.0 looker.owneriq.net
+0.0.0.0 looker-test.owneriq.net
+0.0.0.0 lb1.mo.owneriq.net
+0.0.0.0 ns1.owneriq.net
+0.0.0.0 ns2.owneriq.net
+0.0.0.0 pdfasset.owneriq.net
+0.0.0.0 personalcare.owneriq.net
+0.0.0.0 pixelreceipts.owneriq.net
+0.0.0.0 www.pixelreceipts.owneriq.net
+0.0.0.0 px.owneriq.net
+0.0.0.0 registry.owneriq.net
+0.0.0.0 cb1.dev.rtb.owneriq.net
+0.0.0.0 cb2.dev.rtb.owneriq.net
+0.0.0.0 cb.rtbdev.owneriq.net
+0.0.0.0 session.owneriq.net
+0.0.0.0 spx.owneriq.net
+0.0.0.0 www.spx.owneriq.net
+0.0.0.0 stage-px.owneriq.net
+0.0.0.0 tag.owneriq.net
+0.0.0.0 util01.owneriq.net
+0.0.0.0 www.util01.owneriq.net
+0.0.0.0 wcclicks.owneriq.net
+0.0.0.0 www.owneriq.net
 0.0.0.0 pages03.net
 0.0.0.0 ibmdeveloper.pages03.net
 0.0.0.0 pureformulas.pages03.net
