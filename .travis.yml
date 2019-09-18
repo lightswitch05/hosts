@@ -8,6 +8,9 @@ matrix:
           dist: xenial
           sudo: true
           after_script: make sonar
+        -  python: 3.8-dev
+           dist: xenial
+           sudo: true
 
 addons:
     sonarcloud:
