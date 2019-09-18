@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-18T01:29:13+00:00
-# Count: 3398 domains
+# Released: 2019-09-18T13:56:23+00:00
+# Count: 3402 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2267,6 +2267,8 @@
 0.0.0.0 uid1.vindicosuite.com
 0.0.0.0 visibleconsumerinsight.com
 0.0.0.0 track.visibleconsumerinsight.com
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 dc-int.services.visualstudio.com
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vizury.com
 0.0.0.0 cdn25.vizury.com
@@ -2496,6 +2498,8 @@
 0.0.0.0 akstat.io
 0.0.0.0 173c5b06.akstat.io
 0.0.0.0 insights.algolia.io
+0.0.0.0 applicationinsights.io
+0.0.0.0 breeze.aimon.applicationinsights.io
 0.0.0.0 public-analytics.useast.atlassian.io
 0.0.0.0 auth.avs.io
 0.0.0.0 pics.avs.io
