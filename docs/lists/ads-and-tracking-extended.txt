@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-17T19:40:47+00:00
-# Count: 60417 domains
+# Released: 2019-09-18T01:29:13+00:00
+# Count: 60422 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -437,6 +437,11 @@
 0.0.0.0 log.intellimize.co
 0.0.0.0 www.log.intellimize.co
 0.0.0.0 www.intellimize.co
+0.0.0.0 ipdata.co
+0.0.0.0 api.ipdata.co
+0.0.0.0 auth.ipdata.co
+0.0.0.0 status.ipdata.co
+0.0.0.0 www.ipdata.co
 0.0.0.0 ipfind.co
 0.0.0.0 staging.ipfind.co
 0.0.0.0 static.ipfind.co
