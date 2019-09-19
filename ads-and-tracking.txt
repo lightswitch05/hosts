@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T12:48:56+00:00
-# Count: 3410 domains
+# Released: 2019-09-19T12:58:45+00:00
+# Count: 3414 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -244,6 +244,7 @@
 0.0.0.0 ads1-adnow.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 adsafeprotected.com
+0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 vastpixel2.adsafeprotected.com
@@ -1058,6 +1059,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 googletagservices.com
@@ -1309,6 +1311,7 @@
 0.0.0.0 m-freeway.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 www.m-freeway.com
+0.0.0.0 cmp.macworld.com
 0.0.0.0 madmobile.com
 0.0.0.0 bam-cdn.madmobile.com
 0.0.0.0 magic-analytics.magmic.com
@@ -2795,6 +2798,7 @@
 0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
 0.0.0.0 d2leoy3k16s14d.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
+0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
