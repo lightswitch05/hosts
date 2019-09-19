@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-18T13:56:24+00:00
-# Count: 60595 domains
+# Released: 2019-09-19T12:38:42+00:00
+# Count: 60615 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -18323,6 +18323,25 @@
 0.0.0.0 webhooks.staging.getrockerbox.com
 0.0.0.0 test-metrics.getrockerbox.com
 0.0.0.0 www.getrockerbox.com
+0.0.0.0 getsentry.com
+0.0.0.0 cal.a.getsentry.com
+0.0.0.0 datadog.a.getsentry.com
+0.0.0.0 drive.a.getsentry.com
+0.0.0.0 groups.a.getsentry.com
+0.0.0.0 mail.a.getsentry.com
+0.0.0.0 sites.a.getsentry.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 cdn.getsentry.com
+0.0.0.0 live.getsentry.com
+0.0.0.0 o1.md.getsentry.com
+0.0.0.0 media.getsentry.com
+0.0.0.0 salesloft.getsentry.com
+0.0.0.0 staging.getsentry.com
+0.0.0.0 app.staging.getsentry.com
+0.0.0.0 media.staging.getsentry.com
+0.0.0.0 www.staging.getsentry.com
+0.0.0.0 status.getsentry.com
+0.0.0.0 www.getsentry.com
 0.0.0.0 cdn.getshogun.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 app.getsitecontrol.com
@@ -38931,6 +38950,7 @@
 0.0.0.0 insideintercom.wpengine.com
 0.0.0.0 syndicaster.wpengine.com
 0.0.0.0 sa135.wsbtv.com
+0.0.0.0 ad.wsod.com
 0.0.0.0 wzrkt.com
 0.0.0.0 eu1.alb.wzrkt.com
 0.0.0.0 in1.alb.wzrkt.com
