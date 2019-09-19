@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T14:27:06+00:00
-# Count: 61837 domains
+# Released: 2019-09-19T14:32:08+00:00
+# Count: 61926 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -391,6 +391,93 @@
 0.0.0.0 vid9495.d41.co
 0.0.0.0 vid9501.d41.co
 0.0.0.0 vid9901.d41.co
+0.0.0.0 datadome.co
+0.0.0.0 3zly2uywmndncwuddnaonbxdti8tq3yqb3wfpz2p.datadome.co
+0.0.0.0 api.datadome.co
+0.0.0.0 api-ap-south-1.datadome.co
+0.0.0.0 api-eu-central-1.datadome.co
+0.0.0.0 api-eu-france-1.datadome.co
+0.0.0.0 api-eu-west-1.datadome.co
+0.0.0.0 api-eu-west-2.datadome.co
+0.0.0.0 api-js.datadome.co
+0.0.0.0 api-sdk.datadome.co
+0.0.0.0 api-us-east-1.datadome.co
+0.0.0.0 api-us-east-2.datadome.co
+0.0.0.0 api-us-west-1.datadome.co
+0.0.0.0 api-us-west-2.datadome.co
+0.0.0.0 app.datadome.co
+0.0.0.0 auth.datadome.co
+0.0.0.0 beta2-dashboard.datadome.co
+0.0.0.0 beta2-dashboard-rest-api.datadome.co
+0.0.0.0 bo.datadome.co
+0.0.0.0 c.datadome.co
+0.0.0.0 ci-sandbox.datadome.co
+0.0.0.0 ct.datadome.co
+0.0.0.0 dashboard-rest-api.datadome.co
+0.0.0.0 datascience.datadome.co
+0.0.0.0 dev-app.datadome.co
+0.0.0.0 dev-backoffice.datadome.co
+0.0.0.0 dev-c.datadome.co
+0.0.0.0 dev-customer-api.datadome.co
+0.0.0.0 dev-dashboard.datadome.co
+0.0.0.0 dev-dashboard-rest-api.datadome.co
+0.0.0.0 dev-js.datadome.co
+0.0.0.0 dev-k.datadome.co
+0.0.0.0 dev-ledge.datadome.co
+0.0.0.0 dev2-dashboard.datadome.co
+0.0.0.0 dev2-dashboard-rest-api.datadome.co
+0.0.0.0 dev2-rest-api.datadome.co
+0.0.0.0 docs-api.datadome.co
+0.0.0.0 e2e-dashboard.datadome.co
+0.0.0.0 e2e-dashboard-rest-api.datadome.co
+0.0.0.0 e4e6ca42342f95978a17c6257593c1e1.datadome.co
+0.0.0.0 es-test-azure.datadome.co
+0.0.0.0 flink.datadome.co
+0.0.0.0 flink-test.datadome.co
+0.0.0.0 flink-test-azure.datadome.co
+0.0.0.0 flink-test-online.datadome.co
+0.0.0.0 flink-test-ovh.datadome.co
+0.0.0.0 frontprod.datadome.co
+0.0.0.0 fusiondirectory.datadome.co
+0.0.0.0 glpi.datadome.co
+0.0.0.0 haproxy2-js1-eu-france-1.datadome.co
+0.0.0.0 haproxy2-js2-eu-france-1.datadome.co
+0.0.0.0 info.datadome.co
+0.0.0.0 internal.datadome.co
+0.0.0.0 jk.datadome.co
+0.0.0.0 js.datadome.co
+0.0.0.0 k.datadome.co
+0.0.0.0 kibana-99a6cf5db63ab4ac47def49d2063916707a4cdcf.datadome.co
+0.0.0.0 link.datadome.co
+0.0.0.0 metrics.datadome.co
+0.0.0.0 metrics-v2.datadome.co
+0.0.0.0 preprod-backoffice.datadome.co
+0.0.0.0 preprod-c.datadome.co
+0.0.0.0 preprod-customer-api.datadome.co
+0.0.0.0 preprod-dashboard.datadome.co
+0.0.0.0 preprod-dashboard-rest-api.datadome.co
+0.0.0.0 preprod-js.datadome.co
+0.0.0.0 preprod-k.datadome.co
+0.0.0.0 preprod-package.datadome.co
+0.0.0.0 preprod-tools.datadome.co
+0.0.0.0 project.datadome.co
+0.0.0.0 prometheus.datadome.co
+0.0.0.0 prometheus1.datadome.co
+0.0.0.0 repo.datadome.co
+0.0.0.0 rest-api.datadome.co
+0.0.0.0 sandbox-ml.datadome.co
+0.0.0.0 sonar-sandbox.datadome.co
+0.0.0.0 spy.datadome.co
+0.0.0.0 staging-www.datadome.co
+0.0.0.0 staging2-www.datadome.co
+0.0.0.0 static.datadome.co
+0.0.0.0 status.datadome.co
+0.0.0.0 subscriptions.datadome.co
+0.0.0.0 testoauth.datadome.co
+0.0.0.0 testoauth2.datadome.co
+0.0.0.0 tools.datadome.co
+0.0.0.0 v2.datadome.co
+0.0.0.0 www.datadome.co
 0.0.0.0 feathr.co
 0.0.0.0 ad.feathr.co
 0.0.0.0 ads.feathr.co
@@ -27334,6 +27421,7 @@
 0.0.0.0 uat.newscgp.com
 0.0.0.0 www.newscgp.com
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 gc.newsweek.com
 0.0.0.0 nexage.com
 0.0.0.0 admax.nexage.com
 0.0.0.0 ads.nexage.com
@@ -47233,6 +47321,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d26opx5dl8t69i.cloudfront.net
+0.0.0.0 d275im4r3zngba.cloudfront.net
 0.0.0.0 d2c4r37pj8idja.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2ip7iv1l4ergv.cloudfront.net

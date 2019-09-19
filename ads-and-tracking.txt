@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T14:27:06+00:00
-# Count: 3431 domains
+# Released: 2019-09-19T14:32:07+00:00
+# Count: 3436 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -79,6 +79,8 @@
 0.0.0.0 trk.clinch.co
 0.0.0.0 d41.co
 0.0.0.0 cdn-0.d41.co
+0.0.0.0 datadome.co
+0.0.0.0 js.datadome.co
 0.0.0.0 feathr.co
 0.0.0.0 cdn.feathr.co
 0.0.0.0 intellimize.co
@@ -986,6 +988,7 @@
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 fqtag.com
 0.0.0.0 c.fqtag.com
+0.0.0.0 query.fqtag.com
 0.0.0.0 s.fqtag.com
 0.0.0.0 freecalculation.com
 0.0.0.0 metrics.freecreditscore.com
@@ -1605,6 +1608,7 @@
 0.0.0.0 newscgp.com
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 gc.newsweek.com
 0.0.0.0 nexage.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 prod-m-node-1112.nexage.com
@@ -2807,6 +2811,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d26opx5dl8t69i.cloudfront.net
+0.0.0.0 d275im4r3zngba.cloudfront.net
 0.0.0.0 d2c4r37pj8idja.cloudfront.net
 0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
