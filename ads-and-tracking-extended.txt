@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T13:26:52+00:00
-# Count: 60749 domains
+# Released: 2019-09-19T13:48:13+00:00
+# Count: 60751 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -7084,6 +7084,8 @@
 0.0.0.0 alexa-auto.device-metrics-us-2.amazon.com
 0.0.0.0 ipv6.device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
+0.0.0.0 unagi-na.amazon.com
+0.0.0.0 ipv6.unagi-na.amazon.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 1faax-us-east.amazon-adsystem.com
 0.0.0.0 aan.amazon-adsystem.com
