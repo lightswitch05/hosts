@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T16:13:52+00:00
-# Count: 3459 domains
+# Released: 2019-09-19T18:52:08+00:00
+# Count: 3466 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -473,6 +473,7 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
@@ -761,6 +762,7 @@
 0.0.0.0 carters.sp1.convertro.com
 0.0.0.0 dishdigital.sp1.convertro.com
 0.0.0.0 gap.sp1.convertro.com
+0.0.0.0 conviva.com
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 coremetrics.com
@@ -1143,6 +1145,8 @@
 0.0.0.0 eventtracking.hubapi.com
 0.0.0.0 guce.huffpost.com
 0.0.0.0 doppler.hulu.com
+0.0.0.0 metcon.hulu.com
+0.0.0.0 t2.hulu.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 huluim.com
 0.0.0.0 assets.huluim.com
@@ -1240,6 +1244,7 @@
 0.0.0.0 evs.jivox.com
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 sync.jivox.com
+0.0.0.0 traffick.jivox.com
 0.0.0.0 jsrdn.com
 0.0.0.0 juicemobile.com
 0.0.0.0 pixel.jumptap.com
@@ -1528,6 +1533,7 @@
 0.0.0.0 pool9.moatads.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sn.moatads.com
+0.0.0.0 svastx.moatads.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 z.moatads.com
@@ -2202,6 +2208,7 @@
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 d3kkw-y716t.ads.tremorhub.com
+0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
 0.0.0.0 trendmd.com
 0.0.0.0 js.trendmd.com
 0.0.0.0 analytics.tresensa.com

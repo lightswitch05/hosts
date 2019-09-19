@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T16:13:52+00:00
-# Count: 62226 domains
+# Released: 2019-09-19T18:52:08+00:00
+# Count: 62320 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -15044,7 +15044,96 @@
 0.0.0.0 stage.convertro.com
 0.0.0.0 www.stage.convertro.com
 0.0.0.0 www.convertro.com
+0.0.0.0 conviva.com
+0.0.0.0 api.conviva.com
+0.0.0.0 api-dev1.conviva.com
+0.0.0.0 auth.conviva.com
+0.0.0.0 www.auth.conviva.com
+0.0.0.0 autodiscover.conviva.com
+0.0.0.0 aws.conviva.com
+0.0.0.0 ci.conviva.com
+0.0.0.0 ci-api.conviva.com
+0.0.0.0 ci-embed.conviva.com
+0.0.0.0 ci-frontend.conviva.com
+0.0.0.0 corp.conviva.com
+0.0.0.0 autodiscover.corp.conviva.com
+0.0.0.0 mail.corp.conviva.com
+0.0.0.0 www.mail.corp.conviva.com
+0.0.0.0 cws.conviva.com
+0.0.0.0 zee.cws.conviva.com
+0.0.0.0 cws-app-eu-west-1.conviva.com
+0.0.0.0 cws-app-us-west-2.conviva.com
+0.0.0.0 cws-cctv.conviva.com
+0.0.0.0 cws-eu-west-1.conviva.com
 0.0.0.0 cws-hulu.conviva.com
+0.0.0.0 cws-iad1.conviva.com
+0.0.0.0 cws-lgi.conviva.com
+0.0.0.0 www.cws-lgi.conviva.com
+0.0.0.0 cws-lgi-ams1.conviva.com
+0.0.0.0 cws-lgi-global.conviva.com
+0.0.0.0 cws-s.conviva.com
+0.0.0.0 cws-s-usw.conviva.com
+0.0.0.0 cws-s-usw2.conviva.com
+0.0.0.0 cws-sjc2.conviva.com
+0.0.0.0 cws-us-east.conviva.com
+0.0.0.0 cws-usw1.conviva.com
+0.0.0.0 cws-usw2.conviva.com
+0.0.0.0 dev1.conviva.com
+0.0.0.0 dl.dev1.conviva.com
+0.0.0.0 dl.conviva.com
+0.0.0.0 go.conviva.com
+0.0.0.0 hulu.conviva.com
+0.0.0.0 livepass.conviva.com
+0.0.0.0 www.livepass.conviva.com
+0.0.0.0 livepassdl.conviva.com
+0.0.0.0 www.livepassdl.conviva.com
+0.0.0.0 livepassdl-global.conviva.com
+0.0.0.0 livepassdl2.conviva.com
+0.0.0.0 livepassdlssl.conviva.com
+0.0.0.0 lp.conviva.com
+0.0.0.0 lp2staging.conviva.com
+0.0.0.0 lp2staging-pulse.conviva.com
+0.0.0.0 m.conviva.com
+0.0.0.0 nsa.conviva.com
+0.0.0.0 nsb.conviva.com
+0.0.0.0 nsc.conviva.com
+0.0.0.0 nsd.conviva.com
+0.0.0.0 nse.conviva.com
+0.0.0.0 nsf.conviva.com
+0.0.0.0 nsg.conviva.com
+0.0.0.0 nsh.conviva.com
+0.0.0.0 pings.conviva.com
+0.0.0.0 prod.conviva.com
+0.0.0.0 pulse.conviva.com
+0.0.0.0 pulse-test-gw.conviva.com
+0.0.0.0 qe1.conviva.com
+0.0.0.0 m.qe1.conviva.com
+0.0.0.0 secure.conviva.com
+0.0.0.0 livepassdl.secure.conviva.com
+0.0.0.0 www.livepassdl.secure.conviva.com
+0.0.0.0 social.conviva.com
+0.0.0.0 api-dev1.social.conviva.com
+0.0.0.0 api-dev2.social.conviva.com
+0.0.0.0 dev1.social.conviva.com
+0.0.0.0 dev2.social.conviva.com
+0.0.0.0 new.social.conviva.com
+0.0.0.0 pdf.social.conviva.com
+0.0.0.0 stage.social.conviva.com
+0.0.0.0 stage2.social.conviva.com
+0.0.0.0 sso-community.conviva.com
+0.0.0.0 staging.conviva.com
+0.0.0.0 m.staging.conviva.com
+0.0.0.0 staging-ccs.conviva.com
+0.0.0.0 staging-gw11.conviva.com
+0.0.0.0 staging-gw12.conviva.com
+0.0.0.0 staging-gw13.conviva.com
+0.0.0.0 swang.conviva.com
+0.0.0.0 test-auth.conviva.com
+0.0.0.0 www.test-auth.conviva.com
+0.0.0.0 testonly.conviva.com
+0.0.0.0 mlb-test.testonly.conviva.com
+0.0.0.0 vrl-iad1.conviva.com
+0.0.0.0 www.conviva.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 www.consent.cookiebot.com
 0.0.0.0 coremetrics.com
@@ -19840,6 +19929,8 @@
 0.0.0.0 trunk.guce.huffpost.com
 0.0.0.0 doppler.hulu.com
 0.0.0.0 www.doppler.hulu.com
+0.0.0.0 metcon.hulu.com
+0.0.0.0 t2.hulu.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 www.vortex.hulu.com
 0.0.0.0 huluim.com
@@ -37894,6 +37985,7 @@
 0.0.0.0 pc083-yuxru.ads.tremorhub.com
 0.0.0.0 pc084-l9x8h.ads.tremorhub.com
 0.0.0.0 pc084-wodko.ads.tremorhub.com
+0.0.0.0 pc084-yuy9p.ads.tremorhub.com
 0.0.0.0 pc087-q40b8.ads.tremorhub.com
 0.0.0.0 pc091-58xvs.ads.tremorhub.com
 0.0.0.0 pc091-8vgyi.ads.tremorhub.com
@@ -37954,6 +38046,7 @@
 0.0.0.0 pc178-mb7h5.ads.tremorhub.com
 0.0.0.0 pc178-s53zb.ads.tremorhub.com
 0.0.0.0 pc202-2e8ec.ads.tremorhub.com
+0.0.0.0 pc202-59z4g.ads.tremorhub.com
 0.0.0.0 pc202-7h5xs.ads.tremorhub.com
 0.0.0.0 pc202-ahtd1.ads.tremorhub.com
 0.0.0.0 pc202-dykdj.ads.tremorhub.com
@@ -38268,6 +38361,7 @@
 0.0.0.0 vtrdn-9nvub.ads.tremorhub.com
 0.0.0.0 vwe5b.ads.tremorhub.com
 0.0.0.0 w2c3i-v8mse.ads.tremorhub.com
+0.0.0.0 w6blq-2hlk4.ads.tremorhub.com
 0.0.0.0 w6blq-g63t7.ads.tremorhub.com
 0.0.0.0 w6blq-ns544.ads.tremorhub.com
 0.0.0.0 w6blq-pfr83.ads.tremorhub.com

@@ -219,3 +219,7 @@
 # 1905388747193831650.1097622.acm-test.ops.tune.com
 ^\S{15,25}\.\S{5,10}\.acm-test\.ops\.tune\.com$
 
+# f68ad9b1b681fbda8824cdb7c202bb1144914a15.cws.conviva.com
+^\S{40}\.cws\.conviva\.com$
+
+
