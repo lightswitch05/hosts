@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T12:58:45+00:00
-# Count: 3414 domains
+# Released: 2019-09-19T13:26:52+00:00
+# Count: 3430 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -125,6 +125,7 @@
 0.0.0.0 wallet.3cinteractive.com
 0.0.0.0 3lift.com
 0.0.0.0 eb2.3lift.com
+0.0.0.0 ib.3lift.com
 0.0.0.0 na-eb2.3lift.com
 0.0.0.0 staging-tlx.3lift.com
 0.0.0.0 tlx.3lift.com
@@ -136,6 +137,8 @@
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 aaxads.com
 0.0.0.0 c.aaxads.com
+0.0.0.0 abtasty.com
+0.0.0.0 try.abtasty.com
 0.0.0.0 acashatusa.com
 0.0.0.0 www.acashatusa.com
 0.0.0.0 accessiblemetrics.com
@@ -267,6 +270,7 @@
 0.0.0.0 pinterest.adsymptotic.com
 0.0.0.0 adtechjp.com
 0.0.0.0 adtechus.com
+0.0.0.0 adserver.adtechus.com
 0.0.0.0 adtheorent.com
 0.0.0.0 platform.adtheorent.com
 0.0.0.0 adthrive.com
@@ -286,6 +290,8 @@
 0.0.0.0 www.en.advertisercommunity.com
 0.0.0.0 advertising.com
 0.0.0.0 ace.advertising.com
+0.0.0.0 adaptv.advertising.com
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 secure.leadback.advertising.com
@@ -544,6 +550,7 @@
 0.0.0.0 ixf2-api.bc0a.com
 0.0.0.0 ixfd-api.bc0a.com
 0.0.0.0 track.beachfrontreach.com
+0.0.0.0 beeftransmission.com
 0.0.0.0 www.beeftransmission.com
 0.0.0.0 2.beeg.com
 0.0.0.0 a2.beeg.com
@@ -1009,6 +1016,7 @@
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 apgb2b-reachcodeandproxy.gannettdigital.com
+0.0.0.0 atoms.gannettdigital.com
 0.0.0.0 pong.gannettdigital.com
 0.0.0.0 pong.production.gannettdigital.com
 0.0.0.0 pong2.production.gannettdigital.com
@@ -2026,6 +2034,7 @@
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 event.spotxchange.com
+0.0.0.0 search.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 springserve.com
 0.0.0.0 cdn.springserve.com
@@ -2146,6 +2155,7 @@
 0.0.0.0 ape-asset-tag.timeinc.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
+0.0.0.0 tiqcdn.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tkbo.com
 0.0.0.0 track.tkbo.com
@@ -2166,8 +2176,10 @@
 0.0.0.0 trafforsrv.com
 0.0.0.0 eb.trbas.com
 0.0.0.0 pixel.tree.com
+0.0.0.0 tremorhub.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
+0.0.0.0 d3kkw-y716t.ads.tremorhub.com
 0.0.0.0 trendmd.com
 0.0.0.0 js.trendmd.com
 0.0.0.0 analytics.tresensa.com
@@ -2610,6 +2622,7 @@
 0.0.0.0 metrics.readme.io
 0.0.0.0 rtk.io
 0.0.0.0 bidder.rtk.io
+0.0.0.0 sync.rtk.io
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
 0.0.0.0 sentry.io
@@ -2942,6 +2955,7 @@
 0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
+0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
@@ -3280,6 +3294,8 @@
 0.0.0.0 shoppingsurveys.org
 0.0.0.0 www.shoppingsurveys.org
 0.0.0.0 metrics.stjude.org
+0.0.0.0 trustx.org
+0.0.0.0 sofia.trustx.org
 0.0.0.0 booe.pro
 0.0.0.0 piwik.pro
 0.0.0.0 cdn.piwik.pro

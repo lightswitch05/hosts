@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T12:58:45+00:00
-# Count: 60630 domains
+# Released: 2019-09-19T13:26:52+00:00
+# Count: 60749 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -2497,6 +2497,79 @@
 0.0.0.0 p.aaxads.com
 0.0.0.0 s.aaxads.com
 0.0.0.0 test-lb2.aaxads.com
+0.0.0.0 abtasty.com
+0.0.0.0 ak-probe.abtasty.com
+0.0.0.0 app.abtasty.com
+0.0.0.0 ariane.abtasty.com
+0.0.0.0 staging.ariane.abtasty.com
+0.0.0.0 ariane-eu.abtasty.com
+0.0.0.0 ariane-eu-ae.abtasty.com
+0.0.0.0 cdn.abtasty.com
+0.0.0.0 code.abtasty.com
+0.0.0.0 datacollect.abtasty.com
+0.0.0.0 embedding.datascience.abtasty.com
+0.0.0.0 knn.datascience.abtasty.com
+0.0.0.0 knnen.datascience.abtasty.com
+0.0.0.0 portainer.datascience.abtasty.com
+0.0.0.0 rstudio.datascience.abtasty.com
+0.0.0.0 editor.abtasty.com
+0.0.0.0 en.abtasty.com
+0.0.0.0 export.abtasty.com
+0.0.0.0 fr.abtasty.com
+0.0.0.0 go.abtasty.com
+0.0.0.0 hello.abtasty.com
+0.0.0.0 api.audiencediscovery.innovation.abtasty.com
+0.0.0.0 www.api.audiencediscovery.innovation.abtasty.com
+0.0.0.0 www.www.api.audiencediscovery.innovation.abtasty.com
+0.0.0.0 www.www.www.api.audiencediscovery.innovation.abtasty.com
+0.0.0.0 fasttext.audiencediscovery.innovation.abtasty.com
+0.0.0.0 www.fasttext.audiencediscovery.innovation.abtasty.com
+0.0.0.0 www.www.fasttext.audiencediscovery.innovation.abtasty.com
+0.0.0.0 canarybay.innovation.abtasty.com
+0.0.0.0 api.canarybay.innovation.abtasty.com
+0.0.0.0 decision.api.canarybay.innovation.abtasty.com
+0.0.0.0 explorer.api.canarybay.innovation.abtasty.com
+0.0.0.0 preprod.explorer.api.canarybay.innovation.abtasty.com
+0.0.0.0 www.preprod.explorer.api.canarybay.innovation.abtasty.com
+0.0.0.0 preprod.api.canarybay.innovation.abtasty.com
+0.0.0.0 www.preprod.api.canarybay.innovation.abtasty.com
+0.0.0.0 decision.canarybay.innovation.abtasty.com
+0.0.0.0 api.decision.canarybay.innovation.abtasty.com
+0.0.0.0 www.decision.canarybay.innovation.abtasty.com
+0.0.0.0 decision.doc.canarybay.innovation.abtasty.com
+0.0.0.0 decisions.doc.canarybay.innovation.abtasty.com
+0.0.0.0 decision.docs.canarybay.innovation.abtasty.com
+0.0.0.0 preprod.canarybay.innovation.abtasty.com
+0.0.0.0 www.preprod.canarybay.innovation.abtasty.com
+0.0.0.0 decision.doccanarybay.innovation.abtasty.com
+0.0.0.0 api.eyetracking.innovation.abtasty.com
+0.0.0.0 ips.innovation.abtasty.com
+0.0.0.0 db.neo4jdb.innovation.abtasty.com
+0.0.0.0 www.db.neo4jdb.innovation.abtasty.com
+0.0.0.0 www.www.db.neo4jdb.innovation.abtasty.com
+0.0.0.0 portainer.innovation.abtasty.com
+0.0.0.0 www.portainer.innovation.abtasty.com
+0.0.0.0 abasty.scraper.innovation.abtasty.com
+0.0.0.0 www.abasty.scraper.innovation.abtasty.com
+0.0.0.0 api.scraper.innovation.abtasty.com
+0.0.0.0 www.api.scraper.innovation.abtasty.com
+0.0.0.0 instantpersonalization.abtasty.com
+0.0.0.0 logs.abtasty.com
+0.0.0.0 meeting.abtasty.com
+0.0.0.0 auth.meeting.abtasty.com
+0.0.0.0 conference.meeting.abtasty.com
+0.0.0.0 focus.meeting.abtasty.com
+0.0.0.0 recorder.meeting.abtasty.com
+0.0.0.0 mobile.abtasty.com
+0.0.0.0 dc.mobile.abtasty.com
+0.0.0.0 www.dc.mobile.abtasty.com
+0.0.0.0 nirror.abtasty.com
+0.0.0.0 api.nirror.abtasty.com
+0.0.0.0 app.nirror.abtasty.com
+0.0.0.0 www.app.nirror.abtasty.com
+0.0.0.0 product.abtasty.com
+0.0.0.0 socialproof.abtasty.com
+0.0.0.0 www.abtasty.com
 0.0.0.0 acashatusa.com
 0.0.0.0 www.acashatusa.com
 0.0.0.0 accessiblemetrics.com
@@ -5583,6 +5656,11 @@
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-ap.adaptv.advertising.com
+0.0.0.0 ads-direct-wc.adaptv.advertising.com
+0.0.0.0 ads-ec.adaptv.advertising.com
+0.0.0.0 ads-eu.adaptv.advertising.com
+0.0.0.0 ads-test.adaptv.advertising.com
+0.0.0.0 ads-wc.adaptv.advertising.com
 0.0.0.0 cdn.adaptv.advertising.com
 0.0.0.0 control-test-ec.adaptv.advertising.com
 0.0.0.0 conversions.adaptv.advertising.com
@@ -5590,6 +5668,7 @@
 0.0.0.0 stage.guce.adaptv.advertising.com
 0.0.0.0 trunk.guce.adaptv.advertising.com
 0.0.0.0 log.adaptv.advertising.com
+0.0.0.0 log-wc-b.adaptv.advertising.com
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 uplynk.adaptv.advertising.com
@@ -8561,6 +8640,7 @@
 0.0.0.0 marvel-cdn.bc0a.com
 0.0.0.0 staging.bc0a.com
 0.0.0.0 track.beachfrontreach.com
+0.0.0.0 beeftransmission.com
 0.0.0.0 www.beeftransmission.com
 0.0.0.0 2.beeg.com
 0.0.0.0 a2.beeg.com
@@ -14578,6 +14658,7 @@
 0.0.0.0 cat.jp.as.criteo.com
 0.0.0.0 caw.jp.as.criteo.com
 0.0.0.0 dis.jp.as.criteo.com
+0.0.0.0 info.jp.as.criteo.com
 0.0.0.0 nt.jp.as.criteo.com
 0.0.0.0 rat.jp.as.criteo.com
 0.0.0.0 rtb.jp.as.criteo.com
@@ -14664,6 +14745,7 @@
 0.0.0.0 mail.criteo.com
 0.0.0.0 maintenance.criteo.com
 0.0.0.0 marketing.criteo.com
+0.0.0.0 www.marketing.criteo.com
 0.0.0.0 msoid.criteo.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 nat-pool-fr-2.criteo.com
@@ -14688,6 +14770,7 @@
 0.0.0.0 ns6.criteo.com
 0.0.0.0 ns8.criteo.com
 0.0.0.0 nt.criteo.com
+0.0.0.0 office-fr.criteo.com
 0.0.0.0 paris2.criteo.com
 0.0.0.0 preprod.criteo.com
 0.0.0.0 eu.preprod.criteo.com
@@ -14695,6 +14778,7 @@
 0.0.0.0 marketing.preprod.criteo.com
 0.0.0.0 pub-sdk-cfg.criteo.com
 0.0.0.0 publishers.criteo.com
+0.0.0.0 pubsdk-bin.criteo.com
 0.0.0.0 rdi.criteo.com
 0.0.0.0 register.criteo.com
 0.0.0.0 int-api.register.criteo.com
@@ -18159,6 +18243,7 @@
 0.0.0.0 www.gameanalytics.com
 0.0.0.0 hb.gammaplatform.com
 0.0.0.0 apgb2b-reachcodeandproxy.gannettdigital.com
+0.0.0.0 atoms.gannettdigital.com
 0.0.0.0 pong.gannettdigital.com
 0.0.0.0 pong.production.gannettdigital.com
 0.0.0.0 pong2.production.gannettdigital.com
@@ -36118,9 +36203,11 @@
 0.0.0.0 www.ape-asset-tag.timeinc.com
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 experience.tinypass.com
+0.0.0.0 tiqcdn.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 akamai.tags.tiqcdn.com
 0.0.0.0 edgecast.tags.tiqcdn.com
+0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tkbo.com
 0.0.0.0 track.tkbo.com
 0.0.0.0 www.track.tkbo.com
@@ -36198,6 +36285,8 @@
 0.0.0.0 eb.trbas.com
 0.0.0.0 www.eb.trbas.com
 0.0.0.0 pixel.tree.com
+0.0.0.0 tremorhub.com
+0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 031kr-5vhnm.ads.tremorhub.com
 0.0.0.0 031kr-blmhx.ads.tremorhub.com
@@ -36211,6 +36300,7 @@
 0.0.0.0 11s02-w3opb.ads.tremorhub.com
 0.0.0.0 1583d-793hj.ads.tremorhub.com
 0.0.0.0 1583d-d589l.ads.tremorhub.com
+0.0.0.0 1583d-o5wr7.ads.tremorhub.com
 0.0.0.0 15d5k-z9f1d.ads.tremorhub.com
 0.0.0.0 17991-2dldb.ads.tremorhub.com
 0.0.0.0 www.17991-2dldb.ads.tremorhub.com
@@ -37078,6 +37168,7 @@
 0.0.0.0 v2jfu-508ot.ads.tremorhub.com
 0.0.0.0 v2jfu-sq7nj.ads.tremorhub.com
 0.0.0.0 v7cmh-gklx4.ads.tremorhub.com
+0.0.0.0 v7x13-h3gc0.ads.tremorhub.com
 0.0.0.0 v9ynb-oq2fg.ads.tremorhub.com
 0.0.0.0 vfgfc-vgzn7.ads.tremorhub.com
 0.0.0.0 vi1he-r9uf3.ads.tremorhub.com
@@ -37108,6 +37199,7 @@
 0.0.0.0 wonla-e44i7.ads.tremorhub.com
 0.0.0.0 x8k98.ads.tremorhub.com
 0.0.0.0 x9j0c.ads.tremorhub.com
+0.0.0.0 xcwa6-c5pj5.ads.tremorhub.com
 0.0.0.0 xdozl.ads.tremorhub.com
 0.0.0.0 xh7jb-yp0m1.ads.tremorhub.com
 0.0.0.0 xlf5t.ads.tremorhub.com
@@ -37133,6 +37225,24 @@
 0.0.0.0 zksge-scjdj.ads.tremorhub.com
 0.0.0.0 zmbra.ads.tremorhub.com
 0.0.0.0 zprg3.ads.tremorhub.com
+0.0.0.0 amobee-partners.tremorhub.com
+0.0.0.0 appnexus-partners.tremorhub.com
+0.0.0.0 brightroll-partners.tremorhub.com
+0.0.0.0 config.tremorhub.com
+0.0.0.0 connatix-supply-partners.tremorhub.com
+0.0.0.0 criteo-partners.tremorhub.com
+0.0.0.0 eb.tremorhub.com
+0.0.0.0 jwplayer.eb.tremorhub.com
+0.0.0.0 events.tremorhub.com
+0.0.0.0 eyeview-partners.tremorhub.com
+0.0.0.0 partners.tremorhub.com
+0.0.0.0 quantcast.partners.tremorhub.com
+0.0.0.0 publishers.tremorhub.com
+0.0.0.0 qds0l.publishers.tremorhub.com
+0.0.0.0 rbbat.publishers.tremorhub.com
+0.0.0.0 sundaysky-partners.tremorhub.com
+0.0.0.0 taboola-supply-partners.tremorhub.com
+0.0.0.0 videology-partners.tremorhub.com
 0.0.0.0 trendmd.com
 0.0.0.0 academia.trendmd.com
 0.0.0.0 www.academia.trendmd.com
@@ -50469,6 +50579,8 @@
 0.0.0.0 dualstack.us-eu.brightcove.map.fastly.net
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
+0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
+0.0.0.0 www.7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 www.clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -58453,6 +58565,13 @@
 0.0.0.0 usa.shoppingsurveys.org
 0.0.0.0 www.shoppingsurveys.org
 0.0.0.0 metrics.stjude.org
+0.0.0.0 trustx.org
+0.0.0.0 blizzofia.trustx.org
+0.0.0.0 mail.trustx.org
+0.0.0.0 sofia.trustx.org
+0.0.0.0 www.sofia.trustx.org
+0.0.0.0 sophia.trustx.org
+0.0.0.0 www.trustx.org
 0.0.0.0 booe.pro
 0.0.0.0 piwik.pro
 0.0.0.0 1.piwik.pro
