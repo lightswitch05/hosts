@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T12:38:42+00:00
-# Count: 60615 domains
+# Released: 2019-09-19T12:48:57+00:00
+# Count: 60628 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -15084,6 +15084,7 @@
 0.0.0.0 tag.dickssportinggoods.com
 0.0.0.0 irene.dictionary.com
 0.0.0.0 track.dictionary.com
+0.0.0.0 nlytcs.diffen.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 seal.digicert.com
 0.0.0.0 ads.sfo2.cdn.digitaloceanspaces.com
@@ -33285,6 +33286,18 @@
 0.0.0.0 ryke4peep.com
 0.0.0.0 secure.ryke4peep.com
 0.0.0.0 www.ryke4peep.com
+0.0.0.0 s-onetag.com
+0.0.0.0 beacon.s-onetag.com
+0.0.0.0 data-beacons.s-onetag.com
+0.0.0.0 dfp-gateway.s-onetag.com
+0.0.0.0 gam-ad-unit-inspector.s-onetag.com
+0.0.0.0 get.s-onetag.com
+0.0.0.0 metrics-collector.s-onetag.com
+0.0.0.0 metrics-collector-global-accelerator.s-onetag.com
+0.0.0.0 onetag-geo.s-onetag.com
+0.0.0.0 onetag-geo-grouping.s-onetag.com
+0.0.0.0 prebid.s-onetag.com
+0.0.0.0 www.s-onetag.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak2.sail-horizon.com

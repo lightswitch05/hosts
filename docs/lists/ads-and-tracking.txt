@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T12:38:42+00:00
-# Count: 3405 domains
+# Released: 2019-09-19T12:48:56+00:00
+# Count: 3410 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -833,6 +833,7 @@
 0.0.0.0 tag.dickssportinggoods.com
 0.0.0.0 irene.dictionary.com
 0.0.0.0 track.dictionary.com
+0.0.0.0 nlytcs.diffen.com
 0.0.0.0 metrics.digicert.com
 0.0.0.0 seal.digicert.com
 0.0.0.0 ads.sfo2.cdn.digitaloceanspaces.com
@@ -927,6 +928,7 @@
 0.0.0.0 dctk.expedia.com
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 exponential.com
+0.0.0.0 expo9.exponential.com
 0.0.0.0 tags.expo9.exponential.com
 0.0.0.0 extraexpansemoney.com
 0.0.0.0 www.extraexpansemoney.com
@@ -1892,6 +1894,8 @@
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 ryke4peep.com
 0.0.0.0 secure.ryke4peep.com
+0.0.0.0 s-onetag.com
+0.0.0.0 get.s-onetag.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
@@ -1919,6 +1923,7 @@
 0.0.0.0 sponsor.segmentfault.com
 0.0.0.0 sekindo.com
 0.0.0.0 hb.sekindo.com
+0.0.0.0 live.sekindo.com
 0.0.0.0 selectablemedia.com
 0.0.0.0 cdn.selectablemedia.com
 0.0.0.0 sentry-cdn.com
