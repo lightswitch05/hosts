@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T14:48:06+00:00
-# Count: 3438 domains
+# Released: 2019-09-19T16:13:52+00:00
+# Count: 3459 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -593,6 +593,8 @@
 0.0.0.0 a1.booksamillion.com
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 bounceexchange.com
+0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
@@ -714,6 +716,9 @@
 0.0.0.0 clrstm.com
 0.0.0.0 tag.clrstm.com
 0.0.0.0 stat.cludo.com
+0.0.0.0 fm.cnbc.com
+0.0.0.0 gdsapi.cnbc.com
+0.0.0.0 mps.cnbc.com
 0.0.0.0 agility.cnn.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 smetrics.cnn.com
@@ -878,6 +883,9 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 excess.duolingo.com
 0.0.0.0 dynamicyield.com
+0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 gateway.dynamicyield.com
+0.0.0.0 gw.metadata.dynamicyield.com
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 js-cdn.dynatrace.com
@@ -1215,6 +1223,8 @@
 0.0.0.0 js.iodo.com
 0.0.0.0 irganalytics.com
 0.0.0.0 api.iterable.com
+0.0.0.0 iteratehq.com
+0.0.0.0 platform.iteratehq.com
 0.0.0.0 iubenda.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 hits.iubenda.com
@@ -1574,12 +1584,17 @@
 0.0.0.0 tracker20.naturalbid.com
 0.0.0.0 tracker5.naturalbid.com
 0.0.0.0 tracker9.naturalbid.com
+0.0.0.0 mps.nbcuni.com
+0.0.0.0 osimg.nbcuni.com
+0.0.0.0 pix.nbcuni.com
+0.0.0.0 surf.nbcuni.com
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
 0.0.0.0 feed-player-service.prod.ndnops.com
 0.0.0.0 neatab.com
 0.0.0.0 needcashmoneyinstantly.com
+0.0.0.0 nervoussummer.com
 0.0.0.0 adserver.netcollins.com
 0.0.0.0 optmnstr.awesomemotive.netdna-cdn.com
 0.0.0.0 monetization-framework.bsa.netdna-cdn.com
@@ -1744,6 +1759,7 @@
 0.0.0.0 trackinglibrary.prodperfect.com
 0.0.0.0 etsy.trackinglibrary.prodperfect.com
 0.0.0.0 www2.profitwell.com
+0.0.0.0 urldefense.proofpoint.com
 0.0.0.0 propellerads.com
 0.0.0.0 ad.propellerads.com
 0.0.0.0 tracking.propellerads.com
@@ -1788,6 +1804,7 @@
 0.0.0.0 znbc5k4v9qea3h0pj-fandango.siteintercept.qualtrics.com
 0.0.0.0 quantserve.com
 0.0.0.0 2kpixel.quantserve.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
 0.0.0.0 quantummetric.com
@@ -2751,6 +2768,7 @@
 0.0.0.0 a248.e.akamai.net
 0.0.0.0 e8999.b.akamaiedge.net
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 amp.akamaized.net
@@ -2869,6 +2887,7 @@
 0.0.0.0 lowescompaniesinc.demdex.net
 0.0.0.0 mcclatchy.demdex.net
 0.0.0.0 millercoors.demdex.net
+0.0.0.0 nbcu.demdex.net
 0.0.0.0 pepsico.demdex.net
 0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 subaruofamerica.demdex.net
@@ -3163,6 +3182,8 @@
 0.0.0.0 pages03.net
 0.0.0.0 www.sc.pages03.net
 0.0.0.0 www.sc.pages06.net
+0.0.0.0 peer39.net
+0.0.0.0 stags.peer39.net
 0.0.0.0 rum.perfops.net
 0.0.0.0 perimeterx.net
 0.0.0.0 client.perimeterx.net
