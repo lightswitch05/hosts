@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T19:24:14+00:00
-# Count: 62459 domains
+# Released: 2019-09-19T19:34:21+00:00
+# Count: 62474 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -29519,6 +29519,7 @@
 0.0.0.0 www3.outbrain.com
 0.0.0.0 zem-us-west.outbrain.com
 0.0.0.0 zemvideos.outbrain.com
+0.0.0.0 somnivis.overstock.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 p2r14.com
 0.0.0.0 c.p2r14.com
@@ -36824,7 +36825,21 @@
 0.0.0.0 tracker.tagcommander.com
 0.0.0.0 v5.tagcommander.com
 0.0.0.0 www.tagcommander.com
+0.0.0.0 tagdelivery.com
+0.0.0.0 ad.tagdelivery.com
+0.0.0.0 ad-ab-1.tagdelivery.com
+0.0.0.0 ad-geo.tagdelivery.com
+0.0.0.0 ad-pop-slc.tagdelivery.com
+0.0.0.0 ad-thd-east.tagdelivery.com
+0.0.0.0 cdn.tagdelivery.com
+0.0.0.0 data.tagdelivery.com
 0.0.0.0 pixel.tagdelivery.com
+0.0.0.0 sfo-ha.tagdelivery.com
+0.0.0.0 staging.tagdelivery.com
+0.0.0.0 test-pop-pdx.tagdelivery.com
+0.0.0.0 test-pop-sfo.tagdelivery.com
+0.0.0.0 test-pop-slc.tagdelivery.com
+0.0.0.0 tools.tagdelivery.com
 0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
 0.0.0.0 adsrv.tapad.com

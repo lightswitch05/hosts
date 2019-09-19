@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T19:24:14+00:00
-# Count: 3487 domains
+# Released: 2019-09-19T19:34:21+00:00
+# Count: 3490 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1696,6 +1696,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 somnivis.overstock.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 p2r14.com
 0.0.0.0 c.p2r14.com
@@ -2139,6 +2140,8 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 tagcommander.com
+0.0.0.0 tagdelivery.com
+0.0.0.0 ad.tagdelivery.com
 0.0.0.0 pixel.tagdelivery.com
 0.0.0.0 bidder.talkingpointsmemo.com
 0.0.0.0 tapad.com
