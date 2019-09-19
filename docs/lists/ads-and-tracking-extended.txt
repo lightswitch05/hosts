@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-19T18:52:08+00:00
-# Count: 62320 domains
+# Released: 2019-09-19T19:24:14+00:00
+# Count: 62459 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -3837,6 +3837,7 @@
 0.0.0.0 fra121.ib.adnxs.com
 0.0.0.0 fra122.ib.adnxs.com
 0.0.0.0 fra124.ib.adnxs.com
+0.0.0.0 fra125.ib.adnxs.com
 0.0.0.0 fra127.ib.adnxs.com
 0.0.0.0 fra128.ib.adnxs.com
 0.0.0.0 fra129.ib.adnxs.com
@@ -3864,6 +3865,7 @@
 0.0.0.0 fra149.ib.adnxs.com
 0.0.0.0 fra15.ib.adnxs.com
 0.0.0.0 fra150.ib.adnxs.com
+0.0.0.0 fra151.ib.adnxs.com
 0.0.0.0 fra152.ib.adnxs.com
 0.0.0.0 fra153.ib.adnxs.com
 0.0.0.0 fra154.ib.adnxs.com
@@ -3880,6 +3882,7 @@
 0.0.0.0 fra165.ib.adnxs.com
 0.0.0.0 fra167.ib.adnxs.com
 0.0.0.0 fra168.ib.adnxs.com
+0.0.0.0 fra169.ib.adnxs.com
 0.0.0.0 fra17.ib.adnxs.com
 0.0.0.0 fra173.ib.adnxs.com
 0.0.0.0 fra174.ib.adnxs.com
@@ -3915,6 +3918,7 @@
 0.0.0.0 fra205.ib.adnxs.com
 0.0.0.0 fra206.ib.adnxs.com
 0.0.0.0 fra207.ib.adnxs.com
+0.0.0.0 fra208.ib.adnxs.com
 0.0.0.0 fra209.ib.adnxs.com
 0.0.0.0 fra21.ib.adnxs.com
 0.0.0.0 fra210.ib.adnxs.com
@@ -3942,6 +3946,7 @@
 0.0.0.0 fra234.ib.adnxs.com
 0.0.0.0 fra235.ib.adnxs.com
 0.0.0.0 fra237.ib.adnxs.com
+0.0.0.0 fra238.ib.adnxs.com
 0.0.0.0 fra239.ib.adnxs.com
 0.0.0.0 fra24.ib.adnxs.com
 0.0.0.0 fra240.ib.adnxs.com
@@ -3952,6 +3957,7 @@
 0.0.0.0 fra245.ib.adnxs.com
 0.0.0.0 fra246.ib.adnxs.com
 0.0.0.0 fra247.ib.adnxs.com
+0.0.0.0 fra248.ib.adnxs.com
 0.0.0.0 fra249.ib.adnxs.com
 0.0.0.0 fra25.ib.adnxs.com
 0.0.0.0 fra250.ib.adnxs.com
@@ -3989,6 +3995,7 @@
 0.0.0.0 fra28.ib.adnxs.com
 0.0.0.0 fra280.ib.adnxs.com
 0.0.0.0 fra281.ib.adnxs.com
+0.0.0.0 fra282.ib.adnxs.com
 0.0.0.0 fra283.ib.adnxs.com
 0.0.0.0 fra284.ib.adnxs.com
 0.0.0.0 fra285.ib.adnxs.com
@@ -4026,6 +4033,7 @@
 0.0.0.0 fra32.ib.adnxs.com
 0.0.0.0 fra321.ib.adnxs.com
 0.0.0.0 fra322.ib.adnxs.com
+0.0.0.0 fra323.ib.adnxs.com
 0.0.0.0 fra324.ib.adnxs.com
 0.0.0.0 fra326.ib.adnxs.com
 0.0.0.0 fra327.ib.adnxs.com
@@ -4091,10 +4099,12 @@
 0.0.0.0 fra391.ib.adnxs.com
 0.0.0.0 fra392.ib.adnxs.com
 0.0.0.0 fra393.ib.adnxs.com
+0.0.0.0 fra395.ib.adnxs.com
 0.0.0.0 fra396.ib.adnxs.com
 0.0.0.0 fra399.ib.adnxs.com
 0.0.0.0 fra4.ib.adnxs.com
 0.0.0.0 fra40.ib.adnxs.com
+0.0.0.0 fra400.ib.adnxs.com
 0.0.0.0 fra401.ib.adnxs.com
 0.0.0.0 fra402.ib.adnxs.com
 0.0.0.0 fra403.ib.adnxs.com
@@ -4233,6 +4243,7 @@
 0.0.0.0 fra90.ib.adnxs.com
 0.0.0.0 fra91.ib.adnxs.com
 0.0.0.0 fra92.ib.adnxs.com
+0.0.0.0 fra93.ib.adnxs.com
 0.0.0.0 fra95.ib.adnxs.com
 0.0.0.0 fra96.ib.adnxs.com
 0.0.0.0 fra97.ib.adnxs.com
@@ -7657,6 +7668,8 @@
 0.0.0.0 www.device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 font-vmg.s3.amazonaws.com
 0.0.0.0 www.font-vmg.s3.amazonaws.com
+0.0.0.0 hvtd.s3.amazonaws.com
+0.0.0.0 www.hvtd.s3.amazonaws.com
 0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
 0.0.0.0 vmg-us.s3.amazonaws.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
@@ -9367,6 +9380,19 @@
 0.0.0.0 79110932.r.bat.bing.com
 0.0.0.0 800694.r.bat.bing.com
 0.0.0.0 936640.r.bat.bing.com
+0.0.0.0 c.bing.com
+0.0.0.0 anonchk.c.bing.com
+0.0.0.0 b.c.bing.com
+0.0.0.0 b048bb050cecb6348039dbb02cacb651f.c.bing.com
+0.0.0.0 b176ad97310c765ff085adc9814c763ae.c.bing.com
+0.0.0.0 bec1b485a2e64875e17a91752ffffffff.c.bing.com
+0.0.0.0 fg-set-my-cookie.c.bing.com
+0.0.0.0 i.c.bing.com
+0.0.0.0 i196ffa3a2cd06b67266cf67628d0684c.c.bing.com
+0.0.0.0 ld0e16864c0b74d263a4afe5bffffffff.c.bing.com
+0.0.0.0 m176ad97310c765ff085adc9814c763ae.c.bing.com
+0.0.0.0 mr.c.bing.com
+0.0.0.0 www.c.bing.com
 0.0.0.0 bat.bing-int.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 bizible.com
@@ -9388,6 +9414,19 @@
 0.0.0.0 roi.bizible.com
 0.0.0.0 sf.bizible.com
 0.0.0.0 www.bizible.com
+0.0.0.0 bizographics.com
+0.0.0.0 api.bizographics.com
+0.0.0.0 cdn.bizographics.com
+0.0.0.0 data.bizographics.com
+0.0.0.0 dc.bizographics.com
+0.0.0.0 email.bizographics.com
+0.0.0.0 error.bizographics.com
+0.0.0.0 dc.geo.bizographics.com
+0.0.0.0 img.bizographics.com
+0.0.0.0 imp2.bizographics.com
+0.0.0.0 js.bizographics.com
+0.0.0.0 sjs.bizographics.com
+0.0.0.0 www.bizographics.com
 0.0.0.0 bkrtx.com
 0.0.0.0 origin.bkrtx.com
 0.0.0.0 tags.bkrtx.com
@@ -26910,6 +26949,9 @@
 0.0.0.0 www.www2.mpnrs.com
 0.0.0.0 www3.mpnrs.com
 0.0.0.0 www.www3.mpnrs.com
+0.0.0.0 msn.com
+0.0.0.0 vortex.data.msn.com
+0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn2.mxpnl.com
@@ -37451,6 +37493,8 @@
 0.0.0.0 eb.trbas.com
 0.0.0.0 www.eb.trbas.com
 0.0.0.0 pixel.tree.com
+0.0.0.0 widgets.tree.com
+0.0.0.0 www.widgets.tree.com
 0.0.0.0 tremorhub.com
 0.0.0.0 adelphic-partners.tremorhub.com
 0.0.0.0 ads.tremorhub.com
@@ -44935,6 +44979,7 @@
 0.0.0.0 wkctprocomplyprod.122.207.net
 0.0.0.0 xbridge.122.207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
+0.0.0.0 s0.2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 012.2o7.net
 0.0.0.0 112.2o7.net
@@ -47854,6 +47899,96 @@
 0.0.0.0 vix.us.criteo.net
 0.0.0.0 vix.criteo.net
 0.0.0.0 www.criteo.net
+0.0.0.0 crwdcntrl.net
+0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 bb.crwdcntrl.net
+0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 bebo.crwdcntrl.net
+0.0.0.0 blingee.crwdcntrl.net
+0.0.0.0 blogtalkradio.crwdcntrl.net
+0.0.0.0 bookrags.crwdcntrl.net
+0.0.0.0 buzznet.crwdcntrl.net
+0.0.0.0 cdn.crwdcntrl.net
+0.0.0.0 cn.crwdcntrl.net
+0.0.0.0 coop.crwdcntrl.net
+0.0.0.0 cr.crwdcntrl.net
+0.0.0.0 deviantart.crwdcntrl.net
+0.0.0.0 dxgui.crwdcntrl.net
+0.0.0.0 bcpad2.dub.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad3.dub.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad1.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad2.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad3.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad3p.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad4.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad5.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad6.iad.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad3.pdx.loc.dyn.crwdcntrl.net
+0.0.0.0 bcpad4.pdx.loc.dyn.crwdcntrl.net
+0.0.0.0 td.dyn.crwdcntrl.net
+0.0.0.0 flixster.crwdcntrl.net
+0.0.0.0 fotolog.crwdcntrl.net
+0.0.0.0 g.crwdcntrl.net
+0.0.0.0 gui.crwdcntrl.net
+0.0.0.0 huffingtonpost.crwdcntrl.net
+0.0.0.0 iad.crwdcntrl.net
+0.0.0.0 justjared.crwdcntrl.net
+0.0.0.0 bcpad0.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad1.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad2.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad3.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad4.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad5.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad6.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad7.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad8.dub.loc.crwdcntrl.net
+0.0.0.0 bcpad1.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad2.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad3.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad4.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad5.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad6.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad7.iad.loc.crwdcntrl.net
+0.0.0.0 bcpad1.pdx.loc.crwdcntrl.net
+0.0.0.0 bcpad2.pdx.loc.crwdcntrl.net
+0.0.0.0 bcpad3.pdx.loc.crwdcntrl.net
+0.0.0.0 bcpad4.pdx.loc.crwdcntrl.net
+0.0.0.0 bcpad0.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad1.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad2.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad3.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad4.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad5.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad6.sin.loc.crwdcntrl.net
+0.0.0.0 bcpad1.sjc.loc.crwdcntrl.net
+0.0.0.0 bcpad2.sjc.loc.crwdcntrl.net
+0.0.0.0 bcpad3.sjc.loc.crwdcntrl.net
+0.0.0.0 meez.crwdcntrl.net
+0.0.0.0 multiply.crwdcntrl.net
+0.0.0.0 paltalk.crwdcntrl.net
+0.0.0.0 perfspot.crwdcntrl.net
+0.0.0.0 preferences.crwdcntrl.net
+0.0.0.0 somethingawful.crwdcntrl.net
+0.0.0.0 superficial.crwdcntrl.net
+0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 ag.tags.crwdcntrl.net
+0.0.0.0 celebslam.tags.crwdcntrl.net
+0.0.0.0 cnnmoney.tags.crwdcntrl.net
+0.0.0.0 fanpop.tags.crwdcntrl.net
+0.0.0.0 fansites.tags.crwdcntrl.net
+0.0.0.0 nbcu.tags.crwdcntrl.net
+0.0.0.0 oh.tags.crwdcntrl.net
+0.0.0.0 sportsillustrated.tags.crwdcntrl.net
+0.0.0.0 vampirefreaks.tags.crwdcntrl.net
+0.0.0.0 videogum.tags.crwdcntrl.net
+0.0.0.0 www.tags.crwdcntrl.net
+0.0.0.0 yardbarker.tags.crwdcntrl.net
+0.0.0.0 td.crwdcntrl.net
+0.0.0.0 td2.crwdcntrl.net
+0.0.0.0 ts.crwdcntrl.net
+0.0.0.0 vidilife.crwdcntrl.net
+0.0.0.0 www.crwdcntrl.net
 0.0.0.0 datamark.net
 0.0.0.0 www.array.datamark.net
 0.0.0.0 autodiscover.datamark.net
@@ -59361,6 +59496,10 @@
 0.0.0.0 mediaserv.usw2.st-av.net
 0.0.0.0 nsqadmin.usw2.st-av.net
 0.0.0.0 mediaserv.stage.usw2.st-av.net
+0.0.0.0 storygize.net
+0.0.0.0 cdn.storygize.net
+0.0.0.0 cdnstaging.storygize.net
+0.0.0.0 www.storygize.net
 0.0.0.0 streamrail.net
 0.0.0.0 anyclip-media.streamrail.net
 0.0.0.0 anyclip-media-vast.streamrail.net

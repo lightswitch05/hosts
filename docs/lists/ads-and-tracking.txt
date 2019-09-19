@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-19T18:52:08+00:00
-# Count: 3466 domains
+# Released: 2019-09-19T19:24:14+00:00
+# Count: 3487 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -296,6 +296,7 @@
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 banner.advertising.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 sp.advertising.com
@@ -431,6 +432,7 @@
 0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
 0.0.0.0 font-vmg.s3.amazonaws.com
+0.0.0.0 hvtd.s3.amazonaws.com
 0.0.0.0 tor-sponsored-posts.s3.amazonaws.com
 0.0.0.0 vmg-us.s3.amazonaws.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
@@ -524,6 +526,8 @@
 0.0.0.0 at.atwola.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 pixel.ingest.at.atwola.com
+0.0.0.0 jp.at.atwola.com
+0.0.0.0 uk.at.atwola.com
 0.0.0.0 audiensis.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 automatad.com
@@ -577,9 +581,12 @@
 0.0.0.0 bidsimulator.com
 0.0.0.0 go.bidsimulator.com
 0.0.0.0 bat.bing.com
+0.0.0.0 c.bing.com
 0.0.0.0 bat.bing-int.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 bizible.com
+0.0.0.0 bizographics.com
+0.0.0.0 www.bizographics.com
 0.0.0.0 bkrtx.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 blismedia.com
@@ -1082,9 +1089,11 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 granify.com
 0.0.0.0 cdn.granify.com
 0.0.0.0 metric.gstatic.com
@@ -1568,6 +1577,9 @@
 0.0.0.0 secure-cdn.mplxtms.com
 0.0.0.0 mpnrs.com
 0.0.0.0 www1.mpnrs.com
+0.0.0.0 msn.com
+0.0.0.0 vortex.data.msn.com
+0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 mxpnl.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 mxradon.com
@@ -2204,6 +2216,7 @@
 0.0.0.0 trafforsrv.com
 0.0.0.0 eb.trbas.com
 0.0.0.0 pixel.tree.com
+0.0.0.0 widgets.tree.com
 0.0.0.0 tremorhub.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
@@ -2411,6 +2424,7 @@
 0.0.0.0 sdk3.ibm.xtify.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
@@ -2718,6 +2732,7 @@
 0.0.0.0 logs1.smithsonian.museum
 0.0.0.0 207.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
+0.0.0.0 s0.2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 112.2o7.net
 0.0.0.0 bankrate.112.2o7.net
@@ -2869,6 +2884,9 @@
 0.0.0.0 criteo.net
 0.0.0.0 pixel.criteo.net
 0.0.0.0 www.criteo.net
+0.0.0.0 crwdcntrl.net
+0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 datamark.net
 0.0.0.0 decibelinsight.net
 0.0.0.0 cdn.decibelinsight.net
@@ -3069,6 +3087,7 @@
 0.0.0.0 service.maxymiser.net
 0.0.0.0 media.net
 0.0.0.0 cdneast2-xch.media.net
+0.0.0.0 hbx.media.net
 0.0.0.0 prebid.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
@@ -3233,6 +3252,8 @@
 0.0.0.0 sp10050c00.guided.ss-omtrdc.net
 0.0.0.0 st-av.net
 0.0.0.0 api.st-av.net
+0.0.0.0 storygize.net
+0.0.0.0 www.storygize.net
 0.0.0.0 streamrail.net
 0.0.0.0 vast.streamrail.net
 0.0.0.0 cs905.wac.systemcdn.net
