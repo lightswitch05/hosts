@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-22T22:35:44+00:00
-# Count: 3493 domains
+# Released: 2019-09-23T13:37:44+00:00
+# Count: 3505 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1094,6 +1094,9 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 gosquared.com
+0.0.0.0 data.gosquared.com
+0.0.0.0 data2.gosquared.com
 0.0.0.0 granify.com
 0.0.0.0 cdn.granify.com
 0.0.0.0 metric.gstatic.com
@@ -1827,6 +1830,7 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 px.quantserve.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 secure.quantserve.com
 0.0.0.0 quantummetric.com
 0.0.0.0 bbb-app.quantummetric.com
 0.0.0.0 bbb-sync.quantummetric.com
@@ -1930,6 +1934,8 @@
 0.0.0.0 videoads-cloud.rovio.com
 0.0.0.0 rpxnow.com
 0.0.0.0 widget-cdn.rpxnow.com
+0.0.0.0 rtbiq.com
+0.0.0.0 analytics.rtbiq.com
 0.0.0.0 rtrk.com
 0.0.0.0 rcod.rtrk.com
 0.0.0.0 rtsys.rtrk.com
@@ -1992,6 +1998,8 @@
 0.0.0.0 serverbid.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 sync.serverbid.com
+0.0.0.0 serving-sys.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 sf14g.com
 0.0.0.0 invenio.sgn.com
 0.0.0.0 shareaholic.com
@@ -2960,6 +2968,7 @@
 0.0.0.0 5605209.fls.doubleclick.net
 0.0.0.0 6635101.fls.doubleclick.net
 0.0.0.0 685973.fls.doubleclick.net
+0.0.0.0 6978019.fls.doubleclick.net
 0.0.0.0 8222151.fls.doubleclick.net
 0.0.0.0 8537130.fls.doubleclick.net
 0.0.0.0 8705596.fls.doubleclick.net
@@ -3073,6 +3082,7 @@
 0.0.0.0 beacon.krxd.net
 0.0.0.0 cdn.krxd.net
 0.0.0.0 consumer.krxd.net
+0.0.0.0 levelaccess.net
 0.0.0.0 analytics.levelaccess.net
 0.0.0.0 api.levelaccess.net
 0.0.0.0 cdn.levelaccess.net
@@ -3222,6 +3232,7 @@
 0.0.0.0 collector-a.perimeterx.net
 0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
+0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxpmp8ilui.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
@@ -3320,6 +3331,7 @@
 0.0.0.0 adserver.org
 0.0.0.0 adsrvr.org
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 js.adsrvr.org
 0.0.0.0 match.adsrvr.org
 0.0.0.0 snap.adsrvr.org
 0.0.0.0 t.update.adsrvr.org

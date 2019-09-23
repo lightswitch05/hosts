@@ -17,9 +17,6 @@
 ^click\.\S*exacttarget\.com$
 ^\S+\.login\.exacttarget\.com$
 
-# engineering blog
-^engineering\.curalate\.com$
-
 # https://github.com/lightswitch05/hosts/issues/38
 ^vendorlist\.consensu\.org$
 
@@ -134,13 +131,17 @@
 ^(www\.)?store\.
 ^(www\.)?support\.
 ^(www\.)?trial\.
-^(www\.)?try\.
 ^(www\.)?webex\.
 ^(www\.)?webmail\.
 ^(www\.)?welcome\.
 ^(www\.)?xmpp\.
 ^(www\.)?sandbox\.
 ^(www\.)?builds?\.
+^(www\.)?engineering\.
+^(www\.)?artifactory(-maven)?\.
+^(www\.)?sonarqube\.
+^(www\.)?maven\.
+^(www\.)?faq\.
 
 # only block root - not user-att-104-1-192-0.a248.e.akamai.net
 ^user-att-\S*.a248.e.akamai.net$
