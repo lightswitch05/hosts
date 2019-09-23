@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-23T13:40:39+00:00
-# Count: 3505 domains
+# Released: 2019-09-23T14:07:52+00:00
+# Count: 3521 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -460,6 +460,8 @@
 0.0.0.0 player.aniview.com
 0.0.0.0 track.aniview.com
 0.0.0.0 track1.aniview.com
+0.0.0.0 answerscloud.com
+0.0.0.0 gateway.answerscloud.com
 0.0.0.0 dmp-pixel.aolp-prd.public.aol.com
 0.0.0.0 apester.com
 0.0.0.0 events.apester.com
@@ -519,6 +521,8 @@
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 atdmt.com
 0.0.0.0 cx.atdmt.com
+0.0.0.0 atgsvcs.com
+0.0.0.0 recs.atgsvcs.com
 0.0.0.0 analytics.atlassian.com
 0.0.0.0 attributionapp.com
 0.0.0.0 scripts.attributionapp.com
@@ -996,8 +1000,14 @@
 0.0.0.0 location.l.force.com
 0.0.0.0 foresee.com
 0.0.0.0 analytics.foresee.com
+0.0.0.0 brain.foresee.com
+0.0.0.0 cxsurvey.foresee.com
 0.0.0.0 gateway.foresee.com
 0.0.0.0 record.foresee.com
+0.0.0.0 s.foresee.com
+0.0.0.0 static.foresee.com
+0.0.0.0 foreseeresults.com
+0.0.0.0 survey.foreseeresults.com
 0.0.0.0 forter.com
 0.0.0.0 2c5de9923d36.cdn4.forter.com
 0.0.0.0 null.cdn4.forter.com
@@ -1566,6 +1576,7 @@
 0.0.0.0 monetizer101.com
 0.0.0.0 api.monetizer101.com
 0.0.0.0 mookie1.com
+0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 mopub.com
 0.0.0.0 ads.mopub.com
@@ -1576,6 +1587,9 @@
 0.0.0.0 identity.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
+0.0.0.0 mpeasylink.com
+0.0.0.0 dollartree.mpeasylink.com
+0.0.0.0 wingstopcom.mpeasylink.com
 0.0.0.0 mplxtms.com
 0.0.0.0 secure-cdn.mplxtms.com
 0.0.0.0 mpnrs.com
@@ -1694,6 +1708,8 @@
 0.0.0.0 v.optvdo.com
 0.0.0.0 cobrowse.oraclecloud.com
 0.0.0.0 sc61124012us1.cobrowse.oraclecloud.com
+0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
+0.0.0.0 cloud-commerce-visit.oracleoutsourcing.com
 0.0.0.0 oriori.com
 0.0.0.0 outbrain.com
 0.0.0.0 sync.outbrain.com
