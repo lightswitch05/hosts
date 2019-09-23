@@ -52,6 +52,9 @@
 # dpm.demdex.net seems to be breaking sling
 ^dpm\.demdex\.net$
 
+# md0ig7ssl8unl2kpl0h6p0drn.litix.io
+\S{20,}\.litix\.io$
+
 # innocuous subdomains
 ^(www\.)?jira
 ^(www\.)?bamboo

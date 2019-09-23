@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-23T14:07:52+00:00
-# Count: 62806 domains
+# Released: 2019-09-23T18:29:54+00:00
+# Count: 62843 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -43792,6 +43792,10 @@
 0.0.0.0 staging.liftoff.io
 0.0.0.0 winner.liftoff.io
 0.0.0.0 www.liftoff.io
+0.0.0.0 litix.io
+0.0.0.0 img.litix.io
+0.0.0.0 img-test.litix.io
+0.0.0.0 src.litix.io
 0.0.0.0 logrocket.io
 0.0.0.0 aks-test.logrocket.io
 0.0.0.0 assets.logrocket.io
@@ -52564,7 +52568,11 @@
 0.0.0.0 165a7.v.fwmrm.net
 0.0.0.0 1b656.v.fwmrm.net
 0.0.0.0 1c6e2.v.fwmrm.net
+0.0.0.0 1c6e9.v.fwmrm.net
 0.0.0.0 1f2e7.v.fwmrm.net
+0.0.0.0 2356e.v.fwmrm.net
+0.0.0.0 23571.v.fwmrm.net
+0.0.0.0 23adc.v.fwmrm.net
 0.0.0.0 2517d.v.fwmrm.net
 0.0.0.0 2822.v.fwmrm.net
 0.0.0.0 2912a.v.fwmrm.net
@@ -52572,18 +52580,25 @@
 0.0.0.0 2915dc.v.fwmrm.net
 0.0.0.0 29161c.v.fwmrm.net
 0.0.0.0 2945.v.fwmrm.net
+0.0.0.0 2975.v.fwmrm.net
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 29773.v.fwmrm.net
+0.0.0.0 29ccc.v.fwmrm.net
 0.0.0.0 29ccd.v.fwmrm.net
+0.0.0.0 29cd8.v.fwmrm.net
+0.0.0.0 2a7e7.v.fwmrm.net
 0.0.0.0 2a7e9.v.fwmrm.net
 0.0.0.0 2ab7f.v.fwmrm.net
 0.0.0.0 2ddb3.v.fwmrm.net
+0.0.0.0 2df7b.v.fwmrm.net
 0.0.0.0 2df7e.v.fwmrm.net
+0.0.0.0 2e6f8.v.fwmrm.net
 0.0.0.0 2ecd5.v.fwmrm.net
 0.0.0.0 5af10.v.fwmrm.net
 0.0.0.0 5bb3d.v.fwmrm.net
 0.0.0.0 5bb41.v.fwmrm.net
 0.0.0.0 5bb44.v.fwmrm.net
+0.0.0.0 5bde1.v.fwmrm.net
 0.0.0.0 5bec9.v.fwmrm.net
 0.0.0.0 5c7d9.v.fwmrm.net
 0.0.0.0 5c910.v.fwmrm.net
@@ -52594,13 +52609,19 @@
 0.0.0.0 5d3e9.v.fwmrm.net
 0.0.0.0 5d402.v.fwmrm.net
 0.0.0.0 5d406.v.fwmrm.net
+0.0.0.0 5d40b.v.fwmrm.net
+0.0.0.0 5d423.v.fwmrm.net
+0.0.0.0 5d425.v.fwmrm.net
 0.0.0.0 5d427.v.fwmrm.net
 0.0.0.0 5d457.v.fwmrm.net
 0.0.0.0 5d4a1.v.fwmrm.net
 0.0.0.0 5d54b.v.fwmrm.net
 0.0.0.0 5d56a.v.fwmrm.net
+0.0.0.0 5d56b.v.fwmrm.net
 0.0.0.0 5d7e0.v.fwmrm.net
+0.0.0.0 5df08.v.fwmrm.net
 0.0.0.0 5df09.v.fwmrm.net
+0.0.0.0 5e0d2.v.fwmrm.net
 0.0.0.0 5e124.v.fwmrm.net
 0.0.0.0 5e529.v.fwmrm.net
 0.0.0.0 5f456.v.fwmrm.net
@@ -52608,6 +52629,7 @@
 0.0.0.0 5fa8f.v.fwmrm.net
 0.0.0.0 5fcbb.v.fwmrm.net
 0.0.0.0 5fd74.v.fwmrm.net
+0.0.0.0 5fd75.v.fwmrm.net
 0.0.0.0 6021c.v.fwmrm.net
 0.0.0.0 602ff.v.fwmrm.net
 0.0.0.0 604fc.v.fwmrm.net
@@ -52620,18 +52642,29 @@
 0.0.0.0 7caa2.v.fwmrm.net
 0.0.0.0 7cb77.v.fwmrm.net
 0.0.0.0 7cbf2.v.fwmrm.net
+0.0.0.0 7cd76.v.fwmrm.net
 0.0.0.0 7cd77.v.fwmrm.net
 0.0.0.0 7cdaf.v.fwmrm.net
+0.0.0.0 7ceaf.v.fwmrm.net
 0.0.0.0 7cedf.v.fwmrm.net
+0.0.0.0 7cf6e.v.fwmrm.net
 0.0.0.0 7cf6f.v.fwmrm.net
+0.0.0.0 7cf70.v.fwmrm.net
 0.0.0.0 7cf8f.v.fwmrm.net
 0.0.0.0 7cf90.v.fwmrm.net
 0.0.0.0 7cfe7.v.fwmrm.net
+0.0.0.0 7cfee.v.fwmrm.net
+0.0.0.0 7d074.v.fwmrm.net
 0.0.0.0 7db96.v.fwmrm.net
 0.0.0.0 7dbdb.v.fwmrm.net
+0.0.0.0 7dc75.v.fwmrm.net
 0.0.0.0 7dcde.v.fwmrm.net
+0.0.0.0 7e148.v.fwmrm.net
+0.0.0.0 7e14d.v.fwmrm.net
+0.0.0.0 7e17d.v.fwmrm.net
 0.0.0.0 7e1d5.v.fwmrm.net
 0.0.0.0 803d.v.fwmrm.net
+0.0.0.0 a5d0.v.fwmrm.net
 0.0.0.0 bd0dc.v.fwmrm.net
 0.0.0.0 be6a.v.fwmrm.net
 0.0.0.0 be6b.v.fwmrm.net
@@ -52640,15 +52673,19 @@
 0.0.0.0 dmp.v.fwmrm.net
 0.0.0.0 dsp.v.fwmrm.net
 0.0.0.0 g1.v.fwmrm.net
+0.0.0.0 g11.v.fwmrm.net
 0.0.0.0 g13.v.fwmrm.net
 0.0.0.0 g17.v.fwmrm.net
 0.0.0.0 g18.v.fwmrm.net
+0.0.0.0 g24.v.fwmrm.net
 0.0.0.0 g3.v.fwmrm.net
 0.0.0.0 g6.v.fwmrm.net
 0.0.0.0 g69.v.fwmrm.net
 0.0.0.0 gtest.v.fwmrm.net
+0.0.0.0 hls.v.fwmrm.net
 0.0.0.0 m.v.fwmrm.net
 0.0.0.0 mmod.v.fwmrm.net
+0.0.0.0 stghls.v.fwmrm.net
 0.0.0.0 tearsheetstg.v.fwmrm.net
 0.0.0.0 www.fwmrm.net
 0.0.0.0 adserver.game-focus.net

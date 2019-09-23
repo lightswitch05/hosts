@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-23T14:07:52+00:00
-# Count: 3521 domains
+# Released: 2019-09-23T18:29:54+00:00
+# Count: 3526 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2665,6 +2665,9 @@
 0.0.0.0 liftoff.io
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 impression-east.liftoff.io
+0.0.0.0 litix.io
+0.0.0.0 img.litix.io
+0.0.0.0 src.litix.io
 0.0.0.0 logrocket.io
 0.0.0.0 log.logrocket.io
 0.0.0.0 lytics.io
@@ -3049,6 +3052,8 @@
 0.0.0.0 fwmrm.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 g5.s.fwmrm.net
+0.0.0.0 v.fwmrm.net
+0.0.0.0 2ecd5.v.fwmrm.net
 0.0.0.0 7468.v.fwmrm.net
 0.0.0.0 dmp.v.fwmrm.net
 0.0.0.0 adserver.game-focus.net
