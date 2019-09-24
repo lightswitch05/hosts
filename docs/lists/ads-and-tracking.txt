@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-24T17:47:33+00:00
-# Count: 3543 domains
+# Released: 2019-09-24T19:34:43+00:00
+# Count: 3573 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -40,6 +40,7 @@
 0.0.0.0 beacon.tru.am
 0.0.0.0 com.tenjin.ios.api
 0.0.0.0 metrics.hsbc.com.au
+0.0.0.0 tags.news.com.au
 0.0.0.0 geoedge.be
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 czx5eyk0exbhwp43ya.biz
@@ -532,6 +533,8 @@
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 jp.at.atwola.com
 0.0.0.0 uk.at.atwola.com
+0.0.0.0 y.atwola.com
+0.0.0.0 us.y.atwola.com
 0.0.0.0 audiensis.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 automatad.com
@@ -556,6 +559,7 @@
 0.0.0.0 network-stg.bazaarvoice.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 photos-us.bazaarvoice.com
+0.0.0.0 ssc.api.bbc.com
 0.0.0.0 sstats.bbt.com
 0.0.0.0 bc0a.com
 0.0.0.0 cdn.bc0a.com
@@ -862,6 +866,8 @@
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 deviceatlas.com
 0.0.0.0 cs-cdn.deviceatlas.com
+0.0.0.0 dianomi.com
+0.0.0.0 www.dianomi.com
 0.0.0.0 metrics.dickssportinggoods.com
 0.0.0.0 smetrics.dickssportinggoods.com
 0.0.0.0 tag.dickssportinggoods.com
@@ -914,6 +920,7 @@
 0.0.0.0 ecorebates.com
 0.0.0.0 lowes.ecorebates.com
 0.0.0.0 static.ecorebates.com
+0.0.0.0 edigitalsurvey.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
 0.0.0.0 elfsight.com
@@ -1624,6 +1631,7 @@
 0.0.0.0 tracker20.naturalbid.com
 0.0.0.0 tracker5.naturalbid.com
 0.0.0.0 tracker9.naturalbid.com
+0.0.0.0 geoip.nbcnews.com
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 osimg.nbcuni.com
 0.0.0.0 pix.nbcuni.com
@@ -1661,6 +1669,7 @@
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 staging-insights-collector.newrelic.com
 0.0.0.0 newscgp.com
+0.0.0.0 tags.newscgp.com
 0.0.0.0 us.tags.newscgp.com
 0.0.0.0 analytics.newsinc.com
 0.0.0.0 gc.newsweek.com
@@ -2407,6 +2416,9 @@
 0.0.0.0 t.wayfair.com
 0.0.0.0 wbinsights.com
 0.0.0.0 event.wbinsights.com
+0.0.0.0 wearehearken.com
+0.0.0.0 assets.wearehearken.com
+0.0.0.0 modules.wearehearken.com
 0.0.0.0 ad.cc.webmd.com
 0.0.0.0 ls.webmd.com
 0.0.0.0 o.webmd.com
@@ -2471,11 +2483,16 @@
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
+0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 ganon.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 guce.yahoo.com
+0.0.0.0 udc.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 ybp.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -2783,6 +2800,7 @@
 0.0.0.0 2o7.net
 0.0.0.0 112.2o7.net
 0.0.0.0 bankrate.112.2o7.net
+0.0.0.0 globaldesktopmobilesite.112.2o7.net
 0.0.0.0 mediaplanet.112.2o7.net
 0.0.0.0 twci.112.2o7.net
 0.0.0.0 verizonwireless.112.2o7.net
@@ -3035,6 +3053,8 @@
 0.0.0.0 xapi.xfinity.com.edgekey.net
 0.0.0.0 static.dable.io.edgekey.net
 0.0.0.0 mi.edgekey.net
+0.0.0.0 effectivemeasure.net
+0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 escapicon.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
@@ -3083,7 +3103,9 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 gscontxt.net
+0.0.0.0 bbc.gscontxt.net
 0.0.0.0 vice-useast.gscontxt.net
+0.0.0.0 phar.gu-web.net
 0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beaconapi.helpscout.net
 0.0.0.0 mktg.helpscout.net
@@ -3287,6 +3309,7 @@
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
+0.0.0.0 c1.rfihub.net
 0.0.0.0 eqv-rtb1.rfihub.net
 0.0.0.0 sc-static.net
 0.0.0.0 sftrack.searchforce.net
@@ -3354,6 +3377,7 @@
 0.0.0.0 ns.zdbb.net
 0.0.0.0 walker.zdbb.net
 0.0.0.0 zqtk.net
+0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 a.pub.network
 0.0.0.0 eazybiz.ng
@@ -3462,6 +3486,8 @@
 0.0.0.0 spotx2eventsbidder-east.extend.tv
 0.0.0.0 sync.extend.tv
 0.0.0.0 ads.freewheel.tv
+0.0.0.0 iris.tv
+0.0.0.0 ovp.iris.tv
 0.0.0.0 ispot.tv
 0.0.0.0 pi.ispot.tv
 0.0.0.0 pt.ispot.tv
@@ -3515,6 +3541,10 @@
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 advertisingbeacon.co.uk
 0.0.0.0 swa.and.co.uk
+0.0.0.0 a1.api.bbc.co.uk
+0.0.0.0 fig.bbc.co.uk
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
+0.0.0.0 r.bbci.co.uk
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 widgets.future-fie.co.uk
 0.0.0.0 future-fie-assets.co.uk
