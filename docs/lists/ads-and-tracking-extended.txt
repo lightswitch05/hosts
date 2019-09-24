@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-24T19:34:44+00:00
-# Count: 63265 domains
+# Released: 2019-09-24T20:38:32+00:00
+# Count: 63315 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -23641,6 +23641,56 @@
 0.0.0.0 www.lijit.com
 0.0.0.0 dc7.x.lijit.com
 0.0.0.0 www.dc7.x.lijit.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 dc.ads.linkedin.com
+0.0.0.0 ap-southeast-1.dc.ads.linkedin.com
+0.0.0.0 eu-west-1.dc.ads.linkedin.com
+0.0.0.0 us-east-1.dc.ads.linkedin.com
+0.0.0.0 us-west-2.dc.ads.linkedin.com
+0.0.0.0 dc-dev.ads.linkedin.com
+0.0.0.0 ap-southeast-1.dc-dev.ads.linkedin.com
+0.0.0.0 eu-west-1.dc-dev.ads.linkedin.com
+0.0.0.0 us-east-1.dc-dev.ads.linkedin.com
+0.0.0.0 us-west-2.dc-dev.ads.linkedin.com
+0.0.0.0 dmp-api.ads.linkedin.com
+0.0.0.0 ap-southeast-1.dmp-api.ads.linkedin.com
+0.0.0.0 eu-west-1.dmp-api.ads.linkedin.com
+0.0.0.0 us-east-1.dmp-api.ads.linkedin.com
+0.0.0.0 us-west-2.dmp-api.ads.linkedin.com
+0.0.0.0 dmp-api-dev.ads.linkedin.com
+0.0.0.0 ap-southeast-1.dmp-api-dev.ads.linkedin.com
+0.0.0.0 eu-west-1.dmp-api-dev.ads.linkedin.com
+0.0.0.0 us-east-1.dmp-api-dev.ads.linkedin.com
+0.0.0.0 us-west-2.dmp-api-dev.ads.linkedin.com
+0.0.0.0 email.ads.linkedin.com
+0.0.0.0 ap-southeast-1.email.ads.linkedin.com
+0.0.0.0 eu-west-1.email.ads.linkedin.com
+0.0.0.0 us-east-1.email.ads.linkedin.com
+0.0.0.0 us-west-2.email.ads.linkedin.com
+0.0.0.0 imp2.ads.linkedin.com
+0.0.0.0 ap-southeast-1.imp2.ads.linkedin.com
+0.0.0.0 eu-west-1.imp2.ads.linkedin.com
+0.0.0.0 us-east-1.imp2.ads.linkedin.com
+0.0.0.0 us-west-2.imp2.ads.linkedin.com
+0.0.0.0 imp2-dev.ads.linkedin.com
+0.0.0.0 ap-southeast-1.imp2-dev.ads.linkedin.com
+0.0.0.0 eu-west-1.imp2-dev.ads.linkedin.com
+0.0.0.0 us-east-1.imp2-dev.ads.linkedin.com
+0.0.0.0 us-west-2.imp2-dev.ads.linkedin.com
+0.0.0.0 itag.ads.linkedin.com
+0.0.0.0 llamagraphics-api.ads.linkedin.com
+0.0.0.0 llamagraphics-api-dev.ads.linkedin.com
+0.0.0.0 profile-api.ads.linkedin.com
+0.0.0.0 ap-southeast-1.profile-api.ads.linkedin.com
+0.0.0.0 eu-west-1.profile-api.ads.linkedin.com
+0.0.0.0 us-east-1.profile-api.ads.linkedin.com
+0.0.0.0 us-west-2.profile-api.ads.linkedin.com
+0.0.0.0 profile-api-dev.ads.linkedin.com
+0.0.0.0 ap-southeast-1.profile-api-dev.ads.linkedin.com
+0.0.0.0 eu-west-1.profile-api-dev.ads.linkedin.com
+0.0.0.0 us-east-1.profile-api-dev.ads.linkedin.com
+0.0.0.0 us-west-2.profile-api-dev.ads.linkedin.com
+0.0.0.0 px.ads.linkedin.com
 0.0.0.0 lisnr.com
 0.0.0.0 aeg.lisnr.com
 0.0.0.0 analytics.lisnr.com
