@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-24T16:55:30+00:00
-# Count: 62909 domains
+# Released: 2019-09-24T17:06:00+00:00
+# Count: 62924 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -13114,6 +13114,12 @@
 0.0.0.0 wired2fish.cbsi.com
 0.0.0.0 www.cbsi.com
 0.0.0.0 zdnet.cbsi.com
+0.0.0.0 cbsileads.com
+0.0.0.0 cbslnk.cbsileads.com
+0.0.0.0 creatives.cbsileads.com
+0.0.0.0 medusa-api.cbsileads.com
+0.0.0.0 static.cbsileads.com
+0.0.0.0 www.cbsileads.com
 0.0.0.0 adops.cbsinteractive.com
 0.0.0.0 bidbarrel.cbsnews.com
 0.0.0.0 tealium.cbsnews.com
@@ -45323,8 +45329,17 @@
 0.0.0.0 wkctlegalsolutionsprod.122.207.net
 0.0.0.0 wkctprocomplyprod.122.207.net
 0.0.0.0 xbridge.122.207.net
-0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
+0.0.0.0 2mdn.net
+0.0.0.0 affiliate.2mdn.net
+0.0.0.0 c.2mdn.net
+0.0.0.0 gcdn.2mdn.net
+0.0.0.0 m.2mdn.net
+0.0.0.0 m1.2mdn.net
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s0qa.2mdn.net
+0.0.0.0 s1.2mdn.net
+0.0.0.0 s2.2mdn.net
+0.0.0.0 static.2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 012.2o7.net
 0.0.0.0 112.2o7.net

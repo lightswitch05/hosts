@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-24T16:55:30+00:00
-# Count: 3537 domains
+# Released: 2019-09-24T17:06:00+00:00
+# Count: 3541 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -690,6 +690,9 @@
 0.0.0.0 cbsi.com
 0.0.0.0 rev.cbsi.com
 0.0.0.0 saa.cbsi.com
+0.0.0.0 cbsileads.com
+0.0.0.0 creatives.cbsileads.com
+0.0.0.0 static.cbsileads.com
 0.0.0.0 adops.cbsinteractive.com
 0.0.0.0 bidbarrel.cbsnews.com
 0.0.0.0 tealium.cbsnews.com
@@ -2772,6 +2775,7 @@
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 logs1.smithsonian.museum
 0.0.0.0 207.net
+0.0.0.0 2mdn.net
 0.0.0.0 r6---sn-5ualdne7.c.2mdn.net
 0.0.0.0 s0.2mdn.net
 0.0.0.0 2o7.net
