@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-25T12:35:24+00:00
-# Count: 63343 domains
+# Released: 2019-09-25T15:22:17+00:00
+# Count: 63409 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -10963,6 +10963,7 @@
 0.0.0.0 us9.campaign-archive.com
 0.0.0.0 www.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
+0.0.0.0 cannontwin.com
 0.0.0.0 deviceinfo.capitalone.com
 0.0.0.0 potomac-clickstream.capitalone.com
 0.0.0.0 smetrics.capitalone.com
@@ -19295,6 +19296,71 @@
 0.0.0.0 www.log.getadblock.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 www.ping.getadblock.com
+0.0.0.0 getadmiral.com
+0.0.0.0 api.getadmiral.com
+0.0.0.0 delivery.api.getadmiral.com
+0.0.0.0 dev.delivery.api.getadmiral.com
+0.0.0.0 www.dev.delivery.api.getadmiral.com
+0.0.0.0 staging.delivery.api.getadmiral.com
+0.0.0.0 www.staging.delivery.api.getadmiral.com
+0.0.0.0 www.delivery.api.getadmiral.com
+0.0.0.0 partner.api.getadmiral.com
+0.0.0.0 staging.partner.api.getadmiral.com
+0.0.0.0 www.staging.partner.api.getadmiral.com
+0.0.0.0 www.partner.api.getadmiral.com
+0.0.0.0 query.api.getadmiral.com
+0.0.0.0 staging.query.api.getadmiral.com
+0.0.0.0 www.staging.query.api.getadmiral.com
+0.0.0.0 www.query.api.getadmiral.com
+0.0.0.0 cloudflarewh.getadmiral.com
+0.0.0.0 www.cloudflarewh.getadmiral.com
+0.0.0.0 dev.getadmiral.com
+0.0.0.0 www.dev.getadmiral.com
+0.0.0.0 instructions.getadmiral.com
+0.0.0.0 dev.instructions.getadmiral.com
+0.0.0.0 www.dev.instructions.getadmiral.com
+0.0.0.0 staging.instructions.getadmiral.com
+0.0.0.0 www.staging.instructions.getadmiral.com
+0.0.0.0 internal.getadmiral.com
+0.0.0.0 dev.internal.getadmiral.com
+0.0.0.0 www.dev.internal.getadmiral.com
+0.0.0.0 staging.internal.getadmiral.com
+0.0.0.0 www.staging.internal.getadmiral.com
+0.0.0.0 m.getadmiral.com
+0.0.0.0 mail.getadmiral.com
+0.0.0.0 cl.mail.getadmiral.com
+0.0.0.0 click.mail.getadmiral.com
+0.0.0.0 my.getadmiral.com
+0.0.0.0 dev.my.getadmiral.com
+0.0.0.0 www.dev.my.getadmiral.com
+0.0.0.0 dev.images.my.getadmiral.com
+0.0.0.0 staging.my.getadmiral.com
+0.0.0.0 www.staging.my.getadmiral.com
+0.0.0.0 www.my.getadmiral.com
+0.0.0.0 oauth.getadmiral.com
+0.0.0.0 dev.oauth.getadmiral.com
+0.0.0.0 www.dev.oauth.getadmiral.com
+0.0.0.0 www.oauth.getadmiral.com
+0.0.0.0 pay.getadmiral.com
+0.0.0.0 staging.pay.getadmiral.com
+0.0.0.0 www.pay.getadmiral.com
+0.0.0.0 sentry.getadmiral.com
+0.0.0.0 www.sentry.getadmiral.com
+0.0.0.0 sgreporting.getadmiral.com
+0.0.0.0 splash.getadmiral.com
+0.0.0.0 staging.getadmiral.com
+0.0.0.0 www.staging.getadmiral.com
+0.0.0.0 status.getadmiral.com
+0.0.0.0 stripewh.getadmiral.com
+0.0.0.0 dev.stripewh.getadmiral.com
+0.0.0.0 www.dev.stripewh.getadmiral.com
+0.0.0.0 www.stripewh.getadmiral.com
+0.0.0.0 t.getadmiral.com
+0.0.0.0 www.t.getadmiral.com
+0.0.0.0 web.getadmiral.com
+0.0.0.0 wpblog.getadmiral.com
+0.0.0.0 www.wpblog.getadmiral.com
+0.0.0.0 www.getadmiral.com
 0.0.0.0 getambassador.com
 0.0.0.0 aaptiv.getambassador.com
 0.0.0.0 allenergysolar.getambassador.com
