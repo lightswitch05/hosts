@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-25T15:52:02+00:00
-# Count: 63410 domains
+# Released: 2019-09-25T16:10:19+00:00
+# Count: 63435 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -8793,6 +8793,8 @@
 0.0.0.0 www.secure.audiensis.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 www.static.audiensis.com
+0.0.0.0 analytics.audioeye.com
+0.0.0.0 ws.audioeye.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 automatad.com
 0.0.0.0 amp.automatad.com
@@ -52680,6 +52682,29 @@
 0.0.0.0 vd.escapicon.net
 0.0.0.0 www.vd.escapicon.net
 0.0.0.0 www.escapicon.net
+0.0.0.0 esm1.net
+0.0.0.0 ads.esm1.net
+0.0.0.0 adsaws.esm1.net
+0.0.0.0 adse.esm1.net
+0.0.0.0 adsw.esm1.net
+0.0.0.0 assets.esm1.net
+0.0.0.0 banners.esm1.net
+0.0.0.0 np.esm1.net
+0.0.0.0 pix.esm1.net
+0.0.0.0 pix1.esm1.net
+0.0.0.0 pix2.esm1.net
+0.0.0.0 pix3.esm1.net
+0.0.0.0 pixall.esm1.net
+0.0.0.0 pixall-dev.esm1.net
+0.0.0.0 pixall-qa.esm1.net
+0.0.0.0 pixaws.esm1.net
+0.0.0.0 pixe.esm1.net
+0.0.0.0 pixw.esm1.net
+0.0.0.0 rtb1e.esm1.net
+0.0.0.0 post.update.esm1.net
+0.0.0.0 s.update.esm1.net
+0.0.0.0 t.update.esm1.net
+0.0.0.0 www.esm1.net
 0.0.0.0 everestjs.net
 0.0.0.0 2fwww.everestjs.net
 0.0.0.0 www.everestjs.net

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-25T15:52:02+00:00
-# Count: 3584 domains
+# Released: 2019-09-25T16:10:19+00:00
+# Count: 3588 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -536,6 +536,8 @@
 0.0.0.0 y.atwola.com
 0.0.0.0 us.y.atwola.com
 0.0.0.0 audiensis.com
+0.0.0.0 analytics.audioeye.com
+0.0.0.0 ws.audioeye.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 automatad.com
 0.0.0.0 cdn.automatad.com
@@ -3067,6 +3069,8 @@
 0.0.0.0 effectivemeasure.net
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 escapicon.net
+0.0.0.0 esm1.net
+0.0.0.0 pixall.esm1.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 cm.everesttech.net
