@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-25T16:10:19+00:00
-# Count: 3588 domains
+# Released: 2019-09-26T14:35:26+00:00
+# Count: 3608 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -188,6 +188,8 @@
 0.0.0.0 adentifi.com
 0.0.0.0 bm.adentifi.com
 0.0.0.0 rtb.adentifi.com
+0.0.0.0 adhese.com
+0.0.0.0 ads-dazn.adhese.com
 0.0.0.0 metrics.adidas.com
 0.0.0.0 adserver.adigitalrepublic.com
 0.0.0.0 adition.com
@@ -522,6 +524,7 @@
 0.0.0.0 ws-na.assoc-amazon.com
 0.0.0.0 atdmt.com
 0.0.0.0 cx.atdmt.com
+0.0.0.0 dyn.atdmt.com
 0.0.0.0 atgsvcs.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 analytics.atlassian.com
@@ -846,6 +849,7 @@
 0.0.0.0 logger-10.vty.dailymotion.com
 0.0.0.0 datametrical.com
 0.0.0.0 metrics.daveandbusters.com
+0.0.0.0 commercial.daznservices.com
 0.0.0.0 db-ip.com
 0.0.0.0 api-mg2.db-ip.com
 0.0.0.0 deadlinefunnel.com
@@ -1196,6 +1200,7 @@
 0.0.0.0 s.ibotta.com
 0.0.0.0 ibrahimjabbari.com
 0.0.0.0 cdn.feeds.ibt.com
+0.0.0.0 feedbackws.icloud.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 iesnare.com
 0.0.0.0 mpsnare.iesnare.com
@@ -1287,6 +1292,9 @@
 0.0.0.0 jsrdn.com
 0.0.0.0 juicemobile.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 justpremium.com
+0.0.0.0 ads.justpremium.com
+0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 justuno.com
 0.0.0.0 analytics.justuno.com
 0.0.0.0 cdn.justuno.com
@@ -1359,6 +1367,14 @@
 0.0.0.0 lisnr.com
 0.0.0.0 listrakbi.com
 0.0.0.0 cdn.listrakbi.com
+0.0.0.0 liverail.com
+0.0.0.0 ad4.liverail.com
+0.0.0.0 cdn.liverail.com
+0.0.0.0 cdn-secure.liverail.com
+0.0.0.0 cdn-static.liverail.com
+0.0.0.0 cdn-static-secure.liverail.com
+0.0.0.0 t4.liverail.com
+0.0.0.0 vox-static.liverail.com
 0.0.0.0 livesegmentservice.com
 0.0.0.0 sds.livesegmentservice.com
 0.0.0.0 llanalytics.com
@@ -1760,9 +1776,7 @@
 0.0.0.0 pathful.com
 0.0.0.0 ssl.pathful.com
 0.0.0.0 pixel.perceptlink.com
-0.0.0.0 performgroup.com
 0.0.0.0 metrics.performgroup.com
-0.0.0.0 player.performgroup.com
 0.0.0.0 permutive.com
 0.0.0.0 amp.permutive.com
 0.0.0.0 esi.amp.permutive.com
@@ -2435,6 +2449,7 @@
 0.0.0.0 o.webmd.com
 0.0.0.0 ssl.o.webmd.com
 0.0.0.0 webspectator.com
+0.0.0.0 wfpscripts.webspectator.com
 0.0.0.0 webtradingspot.com
 0.0.0.0 rtb-useast.webtradingspot.com
 0.0.0.0 tracking.weiboniu.com
@@ -2793,6 +2808,9 @@
 0.0.0.0 pixel.shodan.me
 0.0.0.0 convrse.media
 0.0.0.0 get.convrse.media
+0.0.0.0 ads.nextday.media
+0.0.0.0 geolocation.nextday.media
+0.0.0.0 reporting.nextday.media
 0.0.0.0 marketing365.mk
 0.0.0.0 events.fgol.mobi
 0.0.0.0 inner-active.mobi
@@ -2905,6 +2923,8 @@
 0.0.0.0 view.bbsv2.net
 0.0.0.0 bidswitch.net
 0.0.0.0 x.bidswitch.net
+0.0.0.0 blueconic.net
+0.0.0.0 cdn.blueconic.net
 0.0.0.0 carbonads.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 analytics.ccgateway.net
