@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-26T14:43:08+00:00
-# Count: 3609 domains
+# Released: 2019-09-27T02:08:41+00:00
+# Count: 3619 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -690,6 +690,8 @@
 0.0.0.0 capitolone.com
 0.0.0.0 www.capitolone.com
 0.0.0.0 pixel.care.com
+0.0.0.0 agility.cartoonnetwork.com
+0.0.0.0 sstats.cartoonnetwork.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
 0.0.0.0 a2892.casalemedia.com
@@ -931,6 +933,7 @@
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 agility.eleague.com
 0.0.0.0 elfsight.com
 0.0.0.0 shy.elfsight.com
 0.0.0.0 eloqua.com
@@ -1656,11 +1659,15 @@
 0.0.0.0 tracker20.naturalbid.com
 0.0.0.0 tracker5.naturalbid.com
 0.0.0.0 tracker9.naturalbid.com
+0.0.0.0 agility.nba.com
+0.0.0.0 smetrics.nba.com
 0.0.0.0 geoip.nbcnews.com
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 osimg.nbcuni.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 surf.nbcuni.com
+0.0.0.0 agility.ncaa.com
+0.0.0.0 sanalytics.ncaa.com
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
@@ -2234,6 +2241,7 @@
 0.0.0.0 ins2.track.tappx.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 taglocker.target.com
+0.0.0.0 agility.tbs.com
 0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 uat-net.technoratimedia.com
 0.0.0.0 piwik.teladoc.com
@@ -3073,6 +3081,7 @@
 0.0.0.0 easydomain.net
 0.0.0.0 order.easydomain.net
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 metrics.cvshealth.com.edgekey.net
@@ -3393,6 +3402,7 @@
 0.0.0.0 smedia.webcollage.net
 0.0.0.0 cookiesuksouth.blob.core.windows.net
 0.0.0.0 mg2assetsdev.blob.core.windows.net
+0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 prodmg2.blob.core.windows.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
