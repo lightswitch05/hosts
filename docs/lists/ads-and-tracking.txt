@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-27T18:48:24+00:00
-# Count: 3621 domains
+# Released: 2019-09-29T19:23:34+00:00
+# Count: 3632 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -248,6 +248,7 @@
 0.0.0.0 a.adroll.com
 0.0.0.0 assets1.adroll.com
 0.0.0.0 s.adroll.com
+0.0.0.0 adrta.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 ads1-adnow.com
@@ -908,6 +909,7 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 doubleverify.com
+0.0.0.0 tps30.doubleverify.com
 0.0.0.0 tracking.downloadyeah.com
 0.0.0.0 ad.downloadyee.com
 0.0.0.0 tracking.downloadyee.com
@@ -1221,6 +1223,7 @@
 0.0.0.0 imprev.com
 0.0.0.0 imrworldwide.com
 0.0.0.0 sdk.imrworldwide.com
+0.0.0.0 secure-gl.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 includemodal.com
@@ -1241,6 +1244,8 @@
 0.0.0.0 s-files.innovid.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 s-video.innovid.com
+0.0.0.0 insightexpressai.com
+0.0.0.0 secure.insightexpressai.com
 0.0.0.0 installfarm.com
 0.0.0.0 adserver.installfarm.com
 0.0.0.0 tracking.instantcheckmate.com
@@ -1804,6 +1809,7 @@
 0.0.0.0 ads.pinterest.com
 0.0.0.0 pixlee.com
 0.0.0.0 assets.pixlee.com
+0.0.0.0 pixsrvcs.com
 0.0.0.0 s.pixsrvcs.com
 0.0.0.0 placed.com
 0.0.0.0 p.placed.com
@@ -2255,6 +2261,8 @@
 0.0.0.0 www.thdws.com
 0.0.0.0 theappgrader.com
 0.0.0.0 adserver.theappgrader.com
+0.0.0.0 thebrighttag.com
+0.0.0.0 s.thebrighttag.com
 0.0.0.0 analytics.thebump.com
 0.0.0.0 geoip.thedailymeal.com
 0.0.0.0 metrics.thepointsguy.com
@@ -2303,6 +2311,7 @@
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 d3kkw-y716t.ads.tremorhub.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
+0.0.0.0 events.tremorhub.com
 0.0.0.0 trendmd.com
 0.0.0.0 js.trendmd.com
 0.0.0.0 analytics.tresensa.com
@@ -2323,6 +2332,7 @@
 0.0.0.0 turn.com
 0.0.0.0 ad.turn.com
 0.0.0.0 d.turn.com
+0.0.0.0 presentation-atl1.turn.com
 0.0.0.0 turnto.com
 0.0.0.0 static.www.turnto.com
 0.0.0.0 tvadsync.com
@@ -3074,6 +3084,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net

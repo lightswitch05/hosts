@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-09-27T18:48:24+00:00
-# Count: 64411 domains
+# Released: 2019-09-29T19:23:34+00:00
+# Count: 64485 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -5219,6 +5219,19 @@
 0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 yax-winners-us-east-1-rtb.adroll.com
 0.0.0.0 yax-winners-us-west-2-rtb.adroll.com
+0.0.0.0 adrta.com
+0.0.0.0 api.adrta.com
+0.0.0.0 cdn.adrta.com
+0.0.0.0 www.cdn.adrta.com
+0.0.0.0 ipv4.adrta.com
+0.0.0.0 ipv6.adrta.com
+0.0.0.0 js.adrta.com
+0.0.0.0 www.js.adrta.com
+0.0.0.0 p.adrta.com
+0.0.0.0 pix.adrta.com
+0.0.0.0 q.adrta.com
+0.0.0.0 r.adrta.com
+0.0.0.0 www.adrta.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 s.ads-twitter.com
 0.0.0.0 static.ads-twitter.com
@@ -21654,6 +21667,27 @@
 0.0.0.0 www.innovid.com
 0.0.0.0 www2.innovid.com
 0.0.0.0 x.innovid.com
+0.0.0.0 insightexpressai.com
+0.0.0.0 ad.insightexpressai.com
+0.0.0.0 hk.aip.insightexpressai.com
+0.0.0.0 my.aip.insightexpressai.com
+0.0.0.0 sg.aip.insightexpressai.com
+0.0.0.0 tw.aip.insightexpressai.com
+0.0.0.0 aip-stg.insightexpressai.com
+0.0.0.0 cint.insightexpressai.com
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 global.insightexpressai.com
+0.0.0.0 icompass.insightexpressai.com
+0.0.0.0 images.insightexpressai.com
+0.0.0.0 infoscout.insightexpressai.com
+0.0.0.0 secure.insightexpressai.com
+0.0.0.0 staging.insightexpressai.com
+0.0.0.0 surveys.insightexpressai.com
+0.0.0.0 www.surveys.insightexpressai.com
+0.0.0.0 topix.insightexpressai.com
+0.0.0.0 www.insightexpressai.com
+0.0.0.0 your-surveys.insightexpressai.com
+0.0.0.0 www.your-surveys.insightexpressai.com
 0.0.0.0 installfarm.com
 0.0.0.0 adserver.installfarm.com
 0.0.0.0 bi.installfarm.com
@@ -31380,7 +31414,12 @@
 0.0.0.0 trust.pixlee.com
 0.0.0.0 try.pixlee.com
 0.0.0.0 www.pixlee.com
+0.0.0.0 pixsrvcs.com
+0.0.0.0 p.pixsrvcs.com
+0.0.0.0 post.pixsrvcs.com
 0.0.0.0 s.pixsrvcs.com
+0.0.0.0 t.pixsrvcs.com
+0.0.0.0 u.pixsrvcs.com
 0.0.0.0 placed.com
 0.0.0.0 affiliate.placed.com
 0.0.0.0 analytics.placed.com
@@ -38243,6 +38282,26 @@
 0.0.0.0 twizzin.theappgrader.com
 0.0.0.0 ursa.theappgrader.com
 0.0.0.0 www.theappgrader.com
+0.0.0.0 thebrighttag.com
+0.0.0.0 api.thebrighttag.com
+0.0.0.0 btcname1.thebrighttag.com
+0.0.0.0 btdemo.thebrighttag.com
+0.0.0.0 carerunner2.thebrighttag.com
+0.0.0.0 control.thebrighttag.com
+0.0.0.0 l.thebrighttag.com
+0.0.0.0 mattermost.thebrighttag.com
+0.0.0.0 s.thebrighttag.com
+0.0.0.0 a.s.thebrighttag.com
+0.0.0.0 b.s.thebrighttag.com
+0.0.0.0 s-eu.thebrighttag.com
+0.0.0.0 stage.thebrighttag.com
+0.0.0.0 btstatic.stage.thebrighttag.com
+0.0.0.0 tagserve.stage.thebrighttag.com
+0.0.0.0 stage-vip.thebrighttag.com
+0.0.0.0 t.thebrighttag.com
+0.0.0.0 td.thebrighttag.com
+0.0.0.0 u.thebrighttag.com
+0.0.0.0 www.thebrighttag.com
 0.0.0.0 analytics.thebump.com
 0.0.0.0 geoip.thedailymeal.com
 0.0.0.0 metrics.thepointsguy.com
@@ -39246,6 +39305,7 @@
 0.0.0.0 playbuzzmobileweb.ads.tremorhub.com
 0.0.0.0 pnpxs.ads.tremorhub.com
 0.0.0.0 prvo7.ads.tremorhub.com
+0.0.0.0 px2ii-3zbhf.ads.tremorhub.com
 0.0.0.0 px2ii-acp4g.ads.tremorhub.com
 0.0.0.0 px2ii-bd5e2.ads.tremorhub.com
 0.0.0.0 px2ii-e14ai.ads.tremorhub.com
@@ -53237,12 +53297,21 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 dynamicads.g.doubleclick.net
+0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 lrads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 rtb-europe.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 userpanel.g.doubleclick.net
+0.0.0.0 vodads.g.doubleclick.net
+0.0.0.0 xxxxgoogleads.g.doubleclick.net
+0.0.0.0 zllwcads.g.doubleclick.net
 0.0.0.0 gan.doubleclick.net
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 iv.doubleclick.net
@@ -61804,6 +61873,11 @@
 0.0.0.0 gen.adsrvr.org
 0.0.0.0 airflow.gen.adsrvr.org
 0.0.0.0 dev.gen.adsrvr.org
+0.0.0.0 echo.test.gen.adsrvr.org
+0.0.0.0 minio.gitlab.test.gen.adsrvr.org
+0.0.0.0 registry.gitlab.test.gen.adsrvr.org
+0.0.0.0 minio.test.gen.adsrvr.org
+0.0.0.0 registry.test.gen.adsrvr.org
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 idp.adsrvr.org
 0.0.0.0 import.adsrvr.org
