@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-27T15:35:26+00:00
-# Count: 7291 domains
+# Released: 2019-09-29T19:47:32+00:00
+# Count: 7305 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -421,6 +421,7 @@
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 c4d-cdn.adcolony.com
+0.0.0.0 c4dm.adcolony.com
 0.0.0.0 director.adcolony.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
@@ -1462,6 +1463,8 @@
 0.0.0.0 capitolone.com
 0.0.0.0 www.capitolone.com
 0.0.0.0 pixel.care.com
+0.0.0.0 agility.cartoonnetwork.com
+0.0.0.0 sstats.cartoonnetwork.com
 0.0.0.0 casalemedia.com
 0.0.0.0 a1899.casalemedia.com
 0.0.0.0 a2892.casalemedia.com
@@ -1882,6 +1885,7 @@
 0.0.0.0 sync.doubleverify.com
 0.0.0.0 testv6.doubleverify.com
 0.0.0.0 tps.doubleverify.com
+0.0.0.0 tps30.doubleverify.com
 0.0.0.0 vast.doubleverify.com
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vtrk.doubleverify.com
@@ -1984,6 +1988,7 @@
 0.0.0.0 track.effiliation.com
 0.0.0.0 curalate-api-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 agility.eleague.com
 0.0.0.0 elfsight.com
 0.0.0.0 shy.elfsight.com
 0.0.0.0 eloqua.com
@@ -3289,11 +3294,15 @@
 0.0.0.0 navdmp.com
 0.0.0.0 cdn.navdmp.com
 0.0.0.0 navegg.com
+0.0.0.0 agility.nba.com
+0.0.0.0 smetrics.nba.com
 0.0.0.0 geoip.nbcnews.com
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 osimg.nbcuni.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 surf.nbcuni.com
+0.0.0.0 agility.ncaa.com
+0.0.0.0 sanalytics.ncaa.com
 0.0.0.0 adproxy.ndmdhs.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 us.np.adproxy.ndmdhs.com
@@ -4425,6 +4434,7 @@
 0.0.0.0 imp.taptica.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 taglocker.target.com
+0.0.0.0 agility.tbs.com
 0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 uat-net.technoratimedia.com
 0.0.0.0 piwik.teladoc.com
@@ -4553,6 +4563,7 @@
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 d3kkw-y716t.ads.tremorhub.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
+0.0.0.0 events.tremorhub.com
 0.0.0.0 trendmd.com
 0.0.0.0 js.trendmd.com
 0.0.0.0 analytics.tresensa.com
@@ -4590,6 +4601,7 @@
 0.0.0.0 turn.com
 0.0.0.0 ad.turn.com
 0.0.0.0 d.turn.com
+0.0.0.0 presentation-atl1.turn.com
 0.0.0.0 turncdn.com
 0.0.0.0 img.turncdn.com
 0.0.0.0 video.turncdn.com
@@ -5142,6 +5154,7 @@
 0.0.0.0 xreco.xplosion.de
 0.0.0.0 xups.xplosion.de
 0.0.0.0 zanox-affiliate.de
+0.0.0.0 trace.onb.workers.dev
 0.0.0.0 ad4mat.dk
 0.0.0.0 spartoo.dk
 0.0.0.0 imgext.spartoo.dk
@@ -6186,6 +6199,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
@@ -6210,6 +6224,7 @@
 0.0.0.0 easydomain.net
 0.0.0.0 order.easydomain.net
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 metrics.cvshealth.com.edgekey.net
@@ -6324,11 +6339,9 @@
 0.0.0.0 cdn.innity.net
 0.0.0.0 media.innity.net
 0.0.0.0 cdn.media.innity.net
-0.0.0.0 inscname.net
 0.0.0.0 ins-086.inscname.net
 0.0.0.0 a021.ranker.inscname.net
 0.0.0.0 a004.webmd.inscname.net
-0.0.0.0 insnw.net
 0.0.0.0 a-sg01sl03.insnw.net
 0.0.0.0 a-sg01sl07.insnw.net
 0.0.0.0 a-sg02sl07.insnw.net
@@ -6676,6 +6689,7 @@
 0.0.0.0 cookiesuksouth.blob.core.windows.net
 0.0.0.0 exposebox.blob.core.windows.net
 0.0.0.0 mg2assetsdev.blob.core.windows.net
+0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 prodmg2.blob.core.windows.net
 0.0.0.0 gs.wixapps.net
 0.0.0.0 recommendation-hybrid.wpdigital.net
