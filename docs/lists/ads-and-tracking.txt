@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-09-29T19:39:12+00:00
-# Count: 3630 domains
+# Released: 2019-09-30T12:46:56+00:00
+# Count: 3634 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -452,6 +452,8 @@
 0.0.0.0 onexp.americanexpress.com
 0.0.0.0 amplitude.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 analytics-egain.com
+0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analyticson.com
 0.0.0.0 metrics.ancestry.com
 0.0.0.0 aniview.com
@@ -1240,7 +1242,9 @@
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 innovid.com
 0.0.0.0 ag.innovid.com
+0.0.0.0 dts.innovid.com
 0.0.0.0 rtr.innovid.com
+0.0.0.0 s.innovid.com
 0.0.0.0 s-files.innovid.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 s-video.innovid.com
