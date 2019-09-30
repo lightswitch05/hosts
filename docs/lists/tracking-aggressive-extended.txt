@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-09-23T04:33:07+00:00
-# Count: 3994 domains
+# Released: 2019-09-30T02:34:28+00:00
+# Count: 4015 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -678,6 +678,7 @@
 0.0.0.0 imh.exacttarget.com
 0.0.0.0 inbox.exacttarget.com
 0.0.0.0 pixel.inbox.exacttarget.com
+0.0.0.0 ithd.exacttarget.com
 0.0.0.0 www.ithd.exacttarget.com
 0.0.0.0 kace.exacttarget.com
 0.0.0.0 webservice.keepalive.exacttarget.com
@@ -1305,10 +1306,12 @@
 0.0.0.0 accounts.flipboard.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 ad-beta.flipboard.com
+0.0.0.0 adapi.flipboard.com
 0.0.0.0 amp.flipboard.com
 0.0.0.0 api.flipboard.com
 0.0.0.0 api-china.flipboard.com
 0.0.0.0 artforfreedom.flipboard.com
+0.0.0.0 auth.flipboard.com
 0.0.0.0 bapi.flipboard.com
 0.0.0.0 beacon.flipboard.com
 0.0.0.0 beacon-china.flipboard.com
@@ -1509,6 +1512,7 @@
 0.0.0.0 www.knowledge.gigya.com
 0.0.0.0 livechat.gigya.com
 0.0.0.0 www.livechat.gigya.com
+0.0.0.0 mailout2.gigya.com
 0.0.0.0 manage.gigya.com
 0.0.0.0 nestle.gigya.com
 0.0.0.0 pages.gigya.com
@@ -1543,6 +1547,8 @@
 0.0.0.0 animaxtaiwan.sslproxy.gigya.com
 0.0.0.0 bakkerswereld.sslproxy.gigya.com
 0.0.0.0 bishulim.sslproxy.gigya.com
+0.0.0.0 cp24.sslproxy.gigya.com
+0.0.0.0 fox8.sslproxy.gigya.com
 0.0.0.0 gfoodnetworkca.sslproxy.gigya.com
 0.0.0.0 humana.sslproxy.gigya.com
 0.0.0.0 kataweb.sslproxy.gigya.com
@@ -1565,11 +1571,13 @@
 0.0.0.0 singaporeair.sslproxy.gigya.com
 0.0.0.0 www.singaporeair.sslproxy.gigya.com
 0.0.0.0 social-cars.sslproxy.gigya.com
+0.0.0.0 socialtheatermania.sslproxy.gigya.com
 0.0.0.0 stuffnz.sslproxy.gigya.com
 0.0.0.0 tiscali-it.sslproxy.gigya.com
 0.0.0.0 tvguide.sslproxy.gigya.com
 0.0.0.0 express.uk.sslproxy.gigya.com
 0.0.0.0 vehicleservicepros.sslproxy.gigya.com
+0.0.0.0 wallawalla.sslproxy.gigya.com
 0.0.0.0 www-abc-es.sslproxy.gigya.com
 0.0.0.0 stagingdemo.gigya.com
 0.0.0.0 www.stagingdemo.gigya.com
@@ -2269,6 +2277,7 @@
 0.0.0.0 maxmind.com
 0.0.0.0 alertmanager.maxmind.com
 0.0.0.0 alertmanager-test.maxmind.com
+0.0.0.0 ap5-wdc.maxmind.com
 0.0.0.0 api.maxmind.com
 0.0.0.0 api-v4.maxmind.com
 0.0.0.0 apt.maxmind.com
@@ -2493,6 +2502,8 @@
 0.0.0.0 soporte.olark.com
 0.0.0.0 special.olark.com
 0.0.0.0 sql01.olark.com
+0.0.0.0 start-1.olark.com
+0.0.0.0 start-2.olark.com
 0.0.0.0 static.olark.com
 0.0.0.0 stats.olark.com
 0.0.0.0 status.olark.com
@@ -2577,6 +2588,7 @@
 0.0.0.0 s4018.pingdom.com
 0.0.0.0 s4019.pingdom.com
 0.0.0.0 s4020.pingdom.com
+0.0.0.0 s4029.pingdom.com
 0.0.0.0 s4030.pingdom.com
 0.0.0.0 s4031.pingdom.com
 0.0.0.0 s4032.pingdom.com
@@ -2587,6 +2599,7 @@
 0.0.0.0 s4041.pingdom.com
 0.0.0.0 s4043.pingdom.com
 0.0.0.0 s4044.pingdom.com
+0.0.0.0 s4045.pingdom.com
 0.0.0.0 s4047.pingdom.com
 0.0.0.0 s4051.pingdom.com
 0.0.0.0 s4052.pingdom.com
@@ -3172,6 +3185,7 @@
 0.0.0.0 ew.vk.com
 0.0.0.0 faway.vk.com
 0.0.0.0 forum.vk.com
+0.0.0.0 gemail.vk.com
 0.0.0.0 graph.vk.com
 0.0.0.0 hb.vk.com
 0.0.0.0 https.vk.com
@@ -3198,6 +3212,8 @@
 0.0.0.0 new.vk.com
 0.0.0.0 nfdhsz.vk.com
 0.0.0.0 notify.vk.com
+0.0.0.0 ns1.vk.com
+0.0.0.0 ns3.vk.com
 0.0.0.0 ntoss.vk.com
 0.0.0.0 nwww.vk.com
 0.0.0.0 oautdh.vk.com
@@ -3221,11 +3237,13 @@
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
 0.0.0.0 srv130-129-240-87.vk.com
 0.0.0.0 srv137-185-240-87.vk.com
+0.0.0.0 srv140-129-240-87.vk.com
 0.0.0.0 srv163-11-213-95.vk.com
 0.0.0.0 srv164-11-213-95.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
 0.0.0.0 srv177-129-240-87.vk.com
 0.0.0.0 srv178-129-240-87.vk.com
+0.0.0.0 srv206-137-240-87.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
@@ -3265,6 +3283,7 @@
 0.0.0.0 xhamsterpremium.com
 0.0.0.0 gold.xhamsterpremium.com
 0.0.0.0 m.xhamsterpremium.com
+0.0.0.0 paymentico.xhamsterpremium.com
 0.0.0.0 stage.xhamsterpremium.com
 0.0.0.0 admin.stage.xhamsterpremium.com
 0.0.0.0 crm-api.stage.xhamsterpremium.com
@@ -3533,6 +3552,7 @@
 0.0.0.0 events-usaaumbrella.gomoxie.solutions
 0.0.0.0 events-vitacost.gomoxie.solutions
 0.0.0.0 events-yankeecandle.gomoxie.solutions
+0.0.0.0 flowers.gomoxie.solutions
 0.0.0.0 identity-bms_bms.gomoxie.solutions
 0.0.0.0 identity-cb.gomoxie.solutions
 0.0.0.0 identity-coned.gomoxie.solutions
@@ -3853,6 +3873,7 @@
 0.0.0.0 devph.tawk.to
 0.0.0.0 www.devph.tawk.to
 0.0.0.0 embed.tawk.to
+0.0.0.0 feedback.tawk.to
 0.0.0.0 level2.tawk.to
 0.0.0.0 cpanel.level2.tawk.to
 0.0.0.0 mail.level2.tawk.to
