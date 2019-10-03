@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-10-02T13:03:14+00:00
-# Count: 3635 domains
+# Released: 2019-10-03T12:39:08+00:00
+# Count: 3636 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -905,6 +905,8 @@
 0.0.0.0 dodownload.com
 0.0.0.0 www.dodownload.com
 0.0.0.0 dotomi.com
+0.0.0.0 cpe.dotomi.com
+0.0.0.0 ad.cpe.dotomi.com
 0.0.0.0 iad-usadmm.dotomi.com
 0.0.0.0 iad08-login-ds.dotomi.com
 0.0.0.0 openx2-match.dotomi.com
@@ -2542,7 +2544,6 @@
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 geo.yahoo.com
-0.0.0.0 guce.yahoo.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 ybp.yahoo.com
