@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-10-08T14:57:05+00:00
-# Count: 7310 domains
+# Released: 2019-10-09T12:42:57+00:00
+# Count: 7317 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1617,6 +1617,8 @@
 0.0.0.0 conductrics.com
 0.0.0.0 api-cbc-v3.conductrics.com
 0.0.0.0 console-cbc-v3.conductrics.com
+0.0.0.0 connatix.com
+0.0.0.0 cd.connatix.com
 0.0.0.0 connextra.com
 0.0.0.0 ff.connextra.com
 0.0.0.0 ssl.connextra.com
@@ -3488,6 +3490,7 @@
 0.0.0.0 oriori.com
 0.0.0.0 data.ouigo.com
 0.0.0.0 outbrain.com
+0.0.0.0 log.outbrain.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 widgets.outbrain.com
@@ -3925,6 +3928,7 @@
 0.0.0.0 kzt.scupio.com
 0.0.0.0 kztimg.scupio.com
 0.0.0.0 rec.scupio.com
+0.0.0.0 sdfsdvc.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 segment.com
 0.0.0.0 mobile-service.segment.com
@@ -4424,6 +4428,7 @@
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 taplytics.com
 0.0.0.0 tappx.com
 0.0.0.0 ssp.int.api.tappx.com
 0.0.0.0 ssp.api.tappx.com
@@ -5354,6 +5359,7 @@
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 browsee.io
 0.0.0.0 calq.io
 0.0.0.0 api.calq.io
 0.0.0.0 clarium.io
@@ -6495,6 +6501,7 @@
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 fedex.tt.omtrdc.net
 0.0.0.0 hyattcorporation.tt.omtrdc.net
+0.0.0.0 intel.tt.omtrdc.net
 0.0.0.0 kohls.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
 0.0.0.0 lowes.tt.omtrdc.net

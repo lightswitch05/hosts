@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-10-08T14:57:06+00:00
-# Count: 81390 domains
+# Released: 2019-10-09T12:42:57+00:00
+# Count: 81467 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -19117,6 +19117,47 @@
 0.0.0.0 staging-v3.conductrics.com
 0.0.0.0 v3.conductrics.com
 0.0.0.0 www.conductrics.com
+0.0.0.0 connatix.com
+0.0.0.0 a.connatix.com
+0.0.0.0 api.connatix.com
+0.0.0.0 capi.connatix.com
+0.0.0.0 cd.connatix.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 www.cdn.connatix.com
+0.0.0.0 cdns.connatix.com
+0.0.0.0 cds.connatix.com
+0.0.0.0 ck.connatix.com
+0.0.0.0 cks.connatix.com
+0.0.0.0 core.connatix.com
+0.0.0.0 i.connatix.com
+0.0.0.0 img.connatix.com
+0.0.0.0 integration.connatix.com
+0.0.0.0 internal.connatix.com
+0.0.0.0 hub.internal.connatix.com
+0.0.0.0 tc.internal.connatix.com
+0.0.0.0 upsource.internal.connatix.com
+0.0.0.0 youtrack.internal.connatix.com
+0.0.0.0 youtrack-ue2.internal.connatix.com
+0.0.0.0 kapi.connatix.com
+0.0.0.0 l.connatix.com
+0.0.0.0 logs.connatix.com
+0.0.0.0 youtrack.ops.connatix.com
+0.0.0.0 rtb.connatix.com
+0.0.0.0 sentry.connatix.com
+0.0.0.0 shared.connatix.com
+0.0.0.0 staging.connatix.com
+0.0.0.0 api.staging.connatix.com
+0.0.0.0 cdn.staging.connatix.com
+0.0.0.0 tr.connatix.com
+0.0.0.0 trk.connatix.com
+0.0.0.0 u.connatix.com
+0.0.0.0 upload.connatix.com
+0.0.0.0 uploads.connatix.com
+0.0.0.0 v.connatix.com
+0.0.0.0 vapi.connatix.com
+0.0.0.0 vcore.connatix.com
+0.0.0.0 vid.connatix.com
+0.0.0.0 www.connatix.com
 0.0.0.0 connextra.com
 0.0.0.0 aa.connextra.com
 0.0.0.0 affiliate.connextra.com
@@ -43948,6 +43989,7 @@
 0.0.0.0 v.scupio.com
 0.0.0.0 www.scupio.com
 0.0.0.0 yn4q5pg7pz.scupio.com
+0.0.0.0 sdfsdvc.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 segment.com
 0.0.0.0 app.segment.com
@@ -47470,6 +47512,34 @@
 0.0.0.0 ws3.tapjoyads.com
 0.0.0.0 ws33.tapjoyads.com
 0.0.0.0 ws4.tapjoyads.com
+0.0.0.0 taplytics.com
+0.0.0.0 api.taplytics.com
+0.0.0.0 apple.taplytics.com
+0.0.0.0 api.aws.taplytics.com
+0.0.0.0 cdn.taplytics.com
+0.0.0.0 cdn-config.taplytics.com
+0.0.0.0 cep-docs.taplytics.com
+0.0.0.0 changelog.taplytics.com
+0.0.0.0 decision.taplytics.com
+0.0.0.0 dev.taplytics.com
+0.0.0.0 info.taplytics.com
+0.0.0.0 js.taplytics.com
+0.0.0.0 labs.taplytics.com
+0.0.0.0 media.taplytics.com
+0.0.0.0 metabase.taplytics.com
+0.0.0.0 ping.taplytics.com
+0.0.0.0 rest-docs.taplytics.com
+0.0.0.0 socketio.taplytics.com
+0.0.0.0 socketio-dev.taplytics.com
+0.0.0.0 socketio-staging.taplytics.com
+0.0.0.0 staging.taplytics.com
+0.0.0.0 status.taplytics.com
+0.0.0.0 switch.taplytics.com
+0.0.0.0 terraform-aws.taplytics.com
+0.0.0.0 terraform-prod.taplytics.com
+0.0.0.0 terraform-staging.taplytics.com
+0.0.0.0 wpengine.taplytics.com
+0.0.0.0 www.taplytics.com
 0.0.0.0 tappx.com
 0.0.0.0 api.tappx.com
 0.0.0.0 ffq.api.tappx.com
@@ -55807,6 +55877,13 @@
 0.0.0.0 vulcan.branch.io
 0.0.0.0 www.branch.io
 0.0.0.0 www2.branch.io
+0.0.0.0 browsee.io
+0.0.0.0 api.browsee.io
+0.0.0.0 cdn.browsee.io
+0.0.0.0 getreview.browsee.io
+0.0.0.0 playbook.browsee.io
+0.0.0.0 session.browsee.io
+0.0.0.0 www.browsee.io
 0.0.0.0 calq.io
 0.0.0.0 api.calq.io
 0.0.0.0 mail.calq.io
