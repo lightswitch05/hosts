@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-10-18T12:10:43+00:00
-# Count: 81466 domains
+# Released: 2019-10-18T12:16:38+00:00
+# Count: 81482 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -14337,6 +14337,21 @@
 0.0.0.0 www.buzzdeck.com
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 recsys-api.buzzfeed.com
+0.0.0.0 bytegain.com
+0.0.0.0 api.bytegain.com
+0.0.0.0 bigscience.bytegain.com
+0.0.0.0 dashboard-staging.bytegain.com
+0.0.0.0 engage.bytegain.com
+0.0.0.0 event-viewer.bytegain.com
+0.0.0.0 js.bytegain.com
+0.0.0.0 js-api.bytegain.com
+0.0.0.0 model-viewer.bytegain.com
+0.0.0.0 modelbot.bytegain.com
+0.0.0.0 staging.bytegain.com
+0.0.0.0 staging-api.bytegain.com
+0.0.0.0 whb.bytegain.com
+0.0.0.0 wp.bytegain.com
+0.0.0.0 www.bytegain.com
 0.0.0.0 c3metrics.com
 0.0.0.0 2014site.c3metrics.com
 0.0.0.0 345-vt.c3metrics.com
@@ -69441,6 +69456,7 @@
 0.0.0.0 serveit.linkstorm.net
 0.0.0.0 syndicator.linkstorm.net
 0.0.0.0 www.linkstorm.net
+0.0.0.0 tracking.listhub.net
 0.0.0.0 liveclicker.net
 0.0.0.0 api.liveclicker.net
 0.0.0.0 cdn.liveclicker.net

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-10-18T12:10:43+00:00
-# Count: 7319 domains
+# Released: 2019-10-18T12:16:38+00:00
+# Count: 7322 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1453,6 +1453,8 @@
 0.0.0.0 buzzdeck.com
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 recsys-api.buzzfeed.com
+0.0.0.0 bytegain.com
+0.0.0.0 js.bytegain.com
 0.0.0.0 c3metrics.com
 0.0.0.0 c3tag.com
 0.0.0.0 694-img.c3tag.com
@@ -6381,6 +6383,7 @@
 0.0.0.0 click.linkstorm.net
 0.0.0.0 csscache.linkstorm.net
 0.0.0.0 imagecache.linkstorm.net
+0.0.0.0 tracking.listhub.net
 0.0.0.0 liveclicker.net
 0.0.0.0 sc.liveclicker.net
 0.0.0.0 lkqd.net
