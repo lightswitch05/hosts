@@ -11,7 +11,7 @@ import shutil
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
-ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]{}\|\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
+ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]{}\|\\/&^%$\(\)#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
 HTML_FILE = 'docs/index.html'
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
