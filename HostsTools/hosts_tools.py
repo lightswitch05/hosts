@@ -11,7 +11,7 @@ import shutil
 
 STRIP_COMMENTS_PATTERN = re.compile(r"^([^#]+)")
 EXCLUDE_DOMAIN_PATTERN = re.compile(r"^[-]", re.IGNORECASE)
-ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]{}\|\\/&^%$#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
+ALLOWED_DOMAIN_PATTERN = re.compile(r"^[^\*\?\[\]{}\|\\/&^%$\(\)#@!+=~`\s\.<>,\"']+$", re.IGNORECASE)
 HTML_FILE = 'docs/index.html'
 FILE_HEADER = """
 # Collection of Analytics, Ads, and tracking hosts to block.
@@ -97,17 +97,24 @@ def load_domains_from_list(file_name: str) -> Set[str]:
 
 def load_domains_from_whitelist(file_name: str) -> Set[Pattern]:
     whitelist = set()
+    custom_list = load_domains_from_custom_whitelist(file_name)
+    base_list = load_domains_from_custom_whitelist('whitelist.txt')
+    for line in (base_list + custom_list):
+        line = line.strip()
+        if len(line) > 0 and not line.startswith('#'):
+            regex = re.compile(line, re.IGNORECASE)
+            whitelist.add(regex)
+    return whitelist
+
+
+def load_domains_from_custom_whitelist(file_name: str) -> List[str]:
+    lines = []
     try:
         with open(file_name) as file:
             lines = file.readlines()
-            for line in lines:
-                line = line.strip()
-                if len(line) > 0 and not line.startswith('#'):
-                    regex = re.compile(line, re.IGNORECASE)
-                    whitelist.add(regex)
     except FileNotFoundError:
         print('Unable to read whitelist: ', file_name)
-    return whitelist
+    return lines
 
 
 def build_file_header(file_name: str, list_length: int) -> str:
@@ -216,7 +223,7 @@ def virustotal_find_subdomain(domain: str, api_key: str, verbose: bool = False) 
 
 def safe_api_call(url: str, params: dict = {}) -> dict:
     try:
-        req = requests.get(url, params=params, headers={
+        req = requests.get(url, params=params, timeout=(30, 120), headers={
             'Content-Type': 'application/json',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0'
         })

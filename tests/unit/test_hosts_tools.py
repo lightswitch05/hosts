@@ -47,6 +47,14 @@ class TestHostTools(object):
         is_valid = hosts_tools.is_valid_domain("'example.com")
         assert not is_valid
 
+    def test_left_paren_is_not_a_valid_domain(self):
+        is_valid = hosts_tools.is_valid_domain("(example.com")
+        assert not is_valid
+
+    def test_right_paren_is_not_a_valid_domain(self):
+        is_valid = hosts_tools.is_valid_domain(")example.com")
+        assert not is_valid
+
     def test_unicode_is_a_valid_domain(self):
         is_valid = hosts_tools.is_valid_domain(u"www.с\ud0b0.com")
         assert is_valid
@@ -131,11 +139,11 @@ class TestHostTools(object):
         assert not self.TEST_DOMAINS.difference(domains)
 
     def test_missing_whitelist(self):
-        whitelist = hosts_tools.load_domains_from_whitelist('not-a-real-file.txt')
+        whitelist = hosts_tools.load_domains_from_custom_whitelist('not-a-real-file.txt')
         assert len(whitelist) == 0
 
-    def test_load_domains_from_whitelist(self):
-        whitelist = hosts_tools.load_domains_from_whitelist(self.TEST_WHITELIST_FILE_NAME)
+    def test_load_domains_from_custom_whitelist(self):
+        whitelist = hosts_tools.load_domains_from_custom_whitelist(self.TEST_WHITELIST_FILE_NAME)
         assert len(whitelist) == 2
 
     def test_reduce_domains(self):

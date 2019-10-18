@@ -1,6 +1,0 @@
-# Whitelist for tracking-aggressive-extended.txt
-
-# merge issues
-^head$
-^[\da-zA-Z]{40}$
-

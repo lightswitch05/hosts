@@ -1,9 +1,5 @@
 # Whitelist for ads-and-tracking-extended.txt
 
-# merge issues
-^head$
-^[\da-zA-Z]{40}$
-
 # convertkit.com roots and non-tracking domains per issue #23
 ^convertkit\.com$
 ^developers\.convertkit\.com$
