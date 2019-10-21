@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-10-20T18:02:48+00:00
-# Count: 81474 domains
+# Released: 2019-10-21T15:10:26+00:00
+# Count: 81546 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -19319,6 +19319,71 @@
 0.0.0.0 imprusmp.continular.com
 0.0.0.0 j9.continular.com
 0.0.0.0 www.continular.com
+0.0.0.0 convertcart.com
+0.0.0.0 analytics.convertcart.com
+0.0.0.0 app.convertcart.com
+0.0.0.0 app-beta.convertcart.com
+0.0.0.0 bagent-canary.convertcart.com
+0.0.0.0 bagent-stable.convertcart.com
+0.0.0.0 cdn.convertcart.com
+0.0.0.0 cflb.convertcart.com
+0.0.0.0 chat.convertcart.com
+0.0.0.0 cors-proxy.convertcart.com
+0.0.0.0 counter.convertcart.com
+0.0.0.0 db.convertcart.com
+0.0.0.0 dc1.convertcart.com
+0.0.0.0 dc2.convertcart.com
+0.0.0.0 dc3.convertcart.com
+0.0.0.0 dc4.convertcart.com
+0.0.0.0 drone.convertcart.com
+0.0.0.0 editor.convertcart.com
+0.0.0.0 es1.convertcart.com
+0.0.0.0 estest.convertcart.com
+0.0.0.0 ext-int.convertcart.com
+0.0.0.0 ext-int-beta.convertcart.com
+0.0.0.0 g.convertcart.com
+0.0.0.0 get.convertcart.com
+0.0.0.0 www.get.convertcart.com
+0.0.0.0 gitea.convertcart.com
+0.0.0.0 glb.convertcart.com
+0.0.0.0 grafana.convertcart.com
+0.0.0.0 hello.convertcart.com
+0.0.0.0 images.convertcart.com
+0.0.0.0 images-beta.convertcart.com
+0.0.0.0 jupyter.convertcart.com
+0.0.0.0 magento.convertcart.com
+0.0.0.0 monitor.convertcart.com
+0.0.0.0 notifyime-beta.convertcart.com
+0.0.0.0 office.convertcart.com
+0.0.0.0 old.convertcart.com
+0.0.0.0 process.convertcart.com
+0.0.0.0 prodimg.convertcart.com
+0.0.0.0 projects.convertcart.com
+0.0.0.0 prom.convertcart.com
+0.0.0.0 push.convertcart.com
+0.0.0.0 screenshot.convertcart.com
+0.0.0.0 o1.sendgrid.convertcart.com
+0.0.0.0 store-backend-beta.convertcart.com
+0.0.0.0 t.convertcart.com
+0.0.0.0 t1.convertcart.com
+0.0.0.0 templates.convertcart.com
+0.0.0.0 templates-beta.convertcart.com
+0.0.0.0 teststore.convertcart.com
+0.0.0.0 tr1.convertcart.com
+0.0.0.0 tr2.convertcart.com
+0.0.0.0 tr3.convertcart.com
+0.0.0.0 tr4.convertcart.com
+0.0.0.0 try.convertcart.com
+0.0.0.0 utils.convertcart.com
+0.0.0.0 utils-beta.convertcart.com
+0.0.0.0 web.convertcart.com
+0.0.0.0 www.web.convertcart.com
+0.0.0.0 web-beta.convertcart.com
+0.0.0.0 woocommerce1.convertcart.com
+0.0.0.0 woocommerce2.convertcart.com
+0.0.0.0 ww2.convertcart.com
+0.0.0.0 ww3.convertcart.com
+0.0.0.0 www.convertcart.com
 0.0.0.0 convertexperiments.com
 0.0.0.0 app.convertexperiments.com
 0.0.0.0 cdn-1.convertexperiments.com
@@ -24896,6 +24961,13 @@
 0.0.0.0 zogsports.getambassador.com
 0.0.0.0 zottosleep.getambassador.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 getcoopt.com
+0.0.0.0 app.getcoopt.com
+0.0.0.0 www.app.getcoopt.com
+0.0.0.0 campaign.getcoopt.com
+0.0.0.0 dev.getcoopt.com
+0.0.0.0 www.dev.getcoopt.com
+0.0.0.0 www.getcoopt.com
 0.0.0.0 tag.getdrip.com
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com

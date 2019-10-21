@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-10-20T18:02:48+00:00
-# Count: 7327 domains
+# Released: 2019-10-21T15:10:26+00:00
+# Count: 7332 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1637,6 +1637,9 @@
 0.0.0.0 tag.contextweb.com
 0.0.0.0 tr.contextweb.com
 0.0.0.0 continular.com
+0.0.0.0 convertcart.com
+0.0.0.0 cdn.convertcart.com
+0.0.0.0 t.convertcart.com
 0.0.0.0 convertexperiments.com
 0.0.0.0 cdn-1.convertexperiments.com
 0.0.0.0 cdn-2.convertexperiments.com
@@ -2242,6 +2245,8 @@
 0.0.0.0 getambassador.com
 0.0.0.0 cdn.getambassador.com
 0.0.0.0 pixel.getchute.com
+0.0.0.0 getcoopt.com
+0.0.0.0 app.getcoopt.com
 0.0.0.0 tag.getdrip.com
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 lb0-telemetry-prod-us-east-1.servers.getgo.com
