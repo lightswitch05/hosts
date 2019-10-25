@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-10-23T12:56:11+00:00
-# Count: 81550 domains
+# Released: 2019-10-25T12:53:04+00:00
+# Count: 81600 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -11756,6 +11756,52 @@
 0.0.0.0 www.static.audiensis.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 ws.audioeye.com
+0.0.0.0 auditude.com
+0.0.0.0 ad.auditude.com
+0.0.0.0 adfiles.auditude.com
+0.0.0.0 cdn.auditude.com
+0.0.0.0 adunit.cdn.auditude.com
+0.0.0.0 adunitv2.cdn.auditude.com
+0.0.0.0 asset.cdn.auditude.com
+0.0.0.0 comcast.cdn.auditude.com
+0.0.0.0 dailymotion.cdn.auditude.com
+0.0.0.0 fancast.cdn.auditude.com
+0.0.0.0 five.cdn.auditude.com
+0.0.0.0 foxnews.cdn.auditude.com
+0.0.0.0 globo.cdn.auditude.com
+0.0.0.0 mlb.cdn.auditude.com
+0.0.0.0 ndn.cdn.auditude.com
+0.0.0.0 otadunit.cdn.auditude.com
+0.0.0.0 cdn2.auditude.com
+0.0.0.0 mlb.cdns.auditude.com
+0.0.0.0 connect.auditude.com
+0.0.0.0 manifest.da2.auditude.com
+0.0.0.0 display.auditude.com
+0.0.0.0 ad.lon5.auditude.com
+0.0.0.0 manifest.auditude.com
+0.0.0.0 da2.manifest.auditude.com
+0.0.0.0 pcca1.manifest.auditude.com
+0.0.0.0 pcca2.manifest.auditude.com
+0.0.0.0 pcca3.manifest.auditude.com
+0.0.0.0 pcca4.manifest.auditude.com
+0.0.0.0 pce2.manifest.auditude.com
+0.0.0.0 pcor1.manifest.auditude.com
+0.0.0.0 pcor2.manifest.auditude.com
+0.0.0.0 pcor3.manifest.auditude.com
+0.0.0.0 pcor4.manifest.auditude.com
+0.0.0.0 pcor5.manifest.auditude.com
+0.0.0.0 pcva1.manifest.auditude.com
+0.0.0.0 pcva2.manifest.auditude.com
+0.0.0.0 pcva3.manifest.auditude.com
+0.0.0.0 pcva4.manifest.auditude.com
+0.0.0.0 pcva5.manifest.auditude.com
+0.0.0.0 manifest.or1.auditude.com
+0.0.0.0 manifest.pcw1.auditude.com
+0.0.0.0 ad.sandbox.auditude.com
+0.0.0.0 feeds.sandbox.auditude.com
+0.0.0.0 ad.sin2.auditude.com
+0.0.0.0 ad.stg.auditude.com
+0.0.0.0 www.auditude.com
 0.0.0.0 aunica.com
 0.0.0.0 google.aunica.com
 0.0.0.0 teste.teste.aunica.com
@@ -52700,6 +52746,8 @@
 0.0.0.0 www.xtify.com
 0.0.0.0 xpass.xtify.com
 0.0.0.0 www.xpass.xtify.com
+0.0.0.0 ads2.xumo.com
+0.0.0.0 hls-beacons.xumo.com
 0.0.0.0 y4g3d2v1.com
 0.0.0.0 req.y4g3d2v1.com
 0.0.0.0 trk.y4g3d2v1.com
@@ -62599,9 +62647,11 @@
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 sitescoutvideo-a.akamaihd.net
+0.0.0.0 abcnewsads.akamaized.net
 0.0.0.0 amp.akamaized.net
 0.0.0.0 loka-cdn.akamaized.net
 0.0.0.0 ma85-r-analytics.akamaized.net
+0.0.0.0 nmxliveads.akamaized.net
 0.0.0.0 anrdoezrs.net
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 analytics.anvato.net

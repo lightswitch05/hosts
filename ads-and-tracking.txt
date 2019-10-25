@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-10-23T12:56:11+00:00
-# Count: 7334 domains
+# Released: 2019-10-25T12:53:03+00:00
+# Count: 7340 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1194,6 +1194,8 @@
 0.0.0.0 audiensis.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 ws.audioeye.com
+0.0.0.0 auditude.com
+0.0.0.0 manifest.auditude.com
 0.0.0.0 aunica.com
 0.0.0.0 sandbox.aunica.com
 0.0.0.0 dwh-tracking.it.auth0.com
@@ -4965,6 +4967,8 @@
 0.0.0.0 xtify.com
 0.0.0.0 sdk.ibm.xtify.com
 0.0.0.0 sdk3.ibm.xtify.com
+0.0.0.0 ads2.xumo.com
+0.0.0.0 hls-beacons.xumo.com
 0.0.0.0 y4g3d2v1.com
 0.0.0.0 req.y4g3d2v1.com
 0.0.0.0 trk.y4g3d2v1.com
@@ -5992,9 +5996,11 @@
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 sitescoutvideo-a.akamaihd.net
+0.0.0.0 abcnewsads.akamaized.net
 0.0.0.0 amp.akamaized.net
 0.0.0.0 loka-cdn.akamaized.net
 0.0.0.0 ma85-r-analytics.akamaized.net
+0.0.0.0 nmxliveads.akamaized.net
 0.0.0.0 anrdoezrs.net
 0.0.0.0 analytics.anvato.net
 0.0.0.0 collector.analytics.anvato.net
