@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-10-25T18:07:00+00:00
-# Count: 81643 domains
+# Released: 2019-10-29T12:28:02+00:00
+# Count: 81654 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -5636,6 +5636,7 @@
 0.0.0.0 crcdn.adnxs.com
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
+0.0.0.0 crcdn1.adnxs.com
 0.0.0.0 dcdn.adnxs.com
 0.0.0.0 e.adnxs.com
 0.0.0.0 ebay.adnxs.com
@@ -5891,6 +5892,7 @@
 0.0.0.0 fra317.ib.adnxs.com
 0.0.0.0 fra318.ib.adnxs.com
 0.0.0.0 fra32.ib.adnxs.com
+0.0.0.0 fra320.ib.adnxs.com
 0.0.0.0 fra321.ib.adnxs.com
 0.0.0.0 fra322.ib.adnxs.com
 0.0.0.0 fra323.ib.adnxs.com
@@ -6071,6 +6073,7 @@
 0.0.0.0 fra56.ib.adnxs.com
 0.0.0.0 fra57.ib.adnxs.com
 0.0.0.0 fra58.ib.adnxs.com
+0.0.0.0 fra59.ib.adnxs.com
 0.0.0.0 fra6.ib.adnxs.com
 0.0.0.0 fra60.ib.adnxs.com
 0.0.0.0 fra61.ib.adnxs.com
@@ -6188,6 +6191,7 @@
 0.0.0.0 sedcure.adnxs.com
 0.0.0.0 sess.adnxs.com
 0.0.0.0 sess1.adnxs.com
+0.0.0.0 seure.adnxs.com
 0.0.0.0 sharethrough.adnxs.com
 0.0.0.0 sharthrough.adnxs.com
 0.0.0.0 sib.adnxs.com
@@ -6196,6 +6200,8 @@
 0.0.0.0 sin-ib.adnxs.com
 0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 sin1-mobile.adnxs.com
+0.0.0.0 sin3-ib.adnxs.com
+0.0.0.0 sin3-mobile.adnxs.com
 0.0.0.0 st.adnxs.com
 0.0.0.0 staging-console-cdn.adnxs.com
 0.0.0.0 thunder.adnxs.com
@@ -6206,6 +6212,7 @@
 0.0.0.0 u002fsecure.adnxs.com
 0.0.0.0 ure.adnxs.com
 0.0.0.0 usersync.adnxs.com
+0.0.0.0 uswest.adnxs.com
 0.0.0.0 uuid2.adnxs.com
 0.0.0.0 uuid28941104771274557111.adnxs.com
 0.0.0.0 vcdn.adnxs.com
@@ -53060,6 +53067,9 @@
 0.0.0.0 yoigo.ydigitalmedia.com
 0.0.0.0 tracking.yeehbuy.com
 0.0.0.0 metrics.yellowpages.com
+0.0.0.0 yesinsights.com
+0.0.0.0 loop.yesinsights.com
+0.0.0.0 www.yesinsights.com
 0.0.0.0 yext.com
 0.0.0.0 2fconnect.yext.com
 0.0.0.0 allstate.yext.com
@@ -77732,6 +77742,7 @@
 0.0.0.0 test3-tor.adsrvr.org
 0.0.0.0 test4-lax.adsrvr.org
 0.0.0.0 test4-tor.adsrvr.org
+0.0.0.0 test5-tor.adsrvr.org
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tokfb.adsrvr.org
 0.0.0.0 tokvideo.adsrvr.org
