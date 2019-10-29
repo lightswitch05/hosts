@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-10-24T02:32:22+00:00
-# Count: 4090 domains
+# Released: 2019-10-28T02:49:04+00:00
+# Count: 4118 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -103,6 +103,7 @@
 0.0.0.0 argos.ugc.bazaarvoice.com
 0.0.0.0 arrow.ugc.bazaarvoice.com
 0.0.0.0 asda.ugc.bazaarvoice.com
+0.0.0.0 att.ugc.bazaarvoice.com
 0.0.0.0 aveeno-uk.ugc.bazaarvoice.com
 0.0.0.0 avon-ru.ugc.bazaarvoice.com
 0.0.0.0 avon-uk.ugc.bazaarvoice.com
@@ -280,6 +281,7 @@
 0.0.0.0 nationwide.ugc.bazaarvoice.com
 0.0.0.0 ncl.ugc.bazaarvoice.com
 0.0.0.0 nikon.ugc.bazaarvoice.com
+0.0.0.0 nizoral.ugc.bazaarvoice.com
 0.0.0.0 norauto.ugc.bazaarvoice.com
 0.0.0.0 nordstrom.ugc.bazaarvoice.com
 0.0.0.0 noritake.ugc.bazaarvoice.com
@@ -1675,6 +1677,7 @@
 0.0.0.0 hackathon.glympse.com
 0.0.0.0 help.glympse.com
 0.0.0.0 inflight.glympse.com
+0.0.0.0 info.glympse.com
 0.0.0.0 invite.glympse.com
 0.0.0.0 api.ipv6.glympse.com
 0.0.0.0 kik.glympse.com
@@ -2841,6 +2844,7 @@
 0.0.0.0 spyfone.com
 0.0.0.0 api.spyfone.com
 0.0.0.0 www.api.spyfone.com
+0.0.0.0 bill.spyfone.com
 0.0.0.0 cart.spyfone.com
 0.0.0.0 www.cart.spyfone.com
 0.0.0.0 gpsdemo.spyfone.com
@@ -3138,7 +3142,9 @@
 0.0.0.0 0.vk.com
 0.0.0.0 0-109.vk.com
 0.0.0.0 0-196.vk.com
+0.0.0.0 09.vk.com
 0.0.0.0 12.vk.com
+0.0.0.0 167274089.vk.com
 0.0.0.0 1m.vk.com
 0.0.0.0 21321.vk.com
 0.0.0.0 22m.vk.com
@@ -3150,6 +3156,7 @@
 0.0.0.0 2fwww.vk.com
 0.0.0.0 31.vk.com
 0.0.0.0 3213.vk.com
+0.0.0.0 68post.vk.com
 0.0.0.0 7ww.vk.com
 0.0.0.0 admin.vk.com
 0.0.0.0 api.vk.com
@@ -3222,17 +3229,24 @@
 0.0.0.0 cs9813.vk.com
 0.0.0.0 minneapolis.amidami8828.cs9993890.vk.com
 0.0.0.0 indankorea.cs9993890.vk.com
+0.0.0.0 cu.vk.com
 0.0.0.0 cvc.vk.com
+0.0.0.0 dddd.vk.com
 0.0.0.0 depth.vk.com
+0.0.0.0 di.vk.com
 0.0.0.0 docs.vk.com
+0.0.0.0 dya.vk.com
 0.0.0.0 edana.vk.com
+0.0.0.0 esina.vk.com
 0.0.0.0 ew.vk.com
 0.0.0.0 faway.vk.com
 0.0.0.0 forum.vk.com
 0.0.0.0 gemail.vk.com
 0.0.0.0 graph.vk.com
 0.0.0.0 hb.vk.com
+0.0.0.0 hotmail.vk.com
 0.0.0.0 https.vk.com
+0.0.0.0 hub.vk.com
 0.0.0.0 im.vk.com
 0.0.0.0 indianapolis.hl3qye.im81.vk.com
 0.0.0.0 im89v4.vk.com
@@ -3243,13 +3257,17 @@
 0.0.0.0 imv4.vk.com
 0.0.0.0 indianapolis.vk.com
 0.0.0.0 ivs458.vk.com
+0.0.0.0 khromovskikh.vk.com
+0.0.0.0 kulinovich.vk.com
 0.0.0.0 lg.vk.com
+0.0.0.0 li.vk.com
 0.0.0.0 localhost.vk.com
 0.0.0.0 login.vk.com
 0.0.0.0 lp.vk.com
 0.0.0.0 m.vk.com
 0.0.0.0 www.m.vk.com
 0.0.0.0 mail.vk.com
+0.0.0.0 matytsina.vk.com
 0.0.0.0 mega.vk.com
 0.0.0.0 mv4.vk.com
 0.0.0.0 mx.vk.com
@@ -3261,11 +3279,15 @@
 0.0.0.0 ns3.vk.com
 0.0.0.0 ntoss.vk.com
 0.0.0.0 nwww.vk.com
+0.0.0.0 nya.vk.com
 0.0.0.0 oautdh.vk.com
 0.0.0.0 oauth.vk.com
 0.0.0.0 ogin.vk.com
 0.0.0.0 outch.vk.com
+0.0.0.0 pasot.vk.com
+0.0.0.0 past.vk.com
 0.0.0.0 pi.vk.com
+0.0.0.0 pjst.vk.com
 0.0.0.0 podarki.vk.com
 0.0.0.0 porno.vk.com
 0.0.0.0 post.vk.com
@@ -3277,6 +3299,7 @@
 0.0.0.0 queue.vk.com
 0.0.0.0 queuev4.vk.com
 0.0.0.0 restore.vk.com
+0.0.0.0 rybalkina.vk.com
 0.0.0.0 s9vk01jgn.vk.com
 0.0.0.0 saltcdn2.vk.com
 0.0.0.0 saving.vk.com
@@ -3304,6 +3327,7 @@
 0.0.0.0 srv71-129-240-87.vk.com
 0.0.0.0 sstakk.vk.com
 0.0.0.0 static.vk.com
+0.0.0.0 streaming.vk.com
 0.0.0.0 t.vk.com
 0.0.0.0 tau.vk.com
 0.0.0.0 admin.tau.vk.com
@@ -3315,6 +3339,8 @@
 0.0.0.0 ui.tau.vk.com
 0.0.0.0 team.vk.com
 0.0.0.0 autodiscover.team.vk.com
+0.0.0.0 tost.vk.com
+0.0.0.0 tyt.vk.com
 0.0.0.0 u.vk.com
 0.0.0.0 ueuev4.vk.com
 0.0.0.0 uth.vk.com
@@ -3325,6 +3351,7 @@
 0.0.0.0 vww.vk.com
 0.0.0.0 way.vk.com
 0.0.0.0 web7.vk.com
+0.0.0.0 wn.vk.com
 0.0.0.0 ww.vk.com
 0.0.0.0 www.vk.com
 0.0.0.0 yvjnex.vk.com
@@ -3382,6 +3409,7 @@
 0.0.0.0 cloudfront-dynamic-cdn.spot.im
 0.0.0.0 community.spot.im
 0.0.0.0 www.community.spot.im
+0.0.0.0 community-spoxy.spot.im
 0.0.0.0 conversation-read.spot.im
 0.0.0.0 demos.spot.im
 0.0.0.0 developers.spot.im
