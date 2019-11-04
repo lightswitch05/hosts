@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-10-31T02:43:23+00:00
-# Count: 3041 domains
+# Released: 2019-11-04T03:45:22+00:00
+# Count: 3052 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -200,11 +200,14 @@
 0.0.0.0 atlas.c10r.facebook.com
 0.0.0.0 extern.c10r.facebook.com
 0.0.0.0 instagram.c10r.facebook.com
+0.0.0.0 latest.c10r.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt-mini.c10r.facebook.com
 0.0.0.0 a.ns.c10r.facebook.com
+0.0.0.0 b.ns.c10r.facebook.com
 0.0.0.0 secure.c10r.facebook.com
 0.0.0.0 secure-latest.c10r.facebook.com
+0.0.0.0 shortwave.c10r.facebook.com
 0.0.0.0 snaptu-mini.c10r.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
@@ -287,6 +290,7 @@
 0.0.0.0 graph-video.facebook.com
 0.0.0.0 h.facebook.com
 0.0.0.0 he-il.facebook.com
+0.0.0.0 helios.facebook.com
 0.0.0.0 hi-in.facebook.com
 0.0.0.0 hiusj.facebook.com
 0.0.0.0 hootsuite.facebook.com
@@ -459,13 +463,17 @@
 0.0.0.0 a.ns.facebook.com
 0.0.0.0 b.ns.facebook.com
 0.0.0.0 c.ns.facebook.com
+0.0.0.0 d.ns.facebook.com
+0.0.0.0 ns1.facebook.com
 0.0.0.0 ns2.facebook.com
+0.0.0.0 ns3.facebook.com
 0.0.0.0 o.facebook.com
 0.0.0.0 a.ok.facebook.com
 0.0.0.0 openclassrooms.facebook.com
 0.0.0.0 outlook.facebook.com
 0.0.0.0 p.facebook.com
 0.0.0.0 p-upload.facebook.com
+0.0.0.0 pages.facebook.com
 0.0.0.0 perfshield.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pl-pl.facebook.com
@@ -719,6 +727,7 @@
 0.0.0.0 sv-se.facebook.com
 0.0.0.0 sw-ke.facebook.com
 0.0.0.0 msgin.t.facebook.com
+0.0.0.0 tafensw.facebook.com
 0.0.0.0 th-th.facebook.com
 0.0.0.0 tl-ph.facebook.com
 0.0.0.0 tls13.facebook.com
@@ -2781,6 +2790,8 @@
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
 0.0.0.0 a.ns.xy.fbcdn.net
 0.0.0.0 fab736de680-ihlbpbcg1570999389-sonar.xz.fbcdn.net
+0.0.0.0 a.ns.xz.fbcdn.net
+0.0.0.0 b.ns.xz.fbcdn.net
 0.0.0.0 sha256.xz.fbcdn.net
 0.0.0.0 fbsbx.com.online-metrix.net
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
