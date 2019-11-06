@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-11-05T16:01:39+00:00
-# Count: 7332 domains
+# Released: 2019-11-06T13:43:41+00:00
+# Count: 7335 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1385,6 +1385,8 @@
 0.0.0.0 metrics.boostmobile.com
 0.0.0.0 smetrics.boston.com
 0.0.0.0 bounceexchange.com
+0.0.0.0 assets.bounceexchange.com
+0.0.0.0 pixel.bounceexchange.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 brainient.com
 0.0.0.0 ac.brainient.com
@@ -3614,6 +3616,7 @@
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
 0.0.0.0 sentry.postmanlabs.com
+0.0.0.0 sentry-app.postmanlabs.com
 0.0.0.0 postrelease.com
 0.0.0.0 mkto-pages.power.com
 0.0.0.0 px.powerlinks.com
