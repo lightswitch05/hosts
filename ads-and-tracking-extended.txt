@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-11-06T14:02:00+00:00
-# Count: 81622 domains
+# Released: 2019-11-06T21:22:40+00:00
+# Count: 81634 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -45659,6 +45659,8 @@
 0.0.0.0 im2.smartadserver.com
 0.0.0.0 internal.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
+0.0.0.0 itx4-publicidad.smartadserver.com
+0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 itx5-eqx.smartadserver.com
 0.0.0.0 itx5-publicidad.smartadserver.com
@@ -45681,11 +45683,17 @@
 0.0.0.0 ssb.smartadserver.com
 0.0.0.0 ssb-eqx.smartadserver.com
 0.0.0.0 ssb-eu-secure.smartadserver.com
+0.0.0.0 ssb-eu-secure-3.smartadserver.com
+0.0.0.0 ssb-eu-secure-4.smartadserver.com
+0.0.0.0 ssb-eu-secure-6.smartadserver.com
 0.0.0.0 ssb-itx4.smartadserver.com
+0.0.0.0 ssb-us.smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssbsync-eqx.smartadserver.com
 0.0.0.0 ssbsync-eu-secure.smartadserver.com
+0.0.0.0 ssbsync-itx4.smartadserver.com
 0.0.0.0 ssbsync-itx5.smartadserver.com
+0.0.0.0 ssbsync-us.smartadserver.com
 0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 tagmanager.smartadserver.com
@@ -45718,15 +45726,18 @@
 0.0.0.0 ww2468.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww264.smartadserver.com
+0.0.0.0 ww2703.smartadserver.com
 0.0.0.0 ww276.smartadserver.com
 0.0.0.0 ww2951.smartadserver.com
 0.0.0.0 ww302.smartadserver.com
 0.0.0.0 ww3050.smartadserver.com
+0.0.0.0 ww3050-us.smartadserver.com
 0.0.0.0 ww3076.smartadserver.com
 0.0.0.0 ww3110.smartadserver.com
 0.0.0.0 ww3232.smartadserver.com
 0.0.0.0 ww3436.smartadserver.com
 0.0.0.0 ww3440.smartadserver.com
+0.0.0.0 ww3460.smartadserver.com
 0.0.0.0 ww362.smartadserver.com
 0.0.0.0 ww370.smartadserver.com
 0.0.0.0 ww38.smartadserver.com
@@ -45740,6 +45751,7 @@
 0.0.0.0 ww619.smartadserver.com
 0.0.0.0 ww62.smartadserver.com
 0.0.0.0 ww651.smartadserver.com
+0.0.0.0 ww671.smartadserver.com
 0.0.0.0 ww684.smartadserver.com
 0.0.0.0 ww690.smartadserver.com
 0.0.0.0 ww691.smartadserver.com
