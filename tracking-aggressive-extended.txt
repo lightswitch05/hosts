@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-11-07T03:32:09+00:00
-# Count: 4139 domains
+# Released: 2019-11-11T03:32:18+00:00
+# Count: 4144 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -469,6 +469,7 @@
 0.0.0.0 enterprise.comm100.com
 0.0.0.0 entmax.comm100.com
 0.0.0.0 eu.comm100.com
+0.0.0.0 euchatserver.comm100.com
 0.0.0.0 eumax.comm100.com
 0.0.0.0 go.comm100.com
 0.0.0.0 gvc.comm100.com
@@ -2141,6 +2142,7 @@
 0.0.0.0 www.labs.livechatinc.com
 0.0.0.0 lb-public.livechatinc.com
 0.0.0.0 link4.livechatinc.com
+0.0.0.0 marketplace-agentapp.livechatinc.com
 0.0.0.0 my.livechatinc.com
 0.0.0.0 www.my.livechatinc.com
 0.0.0.0 network-test.livechatinc.com
@@ -3445,6 +3447,7 @@
 0.0.0.0 msn-spoxy-launcher.spot.im
 0.0.0.0 newsfeed-sync.spot.im
 0.0.0.0 notifications.spot.im
+0.0.0.0 offers.spot.im
 0.0.0.0 office.spot.im
 0.0.0.0 open-api.spot.im
 0.0.0.0 pix.spot.im
@@ -3739,6 +3742,7 @@
 0.0.0.0 log-synchrony.gomoxie.solutions
 0.0.0.0 log-usaa.gomoxie.solutions
 0.0.0.0 log-usaaauto.gomoxie.solutions
+0.0.0.0 log-usaaclaims.gomoxie.solutions
 0.0.0.0 log-usaaeligibility.gomoxie.solutions
 0.0.0.0 log-usaahomeowners.gomoxie.solutions
 0.0.0.0 log-usaaumbrella.gomoxie.solutions
@@ -3786,6 +3790,7 @@
 0.0.0.0 2fwww.ada.support
 0.0.0.0 500px.ada.support
 0.0.0.0 airasia.ada.support
+0.0.0.0 airasia-support.ada.support
 0.0.0.0 android.ada.support
 0.0.0.0 anx.ada.support
 0.0.0.0 att.ada.support

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-11-07T03:39:02+00:00
-# Count: 3135 domains
+# Released: 2019-11-11T03:40:15+00:00
+# Count: 3141 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -157,6 +157,7 @@
 0.0.0.0 6-edge-chat.facebook.com
 0.0.0.0 about.facebook.com
 0.0.0.0 actcorp.facebook.com
+0.0.0.0 ads.facebook.com
 0.0.0.0 adtools.facebook.com
 0.0.0.0 advantio.facebook.com
 0.0.0.0 af-za.facebook.com
@@ -179,6 +180,7 @@
 0.0.0.0 ar-ar.facebook.com
 0.0.0.0 asiafusiontech.facebook.com
 0.0.0.0 assistant.facebook.com
+0.0.0.0 asus.facebook.com
 0.0.0.0 autodiscover.facebook.com
 0.0.0.0 axiomcc.facebook.com
 0.0.0.0 az-az.facebook.com
@@ -284,6 +286,7 @@
 0.0.0.0 facebook-icd-autopay.facebook.com
 0.0.0.0 fb.facebook.com
 0.0.0.0 de-de.he-il.fbjs.facebook.com
+0.0.0.0 feedback.facebook.com
 0.0.0.0 fi-fi.facebook.com
 0.0.0.0 fo-fo.facebook.com
 0.0.0.0 fr-ca.facebook.com
@@ -454,11 +457,13 @@
 0.0.0.0 mk-mk.facebook.com
 0.0.0.0 mobile.facebook.com
 0.0.0.0 mqtt.facebook.com
+0.0.0.0 mqtt-ig-p4.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt-p4.facebook.com
 0.0.0.0 ms-my.facebook.com
 0.0.0.0 msgin-regional-shv-01-rprn0.facebook.com
 0.0.0.0 mtouch.facebook.com
+0.0.0.0 my-mm.facebook.com
 0.0.0.0 nb-no.facebook.com
 0.0.0.0 ne-np.facebook.com
 0.0.0.0 newdev.facebook.com
@@ -750,6 +755,7 @@
 0.0.0.0 uk-ua.facebook.com
 0.0.0.0 unitecmx.facebook.com
 0.0.0.0 upload.facebook.com
+0.0.0.0 ur-pk.facebook.com
 0.0.0.0 uts.facebook.com
 0.0.0.0 v6.facebook.com
 0.0.0.0 v6intern.facebook.com
