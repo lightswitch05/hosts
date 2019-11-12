@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-11-11T03:32:18+00:00
-# Count: 4144 domains
+# Released: 2019-11-12T13:55:12+00:00
+# Count: 4156 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1421,6 +1421,18 @@
 0.0.0.0 winphone.flipboard.com
 0.0.0.0 winprod.flipboard.com
 0.0.0.0 www.flipboard.com
+0.0.0.0 getbeamer.com
+0.0.0.0 api.getbeamer.com
+0.0.0.0 app.getbeamer.com
+0.0.0.0 backend.getbeamer.com
+0.0.0.0 landing.getbeamer.com
+0.0.0.0 mail.getbeamer.com
+0.0.0.0 push.getbeamer.com
+0.0.0.0 site.getbeamer.com
+0.0.0.0 static.getbeamer.com
+0.0.0.0 status.getbeamer.com
+0.0.0.0 try.getbeamer.com
+0.0.0.0 www.getbeamer.com
 0.0.0.0 gigya.com
 0.0.0.0 academy.gigya.com
 0.0.0.0 www.academy.gigya.com

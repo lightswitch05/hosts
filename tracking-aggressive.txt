@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-11-06T14:33:58+00:00
-# Count: 149 domains
+# Released: 2019-11-12T13:55:12+00:00
+# Count: 151 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -55,6 +55,8 @@
 0.0.0.0 flexispy.com
 0.0.0.0 flipboard.com
 0.0.0.0 api.flipboard.com
+0.0.0.0 getbeamer.com
+0.0.0.0 app.getbeamer.com
 0.0.0.0 gigya.com
 0.0.0.0 cdns.gigya.com
 0.0.0.0 glympse.com
