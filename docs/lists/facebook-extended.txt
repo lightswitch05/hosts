@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-11-11T03:40:15+00:00
-# Count: 3141 domains
+# Released: 2019-11-14T03:42:59+00:00
+# Count: 3152 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -248,12 +248,15 @@
 0.0.0.0 dns.facebook.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
+0.0.0.0 edge-mqtt-shv-01-fco1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
 0.0.0.0 edge-mws-shv-01-frt3.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-mrs2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
+0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
 0.0.0.0 edge-stun.facebook.com
@@ -314,6 +317,7 @@
 0.0.0.0 intern.facebook.com
 0.0.0.0 m.intern.facebook.com
 0.0.0.0 secure.intern.facebook.com
+0.0.0.0 intern-managed-client-shv-01-qro1.facebook.com
 0.0.0.0 interninyour.facebook.com
 0.0.0.0 secure.interninyour.facebook.com
 0.0.0.0 internmc.facebook.com
@@ -345,6 +349,7 @@
 0.0.0.0 lithium.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-any2.facebook.com
 0.0.0.0 lm.facebook.com
+0.0.0.0 lntinfotech.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 lt-lt.facebook.com
@@ -447,6 +452,7 @@
 0.0.0.0 workplacebcp.m.facebook.com
 0.0.0.0 xxl.m.facebook.com
 0.0.0.0 zain.m.facebook.com
+0.0.0.0 made.facebook.com
 0.0.0.0 mail.facebook.com
 0.0.0.0 mailapac.facebook.com
 0.0.0.0 maileast.facebook.com
@@ -482,10 +488,12 @@
 0.0.0.0 a.ok.facebook.com
 0.0.0.0 onepublicservice.facebook.com
 0.0.0.0 openclassrooms.facebook.com
+0.0.0.0 origincache.facebook.com
 0.0.0.0 outlook.facebook.com
 0.0.0.0 p.facebook.com
 0.0.0.0 p-upload.facebook.com
 0.0.0.0 pages.facebook.com
+0.0.0.0 pay.facebook.com
 0.0.0.0 perfshield.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pl-pl.facebook.com
@@ -750,6 +758,7 @@
 0.0.0.0 toyotaturkey.facebook.com
 0.0.0.0 tr-tr.facebook.com
 0.0.0.0 trac.facebook.com
+0.0.0.0 transparency.facebook.com
 0.0.0.0 trunkstable.facebook.com
 0.0.0.0 secure.trunkstable.facebook.com
 0.0.0.0 uk-ua.facebook.com
@@ -759,6 +768,7 @@
 0.0.0.0 uts.facebook.com
 0.0.0.0 v6.facebook.com
 0.0.0.0 v6intern.facebook.com
+0.0.0.0 valet.facebook.com
 0.0.0.0 vi-vn.facebook.com
 0.0.0.0 circa.vip.facebook.com
 0.0.0.0 dewey.vip.facebook.com
@@ -2642,6 +2652,7 @@
 0.0.0.0 b.ns.fna.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fhyd1.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-sjc3.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-any2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-gru1.fbcdn.net
 0.0.0.0 instagram-p42-shv-02-ort2.fbcdn.net
 0.0.0.0 interncache-atn.fbcdn.net
