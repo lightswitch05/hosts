@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-11-21T13:27:00+00:00
-# Count: 3225 domains
+# Released: 2019-11-21T15:02:45+00:00
+# Count: 3233 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -229,6 +229,7 @@
 0.0.0.0 www.cinyourrc.facebook.com
 0.0.0.0 clientsidetesticici.facebook.com
 0.0.0.0 www.clientsidetesticici.facebook.com
+0.0.0.0 cn.facebook.com
 0.0.0.0 connect.facebook.com
 0.0.0.0 cromwelledge-bgp-01-iad3.facebook.com
 0.0.0.0 cs-cz.facebook.com
@@ -246,6 +247,7 @@
 0.0.0.0 secure.dev.facebook.com
 0.0.0.0 developers.facebook.com
 0.0.0.0 dns.facebook.com
+0.0.0.0 edge-atlas-shv-01-den4.facebook.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
@@ -254,7 +256,9 @@
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
 0.0.0.0 edge-mws-shv-01-frt3.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-mrs2.facebook.com
+0.0.0.0 edge-snaptu-http-mini-shv-01-sin2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
+0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
@@ -277,6 +281,7 @@
 0.0.0.0 es-es.facebook.com
 0.0.0.0 es-la.facebook.com
 0.0.0.0 et-ee.facebook.com
+0.0.0.0 everis.facebook.com
 0.0.0.0 evry.facebook.com
 0.0.0.0 exprealty.facebook.com
 0.0.0.0 extern.facebook.com
@@ -750,6 +755,7 @@
 0.0.0.0 sw-ke.facebook.com
 0.0.0.0 msgin.t.facebook.com
 0.0.0.0 tafensw.facebook.com
+0.0.0.0 telefonica.facebook.com
 0.0.0.0 th-th.facebook.com
 0.0.0.0 tl-ph.facebook.com
 0.0.0.0 tls13.facebook.com
@@ -797,6 +803,7 @@
 0.0.0.0 sims.vvv.facebook.com
 0.0.0.0 www.sims.vvv.facebook.com
 0.0.0.0 smtpin.vvv.facebook.com
+0.0.0.0 w.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-dfw5.facebook.com
@@ -820,6 +827,7 @@
 0.0.0.0 z-p3-api.facebook.com
 0.0.0.0 z-p3-graph.facebook.com
 0.0.0.0 z-p3-rupload.facebook.com
+0.0.0.0 z-p3-upload.facebook.com
 0.0.0.0 z-p4-api.facebook.com
 0.0.0.0 z-p4-graph.facebook.com
 0.0.0.0 z-p4-rupload.facebook.com
