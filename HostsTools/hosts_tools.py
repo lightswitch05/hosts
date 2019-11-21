@@ -3,7 +3,7 @@
 
 import datetime
 import re
-from typing import List, Set, Pattern
+from typing import List, Set, Pattern, Union
 
 import requests
 import time
@@ -201,7 +201,11 @@ def find_subdomains(domain: str, verbose: bool = False) -> Set[str]:
     return found_domains
 
 
-def virustotal_find_subdomain(domain: str, api_key: str, verbose: bool = False) -> Set[str]:
+def virustotal_find_subdomain(domain: str, api_key: Union[str, None], verbose: bool = False) -> Set[str]:
+    if not api_key or api_key == 'SET_ME':
+        print('Missing VirusTotal API key, skipping lookup!')
+        return {}
+
     found_domains = {domain}  # include query as a found domain
     url = 'https://www.virustotal.com/vtapi/v2/domain/report'.format(k=api_key, d=domain)
 

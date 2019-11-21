@@ -176,8 +176,18 @@ class TestHostTools(object):
 
     def test_find_subdomains_virustotal(self):
         hosts_tools.safe_api_call = MagicMock(return_value=self.VIRUS_TOTAL_RESPONSE)
-        found = hosts_tools.virustotal_find_subdomain('example.com', '', True)
+        found = hosts_tools.virustotal_find_subdomain('example.com', 'fake-key', True)
         assert found == {'example.com', 'www.example.com'}
+
+    def test_skip_virustotal_none_api_key(self):
+        hosts_tools.safe_api_call = MagicMock(return_value=self.VIRUS_TOTAL_RESPONSE)
+        found = hosts_tools.virustotal_find_subdomain('example.com', None, True)
+        assert found == {}
+
+    def test_skip_virustotal_set_me_api_key(self):
+        hosts_tools.safe_api_call = MagicMock(return_value=self.VIRUS_TOTAL_RESPONSE)
+        found = hosts_tools.virustotal_find_subdomain('example.com', 'SET_ME', True)
+        assert found == {}
 
     def teardown_class(self):
         if os.path.isfile(self.TEST_FILE_NAME):
