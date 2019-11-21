@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-11-21T14:53:41+00:00
-# Count: 82505 domains
+# Released: 2019-11-21T15:00:34+00:00
+# Count: 82508 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -11001,6 +11001,8 @@
 0.0.0.0 customer.iad-03.appboy.com
 0.0.0.0 lacerta.iad-03.appboy.com
 0.0.0.0 www.lacerta.iad-03.appboy.com
+0.0.0.0 rest.iad-03.appboy.com
+0.0.0.0 saxon.iad-03.appboy.com
 0.0.0.0 sdk.iad-03.appboy.com
 0.0.0.0 www.sdk.iad-03.appboy.com
 0.0.0.0 yildun.iad-03.appboy.com
@@ -71413,6 +71415,7 @@
 0.0.0.0 collection.sv.d2.omtrdc.net
 0.0.0.0 delivery.sv.d2.omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 abcnews.hb.omtrdc.net
 0.0.0.0 abcotv.hb.omtrdc.net
 0.0.0.0 adobecorp.hb.omtrdc.net
 0.0.0.0 aem.hb.omtrdc.net

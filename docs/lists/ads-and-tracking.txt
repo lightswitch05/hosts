@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-11-12T13:53:55+00:00
-# Count: 7345 domains
+# Released: 2019-11-21T13:30:35+00:00
+# Count: 7350 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1080,6 +1080,8 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 appboy.com
 0.0.0.0 shared.iad.appboy.com
+0.0.0.0 iad-03.appboy.com
+0.0.0.0 sdk.iad-03.appboy.com
 0.0.0.0 appboycdn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 appdynamics.com
@@ -6476,6 +6478,7 @@
 0.0.0.0 ojrq.net
 0.0.0.0 omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 abcnews.hb.omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
 0.0.0.0 coxnet.hb.omtrdc.net
@@ -7327,6 +7330,8 @@
 0.0.0.0 samplicio.us
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 ss2.us
+0.0.0.0 o.ss2.us
+0.0.0.0 s.ss2.us
 0.0.0.0 x.ss2.us
 0.0.0.0 trkn.us
 0.0.0.0 log.zoom.us
