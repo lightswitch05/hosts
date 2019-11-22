@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-11-21T15:00:33+00:00
-# Count: 7350 domains
+# Released: 2019-11-22T13:54:32+00:00
+# Count: 7353 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -848,6 +848,7 @@
 0.0.0.0 ace.advertising.com
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 adtech.advertising.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 banner.advertising.com
@@ -3492,6 +3493,8 @@
 0.0.0.0 optimeze.com
 0.0.0.0 optimezer.com
 0.0.0.0 optimizely.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 a5763640713.cdn.optimizely.com
 0.0.0.0 a6529002483.cdn.optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 log.optimizely.com
