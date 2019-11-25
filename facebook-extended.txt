@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-11-21T15:02:45+00:00
-# Count: 3233 domains
+# Released: 2019-11-25T03:39:08+00:00
+# Count: 3267 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -57,6 +57,7 @@
 0.0.0.0 scontent-bog1-1.cdninstagram.com
 0.0.0.0 scontent-bom1-1.cdninstagram.com
 0.0.0.0 scontent-bom1-2.cdninstagram.com
+0.0.0.0 scontent-bos3-1.cdninstagram.com
 0.0.0.0 scontent-bru.cdninstagram.com
 0.0.0.0 scontent-bru2-1.cdninstagram.com
 0.0.0.0 scontent-cdg2-1.cdninstagram.com
@@ -124,6 +125,7 @@
 0.0.0.0 scontent-sin2-2.cdninstagram.com
 0.0.0.0 scontent-sin6-1.cdninstagram.com
 0.0.0.0 scontent-sin6-2.cdninstagram.com
+0.0.0.0 scontent-sin9-1.cdninstagram.com
 0.0.0.0 scontent-sjc3-1.cdninstagram.com
 0.0.0.0 scontent-sof.cdninstagram.com
 0.0.0.0 scontent-sof1-1.cdninstagram.com
@@ -141,6 +143,7 @@
 0.0.0.0 z-p4-scontent-arn2-2.cdninstagram.com
 0.0.0.0 z-p4-scontent-lhr3-1.cdninstagram.com
 0.0.0.0 z-p42-scontent.cdninstagram.com
+0.0.0.0 z-p42-scontent-frx5-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-gru1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-prg1-1.cdninstagram.com
 0.0.0.0 block-test.developerdan.com
@@ -232,6 +235,7 @@
 0.0.0.0 cn.facebook.com
 0.0.0.0 connect.facebook.com
 0.0.0.0 cromwelledge-bgp-01-iad3.facebook.com
+0.0.0.0 cromwelledge-bgp-01-jnb1.facebook.com
 0.0.0.0 cs-cz.facebook.com
 0.0.0.0 cstools.facebook.com
 0.0.0.0 ctscan.facebook.com
@@ -248,25 +252,41 @@
 0.0.0.0 developers.facebook.com
 0.0.0.0 dns.facebook.com
 0.0.0.0 edge-atlas-shv-01-den4.facebook.com
+0.0.0.0 edge-atlas-shv-01-frx5.facebook.com
 0.0.0.0 edge-chat.facebook.com
+0.0.0.0 edge-latest-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-fco1.facebook.com
+0.0.0.0 edge-mqtt-shv-01-icn1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
 0.0.0.0 edge-mws-shv-01-frt3.facebook.com
+0.0.0.0 edge-mws-shv-01-gru2.facebook.com
+0.0.0.0 edge-resolver001-bgp-01-cdg2.facebook.com
+0.0.0.0 edge-services-shv-02-kut2.facebook.com
+0.0.0.0 edge-services-shv-02-mia3.facebook.com
+0.0.0.0 edge-shortwave-shv-01-syd2.facebook.com
+0.0.0.0 edge-snaptu-http-mini-shv-01-lhr3.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-mrs2.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-sin2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
+0.0.0.0 edge-star-mini-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
 0.0.0.0 edge-stun.facebook.com
+0.0.0.0 edge-stun-shv-01-scl1.facebook.com
+0.0.0.0 edge-stun-shv-01-waw1.facebook.com
+0.0.0.0 edge-stun-shv-02-mia3.facebook.com
+0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-arn2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
+0.0.0.0 edge-z-m-mini-shv-01-fco1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
+0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
 0.0.0.0 edgeray-shv-01-dus1.facebook.com
 0.0.0.0 edgeray-shv-01-lax3.facebook.com
 0.0.0.0 edgeray-shv-01-sjc3.facebook.com
@@ -294,6 +314,7 @@
 0.0.0.0 facebook-icd-autopay.facebook.com
 0.0.0.0 fb.facebook.com
 0.0.0.0 de-de.he-il.fbjs.facebook.com
+0.0.0.0 fbonly-test-bgp-01-eze1.facebook.com
 0.0.0.0 feedback.facebook.com
 0.0.0.0 fi-fi.facebook.com
 0.0.0.0 fo-fo.facebook.com
@@ -333,6 +354,7 @@
 0.0.0.0 inyour.facebook.com
 0.0.0.0 secure.inyour.facebook.com
 0.0.0.0 inyourrc.facebook.com
+0.0.0.0 iorg-fba-edge-shv-01-icn1.facebook.com
 0.0.0.0 is-is.facebook.com
 0.0.0.0 it-it.facebook.com
 0.0.0.0 ja-jp.facebook.com
@@ -353,6 +375,8 @@
 0.0.0.0 ar-ar.vi-vn.lite.facebook.com
 0.0.0.0 lithium.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-any2.facebook.com
+0.0.0.0 livestream-edgetee-upload-shv-01-mad1.facebook.com
+0.0.0.0 livestream-fbvp-edgetee-upload-shv-01-mrs2.facebook.com
 0.0.0.0 lm.facebook.com
 0.0.0.0 lntinfotech.facebook.com
 0.0.0.0 login.facebook.com
@@ -1721,6 +1745,7 @@
 0.0.0.0 csn.fbsbx.com
 0.0.0.0 ct-m-fbx.fbsbx.com
 0.0.0.0 de.fbsbx.com
+0.0.0.0 dn.fbsbx.com
 0.0.0.0 e.fbsbx.com
 0.0.0.0 embed.fbsbx.com
 0.0.0.0 fbx.fbsbx.com
@@ -1923,6 +1948,7 @@
 0.0.0.0 gente.messenger.com
 0.0.0.0 globe-telegram.messenger.com
 0.0.0.0 www.google.messenger.com
+0.0.0.0 http.messenger.com
 0.0.0.0 i.messenger.com
 0.0.0.0 id-id.messenger.com
 0.0.0.0 imap4.messenger.com
@@ -2128,6 +2154,7 @@
 0.0.0.0 g.raph.fb.me
 0.0.0.0 rbt.fb.me
 0.0.0.0 rgaph.fb.me
+0.0.0.0 test.fb.me
 0.0.0.0 traph.fb.me
 0.0.0.0 truevisions.tv.fb.me
 0.0.0.0 u00252fon.fb.me
@@ -2197,6 +2224,8 @@
 0.0.0.0 fbcdn.net
 0.0.0.0 edge-oculus-shv-01-cdg2.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-mxp1.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-01-mad1.fbcdn.net
+0.0.0.0 edge-video-shv-01-sea1.fbcdn.net
 0.0.0.0 fna.fbcdn.net
 0.0.0.0 instagram.faar2-1.fna.fbcdn.net
 0.0.0.0 fada1-10.fna.fbcdn.net
@@ -2731,10 +2760,15 @@
 0.0.0.0 ns.fna.fbcdn.net
 0.0.0.0 a.ns.fna.fbcdn.net
 0.0.0.0 b.ns.fna.fbcdn.net
+0.0.0.0 fna-instagram-shv-01-fasu1.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fhyd1.fbcdn.net
+0.0.0.0 instagram-p15-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-sjc3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-any2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-gru1.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-sea1.fbcdn.net
+0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-prg1.fbcdn.net
 0.0.0.0 instagram-p42-shv-02-ort2.fbcdn.net
 0.0.0.0 interncache-atn.fbcdn.net
 0.0.0.0 interncache-frc.fbcdn.net
