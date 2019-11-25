@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-11-22T18:30:04+00:00
-# Count: 7356 domains
+# Released: 2019-11-25T15:55:25+00:00
+# Count: 7413 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -188,6 +188,7 @@
 0.0.0.0 trk.clinch.co
 0.0.0.0 d41.co
 0.0.0.0 cdn-0.d41.co
+0.0.0.0 ecf.d41.co
 0.0.0.0 datadome.co
 0.0.0.0 js.datadome.co
 0.0.0.0 erne.co
@@ -813,6 +814,7 @@
 0.0.0.0 js.adtra.com
 0.0.0.0 adtz.com
 0.0.0.0 adserver.adtz.com
+0.0.0.0 www.facebook-ads.adtz.com
 0.0.0.0 advanseads.com
 0.0.0.0 cdn.advanseads.com
 0.0.0.0 count.advanseads.com
@@ -1014,8 +1016,10 @@
 0.0.0.0 statscollectorloadbalancer-695351754.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 0.0.0.0 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
+0.0.0.0 trackers-1816877321.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
+0.0.0.0 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
@@ -1087,6 +1091,8 @@
 0.0.0.0 js.appboycdn.com
 0.0.0.0 appdynamics.com
 0.0.0.0 cdn.appdynamics.com
+0.0.0.0 saas.appdynamics.com
+0.0.0.0 paid154.saas.appdynamics.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 cstat.apple.com
 0.0.0.0 stats.gc.apple.com
@@ -1180,6 +1186,9 @@
 0.0.0.0 dyn.atdmt.com
 0.0.0.0 atgsvcs.com
 0.0.0.0 recs.atgsvcs.com
+0.0.0.0 atlassbx.com
+0.0.0.0 cdn.atlassbx.com
+0.0.0.0 geo.atlassbx.com
 0.0.0.0 analytics.atlassian.com
 0.0.0.0 attributionapp.com
 0.0.0.0 scripts.attributionapp.com
@@ -1361,6 +1370,7 @@
 0.0.0.0 img1.blogblog.com
 0.0.0.0 bluekai.com
 0.0.0.0 tags.bluekai.com
+0.0.0.0 wdc.bluekai.com
 0.0.0.0 bnmla.com
 0.0.0.0 dsp.bnmla.com
 0.0.0.0 match.bnmla.com
@@ -1909,7 +1919,9 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 doubleverify.com
+0.0.0.0 cacp-hlb.doubleverify.com
 0.0.0.0 cdn.doubleverify.com
+0.0.0.0 logall.doubleverify.com
 0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 yt.srs.doubleverify.com
 0.0.0.0 sync.doubleverify.com
@@ -2454,6 +2466,7 @@
 0.0.0.0 collect.igodigital.com
 0.0.0.0 10523621.collect.igodigital.com
 0.0.0.0 10870841.collect.igodigital.com
+0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 imganalytics.com
 0.0.0.0 p.imganalytics.com
@@ -2501,6 +2514,7 @@
 0.0.0.0 secure-it.imrworldwide.com
 0.0.0.0 secure-jp.imrworldwide.com
 0.0.0.0 secure-nz.imrworldwide.com
+0.0.0.0 secure-proxy.imrworldwide.com
 0.0.0.0 secure-uk.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 secure-wbw.imrworldwide.com
@@ -3191,10 +3205,13 @@
 0.0.0.0 mkto-sn040160.com
 0.0.0.0 mkto-sn040178.com
 0.0.0.0 mkto-test.com
+0.0.0.0 mktoedge.com
+0.0.0.0 nld102.mktoedge.com
 0.0.0.0 mktoresp.com
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 308-xbb-662.mktoresp.com
 0.0.0.0 mktossl.com
+0.0.0.0 ab06.mktossl.com
 0.0.0.0 ab10.mktossl.com
 0.0.0.0 ab11.mktossl.com
 0.0.0.0 ab12.mktossl.com
@@ -3371,6 +3388,7 @@
 0.0.0.0 chico.netmng.com
 0.0.0.0 dms.netmng.com
 0.0.0.0 newarena.netmng.com
+0.0.0.0 wildcard.netmng.com
 0.0.0.0 netseer.com
 0.0.0.0 cm.netseer.com
 0.0.0.0 cmp.network-n.com
@@ -3665,6 +3683,7 @@
 0.0.0.0 vest.display.provenpixel.com
 0.0.0.0 dissets.provenpixel.com
 0.0.0.0 files.provenpixel.com
+0.0.0.0 four2-est.provenpixel.com
 0.0.0.0 get-ca.provenpixel.com
 0.0.0.0 get-est.provenpixel.com
 0.0.0.0 get-unk.provenpixel.com
@@ -4700,6 +4719,7 @@
 0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 unityads.unity3d.com
+0.0.0.0 adsx.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
@@ -5033,6 +5053,7 @@
 0.0.0.0 www.yext-pixel.com
 0.0.0.0 yieldlove.com
 0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 ad.yieldmanager.com
 0.0.0.0 yieldmo.com
 0.0.0.0 rw.yieldmo.com
 0.0.0.0 us-east-1.world.rw.yieldmo.com
@@ -5794,6 +5815,7 @@
 0.0.0.0 g.3gl.net
 0.0.0.0 7eer.net
 0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 star-r-bat-bing-com.a-0001.a-msedge.net
 0.0.0.0 a3cloud.net
 0.0.0.0 t.a3cloud.net
 0.0.0.0 a4mtools.net
@@ -5993,6 +6015,7 @@
 0.0.0.0 a-lb.tribalfusion.com.akadns.net
 0.0.0.0 a-scl1.tribalfusion.com.akadns.net
 0.0.0.0 beacon-all.walmart.com.akadns.net
+0.0.0.0 beacon-cdn.walmart.com.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 ads.nexage.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
@@ -6043,6 +6066,7 @@
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 bf-analytics-tracker-useast-as.azurewebsites.net
 0.0.0.0 lightboxapi1.azurewebsites.net
 0.0.0.0 lightboxapi2.azurewebsites.net
 0.0.0.0 lightboxapi3.azurewebsites.net
@@ -6099,6 +6123,8 @@
 0.0.0.0 d1lu3pmaz2ilpx.cloudfront.net
 0.0.0.0 d1ovo20x1yw5yz.cloudfront.net
 0.0.0.0 d1spgg7psata7d.cloudfront.net
+0.0.0.0 d1twj4iwyvfk0l.cloudfront.net
+0.0.0.0 d1utujuaw34z9q.cloudfront.net
 0.0.0.0 d1wa9546y9kg0n.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
@@ -6114,14 +6140,18 @@
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d330aiyvva2oww.cloudfront.net
+0.0.0.0 d33nmundg46g9e.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
 0.0.0.0 d3l4p0goxhm61a.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
+0.0.0.0 d3sai2k6w952qd.cloudfront.net
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
+0.0.0.0 d3vz9qh00ayk4x.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
+0.0.0.0 divp3w86nodu0.cloudfront.net
 0.0.0.0 djnf6e5yyirys.cloudfront.net
 0.0.0.0 dmc1acwvwny3.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
@@ -6245,6 +6275,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 l.doubleclick.net
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 doublemax.net
@@ -6268,20 +6299,36 @@
 0.0.0.0 order.easydomain.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 79423.analytics.edgekey.net
+0.0.0.0 adroll.com.edgekey.net
+0.0.0.0 m.adroll.com.edgekey.net
 0.0.0.0 wildcard.adroll.com.edgekey.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 casalemedia.com.edgekey.net
+0.0.0.0 ht.casalemedia.com.edgekey.net
 0.0.0.0 metrics.cvshealth.com.edgekey.net
 0.0.0.0 wildcard.marketo.com.edgekey.net
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
+0.0.0.0 optimizely.com.edgekey.net
+0.0.0.0 wildcard.cdn.optimizely.com.edgekey.net
+0.0.0.0 star2.cdn-pci.optimizely.com.edgekey.net
+0.0.0.0 qualtrics.com.edgekey.net
+0.0.0.0 cloudenhanced.qualtrics.com.edgekey.net
+0.0.0.0 rubiconproject.com.edgekey.net
+0.0.0.0 tap2-cdn.rubiconproject.com.edgekey.net
 0.0.0.0 scorecardresearch.com.edgekey.net
 0.0.0.0 sb.scorecardresearch.com.edgekey.net
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 xapi.xfinity.com.edgekey.net
+0.0.0.0 urbanairship.com-v1.edgekey.net
+0.0.0.0 reach-api.urbanairship.com-v1.edgekey.net
+0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 static.dable.io.edgekey.net
 0.0.0.0 mi.edgekey.net
+0.0.0.0 teads.tv.edgekey.net
+0.0.0.0 cdn2.teads.tv.edgekey.net
 0.0.0.0 sitescout-video-cdn.edgesuite.net
 0.0.0.0 effectivemeasure.net
 0.0.0.0 me-ssl.effectivemeasure.net
@@ -6318,6 +6365,8 @@
 0.0.0.0 media.brightcove.map.fastly.net
 0.0.0.0 sonobi-go.map.fastly.net
 0.0.0.0 prod.sonobi-go.map.fastly.net
+0.0.0.0 taboola.map.fastly.net
+0.0.0.0 f2.taboola.map.fastly.net
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -6403,6 +6452,7 @@
 0.0.0.0 rtb-gif.krxd.net
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 lduhtrp.net
+0.0.0.0 custom-proxy.leadpages.net
 0.0.0.0 levelaccess.net
 0.0.0.0 analytics.levelaccess.net
 0.0.0.0 api.levelaccess.net
@@ -6610,6 +6660,7 @@
 0.0.0.0 ads.pro-market.net
 0.0.0.0 pxsrv.net
 0.0.0.0 qksrv.net
+0.0.0.0 siteintercept.qprod2.net
 0.0.0.0 returnpath.net
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 brain.rtb.revcloud.net
@@ -6689,6 +6740,7 @@
 0.0.0.0 stats-irl.sxp.smartclip.net
 0.0.0.0 sociomantic.net
 0.0.0.0 ss-omtrdc.net
+0.0.0.0 commerce.ss-omtrdc.net
 0.0.0.0 guided.ss-omtrdc.net
 0.0.0.0 sp10050c00.guided.ss-omtrdc.net
 0.0.0.0 st-av.net
@@ -6717,6 +6769,7 @@
 0.0.0.0 cc-analytics.trafficmanager.net
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
+0.0.0.0 tracker-bannerflow.trafficmanager.net
 0.0.0.0 sentinel.twitchsvc.net
 0.0.0.0 p.typekit.net
 0.0.0.0 udmserve.net
@@ -7012,6 +7065,8 @@
 0.0.0.0 piwik.pro
 0.0.0.0 cdn.piwik.pro
 0.0.0.0 mparticle.containers.piwik.pro
+0.0.0.0 piwik.pro.de-aurora-dc.piwik.pro
+0.0.0.0 piwik.pro.eu-west-1.piwik.pro
 0.0.0.0 marketing.piwik.pro
 0.0.0.0 spartoo.pt
 0.0.0.0 imgext.spartoo.pt
@@ -7182,6 +7237,8 @@
 0.0.0.0 ads.instabid.tech
 0.0.0.0 px.instabid.tech
 0.0.0.0 wpad.test
+0.0.0.0 tapjoy.kiosk.tm
+0.0.0.0 advertisers.tapjoy.kiosk.tm
 0.0.0.0 tagm.tchibo.com.tr
 0.0.0.0 adrise.tv
 0.0.0.0 cdn.adrise.tv
