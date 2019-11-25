@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-11-25T15:55:25+00:00
-# Count: 7413 domains
+# Released: 2019-11-25T16:26:08+00:00
+# Count: 7417 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -5262,6 +5262,8 @@
 0.0.0.0 medialead.eu
 0.0.0.0 cdn-network.medialead.eu
 0.0.0.0 network.medialead.eu
+0.0.0.0 slgnt.eu
+0.0.0.0 futureplc.slgnt.eu
 0.0.0.0 tracking.wpnetwork.eu
 0.0.0.0 admetrics.events
 0.0.0.0 ads.admetrics.events
@@ -6116,6 +6118,8 @@
 0.0.0.0 sconsentit910.cloudapp.net
 0.0.0.0 taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
+0.0.0.0 slgnt.eu.cdn.cloudflare.net
+0.0.0.0 futureplc.slgnt.eu.cdn.cloudflare.net
 0.0.0.0 assets-auto.rbl.ms.cdn.cloudflare.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11x7a53l5pste.cloudfront.net
