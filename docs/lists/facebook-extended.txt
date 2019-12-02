@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-11-25T03:39:08+00:00
-# Count: 3267 domains
+# Released: 2019-12-02T03:39:10+00:00
+# Count: 3279 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -68,6 +68,7 @@
 0.0.0.0 scontent-dfw5-1.cdninstagram.com
 0.0.0.0 scontent-dfw5-2.cdninstagram.com
 0.0.0.0 scontent-dub4-1.cdninstagram.com
+0.0.0.0 scontent-dus.cdninstagram.com
 0.0.0.0 scontent-dus1-1.cdninstagram.com
 0.0.0.0 scontent-eze1-1.cdninstagram.com
 0.0.0.0 scontent-fco1-1.cdninstagram.com
@@ -256,6 +257,7 @@
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-latest-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-fco1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-icn1.facebook.com
@@ -277,6 +279,7 @@
 0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
+0.0.0.0 edge-star-shv-01-gmp1.facebook.com
 0.0.0.0 edge-stun.facebook.com
 0.0.0.0 edge-stun-shv-01-scl1.facebook.com
 0.0.0.0 edge-stun-shv-01-waw1.facebook.com
@@ -284,6 +287,7 @@
 0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-arn2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
+0.0.0.0 edge-z-m-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-fco1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
@@ -339,6 +343,7 @@
 0.0.0.0 netdna01.iad3.facebook.com
 0.0.0.0 id-id.facebook.com
 0.0.0.0 iifl.facebook.com
+0.0.0.0 imba.facebook.com
 0.0.0.0 intermcr.facebook.com
 0.0.0.0 intern.facebook.com
 0.0.0.0 m.intern.facebook.com
@@ -499,6 +504,7 @@
 0.0.0.0 msgin-regional-shv-01-rprn0.facebook.com
 0.0.0.0 mtouch.facebook.com
 0.0.0.0 my-mm.facebook.com
+0.0.0.0 mybauli.facebook.com
 0.0.0.0 nb-no.facebook.com
 0.0.0.0 ne-np.facebook.com
 0.0.0.0 newdev.facebook.com
@@ -744,6 +750,7 @@
 0.0.0.0 razer.facebook.com
 0.0.0.0 register.facebook.com
 0.0.0.0 ro-ro.facebook.com
+0.0.0.0 rtmp-api.facebook.com
 0.0.0.0 ru-ru.facebook.com
 0.0.0.0 rupload.facebook.com
 0.0.0.0 savealot.facebook.com
@@ -2166,6 +2173,8 @@
 0.0.0.0 wwww.fb.me
 0.0.0.0 xl.fb.me
 0.0.0.0 yraph.fb.me
+0.0.0.0 z028.fb.me
+0.0.0.0 z08.fb.me
 0.0.0.0 zero.fb.me
 0.0.0.0 zraph.fb.me
 0.0.0.0 zro.fb.me
@@ -2768,6 +2777,7 @@
 0.0.0.0 instagram-p3-shv-01-gru1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sea1.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-fco1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-prg1.fbcdn.net
 0.0.0.0 instagram-p42-shv-02-ort2.fbcdn.net
 0.0.0.0 interncache-atn.fbcdn.net
@@ -2780,6 +2790,7 @@
 0.0.0.0 sha256.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-fco1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-ort2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
 0.0.0.0 www.fbcdn.net
 0.0.0.0 xx.fbcdn.net
 0.0.0.0 1.xx.fbcdn.net
@@ -2846,6 +2857,7 @@
 0.0.0.0 fe430bfe180-jgpxoflu1568374416-sonar.xx.fbcdn.net
 0.0.0.0 ff671bb4380-qjnakkkd1566751938-sonar.xx.fbcdn.net
 0.0.0.0 mia.xx.fbcdn.net
+0.0.0.0 a.ns.xx.fbcdn.net
 0.0.0.0 b.ns.xx.fbcdn.net
 0.0.0.0 profile-b.xx.fbcdn.net
 0.0.0.0 s.xx.fbcdn.net
