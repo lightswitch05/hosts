@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2019-12-02T03:39:10+00:00
-# Count: 3279 domains
+# Released: 2019-12-09T03:39:20+00:00
+# Count: 3289 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -24,6 +24,7 @@
 
 0.0.0.0 facebook-web-clients.appspot.com
 0.0.0.0 cdninstagram.com
+0.0.0.0 creative.cdninstagram.com
 0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent-a.cdninstagram.com
 0.0.0.0 scontent-a-ams.cdninstagram.com
@@ -100,6 +101,7 @@
 0.0.0.0 scontent-lhr3-1.cdninstagram.com
 0.0.0.0 scontent-lht6-1.cdninstagram.com
 0.0.0.0 scontent-lim1-1.cdninstagram.com
+0.0.0.0 scontent-lis1-1.cdninstagram.com
 0.0.0.0 scontent-los2-1.cdninstagram.com
 0.0.0.0 scontent-maa2-1.cdninstagram.com
 0.0.0.0 scontent-maa2-2.cdninstagram.com
@@ -158,6 +160,7 @@
 0.0.0.0 3-edge-chat.facebook.com
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5-edge-chat.facebook.com
+0.0.0.0 5-edge-chat-latest.facebook.com
 0.0.0.0 6-edge-chat.facebook.com
 0.0.0.0 about.facebook.com
 0.0.0.0 actcorp.facebook.com
@@ -282,6 +285,7 @@
 0.0.0.0 edge-star-shv-01-gmp1.facebook.com
 0.0.0.0 edge-stun.facebook.com
 0.0.0.0 edge-stun-shv-01-scl1.facebook.com
+0.0.0.0 edge-stun-shv-01-vie1.facebook.com
 0.0.0.0 edge-stun-shv-01-waw1.facebook.com
 0.0.0.0 edge-stun-shv-02-mia3.facebook.com
 0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
@@ -769,6 +773,7 @@
 0.0.0.0 netdna01.sjc1.facebook.com
 0.0.0.0 sk-sk.facebook.com
 0.0.0.0 sl-si.facebook.com
+0.0.0.0 slalom.facebook.com
 0.0.0.0 snaptu-mini.facebook.com
 0.0.0.0 snaptu-p2.facebook.com
 0.0.0.0 snaptu-z.facebook.com
@@ -1756,6 +1761,7 @@
 0.0.0.0 e.fbsbx.com
 0.0.0.0 embed.fbsbx.com
 0.0.0.0 fbx.fbsbx.com
+0.0.0.0 fdn.fbsbx.com
 0.0.0.0 flookaside.fbsbx.com
 0.0.0.0 ide.fbsbx.com
 0.0.0.0 integrated-plugin-canvas-341491175940639-487203226.fbsbx.com
@@ -2770,6 +2776,8 @@
 0.0.0.0 a.ns.fna.fbcdn.net
 0.0.0.0 b.ns.fna.fbcdn.net
 0.0.0.0 fna-instagram-shv-01-fasu1.fbcdn.net
+0.0.0.0 fna-instagram-shv-01-fdet1.fbcdn.net
+0.0.0.0 fna-instagram-shv-01-fjai2.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fhyd1.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-sjc3.fbcdn.net
@@ -2783,6 +2791,7 @@
 0.0.0.0 interncache-atn.fbcdn.net
 0.0.0.0 interncache-frc.fbcdn.net
 0.0.0.0 interncache-lla.fbcdn.net
+0.0.0.0 interncache-nao.fbcdn.net
 0.0.0.0 interncache-pnb.fbcdn.net
 0.0.0.0 origincache-ash.fbcdn.net
 0.0.0.0 origincache-ftw.fbcdn.net
@@ -3300,6 +3309,7 @@
 0.0.0.0 scontent.whatsapp.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 v.whatsapp.net
+0.0.0.0 vx.whatsapp.net
 0.0.0.0 www-cdn.whatsapp.net
 
 

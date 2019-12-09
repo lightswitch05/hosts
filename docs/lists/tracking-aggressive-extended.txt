@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-12-02T03:32:18+00:00
-# Count: 4206 domains
+# Released: 2019-12-09T03:32:22+00:00
+# Count: 4217 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -259,6 +259,7 @@
 0.0.0.0 kirklands.ugc.bazaarvoice.com
 0.0.0.0 kodakeurope.ugc.bazaarvoice.com
 0.0.0.0 kohls.ugc.bazaarvoice.com
+0.0.0.0 krylon.ugc.bazaarvoice.com
 0.0.0.0 lactaid.ugc.bazaarvoice.com
 0.0.0.0 ladyfootlocker.ugc.bazaarvoice.com
 0.0.0.0 lancomecanada.ugc.bazaarvoice.com
@@ -1563,6 +1564,7 @@
 0.0.0.0 mailout2.gigya.com
 0.0.0.0 manage.gigya.com
 0.0.0.0 nestle.gigya.com
+0.0.0.0 origin.gigya.com
 0.0.0.0 pages.gigya.com
 0.0.0.0 platform.gigya.com
 0.0.0.0 ra-il.gigya.com
@@ -2007,6 +2009,7 @@
 0.0.0.0 list.janrain.com
 0.0.0.0 login.janrain.com
 0.0.0.0 mail-bouncer.janrain.com
+0.0.0.0 mms.janrain.com
 0.0.0.0 nathan.janrain.com
 0.0.0.0 ns1.janrain.com
 0.0.0.0 ns2.janrain.com
@@ -2812,6 +2815,7 @@
 0.0.0.0 jw1c4b.providesupport.com
 0.0.0.0 jw1c4i.providesupport.com
 0.0.0.0 jw1do-sg.providesupport.com
+0.0.0.0 jw1lo-sg.providesupport.com
 0.0.0.0 jw2c1b.providesupport.com
 0.0.0.0 jw2c1i.providesupport.com
 0.0.0.0 jw2c2b.providesupport.com
@@ -2884,6 +2888,7 @@
 0.0.0.0 www.bill.spyfone.com
 0.0.0.0 cart.spyfone.com
 0.0.0.0 www.cart.spyfone.com
+0.0.0.0 deals.spyfone.com
 0.0.0.0 gpsdemo.spyfone.com
 0.0.0.0 www.gpsdemo.spyfone.com
 0.0.0.0 login.spyfone.com
@@ -2992,6 +2997,7 @@
 0.0.0.0 www.spymasterpro.com
 0.0.0.0 stripcdn.com
 0.0.0.0 b-as1.stripcdn.com
+0.0.0.0 b-as2.stripcdn.com
 0.0.0.0 b-eu1.stripcdn.com
 0.0.0.0 b-eu10.stripcdn.com
 0.0.0.0 b-eu11.stripcdn.com
@@ -3023,6 +3029,7 @@
 0.0.0.0 b-mse-eu16.stripcdn.com
 0.0.0.0 b-mse-eu17.stripcdn.com
 0.0.0.0 b-mse-eu18.stripcdn.com
+0.0.0.0 b-mse-eu19.stripcdn.com
 0.0.0.0 b-mse-eu20.stripcdn.com
 0.0.0.0 b-mse-eu6.stripcdn.com
 0.0.0.0 b-mse-eu7.stripcdn.com
@@ -3389,6 +3396,7 @@
 0.0.0.0 team.vk.com
 0.0.0.0 autodiscover.team.vk.com
 0.0.0.0 tost.vk.com
+0.0.0.0 touch.vk.com
 0.0.0.0 tyt.vk.com
 0.0.0.0 u.vk.com
 0.0.0.0 ueuev4.vk.com
@@ -3762,6 +3770,7 @@
 0.0.0.0 log-jjillecp.gomoxie.solutions
 0.0.0.0 log-lifetimefitness.gomoxie.solutions
 0.0.0.0 log-mercer.gomoxie.solutions
+0.0.0.0 log-mercury.gomoxie.solutions
 0.0.0.0 log-mercuryunderwriting.gomoxie.solutions
 0.0.0.0 log-michaelkors.gomoxie.solutions
 0.0.0.0 log-michaelkorsca.gomoxie.solutions
@@ -3920,6 +3929,7 @@
 0.0.0.0 firstrade-prod.ada.support
 0.0.0.0 godaddy.ada.support
 0.0.0.0 grubhub.ada.support
+0.0.0.0 hello.ada.support
 0.0.0.0 hellofresh.ada.support
 0.0.0.0 hushed.ada.support
 0.0.0.0 info.ada.support
@@ -4000,6 +4010,7 @@
 0.0.0.0 tophat-2.ada.support
 0.0.0.0 try.ada.support
 0.0.0.0 www.try.ada.support
+0.0.0.0 ultius.ada.support
 0.0.0.0 ultius-client.ada.support
 0.0.0.0 ultra.ada.support
 0.0.0.0 ultra-esp.ada.support
