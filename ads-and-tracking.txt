@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-06T22:49:02+00:00
-# Count: 7423 domains
+# Released: 2019-12-10T16:23:59+00:00
+# Count: 7427 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2413,6 +2413,8 @@
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
+0.0.0.0 hostedprebid.com
+0.0.0.0 754.hostedprebid.com
 0.0.0.0 activate.hotels.com
 0.0.0.0 hotfreebees.com
 0.0.0.0 www.hotfreebees.com
@@ -5402,6 +5404,8 @@
 0.0.0.0 cdn.ayc0zsm69431gfebd.info
 0.0.0.0 cashtrafic.info
 0.0.0.0 cloud.cashtrafic.info
+0.0.0.0 crtx.info
+0.0.0.0 run.crtx.info
 0.0.0.0 match33.info
 0.0.0.0 mystighty.info
 0.0.0.0 1rx.io
