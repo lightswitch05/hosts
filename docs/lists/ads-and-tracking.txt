@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-10T16:23:59+00:00
-# Count: 7427 domains
+# Released: 2019-12-11T13:54:41+00:00
+# Count: 7440 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1441,6 +1441,7 @@
 0.0.0.0 bronto.com
 0.0.0.0 cdn.bronto.com
 0.0.0.0 js.bronto.com
+0.0.0.0 maw.bronto.com
 0.0.0.0 browserhawk.com
 0.0.0.0 lib.browserhawk.com
 0.0.0.0 browsiprod.com
@@ -1775,9 +1776,11 @@
 0.0.0.0 cas.eu.criteo.com
 0.0.0.0 cat.fr.eu.criteo.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 sslwidget.criteo.com
 0.0.0.0 us.criteo.com
 0.0.0.0 ads.us.criteo.com
 0.0.0.0 cas.us.criteo.com
+0.0.0.0 dis.us.criteo.com
 0.0.0.0 rdi.us.criteo.com
 0.0.0.0 cat.sv.us.criteo.com
 0.0.0.0 cat.va.us.criteo.com
@@ -2029,6 +2032,7 @@
 0.0.0.0 t.edgexads.com
 0.0.0.0 u.edgexads.com
 0.0.0.0 edigitalsurvey.com
+0.0.0.0 edw.edmunds.com
 0.0.0.0 effiliation.com
 0.0.0.0 flux.effiliation.com
 0.0.0.0 track.effiliation.com
@@ -2419,6 +2423,7 @@
 0.0.0.0 hotfreebees.com
 0.0.0.0 www.hotfreebees.com
 0.0.0.0 hotjar.com
+0.0.0.0 in.hotjar.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 hs-scripts.com
@@ -4578,6 +4583,7 @@
 0.0.0.0 tns-ua.com
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 topprotestsigns.com
+0.0.0.0 pulse.toyota.com
 0.0.0.0 p.pulse.toyota.com
 0.0.0.0 smetrics.toyota.com
 0.0.0.0 tags.toyota.com
@@ -5498,6 +5504,7 @@
 0.0.0.0 eum.instana.io
 0.0.0.0 intercom.io
 0.0.0.0 mobile-sdk-api.intercom.io
+0.0.0.0 e52lyc3a-ios.mobile-sdk-api.intercom.io
 0.0.0.0 quxcfcv5-ios.mobile-sdk-api.intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nexus-websocket-b.intercom.io
@@ -5528,6 +5535,7 @@
 0.0.0.0 api.lytics.io
 0.0.0.0 c.lytics.io
 0.0.0.0 marchex.io
+0.0.0.0 rw.marchex.io
 0.0.0.0 rw1.marchex.io
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 jelly.mdhv.io
@@ -5537,6 +5545,8 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 cdn.onthe.io
 0.0.0.0 tt.onthe.io
+0.0.0.0 opticalanalytics.io
+0.0.0.0 service.opticalanalytics.io
 0.0.0.0 oribi.io
 0.0.0.0 cdn.oribi.io
 0.0.0.0 pagesense.io
@@ -6083,6 +6093,7 @@
 0.0.0.0 lightboxapi2.azurewebsites.net
 0.0.0.0 lightboxapi3.azurewebsites.net
 0.0.0.0 prod-mng-proxy-connext.azurewebsites.net
+0.0.0.0 toyota-tagging-tagserver-prod.azurewebsites.net
 0.0.0.0 katr.b-cdn.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 api.bandwidthx.net
@@ -6558,6 +6569,7 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
 0.0.0.0 sc.omtrdc.net
+0.0.0.0 ancestrycom.sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
 0.0.0.0 com.sc.omtrdc.net
 0.0.0.0 d1.sc.omtrdc.net
@@ -6607,6 +6619,7 @@
 0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 mboxedge.tt.omtrdc.net
+0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 pizzahutllc.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
