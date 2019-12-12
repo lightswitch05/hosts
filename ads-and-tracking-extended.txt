@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-12-12T20:04:43+00:00
-# Count: 89001 domains
+# Released: 2019-12-12T20:36:22+00:00
+# Count: 89024 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -22060,6 +22060,7 @@
 0.0.0.0 survey1.daphnecm.com
 0.0.0.0 z0dvxqapef.daphnecm.com
 0.0.0.0 data-capital.com
+0.0.0.0 collector.datadoghq.com
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 datametrical.com
@@ -31653,6 +31654,27 @@
 0.0.0.0 status.leadfeeder.com
 0.0.0.0 ww2.leadfeeder.com
 0.0.0.0 www.leadfeeder.com
+0.0.0.0 leadlander.com
+0.0.0.0 app.leadlander.com
+0.0.0.0 d2.leadlander.com
+0.0.0.0 salesforce.leadlander.com
+0.0.0.0 www.salesforce.leadlander.com
+0.0.0.0 ssl.leadlander.com
+0.0.0.0 www.ssl.leadlander.com
+0.0.0.0 t.leadlander.com
+0.0.0.0 t0.leadlander.com
+0.0.0.0 t1.leadlander.com
+0.0.0.0 t2.leadlander.com
+0.0.0.0 t3.leadlander.com
+0.0.0.0 t4.leadlander.com
+0.0.0.0 t5.leadlander.com
+0.0.0.0 t6.leadlander.com
+0.0.0.0 t7.leadlander.com
+0.0.0.0 t8.leadlander.com
+0.0.0.0 t9.leadlander.com
+0.0.0.0 tracking.leadlander.com
+0.0.0.0 www.leadlander.com
+0.0.0.0 wwww.leadlander.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 pixel.leadnationmedia.com
 0.0.0.0 www.pixel.leadnationmedia.com
@@ -60700,6 +60722,7 @@
 0.0.0.0 mail.calq.io
 0.0.0.0 webdisk.calq.io
 0.0.0.0 www.calq.io
+0.0.0.0 t.castle.io
 0.0.0.0 clarium.io
 0.0.0.0 cdn.clarium.io
 0.0.0.0 protected-by.clarium.io

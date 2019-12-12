@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-12T20:04:42+00:00
-# Count: 7439 domains
+# Released: 2019-12-12T20:36:21+00:00
+# Count: 7443 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1849,6 +1849,7 @@
 0.0.0.0 logger-10.vty.dailymotion.com
 0.0.0.0 daphnecm.com
 0.0.0.0 data-capital.com
+0.0.0.0 collector.datadoghq.com
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 datametrical.com
@@ -2737,6 +2738,8 @@
 0.0.0.0 www.leadbolt.com
 0.0.0.0 leadfeeder.com
 0.0.0.0 lftracker.leadfeeder.com
+0.0.0.0 leadlander.com
+0.0.0.0 tracking.leadlander.com
 0.0.0.0 leadnationmedia.com
 0.0.0.0 leadsbridge.com
 0.0.0.0 leanplum.com
@@ -5447,6 +5450,7 @@
 0.0.0.0 browsee.io
 0.0.0.0 calq.io
 0.0.0.0 api.calq.io
+0.0.0.0 t.castle.io
 0.0.0.0 clarium.io
 0.0.0.0 protected-by.clarium.io
 0.0.0.0 cointraffic.io
