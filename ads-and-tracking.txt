@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-16T13:40:01+00:00
-# Count: 7444 domains
+# Released: 2019-12-16T20:29:04+00:00
+# Count: 7448 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -5576,6 +5576,8 @@
 0.0.0.0 sentry.io
 0.0.0.0 sjv.io
 0.0.0.0 cabinets.sjv.io
+0.0.0.0 smarterhq.io
+0.0.0.0 tr2.smarterhq.io
 0.0.0.0 gsync.sqate.io
 0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
@@ -6801,6 +6803,8 @@
 0.0.0.0 cookieconsent.trafficmanager.net
 0.0.0.0 sconsentit9.trafficmanager.net
 0.0.0.0 tracker-bannerflow.trafficmanager.net
+0.0.0.0 travelsmarter.net
+0.0.0.0 p.travelsmarter.net
 0.0.0.0 sentinel.twitchsvc.net
 0.0.0.0 p.typekit.net
 0.0.0.0 udmserve.net
