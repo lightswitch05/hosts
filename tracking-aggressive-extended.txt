@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-12-09T03:32:22+00:00
-# Count: 4217 domains
+# Released: 2019-12-16T03:32:28+00:00
+# Count: 4230 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -462,6 +462,7 @@
 0.0.0.0 1win88.comm100.com
 0.0.0.0 apirouting.comm100.com
 0.0.0.0 appmax1.comm100.com
+0.0.0.0 appmax1service.comm100.com
 0.0.0.0 autodiscover.comm100.com
 0.0.0.0 beta.comm100.com
 0.0.0.0 beta1.comm100.com
@@ -482,6 +483,7 @@
 0.0.0.0 entchatserver.comm100.com
 0.0.0.0 entchatserver7.comm100.com
 0.0.0.0 enterprise.comm100.com
+0.0.0.0 enterprisechatserver.comm100.com
 0.0.0.0 entmax.comm100.com
 0.0.0.0 eu.comm100.com
 0.0.0.0 euchatserver.comm100.com
@@ -670,6 +672,7 @@
 0.0.0.0 etappx.exacttarget.com
 0.0.0.0 etinswdem01.exacttarget.com
 0.0.0.0 etinteractive.exacttarget.com
+0.0.0.0 ettest.exacttarget.com
 0.0.0.0 etweb.exacttarget.com
 0.0.0.0 events.exacttarget.com
 0.0.0.0 github.exacttarget.com
@@ -2262,6 +2265,7 @@
 0.0.0.0 ct249.dsr.livefyre.com
 0.0.0.0 ct250.dsr.livefyre.com
 0.0.0.0 ct251.dsr.livefyre.com
+0.0.0.0 ct252.dsr.livefyre.com
 0.0.0.0 lc48.dsr.livefyre.com
 0.0.0.0 lc49.dsr.livefyre.com
 0.0.0.0 lc50.dsr.livefyre.com
@@ -3016,6 +3020,8 @@
 0.0.0.0 b-eu9.stripcdn.com
 0.0.0.0 b-hls-eu1.stripcdn.com
 0.0.0.0 b-hls-eu2.stripcdn.com
+0.0.0.0 b-hls-eu5.stripcdn.com
+0.0.0.0 b-hls-eu6.stripcdn.com
 0.0.0.0 b-hls-us1.stripcdn.com
 0.0.0.0 b-hls-us2.stripcdn.com
 0.0.0.0 b-hls-us3.stripcdn.com
@@ -3235,6 +3241,7 @@
 0.0.0.0 leroymerlin.cs06660.vk.com
 0.0.0.0 cs10130.vk.com
 0.0.0.0 cs10320.vk.com
+0.0.0.0 cs10373.vk.com
 0.0.0.0 cs10421.vk.com
 0.0.0.0 cs10478.vk.com
 0.0.0.0 cs11073.vk.com
@@ -3253,6 +3260,7 @@
 0.0.0.0 cs360.vk.com
 0.0.0.0 cs370.vk.com
 0.0.0.0 cs380.vk.com
+0.0.0.0 cs4111.vk.com
 0.0.0.0 cs4423.vk.com
 0.0.0.0 formula1admin.web18922.cs4932.vk.com
 0.0.0.0 cs5172.vk.com
@@ -3313,6 +3321,7 @@
 0.0.0.0 indianapolis.vk.com
 0.0.0.0 ivs458.vk.com
 0.0.0.0 khromovskikh.vk.com
+0.0.0.0 kseniia-ermakova.vk.com
 0.0.0.0 kulinovich.vk.com
 0.0.0.0 lg.vk.com
 0.0.0.0 li.vk.com
@@ -3367,6 +3376,7 @@
 0.0.0.0 srv137-185-240-87.vk.com
 0.0.0.0 srv140-129-240-87.vk.com
 0.0.0.0 srv146-185-240-87.vk.com
+0.0.0.0 srv158-137-240-87.vk.com
 0.0.0.0 srv163-11-213-95.vk.com
 0.0.0.0 srv164-11-213-95.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
@@ -3472,6 +3482,7 @@
 0.0.0.0 conversation-read.spot.im
 0.0.0.0 demos.spot.im
 0.0.0.0 developers.spot.im
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 drive.spot.im
 0.0.0.0 dynamic-cdn.spot.im
 0.0.0.0 email-connect.spot.im
@@ -3517,6 +3528,7 @@
 0.0.0.0 social-connect.spot.im
 0.0.0.0 spot-headers.spot.im
 0.0.0.0 spotops.spot.im
+0.0.0.0 spotops-kube.spot.im
 0.0.0.0 spoxy.spot.im
 0.0.0.0 spoxy-eb.spot.im
 0.0.0.0 spoxy-launcher.spot.im
@@ -3765,6 +3777,7 @@
 0.0.0.0 log-ctfstest.gomoxie.solutions
 0.0.0.0 log-essex.gomoxie.solutions
 0.0.0.0 log-flowers.gomoxie.solutions
+0.0.0.0 log-hawkecommerce.gomoxie.solutions
 0.0.0.0 log-hawkincentives.gomoxie.solutions
 0.0.0.0 log-icat.gomoxie.solutions
 0.0.0.0 log-jjillecp.gomoxie.solutions
