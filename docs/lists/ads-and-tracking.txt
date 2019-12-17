@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-16T20:29:04+00:00
-# Count: 7448 domains
+# Released: 2019-12-17T13:53:51+00:00
+# Count: 7450 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -6115,6 +6115,8 @@
 0.0.0.0 apac-jp.bidswitch.net
 0.0.0.0 eu-gce.bidswitch.net
 0.0.0.0 eu-gce-user.bidswitch.net
+0.0.0.0 pdc.bidswitch.net
+0.0.0.0 grid-cdn.pdc.bidswitch.net
 0.0.0.0 us-east-google.bidswitch.net
 0.0.0.0 us-west.bidswitch.net
 0.0.0.0 us-west-user.bidswitch.net
