@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-17T13:53:51+00:00
-# Count: 7450 domains
+# Released: 2019-12-18T13:34:42+00:00
+# Count: 7455 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2342,6 +2342,7 @@
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 mail-ads.google.com
 0.0.0.0 google-analytics.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
@@ -2373,6 +2374,8 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 va-g2.gumgum.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 rp.gwallet.com
 0.0.0.0 h-bid.com
 0.0.0.0 static.h-bid.com
@@ -4902,6 +4905,8 @@
 0.0.0.0 wfpscripts.webspectator.com
 0.0.0.0 webtradingspot.com
 0.0.0.0 rtb-useast.webtradingspot.com
+0.0.0.0 webtrends.com
+0.0.0.0 dc.webtrends.com
 0.0.0.0 tracking.weiboniu.com
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 stats.westworldmedia.com
