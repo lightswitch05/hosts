@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-18T13:34:42+00:00
-# Count: 7455 domains
+# Released: 2019-12-19T14:26:05+00:00
+# Count: 7460 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -3314,6 +3314,7 @@
 0.0.0.0 mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 s.mopub.com
+0.0.0.0 p-cg61-beaconserver.movetv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 mparticle.com
 0.0.0.0 config2.mparticle.com
@@ -3872,6 +3873,7 @@
 0.0.0.0 rlcdn.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 so.rlcdn.com
+0.0.0.0 tv.rlcdn.com
 0.0.0.0 rlets.com
 0.0.0.0 cdn.rlets.com
 0.0.0.0 fault.rlets.com
@@ -4382,6 +4384,8 @@
 0.0.0.0 den01-event.spotxchange.com
 0.0.0.0 den01-search.spotxchange.com
 0.0.0.0 event.spotxchange.com
+0.0.0.0 iad02-event.spotxchange.com
+0.0.0.0 iad02-search.spotxchange.com
 0.0.0.0 live.spotxchange.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
@@ -7301,6 +7305,7 @@
 0.0.0.0 exelatesync.extend.tv
 0.0.0.0 spotx2eventsbidder-east.extend.tv
 0.0.0.0 sync.extend.tv
+0.0.0.0 telariaeventsbidder-east.extend.tv
 0.0.0.0 ads.freewheel.tv
 0.0.0.0 iris.tv
 0.0.0.0 ovp.iris.tv
