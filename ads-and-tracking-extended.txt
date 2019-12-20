@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-12-19T18:39:39+00:00
-# Count: 90110 domains
+# Released: 2019-12-20T02:36:02+00:00
+# Count: 90137 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -38460,6 +38460,7 @@
 0.0.0.0 www.mopub.com
 0.0.0.0 www3.mopub.com
 0.0.0.0 p-cg61-beaconserver.movetv.com
+0.0.0.0 p-stats.movetv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 mparticle.com
 0.0.0.0 acceleration.mparticle.com
@@ -54193,6 +54194,30 @@
 0.0.0.0 images.trumeasure.com
 0.0.0.0 jss.trumeasure.com
 0.0.0.0 www.trumeasure.com
+0.0.0.0 truoptik.com
+0.0.0.0 5.21-c.truoptik.com
+0.0.0.0 adwrapper.truoptik.com
+0.0.0.0 us1.amp.truoptik.com
+0.0.0.0 api.truoptik.com
+0.0.0.0 bid.truoptik.com
+0.0.0.0 bid-nyc1.truoptik.com
+0.0.0.0 bid-sfo1.truoptik.com
+0.0.0.0 blackhole.truoptik.com
+0.0.0.0 cav.truoptik.com
+0.0.0.0 dmp.truoptik.com
+0.0.0.0 www.dmp.truoptik.com
+0.0.0.0 info.truoptik.com
+0.0.0.0 lb1-dmp-nyc1-do.truoptik.com
+0.0.0.0 lb1-tms-nyc1-do.truoptik.com
+0.0.0.0 ns1.truoptik.com
+0.0.0.0 ns2.truoptik.com
+0.0.0.0 omc.truoptik.com
+0.0.0.0 router1-www-ny1-21.truoptik.com
+0.0.0.0 tms.truoptik.com
+0.0.0.0 vm2.truoptik.com
+0.0.0.0 vm5.truoptik.com
+0.0.0.0 ws-tms.truoptik.com
+0.0.0.0 www.truoptik.com
 0.0.0.0 ttflb.com
 0.0.0.0 mail.ttflb.com
 0.0.0.0 webdisk.ttflb.com
@@ -74722,6 +74747,7 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 lrads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 captive.pubads.g.doubleclick.net
 0.0.0.0 rtb-europe.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
@@ -78921,6 +78947,7 @@
 0.0.0.0 disco.sc.omtrdc.net
 0.0.0.0 discoverydp.sc.omtrdc.net
 0.0.0.0 www.discoverydp.sc.omtrdc.net
+0.0.0.0 dishanalyticsandtesting.sc.omtrdc.net
 0.0.0.0 disneyshopping.sc.omtrdc.net
 0.0.0.0 disruptive.sc.omtrdc.net
 0.0.0.0 docomobiz.sc.omtrdc.net

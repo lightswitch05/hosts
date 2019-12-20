@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-19T18:39:39+00:00
-# Count: 7460 domains
+# Released: 2019-12-20T02:36:02+00:00
+# Count: 7464 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -3315,6 +3315,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 s.mopub.com
 0.0.0.0 p-cg61-beaconserver.movetv.com
+0.0.0.0 p-stats.movetv.com
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 mparticle.com
 0.0.0.0 config2.mparticle.com
@@ -4686,6 +4687,8 @@
 0.0.0.0 adfdsaf.ow.truesteamachievements.com
 0.0.0.0 trumeasure.com
 0.0.0.0 jss.trumeasure.com
+0.0.0.0 truoptik.com
+0.0.0.0 dmp.truoptik.com
 0.0.0.0 ttflb.com
 0.0.0.0 www.ttflb.com
 0.0.0.0 px.srvcs.tumblr.com
@@ -6606,6 +6609,7 @@
 0.0.0.0 consumerreports.org.ssl.d2.sc.omtrdc.net
 0.0.0.0 vanguard.d2.sc.omtrdc.net
 0.0.0.0 d3.sc.omtrdc.net
+0.0.0.0 dishanalyticsandtesting.sc.omtrdc.net
 0.0.0.0 exchangepartnerbrightedge.sc.omtrdc.net
 0.0.0.0 hulu.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
