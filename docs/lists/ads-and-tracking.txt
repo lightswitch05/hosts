@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-20T02:36:02+00:00
-# Count: 7464 domains
+# Released: 2019-12-20T13:30:41+00:00
+# Count: 7471 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2548,6 +2548,7 @@
 0.0.0.0 cdn.includemodal.com
 0.0.0.0 indexww.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 analytics.inform.com
 0.0.0.0 pr5600.infusionsoft.com
 0.0.0.0 inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
@@ -3036,6 +3037,7 @@
 0.0.0.0 mediapass.com
 0.0.0.0 www.mediapass.com
 0.0.0.0 mediaplex.com
+0.0.0.0 altfarm.mediaplex.com
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
@@ -4709,6 +4711,7 @@
 0.0.0.0 tvadsync.com
 0.0.0.0 px.tvadsync.com
 0.0.0.0 tvpixel.com
+0.0.0.0 c.tvpixel.com
 0.0.0.0 p.tvpixel.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 syndication.twitter.com
@@ -6385,6 +6388,7 @@
 0.0.0.0 cm.everesttech.net
 0.0.0.0 playtime-tm.everesttech.net
 0.0.0.0 rtb-lb-event-iad-1a-tm.everesttech.net
+0.0.0.0 rtb-lb-event-iad-1c-tm.everesttech.net
 0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 stats-tm.everesttech.net
 0.0.0.0 statsf-tm.everesttech.net
@@ -6392,6 +6396,7 @@
 0.0.0.0 jps.evolok.net
 0.0.0.0 evyy.net
 0.0.0.0 gdms.evyy.net
+0.0.0.0 mcafee-consumer-affiliate.evyy.net
 0.0.0.0 exct.net
 0.0.0.0 cl.s6.exct.net
 0.0.0.0 ezoic.net
@@ -6512,6 +6517,7 @@
 0.0.0.0 sc.liveclicker.net
 0.0.0.0 lkqd.net
 0.0.0.0 ssp.lkqd.net
+0.0.0.0 t.lkqd.net
 0.0.0.0 lmedge.net
 0.0.0.0 loopmeedge.net
 0.0.0.0 lsimg.net
@@ -7307,6 +7313,7 @@
 0.0.0.0 adxbidder-west.extend.tv
 0.0.0.0 aolbidder-east.extend.tv
 0.0.0.0 exelatesync.extend.tv
+0.0.0.0 lkqdeventsbidder-east.extend.tv
 0.0.0.0 spotx2eventsbidder-east.extend.tv
 0.0.0.0 sync.extend.tv
 0.0.0.0 telariaeventsbidder-east.extend.tv
