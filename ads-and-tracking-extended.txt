@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-12-23T13:36:48+00:00
-# Count: 90195 domains
+# Released: 2019-12-23T13:59:22+00:00
+# Count: 90205 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -12374,6 +12374,8 @@
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 www.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
+0.0.0.0 azaleadb2btag.appspot.com
+0.0.0.0 www.azaleadb2btag.appspot.com
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 www.bdg-analytics.appspot.com
 0.0.0.0 csp-collector.appspot.com
@@ -49921,6 +49923,9 @@
 0.0.0.0 www.tracker.smadex.com
 0.0.0.0 whitelabel-test.smadex.com
 0.0.0.0 www.smadex.com
+0.0.0.0 smart-data-systems.com
+0.0.0.0 get.smart-data-systems.com
+0.0.0.0 stats.smart-data-systems.com
 0.0.0.0 smart-dmp.com
 0.0.0.0 ucg.smart-dmp.com
 0.0.0.0 console-api.ucg.smart-dmp.com
@@ -51798,6 +51803,7 @@
 0.0.0.0 redirect232.tagcommander.com
 0.0.0.0 redirect2322.tagcommander.com
 0.0.0.0 redirect235.tagcommander.com
+0.0.0.0 redirect2481.tagcommander.com
 0.0.0.0 redirect251.tagcommander.com
 0.0.0.0 redirect2582.tagcommander.com
 0.0.0.0 redirect2620.tagcommander.com
@@ -56253,6 +56259,10 @@
 0.0.0.0 wgweb1.webgains.com
 0.0.0.0 ws.webgains.com
 0.0.0.0 www.webgains.com
+0.0.0.0 webleads-tracker.com
+0.0.0.0 stats.webleads-tracker.com
+0.0.0.0 www.stats.webleads-tracker.com
+0.0.0.0 www.webleads-tracker.com
 0.0.0.0 ad.cc.webmd.com
 0.0.0.0 ls.webmd.com
 0.0.0.0 o.webmd.com

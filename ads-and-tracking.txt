@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-23T13:36:47+00:00
-# Count: 7480 domains
+# Released: 2019-12-23T13:59:22+00:00
+# Count: 7487 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1153,6 +1153,7 @@
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 2-dot-mod-ads-dot-house-ads-server.appspot.com
+0.0.0.0 azaleadb2btag.appspot.com
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 deviceatlasdc.appspot.com
@@ -4239,6 +4240,8 @@
 0.0.0.0 rtb-100-eu-west.smadex.com
 0.0.0.0 rtb-100-us-east.smadex.com
 0.0.0.0 tracker.smadex.com
+0.0.0.0 smart-data-systems.com
+0.0.0.0 get.smart-data-systems.com
 0.0.0.0 smart-dmp.com
 0.0.0.0 go.ucg.smart-dmp.com
 0.0.0.0 smartadserver.com
@@ -4496,6 +4499,7 @@
 0.0.0.0 tabvertising.com
 0.0.0.0 activate.tacdn.com
 0.0.0.0 tagcommander.com
+0.0.0.0 cdn.tagcommander.com
 0.0.0.0 tagdelivery.com
 0.0.0.0 ad.tagdelivery.com
 0.0.0.0 pixel.tagdelivery.com
@@ -4908,6 +4912,8 @@
 0.0.0.0 diapi.webgains.com
 0.0.0.0 track.webgains.com
 0.0.0.0 www.webgains.com
+0.0.0.0 webleads-tracker.com
+0.0.0.0 stats.webleads-tracker.com
 0.0.0.0 ad.cc.webmd.com
 0.0.0.0 ls.webmd.com
 0.0.0.0 o.webmd.com
@@ -4930,6 +4936,7 @@
 0.0.0.0 cdn.whizzco.com
 0.0.0.0 whoisvisiting.com
 0.0.0.0 app.whoisvisiting.com
+0.0.0.0 dashboard.whoisvisiting.com
 0.0.0.0 widerplanet.com
 0.0.0.0 adtg.widerplanet.com
 0.0.0.0 adtg1.widerplanet.com
