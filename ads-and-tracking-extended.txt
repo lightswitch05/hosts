@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-12-23T13:59:22+00:00
-# Count: 90205 domains
+# Released: 2019-12-23T15:57:08+00:00
+# Count: 90207 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -20367,6 +20367,8 @@
 0.0.0.0 ya.clickpoint.com
 0.0.0.0 www.ya.clickpoint.com
 0.0.0.0 metrics.cloudflarebolt.com
+0.0.0.0 cloudflareinsights.com
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 mediavine-res.cloudinary.com
 0.0.0.0 clrstm.com
 0.0.0.0 ads.clrstm.com
