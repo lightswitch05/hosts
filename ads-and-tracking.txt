@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-23T17:52:56+00:00
-# Count: 7490 domains
+# Released: 2019-12-26T19:23:06+00:00
+# Count: 7498 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -691,6 +691,7 @@
 0.0.0.0 staticvc.adsafeprotected.com
 0.0.0.0 vans.adsafeprotected.com
 0.0.0.0 vast.adsafeprotected.com
+0.0.0.0 vastlog.adsafeprotected.com
 0.0.0.0 vastpixel.adsafeprotected.com
 0.0.0.0 vastpixel2.adsafeprotected.com
 0.0.0.0 vastpixel3.adsafeprotected.com
@@ -2487,6 +2488,7 @@
 0.0.0.0 audiences-eu.ignitionone.com
 0.0.0.0 igodigital.com
 0.0.0.0 collect.igodigital.com
+0.0.0.0 1043454.collect.igodigital.com
 0.0.0.0 10523621.collect.igodigital.com
 0.0.0.0 10870841.collect.igodigital.com
 0.0.0.0 nova.collect.igodigital.com
@@ -4399,6 +4401,7 @@
 0.0.0.0 iad02-event.spotxchange.com
 0.0.0.0 iad02-search.spotxchange.com
 0.0.0.0 live.spotxchange.com
+0.0.0.0 live-beacons.spotxchange.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
@@ -6646,6 +6649,7 @@
 0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 thecontainerstore.sc.omtrdc.net
 0.0.0.0 unitedparcelservice.sc.omtrdc.net
+0.0.0.0 vudu.sc.omtrdc.net
 0.0.0.0 tt.omtrdc.net
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 biltmore.tt.omtrdc.net
@@ -6667,6 +6671,7 @@
 0.0.0.0 pizzahutllc.tt.omtrdc.net
 0.0.0.0 potterybarn.tt.omtrdc.net
 0.0.0.0 redbox.tt.omtrdc.net
+0.0.0.0 redhat.tt.omtrdc.net
 0.0.0.0 solarwinds.tt.omtrdc.net
 0.0.0.0 thecontainerstore.tt.omtrdc.net
 0.0.0.0 toyota.tt.omtrdc.net
@@ -6716,6 +6721,7 @@
 0.0.0.0 collector-a.perimeterx.net
 0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
+0.0.0.0 collector-pxitevy85i.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxpmp8ilui.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.perimeterx.net
@@ -7290,6 +7296,8 @@
 0.0.0.0 adservice.google.com.sg
 0.0.0.0 backup.sh
 0.0.0.0 ana.whisper.sh
+0.0.0.0 holiday3gift.site
+0.0.0.0 vekj.holiday3gift.site
 0.0.0.0 tagm.tchibo.sk
 0.0.0.0 adj.st
 0.0.0.0 76g3.adj.st
