@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-26T19:23:06+00:00
-# Count: 7498 domains
+# Released: 2019-12-31T20:36:25+00:00
+# Count: 7504 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -985,6 +985,7 @@
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 vaes.amazon-adsystem.com
+0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 appsflyer-impressions-1319352537.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
@@ -3137,6 +3138,7 @@
 0.0.0.0 midasplayer.com
 0.0.0.0 bling2.midasplayer.com
 0.0.0.0 bws3.midasplayer.com
+0.0.0.0 contenido1.midasplayer.com
 0.0.0.0 mylingqa.midasplayer.com
 0.0.0.0 p.midasplayer.com
 0.0.0.0 prs3.midasplayer.com
@@ -3562,6 +3564,7 @@
 0.0.0.0 c.optvdo.com
 0.0.0.0 v.optvdo.com
 0.0.0.0 cobrowse.oraclecloud.com
+0.0.0.0 public.cobrowse.oraclecloud.com
 0.0.0.0 sc61124012us1.cobrowse.oraclecloud.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cloud-commerce-visit.oracleoutsourcing.com
@@ -4427,6 +4430,7 @@
 0.0.0.0 u.srvsynd.com
 0.0.0.0 ssacdn.com
 0.0.0.0 cx.ssacdn.com
+0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 www.ssacdn.com
 0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 stack-sonar.com
@@ -4751,6 +4755,7 @@
 0.0.0.0 unicast.com
 0.0.0.0 unifiedwrapper.com
 0.0.0.0 activate.united.com
+0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 ads.internal.unity3d.com
@@ -5626,6 +5631,7 @@
 0.0.0.0 voodoo-ads.io
 0.0.0.0 addelivery-engine-api.voodoo-ads.io
 0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 splash-screen.voodoo-ads.io
 0.0.0.0 voodoo-analytics.io
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 api-gdpr.voodoo-tech.io
