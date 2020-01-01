@@ -1,14 +1,14 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2019-12-31T20:36:25+00:00
-# Count: 7504 domains
+# Released: 2020-01-01T17:00:38+00:00
+# Count: 7515 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
 # Expires: 2 days
 #
-# Copyright 2019 Daniel White
+# Copyright 2020 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -1490,6 +1490,8 @@
 0.0.0.0 c3metrics.com
 0.0.0.0 c3tag.com
 0.0.0.0 694-img.c3tag.com
+0.0.0.0 callmeasurement.com
+0.0.0.0 tracking.callmeasurement.com
 0.0.0.0 campaign-archive.com
 0.0.0.0 us5.campaign-archive.com
 0.0.0.0 beacon.campaigndeputy.com
@@ -1880,6 +1882,10 @@
 0.0.0.0 deadlinefunnel.com
 0.0.0.0 a.deadlinefunnel.com
 0.0.0.0 check.deadlinefunnel.com
+0.0.0.0 analytics.dealer.com
+0.0.0.0 assets.prod.analytics.dealer.com
+0.0.0.0 dealeronlinemarketing.com
+0.0.0.0 content.dealeronlinemarketing.com
 0.0.0.0 decibelinsight.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
@@ -2679,6 +2685,8 @@
 0.0.0.0 service.joystickinteractive.com
 0.0.0.0 jsrdn.com
 0.0.0.0 juicemobile.com
+0.0.0.0 jumpstarttaggingsolutions.com
+0.0.0.0 www.jumpstarttaggingsolutions.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 justpremium.com
 0.0.0.0 ads.justpremium.com
@@ -4658,6 +4666,7 @@
 0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 vht.tradedoubler.com
 0.0.0.0 tradingworks.com
+0.0.0.0 trafficcontrolmarketing.com
 0.0.0.0 traffiliate.com
 0.0.0.0 trafforsrv.com
 0.0.0.0 trafmag.com
@@ -6133,6 +6142,7 @@
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 toyota-tagging-prod.azureedge.net
 0.0.0.0 bf-analytics-tracker-useast-as.azurewebsites.net
 0.0.0.0 lightboxapi1.azurewebsites.net
 0.0.0.0 lightboxapi2.azurewebsites.net
@@ -7302,6 +7312,7 @@
 0.0.0.0 adservice.google.com.sg
 0.0.0.0 backup.sh
 0.0.0.0 ana.whisper.sh
+0.0.0.0 adscpm.site
 0.0.0.0 holiday3gift.site
 0.0.0.0 vekj.holiday3gift.site
 0.0.0.0 tagm.tchibo.sk

@@ -1,14 +1,14 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2019-12-31T20:36:25+00:00
-# Count: 91092 domains
+# Released: 2020-01-01T17:00:38+00:00
+# Count: 91146 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 # Expires: 2 days
 #
-# Copyright 2019 Daniel White
+# Copyright 2020 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16057,6 +16057,25 @@
 0.0.0.0 view.c3tag.com
 0.0.0.0 vt.c3tag.com
 0.0.0.0 www.c3tag.com
+0.0.0.0 callmeasurement.com
+0.0.0.0 api.callmeasurement.com
+0.0.0.0 audio.callmeasurement.com
+0.0.0.0 callbox.callmeasurement.com
+0.0.0.0 chat.callmeasurement.com
+0.0.0.0 chat-a.callmeasurement.com
+0.0.0.0 doubleclick.callmeasurement.com
+0.0.0.0 miracleear.callmeasurement.com
+0.0.0.0 salesforce.callmeasurement.com
+0.0.0.0 sftracking.callmeasurement.com
+0.0.0.0 tracking.callmeasurement.com
+0.0.0.0 www.tracking.callmeasurement.com
+0.0.0.0 url7133.callmeasurement.com
+0.0.0.0 vtrk3001.callmeasurement.com
+0.0.0.0 vtrk3002.callmeasurement.com
+0.0.0.0 vtrk3003.callmeasurement.com
+0.0.0.0 vtrk3004.callmeasurement.com
+0.0.0.0 ws5000.callmeasurement.com
+0.0.0.0 www.callmeasurement.com
 0.0.0.0 campaign-archive.com
 0.0.0.0 st1v2.campaign-archive.com
 0.0.0.0 us1.campaign-archive.com
@@ -22596,6 +22615,32 @@
 0.0.0.0 www.deadlinefunnel.com
 0.0.0.0 z.deadlinefunnel.com
 0.0.0.0 www.z.deadlinefunnel.com
+0.0.0.0 analytics.dealer.com
+0.0.0.0 adw-reporting-services.non-prod.analytics.dealer.com
+0.0.0.0 assets.non-prod.analytics.dealer.com
+0.0.0.0 data-delivery-pipeline.non-prod.analytics.dealer.com
+0.0.0.0 pixall-config.non-prod.analytics.dealer.com
+0.0.0.0 pixall-qa-api.non-prod.analytics.dealer.com
+0.0.0.0 pixall-qa-ui.non-prod.analytics.dealer.com
+0.0.0.0 tuckernet.non-prod.analytics.dealer.com
+0.0.0.0 prod.analytics.dealer.com
+0.0.0.0 assets.prod.analytics.dealer.com
+0.0.0.0 data-delivery-pipeline.prod.analytics.dealer.com
+0.0.0.0 pixall-config.prod.analytics.dealer.com
+0.0.0.0 pixall-qa-api.prod.analytics.dealer.com
+0.0.0.0 tuckernet.prod.analytics.dealer.com
+0.0.0.0 tuckernet-32231.prod.analytics.dealer.com
+0.0.0.0 dealeronlinemarketing.com
+0.0.0.0 clients.dealeronlinemarketing.com
+0.0.0.0 www.clients.dealeronlinemarketing.com
+0.0.0.0 cms.dealeronlinemarketing.com
+0.0.0.0 coding.dealeronlinemarketing.com
+0.0.0.0 content.dealeronlinemarketing.com
+0.0.0.0 servicecenter.dealeronlinemarketing.com
+0.0.0.0 www.servicecenter.dealeronlinemarketing.com
+0.0.0.0 specialsmanager.dealeronlinemarketing.com
+0.0.0.0 www.specialsmanager.dealeronlinemarketing.com
+0.0.0.0 www.dealeronlinemarketing.com
 0.0.0.0 decibelinsight.com
 0.0.0.0 app.decibelinsight.com
 0.0.0.0 connect.decibelinsight.com
@@ -30183,6 +30228,8 @@
 0.0.0.0 survey-q2.juicemobile.com
 0.0.0.0 when-pigs-fly.juicemobile.com
 0.0.0.0 www.juicemobile.com
+0.0.0.0 jumpstarttaggingsolutions.com
+0.0.0.0 www.jumpstarttaggingsolutions.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 justpremium.com
 0.0.0.0 10.72.180.60cdn-cf.justpremium.com
@@ -53462,6 +53509,7 @@
 0.0.0.0 dsp.tradingworks.com
 0.0.0.0 phddy.tradingworks.com
 0.0.0.0 www.tradingworks.com
+0.0.0.0 trafficcontrolmarketing.com
 0.0.0.0 traffiliate.com
 0.0.0.0 api.traffiliate.com
 0.0.0.0 www.api.traffiliate.com
@@ -70075,6 +70123,7 @@
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 mediaplanet.azureedge.net
+0.0.0.0 toyota-tagging-prod.azureedge.net
 0.0.0.0 bf-analytics-tracker-useast-as.azurewebsites.net
 0.0.0.0 lightboxapi1.azurewebsites.net
 0.0.0.0 lightboxapi2.azurewebsites.net
@@ -88942,6 +88991,11 @@
 0.0.0.0 www.backup.sh
 0.0.0.0 zodiaco.backup.sh
 0.0.0.0 ana.whisper.sh
+0.0.0.0 adscpm.site
+0.0.0.0 ns157.adscpm.site
+0.0.0.0 ns204.adscpm.site
+0.0.0.0 track.adscpm.site
+0.0.0.0 www.adscpm.site
 0.0.0.0 holiday3gift.site
 0.0.0.0 vekj.holiday3gift.site
 0.0.0.0 tagm.tchibo.sk
