@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-01T17:00:38+00:00
-# Count: 7515 domains
+# Released: 2020-01-01T19:07:30+00:00
+# Count: 7527 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -335,6 +335,8 @@
 0.0.0.0 tracking.acs529.com
 0.0.0.0 activemetering.com
 0.0.0.0 track.activemetering.com
+0.0.0.0 activengage.com
+0.0.0.0 go.activengage.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 cdn.acuityplatform.com
 0.0.0.0 click-east.acuityplatform.com
@@ -1586,6 +1588,8 @@
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
 0.0.0.0 analytics.civicplus.com
+0.0.0.0 clarivoy.com
+0.0.0.0 tags-cdn.clarivoy.com
 0.0.0.0 clcktrax.com
 0.0.0.0 p.clcktrax.com
 0.0.0.0 post.clcktrax.com
@@ -2084,6 +2088,8 @@
 0.0.0.0 engagecore.com
 0.0.0.0 ad.engagecore.com
 0.0.0.0 engagefront.com
+0.0.0.0 engagetosell.com
+0.0.0.0 cdn.engagetosell.com
 0.0.0.0 engagio.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 enhanced2trk.com
@@ -2706,6 +2712,7 @@
 0.0.0.0 krk.kargo.com
 0.0.0.0 kaxsdc.com
 0.0.0.0 prod01.kaxsdc.com
+0.0.0.0 smetrics.kbb.com
 0.0.0.0 kdatabidder.com
 0.0.0.0 kdukvh.com
 0.0.0.0 attribution.keds.com
@@ -4259,6 +4266,7 @@
 0.0.0.0 get.smart-data-systems.com
 0.0.0.0 smart-dmp.com
 0.0.0.0 go.ucg.smart-dmp.com
+0.0.0.0 smart-pixl.com
 0.0.0.0 smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 www14.smartadserver.com
@@ -4984,6 +4992,7 @@
 0.0.0.0 antg.widerplanet.com
 0.0.0.0 astg.widerplanet.com
 0.0.0.0 cdn-aitg.widerplanet.com
+0.0.0.0 analytics.wirefly.com
 0.0.0.0 ads.wish.com
 0.0.0.0 c.ads.wish.com
 0.0.0.0 dashboard.ads.wish.com
@@ -5726,6 +5735,7 @@
 0.0.0.0 ias.r10s.jp
 0.0.0.0 shop.r10s.jp
 0.0.0.0 tshop.r10s.jp
+0.0.0.0 onetag.tws.toyota.jp
 0.0.0.0 247realmedia.co.kr
 0.0.0.0 adcdn.247realmedia.co.kr
 0.0.0.0 c1.247realmedia.co.kr
@@ -7304,6 +7314,8 @@
 0.0.0.0 amp.services
 0.0.0.0 static.amp.services
 0.0.0.0 heatmap.services
+0.0.0.0 marketingautomation.services
+0.0.0.0 koi-q8sdag.marketingautomation.services
 0.0.0.0 newadvancetypeliteflash.services
 0.0.0.0 smallbestappleliteflash.services
 0.0.0.0 www.smallbestappleliteflash.services
