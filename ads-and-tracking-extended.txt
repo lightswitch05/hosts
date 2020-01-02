@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-01-01T19:07:30+00:00
-# Count: 91452 domains
+# Released: 2020-01-02T14:41:34+00:00
+# Count: 91543 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -47336,7 +47336,98 @@
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 dn.ravenjs.com
 0.0.0.0 www.ravenjs.com
+0.0.0.0 rayjump.com
+0.0.0.0 20191018-fk.rayjump.com
+0.0.0.0 add.rayjump.com
+0.0.0.0 adn.rayjump.com
+0.0.0.0 adx-tk.rayjump.com
+0.0.0.0 aff.rayjump.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 apus.rayjump.com
+0.0.0.0 cdn-adn.rayjump.com
+0.0.0.0 cdn-adn-akamai.rayjump.com
+0.0.0.0 cdn-adn-baidu.rayjump.com
+0.0.0.0 cdn-adn-bd.rayjump.com
+0.0.0.0 cdn-adn-foreign.rayjump.com
+0.0.0.0 cdn-adn-https.rayjump.com
+0.0.0.0 cdn-adn-https-akamai.rayjump.com
+0.0.0.0 cdn-adn-https-baidu.rayjump.com
+0.0.0.0 cdn-adn-https-new.rayjump.com
+0.0.0.0 cdn-adn-https-wr.rayjump.com
+0.0.0.0 cdn-adn-new.rayjump.com
+0.0.0.0 cdn-adn-uc.rayjump.com
+0.0.0.0 cdn-adn-ws.rayjump.com
+0.0.0.0 chet.rayjump.com
+0.0.0.0 chet-vg.rayjump.com
+0.0.0.0 cn-net.rayjump.com
+0.0.0.0 cnhybird-abtest-ws.rayjump.com
+0.0.0.0 de.rayjump.com
+0.0.0.0 de01.rayjump.com
+0.0.0.0 detect.rayjump.com
+0.0.0.0 dsp.rayjump.com
+0.0.0.0 dspres.rayjump.com
+0.0.0.0 fk-gray-net.rayjump.com
+0.0.0.0 fk-gray-tknet.rayjump.com
+0.0.0.0 fk-hb.rayjump.com
+0.0.0.0 fk-k8s-setting.rayjump.com
+0.0.0.0 fk-mtrack.rayjump.com
+0.0.0.0 fk-old-setting.rayjump.com
+0.0.0.0 fk-setting.rayjump.com
+0.0.0.0 ftrace.rayjump.com
+0.0.0.0 go.rayjump.com
+0.0.0.0 hb.rayjump.com
+0.0.0.0 hk-hb.rayjump.com
+0.0.0.0 http20test.rayjump.com
+0.0.0.0 hybird.rayjump.com
+0.0.0.0 io-test.rayjump.com
+0.0.0.0 jssdk.rayjump.com
+0.0.0.0 jssdk-api.rayjump.com
+0.0.0.0 logapi.rayjump.com
+0.0.0.0 lp.rayjump.com
+0.0.0.0 mtrack.rayjump.com
+0.0.0.0 sg.mtrack.rayjump.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 online.rayjump.com
+0.0.0.0 ophttps.rayjump.com
+0.0.0.0 pixel.rayjump.com
+0.0.0.0 play.rayjump.com
+0.0.0.0 play-baidu.rayjump.com
+0.0.0.0 play-xunda.rayjump.com
+0.0.0.0 report.rayjump.com
+0.0.0.0 res.rayjump.com
+0.0.0.0 se.rayjump.com
+0.0.0.0 se-old-setting.rayjump.com
+0.0.0.0 se-setting.rayjump.com
+0.0.0.0 service.rayjump.com
+0.0.0.0 setting.rayjump.com
+0.0.0.0 sg.rayjump.com
+0.0.0.0 sg-gray-net.rayjump.com
+0.0.0.0 sg-gray-tknet.rayjump.com
+0.0.0.0 sg-k8s-setting.rayjump.com
+0.0.0.0 sg-mtrack.rayjump.com
+0.0.0.0 sg-old-setting.rayjump.com
+0.0.0.0 sg-setting.rayjump.com
+0.0.0.0 sg01.rayjump.com
+0.0.0.0 static0-h5mob.rayjump.com
+0.0.0.0 super.rayjump.com
+0.0.0.0 test-dsp.rayjump.com
+0.0.0.0 test-hybird1.rayjump.com
+0.0.0.0 tknet.rayjump.com
+0.0.0.0 track.rayjump.com
+0.0.0.0 trackingcn.rayjump.com
+0.0.0.0 uc.rayjump.com
+0.0.0.0 us.rayjump.com
+0.0.0.0 us01.rayjump.com
+0.0.0.0 vg-gray-net.rayjump.com
+0.0.0.0 vg-gray-tknet.rayjump.com
+0.0.0.0 vg-hb.rayjump.com
+0.0.0.0 vg-k8s-setting.rayjump.com
+0.0.0.0 vg-mtrack.rayjump.com
+0.0.0.0 vg-old-setting.rayjump.com
+0.0.0.0 vg-setting.rayjump.com
+0.0.0.0 vijs.rayjump.com
+0.0.0.0 w1.rayjump.com
+0.0.0.0 www.rayjump.com
 0.0.0.0 ad.rcnky.com
 0.0.0.0 reachlocal.com
 0.0.0.0 a1fenceinc1.reachlocal.com

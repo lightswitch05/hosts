@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-01T19:07:30+00:00
-# Count: 7527 domains
+# Released: 2020-01-02T14:41:33+00:00
+# Count: 7534 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1153,6 +1153,7 @@
 0.0.0.0 api.appsee.com
 0.0.0.0 appsflyer.com
 0.0.0.0 attr.appsflyer.com
+0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 t.appsflyer.com
@@ -3340,6 +3341,8 @@
 0.0.0.0 odr.mookie1.com
 0.0.0.0 mopub.com
 0.0.0.0 ads.mopub.com
+0.0.0.0 cb.mopub.com
+0.0.0.0 mpx.mopub.com
 0.0.0.0 s.mopub.com
 0.0.0.0 p-cg61-beaconserver.movetv.com
 0.0.0.0 p-stats.movetv.com
@@ -3841,7 +3844,10 @@
 0.0.0.0 metrics.ranklocal.com
 0.0.0.0 ravenjs.com
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 rayjump.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 hybird.rayjump.com
+0.0.0.0 net.rayjump.com
 0.0.0.0 ad.rcnky.com
 0.0.0.0 reachlocal.com
 0.0.0.0 www.reachlocal.com
@@ -4487,6 +4493,7 @@
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 supersonicads.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 survata.com
