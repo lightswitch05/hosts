@@ -1,14 +1,14 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2019-12-23T03:32:32+00:00
-# Count: 4323 domains
+# Released: 2020-01-06T03:38:25+00:00
+# Count: 4336 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 # Expires: 2 days
 #
-# Copyright 2019 Daniel White
+# Copyright 2020 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -181,6 +181,7 @@
 0.0.0.0 display-test.ugc.bazaarvoice.com
 0.0.0.0 dorothyperkins.ugc.bazaarvoice.com
 0.0.0.0 douglas.ugc.bazaarvoice.com
+0.0.0.0 doversaddlery.ugc.bazaarvoice.com
 0.0.0.0 drsfosterandsmith.ugc.bazaarvoice.com
 0.0.0.0 dutchboy.ugc.bazaarvoice.com
 0.0.0.0 dyson.ugc.bazaarvoice.com
@@ -757,6 +758,7 @@
 0.0.0.0 lyncdiscover.exacttarget.com
 0.0.0.0 lyncdiscoverinternal.exacttarget.com
 0.0.0.0 mail.exacttarget.com
+0.0.0.0 manage.exacttarget.com
 0.0.0.0 mc.exacttarget.com
 0.0.0.0 m.mc.exacttarget.com
 0.0.0.0 mc-ford.exacttarget.com
@@ -1318,6 +1320,7 @@
 0.0.0.0 spyshop.flexispy.com
 0.0.0.0 www.spyshop.flexispy.com
 0.0.0.0 staging-portal.flexispy.com
+0.0.0.0 status.flexispy.com
 0.0.0.0 storeadmin.flexispy.com
 0.0.0.0 support.flexispy.com
 0.0.0.0 test-admin.flexispy.com
@@ -2672,6 +2675,7 @@
 0.0.0.0 s4018.pingdom.com
 0.0.0.0 s4019.pingdom.com
 0.0.0.0 s4020.pingdom.com
+0.0.0.0 s4021.pingdom.com
 0.0.0.0 s4029.pingdom.com
 0.0.0.0 s4030.pingdom.com
 0.0.0.0 s4031.pingdom.com
@@ -3209,6 +3213,7 @@
 0.0.0.0 21321.vk.com
 0.0.0.0 22m.vk.com
 0.0.0.0 252faway.vk.com
+0.0.0.0 2540notify.vk.com
 0.0.0.0 267274089.vk.com
 0.0.0.0 2fapi.vk.com
 0.0.0.0 2faway.vk.com
@@ -3247,6 +3252,7 @@
 0.0.0.0 cs03.vk.com
 0.0.0.0 leroymerlin.cs06660.vk.com
 0.0.0.0 cs10130.vk.com
+0.0.0.0 cs10269.vk.com
 0.0.0.0 cs10320.vk.com
 0.0.0.0 cs10373.vk.com
 0.0.0.0 cs10421.vk.com
@@ -3257,6 +3263,7 @@
 0.0.0.0 cs216.vk.com
 0.0.0.0 cs219.vk.com
 0.0.0.0 cs292596712.vk.com
+0.0.0.0 cs302709.vk.com
 0.0.0.0 theagency.web5913.cs304110.vk.com
 0.0.0.0 ing.sakeena.cs304111.vk.com
 0.0.0.0 lenta.ap108.cs304112.vk.com
@@ -3269,8 +3276,10 @@
 0.0.0.0 cs380.vk.com
 0.0.0.0 cs4111.vk.com
 0.0.0.0 cs4423.vk.com
+0.0.0.0 cs4700.vk.com
 0.0.0.0 formula1admin.web18922.cs4932.vk.com
 0.0.0.0 cs5172.vk.com
+0.0.0.0 cs5179.vk.com
 0.0.0.0 cs5302.vk.com
 0.0.0.0 cs53835.vk.com
 0.0.0.0 cs5475.vk.com
@@ -3602,6 +3611,7 @@
 0.0.0.0 open-api.spot.im
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.spot.im
+0.0.0.0 polyfills.spot.im
 0.0.0.0 premaster-app-cdn.spot.im
 0.0.0.0 premaster-spotops.spot.im
 0.0.0.0 premaster-spoxy.spot.im
@@ -3784,6 +3794,7 @@
 0.0.0.0 events-essex.gomoxie.solutions
 0.0.0.0 events-fisgovebt.gomoxie.solutions
 0.0.0.0 events-flowers.gomoxie.solutions
+0.0.0.0 events-hawkgamerschoice.gomoxie.solutions
 0.0.0.0 events-hawkincentives.gomoxie.solutions
 0.0.0.0 events-icat.gomoxie.solutions
 0.0.0.0 events-jjillecp.gomoxie.solutions
@@ -3870,6 +3881,7 @@
 0.0.0.0 log-essex.gomoxie.solutions
 0.0.0.0 log-flowers.gomoxie.solutions
 0.0.0.0 log-hawkecommerce.gomoxie.solutions
+0.0.0.0 log-hawkgamerschoice.gomoxie.solutions
 0.0.0.0 log-hawkincentives.gomoxie.solutions
 0.0.0.0 log-icat.gomoxie.solutions
 0.0.0.0 log-jjillecp.gomoxie.solutions
@@ -4043,6 +4055,7 @@
 0.0.0.0 johnson.ada.support
 0.0.0.0 joist.ada.support
 0.0.0.0 kiratalent.ada.support
+0.0.0.0 kiratalent-backup.ada.support
 0.0.0.0 koodo.ada.support
 0.0.0.0 lightsallnight.ada.support
 0.0.0.0 linode.ada.support
