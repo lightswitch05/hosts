@@ -1,14 +1,14 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2019-11-12T13:55:12+00:00
-# Count: 151 domains
+# Released: 2020-01-07T03:28:18+00:00
+# Count: 152 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
 # Expires: 2 days
 #
-# Copyright 2019 Daniel White
+# Copyright 2020 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -68,6 +68,7 @@
 0.0.0.0 hellomedian.com
 0.0.0.0 js.hellomedian.com
 0.0.0.0 janrain.com
+0.0.0.0 platform.linkedin.com
 0.0.0.0 livechatinc.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 livefyre.com

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-07T03:07:18+00:00
-# Count: 7542 domains
+# Released: 2020-01-07T03:28:59+00:00
+# Count: 7545 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2005,6 +2005,7 @@
 0.0.0.0 static.dynamicyield.com
 0.0.0.0 www.dynamicyield.com
 0.0.0.0 js-cdn.dynatrace.com
+0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 cdn.bko.dynstc.com
 0.0.0.0 cdn.bkov2.dynstc.com
 0.0.0.0 n.eu.dynstc.com
@@ -2905,6 +2906,7 @@
 0.0.0.0 loopmertb.com
 0.0.0.0 lootsie.com
 0.0.0.0 api-v2.lootsie.com
+0.0.0.0 stats.lotlinx.com
 0.0.0.0 smetrics.lowes.com
 0.0.0.0 lqmcdn.com
 0.0.0.0 cdn.lqmcdn.com
@@ -3956,6 +3958,7 @@
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 sugarland.logs.roku.com
 0.0.0.0 tyler.logs.roku.com
+0.0.0.0 watch.qa.roku.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 track.sr.roku.com
 0.0.0.0 customer-feedbacks.web.roku.com
