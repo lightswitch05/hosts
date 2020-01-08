@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-01-07T03:28:59+00:00
-# Count: 92661 domains
+# Released: 2020-01-08T13:51:17+00:00
+# Count: 92688 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -21593,6 +21593,8 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 site-optimization-api.company-target.com
 0.0.0.0 sync.company-target.com
+0.0.0.0 media.complex.com
+0.0.0.0 stats.complex.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 eum.concursolutions.com
@@ -31376,6 +31378,31 @@
 0.0.0.0 sandbox01.kaxsdc.com
 0.0.0.0 sandbox02.kaxsdc.com
 0.0.0.0 smetrics.kbb.com
+0.0.0.0 syndication.kbb.com
+0.0.0.0 aa.syndication.kbb.com
+0.0.0.0 cm.syndication.kbb.com
+0.0.0.0 dealerratings.syndication.kbb.com
+0.0.0.0 fca.syndication.kbb.com
+0.0.0.0 fdpq.syndication.kbb.com
+0.0.0.0 fdpq-np.syndication.kbb.com
+0.0.0.0 file.syndication.kbb.com
+0.0.0.0 idbv.syndication.kbb.com
+0.0.0.0 idws.syndication.kbb.com
+0.0.0.0 sample.idws.syndication.kbb.com
+0.0.0.0 idws-sample.syndication.kbb.com
+0.0.0.0 ldti.syndication.kbb.com
+0.0.0.0 ldti-admin.syndication.kbb.com
+0.0.0.0 ldti-includes.syndication.kbb.com
+0.0.0.0 ldti2.syndication.kbb.com
+0.0.0.0 panc.syndication.kbb.com
+0.0.0.0 panc-test.syndication.kbb.com
+0.0.0.0 pauc.syndication.kbb.com
+0.0.0.0 rcnc.syndication.kbb.com
+0.0.0.0 rrc.syndication.kbb.com
+0.0.0.0 rre.syndication.kbb.com
+0.0.0.0 sdcm.syndication.kbb.com
+0.0.0.0 upa.syndication.kbb.com
+0.0.0.0 upa-prp.syndication.kbb.com
 0.0.0.0 kdatabidder.com
 0.0.0.0 www.kdatabidder.com
 0.0.0.0 kdukvh.com
