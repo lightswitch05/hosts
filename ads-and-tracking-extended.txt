@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-01-08T13:51:17+00:00
-# Count: 92688 domains
+# Released: 2020-01-09T13:35:49+00:00
+# Count: 92705 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -21364,6 +21364,7 @@
 0.0.0.0 dsp.coadvertise.com
 0.0.0.0 dspssl.coadvertise.com
 0.0.0.0 www.coadvertise.com
+0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 staging.analytics.cohesionapps.com
 0.0.0.0 pixel.collosteam.com
@@ -21715,6 +21716,7 @@
 0.0.0.0 www.consumedmedia.com
 0.0.0.0 consumersurveysonline.com
 0.0.0.0 www.consumersurveysonline.com
+0.0.0.0 event-api.contactatonce.com
 0.0.0.0 contextweb.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 akamai-media.contextweb.com
@@ -23217,6 +23219,7 @@
 0.0.0.0 pixall-qa-api.prod.analytics.dealer.com
 0.0.0.0 tuckernet.prod.analytics.dealer.com
 0.0.0.0 tuckernet-32231.prod.analytics.dealer.com
+0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dealeronlinemarketing.com
 0.0.0.0 clients.dealeronlinemarketing.com
 0.0.0.0 www.clients.dealeronlinemarketing.com
@@ -42642,6 +42645,7 @@
 0.0.0.0 8298190319.cdn.optimizely.com
 0.0.0.0 a10017421361.cdn.optimizely.com
 0.0.0.0 a10081431594.cdn.optimizely.com
+0.0.0.0 a10084069166.cdn.optimizely.com
 0.0.0.0 a10135402646.cdn.optimizely.com
 0.0.0.0 a101434164.cdn.optimizely.com
 0.0.0.0 a10155050976.cdn.optimizely.com
@@ -42674,6 +42678,7 @@
 0.0.0.0 a10494072270.cdn.optimizely.com
 0.0.0.0 a10518333633.cdn.optimizely.com
 0.0.0.0 a10558497442.cdn.optimizely.com
+0.0.0.0 a10650703775.cdn.optimizely.com
 0.0.0.0 a10652470303.cdn.optimizely.com
 0.0.0.0 a106541357.cdn.optimizely.com
 0.0.0.0 a10654255723.cdn.optimizely.com
@@ -42723,6 +42728,7 @@
 0.0.0.0 a11347113422.cdn.optimizely.com
 0.0.0.0 a11356001945.cdn.optimizely.com
 0.0.0.0 a11362785697.cdn.optimizely.com
+0.0.0.0 a11379424185.cdn.optimizely.com
 0.0.0.0 a11388000605.cdn.optimizely.com
 0.0.0.0 a11388283659.cdn.optimizely.com
 0.0.0.0 a11390097163.cdn.optimizely.com
@@ -42815,6 +42821,7 @@
 0.0.0.0 a14721270268.cdn.optimizely.com
 0.0.0.0 a14727410521.cdn.optimizely.com
 0.0.0.0 a14729760407.cdn.optimizely.com
+0.0.0.0 a14750590849.cdn.optimizely.com
 0.0.0.0 a14785660205.cdn.optimizely.com
 0.0.0.0 a14807160057.cdn.optimizely.com
 0.0.0.0 a148432889.cdn.optimizely.com
@@ -42825,9 +42832,12 @@
 0.0.0.0 a15133180841.cdn.optimizely.com
 0.0.0.0 a1517994423.cdn.optimizely.com
 0.0.0.0 a152450673.cdn.optimizely.com
+0.0.0.0 a15321630321.cdn.optimizely.com
 0.0.0.0 a15432930010.cdn.optimizely.com
 0.0.0.0 a15498140782.cdn.optimizely.com
 0.0.0.0 a15506560068.cdn.optimizely.com
+0.0.0.0 a15721220395.cdn.optimizely.com
+0.0.0.0 a15766640529.cdn.optimizely.com
 0.0.0.0 a15784060578.cdn.optimizely.com
 0.0.0.0 a158393932.cdn.optimizely.com
 0.0.0.0 a15853140465.cdn.optimizely.com
@@ -42875,6 +42885,7 @@
 0.0.0.0 a2201792135.cdn.optimizely.com
 0.0.0.0 a221317523.cdn.optimizely.com
 0.0.0.0 a2215220948.cdn.optimizely.com
+0.0.0.0 a2232640358.cdn.optimizely.com
 0.0.0.0 a2236295193.cdn.optimizely.com
 0.0.0.0 a225165521.cdn.optimizely.com
 0.0.0.0 a225724914.cdn.optimizely.com
@@ -42893,8 +42904,10 @@
 0.0.0.0 a2371510097.cdn.optimizely.com
 0.0.0.0 a2401970420.cdn.optimizely.com
 0.0.0.0 a240828791.cdn.optimizely.com
+0.0.0.0 a2412680003.cdn.optimizely.com
 0.0.0.0 a2413851039.cdn.optimizely.com
 0.0.0.0 a2419140384.cdn.optimizely.com
+0.0.0.0 a247752487.cdn.optimizely.com
 0.0.0.0 a2489920687.cdn.optimizely.com
 0.0.0.0 a2508430154.cdn.optimizely.com
 0.0.0.0 a2534570409.cdn.optimizely.com
@@ -42930,6 +42943,7 @@
 0.0.0.0 a304207300.cdn.optimizely.com
 0.0.0.0 a305025425.cdn.optimizely.com
 0.0.0.0 a3058550533.cdn.optimizely.com
+0.0.0.0 a30915145.cdn.optimizely.com
 0.0.0.0 a3129330970.cdn.optimizely.com
 0.0.0.0 a3129410271.cdn.optimizely.com
 0.0.0.0 a31463647.cdn.optimizely.com
@@ -43133,6 +43147,7 @@
 0.0.0.0 a8317223810.cdn.optimizely.com
 0.0.0.0 a8321763047.cdn.optimizely.com
 0.0.0.0 a8325480942.cdn.optimizely.com
+0.0.0.0 a8342533302.cdn.optimizely.com
 0.0.0.0 a8343311344.cdn.optimizely.com
 0.0.0.0 a8343881755.cdn.optimizely.com
 0.0.0.0 a8358252653.cdn.optimizely.com
@@ -43177,6 +43192,7 @@
 0.0.0.0 a9014047668.cdn.optimizely.com
 0.0.0.0 a9056642746.cdn.optimizely.com
 0.0.0.0 a9111544104.cdn.optimizely.com
+0.0.0.0 a9111630556.cdn.optimizely.com
 0.0.0.0 a9175901896.cdn.optimizely.com
 0.0.0.0 a9180765182.cdn.optimizely.com
 0.0.0.0 a9183140318.cdn.optimizely.com
@@ -43201,6 +43217,7 @@
 0.0.0.0 a9855856441.cdn.optimizely.com
 0.0.0.0 a9863761244.cdn.optimizely.com
 0.0.0.0 a989617545.cdn.optimizely.com
+0.0.0.0 a9952300031.cdn.optimizely.com
 0.0.0.0 a9974278916.cdn.optimizely.com
 0.0.0.0 oui.cdn.optimizely.com
 0.0.0.0 www.cdn.optimizely.com

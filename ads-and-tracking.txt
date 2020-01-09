@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-08T13:51:17+00:00
-# Count: 7548 domains
+# Released: 2020-01-09T13:35:49+00:00
+# Count: 7553 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1592,6 +1592,7 @@
 0.0.0.0 recommendation.citrix.com
 0.0.0.0 analytics.civicplus.com
 0.0.0.0 clarivoy.com
+0.0.0.0 germain-s1-cdn.clarivoy.com
 0.0.0.0 tags-cdn.clarivoy.com
 0.0.0.0 clcktrax.com
 0.0.0.0 p.clcktrax.com
@@ -1639,6 +1640,7 @@
 0.0.0.0 coadvertise.com
 0.0.0.0 dsp.coadvertise.com
 0.0.0.0 dspssl.coadvertise.com
+0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 pixel.collosteam.com
 0.0.0.0 colossusssp.com
@@ -1678,6 +1680,7 @@
 0.0.0.0 consumedmedia.com
 0.0.0.0 assets.consumedmedia.com
 0.0.0.0 consumersurveysonline.com
+0.0.0.0 event-api.contactatonce.com
 0.0.0.0 contextweb.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 lga-bid-bgp.contextweb.com
@@ -1893,6 +1896,7 @@
 0.0.0.0 check.deadlinefunnel.com
 0.0.0.0 analytics.dealer.com
 0.0.0.0 assets.prod.analytics.dealer.com
+0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dealeronlinemarketing.com
 0.0.0.0 content.dealeronlinemarketing.com
 0.0.0.0 decibelinsight.com
@@ -3573,6 +3577,7 @@
 0.0.0.0 optimezer.com
 0.0.0.0 optimizely.com
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 a1859010085.cdn.optimizely.com
 0.0.0.0 a5763640713.cdn.optimizely.com
 0.0.0.0 a6529002483.cdn.optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
