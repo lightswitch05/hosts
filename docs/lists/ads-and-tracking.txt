@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-13T13:36:11+00:00
-# Count: 7551 domains
+# Released: 2020-01-13T13:48:13+00:00
+# Count: 7566 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1067,6 +1067,7 @@
 0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analyticson.com
 0.0.0.0 metrics.ancestry.com
+0.0.0.0 smetrics.ancestry.com
 0.0.0.0 aniview.com
 0.0.0.0 add1.aniview.com
 0.0.0.0 cdn1.aniview.com
@@ -1588,6 +1589,7 @@
 0.0.0.0 chicoryapp.com
 0.0.0.0 www.chicoryapp.com
 0.0.0.0 c.cintnetworks.com
+0.0.0.0 metrics1.citi.com
 0.0.0.0 profile.citrix.com
 0.0.0.0 recommendation.citrix.com
 0.0.0.0 analytics.civicplus.com
@@ -1902,6 +1904,7 @@
 0.0.0.0 decibelinsight.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
+0.0.0.0 sm.dell.com
 0.0.0.0 metrics.deloitte.com
 0.0.0.0 deloplen.com
 0.0.0.0 demandbase.com
@@ -1939,6 +1942,7 @@
 0.0.0.0 addons.dirtylittlehelpers.com
 0.0.0.0 discovernative.com
 0.0.0.0 sales.disneylandparis.com
+0.0.0.0 sanalytics.disneyplus.com
 0.0.0.0 hasoffers.disqus.com
 0.0.0.0 disqusads.com
 0.0.0.0 dmpxs.com
@@ -2186,6 +2190,7 @@
 0.0.0.0 ezwebsitetraffic.com
 0.0.0.0 adserver.ezwebsitetraffic.com
 0.0.0.0 fanbread.com
+0.0.0.0 os.fandango.com
 0.0.0.0 services.fandom.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 www.fastly-insights.com
@@ -4856,6 +4861,7 @@
 0.0.0.0 vergic.com
 0.0.0.0 hm-content.vergic.com
 0.0.0.0 us-commsrv-a.vergic.com
+0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 verve.com
 0.0.0.0 vervemobile.com
@@ -4952,6 +4958,8 @@
 0.0.0.0 api.addata.wallst.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 displayads.walmart.com
+0.0.0.0 omniture.walmart.com
+0.0.0.0 omniture-ssl.walmart.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 wavesecure.com
 0.0.0.0 rdp42mms.wavesecure.com
@@ -4962,6 +4970,7 @@
 0.0.0.0 wearehearken.com
 0.0.0.0 assets.wearehearken.com
 0.0.0.0 modules.wearehearken.com
+0.0.0.0 sodc.weather.com
 0.0.0.0 webgains.com
 0.0.0.0 diapi.webgains.com
 0.0.0.0 track.webgains.com
@@ -6671,6 +6680,7 @@
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 foxnews.com.d1.sc.omtrdc.net
 0.0.0.0 cruisecritic.d1.sc.omtrdc.net
+0.0.0.0 com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aetn.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 taxslayer.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
@@ -6692,12 +6702,15 @@
 0.0.0.0 kroger.sc.omtrdc.net
 0.0.0.0 mcclatchy.sc.omtrdc.net
 0.0.0.0 nbcume.sc.omtrdc.net
+0.0.0.0 org.sc.omtrdc.net
 0.0.0.0 pandoramedia.sc.omtrdc.net
 0.0.0.0 slickdeals.sc.omtrdc.net
 0.0.0.0 ssl.sc.omtrdc.net
+0.0.0.0 com.ssl.sc.omtrdc.net
 0.0.0.0 cbsi.com.ssl.sc.omtrdc.net
 0.0.0.0 hbonow.com.ssl.sc.omtrdc.net
 0.0.0.0 shutterfly.com.ssl.sc.omtrdc.net
+0.0.0.0 net.ssl.sc.omtrdc.net
 0.0.0.0 independent.co.uk.ssl.sc.omtrdc.net
 0.0.0.0 thecontainerstore.sc.omtrdc.net
 0.0.0.0 unitedparcelservice.sc.omtrdc.net
@@ -6979,6 +6992,8 @@
 0.0.0.0 adtracker.valuedopinions.co.nz
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
+0.0.0.0 metrics.aarp.org
+0.0.0.0 smetrics.aarp.org
 0.0.0.0 ads.org
 0.0.0.0 adserver.org
 0.0.0.0 adsrvr.org
