@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-13T13:48:13+00:00
-# Count: 7566 domains
+# Released: 2020-01-13T14:10:17+00:00
+# Count: 7582 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -185,6 +185,7 @@
 0.0.0.0 metrics.aeon.co
 0.0.0.0 ayads.co
 0.0.0.0 ads.ayads.co
+0.0.0.0 sac.ayads.co
 0.0.0.0 clinch.co
 0.0.0.0 trk.clinch.co
 0.0.0.0 d41.co
@@ -260,6 +261,7 @@
 0.0.0.0 insights-canary.viafoura.co
 0.0.0.0 interaction.viafoura.co
 0.0.0.0 notifications.viafoura.co
+0.0.0.0 securite.01net.com
 0.0.0.0 vip.126.com
 0.0.0.0 163.com
 0.0.0.0 dm.mail.163.com
@@ -613,6 +615,8 @@
 0.0.0.0 adoftheyear.com
 0.0.0.0 ace.adoftheyear.com
 0.0.0.0 adotmob.com
+0.0.0.0 adserver.adotmob.com
+0.0.0.0 dsp.adotmob.com
 0.0.0.0 sync.adotmob.com
 0.0.0.0 adotube.com
 0.0.0.0 adpiano.com
@@ -1149,6 +1153,7 @@
 0.0.0.0 vid.applvn.com
 0.0.0.0 w.applvn.com
 0.0.0.0 z.applvn.com
+0.0.0.0 appnexus.com
 0.0.0.0 console.appnexus.com
 0.0.0.0 apponic.com
 0.0.0.0 www.apponic.com
@@ -3090,6 +3095,7 @@
 0.0.0.0 mediarithmics.com
 0.0.0.0 ads.mediarithmics.com
 0.0.0.0 assets.mediarithmics.com
+0.0.0.0 static.mediarithmics.com
 0.0.0.0 mediav.com
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 t.dsp.mediav.com
@@ -4298,6 +4304,7 @@
 0.0.0.0 go.ucg.smart-dmp.com
 0.0.0.0 smart-pixl.com
 0.0.0.0 smartadserver.com
+0.0.0.0 prg.smartadserver.com
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 smartadserverapis.com
@@ -4479,6 +4486,8 @@
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 www.ssacdn.com
 0.0.0.0 analytics.ssbbartgroup.com
+0.0.0.0 sskzlabs.com
+0.0.0.0 pbjs.sskzlabs.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 stagehosts.com
 0.0.0.0 cards-ext.stagehosts.com
@@ -5111,6 +5120,7 @@
 0.0.0.0 go.xhamsterlive.com
 0.0.0.0 xiti.com
 0.0.0.0 log.xiti.com
+0.0.0.0 logs1091.xiti.com
 0.0.0.0 xlgmedia.com
 0.0.0.0 p.xlgmedia.com
 0.0.0.0 post.xlgmedia.com
@@ -5404,6 +5414,8 @@
 0.0.0.0 westads.simpli.fi
 0.0.0.0 spartoo.fi
 0.0.0.0 imgext.spartoo.fi
+0.0.0.0 audience.acpm.fr
+0.0.0.0 tag.audience.acpm.fr
 0.0.0.0 admanmedia.fr
 0.0.0.0 stats.admanmedia.fr
 0.0.0.0 supercore.admanmedia.fr
@@ -5591,6 +5603,10 @@
 0.0.0.0 tracking.graphly.io
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 hrum.hotelsapi.io
+0.0.0.0 hubvisor.io
+0.0.0.0 cdn.hubvisor.io
+0.0.0.0 s.hubvisor.io
+0.0.0.0 stream.hubvisor.io
 0.0.0.0 hull.io
 0.0.0.0 js.hull.io
 0.0.0.0 hullapp.io

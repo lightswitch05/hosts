@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-01-13T13:48:13+00:00
-# Count: 94609 domains
+# Released: 2020-01-13T14:10:17+00:00
+# Count: 94757 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -2612,6 +2612,7 @@
 0.0.0.0 insights-canary.viafoura.co
 0.0.0.0 interaction.viafoura.co
 0.0.0.0 notifications.viafoura.co
+0.0.0.0 securite.01net.com
 0.0.0.0 vip.126.com
 0.0.0.0 178.vip.126.com
 0.0.0.0 activity.vip.126.com
@@ -6863,6 +6864,7 @@
 0.0.0.0 crcdn09.adnxs.com
 0.0.0.0 crcdn1.adnxs.com
 0.0.0.0 dcdn.adnxs.com
+0.0.0.0 dil1gu4auabsaekgajxi0uqchgbiaeoatdk2kxwbtgbqafiard92kxwbrgb.adnxs.com
 0.0.0.0 e.adnxs.com
 0.0.0.0 ebay.adnxs.com
 0.0.0.0 ecure.adnxs.com
@@ -6969,6 +6971,7 @@
 0.0.0.0 fra163.ib.adnxs.com
 0.0.0.0 fra164.ib.adnxs.com
 0.0.0.0 fra165.ib.adnxs.com
+0.0.0.0 fra166.ib.adnxs.com
 0.0.0.0 fra167.ib.adnxs.com
 0.0.0.0 fra168.ib.adnxs.com
 0.0.0.0 fra169.ib.adnxs.com
@@ -7145,6 +7148,7 @@
 0.0.0.0 fra329.ib.adnxs.com
 0.0.0.0 fra33.ib.adnxs.com
 0.0.0.0 fra330.ib.adnxs.com
+0.0.0.0 fra332.ib.adnxs.com
 0.0.0.0 fra333.ib.adnxs.com
 0.0.0.0 fra334.ib.adnxs.com
 0.0.0.0 fra335.ib.adnxs.com
@@ -7169,6 +7173,7 @@
 0.0.0.0 fra353.ib.adnxs.com
 0.0.0.0 fra354.ib.adnxs.com
 0.0.0.0 fra355.ib.adnxs.com
+0.0.0.0 fra356.ib.adnxs.com
 0.0.0.0 fra357.ib.adnxs.com
 0.0.0.0 fra358.ib.adnxs.com
 0.0.0.0 fra359.ib.adnxs.com
@@ -12728,8 +12733,107 @@
 0.0.0.0 w.applvn.com
 0.0.0.0 www.applvn.com
 0.0.0.0 z.applvn.com
+0.0.0.0 appnexus.com
+0.0.0.0 01-vidyo-router.ams1.appnexus.com
+0.0.0.0 02.catchpoint.ams1.appnexus.com
+0.0.0.0 openldap.corp.ams1.appnexus.com
+0.0.0.0 01.krbize.ams1.appnexus.com
+0.0.0.0 01.webproxy.ams1.appnexus.com
+0.0.0.0 anex.appnexus.com
+0.0.0.0 api.appnexus.com
+0.0.0.0 sand.api.appnexus.com
+0.0.0.0 app.appnexus.com
+0.0.0.0 autodiscover.appnexus.com
+0.0.0.0 bidder-sand.appnexus.com
+0.0.0.0 bts.appnexus.com
+0.0.0.0 careerstest.appnexus.com
 0.0.0.0 preview.console.appnexus.com
 0.0.0.0 sand.console.appnexus.com
+0.0.0.0 corp.appnexus.com
+0.0.0.0 01-1099pro-nym2.ad.corp.appnexus.com
+0.0.0.0 01-exch-den2.ad.corp.appnexus.com
+0.0.0.0 01-winadmin-nym2.ad.corp.appnexus.com
+0.0.0.0 01-winbuild-nym2.ad.corp.appnexus.com
+0.0.0.0 04-dc-lax1.ad.corp.appnexus.com
+0.0.0.0 04-dc-nym2.ad.corp.appnexus.com
+0.0.0.0 05-dc-nym2.ad.corp.appnexus.com
+0.0.0.0 06-exch-nym2.ad.corp.appnexus.com
+0.0.0.0 autodiscover.ad.corp.appnexus.com
+0.0.0.0 bind-gateway.corp.appnexus.com
+0.0.0.0 blackduckhub.corp.appnexus.com
+0.0.0.0 kace.corp.appnexus.com
+0.0.0.0 pbx-ams1.corp.appnexus.com
+0.0.0.0 01-exchange.test.corp.appnexus.com
+0.0.0.0 01-winserv.test.corp.appnexus.com
+0.0.0.0 vid-conf.corp.appnexus.com
+0.0.0.0 zimbra.corp.appnexus.com
+0.0.0.0 corpwiki.appnexus.com
+0.0.0.0 dev.appnexus.com
+0.0.0.0 01.kdc.fra1.appnexus.com
+0.0.0.0 lbip154063.fra1.appnexus.com
+0.0.0.0 lbip154064.fra1.appnexus.com
+0.0.0.0 go.appnexus.com
+0.0.0.0 know.appnexus.com
+0.0.0.0 01-vidyo-router.lax1.appnexus.com
+0.0.0.0 lo0.br2.lax1.appnexus.com
+0.0.0.0 01.kdc.lax1.appnexus.com
+0.0.0.0 lbip1599.lax1.appnexus.com
+0.0.0.0 lbip766576.lax1.appnexus.com
+0.0.0.0 01.lg.lax1.appnexus.com
+0.0.0.0 obs01.lax1.appnexus.com
+0.0.0.0 rt.lax1.appnexus.com
+0.0.0.0 02.rt.lax1.appnexus.com
+0.0.0.0 lg.appnexus.com
+0.0.0.0 mail.appnexus.com
+0.0.0.0 nyc2.appnexus.com
+0.0.0.0 01-vidyo-router.nyc2.appnexus.com
+0.0.0.0 bms-5w-ext.nyc2.appnexus.com
+0.0.0.0 bms-ext.nyc2.appnexus.com
+0.0.0.0 br1.nyc2.appnexus.com
+0.0.0.0 ge-1-1-0.0.br1.nyc2.appnexus.com
+0.0.0.0 br2.nyc2.appnexus.com
+0.0.0.0 ae0.0.br2.nyc2.appnexus.com
+0.0.0.0 ge-1-1-0.0.br2.nyc2.appnexus.com
+0.0.0.0 ge-0-0-4.0.fw.nyc2.appnexus.com
+0.0.0.0 reth0.60.fw.nyc2.appnexus.com
+0.0.0.0 01.pbx.nyc2.appnexus.com
+0.0.0.0 01.vidyo-gw.nyc2.appnexus.com
+0.0.0.0 01.bsg-coupa-prod.nym2.appnexus.com
+0.0.0.0 bsg-member-api-sand.nym2.appnexus.com
+0.0.0.0 01.exch-proxy.nym2.appnexus.com
+0.0.0.0 01.jamf-fe.nym2.appnexus.com
+0.0.0.0 01.krbize.nym2.appnexus.com
+0.0.0.0 lbip2813.nym2.appnexus.com
+0.0.0.0 lbip2867.nym2.appnexus.com
+0.0.0.0 lbip2935.nym2.appnexus.com
+0.0.0.0 lbip3171.nym2.appnexus.com
+0.0.0.0 lbip767015.nym2.appnexus.com
+0.0.0.0 lbip767024.nym2.appnexus.com
+0.0.0.0 lbip767026.nym2.appnexus.com
+0.0.0.0 lbip767083.nym2.appnexus.com
+0.0.0.0 lbip767085.nym2.appnexus.com
+0.0.0.0 04.rt.nym2.appnexus.com
+0.0.0.0 02.stab.nym2.appnexus.com
+0.0.0.0 pmfstream.appnexus.com
+0.0.0.0 prebid.appnexus.com
+0.0.0.0 productblog.appnexus.com
+0.0.0.0 psa.appnexus.com
+0.0.0.0 secure-console.appnexus.com
+0.0.0.0 02.catchpoint.sin1.appnexus.com
+0.0.0.0 01.credentials-api.sin1.appnexus.com
+0.0.0.0 01.esxi-host.sin1.appnexus.com
+0.0.0.0 01.kdc.sin1.appnexus.com
+0.0.0.0 lbip228592.sin1.appnexus.com
+0.0.0.0 01.webproxy.sin1.appnexus.com
+0.0.0.0 staging.appnexus.com
+0.0.0.0 staging-console-cdn.appnexus.com
+0.0.0.0 status.appnexus.com
+0.0.0.0 summit.appnexus.com
+0.0.0.0 techblog.appnexus.com
+0.0.0.0 video-demo.appnexus.com
+0.0.0.0 www.appnexus.com
+0.0.0.0 wwwnew.appnexus.com
+0.0.0.0 wwwtest.appnexus.com
 0.0.0.0 apponic.com
 0.0.0.0 7edit-hl7-browser-editor.apponic.com
 0.0.0.0 actual-keylogger.apponic.com
@@ -16872,6 +16976,7 @@
 0.0.0.0 a1081.casalemedia.com
 0.0.0.0 a1085.casalemedia.com
 0.0.0.0 a109.casalemedia.com
+0.0.0.0 a1102.casalemedia.com
 0.0.0.0 a1104.casalemedia.com
 0.0.0.0 a111.casalemedia.com
 0.0.0.0 a1115.casalemedia.com
@@ -17408,6 +17513,7 @@
 0.0.0.0 a1769.casalemedia.com
 0.0.0.0 a1770.casalemedia.com
 0.0.0.0 a1771.casalemedia.com
+0.0.0.0 a1772.casalemedia.com
 0.0.0.0 a1773.casalemedia.com
 0.0.0.0 a1774.casalemedia.com
 0.0.0.0 a1775.casalemedia.com
@@ -17421,6 +17527,7 @@
 0.0.0.0 a1784.casalemedia.com
 0.0.0.0 a1785.casalemedia.com
 0.0.0.0 a1786.casalemedia.com
+0.0.0.0 a1787.casalemedia.com
 0.0.0.0 a1788.casalemedia.com
 0.0.0.0 a1789.casalemedia.com
 0.0.0.0 a1790.casalemedia.com
@@ -17464,6 +17571,7 @@
 0.0.0.0 a1836.casalemedia.com
 0.0.0.0 a1837.casalemedia.com
 0.0.0.0 a1838.casalemedia.com
+0.0.0.0 a1840.casalemedia.com
 0.0.0.0 a1846.casalemedia.com
 0.0.0.0 a1848.casalemedia.com
 0.0.0.0 a1852.casalemedia.com
@@ -17661,6 +17769,7 @@
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2133.casalemedia.com
 0.0.0.0 a2134.casalemedia.com
+0.0.0.0 a2135.casalemedia.com
 0.0.0.0 a2136.casalemedia.com
 0.0.0.0 a2137.casalemedia.com
 0.0.0.0 a2138.casalemedia.com
@@ -17830,6 +17939,7 @@
 0.0.0.0 a2525.casalemedia.com
 0.0.0.0 a2529.casalemedia.com
 0.0.0.0 a2539.casalemedia.com
+0.0.0.0 a2544.casalemedia.com
 0.0.0.0 a2548.casalemedia.com
 0.0.0.0 a2551.casalemedia.com
 0.0.0.0 a2554.casalemedia.com
@@ -17862,6 +17972,7 @@
 0.0.0.0 a2610.casalemedia.com
 0.0.0.0 a2613.casalemedia.com
 0.0.0.0 a2619.casalemedia.com
+0.0.0.0 a262.casalemedia.com
 0.0.0.0 a2622.casalemedia.com
 0.0.0.0 a2623.casalemedia.com
 0.0.0.0 a2625.casalemedia.com
@@ -18006,6 +18117,7 @@
 0.0.0.0 a2934.casalemedia.com
 0.0.0.0 a2940.casalemedia.com
 0.0.0.0 a2950.casalemedia.com
+0.0.0.0 a2951.casalemedia.com
 0.0.0.0 a2955.casalemedia.com
 0.0.0.0 a2964.casalemedia.com
 0.0.0.0 a2967.casalemedia.com
@@ -18121,6 +18233,7 @@
 0.0.0.0 a314.casalemedia.com
 0.0.0.0 a3145.casalemedia.com
 0.0.0.0 a3147.casalemedia.com
+0.0.0.0 a3152.casalemedia.com
 0.0.0.0 a3153.casalemedia.com
 0.0.0.0 a3166.casalemedia.com
 0.0.0.0 a3169.casalemedia.com
@@ -18282,10 +18395,12 @@
 0.0.0.0 a3399.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
 0.0.0.0 a3408.casalemedia.com
+0.0.0.0 a341.casalemedia.com
 0.0.0.0 a3422.casalemedia.com
 0.0.0.0 a3428.casalemedia.com
 0.0.0.0 a3437.casalemedia.com
 0.0.0.0 a3438.casalemedia.com
+0.0.0.0 a344.casalemedia.com
 0.0.0.0 a3443.casalemedia.com
 0.0.0.0 a3444.casalemedia.com
 0.0.0.0 a3450.casalemedia.com
@@ -18551,6 +18666,7 @@
 0.0.0.0 a4322.casalemedia.com
 0.0.0.0 a4323.casalemedia.com
 0.0.0.0 a4325.casalemedia.com
+0.0.0.0 a4326.casalemedia.com
 0.0.0.0 a4328.casalemedia.com
 0.0.0.0 a4329.casalemedia.com
 0.0.0.0 a4331.casalemedia.com
@@ -18708,6 +18824,7 @@
 0.0.0.0 a4508.casalemedia.com
 0.0.0.0 a4509.casalemedia.com
 0.0.0.0 a451.casalemedia.com
+0.0.0.0 a4511.casalemedia.com
 0.0.0.0 a4512.casalemedia.com
 0.0.0.0 a4513.casalemedia.com
 0.0.0.0 a4514.casalemedia.com
@@ -18964,6 +19081,7 @@
 0.0.0.0 a520.casalemedia.com
 0.0.0.0 a527.casalemedia.com
 0.0.0.0 a536.casalemedia.com
+0.0.0.0 a547.casalemedia.com
 0.0.0.0 a550.casalemedia.com
 0.0.0.0 a554.casalemedia.com
 0.0.0.0 a555.casalemedia.com
@@ -18977,6 +19095,7 @@
 0.0.0.0 a584.casalemedia.com
 0.0.0.0 a596.casalemedia.com
 0.0.0.0 a600.casalemedia.com
+0.0.0.0 a604.casalemedia.com
 0.0.0.0 a605.casalemedia.com
 0.0.0.0 a608.casalemedia.com
 0.0.0.0 a609.casalemedia.com
@@ -19049,6 +19168,8 @@
 0.0.0.0 a884.casalemedia.com
 0.0.0.0 a885.casalemedia.com
 0.0.0.0 a888.casalemedia.com
+0.0.0.0 a890.casalemedia.com
+0.0.0.0 a899.casalemedia.com
 0.0.0.0 a901.casalemedia.com
 0.0.0.0 a904.casalemedia.com
 0.0.0.0 a905.casalemedia.com
@@ -19059,6 +19180,7 @@
 0.0.0.0 a928.casalemedia.com
 0.0.0.0 a940.casalemedia.com
 0.0.0.0 a943.casalemedia.com
+0.0.0.0 a953.casalemedia.com
 0.0.0.0 a959.casalemedia.com
 0.0.0.0 a967.casalemedia.com
 0.0.0.0 a971.casalemedia.com
@@ -19088,6 +19210,7 @@
 0.0.0.0 ebda-eu.casalemedia.com
 0.0.0.0 ebda-us-east.casalemedia.com
 0.0.0.0 ebda-us-west.casalemedia.com
+0.0.0.0 fr11.casalemedia.com
 0.0.0.0 fwcs01.casalemedia.com
 0.0.0.0 www.fwcs01.casalemedia.com
 0.0.0.0 ht.casalemedia.com
@@ -53252,6 +53375,10 @@
 0.0.0.0 videos-demand.ssacdn.com
 0.0.0.0 www.ssacdn.com
 0.0.0.0 analytics.ssbbartgroup.com
+0.0.0.0 sskzlabs.com
+0.0.0.0 pbjs.sskzlabs.com
+0.0.0.0 pbjs-staging.sskzlabs.com
+0.0.0.0 pbjs-us.sskzlabs.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 api.stack-sonar.com
 0.0.0.0 www.stack-sonar.com
@@ -53318,6 +53445,7 @@
 0.0.0.0 ads13.stickyadstv.com
 0.0.0.0 ads15.stickyadstv.com
 0.0.0.0 ads16.stickyadstv.com
+0.0.0.0 ads22.stickyadstv.com
 0.0.0.0 ads22-fw-us-east.stickyadstv.com
 0.0.0.0 ads25-fw-us-west.stickyadstv.com
 0.0.0.0 ads27-us-east.stickyadstv.com
@@ -60006,6 +60134,7 @@
 0.0.0.0 logs1127.xiti.com
 0.0.0.0 logs1136.xiti.com
 0.0.0.0 logs1154.xiti.com
+0.0.0.0 logs1169.xiti.com
 0.0.0.0 logs1183.xiti.com
 0.0.0.0 logs1187.xiti.com
 0.0.0.0 logs1189.xiti.com
@@ -62341,6 +62470,13 @@
 0.0.0.0 survey.spartoo.fi
 0.0.0.0 webnibal.spartoo.fi
 0.0.0.0 www.spartoo.fi
+0.0.0.0 audience.acpm.fr
+0.0.0.0 auth.audience.acpm.fr
+0.0.0.0 collecte.audience.acpm.fr
+0.0.0.0 enrolementweb.audience.acpm.fr
+0.0.0.0 onenext-live.prod.audience.acpm.fr
+0.0.0.0 referentiel.audience.acpm.fr
+0.0.0.0 tag.audience.acpm.fr
 0.0.0.0 admanmedia.fr
 0.0.0.0 ben.admanmedia.fr
 0.0.0.0 bidtor.admanmedia.fr
@@ -64256,6 +64392,14 @@
 0.0.0.0 www.graphly.io
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 hrum.hotelsapi.io
+0.0.0.0 hubvisor.io
+0.0.0.0 api.hubvisor.io
+0.0.0.0 cdn.hubvisor.io
+0.0.0.0 pbs.hubvisor.io
+0.0.0.0 s.hubvisor.io
+0.0.0.0 status.hubvisor.io
+0.0.0.0 stream.hubvisor.io
+0.0.0.0 www.hubvisor.io
 0.0.0.0 hull.io
 0.0.0.0 aa.hull.io
 0.0.0.0 changes.hull.io
@@ -83737,6 +83881,7 @@
 0.0.0.0 adthrive-d.openx.net
 0.0.0.0 advally-d.openx.net
 0.0.0.0 adverline-d.openx.net
+0.0.0.0 adyoulike-d.openx.net
 0.0.0.0 aegate-d.openx.net
 0.0.0.0 alegria-d.openx.net
 0.0.0.0 aleteia-d.openx.net
@@ -84191,6 +84336,7 @@
 0.0.0.0 pinger-d.openx.net
 0.0.0.0 pixfuture-d.openx.net
 0.0.0.0 pixfuture2-d.openx.net
+0.0.0.0 planetmedia-d.openx.net
 0.0.0.0 platformone-d.openx.net
 0.0.0.0 playbuzzltd-d.openx.net
 0.0.0.0 playground-d.openx.net
@@ -84270,6 +84416,7 @@
 0.0.0.0 seesaa-d.openx.net
 0.0.0.0 select-d.openx.net
 0.0.0.0 sendtonews-d.openx.net
+0.0.0.0 setupad-d.openx.net
 0.0.0.0 shareably-d.openx.net
 0.0.0.0 sharethrough-d.openx.net
 0.0.0.0 sheknows-d.openx.net
@@ -84440,6 +84587,7 @@
 0.0.0.0 yormedia-isr-gbp-d.openx.net
 0.0.0.0 yourbow-d.openx.net
 0.0.0.0 yummly-d.openx.net
+0.0.0.0 zaptush-d.openx.net
 0.0.0.0 zedo-d.openx.net
 0.0.0.0 zergnet-d.openx.net
 0.0.0.0 zerohedge-d.openx.net
