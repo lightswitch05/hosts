@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-13T14:10:17+00:00
-# Count: 7582 domains
+# Released: 2020-01-14T13:59:38+00:00
+# Count: 7593 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2970,6 +2970,7 @@
 0.0.0.0 vpn01.manage.com
 0.0.0.0 vpn02.manage.com
 0.0.0.0 events.mapbox.com
+0.0.0.0 maps-icloud.com
 0.0.0.0 marfeelcache.com
 0.0.0.0 b.marfeelcache.com
 0.0.0.0 marfeelcdn.com
@@ -5499,6 +5500,10 @@
 0.0.0.0 www.upgradedltypeliteflash.icu
 0.0.0.0 windowinstalldealaflash.icu
 0.0.0.0 hit-log.viva.co.id
+0.0.0.0 com-findlocation.id
+0.0.0.0 apple.com-findlocation.id
+0.0.0.0 com-support.id
+0.0.0.0 apple.com-support.id
 0.0.0.0 props.id
 0.0.0.0 st-a.props.id
 0.0.0.0 mailtracking.gitter.im
@@ -5506,6 +5511,12 @@
 0.0.0.0 open-api.spot.im
 0.0.0.0 adadyn.co.in
 0.0.0.0 pixel.affcamp.co.in
+0.0.0.0 com-isupport.in
+0.0.0.0 apple.com-isupport.in
+0.0.0.0 com-sign.in
+0.0.0.0 apple.com-sign.in
+0.0.0.0 com-site-log.in
+0.0.0.0 icloud.com-site-log.in
 0.0.0.0 cache.vitrines.in
 0.0.0.0 display.vitrines.in
 0.0.0.0 rat.vitrines.in

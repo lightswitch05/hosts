@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-01-13T14:10:17+00:00
-# Count: 94757 domains
+# Released: 2020-01-14T13:59:38+00:00
+# Count: 94786 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -35557,6 +35557,12 @@
 0.0.0.0 adx.web40-east.manage.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 snap.events.mapbox.com
+0.0.0.0 maps-icloud.com
+0.0.0.0 api.maps-icloud.com
+0.0.0.0 iphone.maps-icloud.com
+0.0.0.0 mail.maps-icloud.com
+0.0.0.0 sync.maps-icloud.com
+0.0.0.0 webdisk.maps-icloud.com
 0.0.0.0 marfeelcache.com
 0.0.0.0 altb.marfeelcache.com
 0.0.0.0 altbc.marfeelcache.com
@@ -62996,6 +63002,15 @@
 0.0.0.0 windowinstalldealaflash.icu
 0.0.0.0 www2.windowinstalldealaflash.icu
 0.0.0.0 hit-log.viva.co.id
+0.0.0.0 com-findlocation.id
+0.0.0.0 apple.com-findlocation.id
+0.0.0.0 icloud.com-findlocation.id
+0.0.0.0 mail.com-findlocation.id
+0.0.0.0 www.com-findlocation.id
+0.0.0.0 com-support.id
+0.0.0.0 apple.com-support.id
+0.0.0.0 findmyiphone.com-support.id
+0.0.0.0 icloud.com-support.id
 0.0.0.0 props.id
 0.0.0.0 a.props.id
 0.0.0.0 au.props.id
@@ -63092,6 +63107,20 @@
 0.0.0.0 adadyn.co.in
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
+0.0.0.0 com-isupport.in
+0.0.0.0 apple.com-isupport.in
+0.0.0.0 icloud.com-isupport.in
+0.0.0.0 com-sign.in
+0.0.0.0 apple.com-sign.in
+0.0.0.0 findmyiphone.com-sign.in
+0.0.0.0 icloud.com-sign.in
+0.0.0.0 mail.com-sign.in
+0.0.0.0 webdisk.com-sign.in
+0.0.0.0 www.com-sign.in
+0.0.0.0 com-site-log.in
+0.0.0.0 apple-id.com-site-log.in
+0.0.0.0 findlocations.com-site-log.in
+0.0.0.0 icloud.com-site-log.in
 0.0.0.0 cache.vitrines.in
 0.0.0.0 display.vitrines.in
 0.0.0.0 www.display.vitrines.in
