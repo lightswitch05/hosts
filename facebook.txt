@@ -1,14 +1,14 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook.txt
-# Released: 2019-11-21T15:02:45+00:00
-# Count: 48 domains
+# Released: 2020-01-15T13:53:21+00:00
+# Count: 51 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook.txt
 # Expires: 2 days
 #
-# Copyright 2019 Daniel White
+# Copyright 2020 Daniel White
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -29,6 +29,7 @@
 0.0.0.0 ai.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 cn.facebook.com
+0.0.0.0 connect.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 m.facebook.com
 0.0.0.0 fb.com
@@ -47,6 +48,8 @@
 0.0.0.0 facebook.com.edgesuite.net
 0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
 0.0.0.0 facebook.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.net
 0.0.0.0 m.facebook.net
 0.0.0.0 fbcdn.net
 0.0.0.0 fna.fbcdn.net

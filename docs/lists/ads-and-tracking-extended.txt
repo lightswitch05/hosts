@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-01-14T21:24:00+00:00
-# Count: 94796 domains
+# Released: 2020-01-15T13:48:34+00:00
+# Count: 94845 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -8125,6 +8125,14 @@
 0.0.0.0 yahoo.adready.com
 0.0.0.0 yahoomydisplayads.adready.com
 0.0.0.0 ymda.adready.com
+0.0.0.0 adrecover.com
+0.0.0.0 app.adrecover.com
+0.0.0.0 delivery.adrecover.com
+0.0.0.0 feedback.adrecover.com
+0.0.0.0 feedback.geo.adrecover.com
+0.0.0.0 logging.adrecover.com
+0.0.0.0 start.adrecover.com
+0.0.0.0 www.adrecover.com
 0.0.0.0 adrelevantis.com
 0.0.0.0 adserver.adrelevantis.com
 0.0.0.0 ml.adrelevantis.com
@@ -22118,6 +22126,7 @@
 0.0.0.0 logs.connatix.com
 0.0.0.0 minio.connatix.com
 0.0.0.0 youtrack.ops.connatix.com
+0.0.0.0 registry.connatix.com
 0.0.0.0 rtb.connatix.com
 0.0.0.0 sentry.connatix.com
 0.0.0.0 shared.connatix.com
@@ -45497,6 +45506,7 @@
 0.0.0.0 www.mp.poprule.com
 0.0.0.0 static.poprule.com
 0.0.0.0 www.poprule.com
+0.0.0.0 ts.popsugar.com
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
 0.0.0.0 sentry.postmanlabs.com
@@ -45970,6 +45980,7 @@
 0.0.0.0 imagesync22000nf.pubmatic.com
 0.0.0.0 info.pubmatic.com
 0.0.0.0 layer-lhrc.pubmatic.com
+0.0.0.0 layer-vac.pubmatic.com
 0.0.0.0 layer33000nf.pubmatic.com
 0.0.0.0 lyr.pubmatic.com
 0.0.0.0 lyr122000c.pubmatic.com
@@ -45985,6 +45996,8 @@
 0.0.0.0 openbid-sg55000.pubmatic.com
 0.0.0.0 openbid-sgn.pubmatic.com
 0.0.0.0 openbid-useast.pubmatic.com
+0.0.0.0 openbid-va.pubmatic.com
+0.0.0.0 openbid-vac.pubmatic.com
 0.0.0.0 openbid33000nfc.pubmatic.com
 0.0.0.0 openbid44000nfc.pubmatic.com
 0.0.0.0 openbid88000nfc.pubmatic.com
@@ -46005,6 +46018,7 @@
 0.0.0.0 pug-jpc.pubmatic.com
 0.0.0.0 pug-lhr.pubmatic.com
 0.0.0.0 pug-lhrc.pubmatic.com
+0.0.0.0 pug-vac.pubmatic.com
 0.0.0.0 pug22000.pubmatic.com
 0.0.0.0 pug22000c.pubmatic.com
 0.0.0.0 pug22000nf.pubmatic.com
@@ -46012,12 +46026,14 @@
 0.0.0.0 pug33000n.pubmatic.com
 0.0.0.0 pug33000nf.pubmatic.com
 0.0.0.0 pug44000.pubmatic.com
+0.0.0.0 pug44000c.pubmatic.com
 0.0.0.0 pug44000n1.pubmatic.com
 0.0.0.0 pug44000nf.pubmatic.com
 0.0.0.0 pug44000nfc.pubmatic.com
 0.0.0.0 pugm-jp.pubmatic.com
 0.0.0.0 pugm-lhr.pubmatic.com
 0.0.0.0 pugm-lhrc.pubmatic.com
+0.0.0.0 pugm-va.pubmatic.com
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 pugm22000nfc.pubmatic.com
 0.0.0.0 pugm33000nf.pubmatic.com
@@ -46029,6 +46045,7 @@
 0.0.0.0 s.update.rose.pubmatic.com
 0.0.0.0 t.update.rose.pubmatic.com
 0.0.0.0 showads.pubmatic.com
+0.0.0.0 showads-vac.pubmatic.com
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showads1065.pubmatic.com
 0.0.0.0 showads11000.pubmatic.com
@@ -46050,6 +46067,7 @@
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 spug-jp.pubmatic.com
 0.0.0.0 spug-lhr.pubmatic.com
+0.0.0.0 spug-vac.pubmatic.com
 0.0.0.0 spug11000.pubmatic.com
 0.0.0.0 spug11000c.pubmatic.com
 0.0.0.0 spug22000nf.pubmatic.com
@@ -46057,6 +46075,7 @@
 0.0.0.0 spug33000.pubmatic.com
 0.0.0.0 spug44000.pubmatic.com
 0.0.0.0 spug44000c.pubmatic.com
+0.0.0.0 spug44000nf.pubmatic.com
 0.0.0.0 spug55000.pubmatic.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 www.sshowads.pubmatic.com
@@ -57979,6 +57998,34 @@
 0.0.0.0 web.viewbix.com
 0.0.0.0 webdev.viewbix.com
 0.0.0.0 www.viewbix.com
+0.0.0.0 viewdeos.com
+0.0.0.0 api.viewdeos.com
+0.0.0.0 app.viewdeos.com
+0.0.0.0 cdn.viewdeos.com
+0.0.0.0 cdn1.viewdeos.com
+0.0.0.0 cms.viewdeos.com
+0.0.0.0 cmsembed.viewdeos.com
+0.0.0.0 embed.viewdeos.com
+0.0.0.0 go.viewdeos.com
+0.0.0.0 go1.viewdeos.com
+0.0.0.0 gov.viewdeos.com
+0.0.0.0 platform.viewdeos.com
+0.0.0.0 play.viewdeos.com
+0.0.0.0 player.viewdeos.com
+0.0.0.0 reporting.viewdeos.com
+0.0.0.0 rtb.viewdeos.com
+0.0.0.0 sync.viewdeos.com
+0.0.0.0 hb.sync.viewdeos.com
+0.0.0.0 484075.ortb.sync.viewdeos.com
+0.0.0.0 s.sync.viewdeos.com
+0.0.0.0 sync.sync.viewdeos.com
+0.0.0.0 tags.viewdeos.com
+0.0.0.0 track.viewdeos.com
+0.0.0.0 track1.viewdeos.com
+0.0.0.0 vast.viewdeos.com
+0.0.0.0 video.viewdeos.com
+0.0.0.0 vtrack.viewdeos.com
+0.0.0.0 www.viewdeos.com
 0.0.0.0 viewsignage.com
 0.0.0.0 ads.viewsignage.com
 0.0.0.0 www.ads.viewsignage.com
@@ -59300,6 +59347,8 @@
 0.0.0.0 wootric-demo.wootric.com
 0.0.0.0 www.wootric.com
 0.0.0.0 www-staging.wootric.com
+0.0.0.0 stats.wordpress.com
+0.0.0.0 s.stats.wordpress.com
 0.0.0.0 worldgravity.com
 0.0.0.0 590ua.worldgravity.com
 0.0.0.0 akkukhu.worldgravity.com

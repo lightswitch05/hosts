@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-14T21:24:00+00:00
-# Count: 7592 domains
+# Released: 2020-01-15T13:48:33+00:00
+# Count: 7606 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -633,6 +633,8 @@
 0.0.0.0 evt.adrcntr.com
 0.0.0.0 adready.com
 0.0.0.0 iplookup.adready.com
+0.0.0.0 adrecover.com
+0.0.0.0 delivery.adrecover.com
 0.0.0.0 adrelevantis.com
 0.0.0.0 adrime.com
 0.0.0.0 adrizer.com
@@ -1678,6 +1680,7 @@
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdns.connatix.com
+0.0.0.0 core.connatix.com
 0.0.0.0 connextra.com
 0.0.0.0 ff.connextra.com
 0.0.0.0 ssl.connextra.com
@@ -3724,6 +3727,7 @@
 0.0.0.0 connect.podium.com
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 poprule.com
+0.0.0.0 ts.popsugar.com
 0.0.0.0 popunderonly.com
 0.0.0.0 www.popunderonly.com
 0.0.0.0 sentry.postmanlabs.com
@@ -3795,6 +3799,7 @@
 0.0.0.0 lyr.pubmatic.com
 0.0.0.0 pug44000nf.pubmatic.com
 0.0.0.0 simage2.pubmatic.com
+0.0.0.0 vid.pubmatic.com
 0.0.0.0 pubocean.com
 0.0.0.0 rta.pubocean.com
 0.0.0.0 pulsemaps.com
@@ -4743,6 +4748,7 @@
 0.0.0.0 analytics.tresensa.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 a-lb.tribalfusion.com
+0.0.0.0 s.tribalfusion.com
 0.0.0.0 triplelift.com
 0.0.0.0 api.triplelift.com
 0.0.0.0 assets.triplelift.com
@@ -4902,6 +4908,11 @@
 0.0.0.0 assets.viewbix.com
 0.0.0.0 services.viewbix.com
 0.0.0.0 track.viewbix.com
+0.0.0.0 viewdeos.com
+0.0.0.0 app.viewdeos.com
+0.0.0.0 player.viewdeos.com
+0.0.0.0 track.viewdeos.com
+0.0.0.0 track1.viewdeos.com
 0.0.0.0 viewsignage.com
 0.0.0.0 adserver.viewsignage.com
 0.0.0.0 viglink.com
@@ -5073,6 +5084,7 @@
 0.0.0.0 attribution.wolverine.com
 0.0.0.0 wootric.com
 0.0.0.0 api.wootric.com
+0.0.0.0 stats.wordpress.com
 0.0.0.0 worldgravity.com
 0.0.0.0 cdn.worldgravity.com
 0.0.0.0 stats.wp.com
@@ -6647,7 +6659,9 @@
 0.0.0.0 ebda-uswest.media.net
 0.0.0.0 hbx.media.net
 0.0.0.0 img-eb.media.net
+0.0.0.0 mycdn.media.net
 0.0.0.0 prebid.media.net
+0.0.0.0 qsearch.media.net
 0.0.0.0 mediabong.net
 0.0.0.0 player.mediabong.net
 0.0.0.0 meetrics.net
