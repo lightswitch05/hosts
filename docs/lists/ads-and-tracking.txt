@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-15T13:48:33+00:00
-# Count: 7606 domains
+# Released: 2020-01-17T14:05:06+00:00
+# Count: 7616 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1881,6 +1881,8 @@
 0.0.0.0 logger-10.vty.dailymotion.com
 0.0.0.0 daphnecm.com
 0.0.0.0 data-capital.com
+0.0.0.0 datadoghq.com
+0.0.0.0 api.datadoghq.com
 0.0.0.0 collector.datadoghq.com
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 www.datadoghq-browser-agent.com
@@ -4536,6 +4538,7 @@
 0.0.0.0 init.supersonicads.com
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 outcome-cdn.supersonicads.com
+0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 survata.com
 0.0.0.0 ev.surveywall-api.survata.com
@@ -6825,6 +6828,7 @@
 0.0.0.0 client.perimeterx.net
 0.0.0.0 collector-a.perimeterx.net
 0.0.0.0 collector-px3vk96i6i.perimeterx.net
+0.0.0.0 collector-pxgy5w79au.perimeterx.net
 0.0.0.0 collector-pxhyx10rg3.perimeterx.net
 0.0.0.0 collector-pxitevy85i.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
@@ -6842,6 +6846,12 @@
 0.0.0.0 pixel.printsites.net
 0.0.0.0 pro-market.net
 0.0.0.0 ads.pro-market.net
+0.0.0.0 px-cdn.net
+0.0.0.0 collector-pxgy5w79au.px-cdn.net
+0.0.0.0 px-cloud.net
+0.0.0.0 collector-pxgy5w79au.px-cloud.net
+0.0.0.0 pxchk.net
+0.0.0.0 collector-pxgy5w79au.pxchk.net
 0.0.0.0 pxsrv.net
 0.0.0.0 qksrv.net
 0.0.0.0 siteintercept.qprod2.net
