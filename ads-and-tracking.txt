@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-17T14:05:06+00:00
-# Count: 7616 domains
+# Released: 2020-01-17T14:23:03+00:00
+# Count: 7621 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -3514,6 +3514,7 @@
 0.0.0.0 nzaza.com
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
+0.0.0.0 service.cmp.oath.com
 0.0.0.0 omniconvert.com
 0.0.0.0 cdn.omniconvert.com
 0.0.0.0 omnitagjs.com
@@ -4617,6 +4618,8 @@
 0.0.0.0 agility.tbs.com
 0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 uat-net.technoratimedia.com
+0.0.0.0 techtarget.com
+0.0.0.0 trk.techtarget.com
 0.0.0.0 piwik.teladoc.com
 0.0.0.0 tag-manager.teladoc.com
 0.0.0.0 tenjin.com
@@ -5629,6 +5632,8 @@
 0.0.0.0 js.gleam.io
 0.0.0.0 graphly.io
 0.0.0.0 tracking.graphly.io
+0.0.0.0 greenhouse.io
+0.0.0.0 boards.greenhouse.io
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 hubvisor.io
