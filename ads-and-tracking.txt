@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-01-22T13:43:45+00:00
-# Count: 7624 domains
+# Released: 2020-01-23T18:20:34+00:00
+# Count: 7628 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2101,6 +2101,8 @@
 0.0.0.0 tracking.emerse.com
 0.0.0.0 video.emerse.com
 0.0.0.0 emjcd.com
+0.0.0.0 emltrk.com
+0.0.0.0 crqik2zh.emltrk.com
 0.0.0.0 emxdgt.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 hb.emxdgt.com
@@ -3870,6 +3872,7 @@
 0.0.0.0 hk.questionmarket.com
 0.0.0.0 survey.questionmarket.com
 0.0.0.0 a.quora.com
+0.0.0.0 log.quora.com
 0.0.0.0 qwapi.com
 0.0.0.0 adsdk.qwapi.com
 0.0.0.0 cdn.r-adimg.com
@@ -4685,6 +4688,7 @@
 0.0.0.0 tns-ua.com
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 topprotestsigns.com
+0.0.0.0 emanalytics.toyota.com
 0.0.0.0 pulse.toyota.com
 0.0.0.0 p.pulse.toyota.com
 0.0.0.0 smetrics.toyota.com
