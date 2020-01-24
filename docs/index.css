@@ -35,3 +35,9 @@ section {
     margin-left: auto;
     margin-right: auto;
 }
+
+.avatar {
+    height: 1.5em;
+    vertical-align: bottom;
+    display: inline-block;
+}
