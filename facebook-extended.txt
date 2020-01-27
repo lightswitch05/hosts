@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-01-23T14:16:26+00:00
-# Count: 3582 domains
+# Released: 2020-01-27T03:43:56+00:00
+# Count: 3622 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -143,6 +143,7 @@
 0.0.0.0 scontent-sju1-1.cdninstagram.com
 0.0.0.0 scontent-sof.cdninstagram.com
 0.0.0.0 scontent-sof1-1.cdninstagram.com
+0.0.0.0 scontent-ssn1-1.cdninstagram.com
 0.0.0.0 scontent-syd2-1.cdninstagram.com
 0.0.0.0 scontent-tpe1-1.cdninstagram.com
 0.0.0.0 scontent-vie.cdninstagram.com
@@ -214,6 +215,7 @@
 0.0.0.0 beta.facebook.com
 0.0.0.0 ar-ar.beta.facebook.com
 0.0.0.0 fb.beta.facebook.com
+0.0.0.0 login.beta.facebook.com
 0.0.0.0 m.beta.facebook.com
 0.0.0.0 fb.m.beta.facebook.com
 0.0.0.0 secure.beta.facebook.com
@@ -261,6 +263,7 @@
 0.0.0.0 s-static.ak.connect.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 www.ak.connect.facebook.com
+0.0.0.0 api.connect.facebook.com
 0.0.0.0 ga-ie.ar-ar.connect.facebook.com
 0.0.0.0 www.az-azi.connect.facebook.com
 0.0.0.0 www.badawi.connect.facebook.com
@@ -310,6 +313,7 @@
 0.0.0.0 www.iconnect.connect.facebook.com
 0.0.0.0 www.in.connect.facebook.com
 0.0.0.0 www.la-connect.connect.facebook.com
+0.0.0.0 login.connect.facebook.com
 0.0.0.0 ja-jp.login.connect.facebook.com
 0.0.0.0 m.connect.facebook.com
 0.0.0.0 www.m.connect.facebook.com
@@ -329,6 +333,7 @@
 0.0.0.0 www.re-re-re.connect.facebook.com
 0.0.0.0 tr-tr.ro.connect.facebook.com
 0.0.0.0 es-la.ro-ro.connect.facebook.com
+0.0.0.0 ssl.connect.facebook.com
 0.0.0.0 www.th.th.connect.facebook.com
 0.0.0.0 www.vi-cn.connect.facebook.com
 0.0.0.0 ko-kr.vi-e.connect.facebook.com
@@ -354,6 +359,7 @@
 0.0.0.0 pt-br.vu.connect.facebook.com
 0.0.0.0 www.vu.connect.facebook.com
 0.0.0.0 www.vvi-ni.connect.facebook.com
+0.0.0.0 www.connect.facebook.com
 0.0.0.0 m.www.connect.facebook.com
 0.0.0.0 zh-cn.www.connect.facebook.com
 0.0.0.0 www.xi-vn.connect.facebook.com
@@ -395,6 +401,7 @@
 0.0.0.0 edge-snaptu-http-mini-shv-01-mrs2.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-sin2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
+0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
@@ -489,6 +496,7 @@
 0.0.0.0 secure.inyour.facebook.com
 0.0.0.0 inyourrc.facebook.com
 0.0.0.0 iorg-fba-edge-shv-01-icn1.facebook.com
+0.0.0.0 iphone.facebook.com
 0.0.0.0 is-is.facebook.com
 0.0.0.0 it-it.facebook.com
 0.0.0.0 ja-jp.facebook.com
@@ -894,6 +902,7 @@
 0.0.0.0 staging.scgraph.facebook.com
 0.0.0.0 interngraph.staging.scgraph.facebook.com
 0.0.0.0 secure.facebook.com
+0.0.0.0 secure-profile.facebook.com
 0.0.0.0 securitas.facebook.com
 0.0.0.0 servicenow.facebook.com
 0.0.0.0 sha256.facebook.com
@@ -910,6 +919,7 @@
 0.0.0.0 sq-al.facebook.com
 0.0.0.0 sr-rs.facebook.com
 0.0.0.0 srt.facebook.com
+0.0.0.0 ssl.facebook.com
 0.0.0.0 ssvc-gb.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 static.facebook.com
@@ -1045,6 +1055,9 @@
 0.0.0.0 www.aprende-uspreprod.fb.com
 0.0.0.0 aprende-usuat.fb.com
 0.0.0.0 www.aprende-usuat.fb.com
+0.0.0.0 ash-appstore.fb.com
+0.0.0.0 ash-fsoutpost.fb.com
+0.0.0.0 ash-vsp.fb.com
 0.0.0.0 australia.fb.com
 0.0.0.0 www.australia.fb.com
 0.0.0.0 autodiscover.fb.com
@@ -1083,6 +1096,7 @@
 0.0.0.0 www.contentdistributionpolicy.fb.com
 0.0.0.0 counterspeech.fb.com
 0.0.0.0 www.counterspeech.fb.com
+0.0.0.0 creative.fb.com
 0.0.0.0 phabricator.cstools.fb.com
 0.0.0.0 phabricatorfiles.cstools.fb.com
 0.0.0.0 dataforgood.fb.com
@@ -1345,6 +1359,8 @@
 0.0.0.0 www.france-dev.fb.com
 0.0.0.0 france-preprod.fb.com
 0.0.0.0 www.france-preprod.fb.com
+0.0.0.0 frc-fsoutpost.fb.com
+0.0.0.0 frc-vsp.fb.com
 0.0.0.0 free.fb.com
 0.0.0.0 fs.fb.com
 0.0.0.0 fsoutpost.fb.com
@@ -1434,6 +1450,8 @@
 0.0.0.0 live.fb.com
 0.0.0.0 www.live.fb.com
 0.0.0.0 lon-hack-2019.fb.com
+0.0.0.0 lt.fb.com
+0.0.0.0 m-audience.fb.com
 0.0.0.0 madeby.fb.com
 0.0.0.0 www.madeby.fb.com
 0.0.0.0 madebykorea.fb.com
@@ -1498,6 +1516,7 @@
 0.0.0.0 sin-opdc01.outpost.fb.com
 0.0.0.0 sin-opdc02.outpost.fb.com
 0.0.0.0 pay.fb.com
+0.0.0.0 pdocs.fb.com
 0.0.0.0 peoplepractices.fb.com
 0.0.0.0 www.peoplepractices.fb.com
 0.0.0.0 phabricator.fb.com
@@ -1505,6 +1524,7 @@
 0.0.0.0 www.philippines.fb.com
 0.0.0.0 pilipinas.fb.com
 0.0.0.0 www.pilipinas.fb.com
+0.0.0.0 pimg.fb.com
 0.0.0.0 placetips.fb.com
 0.0.0.0 pmmresourcecenter.fb.com
 0.0.0.0 pmp.fb.com
@@ -1518,13 +1538,19 @@
 0.0.0.0 portal.fb.com
 0.0.0.0 prn-adfsproxy01.fb.com
 0.0.0.0 prn-adfsproxy02.fb.com
+0.0.0.0 prn-appstoretest.fb.com
+0.0.0.0 prn-fsoutpost.fb.com
+0.0.0.0 prn-vsptest.fb.com
 0.0.0.0 przestrzen.fb.com
 0.0.0.0 www.przestrzen.fb.com
 0.0.0.0 quill.fb.com
 0.0.0.0 www.quill.fb.com
+0.0.0.0 ra.fb.com
+0.0.0.0 ralab.fb.com
 0.0.0.0 reports.fb.com
 0.0.0.0 research.fb.com
 0.0.0.0 www.research.fb.com
+0.0.0.0 review.fb.com
 0.0.0.0 rightsmanager.fb.com
 0.0.0.0 www.rightsmanager.fb.com
 0.0.0.0 rozwoj.fb.com
@@ -1551,6 +1577,7 @@
 0.0.0.0 seformer.fb.com
 0.0.0.0 www.seformer.fb.com
 0.0.0.0 sentry.fb.com
+0.0.0.0 sftp-ext.fb.com
 0.0.0.0 sg-hack-2019.fb.com
 0.0.0.0 sheleadstechin.fb.com
 0.0.0.0 shemeansbusiness.fb.com
@@ -1591,6 +1618,7 @@
 0.0.0.0 su1-usdev.fb.com
 0.0.0.0 su1-uspreprod.fb.com
 0.0.0.0 su1-usuat.fb.com
+0.0.0.0 sundance.fb.com
 0.0.0.0 supernova.fb.com
 0.0.0.0 test.supernova.fb.com
 0.0.0.0 vdi.supernova.fb.com
@@ -1625,6 +1653,7 @@
 0.0.0.0 www.sustainability.fb.com
 0.0.0.0 sustainabilitybeta.fb.com
 0.0.0.0 www.sustainabilitybeta.fb.com
+0.0.0.0 tdocs.fb.com
 0.0.0.0 tech.fb.com
 0.0.0.0 www.tech.fb.com
 0.0.0.0 techprep.fb.com
@@ -1642,6 +1671,7 @@
 0.0.0.0 thrive.fb.com
 0.0.0.0 www.thrive.fb.com
 0.0.0.0 tlv-hack-2019.fb.com
+0.0.0.0 tv.fb.com
 0.0.0.0 videoapp.fb.com
 0.0.0.0 www.videoapp.fb.com
 0.0.0.0 viewpoints.fb.com
@@ -1927,6 +1957,7 @@
 0.0.0.0 embed.fbsbx.com
 0.0.0.0 fbx.fbsbx.com
 0.0.0.0 fdn.fbsbx.com
+0.0.0.0 fkstun.fbsbx.com
 0.0.0.0 flookaside.fbsbx.com
 0.0.0.0 gradmoth.fbsbx.com
 0.0.0.0 ide.fbsbx.com
@@ -1959,6 +1990,7 @@
 0.0.0.0 u.update.fbsbx.com
 0.0.0.0 work-sdk.fbsbx.com
 0.0.0.0 www.fbsbx.com
+0.0.0.0 xlf.fbsbx.com
 0.0.0.0 xpf.fbsbx.com
 0.0.0.0 z-1-cdn.fbsbx.com
 0.0.0.0 z-1-lookaside.fbsbx.com
@@ -2083,6 +2115,7 @@
 0.0.0.0 2-edge-chat.messenger.com
 0.0.0.0 www.24im.messenger.com
 0.0.0.0 252fwww.messenger.com
+0.0.0.0 2fl.messenger.com
 0.0.0.0 2fwww.messenger.com
 0.0.0.0 3-edge-chat.messenger.com
 0.0.0.0 4-edge-chat.messenger.com
@@ -2327,6 +2360,7 @@
 0.0.0.0 grwph.fb.me
 0.0.0.0 gryaph.fb.me
 0.0.0.0 gryph.fb.me
+0.0.0.0 grzaph.fb.me
 0.0.0.0 grzph.fb.me
 0.0.0.0 gtaph.fb.me
 0.0.0.0 gtraph.fb.me
@@ -2945,6 +2979,7 @@
 0.0.0.0 instagram.fwaw3-2.fna.fbcdn.net
 0.0.0.0 instagram.fwaw6-1.fna.fbcdn.net
 0.0.0.0 scontent.fxds1-1.fna.fbcdn.net
+0.0.0.0 fyaw1-1.fna.fbcdn.net
 0.0.0.0 instagram.fybz2-2.fna.fbcdn.net
 0.0.0.0 scontent.fybz2-2.fna.fbcdn.net
 0.0.0.0 instagram.fyhu2-1.fna.fbcdn.net
@@ -3024,9 +3059,12 @@
 0.0.0.0 fna-instagram-shv-01-fdet1.fbcdn.net
 0.0.0.0 fna-instagram-shv-01-fjai2.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fhyd1.fbcdn.net
+0.0.0.0 igcdn-origincache-all.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-sjc3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-any2.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-bos3.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-del1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-gru1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sea1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sjc3.fbcdn.net
@@ -3045,6 +3083,7 @@
 0.0.0.0 interncache-odn.fbcdn.net
 0.0.0.0 interncache-pnb.fbcdn.net
 0.0.0.0 interncache-prn.fbcdn.net
+0.0.0.0 interncache-vll.fbcdn.net
 0.0.0.0 origincache-ash.fbcdn.net
 0.0.0.0 origincache-ftw.fbcdn.net
 0.0.0.0 origincache-lla.fbcdn.net
@@ -3251,6 +3290,7 @@
 0.0.0.0 z-p4-scontent.xx.fbcdn.net
 0.0.0.0 z-p4-scontent-lhr3-1.xx.fbcdn.net
 0.0.0.0 z-p4-static.xx.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-bos3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sin2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-gru2.fbcdn.net
