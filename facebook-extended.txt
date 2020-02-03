@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-01-27T03:43:56+00:00
-# Count: 3622 domains
+# Released: 2020-02-03T03:08:09+00:00
+# Count: 3626 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -646,6 +646,7 @@
 0.0.0.0 mybauli.facebook.com
 0.0.0.0 nb-no.facebook.com
 0.0.0.0 ne-np.facebook.com
+0.0.0.0 register.new.facebook.com
 0.0.0.0 newdev.facebook.com
 0.0.0.0 nl-be.facebook.com
 0.0.0.0 nl-nl.facebook.com
@@ -902,6 +903,7 @@
 0.0.0.0 staging.scgraph.facebook.com
 0.0.0.0 interngraph.staging.scgraph.facebook.com
 0.0.0.0 secure.facebook.com
+0.0.0.0 secure-media-sf2p.facebook.com
 0.0.0.0 secure-profile.facebook.com
 0.0.0.0 securitas.facebook.com
 0.0.0.0 servicenow.facebook.com
@@ -2600,6 +2602,7 @@
 0.0.0.0 sonar.fcor10-3.fna.fbcdn.net
 0.0.0.0 scontent.fcor2-2.fna.fbcdn.net
 0.0.0.0 instagram.fcpt7-1.fna.fbcdn.net
+0.0.0.0 fcrk1-1.fna.fbcdn.net
 0.0.0.0 instagram.fcul1-1.fna.fbcdn.net
 0.0.0.0 video.fcvj2-1.fna.fbcdn.net
 0.0.0.0 fdac10-1.fna.fbcdn.net
@@ -3591,6 +3594,7 @@
 0.0.0.0 media.fmaa2-1.fna.whatsapp.net
 0.0.0.0 media.fmaa2-2.fna.whatsapp.net
 0.0.0.0 fmad10-1.fna.whatsapp.net
+0.0.0.0 fmnl6-1.fna.whatsapp.net
 0.0.0.0 media.fmxp6-1.fna.whatsapp.net
 0.0.0.0 fnjf10-1.fna.whatsapp.net
 0.0.0.0 media.fnyc1-1.fna.whatsapp.net
