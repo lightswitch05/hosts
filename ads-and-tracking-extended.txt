@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-05T16:03:25+00:00
-# Count: 98551 domains
+# Released: 2020-02-06T06:01:49+00:00
+# Count: 98643 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -644,6 +644,7 @@
 0.0.0.0 game.360.cn
 0.0.0.0 data.game.360.cn
 0.0.0.0 www.data.game.360.cn
+0.0.0.0 h5.gm.game.360.cn
 0.0.0.0 service.m.game.360.cn
 0.0.0.0 gouwu.360.cn
 0.0.0.0 shangji.habo.360.cn
@@ -2593,7 +2594,9 @@
 0.0.0.0 mas.silverpush.co
 0.0.0.0 mb.silverpush.co
 0.0.0.0 mirrors.silverpush.co
+0.0.0.0 mirrorsafe.silverpush.co
 0.0.0.0 ms.silverpush.co
+0.0.0.0 msafe.silverpush.co
 0.0.0.0 p.silverpush.co
 0.0.0.0 www.p.silverpush.co
 0.0.0.0 pa.silverpush.co
@@ -2628,6 +2631,7 @@
 0.0.0.0 logger.snackly.co
 0.0.0.0 prod.snackly.co
 0.0.0.0 geo-chk.prod.snackly.co
+0.0.0.0 sensu.snackly.co
 0.0.0.0 snippet.snackly.co
 0.0.0.0 qa1.snippet.snackly.co
 0.0.0.0 staging-counter.snackly.co
@@ -3424,6 +3428,8 @@
 0.0.0.0 chat.zxkf.163.com
 0.0.0.0 247realmedia.com
 0.0.0.0 247connect.247realmedia.com
+0.0.0.0 accuweathercollect.247realmedia.com
+0.0.0.0 advs.247realmedia.com
 0.0.0.0 asa01-ashbur03.247realmedia.com
 0.0.0.0 bifrost-ash.247realmedia.com
 0.0.0.0 bifrost-lon.247realmedia.com
@@ -3455,6 +3461,7 @@
 0.0.0.0 imagen03.247realmedia.com
 0.0.0.0 imagen04.247realmedia.com
 0.0.0.0 imagenen1.247realmedia.com
+0.0.0.0 insightxe.247realmedia.com
 0.0.0.0 library.247realmedia.com
 0.0.0.0 mfr.247realmedia.com
 0.0.0.0 network-ca.247realmedia.com
@@ -3643,6 +3650,7 @@
 0.0.0.0 openadstream18.247realmedia.com
 0.0.0.0 openadstream8.247realmedia.com
 0.0.0.0 openadstream9.247realmedia.com
+0.0.0.0 uat.prosvs.247realmedia.com
 0.0.0.0 us-p2.prosvs.247realmedia.com
 0.0.0.0 responsecollector.247realmedia.com
 0.0.0.0 services.247realmedia.com
@@ -4734,6 +4742,7 @@
 0.0.0.0 altrcmtst.acxiom.com
 0.0.0.0 altrcogprd01.acxiom.com
 0.0.0.0 altrcogtst01.acxiom.com
+0.0.0.0 altrewebprd.acxiom.com
 0.0.0.0 altrwebprd.acxiom.com
 0.0.0.0 altrwebtst.acxiom.com
 0.0.0.0 altrxccsappprd.acxiom.com
@@ -5703,6 +5712,7 @@
 0.0.0.0 pool.adhsm.adhese.com
 0.0.0.0 ads-4entertainment.adhese.com
 0.0.0.0 ads-adsomenoise.adhese.com
+0.0.0.0 ads-bol.adhese.com
 0.0.0.0 ads-businessinsider.adhese.com
 0.0.0.0 ads-cadreon.adhese.com
 0.0.0.0 ads-collishop.adhese.com
@@ -8327,6 +8337,7 @@
 0.0.0.0 app.adroll.com
 0.0.0.0 assets1.adroll.com
 0.0.0.0 bi.adroll.com
+0.0.0.0 brandmatch.adroll.com
 0.0.0.0 bsw-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 bsw-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 bsw-winners-eu-west-1-rtb.adroll.com
@@ -11523,6 +11534,7 @@
 0.0.0.0 aax-opf-us-east.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-east-dtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-us-east-test.amazon-adsystem.com
@@ -12057,6 +12069,7 @@
 0.0.0.0 singtelprod.amobee.com
 0.0.0.0 sng-mx.amobee.com
 0.0.0.0 sngmonitor01.amobee.com
+0.0.0.0 social.amobee.com
 0.0.0.0 ssomgr-api.amobee.com
 0.0.0.0 static.amobee.com
 0.0.0.0 telkomselprod.amobee.com
@@ -12357,6 +12370,7 @@
 0.0.0.0 events-go.apester.com
 0.0.0.0 faststrip.apester.com
 0.0.0.0 flags.apester.com
+0.0.0.0 flags2.apester.com
 0.0.0.0 gcp-analytics.apester.com
 0.0.0.0 gcp-events.apester.com
 0.0.0.0 geoip.apester.com
@@ -12566,6 +12580,7 @@
 0.0.0.0 www.ocum.corp.appdynamics.com
 0.0.0.0 vcenter.corp.appdynamics.com
 0.0.0.0 dev.demo.appdynamics.com
+0.0.0.0 rp.demo.appdynamics.com
 0.0.0.0 staging.demo.appdynamics.com
 0.0.0.0 demo1.appdynamics.com
 0.0.0.0 demo2.appdynamics.com
@@ -13753,6 +13768,7 @@
 0.0.0.0 dc01.automatad.com
 0.0.0.0 geo.automatad.com
 0.0.0.0 go.automatad.com
+0.0.0.0 go2.automatad.com
 0.0.0.0 hub.automatad.com
 0.0.0.0 lite.automatad.com
 0.0.0.0 nivid.automatad.com
@@ -15811,6 +15827,16 @@
 0.0.0.0 grafana.k8s.cluster-001.p-aze-us.braze.com
 0.0.0.0 kubecost.k8s.cluster-001.p-aze-us.braze.com
 0.0.0.0 prometheus.k8s.cluster-001.p-aze-us.braze.com
+0.0.0.0 apns.k8.region-001.p-aze-us.braze.com
+0.0.0.0 alertmanager.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 android.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 apns.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 grafana.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 kubecost.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 prometheus.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 webhook.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 webpush.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 android.k8s.test-001.p-aze-us.braze.com
 0.0.0.0 webpush.k8s.region-001.p-euc-1.braze.com
 0.0.0.0 k8s.cluster-001.p-use-1.braze.com
 0.0.0.0 alertmanager.k8s.cluster-001.p-use-1.braze.com
@@ -15866,6 +15892,7 @@
 0.0.0.0 grafana.k8s.region-001.s-use-1.braze.com
 0.0.0.0 kubecost.k8s.region-001.s-use-1.braze.com
 0.0.0.0 prometheus.k8s.region-001.s-use-1.braze.com
+0.0.0.0 tenant.k8s.region-001.s-use-1.braze.com
 0.0.0.0 vm.k8s.region-001.s-use-1.braze.com
 0.0.0.0 webhook.k8s.region-001.s-use-1.braze.com
 0.0.0.0 webpush.k8s.region-001.s-use-1.braze.com
@@ -23262,6 +23289,8 @@
 0.0.0.0 spoc-pool-gtm.norton.comads.creative-serving.com
 0.0.0.0 digitrust.creative-serving.com
 0.0.0.0 ds.creative-serving.com
+0.0.0.0 pb.creative-serving.com
+0.0.0.0 pbjs.creative-serving.com
 0.0.0.0 pool-eu.creative-serving.com
 0.0.0.0 pool-eu-ie.creative-serving.com
 0.0.0.0 pool-use.creative-serving.com
@@ -25789,6 +25818,7 @@
 0.0.0.0 gmstorage.elfsight.com
 0.0.0.0 localization.elfsight.com
 0.0.0.0 stage.mail.elfsight.com
+0.0.0.0 platform.elfsight.com
 0.0.0.0 pstorage.elfsight.com
 0.0.0.0 reviews.elfsight.com
 0.0.0.0 reviews.service.elfsight.com
@@ -26723,6 +26753,7 @@
 0.0.0.0 akamai-san76.exacttarget.com
 0.0.0.0 akamai-san77.exacttarget.com
 0.0.0.0 akamai-san78.exacttarget.com
+0.0.0.0 akamai-san79.exacttarget.com
 0.0.0.0 akamai-san8.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
@@ -27104,12 +27135,21 @@
 0.0.0.0 pages.s1.qa3.exacttarget.com
 0.0.0.0 s2.qa3.exacttarget.com
 0.0.0.0 auth.s2.qa3.exacttarget.com
+0.0.0.0 click-sms.s2.qa3.exacttarget.com
 0.0.0.0 image.s2.qa3.exacttarget.com
 0.0.0.0 imh.s2.qa3.exacttarget.com
 0.0.0.0 mc.s2.qa3.exacttarget.com
 0.0.0.0 members.s2.qa3.exacttarget.com
 0.0.0.0 origin-auth.s2.qa3.exacttarget.com
+0.0.0.0 origin-mc.s2.qa3.exacttarget.com
+0.0.0.0 origin-members.s2.qa3.exacttarget.com
+0.0.0.0 pages.s2.qa3.exacttarget.com
+0.0.0.0 pub.s2.qa3.exacttarget.com
+0.0.0.0 rest.s2.qa3.exacttarget.com
+0.0.0.0 restapi.s2.qa3.exacttarget.com
 0.0.0.0 scpweb.s2.qa3.exacttarget.com
+0.0.0.0 view.s2.qa3.exacttarget.com
+0.0.0.0 webservice.s2.qa3.exacttarget.com
 0.0.0.0 s1.qa5.exacttarget.com
 0.0.0.0 auth.s1.qa5.exacttarget.com
 0.0.0.0 mc.s1.qa5.exacttarget.com
@@ -27966,6 +28006,7 @@
 0.0.0.0 pdfsimpli.firstpromoter.com
 0.0.0.0 rawshorts.firstpromoter.com
 0.0.0.0 scraperapi.firstpromoter.com
+0.0.0.0 set.firstpromoter.com
 0.0.0.0 www.smatbot.firstpromoter.com
 0.0.0.0 t.firstpromoter.com
 0.0.0.0 test66.firstpromoter.com
@@ -31178,6 +31219,7 @@
 0.0.0.0 lb03-au.imrworldwide.com
 0.0.0.0 lb04-au.imrworldwide.com
 0.0.0.0 lb1-jp.imrworldwide.com
+0.0.0.0 me.imrworldwide.com
 0.0.0.0 mixrch-chn.imrworldwide.com
 0.0.0.0 ncp.imrworldwide.com
 0.0.0.0 s.ncp.imrworldwide.com
@@ -34615,6 +34657,8 @@
 0.0.0.0 segmentation-zeppelin.isau.prod.leanplum.com
 0.0.0.0 segmentation-zeppelin-admin.isau.prod.leanplum.com
 0.0.0.0 segmentation-zeppelin-jobs.isau.prod.leanplum.com
+0.0.0.0 grafana.isau-east.prod.leanplum.com
+0.0.0.0 prometheus.isau-east.prod.leanplum.com
 0.0.0.0 jaeger-ui.prod.leanplum.com
 0.0.0.0 legacy-prometheus.prod.leanplum.com
 0.0.0.0 argus.prod-1.prod.leanplum.com
@@ -36758,6 +36802,7 @@
 0.0.0.0 www.wss.marketingg2.com
 0.0.0.0 www.marketingg2.com
 0.0.0.0 marketo.com
+0.0.0.0 ab-mma-control.marketo.com
 0.0.0.0 ab-nat-2.marketo.com
 0.0.0.0 abrca01.marketo.com
 0.0.0.0 abrca02.marketo.com
@@ -36971,6 +37016,7 @@
 0.0.0.0 learnadmin.marketo.com
 0.0.0.0 legal.marketo.com
 0.0.0.0 library.marketo.com
+0.0.0.0 lon-mma-control.marketo.com
 0.0.0.0 lonrca02.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 lonrtp1-cdn.marketo.com
@@ -37119,6 +37165,7 @@
 0.0.0.0 nation.marketo.com
 0.0.0.0 app-www.nation.marketo.com
 0.0.0.0 www.nation.marketo.com
+0.0.0.0 nld1-mma-control.marketo.com
 0.0.0.0 ns1.marketo.com
 0.0.0.0 origin-abrtp2-cdn.marketo.com
 0.0.0.0 pages2.marketo.com
@@ -37140,6 +37187,10 @@
 0.0.0.0 s4stage.marketo.com
 0.0.0.0 sales.marketo.com
 0.0.0.0 siteanalytics.marketo.com
+0.0.0.0 sj-mma-control.marketo.com
+0.0.0.0 sjint-mma-control.marketo.com
+0.0.0.0 sjpt-mma-control.marketo.com
+0.0.0.0 sjqe-mma-control.marketo.com
 0.0.0.0 sjrca03.marketo.com
 0.0.0.0 sjrca05.marketo.com
 0.0.0.0 sjrca06.marketo.com
@@ -37162,9 +37213,11 @@
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjscreencap.marketo.com
+0.0.0.0 sjst-mma-control.marketo.com
 0.0.0.0 skynet.marketo.com
 0.0.0.0 smvpn.marketo.com
 0.0.0.0 www.smvpn.marketo.com
+0.0.0.0 sn-mma-control.marketo.com
 0.0.0.0 snrca01.marketo.com
 0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 snrtp1.marketo.com
@@ -37600,6 +37653,8 @@
 0.0.0.0 production.ewr-2.mathmon.mediamath.com
 0.0.0.0 canary.hkg-1.mathmon.mediamath.com
 0.0.0.0 production.hkg-1.mathmon.mediamath.com
+0.0.0.0 canary.iad-1.mathmon.mediamath.com
+0.0.0.0 production.iad-1.mathmon.mediamath.com
 0.0.0.0 canary.nrt-1.mathmon.mediamath.com
 0.0.0.0 production.nrt-1.mathmon.mediamath.com
 0.0.0.0 canary.ord-1.mathmon.mediamath.com
@@ -38683,6 +38738,7 @@
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 prod.fe.telemetry.microsoft.com
 0.0.0.0 kmwatsonc.telemetry.microsoft.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 watson.ppe.telemetry.microsoft.com
@@ -41612,6 +41668,8 @@
 0.0.0.0 www.app.mparticle.com
 0.0.0.0 api.gk.au0.mparticle.com
 0.0.0.0 api-internal.gk.au0.mparticle.com
+0.0.0.0 api.gk.au1.mparticle.com
+0.0.0.0 api-internal.gk.au1.mparticle.com
 0.0.0.0 api.gk.au1ops.mparticle.com
 0.0.0.0 api-internal.gk.au1ops.mparticle.com
 0.0.0.0 auth.mparticle.com
@@ -44898,6 +44956,7 @@
 0.0.0.0 app-cdn.optimizely.com
 0.0.0.0 changehistory.appbe.optimizely.com
 0.0.0.0 changehistory-dev.appbe.optimizely.com
+0.0.0.0 changehistory-dev-del.appbe.optimizely.com
 0.0.0.0 changehistory-dev-fd.appbe.optimizely.com
 0.0.0.0 changehistory-dev-fd2.appbe.optimizely.com
 0.0.0.0 changehistory-dev-jstest.appbe.optimizely.com
@@ -51016,6 +51075,7 @@
 0.0.0.0 www.call-intelligence.responsetap.com
 0.0.0.0 call-tracking.responsetap.com
 0.0.0.0 www.call-tracking.responsetap.com
+0.0.0.0 calltracking.responsetap.com
 0.0.0.0 connect.responsetap.com
 0.0.0.0 dev-sso.responsetap.com
 0.0.0.0 hello.responsetap.com
@@ -51511,6 +51571,7 @@
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 digdug.logs.roku.com
 0.0.0.0 digdug-g2.logs.roku.com
+0.0.0.0 esp.logs.roku.com
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 gilbert.logs.roku.com
 0.0.0.0 griffin.logs.roku.com
@@ -53268,6 +53329,7 @@
 0.0.0.0 sca.demo.signifyd.com
 0.0.0.0 dev.signifyd.com
 0.0.0.0 www.dev.signifyd.com
+0.0.0.0 flowforward.signifyd.com
 0.0.0.0 go.signifyd.com
 0.0.0.0 i.signifyd.com
 0.0.0.0 imgs.signifyd.com
@@ -54119,6 +54181,7 @@
 0.0.0.0 ap-southeast-1.smadex.com
 0.0.0.0 www.ap-southeast-1.smadex.com
 0.0.0.0 cm.smadex.com
+0.0.0.0 content.smadex.com
 0.0.0.0 creative.smadex.com
 0.0.0.0 creatives.smadex.com
 0.0.0.0 www.creatives.smadex.com
@@ -54737,6 +54800,7 @@
 0.0.0.0 france.sojern.com
 0.0.0.0 global-pixel.sojern.com
 0.0.0.0 global-pixels.sojern.com
+0.0.0.0 hub.sojern.com
 0.0.0.0 impressions.sojern.com
 0.0.0.0 m.sojern.com
 0.0.0.0 marketing.sojern.com
@@ -59979,9 +60043,12 @@
 0.0.0.0 reporting.viewdeos.com
 0.0.0.0 rtb.viewdeos.com
 0.0.0.0 sync.viewdeos.com
+0.0.0.0 ghb.sync.viewdeos.com
 0.0.0.0 hb.sync.viewdeos.com
 0.0.0.0 484075.ortb.sync.viewdeos.com
+0.0.0.0 player.sync.viewdeos.com
 0.0.0.0 s.sync.viewdeos.com
+0.0.0.0 static.sync.viewdeos.com
 0.0.0.0 sync.sync.viewdeos.com
 0.0.0.0 tags.viewdeos.com
 0.0.0.0 track.viewdeos.com
@@ -60506,6 +60573,7 @@
 0.0.0.0 mnnip.vrvm.com
 0.0.0.0 mnnipad.vrvm.com
 0.0.0.0 mnnwp7.vrvm.com
+0.0.0.0 mobileposs.vrvm.com
 0.0.0.0 motorss.vrvm.com
 0.0.0.0 msun.vrvm.com
 0.0.0.0 mwstatic.vrvm.com
@@ -60522,6 +60590,7 @@
 0.0.0.0 tags.vrvm.com
 0.0.0.0 tags-prod.vrvm.com
 0.0.0.0 video-tags-prod.vrvm.com
+0.0.0.0 video-tags-staging.vrvm.com
 0.0.0.0 vls.vrvm.com
 0.0.0.0 vw.vrvm.com
 0.0.0.0 wcf.vrvm.com
@@ -60768,6 +60837,7 @@
 0.0.0.0 us-east1.bigsea.weborama.com
 0.0.0.0 vpn-us-west-1.prod.bigsea-america.weborama.com
 0.0.0.0 bigsea-sandbox.weborama.com
+0.0.0.0 palace.bigsea-sandbox.weborama.com
 0.0.0.0 www.bigsea-sandbox.weborama.com
 0.0.0.0 chatear.weborama.com
 0.0.0.0 client.weborama.com
@@ -61529,6 +61599,7 @@
 0.0.0.0 sk1-staging-6.wzrkt.com
 0.0.0.0 sk1-staging-7.wzrkt.com
 0.0.0.0 sk1-staging-8.wzrkt.com
+0.0.0.0 sk1-staging-9.wzrkt.com
 0.0.0.0 www.wzrkt.com
 0.0.0.0 xad.com
 0.0.0.0 2014.xad.com
@@ -64664,6 +64735,8 @@
 0.0.0.0 bidder2.tradelab.fr
 0.0.0.0 cdn.tradelab.fr
 0.0.0.0 cuba.tradelab.fr
+0.0.0.0 batch.datamechanics.tradelab.fr
+0.0.0.0 notebooks.datamechanics.tradelab.fr
 0.0.0.0 dco.tradelab.fr
 0.0.0.0 its.infra.dev.tradelab.fr
 0.0.0.0 dev-crealab.tradelab.fr
@@ -66862,6 +66935,8 @@
 0.0.0.0 the-gap-partnership.hullapp.io
 0.0.0.0 universalpictures.hullapp.io
 0.0.0.0 vaadin-sandbox.hullapp.io
+0.0.0.0 web.hullapp.io
+0.0.0.0 website.hullapp.io
 0.0.0.0 instana.io
 0.0.0.0 ada01-nssolrss.instana.io
 0.0.0.0 aiins-docomo.instana.io
@@ -68623,6 +68698,7 @@
 0.0.0.0 stg-daikoku.ebis.ne.jp
 0.0.0.0 doc.support.ebis.ne.jp
 0.0.0.0 img.support.ebis.ne.jp
+0.0.0.0 info.support.ebis.ne.jp
 0.0.0.0 sync.ebis.ne.jp
 0.0.0.0 taj1.ebis.ne.jp
 0.0.0.0 taj2.ebis.ne.jp
@@ -74056,6 +74132,7 @@
 0.0.0.0 rtr.adsfactor.net
 0.0.0.0 rtr-dsp.adsfactor.net
 0.0.0.0 servedby.adsfactor.net
+0.0.0.0 ticket.adsfactor.net
 0.0.0.0 tugela.adsfactor.net
 0.0.0.0 v.adsfactor.net
 0.0.0.0 www.adsfactor.net
@@ -83595,6 +83672,7 @@
 0.0.0.0 infallible-wilbur.cell.us.nr-data.net
 0.0.0.0 infallible-wing.cell.us.nr-data.net
 0.0.0.0 ingest-sandbox.cell.us.nr-data.net
+0.0.0.0 jolly-greider.cell.us.nr-data.net
 0.0.0.0 keen-saha.cell.us.nr-data.net
 0.0.0.0 keen-stallman.cell.us.nr-data.net
 0.0.0.0 maas-dev.cell.us.nr-data.net
@@ -91904,6 +91982,10 @@
 0.0.0.0 ismtpd0128p1mdw1.sendgrid.net
 0.0.0.0 ismtpd0129p1mdw1.sendgrid.net
 0.0.0.0 ismtpd0130p1mdw1.sendgrid.net
+0.0.0.0 alertmanager-antiabuse-production-iad2.k8s.sendgrid.net
+0.0.0.0 alertmanager-antiabuse-production-las1.k8s.sendgrid.net
+0.0.0.0 alertmanager-antiabuse-production-mdw1.k8s.sendgrid.net
+0.0.0.0 alertmanager-antiabuse-staging-mdw1.k8s.sendgrid.net
 0.0.0.0 alertmanager-delivery-mdw1.k8s.sendgrid.net
 0.0.0.0 alertmanager-delivery-production-iad2.k8s.sendgrid.net
 0.0.0.0 alertmanager-delivery-production-las1.k8s.sendgrid.net
@@ -91982,6 +92064,10 @@
 0.0.0.0 go-servernameapi-p1mdw1.k8s.sendgrid.net
 0.0.0.0 go-servernameapi-stage.k8s.sendgrid.net
 0.0.0.0 godoc.k8s.sendgrid.net
+0.0.0.0 grafana-antiabuse-production-iad2.k8s.sendgrid.net
+0.0.0.0 grafana-antiabuse-production-las1.k8s.sendgrid.net
+0.0.0.0 grafana-antiabuse-production-mdw1.k8s.sendgrid.net
+0.0.0.0 grafana-antiabuse-staging-mdw1.k8s.sendgrid.net
 0.0.0.0 grafana-production-iad2.k8s.sendgrid.net
 0.0.0.0 grafana-production-las1.k8s.sendgrid.net
 0.0.0.0 grafana-production-mdw1.k8s.sendgrid.net
@@ -92025,6 +92111,9 @@
 0.0.0.0 chaos-mdw1.staging.k8s.sendgrid.net
 0.0.0.0 chronicle.staging.k8s.sendgrid.net
 0.0.0.0 progenitor.staging.k8s.sendgrid.net
+0.0.0.0 alertmanager.antiabuse.staging-mdw1.k8s.sendgrid.net
+0.0.0.0 grafana.antiabuse.staging-mdw1.k8s.sendgrid.net
+0.0.0.0 kube-testapp-pull.autobots.staging-mdw1.k8s.sendgrid.net
 0.0.0.0 sysdig.k8s.sendgrid.net
 0.0.0.0 alertmanager.testing-mdw1.k8s.sendgrid.net
 0.0.0.0 grafana.testing-mdw1.k8s.sendgrid.net
@@ -92054,6 +92143,7 @@
 0.0.0.0 flarg.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net
 0.0.0.0 helmtestapp.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net
 0.0.0.0 kube-testapp.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net
+0.0.0.0 podinfo.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net
 0.0.0.0 prometheus.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net
 0.0.0.0 grafana.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net
@@ -92177,6 +92267,7 @@
 0.0.0.0 ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 alertmanager.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 api.ei-dev-a.us-east-2.k8s.sendgrid.net
+0.0.0.0 kube-testapp.autobots.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 grafana.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 prometheus.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net
@@ -97845,6 +97936,7 @@
 0.0.0.0 api.spotx.tv
 0.0.0.0 app.spotx.tv
 0.0.0.0 atv.spotx.tv
+0.0.0.0 clientservices.spotx.tv
 0.0.0.0 email.spotx.tv
 0.0.0.0 events.spotx.tv
 0.0.0.0 info.spotx.tv
