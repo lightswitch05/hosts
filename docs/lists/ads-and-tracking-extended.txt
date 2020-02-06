@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-06T06:01:49+00:00
-# Count: 98643 domains
+# Released: 2020-02-06T16:48:14+00:00
+# Count: 98681 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -23095,6 +23095,16 @@
 0.0.0.0 twci.coremetrics.com
 0.0.0.0 udata.coremetrics.com
 0.0.0.0 www.coremetrics.com
+0.0.0.0 cospot.com
+0.0.0.0 analytics.cospot.com
+0.0.0.0 app.cospot.com
+0.0.0.0 dev-pm.cospot.com
+0.0.0.0 easyleadbox.cospot.com
+0.0.0.0 internal-pm.cospot.com
+0.0.0.0 pm.cospot.com
+0.0.0.0 qa-pm.cospot.com
+0.0.0.0 v2.cospot.com
+0.0.0.0 www.cospot.com
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 www.smetrics.couponcabin.com
 0.0.0.0 marketing.coveo.com
@@ -41447,6 +41457,25 @@
 0.0.0.0 link.test.monetizer101.com
 0.0.0.0 testapi.monetizer101.com
 0.0.0.0 www.monetizer101.com
+0.0.0.0 monumetric.com
+0.0.0.0 account.monumetric.com
+0.0.0.0 accounts.monumetric.com
+0.0.0.0 app.monumetric.com
+0.0.0.0 console-3.monumetric.com
+0.0.0.0 console-3-staging.monumetric.com
+0.0.0.0 console-4.monumetric.com
+0.0.0.0 console-4-staging.monumetric.com
+0.0.0.0 console-staging.monumetric.com
+0.0.0.0 crm.monumetric.com
+0.0.0.0 hello.monumetric.com
+0.0.0.0 link.monumetric.com
+0.0.0.0 reports.monumetric.com
+0.0.0.0 services-tags.monumetric.com
+0.0.0.0 services-tags-dev.monumetric.com
+0.0.0.0 staging.monumetric.com
+0.0.0.0 tags.monumetric.com
+0.0.0.0 tasks.monumetric.com
+0.0.0.0 www.monumetric.com
 0.0.0.0 mookie1.com
 0.0.0.0 247access.mookie1.com
 0.0.0.0 ae-gmtdmp.mookie1.com
@@ -64244,6 +64273,15 @@
 0.0.0.0 ui.zanox-affiliate.de
 0.0.0.0 ui2.zanox-affiliate.de
 0.0.0.0 www.zanox-affiliate.de
+0.0.0.0 monu.delivery
+0.0.0.0 dev.monu.delivery
+0.0.0.0 imps.monu.delivery
+0.0.0.0 dev.imps.monu.delivery
+0.0.0.0 ip.monu.delivery
+0.0.0.0 ipeu.monu.delivery
+0.0.0.0 ipwatch.monu.delivery
+0.0.0.0 video.monu.delivery
+0.0.0.0 dev.video.monu.delivery
 0.0.0.0 trace.onb.workers.dev
 0.0.0.0 ad4mat.dk
 0.0.0.0 www.ad4mat.dk

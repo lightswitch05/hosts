@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-05T16:03:24+00:00
-# Count: 7630 domains
+# Released: 2020-02-06T16:48:14+00:00
+# Count: 7638 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1718,6 +1718,8 @@
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 coremetrics.com
 0.0.0.0 libs.coremetrics.com
+0.0.0.0 cospot.com
+0.0.0.0 easyleadbox.cospot.com
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 marketing.coveo.com
 0.0.0.0 ua2.coveo.com
@@ -3373,6 +3375,8 @@
 0.0.0.0 monetize-me.com
 0.0.0.0 monetizer101.com
 0.0.0.0 api.monetizer101.com
+0.0.0.0 monumetric.com
+0.0.0.0 www.monumetric.com
 0.0.0.0 mookie1.com
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 odr.mookie1.com
@@ -5380,6 +5384,10 @@
 0.0.0.0 xreco.xplosion.de
 0.0.0.0 xups.xplosion.de
 0.0.0.0 zanox-affiliate.de
+0.0.0.0 monu.delivery
+0.0.0.0 imps.monu.delivery
+0.0.0.0 ip.monu.delivery
+0.0.0.0 video.monu.delivery
 0.0.0.0 trace.onb.workers.dev
 0.0.0.0 ad4mat.dk
 0.0.0.0 spartoo.dk
