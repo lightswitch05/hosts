@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-06T16:48:14+00:00
-# Count: 7638 domains
+# Released: 2020-02-07T13:09:46+00:00
+# Count: 7644 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -937,7 +937,9 @@
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 airfind.com
+0.0.0.0 api.airfind.com
 0.0.0.0 cdn.airfind.com
+0.0.0.0 geo.airfind.com
 0.0.0.0 tc.airfrance.com
 0.0.0.0 airpr.com
 0.0.0.0 px.airpr.com
@@ -4652,6 +4654,7 @@
 0.0.0.0 analytics.thebump.com
 0.0.0.0 geoip.thedailymeal.com
 0.0.0.0 metrics.thepointsguy.com
+0.0.0.0 smetrics.theweathernetwork.com
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 eu.thinkingchat.com
@@ -6541,6 +6544,7 @@
 0.0.0.0 gdms.evyy.net
 0.0.0.0 mcafee-consumer-affiliate.evyy.net
 0.0.0.0 exct.net
+0.0.0.0 image.exct.net
 0.0.0.0 cl.s6.exct.net
 0.0.0.0 ezoic.net
 0.0.0.0 g.ezoic.net
@@ -6794,6 +6798,7 @@
 0.0.0.0 intel.tt.omtrdc.net
 0.0.0.0 kohls.tt.omtrdc.net
 0.0.0.0 kroger.tt.omtrdc.net
+0.0.0.0 ldschurch.tt.omtrdc.net
 0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 mattel.tt.omtrdc.net
 0.0.0.0 mboxedge.tt.omtrdc.net
@@ -7225,6 +7230,7 @@
 0.0.0.0 ads.filezilla-project.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
+0.0.0.0 abn.ldschurch.org
 0.0.0.0 outbrain.org
 0.0.0.0 alldcs.outbrain.org
 0.0.0.0 engage.physicstoday.org
