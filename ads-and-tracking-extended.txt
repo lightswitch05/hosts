@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-12T15:56:39+00:00
-# Count: 98803 domains
+# Released: 2020-02-12T16:11:07+00:00
+# Count: 98874 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -43545,6 +43545,10 @@
 0.0.0.0 t.ninjapd.com
 0.0.0.0 u.ninjapd.com
 0.0.0.0 neso.r.niwepa.com
+0.0.0.0 nmgassets.com
+0.0.0.0 azdi.nmgassets.com
+0.0.0.0 di.nmgassets.com
+0.0.0.0 icons.nmgassets.com
 0.0.0.0 nowspots.com
 0.0.0.0 cookies.nowspots.com
 0.0.0.0 files.nowspots.com
@@ -47317,6 +47321,59 @@
 0.0.0.0 www.postrelease.com
 0.0.0.0 smetrics.potterybarnkids.com
 0.0.0.0 mkto-pages.power.com
+0.0.0.0 powerbi.com
+0.0.0.0 advocatehealth.admin.powerbi.com
+0.0.0.0 ambilab.admin.powerbi.com
+0.0.0.0 evolusyssa.admin.powerbi.com
+0.0.0.0 gabi.admin.powerbi.com
+0.0.0.0 mannai.admin.powerbi.com
+0.0.0.0 mymarius.admin.powerbi.com
+0.0.0.0 qfitdep.admin.powerbi.com
+0.0.0.0 racfreedom.admin.powerbi.com
+0.0.0.0 sramlab.admin.powerbi.com
+0.0.0.0 volvocarpowerbi.admin.powerbi.com
+0.0.0.0 api.powerbi.com
+0.0.0.0 app.powerbi.com
+0.0.0.0 appgallery.powerbi.com
+0.0.0.0 prod.cdn.powerbi.com
+0.0.0.0 community-staging.powerbi.com
+0.0.0.0 customers.powerbi.com
+0.0.0.0 data.powerbi.com
+0.0.0.0 adisseo.data.powerbi.com
+0.0.0.0 ambilab.data.powerbi.com
+0.0.0.0 avl.data.powerbi.com
+0.0.0.0 bfl.data.powerbi.com
+0.0.0.0 evolusyssa.data.powerbi.com
+0.0.0.0 qfitdep.data.powerbi.com
+0.0.0.0 racfreedom.data.powerbi.com
+0.0.0.0 vfc.data.powerbi.com
+0.0.0.0 zamilindustrial.data.powerbi.com
+0.0.0.0 design.powerbi.com
+0.0.0.0 dev.powerbi.com
+0.0.0.0 dxt.powerbi.com
+0.0.0.0 dxt-teams.powerbi.com
+0.0.0.0 dxtapi.powerbi.com
+0.0.0.0 dxtcurrent.powerbi.com
+0.0.0.0 dxtcurrentbackup.powerbi.com
+0.0.0.0 dxtembed.powerbi.com
+0.0.0.0 dxtnext.powerbi.com
+0.0.0.0 dxtprevious.powerbi.com
+0.0.0.0 embed.powerbi.com
+0.0.0.0 embedded.powerbi.com
+0.0.0.0 racfreedom.hybridproxy.powerbi.com
+0.0.0.0 ideas.powerbi.com
+0.0.0.0 info.powerbi.com
+0.0.0.0 issues.powerbi.com
+0.0.0.0 mobile.powerbi.com
+0.0.0.0 msit.powerbi.com
+0.0.0.0 msitembed.powerbi.com
+0.0.0.0 oauth.powerbi.com
+0.0.0.0 preview.powerbi.com
+0.0.0.0 previewstaging.powerbi.com
+0.0.0.0 sites.powerbi.com
+0.0.0.0 solutions.powerbi.com
+0.0.0.0 visuals.powerbi.com
+0.0.0.0 www.powerbi.com
 0.0.0.0 px.powerlinks.com
 0.0.0.0 pluto.r.powuta.com
 0.0.0.0 prantikv.com
@@ -67685,6 +67742,20 @@
 0.0.0.0 36.opticalanalytics.io
 0.0.0.0 scripts.opticalanalytics.io
 0.0.0.0 service.opticalanalytics.io
+0.0.0.0 oracleinfinity.io
+0.0.0.0 api.oracleinfinity.io
+0.0.0.0 c.oracleinfinity.io
+0.0.0.0 g.corp.oracleinfinity.io
+0.0.0.0 dc.oracleinfinity.io
+0.0.0.0 api.eu1.oracleinfinity.io
+0.0.0.0 get.idc.eu1.oracleinfinity.io
+0.0.0.0 c.iad.oracleinfinity.io
+0.0.0.0 idc.oracleinfinity.io
+0.0.0.0 api.pp.oracleinfinity.io
+0.0.0.0 c.pp.oracleinfinity.io
+0.0.0.0 dc.pp.oracleinfinity.io
+0.0.0.0 idc.pp.oracleinfinity.io
+0.0.0.0 tableau.oracleinfinity.io
 0.0.0.0 oribi.io
 0.0.0.0 app.oribi.io
 0.0.0.0 www.app.oribi.io
