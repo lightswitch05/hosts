@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-11T18:23:21+00:00
-# Count: 7647 domains
+# Released: 2020-02-12T13:35:10+00:00
+# Count: 7650 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2243,6 +2243,7 @@
 0.0.0.0 stat.flashget.com
 0.0.0.0 supertracker.flashget.com
 0.0.0.0 flashtalking.com
+0.0.0.0 servedby.flashtalking.com
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 flittz.com
 0.0.0.0 flurry.com
@@ -4114,6 +4115,8 @@
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 servedbyopenx.com
+0.0.0.0 servenobid.com
+0.0.0.0 ads.servenobid.com
 0.0.0.0 server-corporation.com
 0.0.0.0 network.server-corporation.com
 0.0.0.0 serverbid.com
