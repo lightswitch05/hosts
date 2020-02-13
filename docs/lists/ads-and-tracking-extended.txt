@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-13T14:06:49+00:00
-# Count: 99067 domains
+# Released: 2020-02-13T15:29:48+00:00
+# Count: 99073 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -30510,6 +30510,9 @@
 0.0.0.0 test-delivery.hiconversion.com
 0.0.0.0 update.hiconversion.com
 0.0.0.0 www.hiconversion.com
+0.0.0.0 hiss3lark.com
+0.0.0.0 secure.hiss3lark.com
+0.0.0.0 www.hiss3lark.com
 0.0.0.0 hlserve.com
 0.0.0.0 b.hlserve.com
 0.0.0.0 b-uat.hlserve.com
@@ -30889,6 +30892,7 @@
 0.0.0.0 tw.igaworks.com
 0.0.0.0 worker.igaworks.com
 0.0.0.0 www.igaworks.com
+0.0.0.0 iprecon.iglobalstores.com
 0.0.0.0 audiences.ignitionone.com
 0.0.0.0 audiences-eu.ignitionone.com
 0.0.0.0 igodigital.com
@@ -63693,6 +63697,7 @@
 0.0.0.0 www-lhr1.zenaps.com
 0.0.0.0 www-new.zenaps.com
 0.0.0.0 www1.zenaps.com
+0.0.0.0 rollbar-us.zendesk.com
 0.0.0.0 zentrick.com
 0.0.0.0 ab.zentrick.com
 0.0.0.0 api.zentrick.com
@@ -83979,6 +83984,7 @@
 0.0.0.0 rtb.pre.nextperf.net
 0.0.0.0 ps3.nextperf.net
 0.0.0.0 www.nextperf.net
+0.0.0.0 ae.nflximg.net
 0.0.0.0 speed.nocookie.net
 0.0.0.0 ads.wikia.nocookie.net
 0.0.0.0 nonstoppartner.net
