@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-12T16:11:07+00:00
-# Count: 7657 domains
+# Released: 2020-02-13T13:58:50+00:00
+# Count: 7686 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -210,6 +210,9 @@
 0.0.0.0 feathr.co
 0.0.0.0 cdn.feathr.co
 0.0.0.0 fw4.co
+0.0.0.0 idio.co
+0.0.0.0 a.idio.co
+0.0.0.0 s.idio.co
 0.0.0.0 intellimize.co
 0.0.0.0 api.intellimize.co
 0.0.0.0 ipdata.co
@@ -1583,6 +1586,8 @@
 0.0.0.0 www.centraltag.com
 0.0.0.0 centuryautobodylv.com
 0.0.0.0 attribution.chacos.com
+0.0.0.0 channeladvisor.com
+0.0.0.0 t.channeladvisor.com
 0.0.0.0 channelintelligence.com
 0.0.0.0 tag.channelintelligence.com
 0.0.0.0 chartbeat.com
@@ -1919,6 +1924,9 @@
 0.0.0.0 decibelinsight.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 g.defold.com
+0.0.0.0 boomerang.dell.com
+0.0.0.0 nexus.dell.com
+0.0.0.0 nsm.dell.com
 0.0.0.0 sm.dell.com
 0.0.0.0 metrics.deloitte.com
 0.0.0.0 deloplen.com
@@ -2095,8 +2103,10 @@
 0.0.0.0 elfsight.com
 0.0.0.0 shy.elfsight.com
 0.0.0.0 eloqua.com
+0.0.0.0 t.eloqua.com
 0.0.0.0 p01.t.eloqua.com
 0.0.0.0 s1516.t.eloqua.com
+0.0.0.0 s334284386.t.eloqua.com
 0.0.0.0 data.emb-api.com
 0.0.0.0 cdn.emerse.com
 0.0.0.0 media.emerse.com
@@ -2651,6 +2661,7 @@
 0.0.0.0 tracking.instantcheckmate.com
 0.0.0.0 instartlogic.com
 0.0.0.0 insights.integralads.com
+0.0.0.0 starget.intel.com
 0.0.0.0 intelsad.com
 0.0.0.0 intentiq.com
 0.0.0.0 api.intentiq.com
@@ -3108,6 +3119,7 @@
 0.0.0.0 iad01-bfp02.mediaplex.com
 0.0.0.0 iad07-bfp01.mediaplex.com
 0.0.0.0 iad08-bfp01.mediaplex.com
+0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 mediarithmics.com
 0.0.0.0 ads.mediarithmics.com
 0.0.0.0 assets.mediarithmics.com
@@ -3402,6 +3414,7 @@
 0.0.0.0 ryobiridgidpower.mpeasylink.com
 0.0.0.0 wingstopcom.mpeasylink.com
 0.0.0.0 mplxtms.com
+0.0.0.0 cdn.mplxtms.com
 0.0.0.0 secure-cdn.mplxtms.com
 0.0.0.0 mpnrs.com
 0.0.0.0 www1.mpnrs.com
@@ -3610,6 +3623,7 @@
 0.0.0.0 optimizely.com
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 a1859010085.cdn.optimizely.com
+0.0.0.0 a2129670914.cdn.optimizely.com
 0.0.0.0 a5763640713.cdn.optimizely.com
 0.0.0.0 a6529002483.cdn.optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
@@ -3902,8 +3916,10 @@
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 rayjump.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 cdn-adn-https.rayjump.com
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 net.rayjump.com
+0.0.0.0 setting.rayjump.com
 0.0.0.0 ad.rcnky.com
 0.0.0.0 reachlocal.com
 0.0.0.0 www.reachlocal.com
@@ -4459,8 +4475,11 @@
 0.0.0.0 sombersurprise.com
 0.0.0.0 telemetry.sonarsource.com
 0.0.0.0 sonobi.com
+0.0.0.0 go.sonobi.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 purch-sync.go.sonobi.com
+0.0.0.0 sync.go.sonobi.com
 0.0.0.0 swebanalytics.sony.com
 0.0.0.0 webanalytics.sony.com
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
@@ -4774,6 +4793,8 @@
 0.0.0.0 d3kkw-y716t.ads.tremorhub.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
 0.0.0.0 events.tremorhub.com
+0.0.0.0 publishers.tremorhub.com
+0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 trendmd.com
 0.0.0.0 js.trendmd.com
 0.0.0.0 analytics.tresensa.com
@@ -5751,7 +5772,9 @@
 0.0.0.0 cabinets.sjv.io
 0.0.0.0 smarterhq.io
 0.0.0.0 tr2.smarterhq.io
+0.0.0.0 split.io
 0.0.0.0 events.split.io
+0.0.0.0 sdk.split.io
 0.0.0.0 gsync.sqate.io
 0.0.0.0 events.stackshare.io
 0.0.0.0 tabmo.io
@@ -6405,6 +6428,8 @@
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 crackle.demdex.net
+0.0.0.0 dell.demdex.net
+0.0.0.0 fast.dell.demdex.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 edge-va6.demdex.net
 0.0.0.0 fast.espn.demdex.net
@@ -6417,6 +6442,7 @@
 0.0.0.0 homedepot.demdex.net
 0.0.0.0 hyatt.demdex.net
 0.0.0.0 intelcorp.demdex.net
+0.0.0.0 fast.intelcorp.demdex.net
 0.0.0.0 kroger.demdex.net
 0.0.0.0 lowescompaniesinc.demdex.net
 0.0.0.0 mcclatchy.demdex.net
@@ -6545,6 +6571,8 @@
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 cm.everesttech.net
+0.0.0.0 lasteventf-tm.everesttech.net
+0.0.0.0 pixel.everesttech.net
 0.0.0.0 playtime-tm.everesttech.net
 0.0.0.0 rtb-lb-event-iad-1a-tm.everesttech.net
 0.0.0.0 rtb-lb-event-iad-1c-tm.everesttech.net
@@ -6803,6 +6831,7 @@
 0.0.0.0 branchbankingtrustco.tt.omtrdc.net
 0.0.0.0 capitaloneservices.tt.omtrdc.net
 0.0.0.0 cdn.tt.omtrdc.net
+0.0.0.0 dellinc.tt.omtrdc.net
 0.0.0.0 disney.tt.omtrdc.net
 0.0.0.0 dsg.tt.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
