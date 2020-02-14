@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-14T14:37:51+00:00
-# Count: 7803 domains
+# Released: 2020-02-14T15:06:41+00:00
+# Count: 7818 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2577,6 +2577,7 @@
 0.0.0.0 cdn.feeds.ibt.com
 0.0.0.0 feedbackws.icloud.com
 0.0.0.0 metrics.icloud.com
+0.0.0.0 id5-sync.com
 0.0.0.0 iesnare.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 igaworks.com
@@ -2799,6 +2800,7 @@
 0.0.0.0 cdn-usent.kampyle.com
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 kargo.com
+0.0.0.0 cloud.kargo.com
 0.0.0.0 crb.kargo.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kaxsdc.com
@@ -4877,6 +4879,7 @@
 0.0.0.0 widgets.tree.com
 0.0.0.0 tremorhub.com
 0.0.0.0 ads.tremorhub.com
+0.0.0.0 7hdh-2damu.ads.tremorhub.com
 0.0.0.0 d3kkw-6ch3c.ads.tremorhub.com
 0.0.0.0 d3kkw-y716t.ads.tremorhub.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
@@ -5404,6 +5407,7 @@
 0.0.0.0 zorosrv.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 zypmedia.com
+0.0.0.0 ybp.yahoo.comm
 0.0.0.0 wpad.corp
 0.0.0.0 tw.cx
 0.0.0.0 i.tw.cx
@@ -5850,6 +5854,8 @@
 0.0.0.0 c.oracleinfinity.io
 0.0.0.0 oribi.io
 0.0.0.0 cdn.oribi.io
+0.0.0.0 p-n.io
+0.0.0.0 cdn.p-n.io
 0.0.0.0 pagesense.io
 0.0.0.0 cdn.pagesense.io
 0.0.0.0 pendo.io
@@ -6508,6 +6514,7 @@
 0.0.0.0 updater.content-recommendation.net
 0.0.0.0 criteo.net
 0.0.0.0 pixel.criteo.net
+0.0.0.0 static.criteo.net
 0.0.0.0 www.criteo.net
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ad.crwdcntrl.net
@@ -6976,6 +6983,7 @@
 0.0.0.0 faithit-d.openx.net
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 google-bidout-d.openx.net
+0.0.0.0 mailonline-us-d.openx.net
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 oao-d.openx.net
 0.0.0.0 ak.p.openx.net
@@ -7742,6 +7750,7 @@
 0.0.0.0 ad4mat.co.uk
 0.0.0.0 advertisingbeacon.co.uk
 0.0.0.0 ensighten.airnewzealand.co.uk
+0.0.0.0 and.co.uk
 0.0.0.0 swa.and.co.uk
 0.0.0.0 a1.api.bbc.co.uk
 0.0.0.0 fig.bbc.co.uk
@@ -7749,6 +7758,12 @@
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 data.creditexpert.co.uk
 0.0.0.0 crta.dailymail.co.uk
+0.0.0.0 fff.dailymail.co.uk
+0.0.0.0 mads.dailymail.co.uk
+0.0.0.0 t.dailymail.co.uk
+0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 dmgmediaprivacy.co.uk
+0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 web.dominos.co.uk
 0.0.0.0 adc.emp.co.uk
 0.0.0.0 data.experian.co.uk
