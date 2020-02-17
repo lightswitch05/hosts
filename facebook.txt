@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook.txt
-# Released: 2020-01-23T14:16:26+00:00
-# Count: 52 domains
+# Released: 2020-02-17T18:59:54+00:00
+# Count: 59 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook.txt
@@ -41,6 +41,7 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 messenger.com
 0.0.0.0 whatsapp.com
+0.0.0.0 web.whatsapp.com
 0.0.0.0 facebook.design
 0.0.0.0 fb.me
 0.0.0.0 fbcdn-profile-a.akamaihd.net
@@ -53,6 +54,7 @@
 0.0.0.0 graph.facebook.net
 0.0.0.0 m.facebook.net
 0.0.0.0 fbcdn.net
+0.0.0.0 ak.fbcdn.net
 0.0.0.0 fna.fbcdn.net
 0.0.0.0 instagram.fcdg1-1.fna.fbcdn.net
 0.0.0.0 instagram.felp1-1.fna.fbcdn.net
@@ -70,9 +72,14 @@
 0.0.0.0 ns.fna.fbcdn.net
 0.0.0.0 xx.fbcdn.net
 0.0.0.0 external-iad3-1.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 xy.fbcdn.net
+0.0.0.0 xz.fbcdn.net
 0.0.0.0 fbsbx.com.online-metrix.net
+0.0.0.0 cdn.whatsapp.netfbsbx.com.online-metrix.net
 0.0.0.0 tfbnw.net
 0.0.0.0 whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 fna.whatsapp.net
 
 
