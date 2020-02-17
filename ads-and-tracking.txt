@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-17T13:41:46+00:00
-# Count: 7823 domains
+# Released: 2020-02-17T18:20:04+00:00
+# Count: 7828 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1592,6 +1592,7 @@
 0.0.0.0 service.centraltag.com
 0.0.0.0 www.centraltag.com
 0.0.0.0 centuryautobodylv.com
+0.0.0.0 smetrics.centurylink.com
 0.0.0.0 attribution.chacos.com
 0.0.0.0 channeladvisor.com
 0.0.0.0 t.channeladvisor.com
@@ -2988,6 +2989,8 @@
 0.0.0.0 rtmp.lokaplatform.com
 0.0.0.0 scene.lokaplatform.com
 0.0.0.0 scene-front.lokaplatform.com
+0.0.0.0 lookbookhq.com
+0.0.0.0 app.cdn.lookbookhq.com
 0.0.0.0 share.loopme.com
 0.0.0.0 loopmertb.com
 0.0.0.0 lootsie.com
@@ -3069,6 +3072,7 @@
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
+0.0.0.0 app-abb.marketo.com
 0.0.0.0 app-abc.marketo.com
 0.0.0.0 app-abd.marketo.com
 0.0.0.0 app-sj04.marketo.com
@@ -3464,6 +3468,7 @@
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
 0.0.0.0 mpeasylink.com
+0.0.0.0 centurylinkresidential.mpeasylink.com
 0.0.0.0 dollartree.mpeasylink.com
 0.0.0.0 ryobiridgidpower.mpeasylink.com
 0.0.0.0 wingstopcom.mpeasylink.com

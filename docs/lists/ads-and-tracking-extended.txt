@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-17T13:41:47+00:00
-# Count: 101107 domains
+# Released: 2020-02-17T18:20:05+00:00
+# Count: 101209 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -20024,6 +20024,7 @@
 0.0.0.0 centuryautobodylv.com
 0.0.0.0 mail.centuryautobodylv.com
 0.0.0.0 www.centuryautobodylv.com
+0.0.0.0 smetrics.centurylink.com
 0.0.0.0 attribution.chacos.com
 0.0.0.0 channeladvisor.com
 0.0.0.0 access.channeladvisor.com
@@ -37376,6 +37377,107 @@
 0.0.0.0 story-front.lokaplatform.com
 0.0.0.0 trunk-front.lokaplatform.com
 0.0.0.0 trunk-front-staging.lokaplatform.com
+0.0.0.0 lookbookhq.com
+0.0.0.0 accuity.lookbookhq.com
+0.0.0.0 adobe.lookbookhq.com
+0.0.0.0 adobeenterprise.lookbookhq.com
+0.0.0.0 alb-carbonblack.lookbookhq.com
+0.0.0.0 alb-cvent.lookbookhq.com
+0.0.0.0 alb-johncrane.lookbookhq.com
+0.0.0.0 alb-microfocus.lookbookhq.com
+0.0.0.0 alb-nokia.lookbookhq.com
+0.0.0.0 alb-oracle.lookbookhq.com
+0.0.0.0 alertlogic.lookbookhq.com
+0.0.0.0 alienvault.lookbookhq.com
+0.0.0.0 ansys.lookbookhq.com
+0.0.0.0 apptentive.lookbookhq.com
+0.0.0.0 avalara.lookbookhq.com
+0.0.0.0 bluecore.lookbookhq.com
+0.0.0.0 bmc.lookbookhq.com
+0.0.0.0 ca.lookbookhq.com
+0.0.0.0 carbonblack.lookbookhq.com
+0.0.0.0 cdn.lookbookhq.com
+0.0.0.0 app.cdn.lookbookhq.com
+0.0.0.0 cirium.lookbookhq.com
+0.0.0.0 ciscocustomer.lookbookhq.com
+0.0.0.0 ciscopartners.lookbookhq.com
+0.0.0.0 comodo.lookbookhq.com
+0.0.0.0 connectapp.lookbookhq.com
+0.0.0.0 crowdstrike.lookbookhq.com
+0.0.0.0 cultureamp.lookbookhq.com
+0.0.0.0 cvent.lookbookhq.com
+0.0.0.0 deluxe.lookbookhq.com
+0.0.0.0 dhl.lookbookhq.com
+0.0.0.0 eatonpowerquality.lookbookhq.com
+0.0.0.0 edgenuity.lookbookhq.com
+0.0.0.0 enterprisedb.lookbookhq.com
+0.0.0.0 epicor.lookbookhq.com
+0.0.0.0 esbroadcom.lookbookhq.com
+0.0.0.0 fireeye.lookbookhq.com
+0.0.0.0 gdpr-staging.lookbookhq.com
+0.0.0.0 gigamon.lookbookhq.com
+0.0.0.0 glassdoor2.lookbookhq.com
+0.0.0.0 go.lookbookhq.com
+0.0.0.0 hpe.lookbookhq.com
+0.0.0.0 http-3a__cisco.lookbookhq.com
+0.0.0.0 ibm.lookbookhq.com
+0.0.0.0 ibmhybridcloud.lookbookhq.com
+0.0.0.0 ideas.lookbookhq.com
+0.0.0.0 idgcommunications.lookbookhq.com
+0.0.0.0 igloosoftware.lookbookhq.com
+0.0.0.0 ihs.lookbookhq.com
+0.0.0.0 infoblox.lookbookhq.com
+0.0.0.0 informacem.lookbookhq.com
+0.0.0.0 informades.lookbookhq.com
+0.0.0.0 informaew.lookbookhq.com
+0.0.0.0 informainet.lookbookhq.com
+0.0.0.0 informamanu.lookbookhq.com
+0.0.0.0 informatech.lookbookhq.com
+0.0.0.0 informawre.lookbookhq.com
+0.0.0.0 invoca.lookbookhq.com
+0.0.0.0 johncrane.lookbookhq.com
+0.0.0.0 jukebox.lookbookhq.com
+0.0.0.0 junipernetworks.lookbookhq.com
+0.0.0.0 kareo.lookbookhq.com
+0.0.0.0 leanplum.lookbookhq.com
+0.0.0.0 lennar.lookbookhq.com
+0.0.0.0 level3.lookbookhq.com
+0.0.0.0 lp.lookbookhq.com
+0.0.0.0 malwarebytes.lookbookhq.com
+0.0.0.0 mfbroadcom.lookbookhq.com
+0.0.0.0 microfocus.lookbookhq.com
+0.0.0.0 nationalinstruments.lookbookhq.com
+0.0.0.0 nimblestorage.lookbookhq.com
+0.0.0.0 nokia.lookbookhq.com
+0.0.0.0 nvidia.lookbookhq.com
+0.0.0.0 pentoncem.lookbookhq.com
+0.0.0.0 provation.lookbookhq.com
+0.0.0.0 ptc.lookbookhq.com
+0.0.0.0 qlik.lookbookhq.com
+0.0.0.0 rapid7.lookbookhq.com
+0.0.0.0 redhat.lookbookhq.com
+0.0.0.0 returnpath.lookbookhq.com
+0.0.0.0 rockwell.lookbookhq.com
+0.0.0.0 rohdeschwarz.lookbookhq.com
+0.0.0.0 sailpoint.lookbookhq.com
+0.0.0.0 sap.lookbookhq.com
+0.0.0.0 sciencelogic.lookbookhq.com
+0.0.0.0 semafone.lookbookhq.com
+0.0.0.0 solarwinds.lookbookhq.com
+0.0.0.0 staging.lookbookhq.com
+0.0.0.0 staging2.lookbookhq.com
+0.0.0.0 stibo.lookbookhq.com
+0.0.0.0 sysdig.lookbookhq.com
+0.0.0.0 tenable.lookbookhq.com
+0.0.0.0 thomsonreuterscorp.lookbookhq.com
+0.0.0.0 thomsonreutersfinancial.lookbookhq.com
+0.0.0.0 thomsonreuterstax.lookbookhq.com
+0.0.0.0 thomsonreuterstaxprofessionals.lookbookhq.com
+0.0.0.0 tibco.lookbookhq.com
+0.0.0.0 trustyou.lookbookhq.com
+0.0.0.0 vodafone.lookbookhq.com
+0.0.0.0 www.lookbookhq.com
+0.0.0.0 yahoo.lookbookhq.com
 0.0.0.0 share.loopme.com
 0.0.0.0 loopmertb.com
 0.0.0.0 appodeal.loopmertb.com
