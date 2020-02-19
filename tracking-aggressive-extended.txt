@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-02-19T15:39:03+00:00
-# Count: 4408 domains
+# Released: 2020-02-19T21:37:00+00:00
+# Count: 4451 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -23,6 +23,12 @@
 # limitations under the License.
 
 0.0.0.0 cortana.ai
+0.0.0.0 ppe.atwork.aad.cortana.ai
+0.0.0.0 prod.atwork.aad.cortana.ai
+0.0.0.0 test.atwork.aad.cortana.ai
+0.0.0.0 prod.atwork.substratepoc.aad.cortana.ai
+0.0.0.0 ppe.atwork.aadbing.cortana.ai
+0.0.0.0 prod.atwork.aadbing.cortana.ai
 0.0.0.0 api.cortana.ai
 0.0.0.0 querysuggestions-int.api.cortana.ai
 0.0.0.0 bf1pnightwatchtests-compliant-prod.cortana.ai
@@ -46,11 +52,14 @@
 0.0.0.0 internal.cortana.ai
 0.0.0.0 int.cch.msflow.cortana.ai
 0.0.0.0 prod.cch.msflow.cortana.ai
+0.0.0.0 prod.cortana.ai
 0.0.0.0 cortex.shs.prod.cortana.ai
 0.0.0.0 sdf.cortana.ai
 0.0.0.0 shs-dev.cortana.ai
 0.0.0.0 shs-prod.cortana.ai
 0.0.0.0 eastus1.staging.cortana.ai
+0.0.0.0 prod.sti.cortana.ai
+0.0.0.0 test.sti.cortana.ai
 0.0.0.0 devbox.tfd.cortana.ai
 0.0.0.0 substrate.tfd.cortana.ai
 0.0.0.0 www.cortana.ai
@@ -166,6 +175,7 @@
 0.0.0.0 containerstore.ugc.bazaarvoice.com
 0.0.0.0 coopertire.ugc.bazaarvoice.com
 0.0.0.0 createandcraft.ugc.bazaarvoice.com
+0.0.0.0 createandcraftus.ugc.bazaarvoice.com
 0.0.0.0 cubesmart.ugc.bazaarvoice.com
 0.0.0.0 cvspharmacydrugs.ugc.bazaarvoice.com
 0.0.0.0 cyberport.ugc.bazaarvoice.com
@@ -542,6 +552,7 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 members.11.exacttarget.com
 0.0.0.0 3sixty.exacttarget.com
+0.0.0.0 acceptance.exacttarget.com
 0.0.0.0 akamai-san1.exacttarget.com
 0.0.0.0 akamai-san10.exacttarget.com
 0.0.0.0 akamai-san11.exacttarget.com
@@ -618,6 +629,7 @@
 0.0.0.0 akamai-san78.exacttarget.com
 0.0.0.0 akamai-san79.exacttarget.com
 0.0.0.0 akamai-san8.exacttarget.com
+0.0.0.0 akamai-san80.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
@@ -663,17 +675,21 @@
 0.0.0.0 app.boa.exacttarget.com
 0.0.0.0 auth.boa.exacttarget.com
 0.0.0.0 click.boa.exacttarget.com
+0.0.0.0 editorsupport.boa.exacttarget.com
 0.0.0.0 image.boa.exacttarget.com
 0.0.0.0 imh.boa.exacttarget.com
 0.0.0.0 mc.boa.exacttarget.com
 0.0.0.0 members.boa.exacttarget.com
+0.0.0.0 origin-mc.boa.exacttarget.com
 0.0.0.0 pages.boa.exacttarget.com
+0.0.0.0 pub.boa.exacttarget.com
 0.0.0.0 pulse.boa.exacttarget.com
 0.0.0.0 restapi.boa.exacttarget.com
 0.0.0.0 view.boa.exacttarget.com
 0.0.0.0 virt.boa.exacttarget.com
 0.0.0.0 pages.virt.boa.exacttarget.com
 0.0.0.0 webservice.boa.exacttarget.com
+0.0.0.0 webservice-auth.boa.exacttarget.com
 0.0.0.0 webservice-sha2.boa.exacttarget.com
 0.0.0.0 bounce.exacttarget.com
 0.0.0.0 bounce-mx.exacttarget.com
@@ -1496,10 +1512,13 @@
 0.0.0.0 api.getbeamer.com
 0.0.0.0 app.getbeamer.com
 0.0.0.0 backend.getbeamer.com
+0.0.0.0 errors.getbeamer.com
 0.0.0.0 landing.getbeamer.com
 0.0.0.0 mail.getbeamer.com
 0.0.0.0 push.getbeamer.com
+0.0.0.0 realtime.getbeamer.com
 0.0.0.0 site.getbeamer.com
+0.0.0.0 socket.getbeamer.com
 0.0.0.0 static.getbeamer.com
 0.0.0.0 status.getbeamer.com
 0.0.0.0 try.getbeamer.com
@@ -1593,6 +1612,7 @@
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 ids.eu1.gigya.com
 0.0.0.0 lb.eu1.gigya.com
+0.0.0.0 lb-f2.eu1.gigya.com
 0.0.0.0 reports.eu1.gigya.com
 0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 updates.eu1.gigya.com
@@ -2456,6 +2476,7 @@
 0.0.0.0 ct7-test.maxmind.com
 0.0.0.0 ct8-test.maxmind.com
 0.0.0.0 ct9-test.maxmind.com
+0.0.0.0 da3-wdc.maxmind.com
 0.0.0.0 datareview.maxmind.com
 0.0.0.0 deployments.maxmind.com
 0.0.0.0 dev.maxmind.com
@@ -2826,6 +2847,7 @@
 0.0.0.0 admin2.providesupport.com
 0.0.0.0 admin3.providesupport.com
 0.0.0.0 admin4.providesupport.com
+0.0.0.0 admin6.providesupport.com
 0.0.0.0 api.providesupport.com
 0.0.0.0 cc1i.providesupport.com
 0.0.0.0 admin1.cdn.providesupport.com
@@ -2907,6 +2929,7 @@
 0.0.0.0 jw4c4b.providesupport.com
 0.0.0.0 jw4c4i.providesupport.com
 0.0.0.0 liveupdate.providesupport.com
+0.0.0.0 mail.providesupport.com
 0.0.0.0 mesenger.providesupport.com
 0.0.0.0 messenger.providesupport.com
 0.0.0.0 messenger1.providesupport.com
@@ -3262,6 +3285,7 @@
 0.0.0.0 0-109.vk.com
 0.0.0.0 0-196.vk.com
 0.0.0.0 09.vk.com
+0.0.0.0 116profile.vk.com
 0.0.0.0 12.vk.com
 0.0.0.0 167274089.vk.com
 0.0.0.0 1m.vk.com
@@ -3333,6 +3357,7 @@
 0.0.0.0 cs380.vk.com
 0.0.0.0 cs4111.vk.com
 0.0.0.0 cs4218.vk.com
+0.0.0.0 cs4239.vk.com
 0.0.0.0 cs4423.vk.com
 0.0.0.0 cs4700.vk.com
 0.0.0.0 formula1admin.web18922.cs4932.vk.com
@@ -3446,6 +3471,7 @@
 0.0.0.0 dddd.vk.com
 0.0.0.0 depth.vk.com
 0.0.0.0 di.vk.com
+0.0.0.0 doc.vk.com
 0.0.0.0 docs.vk.com
 0.0.0.0 dya.vk.com
 0.0.0.0 e-mail.vk.com
@@ -3456,6 +3482,7 @@
 0.0.0.0 forum.vk.com
 0.0.0.0 gemail.vk.com
 0.0.0.0 graph.vk.com
+0.0.0.0 gzip.vk.com
 0.0.0.0 hb.vk.com
 0.0.0.0 hotmail.vk.com
 0.0.0.0 https.vk.com
@@ -3506,7 +3533,9 @@
 0.0.0.0 pasot.vk.com
 0.0.0.0 past.vk.com
 0.0.0.0 pi.vk.com
+0.0.0.0 piter-ix.vk.com
 0.0.0.0 pjst.vk.com
+0.0.0.0 planet.vk.com
 0.0.0.0 podarki.vk.com
 0.0.0.0 porno.vk.com
 0.0.0.0 post.vk.com
@@ -3539,15 +3568,21 @@
 0.0.0.0 srv177-129-240-87.vk.com
 0.0.0.0 srv178-129-240-87.vk.com
 0.0.0.0 srv181-129-240-87.vk.com
+0.0.0.0 srv193-139-240-87.vk.com
+0.0.0.0 srv194-139-240-87.vk.com
 0.0.0.0 srv206-137-240-87.vk.com
 0.0.0.0 srv207-137-240-87.vk.com
+0.0.0.0 srv208-137-240-87.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
 0.0.0.0 srv3-6-213-95.vk.com
+0.0.0.0 srv69-190-240-87.vk.com
 0.0.0.0 srv70-190-240-87.vk.com
 0.0.0.0 srv71-129-240-87.vk.com
+0.0.0.0 srv72-190-240-87.vk.com
 0.0.0.0 srv75-134-240-87.vk.com
+0.0.0.0 srv75-190-240-87.vk.com
 0.0.0.0 sstakk.vk.com
 0.0.0.0 static.vk.com
 0.0.0.0 storage2.vk.com
@@ -3578,6 +3613,7 @@
 0.0.0.0 vww.vk.com
 0.0.0.0 way.vk.com
 0.0.0.0 web7.vk.com
+0.0.0.0 wip3.vk.com
 0.0.0.0 wn.vk.com
 0.0.0.0 ww.vk.com
 0.0.0.0 www.vk.com
@@ -4028,6 +4064,7 @@
 0.0.0.0 ada.ada.support
 0.0.0.0 airasia.ada.support
 0.0.0.0 airasia-support.ada.support
+0.0.0.0 airasia-wechat.ada.support
 0.0.0.0 android.ada.support
 0.0.0.0 anx.ada.support
 0.0.0.0 att.ada.support
@@ -4087,6 +4124,7 @@
 0.0.0.0 ccrb.ada.support
 0.0.0.0 cdbaby.ada.support
 0.0.0.0 clearbanc.ada.support
+0.0.0.0 clearloans.ada.support
 0.0.0.0 client-handle.ada.support
 0.0.0.0 coffeemeetsbagel.ada.support
 0.0.0.0 coinbase.ada.support
@@ -4106,8 +4144,10 @@
 0.0.0.0 airflow.ops.ficanex.ada.support
 0.0.0.0 alertmanager.ops.ficanex.ada.support
 0.0.0.0 grafana.ops.ficanex.ada.support
+0.0.0.0 kube-scan.ops.ficanex.ada.support
 0.0.0.0 kuber.ops.ficanex.ada.support
 0.0.0.0 kuberos.ops.ficanex.ada.support
+0.0.0.0 oauth2.ops.ficanex.ada.support
 0.0.0.0 prometheus.ops.ficanex.ada.support
 0.0.0.0 firstrade.ada.support
 0.0.0.0 firstrade-prod.ada.support
@@ -4125,9 +4165,11 @@
 0.0.0.0 kiratalent.ada.support
 0.0.0.0 kiratalent-backup.ada.support
 0.0.0.0 koodo.ada.support
+0.0.0.0 kotn.ada.support
 0.0.0.0 lightsallnight.ada.support
 0.0.0.0 linode.ada.support
 0.0.0.0 litebit.ada.support
+0.0.0.0 loblaws-og.ada.support
 0.0.0.0 luckyvitamin.ada.support
 0.0.0.0 luckyvitamin2.ada.support
 0.0.0.0 mailchimp.ada.support
@@ -4206,6 +4248,7 @@
 0.0.0.0 uplift.ada.support
 0.0.0.0 upwork.ada.support
 0.0.0.0 upwork-community.ada.support
+0.0.0.0 usertesting.ada.support
 0.0.0.0 virtuance-res.ada.support
 0.0.0.0 visiotalent-candidate.ada.support
 0.0.0.0 vitaly.ada.support

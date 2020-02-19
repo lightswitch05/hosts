@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-02-19T15:13:00+00:00
-# Count: 4017 domains
+# Released: 2020-02-19T21:36:43+00:00
+# Count: 4042 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -78,6 +78,8 @@
 0.0.0.0 scontent-dus1-1.cdninstagram.com
 0.0.0.0 scontent-eze1-1.cdninstagram.com
 0.0.0.0 scontent-fco1-1.cdninstagram.com
+0.0.0.0 scontent-fml1-1.cdninstagram.com
+0.0.0.0 scontent-fml2-1.cdninstagram.com
 0.0.0.0 scontent-for1-1.cdninstagram.com
 0.0.0.0 scontent-frt.cdninstagram.com
 0.0.0.0 scontent-frt3-1.cdninstagram.com
@@ -149,7 +151,10 @@
 0.0.0.0 scontent-vie.cdninstagram.com
 0.0.0.0 scontent-vie1-1.cdninstagram.com
 0.0.0.0 scontent-waw1-1.cdninstagram.com
+0.0.0.0 scontent-xsp.cdninstagram.com
+0.0.0.0 scontent-xsp1-1.cdninstagram.com
 0.0.0.0 scontent-yyz1-1.cdninstagram.com
+0.0.0.0 scontent-zrh1-1.cdninstagram.com
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 video.cdninstagram.com
 0.0.0.0 z-p4-scontent.cdninstagram.com
@@ -402,10 +407,12 @@
 0.0.0.0 edge-snaptu-http-mini-shv-01-sin2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-ort2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
+0.0.0.0 edge-star-mini-shv-02-ort2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
 0.0.0.0 edge-star-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
@@ -421,11 +428,14 @@
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-fco1.facebook.com
+0.0.0.0 edge-z-m-mini-shv-01-maa2.facebook.com
+0.0.0.0 edge-z-m-mini-shv-01-xsp1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
 0.0.0.0 edgeray-shv-01-dus1.facebook.com
 0.0.0.0 edgeray-shv-01-lax3.facebook.com
 0.0.0.0 edgeray-shv-01-sjc3.facebook.com
+0.0.0.0 edgeray-shv-01-xsp1.facebook.com
 0.0.0.0 edgeray-shv-01-yyz1.facebook.com
 0.0.0.0 edgeray-shv-02-arn2.facebook.com
 0.0.0.0 egmont.facebook.com
@@ -433,6 +443,7 @@
 0.0.0.0 en-gb.facebook.com
 0.0.0.0 en-us.facebook.com
 0.0.0.0 eni.facebook.com
+0.0.0.0 epsilontel.facebook.com
 0.0.0.0 error.facebook.com
 0.0.0.0 es-es.facebook.com
 0.0.0.0 es-la.facebook.com
@@ -931,9 +942,11 @@
 0.0.0.0 sv-se.facebook.com
 0.0.0.0 sw-ke.facebook.com
 0.0.0.0 msgin.t.facebook.com
+0.0.0.0 ta-in.facebook.com
 0.0.0.0 tafensw.facebook.com
 0.0.0.0 te-in.facebook.com
 0.0.0.0 telefonica.facebook.com
+0.0.0.0 telenor.facebook.com
 0.0.0.0 th-th.facebook.com
 0.0.0.0 time1.facebook.com
 0.0.0.0 tl-ph.facebook.com
@@ -2040,8 +2053,10 @@
 0.0.0.0 flookaside.fbsbx.com
 0.0.0.0 gradmoth.fbsbx.com
 0.0.0.0 ide.fbsbx.com
+0.0.0.0 integrated-plugin-canvas-341491175940639-42312117.fbsbx.com
 0.0.0.0 integrated-plugin-canvas-341491175940639-487203226.fbsbx.com
 0.0.0.0 kaside.fbsbx.com
+0.0.0.0 lokaside.fbsbx.com
 0.0.0.0 lookaside.fbsbx.com
 0.0.0.0 lookside.fbsbx.com
 0.0.0.0 okaside.fbsbx.com
@@ -2189,17 +2204,23 @@
 0.0.0.0 messenger.com
 0.0.0.0 0.messenger.com
 0.0.0.0 0-edge-chat.messenger.com
+0.0.0.0 0-edge-chat-latest.messenger.com
 0.0.0.0 1-edege-chat.messenger.com
 0.0.0.0 1-edge-chat.messenger.com
 0.0.0.0 2-edge-chat.messenger.com
+0.0.0.0 2-edge-chat-latest.messenger.com
 0.0.0.0 www.24im.messenger.com
 0.0.0.0 252fwww.messenger.com
 0.0.0.0 2fl.messenger.com
 0.0.0.0 2fwww.messenger.com
 0.0.0.0 3-edge-chat.messenger.com
+0.0.0.0 3-edge-chat-latest.messenger.com
 0.0.0.0 4-edge-chat.messenger.com
+0.0.0.0 4-edge-chat-latest.messenger.com
 0.0.0.0 5-edge-chat.messenger.com
+0.0.0.0 5-edge-chat-latest.messenger.com
 0.0.0.0 6-edge-chat.messenger.com
+0.0.0.0 af-za.messenger.com
 0.0.0.0 alpha.messenger.com
 0.0.0.0 fb.alpha.messenger.com
 0.0.0.0 fb.m.alpha.messenger.com
@@ -2227,6 +2248,7 @@
 0.0.0.0 dev.messenger.com
 0.0.0.0 edge.messenger.com
 0.0.0.0 edge-chat.messenger.com
+0.0.0.0 el-gr.messenger.com
 0.0.0.0 en-gb.messenger.com
 0.0.0.0 www.en-gb.messenger.com
 0.0.0.0 es-es.messenger.com
@@ -2262,6 +2284,7 @@
 0.0.0.0 www.m.messenger.com
 0.0.0.0 manila.messenger.com
 0.0.0.0 mbasic.messenger.com
+0.0.0.0 mcraffets.messenger.com
 0.0.0.0 mi.messenger.com
 0.0.0.0 mikecraffets.messenger.com
 0.0.0.0 msn.messenger.com
@@ -2278,6 +2301,7 @@
 0.0.0.0 www.pl-pl.messenger.com
 0.0.0.0 pop.messenger.com
 0.0.0.0 pop.pop.messenger.com
+0.0.0.0 pop3.messenger.com
 0.0.0.0 pptp.messenger.com
 0.0.0.0 prod.messenger.com
 0.0.0.0 pt-br.messenger.com
@@ -2286,6 +2310,7 @@
 0.0.0.0 ru.messenger.com
 0.0.0.0 ru-ru.messenger.com
 0.0.0.0 sl-si.messenger.com
+0.0.0.0 smtp.messenger.com
 0.0.0.0 sprint.messenger.com
 0.0.0.0 sq-al.messenger.com
 0.0.0.0 www.sr-rs.messenger.com
