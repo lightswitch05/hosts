@@ -6,7 +6,6 @@
     <title>Hostfile blocklist for ads and tracking</title>
     <meta name="description" content="Hostfile blocklist for ads and tracking">
     <link rel="stylesheet" href="index.css">
-    <link rel="stylesheet" href="latolatinfonts.css.css">
     <meta name="viewport" content="width=device-width">
     <link rel="icon" href="favicon.ico">
 </head>
@@ -20,6 +19,9 @@
             Hosts: <small><a href="https://github.com/lightswitch05/hosts" >Source on Github</a></small>
         </h1>
         <p>
+            <a href="https://github.com/lightswitch05/hosts">
+                <img alt="Github Stars" src="https://img.shields.io/github/stars/lightswitch05/hosts" style="max-width:100%;">
+            </a>
             <a href="https://travis-ci.org/lightswitch05/hosts">
                 <img alt="Build Status" src="https://travis-ci.org/lightswitch05/hosts.svg?branch=master" style="max-width:100%;">
             </a>
@@ -49,41 +51,47 @@
         </p>
 
         <section>
-            <h2><a href="lists/ads-and-tracking-extended.txt">Ads &amp; Tracking</a></h2>
+            <h2>
+                <a href="lists/ads-and-tracking-extended.txt">Ads &amp; Tracking:</a>
+                <small><span id="ads-and-tracking-extended-count">101,260</span> hosts</small>
+            </h2>
             <p>
-                A programmatically expanded list of hosts I've found to not be on other lists. This list is very reliable and I recommend using it.
-                This list was last updated on <span id="ads-and-tracking-extended-date">February 19, 2020</span> and
-                currently has <span id="ads-and-tracking-extended-count">101260</span> unique domains.
+                A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.
+                This list was last updated on <span id="ads-and-tracking-extended-date">February 19, 2020</span>.
             </p>
         </section>
         <section>
-            <h2><a href="lists/tracking-aggressive-extended.txt">Tracking Aggressive</a></h2>
+            <h2>
+                <a href="lists/tracking-aggressive-extended.txt">Tracking Aggressive:</a>
+                <small><span id="tracking-aggressive-extended-count">4,408</span> hosts</small>
+            </h2>
             <p>
                 A very aggressive block list for tracking, geo-targeting, &amp; ads. This list will likely break functionality,
                 so do not use it unless you are willing to maintain your own whitelist. If you find something in this list that you think is a mistake,
                 please <a href="https://github.com/lightswitch05/hosts/issues">open a ticket</a> and we can discuss it. Keep in mind that this is an aggressive list.
-                This list was last updated on <span id="tracking-aggressive-extended-date">February 10, 2020</span> and
-                currently has <span id="tracking-aggressive-extended-count">4408</span> unique domains.
+                This list was last updated on <span id="tracking-aggressive-extended-date">February 19, 2020</span>.
             </p>
         </section>
         <section>
-            <h2><a href="lists/amp-hosts-extended.txt">AMP Hosts</a></h2>
+            <h2>
+                <a href="lists/amp-hosts-extended.txt">AMP Hosts:</a>
+                <small><span id="amp-hosts-extended-count">2,975</span> hosts</small>
+            </h2>
             <p>
                 <a href="https://www.theregister.co.uk/2017/05/19/open_source_insider_google_amp_bad_bad_bad/">Google's Accelerated Mobile Pages (AMP)</a>
                 are taking over the web. Block AMP pages with this list. Since I use <a href="https://duckduckgo.com/">DuckDuckGo</a>,
                 this list is pretty sparse and suggestions are welcome!
-                This list was last updated on <span id="amp-hosts-extended-date">February 18, 2020</span> and
-                currently has <span id="amp-hosts-extended-count">2975</span> unique domains.
+                This list was last updated on <span id="amp-hosts-extended-date">February 19, 2020</span>.
             </p>
         </section>
         <section>
-            <h2><a href="lists/facebook-extended.txt">Facebook</a></h2>
+            <h2>
+                <a href="lists/facebook-extended.txt">Facebook:</a>
+                <small><span id="facebook-extended-count">4,017</span> hosts</small>
+            </h2>
             <p>
-                A hosts file to block all facebook and facebook related services, including Messenger, Instagram, and WhatsApp.
-                This is a pretty new list and I recommend using it with <a href="https://github.com/anudeepND/blacklist">anudeepND's</a>
-                <a href="https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt">Facebook list</a> as well to ensure full coverage.
-                This list was last updated on <span id="facebook-extended-date">February 17, 2020</span> and
-                currently has <span id="facebook-extended-count">4017</span> unique domains.
+                A hosts file to block all Facebook and Facebook related services, including Messenger, Instagram, and WhatsApp.
+                This list was last updated on <span id="facebook-extended-date">February 19, 2020</span>.
             </p>
         </section>
     </main>
@@ -92,7 +100,7 @@
         <section>
             <p>
                 Below is an image that says 'Not Blocking' that is blocked in all of my lists.
-                If you see it, then you are not using one of my lists (or its older then July, 2019).
+                If you see it, then you are not using one of my lists.
                 If you do not see it, then you are using one of my lists (or a list that includes one of my lists).
                 If you are unsure if its working or not, you could go directly to the
                 <a href="https://block-test.developerdan.com/">block test page</a>.

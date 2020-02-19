@@ -1,11 +1,19 @@
 body {
     color: #d9d9d9;
     background-color: #212121;
-    font-family: LatoLatinWeb, Lato, Arial, sans-serif;
-
+    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 17px;
+    line-height: 1.23536;
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
+    text-rendering: optimizeLegibility;
+    text-shadow: #000 0 0 3px;
+}
+
+h2 small {
+    font-size: 0.8em;
+    font-weight: normal;
 }
 
 main {
