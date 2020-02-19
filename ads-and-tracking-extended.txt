@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-19T15:44:19+00:00
-# Count: 101261 domains
+# Released: 2020-02-19T19:13:13+00:00
+# Count: 101319 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -5784,6 +5784,7 @@
 0.0.0.0 www.serve.adgibbon.com
 0.0.0.0 tracking.adgibbon.com
 0.0.0.0 www.adgibbon.com
+0.0.0.0 sentry.adguard.com
 0.0.0.0 adhese.com
 0.0.0.0 pool.4entertainment.adhese.com
 0.0.0.0 adhsm.adhese.com
@@ -23656,6 +23657,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings-api.crashlytics.com
 0.0.0.0 try.crashlytics.com
+0.0.0.0 update.crashlytics.com
 0.0.0.0 www.crashlytics.com
 0.0.0.0 metrics.crateandbarrel.com
 0.0.0.0 crazyclickstats.com
@@ -65064,6 +65066,62 @@
 0.0.0.0 ui-api.youbora.com
 0.0.0.0 vegetapi-rc.youbora.com
 0.0.0.0 www.youbora.com
+0.0.0.0 youboranqs01.com
+0.0.0.0 infinity-c1.youboranqs01.com
+0.0.0.0 infinity-c10.youboranqs01.com
+0.0.0.0 infinity-c11.youboranqs01.com
+0.0.0.0 infinity-c12.youboranqs01.com
+0.0.0.0 infinity-c2.youboranqs01.com
+0.0.0.0 infinity-c2-code.youboranqs01.com
+0.0.0.0 infinity-c3.youboranqs01.com
+0.0.0.0 infinity-c4.youboranqs01.com
+0.0.0.0 infinity-c5.youboranqs01.com
+0.0.0.0 infinity-c6.youboranqs01.com
+0.0.0.0 infinity-c7.youboranqs01.com
+0.0.0.0 infinity-c8.youboranqs01.com
+0.0.0.0 infinity-c9.youboranqs01.com
+0.0.0.0 infinity-dev3-code.youboranqs01.com
+0.0.0.0 infinity-dev4.youboranqs01.com
+0.0.0.0 nqs-euc-c1.youboranqs01.com
+0.0.0.0 nqs-euc-c2.youboranqs01.com
+0.0.0.0 nqs-euc-c3.youboranqs01.com
+0.0.0.0 nqs-euc-c4.youboranqs01.com
+0.0.0.0 nqs-gc1.youboranqs01.com
+0.0.0.0 nqs-hk1-c1.youboranqs01.com
+0.0.0.0 nqs-lw1.youboranqs01.com
+0.0.0.0 nqs-lw2.youboranqs01.com
+0.0.0.0 nqs-lw2-lb4.youboranqs01.com
+0.0.0.0 nqs-lw2-lb5.youboranqs01.com
+0.0.0.0 nqs-lw3.youboranqs01.com
+0.0.0.0 nqs-lw3-lb2.youboranqs01.com
+0.0.0.0 nqs-lw3-lb5.youboranqs01.com
+0.0.0.0 nqs-nl-c14.youboranqs01.com
+0.0.0.0 nqs-nl-c4.youboranqs01.com
+0.0.0.0 nqs-nl-c5.youboranqs01.com
+0.0.0.0 nqs-nl-c5-c2.youboranqs01.com
+0.0.0.0 nqs-nl-c6.youboranqs01.com
+0.0.0.0 nqs-nl-c6-c2.youboranqs01.com
+0.0.0.0 nqs-nl-c7.youboranqs01.com
+0.0.0.0 nqs-nl-c7-c2.youboranqs01.com
+0.0.0.0 nqs-nl1.youboranqs01.com
+0.0.0.0 nqs-nl1-c10.youboranqs01.com
+0.0.0.0 nqs-nl1-c2.youboranqs01.com
+0.0.0.0 nqs-nl12-c2.youboranqs01.com
+0.0.0.0 nqs-nl12-c3.youboranqs01.com
+0.0.0.0 nqs-nl2.youboranqs01.com
+0.0.0.0 nqs-nl2-c11.youboranqs01.com
+0.0.0.0 nqs-nl2-c12.youboranqs01.com
+0.0.0.0 nqs-nl5-c14.youboranqs01.com
+0.0.0.0 nqs-nl5-c15.youboranqs01.com
+0.0.0.0 nqs-nl8-c15.youboranqs01.com
+0.0.0.0 nqs-usc1-gc1.youboranqs01.com
+0.0.0.0 nqs-usc1-gc2.youboranqs01.com
+0.0.0.0 nqs-usc1-gc3.youboranqs01.com
+0.0.0.0 nqs-wdc1.youboranqs01.com
+0.0.0.0 nqs-wdc1-c2.youboranqs01.com
+0.0.0.0 nqs-wdc2.youboranqs01.com
+0.0.0.0 nqs-wdc2-c2.youboranqs01.com
+0.0.0.0 nqs-wdc3.youboranqs01.com
 0.0.0.0 yoyoquiz.com
 0.0.0.0 yusp.com
 0.0.0.0 48extraeu.yusp.com
