@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-19T21:58:41+00:00
-# Count: 7841 domains
+# Released: 2020-02-20T13:59:56+00:00
+# Count: 7854 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -604,6 +604,7 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 sharethrough.adnxs.com
 0.0.0.0 thunder.adnxs.com
 0.0.0.0 adnxtr.com
 0.0.0.0 p.adnxtr.com
@@ -2166,6 +2167,7 @@
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
+0.0.0.0 tt.epicplay.com
 0.0.0.0 epom.com
 0.0.0.0 apps.epom.com
 0.0.0.0 dsp.epom.com
@@ -2716,6 +2718,8 @@
 0.0.0.0 api.intentiq.com
 0.0.0.0 blog.intercom.com
 0.0.0.0 intercomcdn.com
+0.0.0.0 downloads.intercomcdn.com
+0.0.0.0 fonts.intercomcdn.com
 0.0.0.0 js.intercomcdn.com
 0.0.0.0 interpolls.com
 0.0.0.0 apps.interpolls.com
@@ -2810,6 +2814,7 @@
 0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 kargo.com
 0.0.0.0 cloud.kargo.com
+0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 crb.kargo.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kaxsdc.com
@@ -3205,6 +3210,8 @@
 0.0.0.0 mediavoice.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 tracker.meetleads.com
+0.0.0.0 memfault.com
+0.0.0.0 interrupt.memfault.com
 0.0.0.0 cdn.merklesearch.com
 0.0.0.0 attribution.merrell.com
 0.0.0.0 metalyzer.com
@@ -3422,6 +3429,7 @@
 0.0.0.0 pool6.moatads.com
 0.0.0.0 pool8.moatads.com
 0.0.0.0 pool9.moatads.com
+0.0.0.0 s-jsonp.moatads.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sn.moatads.com
 0.0.0.0 svastx.moatads.com
@@ -3570,6 +3578,9 @@
 0.0.0.0 cmp.network-n.com
 0.0.0.0 affiliates.networx.com
 0.0.0.0 tr.networx.com
+0.0.0.0 neverbounce.com
+0.0.0.0 api.neverbounce.com
+0.0.0.0 cdn.neverbounce.com
 0.0.0.0 newdmn.com
 0.0.0.0 neweggstats.com
 0.0.0.0 madata.newlook.com
@@ -7001,6 +7012,7 @@
 0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 cosmicshovel-d.openx.net
 0.0.0.0 diply-d.openx.net
+0.0.0.0 discovery-d.openx.net
 0.0.0.0 egraffiti-d.openx.net
 0.0.0.0 esimedia-d.openx.net
 0.0.0.0 faithit-d.openx.net
@@ -7138,6 +7150,7 @@
 0.0.0.0 stats-fra.sxp.smartclip.net
 0.0.0.0 stats-irl.sxp.smartclip.net
 0.0.0.0 sociomantic.net
+0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 ss-omtrdc.net
 0.0.0.0 commerce.ss-omtrdc.net
 0.0.0.0 guided.ss-omtrdc.net

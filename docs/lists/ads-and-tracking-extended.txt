@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-19T21:58:41+00:00
-# Count: 101424 domains
+# Released: 2020-02-20T13:59:57+00:00
+# Count: 101446 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -7262,6 +7262,7 @@
 0.0.0.0 fra221.ib.adnxs.com
 0.0.0.0 fra222.ib.adnxs.com
 0.0.0.0 fra223.ib.adnxs.com
+0.0.0.0 fra224.ib.adnxs.com
 0.0.0.0 fra225.ib.adnxs.com
 0.0.0.0 fra226.ib.adnxs.com
 0.0.0.0 fra227.ib.adnxs.com
@@ -27209,6 +27210,7 @@
 0.0.0.0 ui2.ensighten.com
 0.0.0.0 www.ensighten.com
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
+0.0.0.0 tt.epicplay.com
 0.0.0.0 epom.com
 0.0.0.0 a6.epom.com
 0.0.0.0 ads.epom.com
@@ -39358,6 +39360,8 @@
 0.0.0.0 www.mediavoice.com
 0.0.0.0 tracker.meetleads.com
 0.0.0.0 www.tracker.meetleads.com
+0.0.0.0 memfault.com
+0.0.0.0 interrupt.memfault.com
 0.0.0.0 cdn.merklesearch.com
 0.0.0.0 www.cdn.merklesearch.com
 0.0.0.0 attribution.merrell.com
@@ -42247,6 +42251,7 @@
 0.0.0.0 moatads.com
 0.0.0.0 1px.moatads.com
 0.0.0.0 1z.moatads.com
+0.0.0.0 252fz.moatads.com
 0.0.0.0 2fsvastx.moatads.com
 0.0.0.0 10.72.180.60geo.moatads.com
 0.0.0.0 10.72.180.60mb.moatads.com
@@ -44623,6 +44628,17 @@
 0.0.0.0 stage.cmp.network-n.com
 0.0.0.0 affiliates.networx.com
 0.0.0.0 tr.networx.com
+0.0.0.0 neverbounce.com
+0.0.0.0 api.neverbounce.com
+0.0.0.0 app.neverbounce.com
+0.0.0.0 cdn.neverbounce.com
+0.0.0.0 email.neverbounce.com
+0.0.0.0 mail.neverbounce.com
+0.0.0.0 ns1.neverbounce.com
+0.0.0.0 ns2.neverbounce.com
+0.0.0.0 sales.neverbounce.com
+0.0.0.0 sentry.neverbounce.com
+0.0.0.0 www.neverbounce.com
 0.0.0.0 newdmn.com
 0.0.0.0 neweggstats.com
 0.0.0.0 www.neweggstats.com
@@ -89250,6 +89266,7 @@
 0.0.0.0 brainyquote-d.openx.net
 0.0.0.0 brightcast-d.openx.net
 0.0.0.0 brightcom-d.openx.net
+0.0.0.0 brightcom-video-d.openx.net
 0.0.0.0 bro-d.openx.net
 0.0.0.0 browser-tools.openx.net
 0.0.0.0 buffalonews-d.openx.net
@@ -89340,6 +89357,7 @@
 0.0.0.0 dowjones-d.openx.net
 0.0.0.0 dsv2-lifebuzz-d.openx.net
 0.0.0.0 dtnads-d.openx.net
+0.0.0.0 dugoutltd-d.openx.net
 0.0.0.0 durationmedia-d.openx.net
 0.0.0.0 dwango-d.openx.net
 0.0.0.0 ea-d.openx.net
@@ -89389,6 +89407,7 @@
 0.0.0.0 freecycle-d.openx.net
 0.0.0.0 freestar-d.openx.net
 0.0.0.0 frequentflyerservices-d.openx.net
+0.0.0.0 fujitv-d.openx.net
 0.0.0.0 funtomic-d.openx.net
 0.0.0.0 fusion-media-group-d.openx.net
 0.0.0.0 fusosha-d.openx.net
@@ -89417,6 +89436,7 @@
 0.0.0.0 google-bidout-d.openx.net
 0.0.0.0 google-bidout-jp-d.openx.net
 0.0.0.0 gooya-d.openx.net
+0.0.0.0 gosocial-uk-d.openx.net
 0.0.0.0 gplan-d.openx.net
 0.0.0.0 grahammedia-d.openx.net
 0.0.0.0 granite-cubed-d.openx.net
@@ -89653,6 +89673,7 @@
 0.0.0.0 pittpostgazette-d.openx.net
 0.0.0.0 pixfuture-d.openx.net
 0.0.0.0 pixfuture2-d.openx.net
+0.0.0.0 pixiv-d.openx.net
 0.0.0.0 planetmedia-d.openx.net
 0.0.0.0 platformone-d.openx.net
 0.0.0.0 playbuzzltd-d.openx.net
@@ -95909,6 +95930,7 @@
 0.0.0.0 us-sonar.sociomantic.net
 0.0.0.0 us-static.sociomantic.net
 0.0.0.0 web.sociomantic.net
+0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 ss-omtrdc.net
 0.0.0.0 commerce.ss-omtrdc.net
 0.0.0.0 guided.ss-omtrdc.net
