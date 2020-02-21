@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-21T15:29:54+00:00
-# Count: 7854 domains
+# Released: 2020-02-21T15:45:02+00:00
+# Count: 7857 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1473,6 +1473,7 @@
 0.0.0.0 cdn.bronto.com
 0.0.0.0 js.bronto.com
 0.0.0.0 maw.bronto.com
+0.0.0.0 snip.bronto.com
 0.0.0.0 browserhawk.com
 0.0.0.0 lib.browserhawk.com
 0.0.0.0 browsiprod.com
@@ -2808,6 +2809,7 @@
 0.0.0.0 checkip.justwatch.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 jwpltx.com
+0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 kampyle.com
 0.0.0.0 cdn-usent.kampyle.com
@@ -7853,6 +7855,7 @@
 0.0.0.0 www.agcs.works
 0.0.0.0 nile.works
 0.0.0.0 ext.nile.works
+0.0.0.0 coral-talk.ext.nile.works
 0.0.0.0 loxodo-ct.ext.nile.works
 0.0.0.0 perso.nile.works
 0.0.0.0 targeting.washpost.nile.works
