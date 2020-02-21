@@ -232,12 +232,12 @@ def safe_api_call(url: str, params: dict = {}) -> dict:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0'
         })
         if req.status_code != 200:
-            print('Error received from %s: %s' % url, req.text)
+            print('Error received from %s: %s' % (url, req.text))
         else:
             try:
                 return req.json()
             except ValueError:
-                print('Unknown response from %s: %s' % url, req.text)
+                print('Unknown response from %s: %s' % (url, req.text))
     except Exception:
         print('Unable to connect to %s' % url)
     return {}
