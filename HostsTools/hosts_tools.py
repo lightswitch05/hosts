@@ -139,7 +139,7 @@ def write_domain_list(file_name: str, domains: Set[str]) -> None:
 
 def update_website_count(file_name: str, count: int) -> None:
     span_id = file_name.split('.')[0] + '-count'
-    span_pattern = re.compile(f'<span id="{span_id}">\\d*</span>', flags=re.MULTILINE)
+    span_pattern = re.compile(f'<span id="{span_id}">[\\d,]*</span>', flags=re.MULTILINE)
     with open(HTML_FILE, 'r') as file:
         file_contents = file.read()
     file_contents = re.sub(span_pattern, f'<span id="{span_id}">{count:,}</span>',  file_contents)
