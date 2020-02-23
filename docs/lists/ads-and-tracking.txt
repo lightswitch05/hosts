@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-21T16:16:31+00:00
-# Count: 7858 domains
+# Released: 2020-02-23T16:34:07+00:00
+# Count: 7864 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1440,6 +1440,7 @@
 0.0.0.0 brainient.com
 0.0.0.0 ac.brainient.com
 0.0.0.0 tag.brainient.com
+0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
@@ -2597,6 +2598,7 @@
 0.0.0.0 1043454.collect.igodigital.com
 0.0.0.0 10523621.collect.igodigital.com
 0.0.0.0 10870841.collect.igodigital.com
+0.0.0.0 7231159.collect.igodigital.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 smy.iheart.com
 0.0.0.0 imganalytics.com
@@ -7052,6 +7054,7 @@
 0.0.0.0 collector-pxitevy85i.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxpmp8ilui.perimeterx.net
+0.0.0.0 collector-pxrnybd0zi.perimeterx.net
 0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 pingdom.net
@@ -7067,10 +7070,13 @@
 0.0.0.0 ads.pro-market.net
 0.0.0.0 px-cdn.net
 0.0.0.0 collector-pxgy5w79au.px-cdn.net
+0.0.0.0 collector-pxrnybd0zi.px-cdn.net
 0.0.0.0 px-cloud.net
 0.0.0.0 collector-pxgy5w79au.px-cloud.net
+0.0.0.0 collector-pxrnybd0zi.px-cloud.net
 0.0.0.0 pxchk.net
 0.0.0.0 collector-pxgy5w79au.pxchk.net
+0.0.0.0 collector-pxrnybd0zi.pxchk.net
 0.0.0.0 pxsrv.net
 0.0.0.0 qksrv.net
 0.0.0.0 siteintercept.qprod2.net
