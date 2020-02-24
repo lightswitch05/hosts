@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-02-19T21:36:43+00:00
-# Count: 4042 domains
+# Released: 2020-02-24T03:46:59+00:00
+# Count: 4061 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -26,6 +26,9 @@
 0.0.0.0 facebook-web-clients.appspot.com
 0.0.0.0 cdninstagram.com
 0.0.0.0 creative.cdninstagram.com
+0.0.0.0 a.ns.cdninstagram.com
+0.0.0.0 b.ns.cdninstagram.com
+0.0.0.0 d.ns.cdninstagram.com
 0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent-a.cdninstagram.com
 0.0.0.0 scontent-a-ams.cdninstagram.com
@@ -153,6 +156,7 @@
 0.0.0.0 scontent-waw1-1.cdninstagram.com
 0.0.0.0 scontent-xsp.cdninstagram.com
 0.0.0.0 scontent-xsp1-1.cdninstagram.com
+0.0.0.0 scontent-xsp1-2.cdninstagram.com
 0.0.0.0 scontent-yyz1-1.cdninstagram.com
 0.0.0.0 scontent-zrh1-1.cdninstagram.com
 0.0.0.0 static.cdninstagram.com
@@ -395,6 +399,7 @@
 0.0.0.0 edge-mqtt-shv-01-fco1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-icn1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mad1.facebook.com
+0.0.0.0 edge-mqtt-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
 0.0.0.0 edge-mws-shv-01-frt3.facebook.com
 0.0.0.0 edge-mws-shv-01-gru2.facebook.com
@@ -407,6 +412,7 @@
 0.0.0.0 edge-snaptu-http-mini-shv-01-sin2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-hkt1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-ort2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
@@ -417,6 +423,7 @@
 0.0.0.0 edge-star-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
 0.0.0.0 edge-star-shv-01-gmp1.facebook.com
+0.0.0.0 edge-star-shv-01-hkt1.facebook.com
 0.0.0.0 edge-star-shv-01-lht6.facebook.com
 0.0.0.0 edge-stun.facebook.com
 0.0.0.0 edge-stun-shv-01-scl1.facebook.com
@@ -440,6 +447,7 @@
 0.0.0.0 edgeray-shv-02-arn2.facebook.com
 0.0.0.0 egmont.facebook.com
 0.0.0.0 el-gr.facebook.com
+0.0.0.0 elmanzano.facebook.com
 0.0.0.0 en-gb.facebook.com
 0.0.0.0 en-us.facebook.com
 0.0.0.0 eni.facebook.com
@@ -2047,6 +2055,7 @@
 0.0.0.0 dn.fbsbx.com
 0.0.0.0 e.fbsbx.com
 0.0.0.0 embed.fbsbx.com
+0.0.0.0 fbkbmeghbibjiafcnpoolefnkmampm.fbsbx.com
 0.0.0.0 fbx.fbsbx.com
 0.0.0.0 fdn.fbsbx.com
 0.0.0.0 fkstun.fbsbx.com
@@ -2066,6 +2075,7 @@
 0.0.0.0 origincache-ftw.fbsbx.com
 0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 platform-lookside.fbsbx.com
+0.0.0.0 platfrom-lookaside.fbsbx.com
 0.0.0.0 portal.fbsbx.com
 0.0.0.0 pps.fbsbx.com
 0.0.0.0 rsrc.fbsbx.com
@@ -2259,6 +2269,7 @@
 0.0.0.0 fb.messenger.com
 0.0.0.0 www.fr-ca.messenger.com
 0.0.0.0 fr-fr.messenger.com
+0.0.0.0 freebasic.messenger.com
 0.0.0.0 fy-nl.messenger.com
 0.0.0.0 www.garena.messenger.com
 0.0.0.0 ge-chat.messenger.com
@@ -2633,6 +2644,7 @@
 0.0.0.0 edge-video-shv-01-bos3.fbcdn.net
 0.0.0.0 edge-video-shv-01-cgk1.fbcdn.net
 0.0.0.0 edge-video-shv-01-hel2.fbcdn.net
+0.0.0.0 edge-video-shv-01-hkt1.fbcdn.net
 0.0.0.0 edge-video-shv-01-lhr8.fbcdn.net
 0.0.0.0 edge-video-shv-01-nrt1.fbcdn.net
 0.0.0.0 edge-video-shv-01-sea1.fbcdn.net
@@ -3275,6 +3287,7 @@
 0.0.0.0 instagram-p15-shv-01-sjc3.fbcdn.net
 0.0.0.0 instagram-p15-shv-02-hkg3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-any2.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-atl3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-bos3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-cgk1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-del1.fbcdn.net
@@ -3292,6 +3305,7 @@
 0.0.0.0 instagram-p3-shv-01-yyz1.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-fco1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-kut2.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-mxp1.fbcdn.net
@@ -3321,11 +3335,13 @@
 0.0.0.0 sha256.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-fco1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lhr8.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-maa2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-ort2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-hkg3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-kut2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-02-xsp1.fbcdn.net
 0.0.0.0 www.fbcdn.net
 0.0.0.0 xx.fbcdn.net
 0.0.0.0 1.xx.fbcdn.net
@@ -3566,9 +3582,11 @@
 0.0.0.0 xx-fbcdn-shv-01-atl3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-bos3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-hel2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-hkt1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-iad3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lhr8.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-sea1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sin2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
@@ -3889,6 +3907,7 @@
 0.0.0.0 sonar-yyz.cdn.whatsapp.net
 0.0.0.0 www.cdn.whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 d2.whatsapp.net
 0.0.0.0 e1.whatsapp.net
 0.0.0.0 e10.whatsapp.net
 0.0.0.0 e11.whatsapp.net

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-02-19T21:37:00+00:00
-# Count: 4451 domains
+# Released: 2020-02-24T03:38:50+00:00
+# Count: 4468 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -50,6 +50,9 @@
 0.0.0.0 staging.gdprexport.cortana.ai
 0.0.0.0 prod.cch.ifs.cortana.ai
 0.0.0.0 internal.cortana.ai
+0.0.0.0 mdsuploadercert.cortana.ai
+0.0.0.0 mdsuploadercertcompliantcortanacore.cortana.ai
+0.0.0.0 mdsuploadercertnoncompliant.cortana.ai
 0.0.0.0 int.cch.msflow.cortana.ai
 0.0.0.0 prod.cch.msflow.cortana.ai
 0.0.0.0 prod.cortana.ai
@@ -630,6 +633,7 @@
 0.0.0.0 akamai-san79.exacttarget.com
 0.0.0.0 akamai-san8.exacttarget.com
 0.0.0.0 akamai-san80.exacttarget.com
+0.0.0.0 akamai-san81.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
@@ -1514,6 +1518,7 @@
 0.0.0.0 backend.getbeamer.com
 0.0.0.0 errors.getbeamer.com
 0.0.0.0 landing.getbeamer.com
+0.0.0.0 logs.getbeamer.com
 0.0.0.0 mail.getbeamer.com
 0.0.0.0 push.getbeamer.com
 0.0.0.0 realtime.getbeamer.com
@@ -1621,6 +1626,7 @@
 0.0.0.0 eu1-st4.gigya.com
 0.0.0.0 eu1a-email-mng.gigya.com
 0.0.0.0 www.eu1a-email-mng.gigya.com
+0.0.0.0 cdp.eu4.gigya.com
 0.0.0.0 fidm.gigya.com
 0.0.0.0 gm.gigya.com
 0.0.0.0 go.gigya.com
@@ -2576,6 +2582,7 @@
 0.0.0.0 geo.office365.com
 0.0.0.0 lb.geo.office365.com
 0.0.0.0 olark.com
+0.0.0.0 0.olark.com
 0.0.0.0 108-events.olark.com
 0.0.0.0 125-events.olark.com
 0.0.0.0 150-events.olark.com
@@ -2607,6 +2614,7 @@
 0.0.0.0 997-events.olark.com
 0.0.0.0 999-async.olark.com
 0.0.0.0 api.olark.com
+0.0.0.0 as400.olark.com
 0.0.0.0 assets.olark.com
 0.0.0.0 images.async.olark.com
 0.0.0.0 blog.olark.com
@@ -2614,14 +2622,20 @@
 0.0.0.0 changelog.olark.com
 0.0.0.0 chat.olark.com
 0.0.0.0 chat2.olark.com
+0.0.0.0 cust116.olark.com
+0.0.0.0 demo.olark.com
+0.0.0.0 dns1.olark.com
 0.0.0.0 emailink.olark.com
 0.0.0.0 events.olark.com
+0.0.0.0 h.olark.com
+0.0.0.0 ha.olark.com
 0.0.0.0 happyholidays2017.olark.com
 0.0.0.0 hello.olark.com
 0.0.0.0 help.olark.com
 0.0.0.0 httppartner.olark.com
 0.0.0.0 https_static.olark.com
 0.0.0.0 httpstatic.olark.com
+0.0.0.0 hub.olark.com
 0.0.0.0 im.olark.com
 0.0.0.0 images-async.olark.com
 0.0.0.0 ip-chat.olark.com
@@ -3548,6 +3562,7 @@
 0.0.0.0 queuev4.vk.com
 0.0.0.0 reply.vk.com
 0.0.0.0 restore.vk.com
+0.0.0.0 rt.vk.com
 0.0.0.0 rybalkina.vk.com
 0.0.0.0 s9vk01jgn.vk.com
 0.0.0.0 saltcdn2.vk.com
@@ -3562,6 +3577,7 @@
 0.0.0.0 srv140-129-240-87.vk.com
 0.0.0.0 srv146-185-240-87.vk.com
 0.0.0.0 srv158-137-240-87.vk.com
+0.0.0.0 srv16-132-240-87.vk.com
 0.0.0.0 srv163-11-213-95.vk.com
 0.0.0.0 srv164-11-213-95.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
@@ -4149,6 +4165,7 @@
 0.0.0.0 kuberos.ops.ficanex.ada.support
 0.0.0.0 oauth2.ops.ficanex.ada.support
 0.0.0.0 prometheus.ops.ficanex.ada.support
+0.0.0.0 ficanex-proxy.svc.ficanex.ada.support
 0.0.0.0 firstrade.ada.support
 0.0.0.0 firstrade-prod.ada.support
 0.0.0.0 godaddy.ada.support
