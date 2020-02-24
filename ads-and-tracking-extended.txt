@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-23T16:36:59+00:00
-# Count: 102666 domains
+# Released: 2020-02-24T16:07:04+00:00
+# Count: 102737 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -1547,6 +1547,14 @@
 0.0.0.0 staging.ipfind.co
 0.0.0.0 static.ipfind.co
 0.0.0.0 www.ipfind.co
+0.0.0.0 jads.co
+0.0.0.0 ck.jads.co
+0.0.0.0 i.jads.co
+0.0.0.0 imgs.jads.co
+0.0.0.0 poweredby.jads.co
+0.0.0.0 redir.jads.co
+0.0.0.0 www.jads.co
+0.0.0.0 xapi.jads.co
 0.0.0.0 keywee.co
 0.0.0.0 app.keywee.co
 0.0.0.0 app3.keywee.co
@@ -28489,6 +28497,43 @@
 0.0.0.0 vdna.exelator.com
 0.0.0.0 www.exelator.com
 0.0.0.0 zabbix.exelator.com
+0.0.0.0 exoclick.com
+0.0.0.0 a.exoclick.com
+0.0.0.0 admin-v1.exoclick.com
+0.0.0.0 admin1.exoclick.com
+0.0.0.0 admin2.exoclick.com
+0.0.0.0 adminv3.exoclick.com
+0.0.0.0 ads.exoclick.com
+0.0.0.0 api.exoclick.com
+0.0.0.0 backend.exoclick.com
+0.0.0.0 darktrace.corp.exoclick.com
+0.0.0.0 custom.exoclick.com
+0.0.0.0 demos.exoclick.com
+0.0.0.0 es.exoclick.com
+0.0.0.0 fr.exoclick.com
+0.0.0.0 gen.exoclick.com
+0.0.0.0 mail.exoclick.com
+0.0.0.0 main.exoclick.com
+0.0.0.0 management.exoclick.com
+0.0.0.0 ns1.exoclick.com
+0.0.0.0 ns2.exoclick.com
+0.0.0.0 origin-ads.exoclick.com
+0.0.0.0 rtb.exoclick.com
+0.0.0.0 secure.exoclick.com
+0.0.0.0 static.exoclick.com
+0.0.0.0 static-hwcdn.exoclick.com
+0.0.0.0 static-ssl.exoclick.com
+0.0.0.0 stats.exoclick.com
+0.0.0.0 syndication.exoclick.com
+0.0.0.0 syndication-adblock.exoclick.com
+0.0.0.0 syndication-dyn.exoclick.com
+0.0.0.0 syndication-evo.exoclick.com
+0.0.0.0 syndication-p.exoclick.com
+0.0.0.0 syndication-whk1.exoclick.com
+0.0.0.0 syndication0.exoclick.com
+0.0.0.0 www.exoclick.com
+0.0.0.0 www-corp.exoclick.com
+0.0.0.0 z.exoclick.com
 0.0.0.0 exosrv.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 ads.exosrv.com
@@ -34081,6 +34126,31 @@
 0.0.0.0 survey-q2.juicemobile.com
 0.0.0.0 when-pigs-fly.juicemobile.com
 0.0.0.0 www.juicemobile.com
+0.0.0.0 juicyads.com
+0.0.0.0 ads.juicyads.com
+0.0.0.0 ads-a.juicyads.com
+0.0.0.0 adserver.juicyads.com
+0.0.0.0 adserver-a.juicyads.com
+0.0.0.0 adserver-api-dev.juicyads.com
+0.0.0.0 adserver-b.juicyads.com
+0.0.0.0 adserver-g.juicyads.com
+0.0.0.0 adserver-h.juicyads.com
+0.0.0.0 adserver2.juicyads.com
+0.0.0.0 api.juicyads.com
+0.0.0.0 ck.juicyads.com
+0.0.0.0 fill.juicyads.com
+0.0.0.0 iapi.juicyads.com
+0.0.0.0 imgs.juicyads.com
+0.0.0.0 js.juicyads.com
+0.0.0.0 manage-test.juicyads.com
+0.0.0.0 mobile.juicyads.com
+0.0.0.0 px.juicyads.com
+0.0.0.0 redir.juicyads.com
+0.0.0.0 secure.juicyads.com
+0.0.0.0 static.juicyads.com
+0.0.0.0 www.juicyads.com
+0.0.0.0 www2.juicyads.com
+0.0.0.0 xapi.juicyads.com
 0.0.0.0 jumboquiz.com
 0.0.0.0 cf.jumboquiz.com
 0.0.0.0 d1.jumboquiz.com
@@ -68322,6 +68392,7 @@
 0.0.0.0 crtx.info
 0.0.0.0 run.crtx.info
 0.0.0.0 www.crtx.info
+0.0.0.0 hurdleyreer.info
 0.0.0.0 match33.info
 0.0.0.0 mystighty.info
 0.0.0.0 www.mystighty.info

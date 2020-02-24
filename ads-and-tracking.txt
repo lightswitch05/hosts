@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-23T16:36:59+00:00
-# Count: 7865 domains
+# Released: 2020-02-24T16:07:04+00:00
+# Count: 7872 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -219,6 +219,8 @@
 0.0.0.0 ipdata.co
 0.0.0.0 api.ipdata.co
 0.0.0.0 ipfind.co
+0.0.0.0 jads.co
+0.0.0.0 poweredby.jads.co
 0.0.0.0 keywee.co
 0.0.0.0 cdn.keywee.co
 0.0.0.0 leadpages.co
@@ -2209,6 +2211,8 @@
 0.0.0.0 loadr.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 mydmp.exelator.com
+0.0.0.0 exoclick.com
+0.0.0.0 ads.exoclick.com
 0.0.0.0 exosrv.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 dctk.expedia.com
@@ -2798,6 +2802,8 @@
 0.0.0.0 service.joystickinteractive.com
 0.0.0.0 jsrdn.com
 0.0.0.0 juicemobile.com
+0.0.0.0 juicyads.com
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 jumboquiz.com
 0.0.0.0 jumpstarttaggingsolutions.com
 0.0.0.0 www.jumpstarttaggingsolutions.com
@@ -5744,6 +5750,7 @@
 0.0.0.0 cloud.cashtrafic.info
 0.0.0.0 crtx.info
 0.0.0.0 run.crtx.info
+0.0.0.0 hurdleyreer.info
 0.0.0.0 match33.info
 0.0.0.0 mystighty.info
 0.0.0.0 videoprivate.info
