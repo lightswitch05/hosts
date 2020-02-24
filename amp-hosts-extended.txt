@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2020-02-21T15:30:22+00:00
-# Count: 2976 domains
+# Released: 2020-02-24T15:56:47+00:00
+# Count: 2980 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -35,6 +35,7 @@
 0.0.0.0 amp-livescience-com.amp.cloudflare.com
 0.0.0.0 amp-miamiherald-com.amp.cloudflare.com
 0.0.0.0 amp-newsobserver-com.amp.cloudflare.com
+0.0.0.0 amp-rbc-ru.amp.cloudflare.com
 0.0.0.0 amp-redbull-com.amp.cloudflare.com
 0.0.0.0 amp-reddit-com.amp.cloudflare.com
 0.0.0.0 amp-theguardian-com.amp.cloudflare.com
@@ -69,6 +70,8 @@
 0.0.0.0 privateinsta-com.amp.cloudflare.com
 0.0.0.0 s.amp.cloudflare.com
 0.0.0.0 sakhalinmedia-ru.amp.cloudflare.com
+0.0.0.0 style-rbc-ru.amp.cloudflare.com
+0.0.0.0 styler-rbc-ua.amp.cloudflare.com
 0.0.0.0 thementalclub-com.amp.cloudflare.com
 0.0.0.0 thewincentral-com.amp.cloudflare.com
 0.0.0.0 thoughtcatalog-com.amp.cloudflare.com
@@ -107,6 +110,7 @@
 0.0.0.0 www-networkworld-com.amp.cloudflare.com
 0.0.0.0 www-newsweek-com.amp.cloudflare.com
 0.0.0.0 www-phuketgazette-net.amp.cloudflare.com
+0.0.0.0 www-rbc-ua.amp.cloudflare.com
 0.0.0.0 www-rferl-org.amp.cloudflare.com
 0.0.0.0 www-rvcj-com.amp.cloudflare.com
 0.0.0.0 www-sde-co-ke.amp.cloudflare.com
