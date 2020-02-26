@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-24T17:44:56+00:00
-# Count: 7873 domains
+# Released: 2020-02-26T13:26:50+00:00
+# Count: 7875 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -4206,6 +4206,8 @@
 0.0.0.0 us-adstatic.sam4m.com
 0.0.0.0 us-analytics.sam4m.com
 0.0.0.0 beacon.samsclub.com
+0.0.0.0 samsungads.com
+0.0.0.0 ads.samsungads.com
 0.0.0.0 sascdn.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 creatives.sascdn.com
