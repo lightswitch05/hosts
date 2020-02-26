@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-02-26T13:26:59+00:00
-# Count: 102744 domains
+# Released: 2020-02-26T18:32:07+00:00
+# Count: 102800 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -12755,6 +12755,42 @@
 0.0.0.0 js.appboycdn.com
 0.0.0.0 www.js.appboycdn.com
 0.0.0.0 www.appboycdn.com
+0.0.0.0 appcues.com
+0.0.0.0 api.appcues.com
+0.0.0.0 api-staging.appcues.com
+0.0.0.0 auth.appcues.com
+0.0.0.0 auth-staging.appcues.com
+0.0.0.0 bundler.appcues.com
+0.0.0.0 development.bundler.appcues.com
+0.0.0.0 staging.bundler.appcues.com
+0.0.0.0 cdn.appcues.com
+0.0.0.0 screenshots.cdn.appcues.com
+0.0.0.0 screenshots-staging.cdn.appcues.com
+0.0.0.0 css.appcues.com
+0.0.0.0 email.appcues.com
+0.0.0.0 eng.appcues.com
+0.0.0.0 fast.appcues.com
+0.0.0.0 fast-crx.appcues.com
+0.0.0.0 fast-nc.appcues.com
+0.0.0.0 go.appcues.com
+0.0.0.0 hubspot-site.appcues.com
+0.0.0.0 ideas.appcues.com
+0.0.0.0 image.appcues.com
+0.0.0.0 inside.appcues.com
+0.0.0.0 my.appcues.com
+0.0.0.0 development.my.appcues.com
+0.0.0.0 staging.my.appcues.com
+0.0.0.0 www.my.appcues.com
+0.0.0.0 presenting.appcues.com
+0.0.0.0 proxy.appcues.com
+0.0.0.0 public.appcues.com
+0.0.0.0 sdk.appcues.com
+0.0.0.0 segment.appcues.com
+0.0.0.0 status.appcues.com
+0.0.0.0 studio.appcues.com
+0.0.0.0 try.appcues.com
+0.0.0.0 vulpix.appcues.com
+0.0.0.0 www.appcues.com
 0.0.0.0 appdynamics.com
 0.0.0.0 accounts.appdynamics.com
 0.0.0.0 accounts-api.appdynamics.com
@@ -20674,6 +20710,8 @@
 0.0.0.0 watchlist.clearbit.com
 0.0.0.0 www.clearbit.com
 0.0.0.0 x.clearbit.com
+0.0.0.0 clearbitjs.com
+0.0.0.0 x.clearbitjs.com
 0.0.0.0 clevergirlscollective.com
 0.0.0.0 api.clevergirlscollective.com
 0.0.0.0 assets.clevergirlscollective.com
@@ -49841,6 +49879,24 @@
 0.0.0.0 ns7.promediaconverter.com
 0.0.0.0 ns8.promediaconverter.com
 0.0.0.0 www.promediaconverter.com
+0.0.0.0 proof-x.com
+0.0.0.0 api.proof-x.com
+0.0.0.0 app.proof-x.com
+0.0.0.0 auth.proof-x.com
+0.0.0.0 auth-staging.proof-x.com
+0.0.0.0 block-editor.proof-x.com
+0.0.0.0 block-editor-staging.proof-x.com
+0.0.0.0 blocksjs.proof-x.com
+0.0.0.0 blocksjs-staging.proof-x.com
+0.0.0.0 cdn.proof-x.com
+0.0.0.0 content.proof-x.com
+0.0.0.0 dev.proof-x.com
+0.0.0.0 e.proof-x.com
+0.0.0.0 enrich.proof-x.com
+0.0.0.0 events.proof-x.com
+0.0.0.0 graph.proof-x.com
+0.0.0.0 preview.proof-x.com
+0.0.0.0 staging-app.proof-x.com
 0.0.0.0 urldefense.proofpoint.com
 0.0.0.0 propellerads.com
 0.0.0.0 ab-config.propellerads.com
