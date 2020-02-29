@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-02-28T22:35:49+00:00
-# Count: 8015 domains
+# Released: 2020-02-29T19:52:39+00:00
+# Count: 8068 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1039,17 +1039,21 @@
 0.0.0.0 api-ntv-elb-1185445618.us-east-1.elb.amazonaws.com
 0.0.0.0 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 0.0.0.0 beacon-17-537698933.us-east-1.elb.amazonaws.com
+0.0.0.0 cobrowse-externale-8rgcdqborxnm-1333206640.us-east-1.elb.amazonaws.com
 0.0.0.0 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 0.0.0.0 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
 0.0.0.0 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
 0.0.0.0 dxedge-prod-lb-946522505.us-east-1.elb.amazonaws.com
+0.0.0.0 dualstack.engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
 0.0.0.0 log-c-907025318.us-east-1.elb.amazonaws.com
 0.0.0.0 logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
+0.0.0.0 matchuseast-1393638539.us-east-1.elb.amazonaws.com
 0.0.0.0 metrics-collector-1584522448.us-east-1.elb.amazonaws.com
 0.0.0.0 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
+0.0.0.0 pixel-prod-2-1626934611.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
 0.0.0.0 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
@@ -2035,9 +2039,14 @@
 0.0.0.0 dotomi.com
 0.0.0.0 cpe.dotomi.com
 0.0.0.0 ad.cpe.dotomi.com
+0.0.0.0 match.sync.ad.cpe.dotomi.com
+0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dtm.dotomi.com
 0.0.0.0 iad-usadmm.dotomi.com
+0.0.0.0 iad03-login-ds.dotomi.com
+0.0.0.0 iad03-usadmm.dotomi.com
 0.0.0.0 iad08-login-ds.dotomi.com
+0.0.0.0 login.dotomi.com
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 tpt.dotomi.com
@@ -2245,12 +2254,14 @@
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 exelator.com
 0.0.0.0 load.exelator.com
+0.0.0.0 load-dfw2.exelator.com
 0.0.0.0 load77.exelator.com
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 loadr.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 mydmp.exelator.com
+0.0.0.0 loadus.tm.ssl.exelator.com
 0.0.0.0 exoclick.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 exosrv.com
@@ -3246,6 +3257,7 @@
 0.0.0.0 adtag.mediaiqdigital.com
 0.0.0.0 dco.mediaiqdigital.com
 0.0.0.0 impression.mediaiqdigital.com
+0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 staging-trac.mediaiqdigital.com
 0.0.0.0 trac.mediaiqdigital.com
 0.0.0.0 mediamath.com
@@ -3545,6 +3557,7 @@
 0.0.0.0 mookie1.com
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 odr.mookie1.com
+0.0.0.0 tagr-gcp-odr-use1.mookie1.com
 0.0.0.0 mopub.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 cb.mopub.com
@@ -3683,6 +3696,8 @@
 0.0.0.0 s.ninjapd.com
 0.0.0.0 t.ninjapd.com
 0.0.0.0 u.ninjapd.com
+0.0.0.0 ninthdecimal.com
+0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 neso.r.niwepa.com
 0.0.0.0 nmgassets.com
 0.0.0.0 di.nmgassets.com
@@ -3783,6 +3798,7 @@
 0.0.0.0 optimezer.com
 0.0.0.0 optimizely.com
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 a16844480238.cdn.optimizely.com
 0.0.0.0 a1859010085.cdn.optimizely.com
 0.0.0.0 a2129670914.cdn.optimizely.com
 0.0.0.0 a5763640713.cdn.optimizely.com
@@ -3790,6 +3806,7 @@
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 341800575.log.optimizely.com
+0.0.0.0 logx.optimizely.com
 0.0.0.0 optmd.com
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn-sec.optmd.com
@@ -4003,6 +4020,7 @@
 0.0.0.0 hbopenbid88000nf.pubmatic.com
 0.0.0.0 lyr.pubmatic.com
 0.0.0.0 pug44000nf.pubmatic.com
+0.0.0.0 pugm33000nf.pubmatic.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 pubocean.com
@@ -4265,6 +4283,9 @@
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 tap2-cdn.rubiconproject.com
+0.0.0.0 token.rubiconproject.com
+0.0.0.0 rundsp.com
+0.0.0.0 match.rundsp.com
 0.0.0.0 runslin.com
 0.0.0.0 rxthdr.com
 0.0.0.0 pa.rxthdr.com
@@ -4277,6 +4298,11 @@
 0.0.0.0 evt.s4mdsp.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 salemove.com
+0.0.0.0 assets.salemove.com
+0.0.0.0 client-logger.salemove.com
+0.0.0.0 libs.salemove.com
+0.0.0.0 pubsub.salemove.com
 0.0.0.0 c.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 d.la1-c2-phx.salesforceliveagent.com
 0.0.0.0 salesloft.com
@@ -4732,6 +4758,7 @@
 0.0.0.0 search.spotxchange.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
+0.0.0.0 iad02.sync.search.spotxchange.com
 0.0.0.0 springserve.com
 0.0.0.0 cdn.springserve.com
 0.0.0.0 vid.springserve.com
@@ -4809,6 +4836,7 @@
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 survata.com
 0.0.0.0 ev.surveywall-api.survata.com
+0.0.0.0 px.surveywall-api.survata.com
 0.0.0.0 survicate.com
 0.0.0.0 api.survicate.com
 0.0.0.0 survey.survicate.com
@@ -4859,6 +4887,7 @@
 0.0.0.0 www.tamgrt.com
 0.0.0.0 tapad.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 tapestry.tapad.com
 0.0.0.0 tapfiliate.com
 0.0.0.0 static.tapfiliate.com
 0.0.0.0 tapjoy.com
@@ -5027,6 +5056,7 @@
 0.0.0.0 d3kkw-y716t.ads.tremorhub.com
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
 0.0.0.0 events.tremorhub.com
+0.0.0.0 partners.tremorhub.com
 0.0.0.0 publishers.tremorhub.com
 0.0.0.0 qds0l.publishers.tremorhub.com
 0.0.0.0 trendmd.com
@@ -5034,6 +5064,7 @@
 0.0.0.0 tresensa.com
 0.0.0.0 analytics.tresensa.com
 0.0.0.0 tribalfusion.com
+0.0.0.0 a.tribalfusion.com
 0.0.0.0 a-lb.tribalfusion.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 triplelift.com
@@ -5084,6 +5115,9 @@
 0.0.0.0 tvpixel.com
 0.0.0.0 c.tvpixel.com
 0.0.0.0 p.tvpixel.com
+0.0.0.0 tvsquared.com
+0.0.0.0 collector-6510.tvsquared.com
+0.0.0.0 collectorh.tvsquared.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 tworismo.com
@@ -5455,10 +5489,12 @@
 0.0.0.0 y4g3d2v1.com
 0.0.0.0 req.y4g3d2v1.com
 0.0.0.0 trk.y4g3d2v1.com
+0.0.0.0 ads.yahoo.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 opus.analytics.yahoo.com
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 y.analytics.yahoo.com
 0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 0.0.0.0 media-router-flurry7.prod.media.wg1.b.yahoo.com
@@ -5873,6 +5909,7 @@
 0.0.0.0 videoprivate.info
 0.0.0.0 1rx.io
 0.0.0.0 hbevents.1rx.io
+0.0.0.0 sync.1rx.io
 0.0.0.0 tag.1rx.io
 0.0.0.0 5rocks.io
 0.0.0.0 www.5rocks.io
@@ -6510,6 +6547,8 @@
 0.0.0.0 nativeadsfeed.rtb.ak-is.net
 0.0.0.0 adcom.akadns.net
 0.0.0.0 ns.leadback.ace.advertising.com.adcom.akadns.net
+0.0.0.0 adformnet.akadns.net
+0.0.0.0 track-us.adformnet.akadns.net
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 iad-apple.com.akadns.net
@@ -6518,12 +6557,16 @@
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 rfihub.com.akadns.net
 0.0.0.0 a.rfihub.com.akadns.net
+0.0.0.0 stickyadstv.com.akadns.net
+0.0.0.0 fp4.ads.stickyadstv.com.akadns.net
 0.0.0.0 tribalfusion.com.akadns.net
 0.0.0.0 a-lb.tribalfusion.com.akadns.net
 0.0.0.0 a-scl1.tribalfusion.com.akadns.net
 0.0.0.0 beacon-all.walmart.com.akadns.net
 0.0.0.0 beacon-cdn.walmart.com.akadns.net
+0.0.0.0 rubiconproject.net.akadns.net
 0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
+0.0.0.0 pixel.rubiconproject.net.akadns.net
 0.0.0.0 ads.nexage.akadns.net
 0.0.0.0 msg-media.valueclick.akadns.net
 0.0.0.0 vungle.akadns.net
@@ -6588,6 +6631,7 @@
 0.0.0.0 api-oma-02.bandwidthx.net
 0.0.0.0 api-oma-a.bandwidthx.net
 0.0.0.0 cdn.bandwidthx.net
+0.0.0.0 basis.net
 0.0.0.0 cdn01.basis.net
 0.0.0.0 clickserv.basis.net
 0.0.0.0 pixel-a.basis.net
@@ -6885,6 +6929,8 @@
 0.0.0.0 vcdn.fastclick.net
 0.0.0.0 video1.fastclick.net
 0.0.0.0 vstatic.fastclick.net
+0.0.0.0 krxd.net.c.global-ssl.fastly.net
+0.0.0.0 cdn-fastly.krxd.net.c.global-ssl.fastly.net
 0.0.0.0 prod.appnexus.map.fastly.net
 0.0.0.0 brightcove.map.fastly.net
 0.0.0.0 media.brightcove.map.fastly.net
@@ -7361,6 +7407,8 @@
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 data.wptag.net
 0.0.0.0 ads.wsrs.net
+0.0.0.0 xtlo.net
+0.0.0.0 origin.xtlo.net
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 ir2-beap.cb.g01.yahoodns.net
@@ -7566,6 +7614,8 @@
 0.0.0.0 api.bibblio.org
 0.0.0.0 cdn.bibblio.org
 0.0.0.0 invitation.cantonfair.org
+0.0.0.0 cdn77.org
+0.0.0.0 1605158521.rsc.cdn77.org
 0.0.0.0 commercialvalue.org
 0.0.0.0 consensu.org
 0.0.0.0 mgr.consensu.org
@@ -7859,6 +7909,8 @@
 0.0.0.0 ravm.tv
 0.0.0.0 insight.reflow.tv
 0.0.0.0 log2.reflow.tv
+0.0.0.0 samba.tv
+0.0.0.0 ads.samba.tv
 0.0.0.0 scenestealer.tv
 0.0.0.0 events.set.tv
 0.0.0.0 shoofle.tv
@@ -7992,6 +8044,7 @@
 0.0.0.0 rubiconproject.us
 0.0.0.0 samplicio.us
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 usersync.samplicio.us
 0.0.0.0 ss2.us
 0.0.0.0 o.ss2.us
 0.0.0.0 s.ss2.us
