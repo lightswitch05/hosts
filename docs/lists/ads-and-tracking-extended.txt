@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-02T16:01:17+00:00
-# Count: 109825 domains
+# Released: 2020-03-03T17:58:40+00:00
+# Count: 109857 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -5796,6 +5796,10 @@
 0.0.0.0 addevent.com
 0.0.0.0 track.addevent.com
 0.0.0.0 www.addevent.com
+0.0.0.0 addonjet.com
+0.0.0.0 partner.addonjet.com
+0.0.0.0 publisher.addonjet.com
+0.0.0.0 www.addonjet.com
 0.0.0.0 addragon.com
 0.0.0.0 addragon-addragon.addragon.com
 0.0.0.0 addragon-addragon-review-ad-slot-la-gfuz0c.addragon.com
@@ -45792,6 +45796,28 @@
 0.0.0.0 link.test.monetizer101.com
 0.0.0.0 testapi.monetizer101.com
 0.0.0.0 www.monetizer101.com
+0.0.0.0 monetizus.com
+0.0.0.0 ad.monetizus.com
+0.0.0.0 click-house.monetizus.com
+0.0.0.0 dev.monetizus.com
+0.0.0.0 wp4.dev.monetizus.com
+0.0.0.0 dev-madm.monetizus.com
+0.0.0.0 testungz.dev-madm.monetizus.com
+0.0.0.0 g.monetizus.com
+0.0.0.0 gl.monetizus.com
+0.0.0.0 gl2.monetizus.com
+0.0.0.0 kibana.monetizus.com
+0.0.0.0 madm.monetizus.com
+0.0.0.0 mon.monetizus.com
+0.0.0.0 mon-v2.monetizus.com
+0.0.0.0 partner.monetizus.com
+0.0.0.0 partners.monetizus.com
+0.0.0.0 prometheus.monetizus.com
+0.0.0.0 rancher.monetizus.com
+0.0.0.0 registry.monetizus.com
+0.0.0.0 testin-dev-madm.monetizus.com
+0.0.0.0 testungz-dev-madm.monetizus.com
+0.0.0.0 www.monetizus.com
 0.0.0.0 monumetric.com
 0.0.0.0 account.monumetric.com
 0.0.0.0 accounts.monumetric.com
@@ -109572,7 +109598,11 @@
 0.0.0.0 stage.search-api.fie.future.net.uk
 0.0.0.0 anonymousinsights.us
 0.0.0.0 www.anonymousinsights.us
+0.0.0.0 cdnpps.us
+0.0.0.0 www.cdnpps.us
 0.0.0.0 metrics.dockerhub.us
+0.0.0.0 icontent.us
+0.0.0.0 www.icontent.us
 0.0.0.0 rubiconproject.us
 0.0.0.0 www.rubiconproject.us
 0.0.0.0 samplicio.us
@@ -109595,6 +109625,8 @@
 0.0.0.0 o.ss2.us
 0.0.0.0 s.ss2.us
 0.0.0.0 x.ss2.us
+0.0.0.0 thisadsfor.us
+0.0.0.0 www.thisadsfor.us
 0.0.0.0 trkn.us
 0.0.0.0 aa.trkn.us
 0.0.0.0 log.zoom.us
