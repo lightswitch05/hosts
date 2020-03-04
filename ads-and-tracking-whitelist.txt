@@ -225,4 +225,6 @@
 # r5---sn-aigl6ner.c.2mdn.net
 ^\S{16}\.c\.2mdn\.net$
 
+# per https://github.com/lightswitch05/hosts/issues/138
+^www\.ispot\.tv$
 
