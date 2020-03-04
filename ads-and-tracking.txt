@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-04T14:20:50+00:00
-# Count: 8171 domains
+# Released: 2020-03-04T19:45:28+00:00
+# Count: 8176 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -40,6 +40,9 @@
 0.0.0.0 native.ai
 0.0.0.0 cdn.native.ai
 0.0.0.0 nova.ai
+0.0.0.0 rebel.ai
+0.0.0.0 cdn.rebel.ai
+0.0.0.0 secure.rebel.ai
 0.0.0.0 related.ai
 0.0.0.0 valo.ai
 0.0.0.0 pixel.valo.ai
@@ -1551,6 +1554,7 @@
 0.0.0.0 static.bumlam.com
 0.0.0.0 sync.bumlam.com
 0.0.0.0 bung.com
+0.0.0.0 analytics.businessinsider.com
 0.0.0.0 buy-ad.com
 0.0.0.0 rtb.buy-ad.com
 0.0.0.0 buypixelads.com
@@ -6794,6 +6798,7 @@
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3vz9qh00ayk4x.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
+0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9etzk30b05yg.cloudfront.net
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
