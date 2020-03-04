@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-04T02:41:14+00:00
-# Count: 109858 domains
+# Released: 2020-03-04T14:21:00+00:00
+# Count: 109902 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -6850,6 +6850,7 @@
 0.0.0.0 slate-tagan.adlightning.com
 0.0.0.0 sporcle-tagan.adlightning.com
 0.0.0.0 adtag.staging.adlightning.com
+0.0.0.0 streamlyn-tagan.adlightning.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tegna-tagan.adlightning.com
 0.0.0.0 thisoldhouse-tagan.adlightning.com
@@ -44937,6 +44938,40 @@
 0.0.0.0 ml-attr.com
 0.0.0.0 s.ml-attr.com
 0.0.0.0 www.s.ml-attr.com
+0.0.0.0 ml314.com
+0.0.0.0 in.ml314.com
+0.0.0.0 perpro01-uw2a.ml314.com
+0.0.0.0 perpro02-uw2a.ml314.com
+0.0.0.0 perpro05-uw2b.ml314.com
+0.0.0.0 perpro06-uw2b.ml314.com
+0.0.0.0 perpro07-as1a.ml314.com
+0.0.0.0 perpro08-as1a.ml314.com
+0.0.0.0 perpro09-ew1a.ml314.com
+0.0.0.0 perpro10-ew1a.ml314.com
+0.0.0.0 perpro11-ew1a.ml314.com
+0.0.0.0 perpro12-ue1b.ml314.com
+0.0.0.0 perpro13-ue1b.ml314.com
+0.0.0.0 perpro14-ue1c.ml314.com
+0.0.0.0 perpro15-ue1c.ml314.com
+0.0.0.0 perpro16-ew1b.ml314.com
+0.0.0.0 perpro17-ew1b.ml314.com
+0.0.0.0 perpro18-ue1b.ml314.com
+0.0.0.0 perpro19-ue1b.ml314.com
+0.0.0.0 perpro20-ue1c.ml314.com
+0.0.0.0 perpro21-ue1c.ml314.com
+0.0.0.0 perpro22-as1a.ml314.com
+0.0.0.0 perpro23-ue1b.ml314.com
+0.0.0.0 perpro24-ue1b.ml314.com
+0.0.0.0 perpro25-as1a.ml314.com
+0.0.0.0 perpro26-ew1a.ml314.com
+0.0.0.0 perpro27-ew1a.ml314.com
+0.0.0.0 perpro28-ue1c.ml314.com
+0.0.0.0 perpro29-ue1c.ml314.com
+0.0.0.0 perpro30-ue1c.ml314.com
+0.0.0.0 perpro31-ue1b.ml314.com
+0.0.0.0 perpro36-an2c.ml314.com
+0.0.0.0 rtg.ml314.com
+0.0.0.0 www.ml314.com
 0.0.0.0 mm-syringe.com
 0.0.0.0 assets.mm-syringe.com
 0.0.0.0 bucket1.mm-syringe.com
@@ -62102,6 +62137,8 @@
 0.0.0.0 s.svtrd.com
 0.0.0.0 t.svtrd.com
 0.0.0.0 trc-latency.svtrd.com
+0.0.0.0 cc.swiftype.com
+0.0.0.0 s.swiftypecdn.com
 0.0.0.0 attribution.swiss.com
 0.0.0.0 swrve.com
 0.0.0.0 abt-prod-us-east-1-content-star.swrve.com
@@ -71042,6 +71079,7 @@
 0.0.0.0 www.audiencemanager.de
 0.0.0.0 1.belboon.de
 0.0.0.0 www1.belboon.de
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 postview.devk.de
 0.0.0.0 www.postview.devk.de
 0.0.0.0 df-srv.de
@@ -84238,6 +84276,7 @@
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3vz9qh00ayk4x.cloudfront.net
 0.0.0.0 d4pz26d5itt3n.cloudfront.net
+0.0.0.0 d9etzk30b05yg.cloudfront.net
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
 0.0.0.0 ddzuuyx7zj81k.cloudfront.net
 0.0.0.0 divp3w86nodu0.cloudfront.net
@@ -102395,6 +102434,11 @@
 0.0.0.0 rtb.udmserve.net
 0.0.0.0 static.udmserve.net
 0.0.0.0 www.udmserve.net
+0.0.0.0 upapi.net
+0.0.0.0 ln.upapi.net
+0.0.0.0 mrb.upapi.net
+0.0.0.0 sp.upapi.net
+0.0.0.0 srv.upapi.net
 0.0.0.0 userreplay.net
 0.0.0.0 3b5b5e54.userreplay.net
 0.0.0.0 3b5b5e54-9.userreplay.net
