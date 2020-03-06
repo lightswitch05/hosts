@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-06T13:52:47+00:00
-# Count: 109171 domains
+# Released: 2020-03-06T20:56:15+00:00
+# Count: 109188 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -32324,6 +32324,8 @@
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 socialize.us1.gigya.com
+0.0.0.0 gc.gjg-tech.com
+0.0.0.0 gdpr.gjg-tech.com
 0.0.0.0 glassboxcdn.com
 0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
@@ -59224,6 +59226,19 @@
 0.0.0.0 us-east-win.s4mdsp.com
 0.0.0.0 us-west-win.s4mdsp.com
 0.0.0.0 www.s4mdsp.com
+0.0.0.0 safedk.com
+0.0.0.0 api.safedk.com
+0.0.0.0 brand.safedk.com
+0.0.0.0 config.safedk.com
+0.0.0.0 edge.safedk.com
+0.0.0.0 gdpr.safedk.com
+0.0.0.0 mobile-sdk-data-trends.safedk.com
+0.0.0.0 mp.safedk.com
+0.0.0.0 pr.safedk.com
+0.0.0.0 www.pr.safedk.com
+0.0.0.0 press.safedk.com
+0.0.0.0 www.press.safedk.com
+0.0.0.0 www.safedk.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 ak2.sail-horizon.com
@@ -103090,6 +103105,8 @@
 0.0.0.0 metrics.smaato.net
 0.0.0.0 profserv01.smaato.net
 0.0.0.0 s10.smaato.net
+0.0.0.0 sdk-hb.smaato.net
+0.0.0.0 1100042565.sdk-hb.smaato.net
 0.0.0.0 sdk-hb-cfg.smaato.net
 0.0.0.0 se.smaato.net
 0.0.0.0 soma.smaato.net

@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-06T13:52:37+00:00
-# Count: 8184 domains
+# Released: 2020-03-06T20:56:05+00:00
+# Count: 8194 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2498,6 +2498,8 @@
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 px.gfycat.com
 0.0.0.0 socialize.us1.gigya.com
+0.0.0.0 gc.gjg-tech.com
+0.0.0.0 gdpr.gjg-tech.com
 0.0.0.0 glassboxcdn.com
 0.0.0.0 cdn.glassboxcdn.com
 0.0.0.0 glasslytics.com
@@ -4374,6 +4376,9 @@
 0.0.0.0 s4mdsp.com
 0.0.0.0 cdn.s4mdsp.com
 0.0.0.0 evt.s4mdsp.com
+0.0.0.0 safedk.com
+0.0.0.0 api.safedk.com
+0.0.0.0 config.safedk.com
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 salemove.com
@@ -5246,6 +5251,7 @@
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 publisher-config-gcp.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
@@ -5397,6 +5403,7 @@
 0.0.0.0 vsassets.com
 0.0.0.0 vudo.com
 0.0.0.0 vungle.com
+0.0.0.0 api.vungle.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 www.vungle.com
 0.0.0.0 link.wacom.com
@@ -7426,6 +7433,9 @@
 0.0.0.0 i.singular.net
 0.0.0.0 skillapp.net
 0.0.0.0 smaato.net
+0.0.0.0 sdk-hb.smaato.net
+0.0.0.0 1100042565.sdk-hb.smaato.net
+0.0.0.0 sdk-hb-cfg.smaato.net
 0.0.0.0 soma-assets.smaato.net
 0.0.0.0 smartclip.net
 0.0.0.0 ad.smartclip.net
