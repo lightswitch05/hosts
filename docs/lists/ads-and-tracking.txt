@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-04T21:14:49+00:00
-# Count: 8177 domains
+# Released: 2020-03-06T01:37:53+00:00
+# Count: 8179 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2483,6 +2483,8 @@
 0.0.0.0 gethatch.com
 0.0.0.0 cdn.gethatch.com
 0.0.0.0 analytics.getpostman.com
+0.0.0.0 getresponse.com
+0.0.0.0 ga.getresponse.com
 0.0.0.0 getrockerbox.com
 0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 getsentry.com
