@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-02T03:44:53+00:00
-# Count: 4108 domains
+# Released: 2020-03-09T02:46:18+00:00
+# Count: 4119 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -39,6 +39,7 @@
 0.0.0.0 scontent-a-iad.cdninstagram.com
 0.0.0.0 scontent-a-lax.cdninstagram.com
 0.0.0.0 scontent-a-lga.cdninstagram.com
+0.0.0.0 scontent-a-lhr.cdninstagram.com
 0.0.0.0 scontent-a-mia.cdninstagram.com
 0.0.0.0 scontent-a-nrt.cdninstagram.com
 0.0.0.0 scontent-a-sea.cdninstagram.com
@@ -100,6 +101,7 @@
 0.0.0.0 scontent-hkg.cdninstagram.com
 0.0.0.0 scontent-hkg3-1.cdninstagram.com
 0.0.0.0 scontent-hkg3-2.cdninstagram.com
+0.0.0.0 scontent-hkt1-1.cdninstagram.com
 0.0.0.0 scontent-iad.cdninstagram.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
 0.0.0.0 scontent-icn1-1.cdninstagram.com
@@ -470,6 +472,7 @@
 0.0.0.0 es-es.facebook.com
 0.0.0.0 es-la.facebook.com
 0.0.0.0 et-ee.facebook.com
+0.0.0.0 eu-es.facebook.com
 0.0.0.0 everis.facebook.com
 0.0.0.0 evry.facebook.com
 0.0.0.0 exprealty.facebook.com
@@ -507,6 +510,7 @@
 0.0.0.0 hr.facebook.com
 0.0.0.0 hr-hr.facebook.com
 0.0.0.0 hu-hu.facebook.com
+0.0.0.0 hy-am.facebook.com
 0.0.0.0 cisco-imc.iad3.facebook.com
 0.0.0.0 netdna01.iad3.facebook.com
 0.0.0.0 id-id.facebook.com
@@ -1112,6 +1116,7 @@
 0.0.0.0 www.brazil.fb.com
 0.0.0.0 businesspartners.fb.com
 0.0.0.0 www.businesspartners.fb.com
+0.0.0.0 buy.fb.com
 0.0.0.0 careerconnections.fb.com
 0.0.0.0 www.careerconnections.fb.com
 0.0.0.0 cdp.fb.com
@@ -2445,6 +2450,7 @@
 0.0.0.0 b.fb.me
 0.0.0.0 b-api.fb.me
 0.0.0.0 braph.fb.me
+0.0.0.0 cust-demo-test.fb.me
 0.0.0.0 d.fb.me
 0.0.0.0 dd.fb.me
 0.0.0.0 en.fb.me
@@ -3311,7 +3317,10 @@
 0.0.0.0 b.ns.fna.fbcdn.net
 0.0.0.0 c.ns.fna.fbcdn.net
 0.0.0.0 d.ns.fna.fbcdn.net
+0.0.0.0 fna-fbcdn-shv-01-fapa1.fbcdn.net
+0.0.0.0 fna-fbcdn-shv-01-fbed1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fbed1.fbcdn.net
+0.0.0.0 fna-fbcdn-video-shv-01-fapa1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-fccu4.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-02-fbed1.fbcdn.net
@@ -3348,6 +3357,7 @@
 0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cdt1.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-cgk1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-fco1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-hkt1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-kut2.fbcdn.net
@@ -3638,6 +3648,7 @@
 0.0.0.0 xx-fbcdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-gru2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-02-ort2.fbcdn.net
 0.0.0.0 xy.fbcdn.net
 0.0.0.0 a.ns.xy.fbcdn.net
 0.0.0.0 b.ns.xy.fbcdn.net

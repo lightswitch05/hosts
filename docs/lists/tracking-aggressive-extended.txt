@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-03-08T01:58:49+00:00
-# Count: 4903 domains
+# Released: 2020-03-09T02:38:03+00:00
+# Count: 4917 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -39,6 +39,7 @@
 0.0.0.0 corbuildagents.cortana.ai
 0.0.0.0 substrate.tdf.cortanaatworkservice.cortana.ai
 0.0.0.0 cortanacoreruntimemds.cortana.ai
+0.0.0.0 prod.cch.dds.cortana.ai
 0.0.0.0 macert.geneva.keyvault.debug.cortana.ai
 0.0.0.0 corbuildagents.geneva.keyvault.dev.cortana.ai
 0.0.0.0 cortex.shs.dev.cortana.ai
@@ -618,6 +619,7 @@
 0.0.0.0 homedepot.ugc.bazaarvoice.com
 0.0.0.0 hongkong.ugc.bazaarvoice.com
 0.0.0.0 horizonhobby.ugc.bazaarvoice.com
+0.0.0.0 hotspring.ugc.bazaarvoice.com
 0.0.0.0 hp.ugc.bazaarvoice.com
 0.0.0.0 hpemea-de.ugc.bazaarvoice.com
 0.0.0.0 hpemea-en.ugc.bazaarvoice.com
@@ -1004,6 +1006,7 @@
 0.0.0.0 akamai-san81.exacttarget.com
 0.0.0.0 akamai-san82.exacttarget.com
 0.0.0.0 akamai-san83.exacttarget.com
+0.0.0.0 akamai-san84.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
@@ -1442,6 +1445,7 @@
 0.0.0.0 image.s2.qa3.exacttarget.com
 0.0.0.0 imh.s2.qa3.exacttarget.com
 0.0.0.0 manage.s2.qa3.exacttarget.com
+0.0.0.0 manage-api.s2.qa3.exacttarget.com
 0.0.0.0 mc.s2.qa3.exacttarget.com
 0.0.0.0 members.s2.qa3.exacttarget.com
 0.0.0.0 origin-auth.s2.qa3.exacttarget.com
@@ -1462,18 +1466,23 @@
 0.0.0.0 members.rolodex.exacttarget.com
 0.0.0.0 s1.exacttarget.com
 0.0.0.0 app.s1.exacttarget.com
+0.0.0.0 appmanager.s1.exacttarget.com
 0.0.0.0 auth.s1.exacttarget.com
 0.0.0.0 editorsupport.s1.exacttarget.com
 0.0.0.0 gadget.s1.exacttarget.com
 0.0.0.0 imh.s1.exacttarget.com
 0.0.0.0 inbound-reply.s1.exacttarget.com
 0.0.0.0 login.s1.exacttarget.com
+0.0.0.0 mawebservice.s1.exacttarget.com
 0.0.0.0 mc.s1.exacttarget.com
 0.0.0.0 origin-akamai-auth.s1.exacttarget.com
+0.0.0.0 origin-akamai-members.s1.exacttarget.com
 0.0.0.0 origin-auth.s1.exacttarget.com
+0.0.0.0 origin-imh.s1.exacttarget.com
 0.0.0.0 pub.s1.exacttarget.com
 0.0.0.0 rest.s1.exacttarget.com
 0.0.0.0 scpweb.s1.exacttarget.com
+0.0.0.0 sock.s1.exacttarget.com
 0.0.0.0 tripadvisor.s1.exacttarget.com
 0.0.0.0 s10.exacttarget.com
 0.0.0.0 bounce.s10.exacttarget.com
@@ -1937,6 +1946,7 @@
 0.0.0.0 app.getbeamer.com
 0.0.0.0 backend.getbeamer.com
 0.0.0.0 errors.getbeamer.com
+0.0.0.0 functions.getbeamer.com
 0.0.0.0 landing.getbeamer.com
 0.0.0.0 logs.getbeamer.com
 0.0.0.0 mail.getbeamer.com
@@ -3780,6 +3790,7 @@
 0.0.0.0 cs143.vk.com
 0.0.0.0 cs216.vk.com
 0.0.0.0 cs219.vk.com
+0.0.0.0 cs230.vk.com
 0.0.0.0 cs292596712.vk.com
 0.0.0.0 cs302709.vk.com
 0.0.0.0 theagency.web5913.cs304110.vk.com
@@ -4571,6 +4582,7 @@
 0.0.0.0 telus-mobility.ca.ada.support
 0.0.0.0 ccrb.ada.support
 0.0.0.0 cdbaby.ada.support
+0.0.0.0 cheapoair.ada.support
 0.0.0.0 clearbanc.ada.support
 0.0.0.0 clearloans.ada.support
 0.0.0.0 client-handle.ada.support
@@ -4635,8 +4647,10 @@
 0.0.0.0 mi.ada.support
 0.0.0.0 mintsim.ada.support
 0.0.0.0 moneysupermarket.ada.support
+0.0.0.0 mpower.ada.support
 0.0.0.0 muse.ada.support
 0.0.0.0 nordvpn.ada.support
+0.0.0.0 null.ada.support
 0.0.0.0 o.ada.support
 0.0.0.0 ops.ada.support
 0.0.0.0 airflow.ops.ada.support
