@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-09T16:27:59+00:00
-# Count: 108851 domains
+# Released: 2020-03-10T02:10:14+00:00
+# Count: 108865 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17511,6 +17511,7 @@
 0.0.0.0 pixel.warner.buzzdeck.com
 0.0.0.0 www.buzzdeck.com
 0.0.0.0 abeagle-public.buzzfeed.com
+0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 recsys-api.buzzfeed.com
 0.0.0.0 bytegain.com
 0.0.0.0 api.bytegain.com
@@ -59457,6 +59458,19 @@
 0.0.0.0 www.semanticontext.com
 0.0.0.0 semasio.com
 0.0.0.0 www.semasio.com
+0.0.0.0 sensortower.com
+0.0.0.0 api.sensortower.com
+0.0.0.0 blog-internal.sensortower.com
+0.0.0.0 blog-staging.sensortower.com
+0.0.0.0 ehelp.sensortower.com
+0.0.0.0 email.sensortower.com
+0.0.0.0 go.sensortower.com
+0.0.0.0 links.sensortower.com
+0.0.0.0 marketo.sensortower.com
+0.0.0.0 staging1.sensortower.com
+0.0.0.0 staging2.sensortower.com
+0.0.0.0 static.sensortower.com
+0.0.0.0 www.sensortower.com
 0.0.0.0 sentry-cdn.com
 0.0.0.0 10.72.180.60browser.sentry-cdn.com
 0.0.0.0 brower.sentry-cdn.com
