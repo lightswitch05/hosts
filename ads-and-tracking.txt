@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-10T02:10:02+00:00
-# Count: 8200 domains
+# Released: 2020-03-10T13:00:00+00:00
+# Count: 8204 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -3907,6 +3907,8 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 outbrainimg.com
+0.0.0.0 log.outbrainimg.com
 0.0.0.0 outriggermedia.com
 0.0.0.0 ads.outriggermedia.com
 0.0.0.0 tracking.outriggermedia.com
@@ -6907,6 +6909,7 @@
 0.0.0.0 xfinitydigital.demdex.net
 0.0.0.0 deqwas.net
 0.0.0.0 districtm.net
+0.0.0.0 services.districtm.net
 0.0.0.0 a.dlqm.net
 0.0.0.0 b.dlqm.net
 0.0.0.0 s.dlqm.net
@@ -7382,6 +7385,7 @@
 0.0.0.0 siteintercept.qprod2.net
 0.0.0.0 returnpath.net
 0.0.0.0 pixel.app.returnpath.net
+0.0.0.0 pixel1.returnpath.net
 0.0.0.0 brain.rtb.revcloud.net
 0.0.0.0 nb-us.wal.co.revdn.net
 0.0.0.0 rfihub.net
