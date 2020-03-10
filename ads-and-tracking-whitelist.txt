@@ -67,13 +67,10 @@
 ^(www\.)?hipchat\.
 ^(www\.)?slack\.
 ^(www\.)?help\.
-^(www\.)?qa\.
 ^(www\.)?ftp\.
 ^(www\.)?ssh\.
 ^(www\.)?sftp\.
 ^(www\.)?dns\.
-^(www\.)?beta\.
-^(www\.)?test\.
 ^(www\.)?optout\d?\.
 ^(www\.)?api-docs\.
 ^(www\.)?contact\.
