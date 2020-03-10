@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-10T13:27:03+00:00
-# Count: 108873 domains
+# Released: 2020-03-10T13:47:49+00:00
+# Count: 108963 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -102990,7 +102990,97 @@
 0.0.0.0 us-sonar.sociomantic.net
 0.0.0.0 us-static.sociomantic.net
 0.0.0.0 web.sociomantic.net
+0.0.0.0 sp-prod.net
+0.0.0.0 account.sp-prod.net
+0.0.0.0 altpay.sp-prod.net
+0.0.0.0 altpay-co.sp-prod.net
+0.0.0.0 api.sp-prod.net
+0.0.0.0 bc.sp-prod.net
+0.0.0.0 blissvpn.sp-prod.net
+0.0.0.0 blocked-asset.sp-prod.net
 0.0.0.0 ccpa.sp-prod.net
+0.0.0.0 ccpa-notice.sp-prod.net
+0.0.0.0 ccpa-pm.sp-prod.net
+0.0.0.0 ccpa-service.sp-prod.net
+0.0.0.0 cs.che.sp-prod.net
+0.0.0.0 cs.sp-prod.net
+0.0.0.0 dialogue.sp-prod.net
+0.0.0.0 bc.fra.sp-prod.net
+0.0.0.0 blocked-asset.fra.sp-prod.net
+0.0.0.0 cs.fra.sp-prod.net
+0.0.0.0 fsm.fra.sp-prod.net
+0.0.0.0 mms.fra.sp-prod.net
+0.0.0.0 fsm.sp-prod.net
+0.0.0.0 fsm-direct.sp-prod.net
+0.0.0.0 fsm-direct-fra.sp-prod.net
+0.0.0.0 bc.iad.sp-prod.net
+0.0.0.0 blocked-asset.iad.sp-prod.net
+0.0.0.0 cs.iad.sp-prod.net
+0.0.0.0 mms.iad.sp-prod.net
+0.0.0.0 cs.lhr.sp-prod.net
+0.0.0.0 message.sp-prod.net
+0.0.0.0 message-fra.sp-prod.net
+0.0.0.0 message-iad.sp-prod.net
+0.0.0.0 message000.sp-prod.net
+0.0.0.0 message000-iad.sp-prod.net
+0.0.0.0 message1048.sp-prod.net
+0.0.0.0 message1048-fra.sp-prod.net
+0.0.0.0 message1048-iad.sp-prod.net
+0.0.0.0 message1061.sp-prod.net
+0.0.0.0 message1066.sp-prod.net
+0.0.0.0 message1067.sp-prod.net
+0.0.0.0 message1067-fra.sp-prod.net
+0.0.0.0 message1086.sp-prod.net
+0.0.0.0 message1086-fra.sp-prod.net
+0.0.0.0 message1096-fra.sp-prod.net
+0.0.0.0 message1096-iad.sp-prod.net
+0.0.0.0 message1101.sp-prod.net
+0.0.0.0 message1101-fra.sp-prod.net
+0.0.0.0 message1108.sp-prod.net
+0.0.0.0 message1108-fra.sp-prod.net
+0.0.0.0 message1108-iad.sp-prod.net
+0.0.0.0 message1147.sp-prod.net
+0.0.0.0 message1195.sp-prod.net
+0.0.0.0 message1195-fra.sp-prod.net
+0.0.0.0 message1195-iad.sp-prod.net
+0.0.0.0 message145.sp-prod.net
+0.0.0.0 message145-fra.sp-prod.net
+0.0.0.0 message145-iad.sp-prod.net
+0.0.0.0 message146-iad.sp-prod.net
+0.0.0.0 message200-fra.sp-prod.net
+0.0.0.0 message200-iad.sp-prod.net
+0.0.0.0 message212.sp-prod.net
+0.0.0.0 message212-fra.sp-prod.net
+0.0.0.0 message212-iad.sp-prod.net
+0.0.0.0 message259.sp-prod.net
+0.0.0.0 message259-fra.sp-prod.net
+0.0.0.0 message259-iad.sp-prod.net
+0.0.0.0 message296.sp-prod.net
+0.0.0.0 message314.sp-prod.net
+0.0.0.0 message314-fra.sp-prod.net
+0.0.0.0 message314-iad.sp-prod.net
+0.0.0.0 message331.sp-prod.net
+0.0.0.0 message331-fra.sp-prod.net
+0.0.0.0 message909.sp-prod.net
+0.0.0.0 message909-fra.sp-prod.net
+0.0.0.0 message970-fra.sp-prod.net
+0.0.0.0 message970-iad.sp-prod.net
+0.0.0.0 message994-fra.sp-prod.net
+0.0.0.0 message995.sp-prod.net
+0.0.0.0 message995-fra.sp-prod.net
+0.0.0.0 mms.sp-prod.net
+0.0.0.0 notice.sp-prod.net
+0.0.0.0 bc.pdx.sp-prod.net
+0.0.0.0 blocked-asset.pdx.sp-prod.net
+0.0.0.0 cs.pdx.sp-prod.net
+0.0.0.0 mms.pdx.sp-prod.net
+0.0.0.0 privacy-manager.sp-prod.net
+0.0.0.0 cs.sfo.sp-prod.net
+0.0.0.0 blocked-asset.syd.sp-prod.net
+0.0.0.0 testssl.sp-prod.net
+0.0.0.0 testssl3.sp-prod.net
+0.0.0.0 cs.yul.sp-prod.net
+0.0.0.0 cs.zrh.sp-prod.net
 0.0.0.0 ss-omtrdc.net
 0.0.0.0 commerce.ss-omtrdc.net
 0.0.0.0 guided.ss-omtrdc.net
