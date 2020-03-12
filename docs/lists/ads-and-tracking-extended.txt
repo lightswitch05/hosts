@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-12T12:58:27+00:00
-# Count: 107006 domains
+# Released: 2020-03-12T13:30:57+00:00
+# Count: 107013 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -30778,6 +30778,8 @@
 0.0.0.0 staging.fortvision.com
 0.0.0.0 static.fortvision.com
 0.0.0.0 www.fortvision.com
+0.0.0.0 forwrdnow.com
+0.0.0.0 www.forwrdnow.com
 0.0.0.0 tagman.fotolia.com
 0.0.0.0 foundfax.com
 0.0.0.0 www.foundfax.com
@@ -35852,6 +35854,9 @@
 0.0.0.0 janus.r.jakuli.com
 0.0.0.0 jamexistence.com
 0.0.0.0 cdn-social.janrain.com
+0.0.0.0 jared-don.com
+0.0.0.0 usa.jared-don.com
+0.0.0.0 usd.jared-don.com
 0.0.0.0 jasperlabs.com
 0.0.0.0 api2.jasperlabs.com
 0.0.0.0 cdn.jasperlabs.com
@@ -102476,6 +102481,8 @@
 0.0.0.0 zemanta-sa.outbrain.org
 0.0.0.0 engage.physicstoday.org
 0.0.0.0 www.engage.physicstoday.org
+0.0.0.0 pi-hole.org
+0.0.0.0 www.pi-hole.org
 0.0.0.0 poligloteapp.org
 0.0.0.0 www.poligloteapp.org
 0.0.0.0 prebid.org
