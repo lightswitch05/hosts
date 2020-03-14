@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2020-03-10T13:37:15+00:00
-# Count: 155 domains
+# Released: 2020-03-13T13:14:17+00:00
+# Count: 157 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -68,6 +68,8 @@
 0.0.0.0 www.gravatar.com
 0.0.0.0 hellomedian.com
 0.0.0.0 js.hellomedian.com
+0.0.0.0 icanhazip.com
+0.0.0.0 ipv4.icanhazip.com
 0.0.0.0 janrain.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 livechatinc.com
