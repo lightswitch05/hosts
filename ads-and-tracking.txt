@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-13T12:50:20+00:00
-# Count: 8219 domains
+# Released: 2020-03-15T19:18:04+00:00
+# Count: 8221 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -6770,6 +6770,8 @@
 0.0.0.0 decision.brandads.net
 0.0.0.0 trust.brandads.net
 0.0.0.0 vast.brandads.net
+0.0.0.0 buysellads.net
+0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 carbonads.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 analytics.ccgateway.net
