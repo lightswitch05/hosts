@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-11T12:45:32+00:00
-# Count: 4160 domains
+# Released: 2020-03-16T02:46:22+00:00
+# Count: 4169 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -382,6 +382,7 @@
 0.0.0.0 ctscan.facebook.com
 0.0.0.0 d.facebook.com
 0.0.0.0 da-dk.facebook.com
+0.0.0.0 dashi.facebook.com
 0.0.0.0 jenkins.presto.data.facebook.com
 0.0.0.0 www.jenkins.presto.data.facebook.com
 0.0.0.0 dawnfoods.facebook.com
@@ -392,6 +393,7 @@
 0.0.0.0 secure.dev.facebook.com
 0.0.0.0 developers.facebook.com
 0.0.0.0 dns.facebook.com
+0.0.0.0 dyninno.facebook.com
 0.0.0.0 edge-atlas-shv-01-den4.facebook.com
 0.0.0.0 edge-atlas-shv-01-frx5.facebook.com
 0.0.0.0 edge-atlas-shv-01-nrt1.facebook.com
@@ -425,6 +427,7 @@
 0.0.0.0 edge-snaptu-http-p1-shv-01-mad1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-nrt1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-sea1.facebook.com
+0.0.0.0 edge-star-mini-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-hkt1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-ort2.facebook.com
@@ -452,6 +455,7 @@
 0.0.0.0 edge-z-m-mini-shv-01-maa2.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-xsp1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
+0.0.0.0 edge-z-p3-shv-01-atl3.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
 0.0.0.0 edgeray-shv-01-bru2.facebook.com
 0.0.0.0 edgeray-shv-01-dus1.facebook.com
@@ -498,6 +502,7 @@
 0.0.0.0 fy-nl.facebook.com
 0.0.0.0 grab.facebook.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph-portal.facebook.com
 0.0.0.0 graph-video.facebook.com
 0.0.0.0 h.facebook.com
 0.0.0.0 he-il.facebook.com
@@ -679,6 +684,7 @@
 0.0.0.0 ms-my.facebook.com
 0.0.0.0 msgin-regional-shv-01-rprn0.facebook.com
 0.0.0.0 mtouch.facebook.com
+0.0.0.0 mundipharma.facebook.com
 0.0.0.0 my-mm.facebook.com
 0.0.0.0 mybauli.facebook.com
 0.0.0.0 nb-no.facebook.com
@@ -2685,6 +2691,7 @@
 0.0.0.0 edge-video-shv-01-atl3.fbcdn.net
 0.0.0.0 edge-video-shv-01-bos3.fbcdn.net
 0.0.0.0 edge-video-shv-01-cgk1.fbcdn.net
+0.0.0.0 edge-video-shv-01-dfw5.fbcdn.net
 0.0.0.0 edge-video-shv-01-hel2.fbcdn.net
 0.0.0.0 edge-video-shv-01-hkt1.fbcdn.net
 0.0.0.0 edge-video-shv-01-lhr8.fbcdn.net
@@ -3686,6 +3693,7 @@
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sea1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sin2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-sjc3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-gru2.fbcdn.net
@@ -4168,6 +4176,7 @@
 0.0.0.0 kaios.whatsapp.net
 0.0.0.0 mme.whatsapp.net
 0.0.0.0 mme-fna.whatsapp.net
+0.0.0.0 mme6.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
 0.0.0.0 mmg-fna.whatsapp.net
 0.0.0.0 mmh.whatsapp.net

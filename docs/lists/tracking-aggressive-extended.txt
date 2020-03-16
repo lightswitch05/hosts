@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-03-13T13:14:17+00:00
-# Count: 4947 domains
+# Released: 2020-03-16T02:38:15+00:00
+# Count: 5035 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -415,6 +415,7 @@
 0.0.0.0 kmc.wifi.360.cn
 0.0.0.0 stat.wifi.360.cn
 0.0.0.0 s.conf.wsm.360.cn
+0.0.0.0 poll.tools.wsm.360.cn
 0.0.0.0 new.poll.tools.wsm.360.cn
 0.0.0.0 www.360.cn
 0.0.0.0 u.xianpei.360.cn
@@ -429,6 +430,8 @@
 0.0.0.0 yun.360.cn
 0.0.0.0 api-b.yun.360.cn
 0.0.0.0 yunpan.360.cn
+0.0.0.0 yuntan.360.cn
+0.0.0.0 yzt.360.cn
 0.0.0.0 zhikong.360.cn
 0.0.0.0 zhongce.360.cn
 0.0.0.0 vpn.zhongce.360.cn
@@ -1007,6 +1010,7 @@
 0.0.0.0 akamai-san82.exacttarget.com
 0.0.0.0 akamai-san83.exacttarget.com
 0.0.0.0 akamai-san84.exacttarget.com
+0.0.0.0 akamai-san85.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
@@ -1607,6 +1611,7 @@
 0.0.0.0 click.s6.exacttarget.com
 0.0.0.0 click-sms.s6.exacttarget.com
 0.0.0.0 editorsupport.s6.exacttarget.com
+0.0.0.0 etappx.s6.exacttarget.com
 0.0.0.0 image.s6.exacttarget.com
 0.0.0.0 imh.s6.exacttarget.com
 0.0.0.0 inbound.s6.exacttarget.com
@@ -1614,6 +1619,7 @@
 0.0.0.0 internal.s6.exacttarget.com
 0.0.0.0 manage.s6.exacttarget.com
 0.0.0.0 manage-api.s6.exacttarget.com
+0.0.0.0 mawebservice-test.s6.exacttarget.com
 0.0.0.0 mc.s6.exacttarget.com
 0.0.0.0 members.s6.exacttarget.com
 0.0.0.0 origin-akamai-auth.s6.exacttarget.com
@@ -1851,6 +1857,7 @@
 0.0.0.0 api.flipboard.com
 0.0.0.0 api-china.flipboard.com
 0.0.0.0 artforfreedom.flipboard.com
+0.0.0.0 as.flipboard.com
 0.0.0.0 auth.flipboard.com
 0.0.0.0 bapi.flipboard.com
 0.0.0.0 beacon.flipboard.com
@@ -3322,6 +3329,7 @@
 0.0.0.0 admin3.providesupport.com
 0.0.0.0 admin4.providesupport.com
 0.0.0.0 admin6.providesupport.com
+0.0.0.0 admin8.providesupport.com
 0.0.0.0 api.providesupport.com
 0.0.0.0 cc1i.providesupport.com
 0.0.0.0 admin1.cdn.providesupport.com
@@ -3805,6 +3813,7 @@
 0.0.0.0 cs01.vk.com
 0.0.0.0 cs03.vk.com
 0.0.0.0 leroymerlin.cs06660.vk.com
+0.0.0.0 cs10096.vk.com
 0.0.0.0 cs10130.vk.com
 0.0.0.0 cs10269.vk.com
 0.0.0.0 cs10320.vk.com
@@ -3812,6 +3821,7 @@
 0.0.0.0 cs10376.vk.com
 0.0.0.0 cs10421.vk.com
 0.0.0.0 cs10478.vk.com
+0.0.0.0 cs10833.vk.com
 0.0.0.0 cs11073.vk.com
 0.0.0.0 cs123.vk.com
 0.0.0.0 cs126.vk.com
@@ -3826,6 +3836,7 @@
 0.0.0.0 lenta.ap108.cs304112.vk.com
 0.0.0.0 cs305608.vk.com
 0.0.0.0 policy.query.cs316931.vk.com
+0.0.0.0 cs323817.vk.com
 0.0.0.0 cs340.vk.com
 0.0.0.0 cs350.vk.com
 0.0.0.0 cs360.vk.com
@@ -4035,6 +4046,7 @@
 0.0.0.0 security.vk.com
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
 0.0.0.0 srv10-34-213-95.vk.com
+0.0.0.0 srv124-22-213-95.vk.com
 0.0.0.0 srv130-129-240-87.vk.com
 0.0.0.0 srv130-137-240-87.vk.com
 0.0.0.0 srv137-185-240-87.vk.com
@@ -4967,6 +4979,82 @@
 0.0.0.0 vs97.tawk.to
 0.0.0.0 vs98.tawk.to
 0.0.0.0 vs99.tawk.to
+0.0.0.0 vsa1.tawk.to
+0.0.0.0 vsa10.tawk.to
+0.0.0.0 vsa100.tawk.to
+0.0.0.0 vsa13.tawk.to
+0.0.0.0 vsa15.tawk.to
+0.0.0.0 vsa16.tawk.to
+0.0.0.0 vsa17.tawk.to
+0.0.0.0 vsa18.tawk.to
+0.0.0.0 vsa19.tawk.to
+0.0.0.0 vsa20.tawk.to
+0.0.0.0 vsa22.tawk.to
+0.0.0.0 vsa23.tawk.to
+0.0.0.0 vsa24.tawk.to
+0.0.0.0 vsa26.tawk.to
+0.0.0.0 vsa27.tawk.to
+0.0.0.0 vsa28.tawk.to
+0.0.0.0 vsa29.tawk.to
+0.0.0.0 vsa3.tawk.to
+0.0.0.0 vsa30.tawk.to
+0.0.0.0 vsa31.tawk.to
+0.0.0.0 vsa33.tawk.to
+0.0.0.0 vsa34.tawk.to
+0.0.0.0 vsa35.tawk.to
+0.0.0.0 vsa37.tawk.to
+0.0.0.0 vsa38.tawk.to
+0.0.0.0 vsa4.tawk.to
+0.0.0.0 vsa40.tawk.to
+0.0.0.0 vsa41.tawk.to
+0.0.0.0 vsa43.tawk.to
+0.0.0.0 vsa45.tawk.to
+0.0.0.0 vsa46.tawk.to
+0.0.0.0 vsa47.tawk.to
+0.0.0.0 vsa48.tawk.to
+0.0.0.0 vsa50.tawk.to
+0.0.0.0 vsa52.tawk.to
+0.0.0.0 vsa53.tawk.to
+0.0.0.0 vsa54.tawk.to
+0.0.0.0 vsa55.tawk.to
+0.0.0.0 vsa56.tawk.to
+0.0.0.0 vsa57.tawk.to
+0.0.0.0 vsa59.tawk.to
+0.0.0.0 vsa61.tawk.to
+0.0.0.0 vsa62.tawk.to
+0.0.0.0 vsa63.tawk.to
+0.0.0.0 vsa64.tawk.to
+0.0.0.0 vsa65.tawk.to
+0.0.0.0 vsa67.tawk.to
+0.0.0.0 vsa68.tawk.to
+0.0.0.0 vsa69.tawk.to
+0.0.0.0 vsa7.tawk.to
+0.0.0.0 vsa71.tawk.to
+0.0.0.0 vsa72.tawk.to
+0.0.0.0 vsa73.tawk.to
+0.0.0.0 vsa74.tawk.to
+0.0.0.0 vsa75.tawk.to
+0.0.0.0 vsa76.tawk.to
+0.0.0.0 vsa77.tawk.to
+0.0.0.0 vsa78.tawk.to
+0.0.0.0 vsa8.tawk.to
+0.0.0.0 vsa80.tawk.to
+0.0.0.0 vsa81.tawk.to
+0.0.0.0 vsa82.tawk.to
+0.0.0.0 vsa83.tawk.to
+0.0.0.0 vsa84.tawk.to
+0.0.0.0 vsa86.tawk.to
+0.0.0.0 vsa87.tawk.to
+0.0.0.0 vsa88.tawk.to
+0.0.0.0 vsa89.tawk.to
+0.0.0.0 vsa9.tawk.to
+0.0.0.0 vsa90.tawk.to
+0.0.0.0 vsa91.tawk.to
+0.0.0.0 vsa93.tawk.to
+0.0.0.0 vsa94.tawk.to
+0.0.0.0 vsa95.tawk.to
+0.0.0.0 vsa97.tawk.to
+0.0.0.0 vsa98.tawk.to
 0.0.0.0 windows.tawk.to
 0.0.0.0 www.tawk.to
 
