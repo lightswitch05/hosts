@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-16T12:39:43+00:00
-# Count: 8237 domains
+# Released: 2020-03-17T16:43:31+00:00
+# Count: 8247 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -200,6 +200,7 @@
 0.0.0.0 clinch.co
 0.0.0.0 trk.clinch.co
 0.0.0.0 d41.co
+0.0.0.0 api7831.d41.co
 0.0.0.0 cdn-0.d41.co
 0.0.0.0 ecf.d41.co
 0.0.0.0 datadome.co
@@ -2940,6 +2941,7 @@
 0.0.0.0 kampyle.com
 0.0.0.0 cdn-usent.kampyle.com
 0.0.0.0 nebula-cdn.kampyle.com
+0.0.0.0 udc-neb.kampyle.com
 0.0.0.0 kargo.com
 0.0.0.0 cloud.kargo.com
 0.0.0.0 storage.cloud.kargo.com
@@ -3586,6 +3588,9 @@
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 z.moatads.com
+0.0.0.0 moatpixel.com
+0.0.0.0 s.moatpixel.com
+0.0.0.0 targetdfp320149284940.s.moatpixel.com
 0.0.0.0 mobalo.com
 0.0.0.0 mobfox.com
 0.0.0.0 api-tracker.mobfox.com
@@ -5194,6 +5199,7 @@
 0.0.0.0 jss.trumeasure.com
 0.0.0.0 truoptik.com
 0.0.0.0 dmp.truoptik.com
+0.0.0.0 tms.truoptik.com
 0.0.0.0 ttflb.com
 0.0.0.0 www.ttflb.com
 0.0.0.0 px.srvcs.tumblr.com
@@ -6189,6 +6195,7 @@
 0.0.0.0 pendo.io
 0.0.0.0 app.pendo.io
 0.0.0.0 cdn.pendo.io
+0.0.0.0 data.pendo.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
 0.0.0.0 piwik.privacytools.io
@@ -6794,6 +6801,8 @@
 0.0.0.0 chitika.net
 0.0.0.0 hop.clickbank.net
 0.0.0.0 clicksapp.net
+0.0.0.0 clicktale.net
+0.0.0.0 conductor.clicktale.net
 0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 pdwuengagementapiwkr.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
@@ -7532,6 +7541,7 @@
 0.0.0.0 mrb.upapi.net
 0.0.0.0 userreplay.net
 0.0.0.0 cdn.userreplay.net
+0.0.0.0 tar.userreplay.net
 0.0.0.0 verticalhealth.net
 0.0.0.0 assets.verticalhealth.net
 0.0.0.0 ct.verticalhealth.net
