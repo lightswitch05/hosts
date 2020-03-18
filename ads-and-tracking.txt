@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-17T16:43:31+00:00
-# Count: 8247 domains
+# Released: 2020-03-18T12:33:05+00:00
+# Count: 8253 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -4965,6 +4965,7 @@
 0.0.0.0 asset.tabloidbintang.com
 0.0.0.0 taboola.com
 0.0.0.0 15.taboola.com
+0.0.0.0 api.taboola.com
 0.0.0.0 c2.taboola.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 images.taboola.com
@@ -6056,6 +6057,8 @@
 0.0.0.0 a.affil.io
 0.0.0.0 akstat.io
 0.0.0.0 173c5b06.akstat.io
+0.0.0.0 173c5b0c.akstat.io
+0.0.0.0 17d09914.akstat.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 applicationinsights.io
 0.0.0.0 breeze.aimon.applicationinsights.io
@@ -6670,6 +6673,7 @@
 0.0.0.0 helix.advance.net
 0.0.0.0 static.advance.net
 0.0.0.0 adzerk.net
+0.0.0.0 e-10077.adzerk.net
 0.0.0.0 engine.adzerk.net
 0.0.0.0 affili.net
 0.0.0.0 agraph.net
@@ -7406,6 +7410,7 @@
 0.0.0.0 collector-pxgy5w79au.px-cdn.net
 0.0.0.0 collector-pxrnybd0zi.px-cdn.net
 0.0.0.0 px-cloud.net
+0.0.0.0 collector-px0f3091f3.px-cloud.net
 0.0.0.0 collector-pxgy5w79au.px-cloud.net
 0.0.0.0 collector-pxrnybd0zi.px-cloud.net
 0.0.0.0 pxchk.net
@@ -8200,6 +8205,7 @@
 0.0.0.0 sc.independent.co.uk
 0.0.0.0 ssc.independent.co.uk
 0.0.0.0 stats.independent.co.uk
+0.0.0.0 stats.lobster-writer.co.uk
 0.0.0.0 cj.madeleine.co.uk
 0.0.0.0 ophan.co.uk
 0.0.0.0 j.ophan.co.uk
