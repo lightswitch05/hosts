@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-18T16:47:22+00:00
-# Count: 8255 domains
+# Released: 2020-03-19T20:28:18+00:00
+# Count: 8260 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -242,6 +242,8 @@
 0.0.0.0 t.nc0.co
 0.0.0.0 orbee.co
 0.0.0.0 analytics.orbee.co
+0.0.0.0 pbbl.co
+0.0.0.0 cdn.pbbl.co
 0.0.0.0 pcrl.co
 0.0.0.0 assets.pcrl.co
 0.0.0.0 pixel.prfct.co
@@ -1032,6 +1034,7 @@
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 cdn-d.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
@@ -1086,6 +1089,7 @@
 0.0.0.0 ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
 0.0.0.0 abam.s3.amazonaws.com
 0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 ams-ads-cornerstone-pda-creatives.s3.amazonaws.com
 0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
@@ -3972,6 +3976,7 @@
 0.0.0.0 system.picreel.com
 0.0.0.0 pinnaclecustomermetrics.com
 0.0.0.0 ads.pinterest.com
+0.0.0.0 analytics.pinterest.com
 0.0.0.0 piximedia.com
 0.0.0.0 ad.piximedia.com
 0.0.0.0 companions.piximedia.com
