@@ -222,3 +222,6 @@
 # per https://github.com/lightswitch05/hosts/issues/138
 ^www\.ispot\.tv$
 
+# only the root domain is whitelisted per #147
+^gleam\.io$
+
