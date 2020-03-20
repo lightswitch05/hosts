@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-20T13:47:47+00:00
-# Count: 109156 domains
+# Released: 2020-03-20T15:07:42+00:00
+# Count: 109164 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -15711,6 +15711,7 @@
 0.0.0.0 us-east-1.tr.blismedia.com
 0.0.0.0 us-west-1.tr.blismedia.com
 0.0.0.0 www.blismedia.com
+0.0.0.0 sync.blisspointmedia.com
 0.0.0.0 img1.blogblog.com
 0.0.0.0 bluecava.com
 0.0.0.0 accuracy.bluecava.com
@@ -36701,6 +36702,8 @@
 0.0.0.0 www.jivox.com
 0.0.0.0 www5.jivox.com
 0.0.0.0 xl.jivox.com
+0.0.0.0 d.joinhoney.com
+0.0.0.0 s.joinhoney.com
 0.0.0.0 joystickinteractive.com
 0.0.0.0 aib-stg.joystickinteractive.com
 0.0.0.0 auctions.joystickinteractive.com
@@ -74226,6 +74229,10 @@
 0.0.0.0 survey.spartoo.fi
 0.0.0.0 webnibal.spartoo.fi
 0.0.0.0 www.spartoo.fi
+0.0.0.0 pdst.fm
+0.0.0.0 cdn.pdst.fm
+0.0.0.0 ping.pdst.fm
+0.0.0.0 sink.pdst.fm
 0.0.0.0 audience.acpm.fr
 0.0.0.0 auth.audience.acpm.fr
 0.0.0.0 collecte.audience.acpm.fr
@@ -85728,6 +85735,7 @@
 0.0.0.0 prod-mng-proxy-connext.azurewebsites.net
 0.0.0.0 toyota-tagging-tagserver-prod.azurewebsites.net
 0.0.0.0 katr.b-cdn.net
+0.0.0.0 stats.bahnhof.net
 0.0.0.0 bandwidthx.net
 0.0.0.0 adminx.bandwidthx.net
 0.0.0.0 api.bandwidthx.net
