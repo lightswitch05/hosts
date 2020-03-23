@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-23T13:13:25+00:00
-# Count: 4185 domains
+# Released: 2020-03-23T19:33:13+00:00
+# Count: 4224 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -25,6 +25,8 @@
 0.0.0.0 m.facebook.com-----------n.slickgt.com.br
 0.0.0.0 facebook-web-clients.appspot.com
 0.0.0.0 www.facebook-web-clients.appspot.com
+0.0.0.0 calibra.com
+0.0.0.0 www.calibra.com
 0.0.0.0 cdninstagram.com
 0.0.0.0 creative.cdninstagram.com
 0.0.0.0 a.ns.cdninstagram.com
@@ -3463,6 +3465,7 @@
 0.0.0.0 xx.fbcdn.net
 0.0.0.0 1.xx.fbcdn.net
 0.0.0.0 2.xx.fbcdn.net
+0.0.0.0 a.xx.fbcdn.net
 0.0.0.0 arn.xx.fbcdn.net
 0.0.0.0 c.xx.fbcdn.net
 0.0.0.0 external.xx.fbcdn.net
@@ -3472,6 +3475,7 @@
 0.0.0.0 external-arn2-2.xx.fbcdn.net
 0.0.0.0 external-atl3-1.xx.fbcdn.net
 0.0.0.0 external-ber1-1.xx.fbcdn.net
+0.0.0.0 external-bos3-1.xx.fbcdn.net
 0.0.0.0 external-bru2-1.xx.fbcdn.net
 0.0.0.0 external-cdg2-1.xx.fbcdn.net
 0.0.0.0 external-cdt1-1.xx.fbcdn.net
@@ -3482,6 +3486,7 @@
 0.0.0.0 external-frt3-2.xx.fbcdn.net
 0.0.0.0 external-frx5-1.xx.fbcdn.net
 0.0.0.0 external-hbe1-1.xx.fbcdn.net
+0.0.0.0 external-hkt1-1.xx.fbcdn.net
 0.0.0.0 external-iad3-1.xx.fbcdn.net
 0.0.0.0 external-kut2-1.xx.fbcdn.net
 0.0.0.0 external-lax3-1.xx.fbcdn.net
@@ -3515,32 +3520,47 @@
 0.0.0.0 external-vie1-1.xx.fbcdn.net
 0.0.0.0 external-waw1-1.xx.fbcdn.net
 0.0.0.0 external-yyz1-1.xx.fbcdn.net
+0.0.0.0 f01b8907180-vhlvirhb1584966124-sonar.xx.fbcdn.net
+0.0.0.0 f069d34c880kjvcpmrq-osjybqgk1404112233-sonar.xx.fbcdn.net
 0.0.0.0 f0cd5415780-atdcdyev1568285634-sonar.xx.fbcdn.net
 0.0.0.0 f0e4b749f80-yhjognbh1581910770-sonar.xx.fbcdn.net
+0.0.0.0 f1b70d52880-ycltawxz1584886459-sonar.xx.fbcdn.net
+0.0.0.0 f251f4d0380-hmafcowi1584945350-sonar.xx.fbcdn.net
 0.0.0.0 f25ad95bb80-lyvhmgkt1581928998-sonar.xx.fbcdn.net
 0.0.0.0 f275d9a7680-ynubtpuj1581939489-sonar.xx.fbcdn.net
 0.0.0.0 f2835143080-iagolxai1581937780-sonar.xx.fbcdn.net
 0.0.0.0 f2a1e52cf80-hwmqpuxl1581928136-sonar.xx.fbcdn.net
 0.0.0.0 f2bd54d2780-hdbnxhyd1568357411-sonar.xx.fbcdn.net
+0.0.0.0 f2f00316780-khllcmyb1584928949-sonar.xx.fbcdn.net
 0.0.0.0 f3162623d80-jolaiqzj1581945931-sonar.xx.fbcdn.net
 0.0.0.0 f34d143a080-euqqijkw1581880693-sonar.xx.fbcdn.net
 0.0.0.0 f3b191de380-ztoihsnx1581910572-sonar.xx.fbcdn.net
+0.0.0.0 f3d0cf8a980-fenfhcxt1584974129-sonar.xx.fbcdn.net
+0.0.0.0 f3f66b1cf80-lepnellx1584951034-sonar.xx.fbcdn.net
 0.0.0.0 f484e2d8a80-rqumqsuc1581891711-sonar.xx.fbcdn.net
 0.0.0.0 f51cb8fb280-jxnpldxx1568337508-sonar.xx.fbcdn.net
 0.0.0.0 f54e3999880-zallpcgy1581945900-sonar.xx.fbcdn.net
 0.0.0.0 f5522887d80-zvbrzgzo1581890476-sonar.xx.fbcdn.net
 0.0.0.0 f5550db4b80-rgrrcfyr1566802058-sonar.xx.fbcdn.net
+0.0.0.0 f588177a980-sdhlnkwb1584913971-sonar.xx.fbcdn.net
+0.0.0.0 f5a15777e80-ozfacjbk1584980437-sonar.xx.fbcdn.net
 0.0.0.0 f6181bdb480-mcqnmkyx1581912233-sonar.xx.fbcdn.net
 0.0.0.0 f62a112ac80-drwkdzcy1581930805-sonar.xx.fbcdn.net
 0.0.0.0 f66f0a1a680-ezcnpcti1566454212-sonar.xx.fbcdn.net
+0.0.0.0 f682f4e4980-ttymktsu1584980887-sonar.xx.fbcdn.net
 0.0.0.0 f68b0a90980-avgrvamg1581948694-sonar.xx.fbcdn.net
+0.0.0.0 f71317c6080-mictrhea1584974047-sonar.xx.fbcdn.net
+0.0.0.0 f7333d57c80-hhrxogda1584953648-sonar.xx.fbcdn.net
 0.0.0.0 f73f8a68780-erbfzfzo1581805792-sonar.xx.fbcdn.net
 0.0.0.0 f7b4867fd80-vfurgozg1566844335-sonar.xx.fbcdn.net
 0.0.0.0 f7b67e04280-shnejtwp1581881301-sonar.xx.fbcdn.net
 0.0.0.0 f7f46459880-dhvicdss1581886413-sonar.xx.fbcdn.net
 0.0.0.0 f8fbda4d880-vescjqgd1581952797-sonar.xx.fbcdn.net
 0.0.0.0 f9d7f5d7780-mmrojscm1581945728-sonar.xx.fbcdn.net
+0.0.0.0 fa0605c9980-lrcumcwx1584943704-sonar.xx.fbcdn.net
+0.0.0.0 fa18ce6a380-nvtwlapc1584953882-sonar.xx.fbcdn.net
 0.0.0.0 fa1bd439080-bvzwlugz1581916811-sonar.xx.fbcdn.net
+0.0.0.0 faafe80e980-shfvmlsj1584979609-sonar.xx.fbcdn.net
 0.0.0.0 fc1b035ca80-ubqiheau1568372063-sonar.xx.fbcdn.net
 0.0.0.0 fc985757980-oakspdhs1581910946-sonar.xx.fbcdn.net
 0.0.0.0 fcb7d2cf980-ymkbrrnl1568368557-sonar.xx.fbcdn.net
@@ -3549,6 +3569,8 @@
 0.0.0.0 fd329356a80-nsaidifq1581903846-sonar.xx.fbcdn.net
 0.0.0.0 fd32d128180-iqzmmuqg1566763874-sonar.xx.fbcdn.net
 0.0.0.0 fd681367880-czbuiafr1566785300-sonar.xx.fbcdn.net
+0.0.0.0 fe027dea380-nsaqblqg1584960501-sonar.xx.fbcdn.net
+0.0.0.0 fe21ec61a80-kjzzekkg1584987353-sonar.xx.fbcdn.net
 0.0.0.0 fe430bfe180-jgpxoflu1568374416-sonar.xx.fbcdn.net
 0.0.0.0 ff671bb4380-qjnakkkd1566751938-sonar.xx.fbcdn.net
 0.0.0.0 fra.xx.fbcdn.net
@@ -3569,6 +3591,7 @@
 0.0.0.0 scontent-atl3-1.xx.fbcdn.net
 0.0.0.0 scontent-b.xx.fbcdn.net
 0.0.0.0 scontent-b-lhr.xx.fbcdn.net
+0.0.0.0 scontent-b-ord.xx.fbcdn.net
 0.0.0.0 scontent-ber1-1.xx.fbcdn.net
 0.0.0.0 scontent-bos3-1.xx.fbcdn.net
 0.0.0.0 scontent-bru2-1.xx.fbcdn.net
@@ -3584,9 +3607,12 @@
 0.0.0.0 scontent-frt3-2.xx.fbcdn.net
 0.0.0.0 scontent-frx5-1.xx.fbcdn.net
 0.0.0.0 scontent-gru2-1.xx.fbcdn.net
+0.0.0.0 scontent-gru2-2.xx.fbcdn.net
 0.0.0.0 scontent-hbe1-1.xx.fbcdn.net
 0.0.0.0 scontent-hel2-1.xx.fbcdn.net
 0.0.0.0 scontent-hkg3-1.xx.fbcdn.net
+0.0.0.0 scontent-hkg3-2.xx.fbcdn.net
+0.0.0.0 scontent-hkt1-1.xx.fbcdn.net
 0.0.0.0 scontent-iad3-1.xx.fbcdn.net
 0.0.0.0 scontent-icn1-1.xx.fbcdn.net
 0.0.0.0 scontent-kul1-1.xx.fbcdn.net
@@ -3594,6 +3620,7 @@
 0.0.0.0 scontent-lax3-1.xx.fbcdn.net
 0.0.0.0 scontent-lax3-2.xx.fbcdn.net
 0.0.0.0 scontent-lga3-1.xx.fbcdn.net
+0.0.0.0 scontent-lhr.xx.fbcdn.net
 0.0.0.0 scontent-lhr3-1.xx.fbcdn.net
 0.0.0.0 scontent-lhr8-1.xx.fbcdn.net
 0.0.0.0 scontent-lht6-1.xx.fbcdn.net
@@ -3625,10 +3652,16 @@
 0.0.0.0 scontent-waw1-1.xx.fbcdn.net
 0.0.0.0 scontent-xsp1-1.xx.fbcdn.net
 0.0.0.0 scontent-yyz1-1.xx.fbcdn.net
+0.0.0.0 sea.xx.fbcdn.net
 0.0.0.0 sha256.xx.fbcdn.net
+0.0.0.0 sonar-dfw.xx.fbcdn.net
 0.0.0.0 sonar-dus1-1.xx.fbcdn.net
+0.0.0.0 sonar-fdet.xx.fbcdn.net
+0.0.0.0 sonar-fdsm.xx.fbcdn.net
 0.0.0.0 sonar-fiev.xx.fbcdn.net
+0.0.0.0 sonar-flwo.xx.fbcdn.net
 0.0.0.0 sonar-fnou.xx.fbcdn.net
+0.0.0.0 sonar-ftpe.xx.fbcdn.net
 0.0.0.0 sonar-ftun.xx.fbcdn.net
 0.0.0.0 sonar-hkg3-1.xx.fbcdn.net
 0.0.0.0 sonar-mrs.xx.fbcdn.net
@@ -3644,6 +3677,7 @@
 0.0.0.0 video-arn2-1.xx.fbcdn.net
 0.0.0.0 video-arn2-2.xx.fbcdn.net
 0.0.0.0 video-atl3-1.xx.fbcdn.net
+0.0.0.0 video-ber1-1.xx.fbcdn.net
 0.0.0.0 video-bos3-1.xx.fbcdn.net
 0.0.0.0 video-cdg2-1.xx.fbcdn.net
 0.0.0.0 video-cdt1-1.xx.fbcdn.net
@@ -3653,16 +3687,20 @@
 0.0.0.0 video-frt3-1.xx.fbcdn.net
 0.0.0.0 video-frt3-2.xx.fbcdn.net
 0.0.0.0 video-frx5-1.xx.fbcdn.net
+0.0.0.0 video-hbe1-1.xx.fbcdn.net
 0.0.0.0 video-hkg3-1.xx.fbcdn.net
 0.0.0.0 video-hkg3-2.xx.fbcdn.net
+0.0.0.0 video-hkt1-1.xx.fbcdn.net
 0.0.0.0 video-iad3-1.xx.fbcdn.net
 0.0.0.0 video-lax3-1.xx.fbcdn.net
 0.0.0.0 video-lax3-2.xx.fbcdn.net
 0.0.0.0 video-lga3-1.xx.fbcdn.net
 0.0.0.0 video-lhr3-1.xx.fbcdn.net
+0.0.0.0 video-lhr8-1.xx.fbcdn.net
 0.0.0.0 video-lht6-1.xx.fbcdn.net
 0.0.0.0 video-maa2-1.xx.fbcdn.net
 0.0.0.0 video-mia3-1.xx.fbcdn.net
+0.0.0.0 video-mia3-2.xx.fbcdn.net
 0.0.0.0 video-mrs2-1.xx.fbcdn.net
 0.0.0.0 video-msp1-1.xx.fbcdn.net
 0.0.0.0 video-mxp1-1.xx.fbcdn.net
@@ -3685,6 +3723,7 @@
 0.0.0.0 z-m-static.xx.fbcdn.net
 0.0.0.0 z-p3-external-ams4-1.xx.fbcdn.net
 0.0.0.0 z-p3-external-vie1-1.xx.fbcdn.net
+0.0.0.0 z-p3-scontent.xx.fbcdn.net
 0.0.0.0 z-p3-scontent-ams4-1.xx.fbcdn.net
 0.0.0.0 z-p3-scontent-amt2-1.xx.fbcdn.net
 0.0.0.0 z-p3-scontent-lga3-1.xx.fbcdn.net
