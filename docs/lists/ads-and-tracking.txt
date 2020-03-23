@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-20T15:07:41+00:00
-# Count: 8265 domains
+# Released: 2020-03-23T13:04:35+00:00
+# Count: 8274 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -22,6 +22,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 pixel.ad
+0.0.0.0 centro.pixel.ad
 0.0.0.0 roq.ad
 0.0.0.0 ascend.ai
 0.0.0.0 app.ascend.ai
@@ -1589,6 +1591,7 @@
 0.0.0.0 capitolone.com
 0.0.0.0 www.capitolone.com
 0.0.0.0 pixel.care.com
+0.0.0.0 devices.carnivalmobile.com
 0.0.0.0 agility.cartoonnetwork.com
 0.0.0.0 sstats.cartoonnetwork.com
 0.0.0.0 casalemedia.com
@@ -1963,6 +1966,7 @@
 0.0.0.0 white.cumulus-cloud.com
 0.0.0.0 curalate.com
 0.0.0.0 api.curalate.com
+0.0.0.0 cdn.curalate.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 metrics.cvshealth.com
 0.0.0.0 czilladx.com
@@ -2747,6 +2751,7 @@
 0.0.0.0 imrworldwide.com
 0.0.0.0 aksecure.imrworldwide.com
 0.0.0.0 cdn.imrworldwide.com
+0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 dar.imrworldwide.com
 0.0.0.0 enc.imrworldwide.com
 0.0.0.0 events.imrworldwide.com
@@ -4363,6 +4368,8 @@
 0.0.0.0 rowams.com
 0.0.0.0 rpxnow.com
 0.0.0.0 widget-cdn.rpxnow.com
+0.0.0.0 rtb123.com
+0.0.0.0 www.rtb123.com
 0.0.0.0 rtbhouse.com
 0.0.0.0 rtbiq.com
 0.0.0.0 analytics.rtbiq.com
@@ -4959,6 +4966,7 @@
 0.0.0.0 svtrd.com
 0.0.0.0 a.svtrd.com
 0.0.0.0 t.svtrd.com
+0.0.0.0 cdn.swellrewards.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 attribution.swiss.com
@@ -7258,6 +7266,7 @@
 0.0.0.0 mzbcdn.net
 0.0.0.0 cdn01.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
+0.0.0.0 analytics.nextopia.net
 0.0.0.0 nextperf.net
 0.0.0.0 ae.nflximg.net
 0.0.0.0 speed.nocookie.net

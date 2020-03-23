@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-20T15:07:42+00:00
-# Count: 109164 domains
+# Released: 2020-03-23T13:04:36+00:00
+# Count: 109176 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -22,6 +22,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 pixel.ad
+0.0.0.0 centro.pixel.ad
+0.0.0.0 clickserv.pixel.ad
+0.0.0.0 preview.pixel.ad
+0.0.0.0 up.pixel.ad
+0.0.0.0 www.pixel.ad
 0.0.0.0 roq.ad
 0.0.0.0 challenge.roq.ad
 0.0.0.0 www.roq.ad
@@ -18099,6 +18105,7 @@
 0.0.0.0 myaccounts.capitolone.com
 0.0.0.0 www.capitolone.com
 0.0.0.0 pixel.care.com
+0.0.0.0 devices.carnivalmobile.com
 0.0.0.0 agility.cartoonnetwork.com
 0.0.0.0 www.agility.cartoonnetwork.com
 0.0.0.0 sstats.cartoonnetwork.com
@@ -59601,6 +59608,9 @@
 0.0.0.0 ymcala.rpxnow.com
 0.0.0.0 yourname.rpxnow.com
 0.0.0.0 zendomain.rpxnow.com
+0.0.0.0 rtb123.com
+0.0.0.0 host.rtb123.com
+0.0.0.0 www.rtb123.com
 0.0.0.0 rtbhouse.com
 0.0.0.0 am.rtbhouse.com
 0.0.0.0 apps-connect.rtbhouse.com
@@ -64201,6 +64211,7 @@
 0.0.0.0 s.svtrd.com
 0.0.0.0 t.svtrd.com
 0.0.0.0 trc-latency.svtrd.com
+0.0.0.0 cdn.swellrewards.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 s.swiftypecdn.com
 0.0.0.0 attribution.swiss.com
@@ -94609,6 +94620,7 @@
 0.0.0.0 sdn01.mzbcdn.net
 0.0.0.0 www.mzbcdn.net
 0.0.0.0 neweratickets61-t.neolane.net
+0.0.0.0 analytics.nextopia.net
 0.0.0.0 nextperf.net
 0.0.0.0 bo.nextperf.net
 0.0.0.0 www.bo.nextperf.net

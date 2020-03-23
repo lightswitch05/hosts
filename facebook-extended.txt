@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-16T02:46:22+00:00
-# Count: 4169 domains
+# Released: 2020-03-23T13:13:25+00:00
+# Count: 4185 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -173,6 +173,7 @@
 0.0.0.0 z-p42-scontent-frt3-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-frx5-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-gru1-1.cdninstagram.com
+0.0.0.0 z-p42-scontent-gru2-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-prg1-1.cdninstagram.com
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 www.block-test.developerdan.com
@@ -198,6 +199,7 @@
 0.0.0.0 af-za.facebook.com
 0.0.0.0 agoda.facebook.com
 0.0.0.0 ai.facebook.com
+0.0.0.0 airasia.facebook.com
 0.0.0.0 ak.facebook.com
 0.0.0.0 s-static.ak.facebook.com
 0.0.0.0 alpha.facebook.com
@@ -430,6 +432,7 @@
 0.0.0.0 edge-star-mini-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-hkt1.facebook.com
+0.0.0.0 edge-star-mini-shv-01-mrs2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-ort2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
@@ -471,6 +474,7 @@
 0.0.0.0 en-gb.facebook.com
 0.0.0.0 en-us.facebook.com
 0.0.0.0 eni.facebook.com
+0.0.0.0 eo-eo.facebook.com
 0.0.0.0 epsilontel.facebook.com
 0.0.0.0 error.facebook.com
 0.0.0.0 es-es.facebook.com
@@ -504,11 +508,13 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph-portal.facebook.com
 0.0.0.0 graph-video.facebook.com
+0.0.0.0 groupcls.facebook.com
 0.0.0.0 h.facebook.com
 0.0.0.0 he-il.facebook.com
 0.0.0.0 headers-shv-00-ratn0.facebook.com
 0.0.0.0 headers-shv-00-rfrc0.facebook.com
 0.0.0.0 helios.facebook.com
+0.0.0.0 hello.facebook.com
 0.0.0.0 hi-in.facebook.com
 0.0.0.0 hiusj.facebook.com
 0.0.0.0 hootsuite.facebook.com
@@ -546,6 +552,7 @@
 0.0.0.0 ka-ge.facebook.com
 0.0.0.0 kcb.facebook.com
 0.0.0.0 kk-kz.facebook.com
+0.0.0.0 km-kh.facebook.com
 0.0.0.0 ko-kr.facebook.com
 0.0.0.0 l.facebook.com
 0.0.0.0 lantern.facebook.com
@@ -689,6 +696,7 @@
 0.0.0.0 mybauli.facebook.com
 0.0.0.0 nb-no.facebook.com
 0.0.0.0 ne-np.facebook.com
+0.0.0.0 nestle.facebook.com
 0.0.0.0 register.new.facebook.com
 0.0.0.0 newdev.facebook.com
 0.0.0.0 nl-be.facebook.com
@@ -1104,6 +1112,7 @@
 0.0.0.0 www.aprende-uspreprod.fb.com
 0.0.0.0 aprende-usuat.fb.com
 0.0.0.0 www.aprende-usuat.fb.com
+0.0.0.0 asahdigital.fb.com
 0.0.0.0 ash-appstore.fb.com
 0.0.0.0 ash-fsoutpost.fb.com
 0.0.0.0 ash-vsp.fb.com
@@ -1480,6 +1489,7 @@
 0.0.0.0 l1-usdev.fb.com
 0.0.0.0 l1-uspreprod.fb.com
 0.0.0.0 l1-usuat.fb.com
+0.0.0.0 latam-hacks-2020.fb.com
 0.0.0.0 ldnlab.fb.com
 0.0.0.0 ldnlabcreators.fb.com
 0.0.0.0 learn.fb.com
@@ -2212,6 +2222,7 @@
 0.0.0.0 en-gb.latest.instagram.com
 0.0.0.0 help.latest.instagram.com
 0.0.0.0 secure.latest.instagram.com
+0.0.0.0 live-dev.instagram.com
 0.0.0.0 live-upload.instagram.com
 0.0.0.0 live-vp-upload.instagram.com
 0.0.0.0 logger.instagram.com
@@ -2448,6 +2459,7 @@
 0.0.0.0 3.fb.me
 0.0.0.0 4g.fb.me
 0.0.0.0 6461796c6967687477696e64796a616e6540686f746d616message.fb.me
+0.0.0.0 a.fb.me
 0.0.0.0 a17-112-144-50.fb.me
 0.0.0.0 am.fb.me
 0.0.0.0 angelfire.fb.me
@@ -2679,6 +2691,7 @@
 0.0.0.0 z-m.ak.fbcdn.net
 0.0.0.0 z-n.ak.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-cdg2.fbcdn.net
+0.0.0.0 edge-oculus-shv-01-lga3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-mia3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-mxp1.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sea1.fbcdn.net
@@ -3396,6 +3409,7 @@
 0.0.0.0 instagram-p3-shv-01-lax3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-lga3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-lht6.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-mrs2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-nrt1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sea1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sjc3.fbcdn.net
@@ -3404,6 +3418,7 @@
 0.0.0.0 instagram-p3-shv-01-yyz1.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
+0.0.0.0 instagram-p3-shv-02-xsp1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cgk1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-fco1.fbcdn.net
@@ -4014,6 +4029,7 @@
 0.0.0.0 sonar-yyz.cdn.whatsapp.net
 0.0.0.0 www.cdn.whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 d1.whatsapp.net
 0.0.0.0 d2.whatsapp.net
 0.0.0.0 e1.whatsapp.net
 0.0.0.0 e10.whatsapp.net
