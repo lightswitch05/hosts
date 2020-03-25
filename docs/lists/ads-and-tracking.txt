@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-24T13:49:47+00:00
-# Count: 8403 domains
+# Released: 2020-03-25T20:10:31+00:00
+# Count: 8418 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -6112,8 +6112,23 @@
 0.0.0.0 st-a.props.id
 0.0.0.0 digitize.ie
 0.0.0.0 mailtracking.gitter.im
-0.0.0.0 spot.im
-0.0.0.0 open-api.spot.im
+0.0.0.0 ad-choices.spot.im
+0.0.0.0 ak-events-collector.spot.im
+0.0.0.0 analytics.spot.im
+0.0.0.0 analytics-read.spot.im
+0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 events-collector.spot.im
+0.0.0.0 metrics-logger.spot.im
+0.0.0.0 monetization.spot.im
+0.0.0.0 monetizationapi.spot.im
+0.0.0.0 offers.spot.im
+0.0.0.0 pix.spot.im
+0.0.0.0 pixel.spot.im
+0.0.0.0 recommendation.spot.im
+0.0.0.0 s.spot.im
+0.0.0.0 sentry.spot.im
+0.0.0.0 tracker.spot.im
+0.0.0.0 traffic.spot.im
 0.0.0.0 adadyn.co.in
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 com-isupport.in

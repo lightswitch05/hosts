@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-24T13:49:47+00:00
-# Count: 110023 domains
+# Released: 2020-03-25T20:10:32+00:00
+# Count: 109955 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -75209,91 +75209,23 @@
 0.0.0.0 digitize.ie
 0.0.0.0 www.digitize.ie
 0.0.0.0 mailtracking.gitter.im
-0.0.0.0 spot.im
 0.0.0.0 ad-choices.spot.im
-0.0.0.0 ak-admin.spot.im
-0.0.0.0 ak-amp.spot.im
-0.0.0.0 ak-dynamic-cdn.spot.im
 0.0.0.0 ak-events-collector.spot.im
-0.0.0.0 ak-mc-siderail.spot.im
-0.0.0.0 ak-publisher-assets.spot.im
-0.0.0.0 ak-recirculation.spot.im
-0.0.0.0 all.spot.im
-0.0.0.0 amp.spot.im
 0.0.0.0 analytics.spot.im
 0.0.0.0 analytics-read.spot.im
-0.0.0.0 api.spot.im
-0.0.0.0 api-2-0.spot.im
-0.0.0.0 api-gw.spot.im
-0.0.0.0 bd.spot.im
-0.0.0.0 cloudfront-amp.spot.im
-0.0.0.0 cloudfront-dynamic-cdn.spot.im
-0.0.0.0 community-spoxy.spot.im
-0.0.0.0 conversation-read.spot.im
-0.0.0.0 demos.spot.im
 0.0.0.0 direct-events-collector.spot.im
-0.0.0.0 drive.spot.im
-0.0.0.0 dynamic-cdn.spot.im
-0.0.0.0 email-connect.spot.im
-0.0.0.0 embed.spot.im
 0.0.0.0 events-collector.spot.im
-0.0.0.0 extract.spot.im
-0.0.0.0 hbcdn.spot.im
-0.0.0.0 hbdyn.spot.im
-0.0.0.0 import.spot.im
-0.0.0.0 init.spot.im
-0.0.0.0 mc-siderail.spot.im
-0.0.0.0 me.spot.im
 0.0.0.0 metrics-logger.spot.im
-0.0.0.0 mmaweekly-community.spot.im
-0.0.0.0 moderation.spot.im
 0.0.0.0 monetization.spot.im
 0.0.0.0 monetizationapi.spot.im
-0.0.0.0 mp3-community.spot.im
-0.0.0.0 newsfeed-sync.spot.im
-0.0.0.0 notifications.spot.im
 0.0.0.0 offers.spot.im
-0.0.0.0 office.spot.im
-0.0.0.0 open-api.spot.im
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.spot.im
-0.0.0.0 polyfills.spot.im
-0.0.0.0 premaster-spotops.spot.im
-0.0.0.0 premaster-spoxy.spot.im
-0.0.0.0 production-cluster.spot.im
-0.0.0.0 public-user.spot.im
-0.0.0.0 publisher-assets.spot.im
-0.0.0.0 rank.spot.im
-0.0.0.0 recirculation.spot.im
 0.0.0.0 recommendation.spot.im
 0.0.0.0 s.spot.im
-0.0.0.0 sccden.spot.im
-0.0.0.0 sccdens.spot.im
 0.0.0.0 sentry.spot.im
-0.0.0.0 seo.spot.im
-0.0.0.0 social-connect.spot.im
-0.0.0.0 spot-headers.spot.im
-0.0.0.0 spotops.spot.im
-0.0.0.0 spotops-kube.spot.im
-0.0.0.0 spoxy.spot.im
-0.0.0.0 sso.spot.im
-0.0.0.0 staging-api.spot.im
-0.0.0.0 staging-blog.spot.im
-0.0.0.0 stagingv2.spot.im
-0.0.0.0 static-cdn.spot.im
-0.0.0.0 status.spot.im
-0.0.0.0 t1-spoxy.spot.im
-0.0.0.0 tol-spoxy.spot.im
-0.0.0.0 topics.spot.im
 0.0.0.0 tracker.spot.im
 0.0.0.0 traffic.spot.im
-0.0.0.0 trans.spot.im
-0.0.0.0 translate.spot.im
-0.0.0.0 v1.spot.im
-0.0.0.0 v2.spot.im
-0.0.0.0 ws.spot.im
-0.0.0.0 ws-api.spot.im
-0.0.0.0 www.spot.im
 0.0.0.0 adadyn.co.in
 0.0.0.0 pixel.affcamp.co.in
 0.0.0.0 www.pixel.affcamp.co.in
