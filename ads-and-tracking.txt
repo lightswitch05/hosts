@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-26T12:45:57+00:00
-# Count: 8422 domains
+# Released: 2020-03-26T13:00:33+00:00
+# Count: 8425 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1542,6 +1542,7 @@
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 braze.com
 0.0.0.0 iad-01.braze.com
+0.0.0.0 ibilisk.iad-01.braze.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 iad-03.braze.com
 0.0.0.0 epsilon.iad-03.braze.com
@@ -7522,6 +7523,7 @@
 0.0.0.0 faithit-d.openx.net
 0.0.0.0 gannett-d.openx.net
 0.0.0.0 google-bidout-d.openx.net
+0.0.0.0 hearsttelevision-d.openx.net
 0.0.0.0 mailonline-us-d.openx.net
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 oao-d.openx.net
@@ -7580,6 +7582,7 @@
 0.0.0.0 pxsrv.net
 0.0.0.0 qksrv.net
 0.0.0.0 siteintercept.qprod2.net
+0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 returnpath.net
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel1.returnpath.net

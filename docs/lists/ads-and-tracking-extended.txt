@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-26T12:45:58+00:00
-# Count: 109959 domains
+# Released: 2020-03-26T13:00:33+00:00
+# Count: 109971 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -16742,9 +16742,11 @@
 0.0.0.0 pub-services.staging.iad.braze.com
 0.0.0.0 iad-01.braze.com
 0.0.0.0 andromeda.iad-01.braze.com
+0.0.0.0 customer.iad-01.braze.com
 0.0.0.0 ibilisk.iad-01.braze.com
 0.0.0.0 icaria.iad-01.braze.com
 0.0.0.0 indus.iad-01.braze.com
+0.0.0.0 irra.iad-01.braze.com
 0.0.0.0 muliphein.iad-01.braze.com
 0.0.0.0 rest.iad-01.braze.com
 0.0.0.0 sagittarius.iad-01.braze.com
@@ -98737,6 +98739,7 @@
 0.0.0.0 covers-media-group-d.openx.net
 0.0.0.0 coxauto-d.openx.net
 0.0.0.0 coxmediagroup-d.openx.net
+0.0.0.0 creativelink-d.openx.net
 0.0.0.0 criticinc-d.openx.net
 0.0.0.0 crowdynews-d.openx.net
 0.0.0.0 cruisecritic-d.openx.net
@@ -98812,6 +98815,7 @@
 0.0.0.0 evite-d.openx.net
 0.0.0.0 evolution-d.openx.net
 0.0.0.0 evolvemedia-d.openx.net
+0.0.0.0 exceljet-d.openx.net
 0.0.0.0 ezoic-d.openx.net
 0.0.0.0 faithit-d.openx.net
 0.0.0.0 famousbirthdays-d.openx.net
@@ -98827,6 +98831,7 @@
 0.0.0.0 forwardpublishing-d.openx.net
 0.0.0.0 fourm-d.openx.net
 0.0.0.0 fourtests-d.openx.net
+0.0.0.0 foxnews-d.openx.net
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fragrantica-d.openx.net
 0.0.0.0 frankly-d.openx.net
@@ -98963,11 +98968,13 @@
 0.0.0.0 kongregate-d.openx.net
 0.0.0.0 koreaboo2-d.openx.net
 0.0.0.0 ksl-d.openx.net
+0.0.0.0 kusuguru-d.openx.net
 0.0.0.0 kyodonewsdigital-d.openx.net
 0.0.0.0 lanista-bidder-d.openx.net
 0.0.0.0 latimes-d.openx.net
 0.0.0.0 legacycst-d.openx.net
 0.0.0.0 lifehack-d.openx.net
+0.0.0.0 lifestreets2s-d.openx.net
 0.0.0.0 linewebtoon-d.openx.net
 0.0.0.0 liqwid-d.openx.net
 0.0.0.0 listverse-d.openx.net
@@ -99017,6 +99024,7 @@
 0.0.0.0 miniclip-u-d.openx.net
 0.0.0.0 mlb-d.openx.net
 0.0.0.0 mobile-de-d.openx.net
+0.0.0.0 mobile01-d.openx.net
 0.0.0.0 mobiledeluxe-d.openx.net
 0.0.0.0 mobileposse-d.openx.net
 0.0.0.0 monetizemore-d.openx.net
@@ -99145,6 +99153,7 @@
 0.0.0.0 raiseit-d.openx.net
 0.0.0.0 rakuten-d.openx.net
 0.0.0.0 ranker-d.openx.net
+0.0.0.0 readtheory-d.openx.net
 0.0.0.0 realtor-d.openx.net
 0.0.0.0 reddit-d.openx.net
 0.0.0.0 redux-d.openx.net
@@ -99215,6 +99224,7 @@
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snopes-d.openx.net
 0.0.0.0 socialknowledge-d.openx.net
+0.0.0.0 softonic-d.openx.net
 0.0.0.0 soju.openx.net
 0.0.0.0 black.soju.openx.net
 0.0.0.0 blue.soju.openx.net
@@ -100409,6 +100419,8 @@
 0.0.0.0 qksrv.net
 0.0.0.0 www.qksrv.net
 0.0.0.0 siteintercept.qprod2.net
+0.0.0.0 glassmoni.researchgate.net
+0.0.0.0 www.glassmoni.researchgate.net
 0.0.0.0 returnpath.net
 0.0.0.0 ads.returnpath.net
 0.0.0.0 app.returnpath.net
