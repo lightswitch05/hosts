@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-27T12:23:05+00:00
-# Count: 110896 domains
+# Released: 2020-03-27T12:33:27+00:00
+# Count: 110913 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -100699,6 +100699,7 @@
 0.0.0.0 collector-px09a9fhxa.px-cdn.net
 0.0.0.0 collector-px0dqvu288.px-cdn.net
 0.0.0.0 collector-px0f3091f3.px-cdn.net
+0.0.0.0 collector-px0lizzs6w.px-cdn.net
 0.0.0.0 collector-px0py5pczn.px-cdn.net
 0.0.0.0 collector-px0uqk4c76.px-cdn.net
 0.0.0.0 collector-px12ew76qt.px-cdn.net
@@ -100810,6 +100811,7 @@
 0.0.0.0 collector-pxvy53bwd7.px-cdn.net
 0.0.0.0 collector-pxw3iam8bj.px-cdn.net
 0.0.0.0 collector-pxwekzyxmm.px-cdn.net
+0.0.0.0 collector-pxwjdtmg7v.px-cdn.net
 0.0.0.0 collector-pxwn0gh9ab.px-cdn.net
 0.0.0.0 collector-pxxcro4kbp.px-cdn.net
 0.0.0.0 collector-pxxgcxm9by.px-cdn.net
@@ -100892,6 +100894,7 @@
 0.0.0.0 collector-px9qziyplm.px-cloud.net
 0.0.0.0 collector-px9vyuvz4f.px-cloud.net
 0.0.0.0 collector-pxa0o07ort.px-cloud.net
+0.0.0.0 collector-pxa8kkn318.px-cloud.net
 0.0.0.0 collector-pxaflyiz9n.px-cloud.net
 0.0.0.0 collector-pxag6zzoxu.px-cloud.net
 0.0.0.0 collector-pxajdckzhd.px-cloud.net
@@ -101009,6 +101012,7 @@
 0.0.0.0 collector-pxvnpbbfwe.px-cloud.net
 0.0.0.0 collector-pxvxu8kltc.px-cloud.net
 0.0.0.0 collector-pxvy53bwd7.px-cloud.net
+0.0.0.0 collector-pxw3iam8bj.px-cloud.net
 0.0.0.0 collector-pxw587i9y4.px-cloud.net
 0.0.0.0 collector-pxwekzyxmm.px-cloud.net
 0.0.0.0 collector-pxwjdtmg7v.px-cloud.net
@@ -101043,6 +101047,7 @@
 0.0.0.0 collector-px09a9fhxa.pxchk.net
 0.0.0.0 collector-px0dqvu288.pxchk.net
 0.0.0.0 collector-px0f3091f3.pxchk.net
+0.0.0.0 collector-px0lizzs6w.pxchk.net
 0.0.0.0 collector-px0py5pczn.pxchk.net
 0.0.0.0 collector-px12ew76qt.pxchk.net
 0.0.0.0 collector-px12xk43jk.pxchk.net
@@ -101177,6 +101182,7 @@
 0.0.0.0 collector-pxw3iam8bj.pxchk.net
 0.0.0.0 collector-pxw587i9y4.pxchk.net
 0.0.0.0 collector-pxwekzyxmm.pxchk.net
+0.0.0.0 collector-pxwjdtmg7v.pxchk.net
 0.0.0.0 collector-pxwn0gh9ab.pxchk.net
 0.0.0.0 collector-pxx1o20zz0.pxchk.net
 0.0.0.0 collector-pxxcro4kbp.pxchk.net
@@ -105208,6 +105214,17 @@
 0.0.0.0 tls.travelsmarter.net
 0.0.0.0 ums.travelsmarter.net
 0.0.0.0 www.travelsmarter.net
+0.0.0.0 tumri.net
+0.0.0.0 adpodium.tumri.net
+0.0.0.0 advantage.tumri.net
+0.0.0.0 ats.tumri.net
+0.0.0.0 campaigner.tumri.net
+0.0.0.0 images.tumri.net
+0.0.0.0 mrin2.tumri.net
+0.0.0.0 tomorrow.tumri.net
+0.0.0.0 udb.tumri.net
+0.0.0.0 www.tumri.net
+0.0.0.0 www-akamai.tumri.net
 0.0.0.0 sentinel.twitchsvc.net
 0.0.0.0 p.typekit.net
 0.0.0.0 udmserve.net
