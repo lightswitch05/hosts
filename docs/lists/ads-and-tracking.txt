@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-30T12:18:45+00:00
-# Count: 8438 domains
+# Released: 2020-03-30T12:46:56+00:00
+# Count: 8441 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2592,6 +2592,7 @@
 0.0.0.0 img.goadservices.com
 0.0.0.0 s.goadservices.com
 0.0.0.0 seal.godaddy.com
+0.0.0.0 tracking.godatafeed.com
 0.0.0.0 gofreeradio.com
 0.0.0.0 gogorithm.com
 0.0.0.0 adserver.goodnuze.com
@@ -7377,6 +7378,7 @@
 0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 contextual.media.net
 0.0.0.0 cs.media.net
+0.0.0.0 cslogger.media.net
 0.0.0.0 ebda-useast.media.net
 0.0.0.0 ebda-uswest.media.net
 0.0.0.0 hbx.media.net
@@ -7440,6 +7442,7 @@
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
+0.0.0.0 mtv.hb.omtrdc.net
 0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
 0.0.0.0 sc.omtrdc.net
 0.0.0.0 ancestrycom.sc.omtrdc.net

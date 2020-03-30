@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-03-30T12:18:46+00:00
-# Count: 110960 domains
+# Released: 2020-03-30T12:46:56+00:00
+# Count: 110985 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -33258,6 +33258,7 @@
 0.0.0.0 www.goadservices.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 www.seal.godaddy.com
+0.0.0.0 tracking.godatafeed.com
 0.0.0.0 gofreeradio.com
 0.0.0.0 conf.gofreeradio.com
 0.0.0.0 content.gofreeradio.com
@@ -96700,6 +96701,9 @@
 0.0.0.0 collection.sv.d2.omtrdc.net
 0.0.0.0 delivery.sv.d2.omtrdc.net
 0.0.0.0 hb.omtrdc.net
+0.0.0.0 1.hb.omtrdc.net
+0.0.0.0 aarp.hb.omtrdc.net
+0.0.0.0 abc.hb.omtrdc.net
 0.0.0.0 abcnews.hb.omtrdc.net
 0.0.0.0 abcotv.hb.omtrdc.net
 0.0.0.0 adobecorp.hb.omtrdc.net
@@ -96708,16 +96712,21 @@
 0.0.0.0 aftonbladetnya.hb.omtrdc.net
 0.0.0.0 animeconsortiumjapan.hb.omtrdc.net
 0.0.0.0 arkena.hb.omtrdc.net
+0.0.0.0 atlascopco.hb.omtrdc.net
+0.0.0.0 atresmedia.hb.omtrdc.net
 0.0.0.0 att.hb.omtrdc.net
 0.0.0.0 bellmedia.hb.omtrdc.net
 0.0.0.0 bsinteractive.hb.omtrdc.net
 0.0.0.0 bskyb.hb.omtrdc.net
+0.0.0.0 byubroadcasting.hb.omtrdc.net
 0.0.0.0 cartoonnetworknewmedia.hb.omtrdc.net
 0.0.0.0 cbcca.hb.omtrdc.net
+0.0.0.0 cbinteractive.hb.omtrdc.net
 0.0.0.0 cbn.hb.omtrdc.net
 0.0.0.0 cbsdigitalmedia.hb.omtrdc.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cc.hb.omtrdc.net
+0.0.0.0 ccma.hb.omtrdc.net
 0.0.0.0 chelseafc.hb.omtrdc.net
 0.0.0.0 comcastcom.hb.omtrdc.net
 0.0.0.0 comcastentertainmentgroup.hb.omtrdc.net
@@ -96741,6 +96750,7 @@
 0.0.0.0 ewscripps.hb.omtrdc.net
 0.0.0.0 fandango.hb.omtrdc.net
 0.0.0.0 fonecta.hb.omtrdc.net
+0.0.0.0 fortis.hb.omtrdc.net
 0.0.0.0 foxentertainment.hb.omtrdc.net
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 foxsports.hb.omtrdc.net
@@ -96748,16 +96758,23 @@
 0.0.0.0 fullscreen.hb.omtrdc.net
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 grunerandjahr.hb.omtrdc.net
+0.0.0.0 hallmarkcom.hb.omtrdc.net
 0.0.0.0 hbolag.hb.omtrdc.net
 0.0.0.0 heartbeats.hb.omtrdc.net
 0.0.0.0 hkonline.hb.omtrdc.net
 0.0.0.0 hulu.hb.omtrdc.net
+0.0.0.0 independentdigital.hb.omtrdc.net
 0.0.0.0 lds.hb.omtrdc.net
+0.0.0.0 lifeway.hb.omtrdc.net
 0.0.0.0 mathworks.hb.omtrdc.net
 0.0.0.0 mediaset.hb.omtrdc.net
+0.0.0.0 metrics.hb.omtrdc.net
+0.0.0.0 mmm.hb.omtrdc.net
 0.0.0.0 mobitvinc.hb.omtrdc.net
 0.0.0.0 mtv.hb.omtrdc.net
 0.0.0.0 mtv3.hb.omtrdc.net
+0.0.0.0 mytvsuperlimited.hb.omtrdc.net
+0.0.0.0 nascardigitalsap.hb.omtrdc.net
 0.0.0.0 nbagroup.hb.omtrdc.net
 0.0.0.0 nbcume.hb.omtrdc.net
 0.0.0.0 newscorpau.hb.omtrdc.net
@@ -96765,8 +96782,10 @@
 0.0.0.0 nhkonline.hb.omtrdc.net
 0.0.0.0 novartispharma.hb.omtrdc.net
 0.0.0.0 obumobile1.hb.omtrdc.net
+0.0.0.0 onemarketingaztec.hb.omtrdc.net
 0.0.0.0 oxsports.hb.omtrdc.net
 0.0.0.0 pac12.hb.omtrdc.net
+0.0.0.0 pgatour.hb.omtrdc.net
 0.0.0.0 pluralsight.hb.omtrdc.net
 0.0.0.0 postmedia.hb.omtrdc.net
 0.0.0.0 pragyatest.hb.omtrdc.net
@@ -96774,6 +96793,7 @@
 0.0.0.0 redbullmediahouse.hb.omtrdc.net
 0.0.0.0 rogersmedia.hb.omtrdc.net
 0.0.0.0 rtl.hb.omtrdc.net
+0.0.0.0 rtve.hb.omtrdc.net
 0.0.0.0 saxobank.hb.omtrdc.net
 0.0.0.0 sbmultimediapvt.hb.omtrdc.net
 0.0.0.0 sbsaustralia.hb.omtrdc.net
@@ -96789,10 +96809,14 @@
 0.0.0.0 talpaholdingnv.hb.omtrdc.net
 0.0.0.0 tiaacref.hb.omtrdc.net
 0.0.0.0 tmobileusa.hb.omtrdc.net
+0.0.0.0 tourismnz.hb.omtrdc.net
 0.0.0.0 trutv.hb.omtrdc.net
+0.0.0.0 tumiholdings.hb.omtrdc.net
+0.0.0.0 turnerapac.hb.omtrdc.net
 0.0.0.0 turnerclassicmovies.hb.omtrdc.net
 0.0.0.0 turnerinternational.hb.omtrdc.net
 0.0.0.0 turnerresearch1.hb.omtrdc.net
+0.0.0.0 turnersidigital.hb.omtrdc.net
 0.0.0.0 tv2.hb.omtrdc.net
 0.0.0.0 uktvltd.hb.omtrdc.net
 0.0.0.0 vailresorts.hb.omtrdc.net
@@ -96803,6 +96827,7 @@
 0.0.0.0 vrt.hb.omtrdc.net
 0.0.0.0 warnerbrosentertainmentinc.hb.omtrdc.net
 0.0.0.0 webmd.hb.omtrdc.net
+0.0.0.0 websense.hb.omtrdc.net
 0.0.0.0 yleisradio.hb.omtrdc.net
 0.0.0.0 hb-api.omtrdc.net
 0.0.0.0 appleworldwidedeveloper.hb-api.omtrdc.net
