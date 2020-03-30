@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-23T02:53:39+00:00
-# Count: 4185 domains
+# Released: 2020-03-30T02:47:54+00:00
+# Count: 4198 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -174,6 +174,7 @@
 0.0.0.0 z-p42-scontent-frx5-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-gru1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-gru2-1.cdninstagram.com
+0.0.0.0 z-p42-scontent-gru2-2.cdninstagram.com
 0.0.0.0 z-p42-scontent-prg1-1.cdninstagram.com
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 www.block-test.developerdan.com
@@ -191,6 +192,7 @@
 0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 5-edge-chat-latest.facebook.com
 0.0.0.0 6-edge-chat.facebook.com
+0.0.0.0 a1team.facebook.com
 0.0.0.0 about.facebook.com
 0.0.0.0 actcorp.facebook.com
 0.0.0.0 ads.facebook.com
@@ -262,6 +264,7 @@
 0.0.0.0 z-p42-instagram.c10r.facebook.com
 0.0.0.0 ca-es.facebook.com
 0.0.0.0 callaghaninnovation.facebook.com
+0.0.0.0 canvas.facebook.com
 0.0.0.0 channel.facebook.com
 0.0.0.0 chat.facebook.com
 0.0.0.0 chris.facebook.com
@@ -460,6 +463,7 @@
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
 0.0.0.0 edge-z-p3-shv-01-atl3.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
+0.0.0.0 edge-z-p3-shv-01-xsp1.facebook.com
 0.0.0.0 edgeray-shv-01-bru2.facebook.com
 0.0.0.0 edgeray-shv-01-dus1.facebook.com
 0.0.0.0 edgeray-shv-01-lax3.facebook.com
@@ -493,6 +497,7 @@
 0.0.0.0 facebook-amex-sign.facebook.com
 0.0.0.0 facebook-amex-sign-enc-dev.facebook.com
 0.0.0.0 facebook-icd-autopay.facebook.com
+0.0.0.0 falabella.facebook.com
 0.0.0.0 fb.facebook.com
 0.0.0.0 de-de.he-il.fbjs.facebook.com
 0.0.0.0 fbonly-test-bgp-01-eze1.facebook.com
@@ -966,6 +971,7 @@
 0.0.0.0 sl-si.facebook.com
 0.0.0.0 slalom.facebook.com
 0.0.0.0 snaptu-mini.facebook.com
+0.0.0.0 snaptu-p1.facebook.com
 0.0.0.0 snaptu-p2.facebook.com
 0.0.0.0 snaptu-z.facebook.com
 0.0.0.0 sparkar.facebook.com
@@ -2416,6 +2422,7 @@
 0.0.0.0 ratings.whatsapp.com
 0.0.0.0 stats.whatsapp.com
 0.0.0.0 support.whatsapp.com
+0.0.0.0 test-web.whatsapp.com
 0.0.0.0 translate.whatsapp.com
 0.0.0.0 translate-dev.whatsapp.com
 0.0.0.0 tri.whatsapp.com
@@ -3382,6 +3389,7 @@
 0.0.0.0 fna-fbcdn-shv-01-fbed1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fbed1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-fapa1.fbcdn.net
+0.0.0.0 fna-fbcdn-video-shv-01-fbed1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-fccu4.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-02-fbed1.fbcdn.net
@@ -3391,6 +3399,7 @@
 0.0.0.0 fna-instagram-shv-01-fjai2.fbcdn.net
 0.0.0.0 fna-instagram-shv-01-fpat2.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fhyd1.fbcdn.net
+0.0.0.0 fna-instagram-shv-02-fsac1.fbcdn.net
 0.0.0.0 igcdn-origincache-all.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p15-shv-01-hkg3.fbcdn.net
@@ -3419,6 +3428,7 @@
 0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-xsp1.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-atl3.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cgk1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-fco1.fbcdn.net
@@ -3445,6 +3455,7 @@
 0.0.0.0 interncache-pnb.fbcdn.net
 0.0.0.0 interncache-prn.fbcdn.net
 0.0.0.0 interncache-vll.fbcdn.net
+0.0.0.0 origincache-all.fbcdn.net
 0.0.0.0 origincache-ash.fbcdn.net
 0.0.0.0 origincache-ftw.fbcdn.net
 0.0.0.0 origincache-lla.fbcdn.net
@@ -3453,7 +3464,9 @@
 0.0.0.0 whatsapp-cdn-shv-01-hkt1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lhr8.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-maa2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-nrt1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-ort2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-scl2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-hkg3.fbcdn.net
