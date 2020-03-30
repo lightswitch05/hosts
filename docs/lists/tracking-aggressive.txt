@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2020-03-30T12:09:40+00:00
-# Count: 160 domains
+# Released: 2020-03-30T17:42:50+00:00
+# Count: 162 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -34,6 +34,7 @@
 0.0.0.0 firefly-071591.s3.amazonaws.com
 0.0.0.0 surveygizmobeacon.s3.amazonaws.com
 0.0.0.0 location-services-measurements.s3-external-1.amazonaws.com
+0.0.0.0 stats.gc.apple.com
 0.0.0.0 ugc.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
 0.0.0.0 carters.ugc.bazaarvoice.com
@@ -169,6 +170,7 @@
 0.0.0.0 assets.juicer.io
 0.0.0.0 simpleanalytics.io
 0.0.0.0 buff.ly
+0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 asimov.vortex.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
 0.0.0.0 lptag.liveperson.net
