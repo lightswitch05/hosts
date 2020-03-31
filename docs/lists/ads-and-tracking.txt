@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-30T17:43:26+00:00
-# Count: 8439 domains
+# Released: 2020-03-31T13:55:45+00:00
+# Count: 8455 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1939,6 +1939,7 @@
 0.0.0.0 traffic-statics-europe.creativecdn.com
 0.0.0.0 traffic-statics-usa.creativecdn.com
 0.0.0.0 us.creativecdn.com
+0.0.0.0 www.creditcards.com
 0.0.0.0 sponge.creditkarma.com
 0.0.0.0 tags.creditkarma.com
 0.0.0.0 metrics.creditreport.com
@@ -2268,6 +2269,7 @@
 0.0.0.0 s1516.t.eloqua.com
 0.0.0.0 s334284386.t.eloqua.com
 0.0.0.0 elsticsr.com
+0.0.0.0 om.elvenar.com
 0.0.0.0 emailonlinechase.com
 0.0.0.0 data.emb-api.com
 0.0.0.0 cdn.emerse.com
@@ -2453,6 +2455,7 @@
 0.0.0.0 static.foresee.com
 0.0.0.0 foreseeresults.com
 0.0.0.0 survey.foreseeresults.com
+0.0.0.0 om.forgeofempires.com
 0.0.0.0 forter.com
 0.0.0.0 2c5de9923d36.cdn4.forter.com
 0.0.0.0 null.cdn4.forter.com
@@ -2848,6 +2851,8 @@
 0.0.0.0 indexexchange.com
 0.0.0.0 indexww.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 infolinks.com
+0.0.0.0 resources.infolinks.com
 0.0.0.0 analytics.inform.com
 0.0.0.0 cmp.infoworld.com
 0.0.0.0 infusionsoft.com
@@ -3042,6 +3047,7 @@
 0.0.0.0 kochava.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 assets.kochava.com
+0.0.0.0 control.kochava.com
 0.0.0.0 imp.control.kochava.com
 0.0.0.0 beam.koddi.com
 0.0.0.0 mon1.kohls.com
@@ -3089,6 +3095,7 @@
 0.0.0.0 web.legalandgeneral.com
 0.0.0.0 static.legitscript.com
 0.0.0.0 rt.legolas-media.com
+0.0.0.0 www.lemonade.com
 0.0.0.0 recommendations.letslinc.com
 0.0.0.0 levexis.com
 0.0.0.0 pfa.levexis.com
@@ -3703,6 +3710,7 @@
 0.0.0.0 monarchads.com
 0.0.0.0 ctv.monarchads.com
 0.0.0.0 tracking.sctv1.monarchads.com
+0.0.0.0 monday.com
 0.0.0.0 monetize-me.com
 0.0.0.0 monetizer101.com
 0.0.0.0 api.monetizer101.com
@@ -3847,8 +3855,11 @@
 0.0.0.0 nexage.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 prod-m-node-1112.nexage.com
+0.0.0.0 nextadvisor.com
+0.0.0.0 www.nextadvisor.com
 0.0.0.0 nextroll.com
 0.0.0.0 nqs.nice264.com
+0.0.0.0 sc.nick.com
 0.0.0.0 ninjapd.com
 0.0.0.0 p.ninjapd.com
 0.0.0.0 post.ninjapd.com
@@ -3874,6 +3885,7 @@
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
 0.0.0.0 service.cmp.oath.com
+0.0.0.0 octopus.com
 0.0.0.0 ogury.com
 0.0.0.0 oilcloze.com
 0.0.0.0 omniconvert.com
@@ -4282,6 +4294,7 @@
 0.0.0.0 log.quora.com
 0.0.0.0 qwapi.com
 0.0.0.0 adsdk.qwapi.com
+0.0.0.0 qwilr.com
 0.0.0.0 cdn.r-adimg.com
 0.0.0.0 cdn-stg.r-adimg.com
 0.0.0.0 7c89c6d9373fce92e3d7-f9125777349c6cb7748299aa773c2449.ssl.cf2.rackcdn.com
@@ -4358,6 +4371,7 @@
 0.0.0.0 waves.retentionscience.com
 0.0.0.0 returnpath.com
 0.0.0.0 revcontent.com
+0.0.0.0 assets.revcontent.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 revealmobile.com
@@ -4387,6 +4401,7 @@
 0.0.0.0 rkdms.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 rlcdn.com
+0.0.0.0 api.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 so.rlcdn.com
 0.0.0.0 tv.rlcdn.com
@@ -7543,6 +7558,7 @@
 0.0.0.0 saymedia-d.openx.net
 0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
+0.0.0.0 thehill-d.openx.net
 0.0.0.0 u.openx.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatodaysports-d.openx.net
