@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2020-03-30T17:42:50+00:00
-# Count: 162 domains
+# Released: 2020-04-01T13:14:42+00:00
+# Count: 164 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -153,6 +153,8 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 weather.wapp.wii.com
+0.0.0.0 winred.com
+0.0.0.0 secure.winred.com
 0.0.0.0 cdf-anon.xboxlive.com
 0.0.0.0 settings-ssl.xboxlive.com
 0.0.0.0 go.xhamsterlive.com

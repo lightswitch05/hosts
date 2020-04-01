@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-03-31T20:24:08+00:00
-# Count: 8451 domains
+# Released: 2020-04-01T13:09:26+00:00
+# Count: 8453 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1207,6 +1207,7 @@
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 applovin.com
 0.0.0.0 a.applovin.com
 0.0.0.0 ams-goog.applovin.com
@@ -2725,6 +2726,7 @@
 0.0.0.0 htlbid.com
 0.0.0.0 httptrack.com
 0.0.0.0 eventtracking.hubapi.com
+0.0.0.0 track.hubspot.com
 0.0.0.0 hubspotfeedback.com
 0.0.0.0 js.hubspotfeedback.com
 0.0.0.0 guce.huffpost.com
