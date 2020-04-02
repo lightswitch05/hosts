@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-04-01T17:09:45+00:00
-# Count: 111391 domains
+# Released: 2020-04-02T12:20:41+00:00
+# Count: 111395 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -33348,6 +33348,10 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerssl.googleadservices.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 www.firebaselogging.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 www.firebaselogging-pa.googleapis.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 afs.googlesyndication.com
