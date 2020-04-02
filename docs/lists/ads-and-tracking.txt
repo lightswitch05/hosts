@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-02T12:30:23+00:00
-# Count: 8456 domains
+# Released: 2020-04-02T14:56:53+00:00
+# Count: 8484 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -179,6 +179,7 @@
 0.0.0.0 zplay.bidagent.xadchina.cn
 0.0.0.0 6sc.co
 0.0.0.0 j.6sc.co
+0.0.0.0 adk2.co
 0.0.0.0 prebid.adnxs.co
 0.0.0.0 adpxl.co
 0.0.0.0 adpxljs.adpxl.co
@@ -331,6 +332,7 @@
 0.0.0.0 tlx.3lift.com
 0.0.0.0 us-east-tlx.3lift.com
 0.0.0.0 us-west-tlx.3lift.com
+0.0.0.0 51yes.com
 0.0.0.0 epsilon.6sense.com
 0.0.0.0 7p.com
 0.0.0.0 post.7p.com
@@ -1473,6 +1475,7 @@
 0.0.0.0 c.bing.com
 0.0.0.0 bat.bing-int.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
+0.0.0.0 bitterstrawberry.com
 0.0.0.0 bizible.com
 0.0.0.0 bizographics.com
 0.0.0.0 www.bizographics.com
@@ -1540,6 +1543,7 @@
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 cdn.brandmetrics.com
+0.0.0.0 bravenet.com
 0.0.0.0 braze.com
 0.0.0.0 iad-01.braze.com
 0.0.0.0 ibilisk.iad-01.braze.com
@@ -2542,6 +2546,7 @@
 0.0.0.0 genorithm.com
 0.0.0.0 geoadnxs.com
 0.0.0.0 adx.ib.sin1.geoadnxs.com
+0.0.0.0 geovisite.com
 0.0.0.0 log.getadblock.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 getadmiral.com
@@ -2584,6 +2589,7 @@
 0.0.0.0 gmial.com
 0.0.0.0 log.go.com
 0.0.0.0 sw88.go.com
+0.0.0.0 go2affise.com
 0.0.0.0 goadservices.com
 0.0.0.0 a.goadservices.com
 0.0.0.0 ao.goadservices.com
@@ -2708,6 +2714,7 @@
 0.0.0.0 h30-deploy.hiconversion.com
 0.0.0.0 hiss3lark.com
 0.0.0.0 secure.hiss3lark.com
+0.0.0.0 hitbox.com
 0.0.0.0 hlserve.com
 0.0.0.0 b.hlserve.com
 0.0.0.0 www.hlserve.com
@@ -3010,6 +3017,7 @@
 0.0.0.0 jumboquiz.com
 0.0.0.0 jumpstarttaggingsolutions.com
 0.0.0.0 www.jumpstarttaggingsolutions.com
+0.0.0.0 jumptap.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 justpremium.com
 0.0.0.0 ads.justpremium.com
@@ -3532,6 +3540,7 @@
 0.0.0.0 prs3.midasplayer.com
 0.0.0.0 soda1.midasplayer.com
 0.0.0.0 mikkymax.com
+0.0.0.0 millennialmedia.com
 0.0.0.0 mindtake.com
 0.0.0.0 t.mindtake.com
 0.0.0.0 t5.mindtake.com
@@ -3710,6 +3719,7 @@
 0.0.0.0 rtb.mobpro.com
 0.0.0.0 rtb1.mobpro.com
 0.0.0.0 mobusi.com
+0.0.0.0 mojiva.com
 0.0.0.0 momently.com
 0.0.0.0 ping.momently.com
 0.0.0.0 momentumconsumermetrics.com
@@ -3732,6 +3742,7 @@
 0.0.0.0 cb.mopub.com
 0.0.0.0 mpx.mopub.com
 0.0.0.0 s.mopub.com
+0.0.0.0 webstats.motigo.com
 0.0.0.0 p-cg61-beaconserver.movetv.com
 0.0.0.0 p-stats.movetv.com
 0.0.0.0 event-collector.moviesanywhere.com
@@ -3770,6 +3781,7 @@
 0.0.0.0 mynativeplatform.com
 0.0.0.0 cks.mynativeplatform.com
 0.0.0.0 cobrowse.mypurecloud.com
+0.0.0.0 myroitracking.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 n131adserv.com
@@ -3900,6 +3912,7 @@
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 fo-static.omnitagjs.com
 0.0.0.0 hb-api.omnitagjs.com
+0.0.0.0 omniture.com
 0.0.0.0 onaudience.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 onedigitalad.com
@@ -4206,6 +4219,7 @@
 0.0.0.0 upx-tri.provenpixel.com
 0.0.0.0 vissets.provenpixel.com
 0.0.0.0 pt2tracker.com
+0.0.0.0 ptp22.com
 0.0.0.0 pubexchange.com
 0.0.0.0 by.pubexchange.com
 0.0.0.0 cdn.pubexchange.com
@@ -4229,6 +4243,7 @@
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 pubocean.com
 0.0.0.0 rta.pubocean.com
+0.0.0.0 puhtml.com
 0.0.0.0 pulsemaps.com
 0.0.0.0 pulsepoint.com
 0.0.0.0 purch.com
@@ -4994,6 +5009,7 @@
 0.0.0.0 commerce-api.sprinklr.com
 0.0.0.0 adserver.sprintdisk.com
 0.0.0.0 sprymetrics.com
+0.0.0.0 spylog.com
 0.0.0.0 srvalgo.com
 0.0.0.0 srvmath.com
 0.0.0.0 p.srvmath.com
@@ -5062,6 +5078,7 @@
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 outcome-cdn.supersonicads.com
 0.0.0.0 pm-gateway.supersonicads.com
+0.0.0.0 superstats.com
 0.0.0.0 pixel.surpasshosting.com
 0.0.0.0 survata.com
 0.0.0.0 ev.surveywall-api.survata.com
@@ -5149,6 +5166,7 @@
 0.0.0.0 imp.taptica.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 taglocker.target.com
+0.0.0.0 targetnet.com
 0.0.0.0 agility.tbs.com
 0.0.0.0 analytics-tx.tdameritrade.com
 0.0.0.0 uat-net.technoratimedia.com
@@ -5542,6 +5560,7 @@
 0.0.0.0 s.voicefive.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 voluumdsp.com
+0.0.0.0 voluumtrk.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 phonograph2.voxmedia.com
@@ -5773,9 +5792,12 @@
 0.0.0.0 liveapi.yext.com
 0.0.0.0 yext-pixel.com
 0.0.0.0 www.yext-pixel.com
+0.0.0.0 yieldbuild.com
 0.0.0.0 yieldlove.com
 0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 yieldmanager.com
 0.0.0.0 ad.yieldmanager.com
+0.0.0.0 yieldmgr.com
 0.0.0.0 yieldmo.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 rw.yieldmo.com
@@ -5840,6 +5862,7 @@
 0.0.0.0 watching.zentrick.com
 0.0.0.0 zergnet.com
 0.0.0.0 www.zergnet.com
+0.0.0.0 zeroredirect1.com
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 e.zg-api.com
 0.0.0.0 keystone.zillow.com
@@ -6570,6 +6593,7 @@
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 mmnetwork.mobi
 0.0.0.0 www1.mmnetwork.mobi
+0.0.0.0 mydas.mobi
 0.0.0.0 vserv.mobi
 0.0.0.0 img.vserv.mobi
 0.0.0.0 rtb.vserv.mobi
@@ -6986,6 +7010,7 @@
 0.0.0.0 cdn01.centro.net
 0.0.0.0 pespn.chartbeat.net
 0.0.0.0 chitika.net
+0.0.0.0 clickbank.net
 0.0.0.0 hop.clickbank.net
 0.0.0.0 clicksapp.net
 0.0.0.0 clicktale.net
@@ -7759,6 +7784,7 @@
 0.0.0.0 webcam.net
 0.0.0.0 scontent.webcollage.net
 0.0.0.0 smedia.webcollage.net
+0.0.0.0 webtrekk.net
 0.0.0.0 whoer-vpn.net
 0.0.0.0 cookiesuksouth.blob.core.windows.net
 0.0.0.0 exposebox.blob.core.windows.net
@@ -7994,6 +8020,7 @@
 0.0.0.0 smetrics.consumerreports.org
 0.0.0.0 45ac.eacnur.org
 0.0.0.0 ads.filezilla-project.org
+0.0.0.0 go2cloud.org
 0.0.0.0 ketchapp.org
 0.0.0.0 www.ketchapp.org
 0.0.0.0 test.lds.org
@@ -8458,6 +8485,7 @@
 0.0.0.0 perso.nile.works
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 wpad
+0.0.0.0 adsservingtwig.xyz
 0.0.0.0 alexafriday.xyz
 0.0.0.0 alexaprime.xyz
 0.0.0.0 alexathursday.xyz

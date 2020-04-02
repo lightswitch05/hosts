@@ -177,7 +177,7 @@ def filter_whitelist(domains: Set[str], whitelist: Set[Pattern] = {}) -> Set[str
             half = len(domain) // 2
             first = domain[:half]
             second = domain[half:]
-            if first == second:
+            if first == second and domain in filtered:
                 filtered.remove(domain)
                 print("whitelisted: %s" % domain)
 
