@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-30T12:09:28+00:00
-# Count: 4237 domains
+# Released: 2020-04-02T18:15:13+00:00
+# Count: 4239 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1784,6 +1784,8 @@
 0.0.0.0 lookaside.fbcdn.com
 0.0.0.0 static.fbcdn.com
 0.0.0.0 www.fbcdn.com
+0.0.0.0 fbpigeon.com
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 fbsbx.com
 0.0.0.0 129474250.fbsbx.com
 0.0.0.0 1869587482.fbsbx.com

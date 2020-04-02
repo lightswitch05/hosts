@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook.txt
-# Released: 2020-03-30T12:09:28+00:00
-# Count: 70 domains
+# Released: 2020-04-02T18:15:13+00:00
+# Count: 72 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook.txt
@@ -35,6 +35,8 @@
 0.0.0.0 m.facebook.com
 0.0.0.0 fb.com
 0.0.0.0 fbcdn.com
+0.0.0.0 fbpigeon.com
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 fbsbx.com
 0.0.0.0 apps.fbsbx.com
 0.0.0.0 instagram.com
