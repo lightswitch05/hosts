@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-03-30T02:39:11+00:00
-# Count: 5215 domains
+# Released: 2020-04-06T02:39:04+00:00
+# Count: 5298 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -120,6 +120,7 @@
 0.0.0.0 captcha.360.cn
 0.0.0.0 www.captcha.360.cn
 0.0.0.0 cert.360.cn
+0.0.0.0 chaxun.360.cn
 0.0.0.0 che.360.cn
 0.0.0.0 chrome.360.cn
 0.0.0.0 skin.chrome.360.cn
@@ -207,6 +208,7 @@
 0.0.0.0 home.360.cn
 0.0.0.0 homebrain.360.cn
 0.0.0.0 hooan.360.cn
+0.0.0.0 hr.360.cn
 0.0.0.0 huochepiao.360.cn
 0.0.0.0 ios.huochepiao.360.cn
 0.0.0.0 i.360.cn
@@ -279,6 +281,7 @@
 0.0.0.0 api.taozhuang.luyou.360.cn
 0.0.0.0 upgrade.luyou.360.cn
 0.0.0.0 api.lxqp.360.cn
+0.0.0.0 m.360.cn
 0.0.0.0 mail.360.cn
 0.0.0.0 mall.360.cn
 0.0.0.0 m.mall.360.cn
@@ -307,6 +310,7 @@
 0.0.0.0 mtazwt2.360.cn
 0.0.0.0 mtazwt3.360.cn
 0.0.0.0 mupdate.360.cn
+0.0.0.0 noahblog.360.cn
 0.0.0.0 ns2.360.cn
 0.0.0.0 openapi.360.cn
 0.0.0.0 panyun.360.cn
@@ -412,6 +416,7 @@
 0.0.0.0 api.webscan.360.cn
 0.0.0.0 img.webscan.360.cn
 0.0.0.0 weishi.360.cn
+0.0.0.0 local.weishi.360.cn
 0.0.0.0 wg.360.cn
 0.0.0.0 wifi.360.cn
 0.0.0.0 free.wifi.360.cn
@@ -1018,12 +1023,14 @@
 0.0.0.0 akamai-san86.exacttarget.com
 0.0.0.0 akamai-san87.exacttarget.com
 0.0.0.0 akamai-san88.exacttarget.com
+0.0.0.0 akamai-san89.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
 0.0.0.0 ally-mc-dr.exacttarget.com
 0.0.0.0 ally-members.exacttarget.com
 0.0.0.0 ally-members-dr.exacttarget.com
+0.0.0.0 ally-webservice-dr.exacttarget.com
 0.0.0.0 lyncpoolwebext.america.exacttarget.com
 0.0.0.0 sipext.america.exacttarget.com
 0.0.0.0 webconf.america.exacttarget.com
@@ -1514,12 +1521,24 @@
 0.0.0.0 mc.s100.exacttarget.com
 0.0.0.0 members.s100.exacttarget.com
 0.0.0.0 s11.exacttarget.com
+0.0.0.0 app.s11.exacttarget.com
 0.0.0.0 auth.s11.exacttarget.com
+0.0.0.0 click.s11.exacttarget.com
+0.0.0.0 click-sms.s11.exacttarget.com
+0.0.0.0 editorsupport.s11.exacttarget.com
 0.0.0.0 image.s11.exacttarget.com
+0.0.0.0 manage.s11.exacttarget.com
 0.0.0.0 mc.s11.exacttarget.com
 0.0.0.0 members.s11.exacttarget.com
 0.0.0.0 origin-akamai-auth.s11.exacttarget.com
+0.0.0.0 origin-mc.s11.exacttarget.com
+0.0.0.0 origin-members.s11.exacttarget.com
+0.0.0.0 pages.s11.exacttarget.com
+0.0.0.0 pub.s11.exacttarget.com
+0.0.0.0 rest.s11.exacttarget.com
+0.0.0.0 scpweb.s11.exacttarget.com
 0.0.0.0 view.s11.exacttarget.com
+0.0.0.0 webservice-auth.s11.exacttarget.com
 0.0.0.0 s4.exacttarget.com
 0.0.0.0 api.s4.exacttarget.com
 0.0.0.0 app.s4.exacttarget.com
@@ -1558,6 +1577,8 @@
 0.0.0.0 origin-mc.s4.exacttarget.com
 0.0.0.0 pages.s4.exacttarget.com
 0.0.0.0 pub.s4.exacttarget.com
+0.0.0.0 rbc.s4.exacttarget.com
+0.0.0.0 rbcpp.s4.exacttarget.com
 0.0.0.0 reply-mx.s4.exacttarget.com
 0.0.0.0 rest.s4.exacttarget.com
 0.0.0.0 restapi.s4.exacttarget.com
@@ -3828,6 +3849,7 @@
 0.0.0.0 s-eu4.stripcdn.com
 0.0.0.0 s-eu8.stripcdn.com
 0.0.0.0 s-us1.stripcdn.com
+0.0.0.0 s-us2.stripcdn.com
 0.0.0.0 s-us3.stripcdn.com
 0.0.0.0 s-us6.stripcdn.com
 0.0.0.0 s-us7.stripcdn.com
@@ -3937,6 +3959,7 @@
 0.0.0.0 68post.vk.com
 0.0.0.0 7ww.vk.com
 0.0.0.0 admin.vk.com
+0.0.0.0 ahm.vk.com
 0.0.0.0 api.vk.com
 0.0.0.0 www.api.vk.com
 0.0.0.0 apis.vk.com
@@ -4784,6 +4807,7 @@
 0.0.0.0 client-handle.ada.support
 0.0.0.0 coffeemeetsbagel.ada.support
 0.0.0.0 coinbase.ada.support
+0.0.0.0 coinbase-help.ada.support
 0.0.0.0 coinsquare.ada.support
 0.0.0.0 community.ada.support
 0.0.0.0 www.community.ada.support
@@ -4893,6 +4917,7 @@
 0.0.0.0 suntransfers.ada.support
 0.0.0.0 svc.ada.support
 0.0.0.0 ada-live-agent-messenger.svc.ada.support
+0.0.0.0 adasecrets.svc.ada.support
 0.0.0.0 answer-utilities.svc.ada.support
 0.0.0.0 embed-testing.svc.ada.support
 0.0.0.0 enricher.svc.ada.support
@@ -4921,6 +4946,7 @@
 0.0.0.0 weddingful.ada.support
 0.0.0.0 whistle.ada.support
 0.0.0.0 www.ada.support
+0.0.0.0 zoom.ada.support
 0.0.0.0 zoom-analytics.ada.support
 0.0.0.0 amzn.to
 0.0.0.0 www.amzn.to
@@ -4962,6 +4988,7 @@
 0.0.0.0 asb9.tawk.to
 0.0.0.0 dashboard.tawk.to
 0.0.0.0 deliver.tawk.to
+0.0.0.0 developer.tawk.to
 0.0.0.0 devph.tawk.to
 0.0.0.0 www.devph.tawk.to
 0.0.0.0 embed.tawk.to
@@ -5232,9 +5259,65 @@
 0.0.0.0 vsa93.tawk.to
 0.0.0.0 vsa94.tawk.to
 0.0.0.0 vsa95.tawk.to
+0.0.0.0 vsa96.tawk.to
 0.0.0.0 vsa97.tawk.to
 0.0.0.0 vsa98.tawk.to
 0.0.0.0 vsa99.tawk.to
+0.0.0.0 vsb11.tawk.to
+0.0.0.0 vsb14.tawk.to
+0.0.0.0 vsb16.tawk.to
+0.0.0.0 vsb17.tawk.to
+0.0.0.0 vsb18.tawk.to
+0.0.0.0 vsb20.tawk.to
+0.0.0.0 vsb21.tawk.to
+0.0.0.0 vsb23.tawk.to
+0.0.0.0 vsb24.tawk.to
+0.0.0.0 vsb25.tawk.to
+0.0.0.0 vsb26.tawk.to
+0.0.0.0 vsb27.tawk.to
+0.0.0.0 vsb32.tawk.to
+0.0.0.0 vsb33.tawk.to
+0.0.0.0 vsb34.tawk.to
+0.0.0.0 vsb35.tawk.to
+0.0.0.0 vsb37.tawk.to
+0.0.0.0 vsb39.tawk.to
+0.0.0.0 vsb42.tawk.to
+0.0.0.0 vsb44.tawk.to
+0.0.0.0 vsb45.tawk.to
+0.0.0.0 vsb46.tawk.to
+0.0.0.0 vsb47.tawk.to
+0.0.0.0 vsb48.tawk.to
+0.0.0.0 vsb49.tawk.to
+0.0.0.0 vsb5.tawk.to
+0.0.0.0 vsb52.tawk.to
+0.0.0.0 vsb53.tawk.to
+0.0.0.0 vsb56.tawk.to
+0.0.0.0 vsb57.tawk.to
+0.0.0.0 vsb58.tawk.to
+0.0.0.0 vsb59.tawk.to
+0.0.0.0 vsb60.tawk.to
+0.0.0.0 vsb63.tawk.to
+0.0.0.0 vsb64.tawk.to
+0.0.0.0 vsb65.tawk.to
+0.0.0.0 vsb68.tawk.to
+0.0.0.0 vsb7.tawk.to
+0.0.0.0 vsb71.tawk.to
+0.0.0.0 vsb72.tawk.to
+0.0.0.0 vsb73.tawk.to
+0.0.0.0 vsb74.tawk.to
+0.0.0.0 vsb77.tawk.to
+0.0.0.0 vsb78.tawk.to
+0.0.0.0 vsb79.tawk.to
+0.0.0.0 vsb80.tawk.to
+0.0.0.0 vsb81.tawk.to
+0.0.0.0 vsb84.tawk.to
+0.0.0.0 vsb85.tawk.to
+0.0.0.0 vsb88.tawk.to
+0.0.0.0 vsb89.tawk.to
+0.0.0.0 vsb9.tawk.to
+0.0.0.0 vsb92.tawk.to
+0.0.0.0 vsb93.tawk.to
+0.0.0.0 vsb96.tawk.to
 0.0.0.0 windows.tawk.to
 0.0.0.0 www.tawk.to
 

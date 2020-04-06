@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-03-30T02:47:54+00:00
-# Count: 4198 domains
+# Released: 2020-04-06T02:47:27+00:00
+# Count: 4239 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -101,6 +101,7 @@
 0.0.0.0 scontent-hkg.cdninstagram.com
 0.0.0.0 scontent-hkg3-1.cdninstagram.com
 0.0.0.0 scontent-hkg3-2.cdninstagram.com
+0.0.0.0 scontent-hkg4-1.cdninstagram.com
 0.0.0.0 scontent-hkt1-1.cdninstagram.com
 0.0.0.0 scontent-iad.cdninstagram.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
@@ -132,6 +133,7 @@
 0.0.0.0 scontent-mrs2-1.cdninstagram.com
 0.0.0.0 scontent-mrs2-2.cdninstagram.com
 0.0.0.0 scontent-msp1-1.cdninstagram.com
+0.0.0.0 scontent-muc2-1.cdninstagram.com
 0.0.0.0 scontent-mxp1-1.cdninstagram.com
 0.0.0.0 scontent-nrt1-1.cdninstagram.com
 0.0.0.0 scontent-ort2-1.cdninstagram.com
@@ -164,6 +166,7 @@
 0.0.0.0 scontent-zrh1-1.cdninstagram.com
 0.0.0.0 static.cdninstagram.com
 0.0.0.0 video.cdninstagram.com
+0.0.0.0 video-sea1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent.cdninstagram.com
 0.0.0.0 z-p4-scontent-ams4-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-amt2-1.cdninstagram.com
@@ -265,6 +268,7 @@
 0.0.0.0 ca-es.facebook.com
 0.0.0.0 callaghaninnovation.facebook.com
 0.0.0.0 canvas.facebook.com
+0.0.0.0 ccbvl.facebook.com
 0.0.0.0 channel.facebook.com
 0.0.0.0 chat.facebook.com
 0.0.0.0 chris.facebook.com
@@ -380,6 +384,7 @@
 0.0.0.0 m.www.connect.facebook.com
 0.0.0.0 zh-cn.www.connect.facebook.com
 0.0.0.0 www.xi-vn.connect.facebook.com
+0.0.0.0 llama-ztp.corp.facebook.com
 0.0.0.0 cromwelledge-bgp-01-iad3.facebook.com
 0.0.0.0 cromwelledge-bgp-01-jnb1.facebook.com
 0.0.0.0 cs-cz.facebook.com
@@ -399,9 +404,14 @@
 0.0.0.0 developers.facebook.com
 0.0.0.0 dns.facebook.com
 0.0.0.0 dyninno.facebook.com
+0.0.0.0 edge-atlas-shv-01-bog1.facebook.com
 0.0.0.0 edge-atlas-shv-01-den4.facebook.com
+0.0.0.0 edge-atlas-shv-01-eze1.facebook.com
 0.0.0.0 edge-atlas-shv-01-frx5.facebook.com
+0.0.0.0 edge-atlas-shv-01-jnb1.facebook.com
 0.0.0.0 edge-atlas-shv-01-nrt1.facebook.com
+0.0.0.0 edge-atlas-shv-01-qro1.facebook.com
+0.0.0.0 edge-atlas-shv-01-sof1.facebook.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-latest-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
@@ -432,22 +442,28 @@
 0.0.0.0 edge-snaptu-http-p1-shv-01-mad1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-nrt1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-sea1.facebook.com
+0.0.0.0 edge-snaptu-http-p1-shv-01-vie1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-fco1.facebook.com
+0.0.0.0 edge-star-mini-shv-01-gmp1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-hkt1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-mrs2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-ort2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-qro1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
+0.0.0.0 edge-star-mini-shv-01-yyz1.facebook.com
 0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
 0.0.0.0 edge-star-mini-shv-02-ort2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
 0.0.0.0 edge-star-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
+0.0.0.0 edge-star-shv-01-fco1.facebook.com
 0.0.0.0 edge-star-shv-01-gmp1.facebook.com
 0.0.0.0 edge-star-shv-01-hkt1.facebook.com
 0.0.0.0 edge-star-shv-01-lht6.facebook.com
+0.0.0.0 edge-star-shv-01-lim1.facebook.com
 0.0.0.0 edge-stun.facebook.com
 0.0.0.0 edge-stun-shv-01-scl1.facebook.com
 0.0.0.0 edge-stun-shv-01-vie1.facebook.com
@@ -456,19 +472,32 @@
 0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-arn2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
+0.0.0.0 edge-z-m-mini-shv-01-cgk1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-fco1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-maa2.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-xsp1.facebook.com
+0.0.0.0 edge-z-p1-shv-01-sea1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
 0.0.0.0 edge-z-p3-shv-01-atl3.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
+0.0.0.0 edge-z-p3-shv-01-sof1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-xsp1.facebook.com
+0.0.0.0 edge-z-p4-shv-01-fco1.facebook.com
+0.0.0.0 edge-z-p4-shv-01-mad1.facebook.com
+0.0.0.0 edge-z-p4-shv-01-sof1.facebook.com
+0.0.0.0 edgeray-fna-shv-01-fbeg10.facebook.com
+0.0.0.0 edgeray-fna-shv-01-fmaa1.facebook.com
+0.0.0.0 edgeray-fna-shv-01-fsjo10.facebook.com
+0.0.0.0 edgeray-fna-shv-03-fmaa1.facebook.com
+0.0.0.0 edgeray-msgr-shv-01-sea1.facebook.com
+0.0.0.0 edgeray-shv-01-bog1.facebook.com
 0.0.0.0 edgeray-shv-01-bru2.facebook.com
 0.0.0.0 edgeray-shv-01-dus1.facebook.com
 0.0.0.0 edgeray-shv-01-lax3.facebook.com
 0.0.0.0 edgeray-shv-01-sea1.facebook.com
 0.0.0.0 edgeray-shv-01-sjc3.facebook.com
+0.0.0.0 edgeray-shv-01-sof1.facebook.com
 0.0.0.0 edgeray-shv-01-xsp1.facebook.com
 0.0.0.0 edgeray-shv-01-yyz1.facebook.com
 0.0.0.0 edgeray-shv-02-arn2.facebook.com
@@ -572,6 +601,7 @@
 0.0.0.0 lithium.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-any2.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-mad1.facebook.com
+0.0.0.0 livestream-edgetee-upload-shv-02-bom1.facebook.com
 0.0.0.0 livestream-fbvp-edgetee-upload-shv-01-mrs2.facebook.com
 0.0.0.0 lm.facebook.com
 0.0.0.0 lntinfotech.facebook.com
@@ -686,6 +716,7 @@
 0.0.0.0 malltech.facebook.com
 0.0.0.0 manulifesg.facebook.com
 0.0.0.0 mbasic.facebook.com
+0.0.0.0 mitre10.facebook.com
 0.0.0.0 mk-mk.facebook.com
 0.0.0.0 ml-in.facebook.com
 0.0.0.0 mobile.facebook.com
@@ -707,6 +738,7 @@
 0.0.0.0 nl-be.facebook.com
 0.0.0.0 nl-nl.facebook.com
 0.0.0.0 nn-no.facebook.com
+0.0.0.0 noe3-0.facebook.com
 0.0.0.0 npe.facebook.com
 0.0.0.0 a.ns.facebook.com
 0.0.0.0 b.ns.facebook.com
@@ -1560,6 +1592,7 @@
 0.0.0.0 www.nigeria.fb.com
 0.0.0.0 nonprofits.fb.com
 0.0.0.0 www.nonprofits.fb.com
+0.0.0.0 npe.fb.com
 0.0.0.0 oculusforbusiness.fb.com
 0.0.0.0 oculusweb.fb.com
 0.0.0.0 open.fb.com
@@ -2108,6 +2141,7 @@
 0.0.0.0 ide.fbsbx.com
 0.0.0.0 integrated-plugin-canvas-341491175940639-42312117.fbsbx.com
 0.0.0.0 integrated-plugin-canvas-341491175940639-487203226.fbsbx.com
+0.0.0.0 integrated-plugin-canvas-428789577222676-1170148942.fbsbx.com
 0.0.0.0 kaside.fbsbx.com
 0.0.0.0 lokaside.fbsbx.com
 0.0.0.0 lookaside.fbsbx.com
@@ -2458,6 +2492,7 @@
 0.0.0.0 www.facebook.design
 0.0.0.0 fb.me
 0.0.0.0 0.fb.me
+0.0.0.0 0-1.fb.me
 0.0.0.0 1.fb.me
 0.0.0.0 1907113739430074.fb.me
 0.0.0.0 2019.fb.me
@@ -3425,12 +3460,14 @@
 0.0.0.0 instagram-p3-shv-01-ssn1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-xsp1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-yyz1.fbcdn.net
+0.0.0.0 instagram-p3-shv-02-frt3.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-gru2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-ort2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-xsp1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-atl3.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cdt1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-cgk1.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-del1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-fco1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-hkt1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-kut2.fbcdn.net
@@ -3471,6 +3508,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-hkg3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-kut2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-02-mia3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-xsp1.fbcdn.net
 0.0.0.0 www.fbcdn.net
 0.0.0.0 xx.fbcdn.net
@@ -3712,12 +3750,15 @@
 0.0.0.0 xx-fbcdn-shv-01-atl3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-bos3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-del1.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-dfw5.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-eze1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-hel2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-hkg4.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-hkt1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-iad3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lga3.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-lhr8.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-lim1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sea1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sin2.fbcdn.net
