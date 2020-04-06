@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-06T12:32:43+00:00
-# Count: 8485 domains
+# Released: 2020-04-06T18:10:54+00:00
+# Count: 8488 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1808,6 +1808,7 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 media.complex.com
 0.0.0.0 stats.complex.com
+0.0.0.0 toolbar.complex.com
 0.0.0.0 comscore.com
 0.0.0.0 comscoreresearch.com
 0.0.0.0 apple.comscoreresearch.com
@@ -4411,6 +4412,8 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 rfksrv.com
 0.0.0.0 215766422-prod.rfksrv.com
+0.0.0.0 rhombusads.com
+0.0.0.0 cdn.rhombusads.com
 0.0.0.0 rhythmone.com
 0.0.0.0 richaudience.com
 0.0.0.0 richrelevance.com
