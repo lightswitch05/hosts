@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-06T20:15:01+00:00
-# Count: 8487 domains
+# Released: 2020-04-07T13:32:46+00:00
+# Count: 8493 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1256,6 +1256,7 @@
 0.0.0.0 appsflyer.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 fvalid.appsflyer.com
+0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 statsgoogle.appsflyer.com
@@ -4067,6 +4068,7 @@
 0.0.0.0 view.paradym.com
 0.0.0.0 pardot.com
 0.0.0.0 pi.pardot.com
+0.0.0.0 parrz.com
 0.0.0.0 parsely.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 pathful.com
@@ -6376,6 +6378,7 @@
 0.0.0.0 data.pendo.io
 0.0.0.0 presage.io
 0.0.0.0 bip.presage.io
+0.0.0.0 pad-v3.presage.io
 0.0.0.0 piwik.privacytools.io
 0.0.0.0 api.pubwise.io
 0.0.0.0 pxf.io
@@ -6605,6 +6608,9 @@
 0.0.0.0 logs1.smithsonian.museum
 0.0.0.0 ato.mx
 0.0.0.0 s.ato.mx
+0.0.0.0 es.domain.nam
+0.0.0.0 domain.name
+0.0.0.0 in.domain.name
 0.0.0.0 207.net
 0.0.0.0 data.24smi.net
 0.0.0.0 jsn.24smi.net
