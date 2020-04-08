@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-08T17:52:57+00:00
-# Count: 8499 domains
+# Released: 2020-04-08T17:59:18+00:00
+# Count: 8500 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -6401,6 +6401,7 @@
 0.0.0.0 segment.io
 0.0.0.0 api.segment.io
 0.0.0.0 sentry.io
+0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 sjv.io
 0.0.0.0 cabinets.sjv.io
 0.0.0.0 smarterhq.io
