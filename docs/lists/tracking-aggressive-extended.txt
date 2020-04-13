@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-04-06T12:26:53+00:00
-# Count: 7170 domains
+# Released: 2020-04-13T02:41:55+00:00
+# Count: 7250 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -58,6 +58,7 @@
 0.0.0.0 prod.cch.msflow.cortana.ai
 0.0.0.0 prod.cortana.ai
 0.0.0.0 cortex.shs.prod.cortana.ai
+0.0.0.0 runninglateskill.cortana.ai
 0.0.0.0 sdf.cortana.ai
 0.0.0.0 shs-dev.cortana.ai
 0.0.0.0 shs-prod.cortana.ai
@@ -1026,6 +1027,7 @@
 0.0.0.0 akamai-san88.exacttarget.com
 0.0.0.0 akamai-san89.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
+0.0.0.0 akamai-san90.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
 0.0.0.0 ally-mc-dr.exacttarget.com
@@ -1394,6 +1396,7 @@
 0.0.0.0 auth.qa1.exacttarget.com
 0.0.0.0 prem.qa1.exacttarget.com
 0.0.0.0 s1.qa1.exacttarget.com
+0.0.0.0 app.s1.qa1.exacttarget.com
 0.0.0.0 auth.s1.qa1.exacttarget.com
 0.0.0.0 click.s1.qa1.exacttarget.com
 0.0.0.0 image.s1.qa1.exacttarget.com
@@ -1401,19 +1404,36 @@
 0.0.0.0 mc.s1.qa1.exacttarget.com
 0.0.0.0 members.s1.qa1.exacttarget.com
 0.0.0.0 origin-akamai-auth.s1.qa1.exacttarget.com
+0.0.0.0 origin-akamai-members.s1.qa1.exacttarget.com
 0.0.0.0 origin-auth.s1.qa1.exacttarget.com
+0.0.0.0 origin-click.s1.qa1.exacttarget.com
+0.0.0.0 origin-mc.s1.qa1.exacttarget.com
+0.0.0.0 pages.s1.qa1.exacttarget.com
 0.0.0.0 pd1.s1.qa1.exacttarget.com
 0.0.0.0 image.pd1.s1.qa1.exacttarget.com
+0.0.0.0 private.s1.qa1.exacttarget.com
+0.0.0.0 pub.s1.qa1.exacttarget.com
+0.0.0.0 rest.s1.qa1.exacttarget.com
 0.0.0.0 scpweb.s1.qa1.exacttarget.com
+0.0.0.0 webservice.s1.qa1.exacttarget.com
 0.0.0.0 s2.qa1.exacttarget.com
 0.0.0.0 auth.s2.qa1.exacttarget.com
 0.0.0.0 click.s2.qa1.exacttarget.com
+0.0.0.0 editorsupport.s2.qa1.exacttarget.com
 0.0.0.0 image.s2.qa1.exacttarget.com
 0.0.0.0 imh.s2.qa1.exacttarget.com
 0.0.0.0 mc.s2.qa1.exacttarget.com
 0.0.0.0 members.s2.qa1.exacttarget.com
 0.0.0.0 origin-akamai-auth.s2.qa1.exacttarget.com
 0.0.0.0 origin-auth.s2.qa1.exacttarget.com
+0.0.0.0 origin-click.s2.qa1.exacttarget.com
+0.0.0.0 origin-mc.s2.qa1.exacttarget.com
+0.0.0.0 origin-members.s2.qa1.exacttarget.com
+0.0.0.0 pages.s2.qa1.exacttarget.com
+0.0.0.0 private.s2.qa1.exacttarget.com
+0.0.0.0 pub.s2.qa1.exacttarget.com
+0.0.0.0 rest.s2.qa1.exacttarget.com
+0.0.0.0 webservice.s2.qa1.exacttarget.com
 0.0.0.0 qa2.exacttarget.com
 0.0.0.0 auth.qa2.exacttarget.com
 0.0.0.0 prem.qa2.exacttarget.com
@@ -1449,14 +1469,23 @@
 0.0.0.0 auth.qa3.exacttarget.com
 0.0.0.0 prem.qa3.exacttarget.com
 0.0.0.0 s1.qa3.exacttarget.com
+0.0.0.0 app.s1.qa3.exacttarget.com
 0.0.0.0 auth.s1.qa3.exacttarget.com
 0.0.0.0 click.s1.qa3.exacttarget.com
 0.0.0.0 image.s1.qa3.exacttarget.com
 0.0.0.0 imh.s1.qa3.exacttarget.com
+0.0.0.0 manage.s1.qa3.exacttarget.com
 0.0.0.0 mc.s1.qa3.exacttarget.com
 0.0.0.0 members.s1.qa3.exacttarget.com
 0.0.0.0 origin-auth.s1.qa3.exacttarget.com
+0.0.0.0 origin-click.s1.qa3.exacttarget.com
+0.0.0.0 origin-mc.s1.qa3.exacttarget.com
+0.0.0.0 origin-members.s1.qa3.exacttarget.com
 0.0.0.0 pages.s1.qa3.exacttarget.com
+0.0.0.0 private.s1.qa3.exacttarget.com
+0.0.0.0 pub.s1.qa3.exacttarget.com
+0.0.0.0 rest.s1.qa3.exacttarget.com
+0.0.0.0 webservice.s1.qa3.exacttarget.com
 0.0.0.0 s2.qa3.exacttarget.com
 0.0.0.0 auth.s2.qa3.exacttarget.com
 0.0.0.0 click.s2.qa3.exacttarget.com
@@ -1593,6 +1622,8 @@
 0.0.0.0 click.virt.s4.exacttarget.com
 0.0.0.0 webservice.s4.exacttarget.com
 0.0.0.0 ws.s4.exacttarget.com
+0.0.0.0 yodleexml.s4.exacttarget.com
+0.0.0.0 yodleexmlpp.s4.exacttarget.com
 0.0.0.0 s5.exacttarget.com
 0.0.0.0 auth.s5.exacttarget.com
 0.0.0.0 imh.s5.exacttarget.com
@@ -2220,6 +2251,7 @@
 0.0.0.0 us1a-email-mng.gigya.com
 0.0.0.0 www.us1a-email-mng.gigya.com
 0.0.0.0 us1b.gigya.com
+0.0.0.0 us1b-st1.gigya.com
 0.0.0.0 us1d.gigya.com
 0.0.0.0 us1d-st1.gigya.com
 0.0.0.0 us1d-st2.gigya.com
@@ -2503,6 +2535,7 @@
 0.0.0.0 pampers.client.janrain.com
 0.0.0.0 penguin.client.janrain.com
 0.0.0.0 pfizer.client.janrain.com
+0.0.0.0 philips.client.janrain.com
 0.0.0.0 postmedia.client.janrain.com
 0.0.0.0 racv.client.janrain.com
 0.0.0.0 rfi.client.janrain.com
@@ -3401,6 +3434,7 @@
 0.0.0.0 i.polldaddy.com
 0.0.0.0 ibcbetpoll.polldaddy.com
 0.0.0.0 icnsolutions.polldaddy.com
+0.0.0.0 immobilienscout24.polldaddy.com
 0.0.0.0 inriogulmu.polldaddy.com
 0.0.0.0 katebeeders.polldaddy.com
 0.0.0.0 kpmgrussia.polldaddy.com
@@ -3437,6 +3471,7 @@
 0.0.0.0 secure.polldaddy.com
 0.0.0.0 senleniani.polldaddy.com
 0.0.0.0 sheabunge.polldaddy.com
+0.0.0.0 solium.polldaddy.com
 0.0.0.0 static.polldaddy.com
 0.0.0.0 stats.polldaddy.com
 0.0.0.0 subsmedebio.polldaddy.com
@@ -3731,6 +3766,7 @@
 0.0.0.0 cart.spyfone.com
 0.0.0.0 www.cart.spyfone.com
 0.0.0.0 deals.spyfone.com
+0.0.0.0 dev.spyfone.com
 0.0.0.0 gpsdemo.spyfone.com
 0.0.0.0 www.gpsdemo.spyfone.com
 0.0.0.0 login.spyfone.com
@@ -3740,6 +3776,7 @@
 0.0.0.0 sdcard.spyfone.com
 0.0.0.0 spyfone.spyfone.com
 0.0.0.0 www.spyfone.spyfone.com
+0.0.0.0 stage.spyfone.com
 0.0.0.0 store.spyfone.com
 0.0.0.0 ue.spyfone.com
 0.0.0.0 ur.spyfone.com
@@ -3938,6 +3975,7 @@
 0.0.0.0 live-us1.stripcdn.com
 0.0.0.0 live-us2.stripcdn.com
 0.0.0.0 live-us3.stripcdn.com
+0.0.0.0 m-eu1.stripcdn.com
 0.0.0.0 ns1.stripcdn.com
 0.0.0.0 ns2.stripcdn.com
 0.0.0.0 ns3.stripcdn.com
@@ -4098,6 +4136,7 @@
 0.0.0.0 cs10478.vk.com
 0.0.0.0 cs10833.vk.com
 0.0.0.0 cs11073.vk.com
+0.0.0.0 cs11429.vk.com
 0.0.0.0 cs123.vk.com
 0.0.0.0 cs126.vk.com
 0.0.0.0 cs135.vk.com
@@ -4194,6 +4233,7 @@
 0.0.0.0 cs629110.vk.com
 0.0.0.0 cs630620.vk.com
 0.0.0.0 cs631820.vk.com
+0.0.0.0 cs633117.vk.com
 0.0.0.0 cs633421.vk.com
 0.0.0.0 cs636120.vk.com
 0.0.0.0 cs636420.vk.com
@@ -4355,6 +4395,7 @@
 0.0.0.0 srv72-190-240-87.vk.com
 0.0.0.0 srv75-134-240-87.vk.com
 0.0.0.0 srv75-190-240-87.vk.com
+0.0.0.0 srv78-190-240-87.vk.com
 0.0.0.0 sstakk.vk.com
 0.0.0.0 static.vk.com
 0.0.0.0 storage2.vk.com
@@ -4556,6 +4597,7 @@
 0.0.0.0 email.gleam.io
 0.0.0.0 info.gleam.io
 0.0.0.0 js.gleam.io
+0.0.0.0 next.gleam.io
 0.0.0.0 preview.gleam.io
 0.0.0.0 r.gleam.io
 0.0.0.0 stage.gleam.io
@@ -6397,6 +6439,7 @@
 0.0.0.0 connector-essex.gomoxie.solutions
 0.0.0.0 connector-fisgovebt.gomoxie.solutions
 0.0.0.0 connector-flowers.gomoxie.solutions
+0.0.0.0 connector-hawkecommerce.gomoxie.solutions
 0.0.0.0 connector-hawkincentives.gomoxie.solutions
 0.0.0.0 connector-jjillecp.gomoxie.solutions
 0.0.0.0 connector-lifetimefitness.gomoxie.solutions
@@ -6440,6 +6483,7 @@
 0.0.0.0 events-essex.gomoxie.solutions
 0.0.0.0 events-fisgovebt.gomoxie.solutions
 0.0.0.0 events-flowers.gomoxie.solutions
+0.0.0.0 events-hawkecommerce.gomoxie.solutions
 0.0.0.0 events-hawkgamerschoice.gomoxie.solutions
 0.0.0.0 events-hawkincentives.gomoxie.solutions
 0.0.0.0 events-icat.gomoxie.solutions
@@ -6739,6 +6783,7 @@
 0.0.0.0 mejuri.ada.support
 0.0.0.0 mi.ada.support
 0.0.0.0 mintsim.ada.support
+0.0.0.0 moneylion.ada.support
 0.0.0.0 moneysupermarket.ada.support
 0.0.0.0 mpower.ada.support
 0.0.0.0 muse.ada.support
@@ -7135,25 +7180,39 @@
 0.0.0.0 vsa97.tawk.to
 0.0.0.0 vsa98.tawk.to
 0.0.0.0 vsa99.tawk.to
+0.0.0.0 vsb10.tawk.to
+0.0.0.0 vsb100.tawk.to
 0.0.0.0 vsb11.tawk.to
 0.0.0.0 vsb14.tawk.to
+0.0.0.0 vsb15.tawk.to
 0.0.0.0 vsb16.tawk.to
 0.0.0.0 vsb17.tawk.to
 0.0.0.0 vsb18.tawk.to
+0.0.0.0 vsb19.tawk.to
+0.0.0.0 vsb2.tawk.to
 0.0.0.0 vsb20.tawk.to
 0.0.0.0 vsb21.tawk.to
+0.0.0.0 vsb22.tawk.to
 0.0.0.0 vsb23.tawk.to
 0.0.0.0 vsb24.tawk.to
 0.0.0.0 vsb25.tawk.to
 0.0.0.0 vsb26.tawk.to
 0.0.0.0 vsb27.tawk.to
+0.0.0.0 vsb29.tawk.to
+0.0.0.0 vsb3.tawk.to
+0.0.0.0 vsb30.tawk.to
+0.0.0.0 vsb31.tawk.to
 0.0.0.0 vsb32.tawk.to
 0.0.0.0 vsb33.tawk.to
 0.0.0.0 vsb34.tawk.to
 0.0.0.0 vsb35.tawk.to
+0.0.0.0 vsb36.tawk.to
 0.0.0.0 vsb37.tawk.to
 0.0.0.0 vsb39.tawk.to
+0.0.0.0 vsb40.tawk.to
+0.0.0.0 vsb41.tawk.to
 0.0.0.0 vsb42.tawk.to
+0.0.0.0 vsb43.tawk.to
 0.0.0.0 vsb44.tawk.to
 0.0.0.0 vsb45.tawk.to
 0.0.0.0 vsb46.tawk.to
@@ -7161,35 +7220,56 @@
 0.0.0.0 vsb48.tawk.to
 0.0.0.0 vsb49.tawk.to
 0.0.0.0 vsb5.tawk.to
+0.0.0.0 vsb50.tawk.to
+0.0.0.0 vsb51.tawk.to
 0.0.0.0 vsb52.tawk.to
 0.0.0.0 vsb53.tawk.to
+0.0.0.0 vsb54.tawk.to
+0.0.0.0 vsb55.tawk.to
 0.0.0.0 vsb56.tawk.to
 0.0.0.0 vsb57.tawk.to
 0.0.0.0 vsb58.tawk.to
 0.0.0.0 vsb59.tawk.to
+0.0.0.0 vsb6.tawk.to
 0.0.0.0 vsb60.tawk.to
+0.0.0.0 vsb61.tawk.to
+0.0.0.0 vsb62.tawk.to
 0.0.0.0 vsb63.tawk.to
 0.0.0.0 vsb64.tawk.to
 0.0.0.0 vsb65.tawk.to
+0.0.0.0 vsb66.tawk.to
+0.0.0.0 vsb67.tawk.to
 0.0.0.0 vsb68.tawk.to
+0.0.0.0 vsb69.tawk.to
 0.0.0.0 vsb7.tawk.to
+0.0.0.0 vsb70.tawk.to
 0.0.0.0 vsb71.tawk.to
 0.0.0.0 vsb72.tawk.to
 0.0.0.0 vsb73.tawk.to
 0.0.0.0 vsb74.tawk.to
+0.0.0.0 vsb76.tawk.to
 0.0.0.0 vsb77.tawk.to
 0.0.0.0 vsb78.tawk.to
 0.0.0.0 vsb79.tawk.to
 0.0.0.0 vsb80.tawk.to
 0.0.0.0 vsb81.tawk.to
+0.0.0.0 vsb82.tawk.to
+0.0.0.0 vsb83.tawk.to
 0.0.0.0 vsb84.tawk.to
 0.0.0.0 vsb85.tawk.to
+0.0.0.0 vsb86.tawk.to
+0.0.0.0 vsb87.tawk.to
 0.0.0.0 vsb88.tawk.to
 0.0.0.0 vsb89.tawk.to
 0.0.0.0 vsb9.tawk.to
+0.0.0.0 vsb90.tawk.to
+0.0.0.0 vsb91.tawk.to
 0.0.0.0 vsb92.tawk.to
 0.0.0.0 vsb93.tawk.to
 0.0.0.0 vsb96.tawk.to
+0.0.0.0 vsb97.tawk.to
+0.0.0.0 vsb98.tawk.to
+0.0.0.0 vsb99.tawk.to
 0.0.0.0 windows.tawk.to
 0.0.0.0 www.tawk.to
 
