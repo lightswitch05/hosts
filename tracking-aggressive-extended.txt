@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-04-13T02:41:55+00:00
-# Count: 7250 domains
+# Released: 2020-04-20T02:45:58+00:00
+# Count: 7269 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -41,6 +41,7 @@
 0.0.0.0 cortanacoreruntimemds.cortana.ai
 0.0.0.0 prod.cch.dds.cortana.ai
 0.0.0.0 macert.geneva.keyvault.debug.cortana.ai
+0.0.0.0 warmpath.geneva.keyvault.debug.cortana.ai
 0.0.0.0 corbuildagents.geneva.keyvault.dev.cortana.ai
 0.0.0.0 cortex.shs.dev.cortana.ai
 0.0.0.0 westus1.dev.cortana.ai
@@ -188,6 +189,7 @@
 0.0.0.0 fangdao.360.cn
 0.0.0.0 fenshen.360.cn
 0.0.0.0 felis.fenxi.360.cn
+0.0.0.0 fonts.360.cn
 0.0.0.0 d.freemse.360.cn
 0.0.0.0 freewifi.360.cn
 0.0.0.0 fuli.360.cn
@@ -221,6 +223,7 @@
 0.0.0.0 iot.360.cn
 0.0.0.0 cdn.ota.iot.360.cn
 0.0.0.0 iotsec.360.cn
+0.0.0.0 dnsapi.iotsec.360.cn
 0.0.0.0 ip.360.cn
 0.0.0.0 isc.360.cn
 0.0.0.0 iwifi.360.cn
@@ -364,6 +367,7 @@
 0.0.0.0 m.mp.sj.360.cn
 0.0.0.0 profile.sj.360.cn
 0.0.0.0 skp.360.cn
+0.0.0.0 smart.360.cn
 0.0.0.0 vod.smart.360.cn
 0.0.0.0 so.360.cn
 0.0.0.0 info.so.360.cn
@@ -386,6 +390,7 @@
 0.0.0.0 sdk.tf.360.cn
 0.0.0.0 stat.tf.360.cn
 0.0.0.0 v.tf.360.cn
+0.0.0.0 ti.360.cn
 0.0.0.0 tianji.360.cn
 0.0.0.0 api.tianji.360.cn
 0.0.0.0 mdm.tianji.360.cn
@@ -1028,6 +1033,7 @@
 0.0.0.0 akamai-san89.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-san90.exacttarget.com
+0.0.0.0 akamai-san91.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
 0.0.0.0 ally-mc-dr.exacttarget.com
@@ -2213,6 +2219,7 @@
 0.0.0.0 www-abc-es.sslproxy.gigya.com
 0.0.0.0 stagingdemo.gigya.com
 0.0.0.0 www.stagingdemo.gigya.com
+0.0.0.0 status.gigya.com
 0.0.0.0 tomer.gigya.com
 0.0.0.0 us1.gigya.com
 0.0.0.0 accounts.us1.gigya.com
@@ -3321,6 +3328,7 @@
 0.0.0.0 s4056.pingdom.com
 0.0.0.0 s4058.pingdom.com
 0.0.0.0 s4059.pingdom.com
+0.0.0.0 s4061.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s411.pingdom.com
 0.0.0.0 s412.pingdom.com
@@ -3761,6 +3769,7 @@
 0.0.0.0 spyfone.com
 0.0.0.0 api.spyfone.com
 0.0.0.0 www.api.spyfone.com
+0.0.0.0 api-ocm.spyfone.com
 0.0.0.0 bill.spyfone.com
 0.0.0.0 www.bill.spyfone.com
 0.0.0.0 cart.spyfone.com
@@ -3848,6 +3857,7 @@
 0.0.0.0 captain.spymasterpro.com
 0.0.0.0 www.captain.spymasterpro.com
 0.0.0.0 cpanel.spymasterpro.com
+0.0.0.0 cpcalendars.spymasterpro.com
 0.0.0.0 develop.spymasterpro.com
 0.0.0.0 iphone.spymasterpro.com
 0.0.0.0 cpanel.iphone.spymasterpro.com
@@ -3991,6 +4001,7 @@
 0.0.0.0 s-us1.stripcdn.com
 0.0.0.0 s-us2.stripcdn.com
 0.0.0.0 s-us3.stripcdn.com
+0.0.0.0 s-us5.stripcdn.com
 0.0.0.0 s-us6.stripcdn.com
 0.0.0.0 s-us7.stripcdn.com
 0.0.0.0 s-us8.stripcdn.com
@@ -4134,6 +4145,8 @@
 0.0.0.0 cs10376.vk.com
 0.0.0.0 cs10421.vk.com
 0.0.0.0 cs10478.vk.com
+0.0.0.0 cs10599.vk.com
+0.0.0.0 cs10694.vk.com
 0.0.0.0 cs10833.vk.com
 0.0.0.0 cs11073.vk.com
 0.0.0.0 cs11429.vk.com
@@ -4216,6 +4229,7 @@
 0.0.0.0 cs611100-20.vk.com
 0.0.0.0 cs611100-30.vk.com
 0.0.0.0 cs611100-40.vk.com
+0.0.0.0 cs612324.vk.com
 0.0.0.0 cs6140.vk.com
 0.0.0.0 cs616431.vk.com
 0.0.0.0 cs616431-10.vk.com
@@ -6729,11 +6743,13 @@
 0.0.0.0 www.community.ada.support
 0.0.0.0 contest.ada.support
 0.0.0.0 cpanel.ada.support
+0.0.0.0 crepeerase.ada.support
 0.0.0.0 cricket.ada.support
 0.0.0.0 cricket-sales.ada.support
 0.0.0.0 crunchbase.ada.support
 0.0.0.0 digicel.ada.support
 0.0.0.0 distributel.ada.support
+0.0.0.0 distrokid.ada.support
 0.0.0.0 doctorsim.ada.support
 0.0.0.0 doxo.ada.support
 0.0.0.0 dsv.ada.support
@@ -6885,6 +6901,7 @@
 0.0.0.0 asa6.tawk.to
 0.0.0.0 asa7.tawk.to
 0.0.0.0 asa8.tawk.to
+0.0.0.0 asa9.tawk.to
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb10.tawk.to
 0.0.0.0 asb11.tawk.to
@@ -7198,6 +7215,7 @@
 0.0.0.0 vsb25.tawk.to
 0.0.0.0 vsb26.tawk.to
 0.0.0.0 vsb27.tawk.to
+0.0.0.0 vsb28.tawk.to
 0.0.0.0 vsb29.tawk.to
 0.0.0.0 vsb3.tawk.to
 0.0.0.0 vsb30.tawk.to
@@ -7208,6 +7226,7 @@
 0.0.0.0 vsb35.tawk.to
 0.0.0.0 vsb36.tawk.to
 0.0.0.0 vsb37.tawk.to
+0.0.0.0 vsb38.tawk.to
 0.0.0.0 vsb39.tawk.to
 0.0.0.0 vsb40.tawk.to
 0.0.0.0 vsb41.tawk.to
