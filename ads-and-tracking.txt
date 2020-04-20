@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-20T02:04:32+00:00
-# Count: 8507 domains
+# Released: 2020-04-20T02:52:15+00:00
+# Count: 8533 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -98,6 +98,7 @@
 0.0.0.0 wpm.neustar.biz
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 serenityart.biz
+0.0.0.0 foxnews.blog
 0.0.0.0 mkto-panda123.music.blog
 0.0.0.0 ads.reamp.com.br
 0.0.0.0 bcn.reamp.com.br
@@ -1096,6 +1097,7 @@
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
 0.0.0.0 pixel-prod-2-1626934611.us-east-1.elb.amazonaws.com
 0.0.0.0 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
+0.0.0.0 prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
 0.0.0.0 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 0.0.0.0 propixel7-768394228.us-east-1.elb.amazonaws.com
@@ -1295,6 +1297,8 @@
 0.0.0.0 ac.asambeauty.com
 0.0.0.0 pixel.aspirei.com
 0.0.0.0 ws-na.assoc-amazon.com
+0.0.0.0 assure-link.com
+0.0.0.0 www.assure-link.com
 0.0.0.0 atdmt.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 dyn.atdmt.com
@@ -1722,6 +1726,8 @@
 0.0.0.0 chicoryapp.com
 0.0.0.0 www.chicoryapp.com
 0.0.0.0 chocolateplatform.com
+0.0.0.0 chronicpainreliefnews.com
+0.0.0.0 www.chronicpainreliefnews.com
 0.0.0.0 cilkonlay.com
 0.0.0.0 c.cintnetworks.com
 0.0.0.0 metrics1.citi.com
@@ -3908,6 +3914,11 @@
 0.0.0.0 peoplegraph.firstpartyapps.oaspapps.com
 0.0.0.0 telemetryservice.firstpartyapps.oaspapps.com
 0.0.0.0 service.cmp.oath.com
+0.0.0.0 offerspace.com
+0.0.0.0 cdn.offerspace.com
+0.0.0.0 cdn2.offerspace.com
+0.0.0.0 offerspacebranddns.com
+0.0.0.0 cdn2.offerspacebranddns.com
 0.0.0.0 ogury.com
 0.0.0.0 oilcloze.com
 0.0.0.0 omniconvert.com
@@ -4849,6 +4860,8 @@
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 smartadserverapis.com
 0.0.0.0 p.smartertravel.com
+0.0.0.0 smartlook.com
+0.0.0.0 rec.smartlook.com
 0.0.0.0 smrtb.com
 0.0.0.0 sync.smrtb.com
 0.0.0.0 snapads.com
@@ -5282,6 +5295,8 @@
 0.0.0.0 tqlkg.com
 0.0.0.0 trableflick.com
 0.0.0.0 tracead.com
+0.0.0.0 track4cr.com
+0.0.0.0 www.track4cr.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackjs.com
 0.0.0.0 capture.trackjs.com
@@ -5605,6 +5620,8 @@
 0.0.0.0 modules.wearehearken.com
 0.0.0.0 wearemiq.com
 0.0.0.0 sodc.weather.com
+0.0.0.0 webclickroute.com
+0.0.0.0 traffic.webclickroute.com
 0.0.0.0 webgains.com
 0.0.0.0 diapi.webgains.com
 0.0.0.0 track.webgains.com
@@ -5671,6 +5688,8 @@
 0.0.0.0 notify.ads.wish.com
 0.0.0.0 a.wishabi.com
 0.0.0.0 b.wishabi.com
+0.0.0.0 distillery.wistia.com
+0.0.0.0 pipedream.wistia.com
 0.0.0.0 acquisition-tracker.wix.com
 0.0.0.0 adsense.apps.wix.com
 0.0.0.0 premium.aws.wix.com
@@ -6348,6 +6367,7 @@
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 litix.io
+0.0.0.0 fg8vvsvnieiv3ej16jby.litix.io
 0.0.0.0 img.litix.io
 0.0.0.0 src.litix.io
 0.0.0.0 lodeo.io
@@ -6538,6 +6558,8 @@
 0.0.0.0 pixel.carambo.la
 0.0.0.0 route.carambo.la
 0.0.0.0 wpad.lan
+0.0.0.0 powersms.land
+0.0.0.0 red.powersms.land
 0.0.0.0 traq.li
 0.0.0.0 api.traq.li
 0.0.0.0 xn--oogle-wmc.life
@@ -7844,6 +7866,7 @@
 0.0.0.0 zucks.net
 0.0.0.0 k.zucks.net
 0.0.0.0 sh.zucks.net
+0.0.0.0 healthpost.network
 0.0.0.0 pub.network
 0.0.0.0 a.pub.network
 0.0.0.0 xn--oogle-wmc.news
@@ -8029,6 +8052,7 @@
 0.0.0.0 cdn.bibblio.org
 0.0.0.0 invitation.cantonfair.org
 0.0.0.0 1605158521.rsc.cdn77.org
+0.0.0.0 1610534878.rsc.cdn77.org
 0.0.0.0 test.churchofjesuschrist.org
 0.0.0.0 commercialvalue.org
 0.0.0.0 consensu.org
@@ -8128,6 +8152,8 @@
 0.0.0.0 collector.a.pxi.pub
 0.0.0.0 collector.staging.pxi.pub
 0.0.0.0 autocapital.pw
+0.0.0.0 com2312.pw
+0.0.0.0 health.com2312.pw
 0.0.0.0 zlp6s.pw
 0.0.0.0 t1.re
 0.0.0.0 n.rich
