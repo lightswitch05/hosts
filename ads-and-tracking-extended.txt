@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-04-20T02:52:16+00:00
-# Count: 118916 domains
+# Released: 2020-04-20T13:43:40+00:00
+# Count: 118919 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -43304,6 +43304,8 @@
 0.0.0.0 sca1.listrakbi.com
 0.0.0.0 sca2.listrakbi.com
 0.0.0.0 www.listrakbi.com
+0.0.0.0 adserver.livenetlife.com
+0.0.0.0 engine.livenetlife.com
 0.0.0.0 liverail.com
 0.0.0.0 ad3.liverail.com
 0.0.0.0 ad4.liverail.com
@@ -76464,6 +76466,7 @@
 0.0.0.0 rest.viglink.com
 0.0.0.0 sessions.viglink.com
 0.0.0.0 www.viglink.com
+0.0.0.0 sentry.viidea.com
 0.0.0.0 vildlonger.com
 0.0.0.0 www.vildlonger.com
 0.0.0.0 vilynx.com
