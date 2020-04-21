@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-20T18:30:29+00:00
-# Count: 8544 domains
+# Released: 2020-04-21T14:48:30+00:00
+# Count: 8570 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -72,7 +72,9 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 adtracker.valuedopinions.com.au
 0.0.0.0 pulse.synergy.net.au
+0.0.0.0 ad.doubleclick.b
 0.0.0.0 ad4mat.be
+0.0.0.0 doubleclick.be
 0.0.0.0 geoedge.be
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 cj.madeleine-fashion.be
@@ -290,6 +292,7 @@
 0.0.0.0 insights-canary.viafoura.co
 0.0.0.0 interaction.viafoura.co
 0.0.0.0 notifications.viafoura.co
+0.0.0.0 000webhostapp.com
 0.0.0.0 securite.01net.com
 0.0.0.0 vip.126.com
 0.0.0.0 163.com
@@ -388,6 +391,8 @@
 0.0.0.0 ad-brix.com
 0.0.0.0 trd.dsp.ad-brix.com
 0.0.0.0 trd-dsp.ad-brix.com
+0.0.0.0 ad-flow.com
+0.0.0.0 ad-logics.com
 0.0.0.0 ad-pixel.com
 0.0.0.0 s.ad-pixel.com
 0.0.0.0 ad-score.com
@@ -407,6 +412,7 @@
 0.0.0.0 strtrk.adacado.com
 0.0.0.0 adadyn.com
 0.0.0.0 adagionet.com
+0.0.0.0 adalyser.com
 0.0.0.0 adapf.com
 0.0.0.0 admos-dsp.adapf.com
 0.0.0.0 adpita.adapf.com
@@ -467,6 +473,7 @@
 0.0.0.0 ssl.adcash.com
 0.0.0.0 sslad.adcash.com
 0.0.0.0 track.adcash.com
+0.0.0.0 adchoice.com
 0.0.0.0 adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ads30.adcolony.com
@@ -485,6 +492,7 @@
 0.0.0.0 video.adconion.com
 0.0.0.0 adcrowd.com
 0.0.0.0 addevent.com
+0.0.0.0 addfreestats.com
 0.0.0.0 addonjet.com
 0.0.0.0 addragon.com
 0.0.0.0 ads.addragon.com
@@ -506,10 +514,13 @@
 0.0.0.0 vd.adelement.com
 0.0.0.0 adello.com
 0.0.0.0 adenabler.com
+0.0.0.0 adengage.com
 0.0.0.0 adentifi.com
 0.0.0.0 bm.adentifi.com
 0.0.0.0 rtb.adentifi.com
+0.0.0.0 adfalcon.com
 0.0.0.0 adform.com
+0.0.0.0 adgear.com
 0.0.0.0 adgibbon.com
 0.0.0.0 cdn.adgibbon.com
 0.0.0.0 cnt.adgibbon.com
@@ -538,6 +549,7 @@
 0.0.0.0 app.adjust.com
 0.0.0.0 s2s.adjust.com
 0.0.0.0 view.adjust.com
+0.0.0.0 adk2x.com
 0.0.0.0 adkernel.com
 0.0.0.0 adkmob.com
 0.0.0.0 orionimg.adkmob.com
@@ -622,6 +634,7 @@
 0.0.0.0 admedo.com
 0.0.0.0 pj.l.admedo.com
 0.0.0.0 pool.admedo.com
+0.0.0.0 admob.com
 0.0.0.0 admotion.com
 0.0.0.0 admthop.com
 0.0.0.0 p.admthop.com
@@ -670,6 +683,7 @@
 0.0.0.0 cs.adpiano.com
 0.0.0.0 adplugg.com
 0.0.0.0 www.adplugg.com
+0.0.0.0 adplxmd.com
 0.0.0.0 adpredictive.com
 0.0.0.0 platform.adpredictive.com
 0.0.0.0 adpushup.com
@@ -757,8 +771,10 @@
 0.0.0.0 video.adsafeprotected.com
 0.0.0.0 vpaid2.adsafeprotected.com
 0.0.0.0 vpaid3.adsafeprotected.com
+0.0.0.0 adsame.com
 0.0.0.0 adsaprotected.com
 0.0.0.0 dt.adsaprotected.com
+0.0.0.0 adsbtrack.com
 0.0.0.0 adsbysmart.com
 0.0.0.0 adsequence.com
 0.0.0.0 dc.adsequence.com
@@ -940,7 +956,9 @@
 0.0.0.0 sp.advertising.com
 0.0.0.0 tag.sp.advertising.com
 0.0.0.0 advertisingbox.com
+0.0.0.0 advertserve.com
 0.0.0.0 advidi.com
+0.0.0.0 adview.com
 0.0.0.0 adwyze.com
 0.0.0.0 adx1.com
 0.0.0.0 rtb.adx1.com
@@ -967,6 +985,7 @@
 0.0.0.0 s.adzmath.com
 0.0.0.0 t.adzmath.com
 0.0.0.0 u.adzmath.com
+0.0.0.0 adzmedia.com
 0.0.0.0 adzoka.com
 0.0.0.0 ads.adzoka.com
 0.0.0.0 tracking.aegpresents.com
@@ -1475,6 +1494,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 asx-creatives.bidtheatre.com
 0.0.0.0 creatives.bidtheatre.com
+0.0.0.0 bidvertiser.com
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
 0.0.0.0 bat.bing-int.com
@@ -1765,6 +1785,7 @@
 0.0.0.0 clickfunnels.com
 0.0.0.0 app.clickfunnels.com
 0.0.0.0 clickpoint.com
+0.0.0.0 clickz.com
 0.0.0.0 clksite.com
 0.0.0.0 p367320.clksite.com
 0.0.0.0 clmbtech.com
@@ -2373,6 +2394,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
+0.0.0.0 exlusepolly.com
 0.0.0.0 exoclick.com
 0.0.0.0 ads.exoclick.com
 0.0.0.0 exosrv.com
@@ -4094,6 +4116,7 @@
 0.0.0.0 cdn.parsely.com
 0.0.0.0 pathful.com
 0.0.0.0 ssl.pathful.com
+0.0.0.0 paypopup.com
 0.0.0.0 pixel.perceptlink.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 ad.perfectaudience.com
@@ -7610,6 +7633,7 @@
 0.0.0.0 trkpnt.ongage.net
 0.0.0.0 online-metrix.net
 0.0.0.0 aa.online-metrix.net
+0.0.0.0 fbsbx.com.online-metrix.net
 0.0.0.0 h-homedepot.online-metrix.net
 0.0.0.0 h-intuit.online-metrix.net
 0.0.0.0 h-sdk.online-metrix.net
@@ -8147,6 +8171,7 @@
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 ssl.broadcast.pm
 0.0.0.0 booe.pro
+0.0.0.0 halleyperson.pro
 0.0.0.0 piwik.pro
 0.0.0.0 cdn.piwik.pro
 0.0.0.0 mparticle.containers.piwik.pro
@@ -8533,6 +8558,7 @@
 0.0.0.0 dynadmic.video
 0.0.0.0 bko.dynadmic.video
 0.0.0.0 usaclub.vip
+0.0.0.0 cleverads.vn
 0.0.0.0 cpagen.win
 0.0.0.0 cdn.cpagen.win
 0.0.0.0 px.cpagen.win
