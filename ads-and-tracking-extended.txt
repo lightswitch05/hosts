@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-04-22T19:11:58+00:00
-# Count: 121814 domains
+# Released: 2020-04-22T19:56:57+00:00
+# Count: 121922 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -53184,6 +53184,48 @@
 0.0.0.0 www.webstats.motigo.com
 0.0.0.0 motionlessbag.com
 0.0.0.0 ads.motorgraph.com
+0.0.0.0 mouseflow.com
+0.0.0.0 a.mouseflow.com
+0.0.0.0 account.a.mouseflow.com
+0.0.0.0 a2.mouseflow.com
+0.0.0.0 account.mouseflow.com
+0.0.0.0 api-eu.mouseflow.com
+0.0.0.0 api-us.mouseflow.com
+0.0.0.0 app.mouseflow.com
+0.0.0.0 b.mouseflow.com
+0.0.0.0 b2.mouseflow.com
+0.0.0.0 c.mouseflow.com
+0.0.0.0 c2.mouseflow.com
+0.0.0.0 cdf.mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 cdn-eu.mouseflow.com
+0.0.0.0 cdn-origin.mouseflow.com
+0.0.0.0 cdn-us.mouseflow.com
+0.0.0.0 cdn2.mouseflow.com
+0.0.0.0 cdn3.mouseflow.com
+0.0.0.0 d.mouseflow.com
+0.0.0.0 e.mouseflow.com
+0.0.0.0 account.e.mouseflow.com
+0.0.0.0 e2.mouseflow.com
+0.0.0.0 eu.mouseflow.com
+0.0.0.0 f2.mouseflow.com
+0.0.0.0 g2.mouseflow.com
+0.0.0.0 go.mouseflow.com
+0.0.0.0 account.h.mouseflow.com
+0.0.0.0 h2.mouseflow.com
+0.0.0.0 hubspot-integration.mouseflow.com
+0.0.0.0 i2.mouseflow.com
+0.0.0.0 j2.mouseflow.com
+0.0.0.0 js-api-docs.mouseflow.com
+0.0.0.0 marketing.mouseflow.com
+0.0.0.0 media.mouseflow.com
+0.0.0.0 meeting.mouseflow.com
+0.0.0.0 meetings.mouseflow.com
+0.0.0.0 n2.mouseflow.com
+0.0.0.0 account.o.mouseflow.com
+0.0.0.0 o2.mouseflow.com
+0.0.0.0 us.mouseflow.com
+0.0.0.0 www.mouseflow.com
 0.0.0.0 p-cg61-beaconserver.movetv.com
 0.0.0.0 p-stats.movetv.com
 0.0.0.0 event-collector.moviesanywhere.com
@@ -60345,6 +60387,72 @@
 0.0.0.0 www.optimizely.com
 0.0.0.0 x.optimizely.com
 0.0.0.0 zendesk-staging.optimizely.com
+0.0.0.0 optimonk.com
+0.0.0.0 sales.acceptance.optimonk.com
+0.0.0.0 app.optimonk.com
+0.0.0.0 backend.optimonk.com
+0.0.0.0 cdn.optimonk.com
+0.0.0.0 cdn-content.optimonk.com
+0.0.0.0 cdn-content-test2.optimonk.com
+0.0.0.0 cdn-custom.optimonk.com
+0.0.0.0 cdn-custom-test.optimonk.com
+0.0.0.0 cdn-custom-test2.optimonk.com
+0.0.0.0 cdn-dynamic.optimonk.com
+0.0.0.0 cdn-dynamic-test.optimonk.com
+0.0.0.0 cdn-dynamic-test2.optimonk.com
+0.0.0.0 cdn-static.optimonk.com
+0.0.0.0 cdn-static-test.optimonk.com
+0.0.0.0 cdn-static-test2.optimonk.com
+0.0.0.0 cdnstatic.optimonk.com
+0.0.0.0 cdnstatic2.optimonk.com
+0.0.0.0 content.optimonk.com
+0.0.0.0 custom.optimonk.com
+0.0.0.0 dynamic.optimonk.com
+0.0.0.0 ssl.dynamic.optimonk.com
+0.0.0.0 editor-upload-cdn.optimonk.com
+0.0.0.0 front.optimonk.com
+0.0.0.0 kibana.optimonk.com
+0.0.0.0 landing.optimonk.com
+0.0.0.0 my.optimonk.com
+0.0.0.0 my-test.optimonk.com
+0.0.0.0 om11953-howyourworldworks-myshopify-com.optimonk.com
+0.0.0.0 om12342-realdose-myshopify-com.optimonk.com
+0.0.0.0 om13366-epigeneticlabs-myshopify-com.optimonk.com
+0.0.0.0 om13981-cool-blue-com-myshopify-com.optimonk.com
+0.0.0.0 om14017-vive-health-myshopify-com.optimonk.com
+0.0.0.0 om14076-my-organized-life-myshopify-com.optimonk.com
+0.0.0.0 om14875-all-things-bitcoin-myshopify-com.optimonk.com
+0.0.0.0 om16453-jaime-vraiment-chat-myshopify-com.optimonk.com
+0.0.0.0 om16996-nutriseeduk-myshopify-com.optimonk.com
+0.0.0.0 om17114-pdtil2-myshopify-com.optimonk.com
+0.0.0.0 om18007-sol-cbd-myshopify-com.optimonk.com
+0.0.0.0 om19333-buy-wow-health-myshopify-com.optimonk.com
+0.0.0.0 om19468-production-music-live-myshopify-com.optimonk.com
+0.0.0.0 om19472-essential-charms-myshopify-com.optimonk.com
+0.0.0.0 om20019-un-bonheur-de-chien-myshopify-com.optimonk.com
+0.0.0.0 om21121-beglamour-myshopify-com.optimonk.com
+0.0.0.0 om21121-joliemiss-myshopify-com.optimonk.com
+0.0.0.0 om21144-fleshjack-myshopify-com.optimonk.com
+0.0.0.0 om21144-interactive-life-forms-ca-myshopify-com.optimonk.com
+0.0.0.0 om21144-interactive-life-forms-eu-myshopify-com.optimonk.com
+0.0.0.0 om21144-interactive-life-forms-myshopify-com.optimonk.com
+0.0.0.0 om21646-kumikomatcha-myshopify-com.optimonk.com
+0.0.0.0 om21678-beglamour-myshopify-com.optimonk.com
+0.0.0.0 om22182-biotechusa-myshopify-com.optimonk.com
+0.0.0.0 om22475-my-organicformula-myshopify-com.optimonk.com
+0.0.0.0 om22849-click-grow-eu-myshopify-com.optimonk.com
+0.0.0.0 om22849-click-grow-myshopify-com.optimonk.com
+0.0.0.0 om24402-medlifestore-myshopify-com.optimonk.com
+0.0.0.0 om3305-zooshoo-myshopify-com.optimonk.com
+0.0.0.0 om7546-allbuy-dk-myshopify-com.optimonk.com
+0.0.0.0 payment.optimonk.com
+0.0.0.0 phpmyadmin.optimonk.com
+0.0.0.0 sign-up.optimonk.com
+0.0.0.0 staging-editor-upload-cdn.optimonk.com
+0.0.0.0 static.optimonk.com
+0.0.0.0 test.optimonk.com
+0.0.0.0 wix.optimonk.com
+0.0.0.0 www.optimonk.com
 0.0.0.0 optmd.com
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn-sec.optmd.com

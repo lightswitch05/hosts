@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-22T19:11:58+00:00
-# Count: 8773 domains
+# Released: 2020-04-22T19:56:57+00:00
+# Count: 8777 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -3882,6 +3882,8 @@
 0.0.0.0 webstats.motigo.com
 0.0.0.0 motionlessbag.com
 0.0.0.0 ads.motorgraph.com
+0.0.0.0 mouseflow.com
+0.0.0.0 cdn.mouseflow.com
 0.0.0.0 p-cg61-beaconserver.movetv.com
 0.0.0.0 p-stats.movetv.com
 0.0.0.0 event-collector.moviesanywhere.com
@@ -4149,6 +4151,8 @@
 0.0.0.0 log.optimizely.com
 0.0.0.0 341800575.log.optimizely.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 optimonk.com
+0.0.0.0 front.optimonk.com
 0.0.0.0 optmd.com
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn-sec.optmd.com
