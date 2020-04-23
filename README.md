@@ -11,6 +11,8 @@
 
 A collection of `hosts` files for domain blocking. If you find something in a list that you believe is a mistake or breaks functionality, please open a ticket and I'll consider removing it. Also, if you find an unblocked subdomain of a blocked root domain, please let me know so I can add it to a list.
 
+[![Hosts Logo](https://raw.githubusercontent.com/lightswitch05/hosts/feature/create-logo/docs/logo.svg)](https://www.github.developerdan.com/hosts/)
+
 Host file recipe | Description | Raw hosts
 ---------------- | ----------- |:---------:
 Ads & Tracking | A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it. | [link](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
