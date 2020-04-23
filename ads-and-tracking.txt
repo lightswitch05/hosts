@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-23T13:38:34+00:00
-# Count: 8795 domains
+# Released: 2020-04-23T19:11:42+00:00
+# Count: 8797 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -2533,6 +2533,8 @@
 0.0.0.0 first-impression.com
 0.0.0.0 firstpromoter.com
 0.0.0.0 cdn.firstpromoter.com
+0.0.0.0 collector.fiverr.com
+0.0.0.0 relay.fiverr.com
 0.0.0.0 cplog.flashget.com
 0.0.0.0 stat.flashget.com
 0.0.0.0 supertracker.flashget.com
@@ -5376,6 +5378,7 @@
 0.0.0.0 agility.tbs.com
 0.0.0.0 tccompliance.com
 0.0.0.0 analytics-tx.tdameritrade.com
+0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 uat-net.technoratimedia.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 piwik.teladoc.com
@@ -6545,8 +6548,6 @@
 0.0.0.0 js.gleam.io
 0.0.0.0 graphly.io
 0.0.0.0 tracking.graphly.io
-0.0.0.0 greenhouse.io
-0.0.0.0 boards.greenhouse.io
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 hubvisor.io
@@ -7314,6 +7315,7 @@
 0.0.0.0 d330aiyvva2oww.cloudfront.net
 0.0.0.0 d33nmundg46g9e.cloudfront.net
 0.0.0.0 d341nzm64j0k1x.cloudfront.net
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d39vf9bwtb4sua.cloudfront.net
 0.0.0.0 d3l4p0goxhm61a.cloudfront.net
 0.0.0.0 d3rxu0fywkpi6t.cloudfront.net
