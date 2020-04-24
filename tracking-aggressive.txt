@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2020-04-23T19:14:39+00:00
-# Count: 166 domains
+# Released: 2020-04-24T13:15:31+00:00
+# Count: 167 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -100,6 +100,7 @@
 0.0.0.0 polldaddy.com
 0.0.0.0 providesupport.com
 0.0.0.0 image.providesupport.com
+0.0.0.0 mark.reevoo.com
 0.0.0.0 retinax.com
 0.0.0.0 telemetry.ros.rockstargames.com
 0.0.0.0 prod.telemetry.ros.rockstargames.com
