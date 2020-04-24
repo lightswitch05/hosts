@@ -225,3 +225,7 @@
 # only the root domain is whitelisted per #147
 ^gleam\.io$
 
+# only the root domain is whitelisted per #160
+^pdst\.fm$
+
+
