@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-24T17:55:53+00:00
-# Count: 8827 domains
+# Released: 2020-04-24T18:17:43+00:00
+# Count: 8837 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -904,6 +904,8 @@
 0.0.0.0 adtechus.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 adtelligent.com
+0.0.0.0 sync.adtelligent.com
 0.0.0.0 adtheorent.com
 0.0.0.0 platform.adtheorent.com
 0.0.0.0 adthrive.com
@@ -3835,6 +3837,7 @@
 0.0.0.0 t.mndtrk.com
 0.0.0.0 testrtg.mndtrk.com
 0.0.0.0 moatads.com
+0.0.0.0 apx.moatads.com
 0.0.0.0 js.moatads.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 pixel.moatads.com
@@ -3844,6 +3847,7 @@
 0.0.0.0 pool6.moatads.com
 0.0.0.0 pool8.moatads.com
 0.0.0.0 pool9.moatads.com
+0.0.0.0 px.moatads.com
 0.0.0.0 s-jsonp.moatads.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 sn.moatads.com
@@ -4575,6 +4579,8 @@
 0.0.0.0 t.reppublika.com
 0.0.0.0 t5.reppublika.com
 0.0.0.0 t6.reppublika.com
+0.0.0.0 republer.com
+0.0.0.0 sync.republer.com
 0.0.0.0 reqaws.com
 0.0.0.0 res-x.com
 0.0.0.0 ris.res-x.com
@@ -5341,9 +5347,11 @@
 0.0.0.0 c2.taboola.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 images.taboola.com
+0.0.0.0 opps.taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 us-trc.taboola.com
 0.0.0.0 vidstat.taboola.com
+0.0.0.0 wf.taboola.com
 0.0.0.0 tabvertising.com
 0.0.0.0 activate.tacdn.com
 0.0.0.0 analytics.tactilews.com
@@ -7880,6 +7888,7 @@
 0.0.0.0 rock-you-d.openx.net
 0.0.0.0 saymedia-d.openx.net
 0.0.0.0 spikemedia-d.openx.net
+0.0.0.0 spot-im-d.openx.net
 0.0.0.0 talkingpointsmemo-d.openx.net
 0.0.0.0 thehill-d.openx.net
 0.0.0.0 u.openx.net
@@ -8596,6 +8605,7 @@
 0.0.0.0 9jqp.adj.st
 0.0.0.0 dhs7.adj.st
 0.0.0.0 h38c.adj.st
+0.0.0.0 nghd.adj.st
 0.0.0.0 nn8g.adj.st
 0.0.0.0 rzte.adj.st
 0.0.0.0 stms.adj.st
