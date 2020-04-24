@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking.txt
-# Released: 2020-04-24T13:10:48+00:00
-# Count: 8800 domains
+# Released: 2020-04-24T16:21:52+00:00
+# Count: 8826 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking.txt
@@ -1122,6 +1122,7 @@
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com
+0.0.0.0 prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 0.0.0.0 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
 0.0.0.0 api-ntv-elb-1185445618.us-east-1.elb.amazonaws.com
@@ -1157,6 +1158,7 @@
 0.0.0.0 trackers-1816877321.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
+0.0.0.0 webrecorder-prod-1682395302.us-east-1.elb.amazonaws.com
 0.0.0.0 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
@@ -2432,6 +2434,7 @@
 0.0.0.0 esttrk.com
 0.0.0.0 eum-appdynamics.com
 0.0.0.0 col.eum-appdynamics.com
+0.0.0.0 pdx-col.eum-appdynamics.com
 0.0.0.0 everyscreenmedia.com
 0.0.0.0 evgnet.com
 0.0.0.0 cdn.evgnet.com
@@ -2452,6 +2455,7 @@
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 exelator.com
 0.0.0.0 load.exelator.com
+0.0.0.0 load-ams1.exelator.com
 0.0.0.0 load-dfw2.exelator.com
 0.0.0.0 load77.exelator.com
 0.0.0.0 loadeu.exelator.com
@@ -3103,6 +3107,8 @@
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 ividplayer.com
 0.0.0.0 services.ividplayer.com
+0.0.0.0 ixiaa.com
+0.0.0.0 kr.ixiaa.com
 0.0.0.0 jadudamobile.com
 0.0.0.0 analytics.jaggedpeak.com
 0.0.0.0 janus.r.jakuli.com
@@ -3267,6 +3273,7 @@
 0.0.0.0 ad.lgsmartad.com
 0.0.0.0 liadm.com
 0.0.0.0 b-code.liadm.com
+0.0.0.0 smetrics.libertymutual.com
 0.0.0.0 lifestreet.com
 0.0.0.0 www.lifestreet.com
 0.0.0.0 ligadx.com
@@ -3411,6 +3418,7 @@
 0.0.0.0 logico.mainad.com
 0.0.0.0 publisher.mainad.com
 0.0.0.0 data.maisonsdumonde.com
+0.0.0.0 malsup.com
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 malwarebytes-free.com
@@ -3551,6 +3559,7 @@
 0.0.0.0 b.measuredads.com
 0.0.0.0 survey.medallia.com
 0.0.0.0 media6degrees.com
+0.0.0.0 idpix.media6degrees.com
 0.0.0.0 mediaforge.com
 0.0.0.0 mediahead.com
 0.0.0.0 ad.mediahead.com
@@ -4316,6 +4325,8 @@
 0.0.0.0 s.pmddby.com
 0.0.0.0 connect.podium.com
 0.0.0.0 analytics.podtrac.com
+0.0.0.0 poduveli.com
+0.0.0.0 www.poduveli.com
 0.0.0.0 poprule.com
 0.0.0.0 ts.popsugar.com
 0.0.0.0 popunderonly.com
@@ -4443,8 +4454,10 @@
 0.0.0.0 qoof.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 qualtrics.com
+0.0.0.0 co1.qualtrics.com
 0.0.0.0 cofc.qualtrics.com
 0.0.0.0 col.qualtrics.com
+0.0.0.0 iad1.qualtrics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 zn0bqjn5ymsuersnf-versanthealth.siteintercept.qualtrics.com
 0.0.0.0 zn0umm8znjpycgm2n-fiverr.siteintercept.qualtrics.com
@@ -4454,8 +4467,10 @@
 0.0.0.0 zn_agburbioucamt8f-babycenter.siteintercept.qualtrics.com
 0.0.0.0 zn_elgllynyxrpbdgz-sygenta.siteintercept.qualtrics.com
 0.0.0.0 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
+0.0.0.0 znagyjhfxnlbwptub-libertymutualvoc.siteintercept.qualtrics.com
 0.0.0.0 znb4vlzqzcl6kqps9-intuit.siteintercept.qualtrics.com
 0.0.0.0 znbc5k4v9qea3h0pj-fandango.siteintercept.qualtrics.com
+0.0.0.0 znbdsrjdhg44cw38v-libertymutualvoc.siteintercept.qualtrics.com
 0.0.0.0 znci6svvcasfxdpfl-intuitmint.siteintercept.qualtrics.com
 0.0.0.0 assets.quantcast.com
 0.0.0.0 quantcount.com
@@ -4723,6 +4738,7 @@
 0.0.0.0 sail-horizon.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 salemove.com
+0.0.0.0 api.salemove.com
 0.0.0.0 assets.salemove.com
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 libs.salemove.com
@@ -5554,6 +5570,7 @@
 0.0.0.0 api.screenshot.triplelift.com
 0.0.0.0 wizard.triplelift.com
 0.0.0.0 www.triplelift.com
+0.0.0.0 trkibx.com
 0.0.0.0 adx.trovitx.com
 0.0.0.0 truconversion.com
 0.0.0.0 app.truconversion.com
@@ -5578,6 +5595,7 @@
 0.0.0.0 ad.turn.com
 0.0.0.0 d.turn.com
 0.0.0.0 presentation-atl1.turn.com
+0.0.0.0 r.turn.com
 0.0.0.0 turncdn.com
 0.0.0.0 img.turncdn.com
 0.0.0.0 video.turncdn.com
@@ -6478,6 +6496,8 @@
 0.0.0.0 173c5b06.akstat.io
 0.0.0.0 173c5b0c.akstat.io
 0.0.0.0 17d09914.akstat.io
+0.0.0.0 684dd304.akstat.io
+0.0.0.0 686eb51b.akstat.io
 0.0.0.0 insights.algolia.io
 0.0.0.0 applicationinsights.io
 0.0.0.0 breeze.aimon.applicationinsights.io
@@ -7274,7 +7294,9 @@
 0.0.0.0 hop.clickbank.net
 0.0.0.0 clicksapp.net
 0.0.0.0 clicktale.net
+0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 conductor.clicktale.net
+0.0.0.0 ing-district.clicktale.net
 0.0.0.0 cookieconsent.cloudapp.net
 0.0.0.0 pdwuengagementapiwkr.cloudapp.net
 0.0.0.0 recommenderprodwestus.cloudapp.net
@@ -7394,6 +7416,7 @@
 0.0.0.0 intelcorp.demdex.net
 0.0.0.0 fast.intelcorp.demdex.net
 0.0.0.0 kroger.demdex.net
+0.0.0.0 libertymutual-personalmarkets.demdex.net
 0.0.0.0 lowescompaniesinc.demdex.net
 0.0.0.0 mcclatchy.demdex.net
 0.0.0.0 millercoors.demdex.net
@@ -7561,6 +7584,7 @@
 0.0.0.0 prod.sonobi-go.map.fastly.net
 0.0.0.0 taboola.map.fastly.net
 0.0.0.0 f2.taboola.map.fastly.net
+0.0.0.0 t.wayfair.map.fastly.net
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -7761,6 +7785,7 @@
 0.0.0.0 cruisecritic.d1.sc.omtrdc.net
 0.0.0.0 com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aetn.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 libertymutual.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 taxslayer.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wunderground.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 vudu.d1.sc.omtrdc.net
@@ -8138,6 +8163,7 @@
 0.0.0.0 aj2073.online
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
+0.0.0.0 lplenx.online
 0.0.0.0 12js.org
 0.0.0.0 12lib.org
 0.0.0.0 16js.org

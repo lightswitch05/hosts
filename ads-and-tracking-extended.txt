@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-04-24T13:10:49+00:00
-# Count: 123344 domains
+# Released: 2020-04-24T16:21:53+00:00
+# Count: 123408 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -9149,6 +9149,7 @@
 0.0.0.0 fra62.ib.adnxs.com
 0.0.0.0 fra63.ib.adnxs.com
 0.0.0.0 fra64.ib.adnxs.com
+0.0.0.0 fra65.ib.adnxs.com
 0.0.0.0 fra66.ib.adnxs.com
 0.0.0.0 fra67.ib.adnxs.com
 0.0.0.0 fra68.ib.adnxs.com
@@ -13995,6 +13996,7 @@
 0.0.0.0 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com
+0.0.0.0 prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
 0.0.0.0 adservers-users-1-1251423768.us-east-1.elb.amazonaws.com
 0.0.0.0 api-ntv-elb-1185445618.us-east-1.elb.amazonaws.com
@@ -14030,6 +14032,7 @@
 0.0.0.0 trackers-1816877321.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
+0.0.0.0 webrecorder-prod-1682395302.us-east-1.elb.amazonaws.com
 0.0.0.0 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
@@ -41769,6 +41772,32 @@
 0.0.0.0 assets.ividplayer.com
 0.0.0.0 services.ividplayer.com
 0.0.0.0 www.ividplayer.com
+0.0.0.0 ixiaa.com
+0.0.0.0 10.72.180.60kr.ixiaa.com
+0.0.0.0 as.ixiaa.com
+0.0.0.0 bb.ixiaa.com
+0.0.0.0 bc.ixiaa.com
+0.0.0.0 itunes.apple.comkr.ixiaa.com
+0.0.0.0 icloud.cominit.itunes.apple.comkr.ixiaa.com
+0.0.0.0 cx.ixiaa.com
+0.0.0.0 dc.ixiaa.com
+0.0.0.0 dev.ixiaa.com
+0.0.0.0 dev-azure.ixiaa.com
+0.0.0.0 dl.ixiaa.com
+0.0.0.0 e.ixiaa.com
+0.0.0.0 kr.ixiaa.com
+0.0.0.0 ml.ixiaa.com
+0.0.0.0 ns.ixiaa.com
+0.0.0.0 ps.ixiaa.com
+0.0.0.0 rl.ixiaa.com
+0.0.0.0 rv.ixiaa.com
+0.0.0.0 s.ixiaa.com
+0.0.0.0 st.ixiaa.com
+0.0.0.0 test.ixiaa.com
+0.0.0.0 test-bc.ixiaa.com
+0.0.0.0 www.ixiaa.com
+0.0.0.0 x25519ns.ixiaa.com
+0.0.0.0 y.ixiaa.com
 0.0.0.0 jadudamobile.com
 0.0.0.0 pre.jadudamobile.com
 0.0.0.0 www.jadudamobile.com
@@ -45078,6 +45107,7 @@
 0.0.0.0 rp.liadm.com
 0.0.0.0 rp4.liadm.com
 0.0.0.0 www.liadm.com
+0.0.0.0 smetrics.libertymutual.com
 0.0.0.0 lifestreet.com
 0.0.0.0 adfeedback.lifestreet.com
 0.0.0.0 dex.lifestreet.com
@@ -46940,6 +46970,18 @@
 0.0.0.0 www.publisher.mainad.com
 0.0.0.0 www.mainad.com
 0.0.0.0 data.maisonsdumonde.com
+0.0.0.0 malsup.com
+0.0.0.0 j.malsup.com
+0.0.0.0 jq.malsup.com
+0.0.0.0 jquery.malsup.com
+0.0.0.0 www.jquery.malsup.com
+0.0.0.0 jquerycs144.malsup.com
+0.0.0.0 mrs.malsup.com
+0.0.0.0 ng.malsup.com
+0.0.0.0 phiplus.malsup.com
+0.0.0.0 ptc.malsup.com
+0.0.0.0 test.malsup.com
+0.0.0.0 www.malsup.com
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 malwarebytes-free.com
@@ -62972,6 +63014,8 @@
 0.0.0.0 s.pmddby.com
 0.0.0.0 connect.podium.com
 0.0.0.0 analytics.podtrac.com
+0.0.0.0 poduveli.com
+0.0.0.0 www.poduveli.com
 0.0.0.0 poprule.com
 0.0.0.0 ads.poprule.com
 0.0.0.0 mp.poprule.com
@@ -65757,6 +65801,7 @@
 0.0.0.0 jmu.qualtrics.com
 0.0.0.0 jnjhr.qualtrics.com
 0.0.0.0 johnson.qualtrics.com
+0.0.0.0 jsu.qualtrics.com
 0.0.0.0 junioressec.qualtrics.com
 0.0.0.0 k5.qualtrics.com
 0.0.0.0 k6.qualtrics.com
@@ -66517,6 +66562,7 @@
 0.0.0.0 znbcrpewtj0dehmwf-monotype.siteintercept.qualtrics.com
 0.0.0.0 znbcsy7dunkcaqj6r-colliercounty.siteintercept.qualtrics.com
 0.0.0.0 znbdhpkbkrivmgkyl-dishvoc.siteintercept.qualtrics.com
+0.0.0.0 znbdsrjdhg44cw38v-libertymutualvoc.siteintercept.qualtrics.com
 0.0.0.0 znbedpeh1nktowiif-ameriprise.siteintercept.qualtrics.com
 0.0.0.0 znbeh6x6kb05aejnn-cbs.siteintercept.qualtrics.com
 0.0.0.0 znbehensnv6my8ntt-ncaawebinsights.siteintercept.qualtrics.com
@@ -77945,6 +77991,7 @@
 0.0.0.0 winning.triplelift.com
 0.0.0.0 wizard.triplelift.com
 0.0.0.0 www.triplelift.com
+0.0.0.0 trkibx.com
 0.0.0.0 adx.trovitx.com
 0.0.0.0 truconversion.com
 0.0.0.0 08feb2018.truconversion.com
@@ -100574,6 +100621,7 @@
 0.0.0.0 flexera.demdex.net
 0.0.0.0 floridapowerandlight.demdex.net
 0.0.0.0 flybuys.demdex.net
+0.0.0.0 fmc.demdex.net
 0.0.0.0 focusfeatures.demdex.net
 0.0.0.0 follett.demdex.net
 0.0.0.0 fonecta.demdex.net
@@ -100793,6 +100841,7 @@
 0.0.0.0 levis.demdex.net
 0.0.0.0 lexmark.demdex.net
 0.0.0.0 lgelectronics.demdex.net
+0.0.0.0 libertymutual-personalmarkets.demdex.net
 0.0.0.0 libertyseguros.demdex.net
 0.0.0.0 libertywireless.demdex.net
 0.0.0.0 lifesize.demdex.net
@@ -101268,6 +101317,7 @@
 0.0.0.0 thesalvationarmy.demdex.net
 0.0.0.0 fast.thesalvationarmy.demdex.net
 0.0.0.0 thetirerackinc.demdex.net
+0.0.0.0 thewhitecompany.demdex.net
 0.0.0.0 three.demdex.net
 0.0.0.0 thrivent.demdex.net
 0.0.0.0 tiaacreftrustcompanyfsb.demdex.net
@@ -101296,8 +101346,10 @@
 0.0.0.0 toyotaquebec.demdex.net
 0.0.0.0 tracfone.demdex.net
 0.0.0.0 traderca.demdex.net
+0.0.0.0 tradoria.demdex.net
 0.0.0.0 trainline.demdex.net
 0.0.0.0 treecom.demdex.net
+0.0.0.0 trendmicrojp.demdex.net
 0.0.0.0 tri.demdex.net
 0.0.0.0 tribunemedia.demdex.net
 0.0.0.0 trowepriceassociatesinc.demdex.net
@@ -101331,6 +101383,7 @@
 0.0.0.0 unitedhealthcareserv.demdex.net
 0.0.0.0 unitedhealthgroup.demdex.net
 0.0.0.0 unitedoverseasbanklimited.demdex.net
+0.0.0.0 unitymediade.demdex.net
 0.0.0.0 upccz.demdex.net
 0.0.0.0 upchu.demdex.net
 0.0.0.0 upcro.demdex.net
@@ -101367,6 +101420,7 @@
 0.0.0.0 virginaustralia.demdex.net
 0.0.0.0 virginmobileca.demdex.net
 0.0.0.0 viridian.demdex.net
+0.0.0.0 visibleservices.demdex.net
 0.0.0.0 vision.demdex.net
 0.0.0.0 vitacostinc.demdex.net
 0.0.0.0 vitamix.demdex.net
@@ -105021,6 +105075,7 @@
 0.0.0.0 pixel2072.everesttech.net
 0.0.0.0 pixel2114.everesttech.net
 0.0.0.0 pixel2116.everesttech.net
+0.0.0.0 pixel2129.everesttech.net
 0.0.0.0 pixel2130.everesttech.net
 0.0.0.0 pixel2140.everesttech.net
 0.0.0.0 pixel2177.everesttech.net
@@ -105429,6 +105484,7 @@
 0.0.0.0 tls13.taboola.map.fastly.net
 0.0.0.0 trc.taboola.map.fastly.net
 0.0.0.0 www.taboola.map.fastly.net
+0.0.0.0 t.wayfair.map.fastly.net
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 www.7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -108363,6 +108419,7 @@
 0.0.0.0 0rogerscommunicationspartnership.d1.sc.omtrdc.net
 0.0.0.0 10.212.54.132200paloaltonetworks.d1.sc.omtrdc.net
 0.0.0.0 1dental.d1.sc.omtrdc.net
+0.0.0.0 accstandardbank.d1.sc.omtrdc.net
 0.0.0.0 adobepoctrials.d1.sc.omtrdc.net
 0.0.0.0 adobeproduct.d1.sc.omtrdc.net
 0.0.0.0 aeg.d1.sc.omtrdc.net
@@ -108418,6 +108475,7 @@
 0.0.0.0 deseretdigitalmedia.d1.sc.omtrdc.net
 0.0.0.0 dis.d1.sc.omtrdc.net
 0.0.0.0 dishpurchasingcorporation.d1.sc.omtrdc.net
+0.0.0.0 disneycorporate.d1.sc.omtrdc.net
 0.0.0.0 domo.d1.sc.omtrdc.net
 0.0.0.0 eatonvance.d1.sc.omtrdc.net
 0.0.0.0 ecampus.d1.sc.omtrdc.net
@@ -108429,6 +108487,7 @@
 0.0.0.0 exture.d1.sc.omtrdc.net
 0.0.0.0 fairfaxau.d1.sc.omtrdc.net
 0.0.0.0 fairfaxnz.d1.sc.omtrdc.net
+0.0.0.0 firstscribe.d1.sc.omtrdc.net
 0.0.0.0 flipkart.d1.sc.omtrdc.net
 0.0.0.0 geico.d1.sc.omtrdc.net
 0.0.0.0 globo.d1.sc.omtrdc.net
@@ -108451,6 +108510,7 @@
 0.0.0.0 jcpenney.d1.sc.omtrdc.net
 0.0.0.0 jenniferkunz.d1.sc.omtrdc.net
 0.0.0.0 jetstar.d1.sc.omtrdc.net
+0.0.0.0 jinjaadvertising.d1.sc.omtrdc.net
 0.0.0.0 jobsdb.d1.sc.omtrdc.net
 0.0.0.0 joneslang.d1.sc.omtrdc.net
 0.0.0.0 jupitershopchannelcoltd.d1.sc.omtrdc.net
@@ -108477,6 +108537,7 @@
 0.0.0.0 nielsencom.d1.sc.omtrdc.net
 0.0.0.0 nikkei.d1.sc.omtrdc.net
 0.0.0.0 nikon.d1.sc.omtrdc.net
+0.0.0.0 nikonjp.d1.sc.omtrdc.net
 0.0.0.0 northerntool.d1.sc.omtrdc.net
 0.0.0.0 northstartravelmedia.d1.sc.omtrdc.net
 0.0.0.0 novapontocom.d1.sc.omtrdc.net
@@ -108568,6 +108629,7 @@
 0.0.0.0 lansingstatejournal.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 lenovo.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 lexus.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 libertymutual.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 lww.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 madewell.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 manheim.com.ssl.d1.sc.omtrdc.net
@@ -108648,6 +108710,7 @@
 0.0.0.0 txdot.d1.sc.omtrdc.net
 0.0.0.0 ubank.d1.sc.omtrdc.net
 0.0.0.0 underarmour.d1.sc.omtrdc.net
+0.0.0.0 usaa.d1.sc.omtrdc.net
 0.0.0.0 veritasim.d1.sc.omtrdc.net
 0.0.0.0 verizonwirelesspdi.d1.sc.omtrdc.net
 0.0.0.0 vfcorp.d1.sc.omtrdc.net
@@ -117417,6 +117480,7 @@
 0.0.0.0 www.aj2073.online
 0.0.0.0 hz57.online
 0.0.0.0 kenvam.online
+0.0.0.0 lplenx.online
 0.0.0.0 12js.org
 0.0.0.0 ns1.12js.org
 0.0.0.0 ns2.12js.org
