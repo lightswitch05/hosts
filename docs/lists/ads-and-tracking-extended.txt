@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-04-28T13:15:40+00:00
-# Count: 124087 domains
+# Released: 2020-04-29T12:30:13+00:00
+# Count: 124089 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -76540,6 +76540,8 @@
 0.0.0.0 analytics.techtarget.com
 0.0.0.0 mkto.techtarget.com
 0.0.0.0 trk.techtarget.com
+0.0.0.0 error-collector.ted.com
+0.0.0.0 metrics.ted.com
 0.0.0.0 piwik.teladoc.com
 0.0.0.0 tag-manager.teladoc.com
 0.0.0.0 temelio.com
