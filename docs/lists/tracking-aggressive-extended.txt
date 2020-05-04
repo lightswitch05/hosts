@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-04-27T02:09:21+00:00
-# Count: 7278 domains
+# Released: 2020-05-04T02:41:12+00:00
+# Count: 7315 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -88,6 +88,7 @@
 0.0.0.0 apistore.360.cn
 0.0.0.0 appscan.360.cn
 0.0.0.0 pay.appstore.360.cn
+0.0.0.0 apt.360.cn
 0.0.0.0 arena.360.cn
 0.0.0.0 video.arena.360.cn
 0.0.0.0 b.360.cn
@@ -289,6 +290,7 @@
 0.0.0.0 mail.360.cn
 0.0.0.0 mall.360.cn
 0.0.0.0 m.mall.360.cn
+0.0.0.0 mapp.360.cn
 0.0.0.0 mb.360.cn
 0.0.0.0 mgame.360.cn
 0.0.0.0 mingpian.360.cn
@@ -429,6 +431,8 @@
 0.0.0.0 api.free.wifi.360.cn
 0.0.0.0 kmc.wifi.360.cn
 0.0.0.0 stat.wifi.360.cn
+0.0.0.0 wot.360.cn
+0.0.0.0 wows.360.cn
 0.0.0.0 s.conf.wsm.360.cn
 0.0.0.0 poll.tools.wsm.360.cn
 0.0.0.0 new.poll.tools.wsm.360.cn
@@ -441,10 +445,12 @@
 0.0.0.0 biying.xy.360.cn
 0.0.0.0 qc.xy.360.cn
 0.0.0.0 yasuo.360.cn
+0.0.0.0 youqian.360.cn
 0.0.0.0 yule.360.cn
 0.0.0.0 yun.360.cn
 0.0.0.0 api-b.yun.360.cn
 0.0.0.0 yunpan.360.cn
+0.0.0.0 yunqu.360.cn
 0.0.0.0 yuntan.360.cn
 0.0.0.0 yzt.360.cn
 0.0.0.0 zhikong.360.cn
@@ -1034,6 +1040,8 @@
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-san90.exacttarget.com
 0.0.0.0 akamai-san91.exacttarget.com
+0.0.0.0 akamai-san92.exacttarget.com
+0.0.0.0 akamai-san93.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
 0.0.0.0 ally-mc-dr.exacttarget.com
@@ -1407,6 +1415,8 @@
 0.0.0.0 click.s1.qa1.exacttarget.com
 0.0.0.0 image.s1.qa1.exacttarget.com
 0.0.0.0 imh.s1.qa1.exacttarget.com
+0.0.0.0 manage.s1.qa1.exacttarget.com
+0.0.0.0 manage-api.s1.qa1.exacttarget.com
 0.0.0.0 mc.s1.qa1.exacttarget.com
 0.0.0.0 members.s1.qa1.exacttarget.com
 0.0.0.0 origin-akamai-auth.s1.qa1.exacttarget.com
@@ -1428,6 +1438,7 @@
 0.0.0.0 editorsupport.s2.qa1.exacttarget.com
 0.0.0.0 image.s2.qa1.exacttarget.com
 0.0.0.0 imh.s2.qa1.exacttarget.com
+0.0.0.0 manage.s2.qa1.exacttarget.com
 0.0.0.0 mc.s2.qa1.exacttarget.com
 0.0.0.0 members.s2.qa1.exacttarget.com
 0.0.0.0 origin-akamai-auth.s2.qa1.exacttarget.com
@@ -1481,6 +1492,7 @@
 0.0.0.0 image.s1.qa3.exacttarget.com
 0.0.0.0 imh.s1.qa3.exacttarget.com
 0.0.0.0 manage.s1.qa3.exacttarget.com
+0.0.0.0 manage-api.s1.qa3.exacttarget.com
 0.0.0.0 mc.s1.qa3.exacttarget.com
 0.0.0.0 members.s1.qa3.exacttarget.com
 0.0.0.0 origin-auth.s1.qa3.exacttarget.com
@@ -1767,6 +1779,7 @@
 0.0.0.0 webservice.test.exacttarget.com
 0.0.0.0 ws.test.exacttarget.com
 0.0.0.0 ms.ws.test.exacttarget.com
+0.0.0.0 testmanager.exacttarget.com
 0.0.0.0 testtimeout.exacttarget.com
 0.0.0.0 testtimeout1.exacttarget.com
 0.0.0.0 testtimeoutqa.exacttarget.com
@@ -2107,6 +2120,7 @@
 0.0.0.0 www.downloads.gigya.com
 0.0.0.0 ds.gigya.com
 0.0.0.0 eipalloc-2b57b44e.gigya.com
+0.0.0.0 eipalloc-a496c1c0.gigya.com
 0.0.0.0 eu1.gigya.com
 0.0.0.0 accounts.eu1.gigya.com
 0.0.0.0 admin.eu1.gigya.com
@@ -3155,6 +3169,7 @@
 0.0.0.0 997-events.olark.com
 0.0.0.0 999-async.olark.com
 0.0.0.0 api.olark.com
+0.0.0.0 appi.olark.com
 0.0.0.0 as400.olark.com
 0.0.0.0 assets.olark.com
 0.0.0.0 images.async.olark.com
@@ -3405,6 +3420,7 @@
 0.0.0.0 13609688.polldaddy.com
 0.0.0.0 2831118.polldaddy.com
 0.0.0.0 391420.polldaddy.com
+0.0.0.0 8668049.polldaddy.com
 0.0.0.0 acp1.polldaddy.com
 0.0.0.0 adinstrumentsna.polldaddy.com
 0.0.0.0 agilewebsurvey2013.polldaddy.com
@@ -4006,10 +4022,13 @@
 0.0.0.0 private-video.stripcdn.com
 0.0.0.0 public-video.stripcdn.com
 0.0.0.0 s-eu4.stripcdn.com
+0.0.0.0 s-eu5.stripcdn.com
+0.0.0.0 s-eu7.stripcdn.com
 0.0.0.0 s-eu8.stripcdn.com
 0.0.0.0 s-us1.stripcdn.com
 0.0.0.0 s-us2.stripcdn.com
 0.0.0.0 s-us3.stripcdn.com
+0.0.0.0 s-us4.stripcdn.com
 0.0.0.0 s-us5.stripcdn.com
 0.0.0.0 s-us6.stripcdn.com
 0.0.0.0 s-us7.stripcdn.com
@@ -4137,6 +4156,7 @@
 0.0.0.0 check.vk.com
 0.0.0.0 clicks.vk.com
 0.0.0.0 comwww.vk.com
+0.0.0.0 connect.vk.com
 0.0.0.0 corp.vk.com
 0.0.0.0 autodiscover.corp.vk.com
 0.0.0.0 testers.corp.vk.com
@@ -4191,6 +4211,7 @@
 0.0.0.0 cs5179.vk.com
 0.0.0.0 cs5302.vk.com
 0.0.0.0 cs53835.vk.com
+0.0.0.0 cs5414.vk.com
 0.0.0.0 cs5475.vk.com
 0.0.0.0 cs5533.vk.com
 0.0.0.0 cs5903.vk.com
@@ -4258,6 +4279,7 @@
 0.0.0.0 cs631820.vk.com
 0.0.0.0 cs633117.vk.com
 0.0.0.0 cs633421.vk.com
+0.0.0.0 cs633528.vk.com
 0.0.0.0 cs636120.vk.com
 0.0.0.0 cs636420.vk.com
 0.0.0.0 cs636421.vk.com
@@ -4329,6 +4351,7 @@
 0.0.0.0 indianapolis.vk.com
 0.0.0.0 ivs458.vk.com
 0.0.0.0 khromovskikh.vk.com
+0.0.0.0 krasa.vk.com
 0.0.0.0 kseniia-ermakova.vk.com
 0.0.0.0 kulinovich.vk.com
 0.0.0.0 lg.vk.com
@@ -4387,6 +4410,7 @@
 0.0.0.0 search.vk.com
 0.0.0.0 security.vk.com
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
+0.0.0.0 srv0-128-240-87.vk.com
 0.0.0.0 srv10-34-213-95.vk.com
 0.0.0.0 srv124-22-213-95.vk.com
 0.0.0.0 srv130-129-240-87.vk.com
@@ -4434,6 +4458,7 @@
 0.0.0.0 ui.tau.vk.com
 0.0.0.0 team.vk.com
 0.0.0.0 autodiscover.team.vk.com
+0.0.0.0 th.vk.com
 0.0.0.0 tim.vk.com
 0.0.0.0 tlp.vk.com
 0.0.0.0 tost.vk.com
@@ -6509,6 +6534,7 @@
 0.0.0.0 events-hawkecommerce.gomoxie.solutions
 0.0.0.0 events-hawkgamerschoice.gomoxie.solutions
 0.0.0.0 events-hawkincentives.gomoxie.solutions
+0.0.0.0 events-hawkspafinder.gomoxie.solutions
 0.0.0.0 events-icat.gomoxie.solutions
 0.0.0.0 events-jjillecp.gomoxie.solutions
 0.0.0.0 events-lifetimefitness.gomoxie.solutions
@@ -6521,6 +6547,7 @@
 0.0.0.0 events-michaelkorsit.gomoxie.solutions
 0.0.0.0 events-michaelkorstest.gomoxie.solutions
 0.0.0.0 events-michaelkorsuk.gomoxie.solutions
+0.0.0.0 events-moneygram.gomoxie.solutions
 0.0.0.0 events-moxiecom.gomoxie.solutions
 0.0.0.0 events-norton.gomoxie.solutions
 0.0.0.0 events-nortontest.gomoxie.solutions
@@ -6765,6 +6792,7 @@
 0.0.0.0 dwolla.ada.support
 0.0.0.0 earnin.ada.support
 0.0.0.0 email.ada.support
+0.0.0.0 emma-sleep.ada.support
 0.0.0.0 ficanex.ada.support
 0.0.0.0 airflow.ops.ficanex.ada.support
 0.0.0.0 alertmanager.ops.ficanex.ada.support
@@ -6785,6 +6813,7 @@
 0.0.0.0 hushed.ada.support
 0.0.0.0 info.ada.support
 0.0.0.0 inventables.ada.support
+0.0.0.0 invisionapp.ada.support
 0.0.0.0 irasia.ada.support
 0.0.0.0 johnson.ada.support
 0.0.0.0 joist.ada.support
@@ -7206,9 +7235,12 @@
 0.0.0.0 vsa97.tawk.to
 0.0.0.0 vsa98.tawk.to
 0.0.0.0 vsa99.tawk.to
+0.0.0.0 vsb1.tawk.to
 0.0.0.0 vsb10.tawk.to
 0.0.0.0 vsb100.tawk.to
 0.0.0.0 vsb11.tawk.to
+0.0.0.0 vsb12.tawk.to
+0.0.0.0 vsb13.tawk.to
 0.0.0.0 vsb14.tawk.to
 0.0.0.0 vsb15.tawk.to
 0.0.0.0 vsb16.tawk.to
@@ -7237,6 +7269,7 @@
 0.0.0.0 vsb37.tawk.to
 0.0.0.0 vsb38.tawk.to
 0.0.0.0 vsb39.tawk.to
+0.0.0.0 vsb4.tawk.to
 0.0.0.0 vsb40.tawk.to
 0.0.0.0 vsb41.tawk.to
 0.0.0.0 vsb42.tawk.to
@@ -7275,10 +7308,12 @@
 0.0.0.0 vsb72.tawk.to
 0.0.0.0 vsb73.tawk.to
 0.0.0.0 vsb74.tawk.to
+0.0.0.0 vsb75.tawk.to
 0.0.0.0 vsb76.tawk.to
 0.0.0.0 vsb77.tawk.to
 0.0.0.0 vsb78.tawk.to
 0.0.0.0 vsb79.tawk.to
+0.0.0.0 vsb8.tawk.to
 0.0.0.0 vsb80.tawk.to
 0.0.0.0 vsb81.tawk.to
 0.0.0.0 vsb82.tawk.to
@@ -7294,6 +7329,8 @@
 0.0.0.0 vsb91.tawk.to
 0.0.0.0 vsb92.tawk.to
 0.0.0.0 vsb93.tawk.to
+0.0.0.0 vsb94.tawk.to
+0.0.0.0 vsb95.tawk.to
 0.0.0.0 vsb96.tawk.to
 0.0.0.0 vsb97.tawk.to
 0.0.0.0 vsb98.tawk.to
