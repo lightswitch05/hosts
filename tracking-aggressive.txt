@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive.txt
-# Released: 2020-04-24T13:15:31+00:00
-# Count: 167 domains
+# Released: 2020-05-05T14:15:53+00:00
+# Count: 168 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive.txt
@@ -54,6 +54,7 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 click.virt.s6.exacttarget.com
 0.0.0.0 click.virt.exacttarget.com
+0.0.0.0 services.fandom.com
 0.0.0.0 flexispy.com
 0.0.0.0 flipboard.com
 0.0.0.0 api.flipboard.com
