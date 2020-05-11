@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-05-05T14:15:53+00:00
-# Count: 7316 domains
+# Released: 2020-05-11T02:40:28+00:00
+# Count: 7342 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -26,6 +26,7 @@
 0.0.0.0 ppe.atwork.aad.cortana.ai
 0.0.0.0 prod.atwork.aad.cortana.ai
 0.0.0.0 test.atwork.aad.cortana.ai
+0.0.0.0 prod.runtime.aad.cortana.ai
 0.0.0.0 prod.atwork.substratepoc.aad.cortana.ai
 0.0.0.0 ppe.atwork.aadbing.cortana.ai
 0.0.0.0 prod.atwork.aadbing.cortana.ai
@@ -57,8 +58,10 @@
 0.0.0.0 mdsuploadercertnoncompliant.cortana.ai
 0.0.0.0 int.cch.msflow.cortana.ai
 0.0.0.0 prod.cch.msflow.cortana.ai
+0.0.0.0 prod.pii.cortana.ai
 0.0.0.0 prod.cortana.ai
 0.0.0.0 cortex.shs.prod.cortana.ai
+0.0.0.0 prod.cortanaorchestration.rps.cortana.ai
 0.0.0.0 runninglateskill.cortana.ai
 0.0.0.0 sdf.cortana.ai
 0.0.0.0 shs-dev.cortana.ai
@@ -117,6 +120,7 @@
 0.0.0.0 cloud.browser.360.cn
 0.0.0.0 interflow.browser.360.cn
 0.0.0.0 my.browser.360.cn
+0.0.0.0 bugcloud.360.cn
 0.0.0.0 ce.butian.360.cn
 0.0.0.0 campus.360.cn
 0.0.0.0 campusclub.360.cn
@@ -293,6 +297,7 @@
 0.0.0.0 mapp.360.cn
 0.0.0.0 mb.360.cn
 0.0.0.0 mgame.360.cn
+0.0.0.0 miguan.360.cn
 0.0.0.0 mingpian.360.cn
 0.0.0.0 mini.360.cn
 0.0.0.0 mobile.360.cn
@@ -383,6 +388,7 @@
 0.0.0.0 softdl2.360.cn
 0.0.0.0 softdl3.360.cn
 0.0.0.0 softdl4.360.cn
+0.0.0.0 speaker.360.cn
 0.0.0.0 speedtest.360.cn
 0.0.0.0 static.360.cn
 0.0.0.0 t.360.cn
@@ -686,6 +692,7 @@
 0.0.0.0 livingspaces.ugc.bazaarvoice.com
 0.0.0.0 lizearle.ugc.bazaarvoice.com
 0.0.0.0 lowes.ugc.bazaarvoice.com
+0.0.0.0 lubriderm.ugc.bazaarvoice.com
 0.0.0.0 lululemon.ugc.bazaarvoice.com
 0.0.0.0 lululemoneurope.ugc.bazaarvoice.com
 0.0.0.0 lululemonhongkong.ugc.bazaarvoice.com
@@ -1042,6 +1049,7 @@
 0.0.0.0 akamai-san91.exacttarget.com
 0.0.0.0 akamai-san92.exacttarget.com
 0.0.0.0 akamai-san93.exacttarget.com
+0.0.0.0 akamai-san94.exacttarget.com
 0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
 0.0.0.0 ally-mc-dr.exacttarget.com
@@ -2120,7 +2128,11 @@
 0.0.0.0 www.staging.downloads.gigya.com
 0.0.0.0 www.downloads.gigya.com
 0.0.0.0 ds.gigya.com
+0.0.0.0 eipalloc-0657b463.gigya.com
+0.0.0.0 eipalloc-22930d1f.gigya.com
+0.0.0.0 eipalloc-2357b446.gigya.com
 0.0.0.0 eipalloc-2b57b44e.gigya.com
+0.0.0.0 eipalloc-31d1c453.gigya.com
 0.0.0.0 eipalloc-a496c1c0.gigya.com
 0.0.0.0 eu1.gigya.com
 0.0.0.0 accounts.eu1.gigya.com
@@ -4124,6 +4136,7 @@
 0.0.0.0 12.vk.com
 0.0.0.0 167274089.vk.com
 0.0.0.0 1m.vk.com
+0.0.0.0 2.vk.com
 0.0.0.0 21321.vk.com
 0.0.0.0 22m.vk.com
 0.0.0.0 252faway.vk.com
@@ -4136,8 +4149,10 @@
 0.0.0.0 2fwww.vk.com
 0.0.0.0 31.vk.com
 0.0.0.0 3213.vk.com
+0.0.0.0 38.vk.com
 0.0.0.0 68post.vk.com
 0.0.0.0 7ww.vk.com
+0.0.0.0 adm.vk.com
 0.0.0.0 admin.vk.com
 0.0.0.0 ahm.vk.com
 0.0.0.0 api.vk.com
@@ -4177,6 +4192,7 @@
 0.0.0.0 cs10478.vk.com
 0.0.0.0 cs10599.vk.com
 0.0.0.0 cs10694.vk.com
+0.0.0.0 cs10831.vk.com
 0.0.0.0 cs10833.vk.com
 0.0.0.0 cs11073.vk.com
 0.0.0.0 cs11429.vk.com
@@ -4314,6 +4330,7 @@
 0.0.0.0 cs9681.vk.com
 0.0.0.0 cs9710.vk.com
 0.0.0.0 cs9813.vk.com
+0.0.0.0 cs9916.vk.com
 0.0.0.0 cs9960.vk.com
 0.0.0.0 cs9970.vk.com
 0.0.0.0 minneapolis.amidami8828.cs9993890.vk.com
@@ -4412,6 +4429,7 @@
 0.0.0.0 security.vk.com
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
 0.0.0.0 srv0-128-240-87.vk.com
+0.0.0.0 srv0-224-186-93.vk.com
 0.0.0.0 srv10-34-213-95.vk.com
 0.0.0.0 srv124-22-213-95.vk.com
 0.0.0.0 srv130-129-240-87.vk.com
@@ -4492,8 +4510,10 @@
 0.0.0.0 mail.winred.com
 0.0.0.0 portal.winred.com
 0.0.0.0 secure.winred.com
+0.0.0.0 store.winred.com
 0.0.0.0 support.winred.com
 0.0.0.0 tmagac.winred.com
+0.0.0.0 update.winred.com
 0.0.0.0 www.winred.com
 0.0.0.0 cdf-anon.xboxlive.com
 0.0.0.0 settings-ssl.xboxlive.com
@@ -4565,12 +4585,14 @@
 0.0.0.0 hw-images.spot.im
 0.0.0.0 images.spot.im
 0.0.0.0 import.spot.im
+0.0.0.0 info.spot.im
 0.0.0.0 init.spot.im
 0.0.0.0 launcher.spot.im
 0.0.0.0 mc-siderail.spot.im
 0.0.0.0 me.spot.im
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 mmaweekly-community.spot.im
+0.0.0.0 mobile-gw.spot.im
 0.0.0.0 moderation.spot.im
 0.0.0.0 monetization.spot.im
 0.0.0.0 monetizationapi.spot.im
@@ -6785,6 +6807,7 @@
 0.0.0.0 cricket-sales.ada.support
 0.0.0.0 crunchbase.ada.support
 0.0.0.0 digicel.ada.support
+0.0.0.0 ding.ada.support
 0.0.0.0 distributel.ada.support
 0.0.0.0 distrokid.ada.support
 0.0.0.0 doctorsim.ada.support
@@ -6803,9 +6826,11 @@
 0.0.0.0 kuberos.ops.ficanex.ada.support
 0.0.0.0 oauth2.ops.ficanex.ada.support
 0.0.0.0 prometheus.ops.ficanex.ada.support
+0.0.0.0 answer-utilities.svc.ficanex.ada.support
 0.0.0.0 ficanex-proxy.svc.ficanex.ada.support
 0.0.0.0 firstrade.ada.support
 0.0.0.0 firstrade-prod.ada.support
+0.0.0.0 fr.ada.support
 0.0.0.0 godaddy.ada.support
 0.0.0.0 grubhub.ada.support
 0.0.0.0 haihome.ada.support
@@ -6842,6 +6867,7 @@
 0.0.0.0 moneysupermarket.ada.support
 0.0.0.0 mpower.ada.support
 0.0.0.0 muse.ada.support
+0.0.0.0 myzone-bot.ada.support
 0.0.0.0 nordvpn.ada.support
 0.0.0.0 null.ada.support
 0.0.0.0 o.ada.support

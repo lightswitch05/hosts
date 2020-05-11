@@ -1,8 +1,8 @@
 # Collection of Analytics, Ads, and tracking hosts to block.
 #
 # Title: Lightswitch05's amp-hosts-extended.txt
-# Released: 2020-05-04T02:06:38+00:00
-# Count: 3500 domains
+# Released: 2020-05-11T02:06:37+00:00
+# Count: 3501 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -146,6 +146,7 @@
 0.0.0.0 amp.akamaized.net
 0.0.0.0 d-22344040871681387403.ampproject.net
 0.0.0.0 ampproject.org
+0.0.0.0 1www.ampproject.org
 0.0.0.0 2014cdn.ampproject.org
 0.0.0.0 10.72.180.60cdn.ampproject.org
 0.0.0.0 cdn.ampproject.org
