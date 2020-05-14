@@ -1,8 +1,6 @@
-# Collection of Analytics, Ads, and tracking hosts to block.
-#
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-05-13T01:05:50+00:00
-# Count: 4692 domains
+# Released: 2020-05-14T12:54:11+00:00
+# Count: 4697 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1146,6 +1144,11 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 facebookvirtualassistant.com
+0.0.0.0 dev.facebookvirtualassistant.com
+0.0.0.0 prod.facebookvirtualassistant.com
+0.0.0.0 staging.facebookvirtualassistant.com
+0.0.0.0 test.facebookvirtualassistant.com
 0.0.0.0 fb.com
 0.0.0.0 360.fb.com
 0.0.0.0 360video.fb.com
