@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-05-14T12:54:08+00:00
-# Count: 7342 domains
+# Released: 2020-05-16T02:54:19+00:00
+# Count: 7346 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -56,6 +56,7 @@
 0.0.0.0 mdsuploadercertnoncompliant.cortana.ai
 0.0.0.0 int.cch.msflow.cortana.ai
 0.0.0.0 prod.cch.msflow.cortana.ai
+0.0.0.0 msit.cortana.ai
 0.0.0.0 prod.pii.cortana.ai
 0.0.0.0 prod.cortana.ai
 0.0.0.0 cortex.shs.prod.cortana.ai
@@ -377,6 +378,7 @@
 0.0.0.0 so.360.cn
 0.0.0.0 info.so.360.cn
 0.0.0.0 sug.so.360.cn
+0.0.0.0 socaas.360.cn
 0.0.0.0 soft.360.cn
 0.0.0.0 cdn.soft.360.cn
 0.0.0.0 api.easydoc.soft.360.cn
@@ -401,6 +403,7 @@
 0.0.0.0 api.tianji.360.cn
 0.0.0.0 mdm.tianji.360.cn
 0.0.0.0 i.mdm.tianji.360.cn
+0.0.0.0 tmesh.360.cn
 0.0.0.0 tq.360.cn
 0.0.0.0 training.360.cn
 0.0.0.0 tv.360.cn
@@ -2796,6 +2799,7 @@
 0.0.0.0 chat56f.livechatinc.com
 0.0.0.0 community-staging.livechatinc.com
 0.0.0.0 connect.livechatinc.com
+0.0.0.0 connect-eu.livechatinc.com
 0.0.0.0 crm.livechatinc.com
 0.0.0.0 dashboard.livechatinc.com
 0.0.0.0 dev-platform.livechatinc.com
