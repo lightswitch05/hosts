@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-05-16T02:53:10+00:00
-# Count: 4904 domains
+# Released: 2020-05-16T03:29:24+00:00
+# Count: 4908 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -2847,6 +2847,10 @@
 0.0.0.0 a.ns.t.facebook.net
 0.0.0.0 b.ns.t.facebook.net
 0.0.0.0 cloud.x2p.facebook.net
+0.0.0.0 giphy.map.fastly.net
+0.0.0.0 limited-prod.giphy.map.fastly.net
+0.0.0.0 limited-sni-prod.giphy.map.fastly.net
+0.0.0.0 prod.giphy.map.fastly.net
 0.0.0.0 fbcdn.net
 0.0.0.0 ak.fbcdn.net
 0.0.0.0 creative.ak.fbcdn.net
