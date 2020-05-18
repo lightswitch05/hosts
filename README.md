@@ -18,36 +18,3 @@ Tracking Aggressive | A very aggressive block list for tracking, geo-targeting, 
 AMP Hosts | [Google's Accelerated Mobile Pages (AMP)](https://www.theregister.co.uk/2017/05/19/open_source_insider_google_amp_bad_bad_bad/) are taking over the web. Block AMP pages with this list. Since I use [DuckDuckGo](https://duckduckgo.com/), this list is pretty sparse and suggestions are welcome! | [link](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
 Facebook | A hosts file to block all facebook and facebook related services, including Messenger, Instagram, and WhatsApp. This is a pretty new list and I recommend using it with [anudeepND's](https://github.com/anudeepND/blacklist) [Facebook list](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) as well to ensure full coverage. | [link](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt)
 
-# Adding a domain
-
-## Pre-requisites
-
-* Python 3.6 or later
-* pip3
-
-## Setup
-
-```bash
-$ make setup
-```
-
-## Test
-
-```bash
-$ make test
-```
-
-## Usage
-```bash
-$ python3 update_hosts_file.py --help
-```
-
-## Examples
-
-```bash
-$ python3 update_hosts_file.py -d amazon-adsystem.com doubleclick.net
-```
-
-```bash
-$ python3 update_hosts_file.py -update
-```
