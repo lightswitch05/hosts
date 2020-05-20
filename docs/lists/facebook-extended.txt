@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-05-20T13:32:52+00:00
-# Count: 4908 domains
+# Released: 2020-05-20T17:16:14+00:00
+# Count: 4953 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -398,6 +398,7 @@
 0.0.0.0 cromwelledge-bgp-01-iad3.facebook.com
 0.0.0.0 cromwelledge-bgp-01-jnb1.facebook.com
 0.0.0.0 cs-cz.facebook.com
+0.0.0.0 csod.facebook.com
 0.0.0.0 cstools.facebook.com
 0.0.0.0 ctscan.facebook.com
 0.0.0.0 d.facebook.com
@@ -438,6 +439,7 @@
 0.0.0.0 edge-mqtt-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-bru2.facebook.com
+0.0.0.0 edge-mqtt-shv-01-cdt1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-fco1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-gru1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-hkg4.facebook.com
@@ -498,6 +500,7 @@
 0.0.0.0 edge-stun-shv-02-mia3.facebook.com
 0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-arn2.facebook.com
+0.0.0.0 edge-turnservice-shv-01-bos3.facebook.com
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-bom1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-cgk1.facebook.com
@@ -569,6 +572,7 @@
 0.0.0.0 devvm1958.ftw3.facebook.com
 0.0.0.0 fy-nl.facebook.com
 0.0.0.0 gateway.facebook.com
+0.0.0.0 govtrequests.facebook.com
 0.0.0.0 grab.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph-portal.facebook.com
@@ -597,6 +601,7 @@
 0.0.0.0 m.intern.facebook.com
 0.0.0.0 s-static.intern.facebook.com
 0.0.0.0 secure.intern.facebook.com
+0.0.0.0 intern-managed-client-chromebook-shv-01-bog1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-qro1.facebook.com
 0.0.0.0 interninyour.facebook.com
 0.0.0.0 secure.interninyour.facebook.com
@@ -608,6 +613,7 @@
 0.0.0.0 inyour.facebook.com
 0.0.0.0 secure.inyour.facebook.com
 0.0.0.0 inyourrc.facebook.com
+0.0.0.0 iorg-fba-edge-shv-01-gru1.facebook.com
 0.0.0.0 iorg-fba-edge-shv-01-icn1.facebook.com
 0.0.0.0 iphone.facebook.com
 0.0.0.0 is-is.facebook.com
@@ -1063,6 +1069,7 @@
 0.0.0.0 time.facebook.com
 0.0.0.0 time1.facebook.com
 0.0.0.0 time3.facebook.com
+0.0.0.0 time5.facebook.com
 0.0.0.0 tl-ph.facebook.com
 0.0.0.0 tls13.facebook.com
 0.0.0.0 tog.facebook.com
@@ -1127,6 +1134,7 @@
 0.0.0.0 work.facebook.com
 0.0.0.0 work-60984499.facebook.com
 0.0.0.0 work-99275836.facebook.com
+0.0.0.0 work-m.facebook.com
 0.0.0.0 workplace.facebook.com
 0.0.0.0 workplacebcp.facebook.com
 0.0.0.0 ww.facebook.com
@@ -1152,6 +1160,43 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 facebookbrand.com
+0.0.0.0 ar.facebookbrand.com
+0.0.0.0 da-dk.facebookbrand.com
+0.0.0.0 de.facebookbrand.com
+0.0.0.0 email.facebookbrand.com
+0.0.0.0 o1.email.facebookbrand.com
+0.0.0.0 en.facebookbrand.com
+0.0.0.0 es.facebookbrand.com
+0.0.0.0 es-la.facebookbrand.com
+0.0.0.0 fr.facebookbrand.com
+0.0.0.0 it.facebookbrand.com
+0.0.0.0 ja.facebookbrand.com
+0.0.0.0 ko-kr.facebookbrand.com
+0.0.0.0 nl.facebookbrand.com
+0.0.0.0 pl.facebookbrand.com
+0.0.0.0 pt-br.facebookbrand.com
+0.0.0.0 pt-pt.facebookbrand.com
+0.0.0.0 ru.facebookbrand.com
+0.0.0.0 sv-se.facebookbrand.com
+0.0.0.0 tr.facebookbrand.com
+0.0.0.0 us.facebookbrand.com
+0.0.0.0 vi-vn.facebookbrand.com
+0.0.0.0 www.facebookbrand.com
+0.0.0.0 zh-hans.facebookbrand.com
+0.0.0.0 zh-hant.facebookbrand.com
+0.0.0.0 facebookdesktop.com
+0.0.0.0 www.facebookdesktop.com
+0.0.0.0 facebookmail.com
+0.0.0.0 em.facebookmail.com
+0.0.0.0 omp.em.facebookmail.com
+0.0.0.0 omptrans.em.facebookmail.com
+0.0.0.0 links.event.facebookmail.com
+0.0.0.0 go.facebookmail.com
+0.0.0.0 pages.facebookmail.com
+0.0.0.0 research.facebookmail.com
+0.0.0.0 survey.facebookmail.com
+0.0.0.0 www.facebookmail.com
 0.0.0.0 facebookvirtualassistant.com
 0.0.0.0 dev.facebookvirtualassistant.com
 0.0.0.0 prod.facebookvirtualassistant.com
