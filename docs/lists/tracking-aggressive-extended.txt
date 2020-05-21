@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-05-20T23:21:48+00:00
-# Count: 7802 domains
+# Released: 2020-05-21T14:07:44+00:00
+# Count: 7824 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -4648,6 +4648,14 @@
 0.0.0.0 lp.vk.com
 0.0.0.0 m.vk.com
 0.0.0.0 www.m.vk.com
+0.0.0.0 imap.www.m.vk.com
+0.0.0.0 imap4.www.m.vk.com
+0.0.0.0 mail.www.m.vk.com
+0.0.0.0 mx.www.m.vk.com
+0.0.0.0 pop3.www.m.vk.com
+0.0.0.0 smtp.www.m.vk.com
+0.0.0.0 mx.smtp.www.m.vk.com
+0.0.0.0 www.www.m.vk.com
 0.0.0.0 mail.vk.com
 0.0.0.0 ftp.mail.vk.com
 0.0.0.0 ftp.ftp.mail.vk.com
@@ -7191,6 +7199,7 @@
 0.0.0.0 att.ada.support
 0.0.0.0 cricket.att.ada.support
 0.0.0.0 cricket-sales.att.ada.support
+0.0.0.0 cricket-sales-support.att.ada.support
 0.0.0.0 ops.att.ada.support
 0.0.0.0 airflow.ops.att.ada.support
 0.0.0.0 alertmanager.ops.att.ada.support
@@ -7204,6 +7213,8 @@
 0.0.0.0 oauth2.ops.att.ada.support
 0.0.0.0 prometheus.ops.att.ada.support
 0.0.0.0 tassadar.ops.att.ada.support
+0.0.0.0 rollout.att.ada.support
+0.0.0.0 svc.att.ada.support
 0.0.0.0 answer-utilities.svc.att.ada.support
 0.0.0.0 enricher.svc.att.ada.support
 0.0.0.0 sdf-proxy.svc.att.ada.support
@@ -7236,14 +7247,23 @@
 0.0.0.0 prometheus.ops.ca.ada.support
 0.0.0.0 tassadar.ops.ca.ada.support
 0.0.0.0 publicmobile.ca.ada.support
+0.0.0.0 rollout.ca.ada.support
 0.0.0.0 svc.ca.ada.support
 0.0.0.0 answer-utilities.svc.ca.ada.support
 0.0.0.0 enricher.svc.ca.ada.support
 0.0.0.0 sdf-proxy.svc.ca.ada.support
 0.0.0.0 ultra-proxy.svc.ca.ada.support
+0.0.0.0 telus.ca.ada.support
 0.0.0.0 telus-epp.ca.ada.support
+0.0.0.0 telus-ffh.ca.ada.support
+0.0.0.0 telus-ffh-tss.ca.ada.support
+0.0.0.0 telus-fifa.ca.ada.support
+0.0.0.0 telus-fifa-tss.ca.ada.support
+0.0.0.0 telus-hr.ca.ada.support
 0.0.0.0 telus-mob-tss.ca.ada.support
 0.0.0.0 telus-mobility.ca.ada.support
+0.0.0.0 telus-sales.ca.ada.support
+0.0.0.0 telus-sbs-wls-helpdesk.ca.ada.support
 0.0.0.0 ccrb.ada.support
 0.0.0.0 cdbaby.ada.support
 0.0.0.0 cheapoair.ada.support
@@ -7262,6 +7282,7 @@
 0.0.0.0 cricket.ada.support
 0.0.0.0 cricket-sales.ada.support
 0.0.0.0 crunchbase.ada.support
+0.0.0.0 cyberghost.ada.support
 0.0.0.0 digicel.ada.support
 0.0.0.0 ding.ada.support
 0.0.0.0 distributel.ada.support
@@ -7344,6 +7365,7 @@
 0.0.0.0 tassadar.ops.ada.support
 0.0.0.0 vpn.ops.ada.support
 0.0.0.0 previews.ada.support
+0.0.0.0 pricesmart.ada.support
 0.0.0.0 primo.ada.support
 0.0.0.0 publicmobile.ada.support
 0.0.0.0 publicmobile-fr.ada.support
