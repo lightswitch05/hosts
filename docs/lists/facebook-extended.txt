@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-05-24T19:50:46+00:00
-# Count: 5810 domains
+# Released: 2020-05-24T23:52:02+00:00
+# Count: 5820 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -343,6 +343,7 @@
 0.0.0.0 m.beta.facebook.com
 0.0.0.0 fb.m.beta.facebook.com
 0.0.0.0 m.m.beta.facebook.com
+0.0.0.0 www.m.beta.facebook.com
 0.0.0.0 mbasic.beta.facebook.com
 0.0.0.0 mk-mk.beta.facebook.com
 0.0.0.0 ml-in.beta.facebook.com
@@ -357,6 +358,8 @@
 0.0.0.0 s-static.beta.facebook.com
 0.0.0.0 www.sd.beta.facebook.com
 0.0.0.0 secure.beta.facebook.com
+0.0.0.0 3dmodel.secure.beta.facebook.com
+0.0.0.0 asi4teytg.secure.beta.facebook.com
 0.0.0.0 www.sh.beta.facebook.com
 0.0.0.0 www.www.sh.beta.facebook.com
 0.0.0.0 staticxx.beta.facebook.com
@@ -741,6 +744,7 @@
 0.0.0.0 edge-atlas-shv-01-eze1.facebook.com
 0.0.0.0 edge-atlas-shv-01-frx5.facebook.com
 0.0.0.0 edge-atlas-shv-01-jnb1.facebook.com
+0.0.0.0 edge-atlas-shv-01-maa2.facebook.com
 0.0.0.0 edge-atlas-shv-01-nrt1.facebook.com
 0.0.0.0 edge-atlas-shv-01-qro1.facebook.com
 0.0.0.0 edge-atlas-shv-01-sof1.facebook.com
@@ -766,6 +770,7 @@
 0.0.0.0 edge-mqtt-shv-01-icn1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mxp1.facebook.com
+0.0.0.0 edge-mqtt-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-tpe1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
@@ -810,6 +815,7 @@
 0.0.0.0 edge-star-shv-01-gmp1.facebook.com
 0.0.0.0 edge-star-shv-01-hkg4.facebook.com
 0.0.0.0 edge-star-shv-01-hkt1.facebook.com
+0.0.0.0 edge-star-shv-01-lax3.facebook.com
 0.0.0.0 edge-star-shv-01-lht6.facebook.com
 0.0.0.0 edge-star-shv-01-lim1.facebook.com
 0.0.0.0 edge-star-shv-02-mrs2.facebook.com
@@ -821,7 +827,9 @@
 0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-arn2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-bos3.facebook.com
+0.0.0.0 edge-turnservice-shv-01-del1.facebook.com
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
+0.0.0.0 edge-turnservice-shv-02-bom1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-bom1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-cgk1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-dus1.facebook.com
@@ -3371,6 +3379,7 @@
 0.0.0.0 www.fr-ca.messenger.com
 0.0.0.0 fr-fr.messenger.com
 0.0.0.0 freebasic.messenger.com
+0.0.0.0 ftp.messenger.com
 0.0.0.0 fy-nl.messenger.com
 0.0.0.0 garena.messenger.com
 0.0.0.0 www.garena.messenger.com
@@ -3702,6 +3711,7 @@
 0.0.0.0 www.beta.facebook.net
 0.0.0.0 bunnylol.facebook.net
 0.0.0.0 c2p.facebook.net
+0.0.0.0 test.c2p.facebook.net
 0.0.0.0 cdn.facebook.net
 0.0.0.0 connect.facebook.net
 0.0.0.0 connnect.facebook.net
