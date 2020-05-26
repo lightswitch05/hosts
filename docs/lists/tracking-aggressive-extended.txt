@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-05-25T17:53:14+00:00
-# Count: 6105 domains
+# Released: 2020-05-26T04:55:40+00:00
+# Count: 6162 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -4762,11 +4762,66 @@
 0.0.0.0 meta.vk.com
 0.0.0.0 mv4.vk.com
 0.0.0.0 mx.vk.com
+0.0.0.0 ftp.mx.vk.com
+0.0.0.0 ftp.ftp.mx.vk.com
+0.0.0.0 mail.ftp.mx.vk.com
+0.0.0.0 ftp.mail.ftp.mx.vk.com
+0.0.0.0 www.ftp.mx.vk.com
+0.0.0.0 imap.mx.vk.com
+0.0.0.0 ftp.imap.mx.vk.com
+0.0.0.0 imap.imap.mx.vk.com
+0.0.0.0 imap.imap.imap.mx.vk.com
+0.0.0.0 mail.imap.imap.mx.vk.com
+0.0.0.0 imap.mail.imap.imap.mx.vk.com
+0.0.0.0 mail.imap.mail.imap.imap.mx.vk.com
+0.0.0.0 imap4.imap.mx.vk.com
+0.0.0.0 pop3.imap4.imap.mx.vk.com
+0.0.0.0 mail.imap.mx.vk.com
+0.0.0.0 mx.imap.mx.vk.com
+0.0.0.0 pop.imap.mx.vk.com
+0.0.0.0 pop3.imap.mx.vk.com
+0.0.0.0 smtp.imap.mx.vk.com
+0.0.0.0 imap4.mx.vk.com
+0.0.0.0 mail.mx.vk.com
+0.0.0.0 ftp.mail.mx.vk.com
+0.0.0.0 imap4.mail.mx.vk.com
+0.0.0.0 mail.mail.mx.vk.com
+0.0.0.0 mx.mail.mx.vk.com
+0.0.0.0 pop.mail.mx.vk.com
+0.0.0.0 pop3.mail.mx.vk.com
+0.0.0.0 smtp.mail.mx.vk.com
+0.0.0.0 mx.mx.vk.com
+0.0.0.0 ftp.mx.mx.vk.com
+0.0.0.0 imap.mx.mx.vk.com
+0.0.0.0 imap4.mx.mx.vk.com
+0.0.0.0 mail.mx.mx.vk.com
+0.0.0.0 pop3.mx.mx.vk.com
+0.0.0.0 smtp.mx.mx.vk.com
+0.0.0.0 pop.mx.vk.com
+0.0.0.0 ftp.pop.mx.vk.com
+0.0.0.0 mail.ftp.pop.mx.vk.com
+0.0.0.0 mx.ftp.pop.mx.vk.com
+0.0.0.0 smtp.ftp.pop.mx.vk.com
+0.0.0.0 imap4.pop.mx.vk.com
+0.0.0.0 mail.pop.mx.vk.com
+0.0.0.0 pop.pop.mx.vk.com
+0.0.0.0 pop3.pop.mx.vk.com
+0.0.0.0 smtp.pop.mx.vk.com
+0.0.0.0 pop3.mx.vk.com
+0.0.0.0 smtp.mx.vk.com
+0.0.0.0 ftp.smtp.mx.vk.com
+0.0.0.0 imap4.smtp.mx.vk.com
+0.0.0.0 mail.smtp.mx.vk.com
+0.0.0.0 smtp.smtp.mx.vk.com
+0.0.0.0 www.mx.vk.com
+0.0.0.0 mail.www.mx.vk.com
+0.0.0.0 pop3.www.mx.vk.com
 0.0.0.0 new.vk.com
 0.0.0.0 nfdhsz.vk.com
 0.0.0.0 nm.vk.com
 0.0.0.0 noreply.vk.com
 0.0.0.0 notify.vk.com
+0.0.0.0 admin.notify.vk.com
 0.0.0.0 ns1.vk.com
 0.0.0.0 ns2.vk.com
 0.0.0.0 ns3.vk.com
@@ -5552,6 +5607,7 @@
 0.0.0.0 coffeemeetsbagel.ada.support
 0.0.0.0 coinbase.ada.support
 0.0.0.0 coinbase-help.ada.support
+0.0.0.0 coinmama.ada.support
 0.0.0.0 coinsquare.ada.support
 0.0.0.0 community.ada.support
 0.0.0.0 www.community.ada.support
@@ -5589,6 +5645,7 @@
 0.0.0.0 firstrade-prod.ada.support
 0.0.0.0 fr.ada.support
 0.0.0.0 godaddy.ada.support
+0.0.0.0 gridpane.ada.support
 0.0.0.0 grubhub.ada.support
 0.0.0.0 haihome.ada.support
 0.0.0.0 hello.ada.support
