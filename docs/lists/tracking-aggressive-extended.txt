@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-05-28T10:54:30+00:00
-# Count: 6028 domains
+# Released: 2020-05-28T18:25:03+00:00
+# Count: 5959 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -37,7 +37,6 @@
 0.0.0.0 substrate.tdf.cortanaatworkservice.cortana.ai
 0.0.0.0 cortanacoreruntimemds.cortana.ai
 0.0.0.0 prod.cch.dds.cortana.ai
-0.0.0.0 macert.geneva.keyvault.debug.cortana.ai
 0.0.0.0 warmpath.geneva.keyvault.debug.cortana.ai
 0.0.0.0 corbuildagents.geneva.keyvault.dev.cortana.ai
 0.0.0.0 cortex.shs.dev.cortana.ai
@@ -45,7 +44,6 @@
 0.0.0.0 fredsmith.cortana.ai
 0.0.0.0 int.gdprexport.cortana.ai
 0.0.0.0 prod.gdprexport.cortana.ai
-0.0.0.0 staging.gdprexport.cortana.ai
 0.0.0.0 prod.cch.ifs.cortana.ai
 0.0.0.0 internal.cortana.ai
 0.0.0.0 mdsuploadercert.cortana.ai
@@ -65,7 +63,6 @@
 0.0.0.0 eastus1.staging.cortana.ai
 0.0.0.0 prod.sti.cortana.ai
 0.0.0.0 test.sti.cortana.ai
-0.0.0.0 devbox.tfd.cortana.ai
 0.0.0.0 substrate.tfd.cortana.ai
 0.0.0.0 www.cortana.ai
 0.0.0.0 360.cn
@@ -260,7 +257,6 @@
 0.0.0.0 fin.lianmeng.360.cn
 0.0.0.0 oso.lianmeng.360.cn
 0.0.0.0 s.lianmeng.360.cn
-0.0.0.0 shouji.lianmeng.360.cn
 0.0.0.0 sj.lianmeng.360.cn
 0.0.0.0 so.lianmeng.360.cn
 0.0.0.0 api.so.lianmeng.360.cn
@@ -335,7 +331,6 @@
 0.0.0.0 r.m.s.360.cn
 0.0.0.0 p.s.360.cn
 0.0.0.0 sdk.s.360.cn
-0.0.0.0 s3.360.cn
 0.0.0.0 safe.360.cn
 0.0.0.0 sd.360.cn
 0.0.0.0 sdp.360.cn
@@ -431,7 +426,6 @@
 0.0.0.0 wot.360.cn
 0.0.0.0 wows.360.cn
 0.0.0.0 s.conf.wsm.360.cn
-0.0.0.0 poll.tools.wsm.360.cn
 0.0.0.0 new.poll.tools.wsm.360.cn
 0.0.0.0 www.360.cn
 0.0.0.0 u.xianpei.360.cn
@@ -574,7 +568,6 @@
 0.0.0.0 dat.ugc.bazaarvoice.com
 0.0.0.0 davidsbridal.ugc.bazaarvoice.com
 0.0.0.0 debenhams.ugc.bazaarvoice.com
-0.0.0.0 dickssportinggoods.ugc.bazaarvoice.com
 0.0.0.0 digitalfederalcreditunion.ugc.bazaarvoice.com
 0.0.0.0 disneystore.ugc.bazaarvoice.com
 0.0.0.0 display.ugc.bazaarvoice.com
@@ -588,7 +581,6 @@
 0.0.0.0 dutchboy.ugc.bazaarvoice.com
 0.0.0.0 dyson.ugc.bazaarvoice.com
 0.0.0.0 eastbay.ugc.bazaarvoice.com
-0.0.0.0 eileenfisher.ugc.bazaarvoice.com
 0.0.0.0 elcorteingles.ugc.bazaarvoice.com
 0.0.0.0 electrolux.ugc.bazaarvoice.com
 0.0.0.0 emedco.ugc.bazaarvoice.com
@@ -677,7 +669,6 @@
 0.0.0.0 lizearle.ugc.bazaarvoice.com
 0.0.0.0 lowes.ugc.bazaarvoice.com
 0.0.0.0 lubriderm.ugc.bazaarvoice.com
-0.0.0.0 lululemon.ugc.bazaarvoice.com
 0.0.0.0 lululemoneurope.ugc.bazaarvoice.com
 0.0.0.0 lululemonhongkong.ugc.bazaarvoice.com
 0.0.0.0 lumens.ugc.bazaarvoice.com
@@ -891,7 +882,6 @@
 0.0.0.0 www18.civicscience.com
 0.0.0.0 www2.civicscience.com
 0.0.0.0 comm100.com
-0.0.0.0 1win88.comm100.com
 0.0.0.0 apirouting.comm100.com
 0.0.0.0 appmax1.comm100.com
 0.0.0.0 appmax1service.comm100.com
@@ -940,7 +930,6 @@
 0.0.0.0 ns2.comm100.com
 0.0.0.0 oia.comm100.com
 0.0.0.0 ontariotravel.comm100.com
-0.0.0.0 partnerapidemo.comm100.com
 0.0.0.0 pciform.comm100.com
 0.0.0.0 platform.comm100.com
 0.0.0.0 jackhenry.platform.comm100.com
@@ -971,23 +960,18 @@
 0.0.0.0 akamai-san14.exacttarget.com
 0.0.0.0 akamai-san15.exacttarget.com
 0.0.0.0 akamai-san16.exacttarget.com
-0.0.0.0 akamai-san18.exacttarget.com
 0.0.0.0 akamai-san19.exacttarget.com
 0.0.0.0 akamai-san20.exacttarget.com
 0.0.0.0 akamai-san21.exacttarget.com
 0.0.0.0 akamai-san23.exacttarget.com
 0.0.0.0 akamai-san24.exacttarget.com
-0.0.0.0 akamai-san25.exacttarget.com
 0.0.0.0 akamai-san27.exacttarget.com
-0.0.0.0 akamai-san30.exacttarget.com
-0.0.0.0 akamai-san31.exacttarget.com
 0.0.0.0 akamai-san32.exacttarget.com
 0.0.0.0 akamai-san33.exacttarget.com
 0.0.0.0 akamai-san34.exacttarget.com
 0.0.0.0 akamai-san35.exacttarget.com
 0.0.0.0 akamai-san36.exacttarget.com
 0.0.0.0 akamai-san37.exacttarget.com
-0.0.0.0 akamai-san38.exacttarget.com
 0.0.0.0 akamai-san39.exacttarget.com
 0.0.0.0 akamai-san4.exacttarget.com
 0.0.0.0 akamai-san40.exacttarget.com
@@ -1011,7 +995,6 @@
 0.0.0.0 akamai-san65.exacttarget.com
 0.0.0.0 akamai-san66.exacttarget.com
 0.0.0.0 akamai-san67.exacttarget.com
-0.0.0.0 akamai-san68.exacttarget.com
 0.0.0.0 akamai-san69.exacttarget.com
 0.0.0.0 akamai-san7.exacttarget.com
 0.0.0.0 akamai-san70.exacttarget.com
@@ -1025,17 +1008,13 @@
 0.0.0.0 akamai-san78.exacttarget.com
 0.0.0.0 akamai-san79.exacttarget.com
 0.0.0.0 akamai-san81.exacttarget.com
-0.0.0.0 akamai-san83.exacttarget.com
-0.0.0.0 akamai-san84.exacttarget.com
 0.0.0.0 akamai-san85.exacttarget.com
 0.0.0.0 akamai-san86.exacttarget.com
 0.0.0.0 akamai-san89.exacttarget.com
 0.0.0.0 akamai-san9.exacttarget.com
 0.0.0.0 akamai-san90.exacttarget.com
-0.0.0.0 akamai-san91.exacttarget.com
 0.0.0.0 akamai-san93.exacttarget.com
 0.0.0.0 akamai-san94.exacttarget.com
-0.0.0.0 akamai-sannestle.exacttarget.com
 0.0.0.0 ally-mc.exacttarget.com
 0.0.0.0 ally-mc-dr.exacttarget.com
 0.0.0.0 ally-members.exacttarget.com
@@ -1057,7 +1036,6 @@
 0.0.0.0 artifactory-qa-p03.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p03.exacttarget.com
 0.0.0.0 sfmc-docker-qa-local.artifactory-qa-p03.exacttarget.com
-0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p01.exacttarget.com
 0.0.0.0 artifactory-xt-p02.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p02.exacttarget.com
 0.0.0.0 artifactory-xt-p03.exacttarget.com
@@ -1431,7 +1409,6 @@
 0.0.0.0 pages.exacttarget.com
 0.0.0.0 poc.exacttarget.com
 0.0.0.0 api.poc.exacttarget.com
-0.0.0.0 auth.poc.exacttarget.com
 0.0.0.0 click.poc.exacttarget.com
 0.0.0.0 image.poc.exacttarget.com
 0.0.0.0 imh.poc.exacttarget.com
@@ -1532,7 +1509,6 @@
 0.0.0.0 scpweb.s3.qa2.exacttarget.com
 0.0.0.0 qa3.exacttarget.com
 0.0.0.0 auth.qa3.exacttarget.com
-0.0.0.0 prem.qa3.exacttarget.com
 0.0.0.0 s1.qa3.exacttarget.com
 0.0.0.0 app.s1.qa3.exacttarget.com
 0.0.0.0 auth.s1.qa3.exacttarget.com
@@ -1954,7 +1930,6 @@
 0.0.0.0 ecommerce.flexispy.com
 0.0.0.0 express.flexispy.com
 0.0.0.0 fleximinx.flexispy.com
-0.0.0.0 fmigtest1-admin.flexispy.com
 0.0.0.0 fmigtest1-api.flexispy.com
 0.0.0.0 fmigtest1-ecom.flexispy.com
 0.0.0.0 fmigtest1-ecomapi.flexispy.com
@@ -2000,7 +1975,6 @@
 0.0.0.0 test-client.flexispy.com
 0.0.0.0 test-portal.flexispy.com
 0.0.0.0 url1929.flexispy.com
-0.0.0.0 utilities.flexispy.com
 0.0.0.0 www.flexispy.com
 0.0.0.0 flipboard.com
 0.0.0.0 about.flipboard.com
@@ -2095,7 +2069,6 @@
 0.0.0.0 service.flipboard.com
 0.0.0.0 ldap.service.flipboard.com
 0.0.0.0 ldap-test.service.flipboard.com
-0.0.0.0 ldap01-test.service.flipboard.com
 0.0.0.0 share.flipboard.com
 0.0.0.0 sstream.flipboard.com
 0.0.0.0 sstreamchina.flipboard.com
@@ -2133,7 +2106,6 @@
 0.0.0.0 www.getbeamer.com
 0.0.0.0 gigya.com
 0.0.0.0 academy.gigya.com
-0.0.0.0 www.academy.gigya.com
 0.0.0.0 accounts.gigya.com
 0.0.0.0 adfs.gigya.com
 0.0.0.0 www.adfs.gigya.com
@@ -2346,7 +2318,6 @@
 0.0.0.0 ids.us1.gigya.com
 0.0.0.0 lb.us1.gigya.com
 0.0.0.0 lb-d.us1.gigya.com
-0.0.0.0 lb1.us1.gigya.com
 0.0.0.0 reports.us1.gigya.com
 0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 sslproxy.us1.gigya.com
@@ -2360,7 +2331,6 @@
 0.0.0.0 www.us1a-email-mng.gigya.com
 0.0.0.0 us1b.gigya.com
 0.0.0.0 us1b-st1.gigya.com
-0.0.0.0 us1d.gigya.com
 0.0.0.0 socialize.us1d.gigya.com
 0.0.0.0 us1d-st4.gigya.com
 0.0.0.0 us2.gigya.com
@@ -2370,7 +2340,6 @@
 0.0.0.0 www.gigya.com
 0.0.0.0 lgn.www.gigya.com
 0.0.0.0 staging.www.gigya.com
-0.0.0.0 staging-uploads.www.gigya.com
 0.0.0.0 uploads.www.gigya.com
 0.0.0.0 glympse.com
 0.0.0.0 api.glympse.com
@@ -2688,7 +2657,6 @@
 0.0.0.0 console.cn.janrain.com
 0.0.0.0 console-static-cdn.cn.janrain.com
 0.0.0.0 dev.cn.janrain.com
-0.0.0.0 capture-static-cdn.dev.cn.janrain.com
 0.0.0.0 capture2-static-cdn.dev.cn.janrain.com
 0.0.0.0 quilt-static-cdn.dev.cn.janrain.com
 0.0.0.0 widget-static-cdn.dev.cn.janrain.com
@@ -2775,7 +2743,6 @@
 0.0.0.0 oreilly.janrain.com
 0.0.0.0 partners.janrain.com
 0.0.0.0 www.partners.janrain.com
-0.0.0.0 pse.janrain.com
 0.0.0.0 quilt.janrain.com
 0.0.0.0 cdn.quilt.janrain.com
 0.0.0.0 releases.janrain.com
@@ -2833,7 +2800,6 @@
 0.0.0.0 livechatinc.com
 0.0.0.0 accounts.livechatinc.com
 0.0.0.0 addons.livechatinc.com
-0.0.0.0 addons2.livechatinc.com
 0.0.0.0 addons3.livechatinc.com
 0.0.0.0 api.livechatinc.com
 0.0.0.0 api-fra.livechatinc.com
@@ -2974,7 +2940,6 @@
 0.0.0.0 c.livefyre.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 data.livefyre.com
-0.0.0.0 dn.livefyre.com
 0.0.0.0 dsr.livefyre.com
 0.0.0.0 ct200.dsr.livefyre.com
 0.0.0.0 ct201.dsr.livefyre.com
@@ -3013,7 +2978,6 @@
 0.0.0.0 ct239.dsr.livefyre.com
 0.0.0.0 ct240.dsr.livefyre.com
 0.0.0.0 ct241.dsr.livefyre.com
-0.0.0.0 ct242.dsr.livefyre.com
 0.0.0.0 ct243.dsr.livefyre.com
 0.0.0.0 ct244.dsr.livefyre.com
 0.0.0.0 ct245.dsr.livefyre.com
@@ -3030,20 +2994,15 @@
 0.0.0.0 lc48.dsr.livefyre.com
 0.0.0.0 lc49.dsr.livefyre.com
 0.0.0.0 lc50.dsr.livefyre.com
-0.0.0.0 lc51.dsr.livefyre.com
 0.0.0.0 lc52.dsr.livefyre.com
-0.0.0.0 lc53.dsr.livefyre.com
 0.0.0.0 lc54.dsr.livefyre.com
-0.0.0.0 lc55.dsr.livefyre.com
 0.0.0.0 lc57.dsr.livefyre.com
-0.0.0.0 lc58.dsr.livefyre.com
 0.0.0.0 lc59.dsr.livefyre.com
 0.0.0.0 lc60.dsr.livefyre.com
 0.0.0.0 lc61.dsr.livefyre.com
 0.0.0.0 lc62.dsr.livefyre.com
 0.0.0.0 lc63.dsr.livefyre.com
 0.0.0.0 lc64.dsr.livefyre.com
-0.0.0.0 lc65.dsr.livefyre.com
 0.0.0.0 lc66.dsr.livefyre.com
 0.0.0.0 lc67.dsr.livefyre.com
 0.0.0.0 lc68.dsr.livefyre.com
@@ -3057,7 +3016,6 @@
 0.0.0.0 lc77.dsr.livefyre.com
 0.0.0.0 lc78.dsr.livefyre.com
 0.0.0.0 lc79.dsr.livefyre.com
-0.0.0.0 lc80.dsr.livefyre.com
 0.0.0.0 lc81.dsr.livefyre.com
 0.0.0.0 lc82.dsr.livefyre.com
 0.0.0.0 lc83.dsr.livefyre.com
@@ -3066,10 +3024,8 @@
 0.0.0.0 lc86.dsr.livefyre.com
 0.0.0.0 lc87.dsr.livefyre.com
 0.0.0.0 lc88.dsr.livefyre.com
-0.0.0.0 lc89.dsr.livefyre.com
 0.0.0.0 lc90.dsr.livefyre.com
 0.0.0.0 lc91.dsr.livefyre.com
-0.0.0.0 lc92.dsr.livefyre.com
 0.0.0.0 lc93.dsr.livefyre.com
 0.0.0.0 lc94.dsr.livefyre.com
 0.0.0.0 lc95.dsr.livefyre.com
@@ -3078,14 +3034,12 @@
 0.0.0.0 lc98.dsr.livefyre.com
 0.0.0.0 email.livefyre.com
 0.0.0.0 arseniohall.ep.livefyre.com
-0.0.0.0 bskyb.ep.livefyre.com
 0.0.0.0 cba.ep.livefyre.com
 0.0.0.0 cbslocal.ep.livefyre.com
 0.0.0.0 client-solutions.ep.livefyre.com
 0.0.0.0 cnnespanol-prod.ep.livefyre.com
 0.0.0.0 comminsure.ep.livefyre.com
 0.0.0.0 cosmopolitan.ep.livefyre.com
-0.0.0.0 davidsharpeonline.ep.livefyre.com
 0.0.0.0 dccomics.ep.livefyre.com
 0.0.0.0 demo.ep.livefyre.com
 0.0.0.0 demo-accounts.ep.livefyre.com
@@ -3097,21 +3051,18 @@
 0.0.0.0 fortune.ep.livefyre.com
 0.0.0.0 golf.ep.livefyre.com
 0.0.0.0 heremedia.ep.livefyre.com
-0.0.0.0 indycar.ep.livefyre.com
 0.0.0.0 insideedition.ep.livefyre.com
 0.0.0.0 joystiq.ep.livefyre.com
 0.0.0.0 madmagazine.ep.livefyre.com
 0.0.0.0 nbcsports.ep.livefyre.com
 0.0.0.0 rachaelrayshow.ep.livefyre.com
 0.0.0.0 smithsonian.ep.livefyre.com
-0.0.0.0 sportsillustrated.ep.livefyre.com
 0.0.0.0 starclub.ep.livefyre.com
 0.0.0.0 startswithyou.ep.livefyre.com
 0.0.0.0 sundialbrands.ep.livefyre.com
 0.0.0.0 techcrunch.ep.livefyre.com
 0.0.0.0 time.ep.livefyre.com
 0.0.0.0 trailblazers.ep.livefyre.com
-0.0.0.0 trendmedia.ep.livefyre.com
 0.0.0.0 tuaw.ep.livefyre.com
 0.0.0.0 ubisoft.ep.livefyre.com
 0.0.0.0 vertigocomics.ep.livefyre.com
@@ -3211,7 +3162,6 @@
 0.0.0.0 ct29-test.maxmind.com
 0.0.0.0 ct3-test.maxmind.com
 0.0.0.0 ct30-test.maxmind.com
-0.0.0.0 ct4-test.maxmind.com
 0.0.0.0 ct5-test.maxmind.com
 0.0.0.0 ct6-test.maxmind.com
 0.0.0.0 ct8-test.maxmind.com
@@ -3258,7 +3208,6 @@
 0.0.0.0 pgbadger.maxmind.com
 0.0.0.0 prometheus.maxmind.com
 0.0.0.0 secure.maxmind.com
-0.0.0.0 sensu.maxmind.com
 0.0.0.0 static.maxmind.com
 0.0.0.0 status.maxmind.com
 0.0.0.0 support.maxmind.com
@@ -3467,7 +3416,6 @@
 0.0.0.0 employee.pingdom.com
 0.0.0.0 external.pingdom.com
 0.0.0.0 fpt.pingdom.com
-0.0.0.0 fpt-api.pingdom.com
 0.0.0.0 future.pingdom.com
 0.0.0.0 get.pingdom.com
 0.0.0.0 www.get.pingdom.com
@@ -3477,8 +3425,6 @@
 0.0.0.0 www.help.pingdom.com
 0.0.0.0 heroku.pingdom.com
 0.0.0.0 livemap.pingdom.com
-0.0.0.0 livemap-backend.pingdom.com
-0.0.0.0 mailer1.pingdom.com
 0.0.0.0 map.pingdom.com
 0.0.0.0 map-backend.pingdom.com
 0.0.0.0 my.pingdom.com
@@ -4073,7 +4019,6 @@
 0.0.0.0 senseye.spymasterpro.com
 0.0.0.0 cpanel.senseye.spymasterpro.com
 0.0.0.0 mail.senseye.spymasterpro.com
-0.0.0.0 webdisk.senseye.spymasterpro.com
 0.0.0.0 webmail.senseye.spymasterpro.com
 0.0.0.0 www.senseye.spymasterpro.com
 0.0.0.0 server.spymasterpro.com
@@ -4250,7 +4195,6 @@
 0.0.0.0 inspire-com.surveygizmo.com
 0.0.0.0 intelliscaninc-net.surveygizmo.com
 0.0.0.0 luascript.surveygizmo.com
-0.0.0.0 www.luascript.surveygizmo.com
 0.0.0.0 mosaic-client-com.surveygizmo.com
 0.0.0.0 northerntrust-com.surveygizmo.com
 0.0.0.0 origin.surveygizmo.com
@@ -5097,7 +5041,6 @@
 0.0.0.0 v2.spot.im
 0.0.0.0 vpn.spot.im
 0.0.0.0 ws.spot.im
-0.0.0.0 ws-api.spot.im
 0.0.0.0 www.spot.im
 0.0.0.0 coactive.io
 0.0.0.0 crucible.coactive.io
@@ -5688,12 +5631,10 @@
 0.0.0.0 asb11.tawk.to
 0.0.0.0 asb14.tawk.to
 0.0.0.0 asb15.tawk.to
-0.0.0.0 asb16.tawk.to
 0.0.0.0 asb17.tawk.to
 0.0.0.0 asb18.tawk.to
 0.0.0.0 asb3.tawk.to
 0.0.0.0 asb4.tawk.to
-0.0.0.0 asb5.tawk.to
 0.0.0.0 asb6.tawk.to
 0.0.0.0 asb7.tawk.to
 0.0.0.0 asb8.tawk.to
@@ -5760,7 +5701,6 @@
 0.0.0.0 va.tawk.to
 0.0.0.0 video.tawk.to
 0.0.0.0 vs1.tawk.to
-0.0.0.0 vs10.tawk.to
 0.0.0.0 vs100.tawk.to
 0.0.0.0 vs101.tawk.to
 0.0.0.0 vs102.tawk.to
@@ -5785,7 +5725,6 @@
 0.0.0.0 vs12.tawk.to
 0.0.0.0 vs120.tawk.to
 0.0.0.0 vs13.tawk.to
-0.0.0.0 vs14.tawk.to
 0.0.0.0 vs15.tawk.to
 0.0.0.0 vs16.tawk.to
 0.0.0.0 vs17.tawk.to
@@ -5798,7 +5737,6 @@
 0.0.0.0 vs25.tawk.to
 0.0.0.0 vs26.tawk.to
 0.0.0.0 vs27.tawk.to
-0.0.0.0 vs28.tawk.to
 0.0.0.0 vs29.tawk.to
 0.0.0.0 vs30.tawk.to
 0.0.0.0 vs31.tawk.to
@@ -5831,15 +5769,12 @@
 0.0.0.0 vs59.tawk.to
 0.0.0.0 vs6.tawk.to
 0.0.0.0 vs60.tawk.to
-0.0.0.0 vs61.tawk.to
 0.0.0.0 vs62.tawk.to
 0.0.0.0 vs63.tawk.to
 0.0.0.0 vs64.tawk.to
 0.0.0.0 vs66.tawk.to
 0.0.0.0 vs67.tawk.to
 0.0.0.0 vs68.tawk.to
-0.0.0.0 vs70.tawk.to
-0.0.0.0 vs71.tawk.to
 0.0.0.0 vs72.tawk.to
 0.0.0.0 vs73.tawk.to
 0.0.0.0 vs74.tawk.to
@@ -5862,7 +5797,6 @@
 0.0.0.0 vs92.tawk.to
 0.0.0.0 vs93.tawk.to
 0.0.0.0 vs94.tawk.to
-0.0.0.0 vs96.tawk.to
 0.0.0.0 vs97.tawk.to
 0.0.0.0 vs98.tawk.to
 0.0.0.0 vs99.tawk.to
@@ -5879,7 +5813,6 @@
 0.0.0.0 vsa21.tawk.to
 0.0.0.0 vsa22.tawk.to
 0.0.0.0 vsa23.tawk.to
-0.0.0.0 vsa25.tawk.to
 0.0.0.0 vsa26.tawk.to
 0.0.0.0 vsa27.tawk.to
 0.0.0.0 vsa28.tawk.to
@@ -5919,9 +5852,7 @@
 0.0.0.0 vsa64.tawk.to
 0.0.0.0 vsa65.tawk.to
 0.0.0.0 vsa66.tawk.to
-0.0.0.0 vsa69.tawk.to
 0.0.0.0 vsa70.tawk.to
-0.0.0.0 vsa71.tawk.to
 0.0.0.0 vsa72.tawk.to
 0.0.0.0 vsa73.tawk.to
 0.0.0.0 vsa74.tawk.to
