@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-05-28T18:25:10+00:00
-# Count: 6079 domains
+# Released: 2020-05-29T00:22:27+00:00
+# Count: 6099 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -412,7 +412,6 @@
 0.0.0.0 intern-managed-client.c10r.facebook.com
 0.0.0.0 iorg-fba.c10r.facebook.com
 0.0.0.0 latest.c10r.facebook.com
-0.0.0.0 liverail.c10r.facebook.com
 0.0.0.0 liverail46.c10r.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt-mini.c10r.facebook.com
@@ -428,12 +427,10 @@
 0.0.0.0 shortwave.c10r.facebook.com
 0.0.0.0 snaptu-mini.c10r.facebook.com
 0.0.0.0 snaptu-p1.c10r.facebook.com
-0.0.0.0 snaptu-p2.c10r.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star-any2-1.c10r.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 star-mini-any2-1.c10r.facebook.com
-0.0.0.0 star-z-mini.c10r.facebook.com
 0.0.0.0 stun.c10r.facebook.com
 0.0.0.0 wit-edge.c10r.facebook.com
 0.0.0.0 xwf-p3.c10r.facebook.com
@@ -508,6 +505,8 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 da-dk.ak.connect.facebook.com
 0.0.0.0 s-static.ak.connect.facebook.com
+0.0.0.0 b.static.ak.connect.facebook.com
+0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 www.ak.connect.facebook.com
 0.0.0.0 api.connect.facebook.com
 0.0.0.0 ga-ie.ar-ar.connect.facebook.com
@@ -521,6 +520,7 @@
 0.0.0.0 hi-in.ci-e.connect.facebook.com
 0.0.0.0 pixel.ci-e.connect.facebook.com
 0.0.0.0 es-la.it-it.ck.connect.facebook.com
+0.0.0.0 pt-br.nn-no.ck.connect.facebook.com
 0.0.0.0 www.co.connect.facebook.com
 0.0.0.0 www.com.connect.facebook.com
 0.0.0.0 ko-kr.conenect.connect.facebook.com
@@ -532,19 +532,41 @@
 0.0.0.0 en-gb.da-dk.connect.facebook.com
 0.0.0.0 staticxx.da-dk.connect.facebook.com
 0.0.0.0 www.da-dk.connect.facebook.com
-0.0.0.0 www.dg.connect.facebook.com
+0.0.0.0 de-de.de-de.connect.facebook.com
+0.0.0.0 es-la.de-de.connect.facebook.com
+0.0.0.0 uk-ua.de-de.connect.facebook.com
+0.0.0.0 zh-cn.de-de.connect.facebook.com
 0.0.0.0 ar-ar.ec.connect.facebook.com
 0.0.0.0 es-la.es.connect.facebook.com
 0.0.0.0 fr-fr.es.connect.facebook.com
 0.0.0.0 www.es.connect.facebook.com
 0.0.0.0 es-la.connect.facebook.com
+0.0.0.0 ca-es.es-la.connect.facebook.com
+0.0.0.0 en-gb.es-la.connect.facebook.com
+0.0.0.0 es-la.es-la.connect.facebook.com
+0.0.0.0 www.eu-es.es-la.connect.facebook.com
+0.0.0.0 id-id.es-la.connect.facebook.com
+0.0.0.0 www.ja-jp.es-la.connect.facebook.com
+0.0.0.0 sv-se.es-la.connect.facebook.com
+0.0.0.0 www.es-la.connect.facebook.com
+0.0.0.0 www.zh-hk.es-la.connect.facebook.com
 0.0.0.0 www.f.connect.facebook.com
 0.0.0.0 www.www.f.connect.facebook.com
 0.0.0.0 fr-fr.connect.facebook.com
+0.0.0.0 apps.fr-fr.connect.facebook.com
+0.0.0.0 bn-in.fr-fr.connect.facebook.com
+0.0.0.0 www.de-de.fr-fr.connect.facebook.com
+0.0.0.0 es-es.fr-fr.connect.facebook.com
 0.0.0.0 es-la.fr-fr.connect.facebook.com
+0.0.0.0 gl-es.fr-fr.connect.facebook.com
+0.0.0.0 it-it.fr-fr.connect.facebook.com
+0.0.0.0 www.id-id.it-it.fr-fr.connect.facebook.com
+0.0.0.0 pt-pt.it-it.fr-fr.connect.facebook.com
+0.0.0.0 ru-ru.it-it.fr-fr.connect.facebook.com
+0.0.0.0 www.zh-cn.it-it.fr-fr.connect.facebook.com
+0.0.0.0 pl-pl.fr-fr.connect.facebook.com
 0.0.0.0 www.fr-fr-fr.connect.facebook.com
 0.0.0.0 zh-cn.fr-fr-fr.connect.facebook.com
-0.0.0.0 hi-in.g-d.connect.facebook.com
 0.0.0.0 ja-jp.gd.connect.facebook.com
 0.0.0.0 gn-py.connect.facebook.com
 0.0.0.0 www.hd.connect.facebook.com
@@ -555,12 +577,14 @@
 0.0.0.0 login.connect.facebook.com
 0.0.0.0 ja-jp.login.connect.facebook.com
 0.0.0.0 m.connect.facebook.com
+0.0.0.0 cs-cz.m.connect.facebook.com
+0.0.0.0 de-de.m.connect.facebook.com
+0.0.0.0 es-la.m.connect.facebook.com
 0.0.0.0 www.m.connect.facebook.com
 0.0.0.0 ja-jp.ms-my.connect.facebook.com
 0.0.0.0 www.nana.connect.facebook.com
 0.0.0.0 ja-jp.ne-no.connect.facebook.com
 0.0.0.0 www.od.connect.facebook.com
-0.0.0.0 en-pi.pl-pl.connect.facebook.com
 0.0.0.0 ar-ar.pt-br.connect.facebook.com
 0.0.0.0 www.pt-br.connect.facebook.com
 0.0.0.0 ja-jp.q.connect.facebook.com
@@ -570,6 +594,9 @@
 0.0.0.0 ja-jp.re-re.connect.facebook.com
 0.0.0.0 www.re-re-re.connect.facebook.com
 0.0.0.0 tr-tr.ro.connect.facebook.com
+0.0.0.0 en-gb.tr-tr.ro.connect.facebook.com
+0.0.0.0 it-it.tr-tr.ro.connect.facebook.com
+0.0.0.0 m.tr-tr.ro.connect.facebook.com
 0.0.0.0 es-la.ro-ro.connect.facebook.com
 0.0.0.0 www.th.th.connect.facebook.com
 0.0.0.0 ko-kr.vi-e.connect.facebook.com
@@ -583,6 +610,10 @@
 0.0.0.0 m.vn.connect.facebook.com
 0.0.0.0 pixel.vn.connect.facebook.com
 0.0.0.0 vi.vn.connect.facebook.com
+0.0.0.0 az-az.vi.vn.connect.facebook.com
+0.0.0.0 es-es.vi.vn.connect.facebook.com
+0.0.0.0 vi-vn.vi.vn.connect.facebook.com
+0.0.0.0 www.vi.vn.connect.facebook.com
 0.0.0.0 www.vn-i-vn.connect.facebook.com
 0.0.0.0 ja-jp.vn-ni.connect.facebook.com
 0.0.0.0 zh-hk.vn-vi.connect.facebook.com
@@ -1852,7 +1883,6 @@
 0.0.0.0 rampart013.rampart.facebook.com
 0.0.0.0 svcscm.rampart013.rampart.facebook.com
 0.0.0.0 rampart014.rampart.facebook.com
-0.0.0.0 rampart015.rampart.facebook.com
 0.0.0.0 svcscm.rampart015.rampart.facebook.com
 0.0.0.0 rampart016.rampart.facebook.com
 0.0.0.0 svcscm.rampart016.rampart.facebook.com
@@ -1888,7 +1918,6 @@
 0.0.0.0 rampart035.rampart.facebook.com
 0.0.0.0 svcscm.rampart035.rampart.facebook.com
 0.0.0.0 rampart036.rampart.facebook.com
-0.0.0.0 svcscm.rampart037.rampart.facebook.com
 0.0.0.0 rampart038.rampart.facebook.com
 0.0.0.0 svcscm.rampart038.rampart.facebook.com
 0.0.0.0 svcscm.rampart039.rampart.facebook.com
@@ -1951,7 +1980,6 @@
 0.0.0.0 rampart032.facebook.com
 0.0.0.0 svcscm.rampart032.facebook.com
 0.0.0.0 rampart033.facebook.com
-0.0.0.0 svcscm.rampart033.facebook.com
 0.0.0.0 svcscm.rampart034.facebook.com
 0.0.0.0 rampart035.facebook.com
 0.0.0.0 svcscm.rampart035.facebook.com
@@ -1964,7 +1992,6 @@
 0.0.0.0 rampart039.facebook.com
 0.0.0.0 svcscm.rampart039.facebook.com
 0.0.0.0 rampart040.facebook.com
-0.0.0.0 svcscm.rampart040.facebook.com
 0.0.0.0 razer.facebook.com
 0.0.0.0 register.facebook.com
 0.0.0.0 ro-ro.facebook.com
@@ -2043,7 +2070,6 @@
 0.0.0.0 v6intern.facebook.com
 0.0.0.0 valet.facebook.com
 0.0.0.0 vi-vn.facebook.com
-0.0.0.0 circa.vip.facebook.com
 0.0.0.0 dewey.vip.facebook.com
 0.0.0.0 www.dewey.vip.facebook.com
 0.0.0.0 dewey-lfs.vip.facebook.com
@@ -2492,8 +2518,6 @@
 0.0.0.0 wcz01.fava.fb.com
 0.0.0.0 wmx11.fava.fb.com
 0.0.0.0 archive.fbbrc.fb.com
-0.0.0.0 www.archive.fbbrc.fb.com
-0.0.0.0 ash-ldc101.fbdevlab.fb.com
 0.0.0.0 ash-ldc201.fbdevlab.fb.com
 0.0.0.0 fs.fbdevlab.fb.com
 0.0.0.0 ldap.fbdevlab.fb.com
@@ -2533,7 +2557,6 @@
 0.0.0.0 www.hardquestions.fb.com
 0.0.0.0 hardquestionstour.fb.com
 0.0.0.0 www.hardquestionstour.fb.com
-0.0.0.0 archive.igbrc.fb.com
 0.0.0.0 www.archive.igbrc.fb.com
 0.0.0.0 impara.fb.com
 0.0.0.0 www.impara.fb.com
@@ -2859,7 +2882,6 @@
 0.0.0.0 fbcdn.com
 0.0.0.0 api.fbcdn.com
 0.0.0.0 lookaside.fbcdn.com
-0.0.0.0 static.fbcdn.com
 0.0.0.0 www.fbcdn.com
 0.0.0.0 fbpigeon.com
 0.0.0.0 graph.fbpigeon.com
@@ -3331,7 +3353,6 @@
 0.0.0.0 distilleryimage9.ak.instagram.com
 0.0.0.0 distilleryvesper10-2.ak.instagram.com
 0.0.0.0 distilleryvesper11-7.ak.instagram.com
-0.0.0.0 distilleryvesper4-12.ak.instagram.com
 0.0.0.0 distilleryvesper6-2.ak.instagram.com
 0.0.0.0 distilleryvesper6-6.ak.instagram.com
 0.0.0.0 distilleryvesper7-15.ak.instagram.com
@@ -6034,7 +6055,6 @@
 0.0.0.0 fnjf6-1.fna.whatsapp.net
 0.0.0.0 media.fnyc1-1.fna.whatsapp.net
 0.0.0.0 foko1-0.fna.whatsapp.net
-0.0.0.0 forf1-2.fna.whatsapp.net
 0.0.0.0 media.forf1-2.fna.whatsapp.net
 0.0.0.0 media.fosl1-1.fna.whatsapp.net
 0.0.0.0 media.fotp3-1.fna.whatsapp.net
