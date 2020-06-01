@@ -1,6 +1,6 @@
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-06-01T15:19:31+00:00
-# Count: 122601 domains
+# Released: 2020-06-01T21:26:29+00:00
+# Count: 122658 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -21530,7 +21530,6 @@
 0.0.0.0 pce-steve-test-dashboard.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pce-test-pce-branch-api.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pce-test-pce-branch-dashboard.k8s.test-001.d-usw-2.braze.com
-0.0.0.0 pce-ui-test-dashboard.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pcedms.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 predator.k8s.test-001.d-usw-2.braze.com
@@ -25814,6 +25813,7 @@
 0.0.0.0 a729.casalemedia.com
 0.0.0.0 a733.casalemedia.com
 0.0.0.0 a735.casalemedia.com
+0.0.0.0 a743.casalemedia.com
 0.0.0.0 a753.casalemedia.com
 0.0.0.0 a756.casalemedia.com
 0.0.0.0 a761.casalemedia.com
@@ -29261,7 +29261,6 @@
 0.0.0.0 intf.cnzz.com
 0.0.0.0 jserr.cnzz.com
 0.0.0.0 api.mobile.cnzz.com
-0.0.0.0 collector.mobile.cnzz.com
 0.0.0.0 mta.cnzz.com
 0.0.0.0 mx.cnzz.com
 0.0.0.0 new.cnzz.com
@@ -43499,6 +43498,7 @@
 0.0.0.0 inlocomedia.com
 0.0.0.0 accounts.inlocomedia.com
 0.0.0.0 ad-tracking.inlocomedia.com
+0.0.0.0 intelligence.inlocomedia.com
 0.0.0.0 sdk.inlocomedia.com
 0.0.0.0 sdk-analytics.inlocomedia.com
 0.0.0.0 sdk-errors.inlocomedia.com
@@ -52415,6 +52415,7 @@
 0.0.0.0 272-thl-329.mktoresp.com
 0.0.0.0 273-ckq-053.mktoresp.com
 0.0.0.0 273-eql-130.mktoresp.com
+0.0.0.0 273-ssx-139.mktoresp.com
 0.0.0.0 274-hjh-961.mktoresp.com
 0.0.0.0 278-nci-522.mktoresp.com
 0.0.0.0 278-nxo-307.mktoresp.com
@@ -53063,6 +53064,7 @@
 0.0.0.0 673-uwy-229.mktoresp.com
 0.0.0.0 674-bgo-901.mktoresp.com
 0.0.0.0 675-bzo-542.mktoresp.com
+0.0.0.0 676-udd-714.mktoresp.com
 0.0.0.0 676-xrz-296.mktoresp.com
 0.0.0.0 677-ncq-300.mktoresp.com
 0.0.0.0 677-xnu-203.mktoresp.com
@@ -64245,6 +64247,7 @@
 0.0.0.0 prantikv.com
 0.0.0.0 www.prantikv.com
 0.0.0.0 preapps.com
+0.0.0.0 appgrader.preapps.com
 0.0.0.0 appreport.preapps.com
 0.0.0.0 hire.preapps.com
 0.0.0.0 m.preapps.com
@@ -64920,6 +64923,7 @@
 0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 showads33000c.pubmatic.com
 0.0.0.0 showads33000nf.pubmatic.com
+0.0.0.0 showads44000.pubmatic.com
 0.0.0.0 showads44000c.pubmatic.com
 0.0.0.0 showads44000nf.pubmatic.com
 0.0.0.0 showads44000nfc.pubmatic.com
@@ -74809,6 +74813,7 @@
 0.0.0.0 sg-sync.taboola.com
 0.0.0.0 sg-trc-events.taboola.com
 0.0.0.0 sg-vid-events.taboola.com
+0.0.0.0 sg-wf.taboola.com
 0.0.0.0 sko2019.taboola.com
 0.0.0.0 www.sko2019.taboola.com
 0.0.0.0 staging.taboola.com
@@ -78372,6 +78377,7 @@
 0.0.0.0 www.uciservice.com
 0.0.0.0 ugdturner.com
 0.0.0.0 dev.ugdturner.com
+0.0.0.0 localhost.ugdturner.com
 0.0.0.0 prod.ugdturner.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 trace.svc.ui.com
@@ -78492,6 +78498,7 @@
 0.0.0.0 publisher-config-gcp.unityads.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 staging.unityads.unity3d.com
+0.0.0.0 events-iap.staging.unityads.unity3d.com
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 tracker.unityads.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
@@ -82225,6 +82232,7 @@
 0.0.0.0 cn.adserver.yahoo.com
 0.0.0.0 co.adserver.yahoo.com
 0.0.0.0 csc.adserver.yahoo.com
+0.0.0.0 us.csc.adserver.yahoo.com
 0.0.0.0 de.adserver.yahoo.com
 0.0.0.0 dk.adserver.yahoo.com
 0.0.0.0 e1.adserver.yahoo.com
@@ -82584,6 +82592,7 @@
 0.0.0.0 x7demo.yext.com
 0.0.0.0 x7hunt.yext.com
 0.0.0.0 xmtmytdviol.yext.com
+0.0.0.0 yeam.yext.com
 0.0.0.0 yext-pixel.com
 0.0.0.0 answers.yext-pixel.com
 0.0.0.0 www.yext-pixel.com
@@ -86103,6 +86112,7 @@
 0.0.0.0 2ndswing.extole.io
 0.0.0.0 3.extole.io
 0.0.0.0 5.extole.io
+0.0.0.0 6.extole.io
 0.0.0.0 abacusnext.extole.io
 0.0.0.0 acorn-online.extole.io
 0.0.0.0 adobe-creative-cloud.extole.io
@@ -86689,8 +86699,10 @@
 0.0.0.0 c32thwt1-android.mobile-sdk-api.intercom.io
 0.0.0.0 c4e8vikr-android.mobile-sdk-api.intercom.io
 0.0.0.0 cbql2fu0-android.mobile-sdk-api.intercom.io
+0.0.0.0 cfaqq4h4cfaqq4h4-ios.mobile-sdk-api.intercom.io
 0.0.0.0 ck9u1r6v-android.mobile-sdk-api.intercom.io
 0.0.0.0 cnd08jc2-android.mobile-sdk-api.intercom.io
+0.0.0.0 cq0u7di1-android.mobile-sdk-api.intercom.io
 0.0.0.0 cq5z1f8j-android-1-1-0-6-6-1.mobile-sdk-api.intercom.io
 0.0.0.0 criygh1s-android.mobile-sdk-api.intercom.io
 0.0.0.0 cv1aqtg4-android-1-1-3.mobile-sdk-api.intercom.io
@@ -86709,12 +86721,18 @@
 0.0.0.0 e90pxaa2-android.mobile-sdk-api.intercom.io
 0.0.0.0 eay1qx7-ios.mobile-sdk-api.intercom.io
 0.0.0.0 ecmlced3-android.mobile-sdk-api.intercom.io
+0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-1-8.mobile-sdk-api.intercom.io
+0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-1.mobile-sdk-api.intercom.io
+0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-2.mobile-sdk-api.intercom.io
+0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-3.mobile-sdk-api.intercom.io
+0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-4.mobile-sdk-api.intercom.io
 0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-6.mobile-sdk-api.intercom.io
 0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-7.mobile-sdk-api.intercom.io
 0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-8.mobile-sdk-api.intercom.io
 0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-2-9.mobile-sdk-api.intercom.io
 0.0.0.0 ef85d2ee3f95c215cd52169e13d6ad5c48477521-android-3-3-0.mobile-sdk-api.intercom.io
 0.0.0.0 ehj523md-ios.mobile-sdk-api.intercom.io
+0.0.0.0 eriojnh3-android-1-1-2.mobile-sdk-api.intercom.io
 0.0.0.0 eriojnh3-android-1-5-7-3.mobile-sdk-api.intercom.io
 0.0.0.0 eriojnh3-ios.mobile-sdk-api.intercom.io
 0.0.0.0 ersi79xv-android.mobile-sdk-api.intercom.io
@@ -86725,6 +86743,7 @@
 0.0.0.0 f476zbvw-android.mobile-sdk-api.intercom.io
 0.0.0.0 f806782r-android.mobile-sdk-api.intercom.io
 0.0.0.0 fbnnepod-android.mobile-sdk-api.intercom.io
+0.0.0.0 fcl508dz-android.mobile-sdk-api.intercom.io
 0.0.0.0 fw043oki-android-3-0-1-0.mobile-sdk-api.intercom.io
 0.0.0.0 fzadhoip-android-2-1-5-9.mobile-sdk-api.intercom.io
 0.0.0.0 g3xteb7q-android.mobile-sdk-api.intercom.io
@@ -86748,6 +86767,7 @@
 0.0.0.0 imk2t65f-android.mobile-sdk-api.intercom.io
 0.0.0.0 ipl2xbja-android.mobile-sdk-api.intercom.io
 0.0.0.0 ipl2xbja-ios.mobile-sdk-api.intercom.io
+0.0.0.0 irjxxmjm-android.mobile-sdk-api.intercom.io
 0.0.0.0 ixgq4v2p-ios.mobile-sdk-api.intercom.io
 0.0.0.0 ixp2lrz1-android.mobile-sdk-api.intercom.io
 0.0.0.0 iz6dxmra-android.mobile-sdk-api.intercom.io
@@ -86800,6 +86820,7 @@
 0.0.0.0 oq4r3mkf-android-2-7.mobile-sdk-api.intercom.io
 0.0.0.0 oq4r3mkf-android-2-7-5.mobile-sdk-api.intercom.io
 0.0.0.0 oq4r3mkf-android-3-1-1.mobile-sdk-api.intercom.io
+0.0.0.0 oq4r3mkf-android-3-1-3.mobile-sdk-api.intercom.io
 0.0.0.0 orsmuvow-android.mobile-sdk-api.intercom.io
 0.0.0.0 os2j6pi7-android.mobile-sdk-api.intercom.io
 0.0.0.0 oud6kby9-android.mobile-sdk-api.intercom.io
@@ -86811,6 +86832,7 @@
 0.0.0.0 pftsgka8-android.mobile-sdk-api.intercom.io
 0.0.0.0 pk4qeoo9-android.mobile-sdk-api.intercom.io
 0.0.0.0 pqn7r4qj-android.mobile-sdk-api.intercom.io
+0.0.0.0 pqn7r4qj-ios.mobile-sdk-api.intercom.io
 0.0.0.0 ptcv5tlc-android.mobile-sdk-api.intercom.io
 0.0.0.0 pwfoi1st-android.mobile-sdk-api.intercom.io
 0.0.0.0 py1q760t-android.mobile-sdk-api.intercom.io
@@ -86918,6 +86940,7 @@
 0.0.0.0 zk0wcx4a-android.mobile-sdk-api.intercom.io
 0.0.0.0 zl19yed8-android.mobile-sdk-api.intercom.io
 0.0.0.0 zp81luk4-android.mobile-sdk-api.intercom.io
+0.0.0.0 ztawwxuu-android.mobile-sdk-api.intercom.io
 0.0.0.0 ztawwxuu-ios.mobile-sdk-api.intercom.io
 0.0.0.0 mobileapi-v2.intercom.io
 0.0.0.0 nexus-long-poller-a.intercom.io
@@ -98663,6 +98686,7 @@
 0.0.0.0 amadeusitgroup.demdex.net
 0.0.0.0 amazona2z.demdex.net
 0.0.0.0 amazonhr.demdex.net
+0.0.0.0 amazonservices.demdex.net
 0.0.0.0 amazonservicesllc.demdex.net
 0.0.0.0 fast.amazonservicesllc.demdex.net
 0.0.0.0 amazonwebstore.demdex.net
@@ -99940,6 +99964,7 @@
 0.0.0.0 fast.rcci.demdex.net
 0.0.0.0 reagroup-1.demdex.net
 0.0.0.0 fast.reagroup-1.demdex.net
+0.0.0.0 reale.demdex.net
 0.0.0.0 recruitsshd.demdex.net
 0.0.0.0 fast.recruitsshd.demdex.net
 0.0.0.0 redbox.demdex.net
@@ -100164,6 +100189,7 @@
 0.0.0.0 ssga.demdex.net
 0.0.0.0 fast.ssga.demdex.net
 0.0.0.0 stadiumsverige.demdex.net
+0.0.0.0 stadtzurichorganisation.demdex.net
 0.0.0.0 stampscominc.demdex.net
 0.0.0.0 standardbank.demdex.net
 0.0.0.0 standchartbank.demdex.net
@@ -100235,6 +100261,7 @@
 0.0.0.0 tdc.demdex.net
 0.0.0.0 fast.tdc.demdex.net
 0.0.0.0 teamtelstra.demdex.net
+0.0.0.0 tedbaker.demdex.net
 0.0.0.0 tega.demdex.net
 0.0.0.0 telcel.demdex.net
 0.0.0.0 telecine.demdex.net
@@ -100359,6 +100386,7 @@
 0.0.0.0 unilever3.demdex.net
 0.0.0.0 fast.unilever3.demdex.net
 0.0.0.0 unileverbrazil.demdex.net
+0.0.0.0 unipol.demdex.net
 0.0.0.0 unitedhealthcareserv.demdex.net
 0.0.0.0 unitedhealthgroup.demdex.net
 0.0.0.0 unitedoverseasbanklimited.demdex.net
@@ -104977,6 +105005,7 @@
 0.0.0.0 mediacorp.gscontxt.net
 0.0.0.0 mi9.gscontxt.net
 0.0.0.0 pacmags.gscontxt.net
+0.0.0.0 pacmags-sydney.gscontxt.net
 0.0.0.0 pool.gscontxt.net
 0.0.0.0 atom.pool.gscontxt.net
 0.0.0.0 esi.pool.gscontxt.net
@@ -106970,6 +106999,7 @@
 0.0.0.0 atlascopco.sc.omtrdc.net
 0.0.0.0 www.atlascopco.sc.omtrdc.net
 0.0.0.0 atresmedia.sc.omtrdc.net
+0.0.0.0 att.sc.omtrdc.net
 0.0.0.0 lululemon.com.au.sc.omtrdc.net
 0.0.0.0 audible.sc.omtrdc.net
 0.0.0.0 australiantravellermediaptyltd.sc.omtrdc.net
@@ -107022,6 +107052,7 @@
 0.0.0.0 cabelasinc.sc.omtrdc.net
 0.0.0.0 californiastateautomobileassociation.sc.omtrdc.net
 0.0.0.0 canada.sc.omtrdc.net
+0.0.0.0 www.canada.sc.omtrdc.net
 0.0.0.0 canadamediafund.sc.omtrdc.net
 0.0.0.0 canalplus.sc.omtrdc.net
 0.0.0.0 canwestgolbal.sc.omtrdc.net
@@ -107825,10 +107856,16 @@
 0.0.0.0 o.webmd.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 yell.com.ssl.d2.sc.omtrdc.net
 0.0.0.0 de.ssl.d2.sc.omtrdc.net
+0.0.0.0 airngo.de.ssl.d2.sc.omtrdc.net
+0.0.0.0 benefitcosmetics.de.ssl.d2.sc.omtrdc.net
+0.0.0.0 sh.bwin.de.ssl.d2.sc.omtrdc.net
+0.0.0.0 holidaycheck.de.ssl.d2.sc.omtrdc.net
 0.0.0.0 hrs.de.ssl.d2.sc.omtrdc.net
 0.0.0.0 hypovereinsbank.de.ssl.d2.sc.omtrdc.net
 0.0.0.0 payback.de.ssl.d2.sc.omtrdc.net
+0.0.0.0 simyo.de.ssl.d2.sc.omtrdc.net
 0.0.0.0 sky.de.ssl.d2.sc.omtrdc.net
+0.0.0.0 tuneup.de.ssl.d2.sc.omtrdc.net
 0.0.0.0 vodafone.de.ssl.d2.sc.omtrdc.net
 0.0.0.0 airngo.dk.ssl.d2.sc.omtrdc.net
 0.0.0.0 ticket.dk.ssl.d2.sc.omtrdc.net
@@ -108203,6 +108240,7 @@
 0.0.0.0 dowjones.sc.omtrdc.net
 0.0.0.0 dps.sc.omtrdc.net
 0.0.0.0 dsg.sc.omtrdc.net
+0.0.0.0 www.dsg.sc.omtrdc.net
 0.0.0.0 dstv.sc.omtrdc.net
 0.0.0.0 efenglishtown.sc.omtrdc.net
 0.0.0.0 ehealthcare.sc.omtrdc.net
@@ -108236,6 +108274,7 @@
 0.0.0.0 fnp.sc.omtrdc.net
 0.0.0.0 www.fnp.sc.omtrdc.net
 0.0.0.0 footlocker.sc.omtrdc.net
+0.0.0.0 www.footlocker.sc.omtrdc.net
 0.0.0.0 fordmexico.sc.omtrdc.net
 0.0.0.0 fortinetinc.sc.omtrdc.net
 0.0.0.0 www.fortinetinc.sc.omtrdc.net
@@ -108314,6 +108353,7 @@
 0.0.0.0 itau.sc.omtrdc.net
 0.0.0.0 itclimited.sc.omtrdc.net
 0.0.0.0 izotopeinc.sc.omtrdc.net
+0.0.0.0 janssenjp.sc.omtrdc.net
 0.0.0.0 japansportcouncil.sc.omtrdc.net
 0.0.0.0 jcb.sc.omtrdc.net
 0.0.0.0 jcrew.sc.omtrdc.net
@@ -108330,6 +108370,7 @@
 0.0.0.0 kelloggprod.sc.omtrdc.net
 0.0.0.0 kemenpar.sc.omtrdc.net
 0.0.0.0 kiamotors.sc.omtrdc.net
+0.0.0.0 www.kiamotors.sc.omtrdc.net
 0.0.0.0 kohls.sc.omtrdc.net
 0.0.0.0 koreanair.sc.omtrdc.net
 0.0.0.0 www.koreanair.sc.omtrdc.net
@@ -108338,6 +108379,8 @@
 0.0.0.0 kpn.sc.omtrdc.net
 0.0.0.0 kroger.sc.omtrdc.net
 0.0.0.0 ktolleh.sc.omtrdc.net
+0.0.0.0 www.ktolleh.sc.omtrdc.net
+0.0.0.0 kzpst.sc.omtrdc.net
 0.0.0.0 landolakes1.sc.omtrdc.net
 0.0.0.0 lcbo.sc.omtrdc.net
 0.0.0.0 lcl.sc.omtrdc.net
@@ -108389,6 +108432,7 @@
 0.0.0.0 www.mppanalytics.sc.omtrdc.net
 0.0.0.0 mscdirect.sc.omtrdc.net
 0.0.0.0 msftenterprise.sc.omtrdc.net
+0.0.0.0 www.msftenterprise.sc.omtrdc.net
 0.0.0.0 mtb.sc.omtrdc.net
 0.0.0.0 muji.sc.omtrdc.net
 0.0.0.0 mutv.sc.omtrdc.net
@@ -108404,6 +108448,7 @@
 0.0.0.0 nebraskafurnituremartinc.sc.omtrdc.net
 0.0.0.0 neccorp.sc.omtrdc.net
 0.0.0.0 neriuminternational.sc.omtrdc.net
+0.0.0.0 networkten.sc.omtrdc.net
 0.0.0.0 neubergerberman.sc.omtrdc.net
 0.0.0.0 newrelic.sc.omtrdc.net
 0.0.0.0 newscorpau.sc.omtrdc.net
@@ -108494,6 +108539,7 @@
 0.0.0.0 renfe.sc.omtrdc.net
 0.0.0.0 rewedigital.sc.omtrdc.net
 0.0.0.0 rmf.sc.omtrdc.net
+0.0.0.0 rmit.sc.omtrdc.net
 0.0.0.0 rtve.sc.omtrdc.net
 0.0.0.0 salarycom.sc.omtrdc.net
 0.0.0.0 samsclub.sc.omtrdc.net
@@ -108515,7 +108561,9 @@
 0.0.0.0 shangri-la.sc.omtrdc.net
 0.0.0.0 sho.sc.omtrdc.net
 0.0.0.0 siemens.sc.omtrdc.net
+0.0.0.0 www.siemens.sc.omtrdc.net
 0.0.0.0 signet.sc.omtrdc.net
+0.0.0.0 siliconlabs.sc.omtrdc.net
 0.0.0.0 singtaolimited.sc.omtrdc.net
 0.0.0.0 sivantosgroup.sc.omtrdc.net
 0.0.0.0 skat.sc.omtrdc.net
@@ -108836,6 +108884,7 @@
 0.0.0.0 talbots.sc.omtrdc.net
 0.0.0.0 talpaholdingnv.sc.omtrdc.net
 0.0.0.0 targetanalytics.sc.omtrdc.net
+0.0.0.0 tatacapital.sc.omtrdc.net
 0.0.0.0 tatasiaairlinesltd.sc.omtrdc.net
 0.0.0.0 tataunistorelimited.sc.omtrdc.net
 0.0.0.0 tattsgroup.sc.omtrdc.net
@@ -108856,7 +108905,10 @@
 0.0.0.0 toshibamemory.sc.omtrdc.net
 0.0.0.0 tourismaustralia.sc.omtrdc.net
 0.0.0.0 www.tourismaustralia.sc.omtrdc.net
+0.0.0.0 tourismnz.sc.omtrdc.net
+0.0.0.0 transurban.sc.omtrdc.net
 0.0.0.0 trustedmediabrands.sc.omtrdc.net
+0.0.0.0 www.trustedmediabrands.sc.omtrdc.net
 0.0.0.0 turnerinternational.sc.omtrdc.net
 0.0.0.0 turneruk.sc.omtrdc.net
 0.0.0.0 www.turneruk.sc.omtrdc.net
@@ -108889,6 +108941,7 @@
 0.0.0.0 verisignchina.sc.omtrdc.net
 0.0.0.0 verizontelecom.sc.omtrdc.net
 0.0.0.0 vesenterpriseverizoncom.sc.omtrdc.net
+0.0.0.0 vianickarcdev.sc.omtrdc.net
 0.0.0.0 vidalfrance.sc.omtrdc.net
 0.0.0.0 videor.sc.omtrdc.net
 0.0.0.0 vineyardvines.sc.omtrdc.net
@@ -110544,6 +110597,7 @@
 0.0.0.0 one-india-d.openx.net
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 onetwenty2-d.openx.net
+0.0.0.0 onlineadvertisingsolutions-d.openx.net
 0.0.0.0 onomagic-d.openx.net
 0.0.0.0 onscroll-d.openx.net
 0.0.0.0 ookla-d.openx.net
@@ -110602,6 +110656,7 @@
 0.0.0.0 prebid-analytics-2.openx.net
 0.0.0.0 precom-d.openx.net
 0.0.0.0 president-usd-d.openx.net
+0.0.0.0 presslogic-d.openx.net
 0.0.0.0 prime-d.openx.net
 0.0.0.0 primis-d.openx.net
 0.0.0.0 prodege-d.openx.net
@@ -110628,6 +110683,7 @@
 0.0.0.0 raiseit-d.openx.net
 0.0.0.0 rakuten-d.openx.net
 0.0.0.0 ranker-d.openx.net
+0.0.0.0 rashtradeepika-d.openx.net
 0.0.0.0 raveio-d.openx.net
 0.0.0.0 re-d.openx.net
 0.0.0.0 readtheory-d.openx.net
@@ -111428,6 +111484,7 @@
 0.0.0.0 pxdz588q90.perimeterx.net
 0.0.0.0 pxel3l4xih.perimeterx.net
 0.0.0.0 pxev56my37.perimeterx.net
+0.0.0.0 pxft56yv2e.perimeterx.net
 0.0.0.0 pxginpfea6.perimeterx.net
 0.0.0.0 pxh52dw03a.perimeterx.net
 0.0.0.0 pxhd2cxrgh.perimeterx.net
