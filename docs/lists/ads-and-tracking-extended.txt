@@ -1,6 +1,6 @@
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-06-01T21:26:29+00:00
-# Count: 122658 domains
+# Released: 2020-06-02T12:56:05+00:00
+# Count: 122818 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -9071,7 +9071,6 @@
 0.0.0.0 staging-keyword-discovery.abtasty.com
 0.0.0.0 staging-lakitu.abtasty.com
 0.0.0.0 staging-mann-whitney.abtasty.com
-0.0.0.0 staging-mvt-api.abtasty.com
 0.0.0.0 staging-peach.abtasty.com
 0.0.0.0 staging-pokey.abtasty.com
 0.0.0.0 staging-rosalina.abtasty.com
@@ -10707,6 +10706,7 @@
 0.0.0.0 2.adjust.com
 0.0.0.0 252fwww.adjust.com
 0.0.0.0 2fapp.adjust.com
+0.0.0.0 3.adjust.com
 0.0.0.0 aapp.adjust.com
 0.0.0.0 api.adjust.com
 0.0.0.0 apl.adjust.com
@@ -10754,11 +10754,14 @@
 0.0.0.0 liveupdate.adjust.com
 0.0.0.0 localhost.adjust.com
 0.0.0.0 m.adjust.com
+0.0.0.0 mail2.adjust.com
 0.0.0.0 manjunj.adjust.com
 0.0.0.0 members.adjust.com
 0.0.0.0 mobile.adjust.com
 0.0.0.0 mobilespreeconf.adjust.com
+0.0.0.0 mongo.adjust.com
 0.0.0.0 mpression.adjust.com
+0.0.0.0 mx01.adjust.com
 0.0.0.0 mx1.adjust.com
 0.0.0.0 mysql.adjust.com
 0.0.0.0 n.adjust.com
@@ -10769,10 +10772,12 @@
 0.0.0.0 nhelp.adjust.com
 0.0.0.0 nlearn.adjust.com
 0.0.0.0 ns0.adjust.com
+0.0.0.0 ns3.adjust.com
 0.0.0.0 ops-2.adjust.com
 0.0.0.0 origin.adjust.com
 0.0.0.0 partners.adjust.com
 0.0.0.0 pp.adjust.com
+0.0.0.0 proxy.adjust.com
 0.0.0.0 rdns.adjust.com
 0.0.0.0 123.41.54.45.rdns.adjust.com
 0.0.0.0 160.41.54.45.rdns.adjust.com
@@ -10791,6 +10796,7 @@
 0.0.0.0 seg-2.adjust.com
 0.0.0.0 ssrv.adjust.com
 0.0.0.0 stage.adjust.com
+0.0.0.0 staging.adjust.com
 0.0.0.0 static.adjust.com
 0.0.0.0 status.adjust.com
 0.0.0.0 syd.adjust.com
@@ -10853,6 +10859,7 @@
 0.0.0.0 8246124.ulink.adjust.com
 0.0.0.0 8324678.ulink.adjust.com
 0.0.0.0 8548025.ulink.adjust.com
+0.0.0.0 8570997.ulink.adjust.com
 0.0.0.0 8698582.ulink.adjust.com
 0.0.0.0 8816230.ulink.adjust.com
 0.0.0.0 9016329.ulink.adjust.com
@@ -10904,6 +10911,7 @@
 0.0.0.0 virtual.adjust.com
 0.0.0.0 vod.adjust.com
 0.0.0.0 webdisk.adjust.com
+0.0.0.0 wordpress.adjust.com
 0.0.0.0 www.adjust.com
 0.0.0.0 adk2x.com
 0.0.0.0 adkernel.com
@@ -29815,6 +29823,8 @@
 0.0.0.0 dns7.comvng.com
 0.0.0.0 dns8.comvng.com
 0.0.0.0 eum.concursolutions.com
+0.0.0.0 capture.condenastdigital.com
+0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 segmentation.condenastdigital.com
 0.0.0.0 wren.condenastdigital.com
 0.0.0.0 conductrics.com
@@ -29882,7 +29892,6 @@
 0.0.0.0 minio.connatix.com
 0.0.0.0 ops.connatix.com
 0.0.0.0 registry.ops.connatix.com
-0.0.0.0 registry-stg.ops.connatix.com
 0.0.0.0 youtrack.ops.connatix.com
 0.0.0.0 registry.connatix.com
 0.0.0.0 rtb.connatix.com
@@ -30114,6 +30123,7 @@
 0.0.0.0 ckjs-resolve.convertkit.com
 0.0.0.0 compliance.convertkit.com
 0.0.0.0 conference.convertkit.com
+0.0.0.0 d.convertkit.com
 0.0.0.0 el2.convertkit.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 forms.convertkit.com
@@ -30134,6 +30144,7 @@
 0.0.0.0 o22.ck.n.convertkit.com
 0.0.0.0 link.n.convertkit.com
 0.0.0.0 pages.convertkit.com
+0.0.0.0 partners.convertkit.com
 0.0.0.0 preview.convertkit.com
 0.0.0.0 sgwebhook.convertkit.com
 0.0.0.0 staging.convertkit.com
@@ -31344,6 +31355,8 @@
 0.0.0.0 i2.s62.research.de.com
 0.0.0.0 i3.s62.research.de.com
 0.0.0.0 s79.research.de.com
+0.0.0.0 b1.s79.research.de.com
+0.0.0.0 b10.s79.research.de.com
 0.0.0.0 b100.s79.research.de.com
 0.0.0.0 b101.s79.research.de.com
 0.0.0.0 b102.s79.research.de.com
@@ -31352,8 +31365,12 @@
 0.0.0.0 b107.s79.research.de.com
 0.0.0.0 b109.s79.research.de.com
 0.0.0.0 b11.s79.research.de.com
+0.0.0.0 b110.s79.research.de.com
 0.0.0.0 b111.s79.research.de.com
 0.0.0.0 b112.s79.research.de.com
+0.0.0.0 b115.s79.research.de.com
+0.0.0.0 b118.s79.research.de.com
+0.0.0.0 b12.s79.research.de.com
 0.0.0.0 b122.s79.research.de.com
 0.0.0.0 b123.s79.research.de.com
 0.0.0.0 b124.s79.research.de.com
@@ -31361,29 +31378,41 @@
 0.0.0.0 b128.s79.research.de.com
 0.0.0.0 b130.s79.research.de.com
 0.0.0.0 b131.s79.research.de.com
+0.0.0.0 b133.s79.research.de.com
+0.0.0.0 b134.s79.research.de.com
 0.0.0.0 b135.s79.research.de.com
 0.0.0.0 b136.s79.research.de.com
 0.0.0.0 b137.s79.research.de.com
 0.0.0.0 b138.s79.research.de.com
 0.0.0.0 b139.s79.research.de.com
+0.0.0.0 b14.s79.research.de.com
 0.0.0.0 b141.s79.research.de.com
 0.0.0.0 b142.s79.research.de.com
 0.0.0.0 b143.s79.research.de.com
 0.0.0.0 b145.s79.research.de.com
+0.0.0.0 b147.s79.research.de.com
 0.0.0.0 b148.s79.research.de.com
 0.0.0.0 b15.s79.research.de.com
 0.0.0.0 b150.s79.research.de.com
 0.0.0.0 b151.s79.research.de.com
 0.0.0.0 b152.s79.research.de.com
+0.0.0.0 b153.s79.research.de.com
 0.0.0.0 b154.s79.research.de.com
 0.0.0.0 b155.s79.research.de.com
+0.0.0.0 b156.s79.research.de.com
+0.0.0.0 b157.s79.research.de.com
 0.0.0.0 b158.s79.research.de.com
 0.0.0.0 b159.s79.research.de.com
+0.0.0.0 b16.s79.research.de.com
 0.0.0.0 b160.s79.research.de.com
 0.0.0.0 b162.s79.research.de.com
+0.0.0.0 b163.s79.research.de.com
+0.0.0.0 b164.s79.research.de.com
+0.0.0.0 b165.s79.research.de.com
 0.0.0.0 b166.s79.research.de.com
 0.0.0.0 b167.s79.research.de.com
 0.0.0.0 b168.s79.research.de.com
+0.0.0.0 b169.s79.research.de.com
 0.0.0.0 b17.s79.research.de.com
 0.0.0.0 b170.s79.research.de.com
 0.0.0.0 b171.s79.research.de.com
@@ -31394,11 +31423,14 @@
 0.0.0.0 b178.s79.research.de.com
 0.0.0.0 b179.s79.research.de.com
 0.0.0.0 b18.s79.research.de.com
+0.0.0.0 b180.s79.research.de.com
+0.0.0.0 b181.s79.research.de.com
 0.0.0.0 b182.s79.research.de.com
 0.0.0.0 b183.s79.research.de.com
 0.0.0.0 b184.s79.research.de.com
 0.0.0.0 b185.s79.research.de.com
 0.0.0.0 b188.s79.research.de.com
+0.0.0.0 b189.s79.research.de.com
 0.0.0.0 b19.s79.research.de.com
 0.0.0.0 b190.s79.research.de.com
 0.0.0.0 b191.s79.research.de.com
@@ -31414,6 +31446,7 @@
 0.0.0.0 b23.s79.research.de.com
 0.0.0.0 b24.s79.research.de.com
 0.0.0.0 b25.s79.research.de.com
+0.0.0.0 b26.s79.research.de.com
 0.0.0.0 b28.s79.research.de.com
 0.0.0.0 b29.s79.research.de.com
 0.0.0.0 b3.s79.research.de.com
@@ -31431,6 +31464,7 @@
 0.0.0.0 b45.s79.research.de.com
 0.0.0.0 b46.s79.research.de.com
 0.0.0.0 b47.s79.research.de.com
+0.0.0.0 b48.s79.research.de.com
 0.0.0.0 b49.s79.research.de.com
 0.0.0.0 b5.s79.research.de.com
 0.0.0.0 b51.s79.research.de.com
@@ -31439,28 +31473,34 @@
 0.0.0.0 b55.s79.research.de.com
 0.0.0.0 b56.s79.research.de.com
 0.0.0.0 b57.s79.research.de.com
+0.0.0.0 b58.s79.research.de.com
 0.0.0.0 b60.s79.research.de.com
 0.0.0.0 b61.s79.research.de.com
 0.0.0.0 b62.s79.research.de.com
 0.0.0.0 b63.s79.research.de.com
+0.0.0.0 b65.s79.research.de.com
 0.0.0.0 b66.s79.research.de.com
 0.0.0.0 b67.s79.research.de.com
 0.0.0.0 b68.s79.research.de.com
 0.0.0.0 b69.s79.research.de.com
 0.0.0.0 b7.s79.research.de.com
 0.0.0.0 b71.s79.research.de.com
+0.0.0.0 b72.s79.research.de.com
 0.0.0.0 b73.s79.research.de.com
 0.0.0.0 b74.s79.research.de.com
 0.0.0.0 b76.s79.research.de.com
 0.0.0.0 b77.s79.research.de.com
 0.0.0.0 b78.s79.research.de.com
 0.0.0.0 b79.s79.research.de.com
+0.0.0.0 b8.s79.research.de.com
 0.0.0.0 b80.s79.research.de.com
 0.0.0.0 b81.s79.research.de.com
 0.0.0.0 b82.s79.research.de.com
 0.0.0.0 b83.s79.research.de.com
+0.0.0.0 b84.s79.research.de.com
 0.0.0.0 b86.s79.research.de.com
 0.0.0.0 b87.s79.research.de.com
+0.0.0.0 b89.s79.research.de.com
 0.0.0.0 b9.s79.research.de.com
 0.0.0.0 b90.s79.research.de.com
 0.0.0.0 b91.s79.research.de.com
@@ -36424,6 +36464,7 @@
 0.0.0.0 imh.boa.exacttarget.com
 0.0.0.0 mc.boa.exacttarget.com
 0.0.0.0 members.boa.exacttarget.com
+0.0.0.0 origin-akamai-members.boa.exacttarget.com
 0.0.0.0 origin-mc.boa.exacttarget.com
 0.0.0.0 pages.boa.exacttarget.com
 0.0.0.0 pub.boa.exacttarget.com
@@ -36778,6 +36819,7 @@
 0.0.0.0 manage-api.s1.qa3.exacttarget.com
 0.0.0.0 mc.s1.qa3.exacttarget.com
 0.0.0.0 members.s1.qa3.exacttarget.com
+0.0.0.0 origin-akamai-auth.s1.qa3.exacttarget.com
 0.0.0.0 origin-auth.s1.qa3.exacttarget.com
 0.0.0.0 origin-click.s1.qa3.exacttarget.com
 0.0.0.0 origin-mc.s1.qa3.exacttarget.com
@@ -44556,7 +44598,6 @@
 0.0.0.0 home.stage.justpremium.com
 0.0.0.0 tracking.stage.justpremium.com
 0.0.0.0 staging.justpremium.com
-0.0.0.0 ox.adserver.staging.justpremium.com
 0.0.0.0 tracking.justpremium.com
 0.0.0.0 10.72.180.60emea-v3.tracking.justpremium.com
 0.0.0.0 emea-v3.tracking.justpremium.com
@@ -47388,12 +47429,14 @@
 0.0.0.0 c.liadm.com
 0.0.0.0 ci.liadm.com
 0.0.0.0 d.liadm.com
+0.0.0.0 gdpr.liadm.com
 0.0.0.0 i.liadm.com
 0.0.0.0 i6.liadm.com
 0.0.0.0 idx.liadm.com
 0.0.0.0 if.liadm.com
 0.0.0.0 lcidc.liadm.com
 0.0.0.0 p.liadm.com
+0.0.0.0 privacy-test.liadm.com
 0.0.0.0 rp.liadm.com
 0.0.0.0 rp4.liadm.com
 0.0.0.0 smetrics.libertymutual.com
@@ -47869,6 +47912,30 @@
 0.0.0.0 www.listrakbi.com
 0.0.0.0 liveadsadvert.com
 0.0.0.0 liveadsnetwork.com
+0.0.0.0 liveintent.com
+0.0.0.0 api.liveintent.com
+0.0.0.0 autodiscover.liveintent.com
+0.0.0.0 collector-production.bln.liveintent.com
+0.0.0.0 boop.liveintent.com
+0.0.0.0 c.liveintent.com
+0.0.0.0 cb.liveintent.com
+0.0.0.0 choices.liveintent.com
+0.0.0.0 cph.liveintent.com
+0.0.0.0 gdpr.cph.liveintent.com
+0.0.0.0 idaas-ext.cph.liveintent.com
+0.0.0.0 idaas6.cph.liveintent.com
+0.0.0.0 privacy-test.cph.liveintent.com
+0.0.0.0 info.liveintent.com
+0.0.0.0 lfm.liveintent.com
+0.0.0.0 li.liveintent.com
+0.0.0.0 mcontent.liveintent.com
+0.0.0.0 onboarding.liveintent.com
+0.0.0.0 privacy-auth.liveintent.com
+0.0.0.0 reply.liveintent.com
+0.0.0.0 reporting.liveintent.com
+0.0.0.0 sailthru.liveintent.com
+0.0.0.0 ww2.liveintent.com
+0.0.0.0 www.liveintent.com
 0.0.0.0 livelumber.com
 0.0.0.0 adserver.livenetlife.com
 0.0.0.0 engine.livenetlife.com
@@ -53679,12 +53746,14 @@
 0.0.0.0 sn05.mktossl.com
 0.0.0.0 www.mktossl.com
 0.0.0.0 mktoweb.com
+0.0.0.0 015-oka-187.mktoweb.com
 0.0.0.0 016-yag-118.mktoweb.com
 0.0.0.0 020-eom-571.mktoweb.com
 0.0.0.0 021-xac-726.mktoweb.com
 0.0.0.0 022-ufe-390.mktoweb.com
 0.0.0.0 023-ooy-216.mktoweb.com
 0.0.0.0 023-umz-412.mktoweb.com
+0.0.0.0 026-wsf-030.mktoweb.com
 0.0.0.0 033-tkx-221.mktoweb.com
 0.0.0.0 046-bht-957.mktoweb.com
 0.0.0.0 046-kcm-128.mktoweb.com
@@ -53734,6 +53803,7 @@
 0.0.0.0 188-kzv-169.mktoweb.com
 0.0.0.0 192-cuc-121.mktoweb.com
 0.0.0.0 194-aog-653.mktoweb.com
+0.0.0.0 195-ndq-110.mktoweb.com
 0.0.0.0 205-mgn-013.mktoweb.com
 0.0.0.0 208-tjd-841.mktoweb.com
 0.0.0.0 208-tom-187.mktoweb.com
@@ -53757,6 +53827,8 @@
 0.0.0.0 259-sdw-450.mktoweb.com
 0.0.0.0 262-osw-212.mktoweb.com
 0.0.0.0 269-nkl-820.mktoweb.com
+0.0.0.0 275-axl-829.mktoweb.com
+0.0.0.0 276-jaq-980.mktoweb.com
 0.0.0.0 283-wsp-522.mktoweb.com
 0.0.0.0 285-sew-826.mktoweb.com
 0.0.0.0 286-iyj-475.mktoweb.com
@@ -53803,6 +53875,7 @@
 0.0.0.0 395-oib-386.mktoweb.com
 0.0.0.0 396-jix-137.mktoweb.com
 0.0.0.0 396-ppv-146.mktoweb.com
+0.0.0.0 397-zrs-971.mktoweb.com
 0.0.0.0 3pillarglobal.mktoweb.com
 0.0.0.0 404-mxv-301.mktoweb.com
 0.0.0.0 406-iur-638.mktoweb.com
@@ -53824,6 +53897,7 @@
 0.0.0.0 441-mjy-577.mktoweb.com
 0.0.0.0 443-udw-134.mktoweb.com
 0.0.0.0 446-acy-111.mktoweb.com
+0.0.0.0 447-hob-101.mktoweb.com
 0.0.0.0 448-yox-570.mktoweb.com
 0.0.0.0 454-ize-737.mktoweb.com
 0.0.0.0 458-afw-487.mktoweb.com
@@ -53831,6 +53905,7 @@
 0.0.0.0 466-ral-971.mktoweb.com
 0.0.0.0 469-hoo-201.mktoweb.com
 0.0.0.0 470-qwh-202.mktoweb.com
+0.0.0.0 473-aco-626.mktoweb.com
 0.0.0.0 474-tje-693.mktoweb.com
 0.0.0.0 475-rau-903.mktoweb.com
 0.0.0.0 478-isx-896.mktoweb.com
@@ -53878,6 +53953,7 @@
 0.0.0.0 550-hnd-869.mktoweb.com
 0.0.0.0 551-onw-287.mktoweb.com
 0.0.0.0 552-vsk-089.mktoweb.com
+0.0.0.0 553-oni-042.mktoweb.com
 0.0.0.0 553-xcq-670.mktoweb.com
 0.0.0.0 556-axw-270.mktoweb.com
 0.0.0.0 558-kxs-517.mktoweb.com
@@ -53962,6 +54038,7 @@
 0.0.0.0 756-lmp-353.mktoweb.com
 0.0.0.0 757-urf-578.mktoweb.com
 0.0.0.0 759-ijg-456.mktoweb.com
+0.0.0.0 759-xkh-839.mktoweb.com
 0.0.0.0 763-jpk-854.mktoweb.com
 0.0.0.0 764-ltx-566.mktoweb.com
 0.0.0.0 766-vod-916.mktoweb.com
@@ -54056,6 +54133,7 @@
 0.0.0.0 968-sxl-454.mktoweb.com
 0.0.0.0 970-hpo-758.mktoweb.com
 0.0.0.0 970-kob-762.mktoweb.com
+0.0.0.0 973-rpz-052.mktoweb.com
 0.0.0.0 975-ecw-172.mktoweb.com
 0.0.0.0 976-oja-437.mktoweb.com
 0.0.0.0 982-tuc-460.mktoweb.com
@@ -63641,6 +63719,7 @@
 0.0.0.0 bulkquery2.petametrics.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn-cloudfront.petametrics.com
+0.0.0.0 cdn-fallback.petametrics.com
 0.0.0.0 cdn-maxcdn.petametrics.com
 0.0.0.0 deltaflow.petametrics.com
 0.0.0.0 staging.deltaflow.petametrics.com
@@ -64270,6 +64349,7 @@
 0.0.0.0 boujieblackgirl.privy.com
 0.0.0.0 broadcat.privy.com
 0.0.0.0 brueggers.privy.com
+0.0.0.0 campaign-preview.privy.com
 0.0.0.0 castingcrowns.privy.com
 0.0.0.0 cfduid.privy.com
 0.0.0.0 cheddars.privy.com
@@ -70839,6 +70919,7 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 downloads.sentry-cdn.com
 0.0.0.0 js.sentry-cdn.com
+0.0.0.0 rowser.sentry-cdn.com
 0.0.0.0 s1.sentry-cdn.com
 0.0.0.0 www.sentry-cdn.com
 0.0.0.0 servebom.com
@@ -72034,6 +72115,7 @@
 0.0.0.0 adapi.uat.sizmek.com
 0.0.0.0 uffa.sizmek.com
 0.0.0.0 usav.sizmek.com
+0.0.0.0 vendors.sizmek.com
 0.0.0.0 video.sizmek.com
 0.0.0.0 www.sizmek.com
 0.0.0.0 skimlinks.com
@@ -74185,6 +74267,7 @@
 0.0.0.0 app.survicate.com
 0.0.0.0 assets.survicate.com
 0.0.0.0 changelog.survicate.com
+0.0.0.0 fleet.survicate.com
 0.0.0.0 go.survicate.com
 0.0.0.0 panel.survicate.com
 0.0.0.0 panel-api.survicate.com
@@ -74981,6 +75064,7 @@
 0.0.0.0 redirect533.tagcommander.com
 0.0.0.0 redirect619.tagcommander.com
 0.0.0.0 redirect660.tagcommander.com
+0.0.0.0 redirect684.tagcommander.com
 0.0.0.0 redirect685.tagcommander.com
 0.0.0.0 redirect699.tagcommander.com
 0.0.0.0 redirect783.tagcommander.com
@@ -77444,7 +77528,6 @@
 0.0.0.0 3-as.tribalfusion.com
 0.0.0.0 3-eu.tribalfusion.com
 0.0.0.0 a.tribalfusion.com
-0.0.0.0 a-stage1-dsa.tribalfusion.com
 0.0.0.0 ads.tribalfusion.com
 0.0.0.0 adxrtb-as.tribalfusion.com
 0.0.0.0 adxrtb-eu.tribalfusion.com
@@ -77454,6 +77537,7 @@
 0.0.0.0 b9-as-imp.tribalfusion.com
 0.0.0.0 b9-eu-imp.tribalfusion.com
 0.0.0.0 b9-imp.tribalfusion.com
+0.0.0.0 beta.tribalfusion.com
 0.0.0.0 a.beta.tribalfusion.com
 0.0.0.0 bidder-vast.tribalfusion.com
 0.0.0.0 bidder9-as-imp.tribalfusion.com
@@ -78832,6 +78916,7 @@
 0.0.0.0 content-f.vergic.com
 0.0.0.0 content-i.vergic.com
 0.0.0.0 content40.vergic.com
+0.0.0.0 d.vergic.com
 0.0.0.0 dconnect.vergic.com
 0.0.0.0 drift-af.vergic.com
 0.0.0.0 eu.vergic.com
@@ -78860,6 +78945,7 @@
 0.0.0.0 hm-test2.vergic.com
 0.0.0.0 hm-vergic.vergic.com
 0.0.0.0 idp.vergic.com
+0.0.0.0 int.vergic.com
 0.0.0.0 mail.vergic.com
 0.0.0.0 ns1.vergic.com
 0.0.0.0 ns2.vergic.com
@@ -78872,14 +78958,17 @@
 0.0.0.0 st-unak.vergic.com
 0.0.0.0 telecomdemo.vergic.com
 0.0.0.0 teliab2b.vergic.com
+0.0.0.0 testpub.vergic.com
 0.0.0.0 us.vergic.com
 0.0.0.0 us-1aauto.vergic.com
+0.0.0.0 us-211la.vergic.com
 0.0.0.0 us-aicpa.vergic.com
 0.0.0.0 us-akc.vergic.com
 0.0.0.0 us-alterra.vergic.com
 0.0.0.0 us-assessmenttechnologies.vergic.com
 0.0.0.0 us-basicresearch.vergic.com
 0.0.0.0 us-bjs.vergic.com
+0.0.0.0 us-blirentals.vergic.com
 0.0.0.0 us-brownells.vergic.com
 0.0.0.0 us-calendars.vergic.com
 0.0.0.0 us-citizen.vergic.com
@@ -79281,6 +79370,7 @@
 0.0.0.0 ct.vindicosuite.com
 0.0.0.0 cug.vindicosuite.com
 0.0.0.0 e.vindicosuite.com
+0.0.0.0 facebook.vindicosuite.com
 0.0.0.0 fx.vindicosuite.com
 0.0.0.0 fxumo.vindicosuite.com
 0.0.0.0 xoxomaplianta.ltdcdn.vindicosuite.com
@@ -79467,7 +79557,6 @@
 0.0.0.0 bhg.vizury.com
 0.0.0.0 blanja.vizury.com
 0.0.0.0 br-tags.vizury.com
-0.0.0.0 bumblebeelinens.vizury.com
 0.0.0.0 campaigns.vizury.com
 0.0.0.0 cdn.vizury.com
 0.0.0.0 cdn-fb.vizury.com
@@ -79491,20 +79580,14 @@
 0.0.0.0 cn-tags.vizury.com
 0.0.0.0 ctcdn.vizury.com
 0.0.0.0 default-tags.vizury.com
-0.0.0.0 divers-supply.vizury.com
-0.0.0.0 eastessence.vizury.com
 0.0.0.0 electronic-star.vizury.com
 0.0.0.0 email.vizury.com
 0.0.0.0 engage.vizury.com
 0.0.0.0 engage-commerce-demo.vizury.com
 0.0.0.0 engage2.vizury.com
 0.0.0.0 eu-tags.vizury.com
-0.0.0.0 falabella.vizury.com
-0.0.0.0 falabella-ar.vizury.com
-0.0.0.0 falabella-colombia.vizury.com
 0.0.0.0 falabella-pe.vizury.com
 0.0.0.0 feedcache.vizury.com
-0.0.0.0 glambox.vizury.com
 0.0.0.0 hub.vizury.com
 0.0.0.0 icloud.vizury.com
 0.0.0.0 in-tags.vizury.com
@@ -79513,17 +79596,12 @@
 0.0.0.0 jad-stage.vizury.com
 0.0.0.0 jp-pl.vizury.com
 0.0.0.0 jp-tags.vizury.com
-0.0.0.0 kpi1031.vizury.com
 0.0.0.0 kr-tags.vizury.com
 0.0.0.0 lazygames.vizury.com
-0.0.0.0 marinedepot.vizury.com
 0.0.0.0 mea-tags.vizury.com
 0.0.0.0 metrics.vizury.com
 0.0.0.0 mobile-cdn.vizury.com
-0.0.0.0 more.vizury.com
 0.0.0.0 mu-pl.vizury.com
-0.0.0.0 muthuhotels.vizury.com
-0.0.0.0 northshorecare.vizury.com
 0.0.0.0 notbot.vizury.com
 0.0.0.0 onsite.vizury.com
 0.0.0.0 parenting.vizury.com
@@ -79543,8 +79621,6 @@
 0.0.0.0 ssl.vizury.com
 0.0.0.0 sslads.vizury.com
 0.0.0.0 stageweb.vizury.com
-0.0.0.0 superjeweler.vizury.com
-0.0.0.0 takealot.vizury.com
 0.0.0.0 themoviehouse.vizury.com
 0.0.0.0 tig.vizury.com
 0.0.0.0 tr.vizury.com
@@ -82947,6 +83023,7 @@
 0.0.0.0 b1-sadc1-win.zemanta.com
 0.0.0.0 b1-use1.zemanta.com
 0.0.0.0 b1-usw1.zemanta.com
+0.0.0.0 b1h.zemanta.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b1t-chidc2.zemanta.com
 0.0.0.0 b1t-eudc1.zemanta.com
@@ -86645,6 +86722,7 @@
 0.0.0.0 status.instana.io
 0.0.0.0 tenshoku-mynavi.instana.io
 0.0.0.0 trial-felissimo.instana.io
+0.0.0.0 trial-scskprescendo.instana.io
 0.0.0.0 us-west-2.instana.io
 0.0.0.0 intercom.io
 0.0.0.0 api.intercom.io
@@ -87032,6 +87110,7 @@
 0.0.0.0 content.liftoff.io
 0.0.0.0 dev.liftoff.io
 0.0.0.0 events.liftoff.io
+0.0.0.0 google-cdn.liftoff.io
 0.0.0.0 helpdesk.liftoff.io
 0.0.0.0 heroes.liftoff.io
 0.0.0.0 dev.heroes.liftoff.io
@@ -87222,6 +87301,8 @@
 0.0.0.0 media.p-n.io
 0.0.0.0 pagesense.io
 0.0.0.0 cdn.pagesense.io
+0.0.0.0 70232aadf6484a9ea88a99e74ea83837.cdn.pagesense.io
+0.0.0.0 zohotagmanager.cdn.pagesense.io
 0.0.0.0 cdn-au.pagesense.io
 0.0.0.0 cdn-eu.pagesense.io
 0.0.0.0 cdn-in.pagesense.io
@@ -93326,6 +93407,7 @@
 0.0.0.0 ivid-f9-de.adhigh.net
 0.0.0.0 jenkins3-de.adhigh.net
 0.0.0.0 mvn.adhigh.net
+0.0.0.0 n8n.adhigh.net
 0.0.0.0 pass.adhigh.net
 0.0.0.0 puppet2.adhigh.net
 0.0.0.0 putin.adhigh.net
@@ -95527,6 +95609,7 @@
 0.0.0.0 zainescu.authnumer.hop.clickbank.net
 0.0.0.0 dexmac.auttraffic.hop.clickbank.net
 0.0.0.0 az5qn8vdmjewd4.hop.clickbank.net
+0.0.0.0 www.b1060no8673u5l58vi150ofyri.hop.clickbank.net
 0.0.0.0 b3zvcvi6fcm2e.hop.clickbank.net
 0.0.0.0 www.b583chsmjfdf8ufghfr67r6nc9.hop.clickbank.net
 0.0.0.0 b7p7y.hop.clickbank.net
@@ -98393,6 +98476,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 account.criteo.net
 0.0.0.0 as.criteo.net
+0.0.0.0 vl210.c4k01-mgi.as.criteo.net
 0.0.0.0 csm.as.criteo.net
 0.0.0.0 hk.as.criteo.net
 0.0.0.0 csm.hk.as.criteo.net
@@ -98599,6 +98683,7 @@
 0.0.0.0 aaaautoclubsouth.demdex.net
 0.0.0.0 fast.aaaautoclubsouth.demdex.net
 0.0.0.0 aaanortheast.demdex.net
+0.0.0.0 fast.aaanortheast.demdex.net
 0.0.0.0 aaas.demdex.net
 0.0.0.0 fast.aaas.demdex.net
 0.0.0.0 aafes.demdex.net
@@ -99005,6 +99090,7 @@
 0.0.0.0 cort.demdex.net
 0.0.0.0 cortalconsors.demdex.net
 0.0.0.0 corus.demdex.net
+0.0.0.0 fast.corus.demdex.net
 0.0.0.0 costco.demdex.net
 0.0.0.0 costplusmanagementservicesinc.demdex.net
 0.0.0.0 coty.demdex.net
@@ -99054,6 +99140,7 @@
 0.0.0.0 dbs.demdex.net
 0.0.0.0 dbsystel.demdex.net
 0.0.0.0 dcs-kscluster-stage.demdex.net
+0.0.0.0 dcu.demdex.net
 0.0.0.0 de.demdex.net
 0.0.0.0 deakin.demdex.net
 0.0.0.0 deere.demdex.net
@@ -99347,6 +99434,7 @@
 0.0.0.0 haascnc.demdex.net
 0.0.0.0 hagerty.demdex.net
 0.0.0.0 hallmarkcom.demdex.net
+0.0.0.0 fast.hallmarkcom.demdex.net
 0.0.0.0 handm.demdex.net
 0.0.0.0 fast.handm.demdex.net
 0.0.0.0 hangseng.demdex.net
@@ -99578,6 +99666,7 @@
 0.0.0.0 fast.leroymerlin.demdex.net
 0.0.0.0 levis.demdex.net
 0.0.0.0 fast.levis.demdex.net
+0.0.0.0 lexisnexisrisksolutions.demdex.net
 0.0.0.0 lexmark.demdex.net
 0.0.0.0 fast.lexmark.demdex.net
 0.0.0.0 lgelectronics.demdex.net
@@ -99805,6 +99894,7 @@
 0.0.0.0 fast.nikkei.demdex.net
 0.0.0.0 nintendoofamericainc.demdex.net
 0.0.0.0 nissan-helios-na.demdex.net
+0.0.0.0 fast.nissan-helios-na.demdex.net
 0.0.0.0 nissanhelios-jao.demdex.net
 0.0.0.0 fast.nissanhelios-jao.demdex.net
 0.0.0.0 nissanheliosami.demdex.net
@@ -103718,6 +103808,7 @@
 0.0.0.0 ma1465-r.analytics.edgekey.net
 0.0.0.0 ma1468-r.analytics.edgekey.net
 0.0.0.0 ma1472-r.analytics.edgekey.net
+0.0.0.0 ma1476-r.analytics.edgekey.net
 0.0.0.0 ma156-r.analytics.edgekey.net
 0.0.0.0 ma180-r.analytics.edgekey.net
 0.0.0.0 ma185-r.analytics.edgekey.net
@@ -103873,6 +103964,7 @@
 0.0.0.0 studio-t.teads.tv.edgekey.net
 0.0.0.0 sync.teads.tv.edgekey.net
 0.0.0.0 t.teads.tv.edgekey.net
+0.0.0.0 ds-aksb-a.akamaihd.net.edgesuite.net
 0.0.0.0 sitescout-video-cdn.edgesuite.net
 0.0.0.0 effectivemeasure.net
 0.0.0.0 9044478959fe47bb.effectivemeasure.net
@@ -104820,6 +104912,7 @@
 0.0.0.0 5cae3.v.fwmrm.net
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5d3e9.v.fwmrm.net
+0.0.0.0 5d401.v.fwmrm.net
 0.0.0.0 5d402.v.fwmrm.net
 0.0.0.0 5d404.v.fwmrm.net
 0.0.0.0 5d406.v.fwmrm.net
@@ -105479,6 +105572,7 @@
 0.0.0.0 548490918741427.mateti.net
 0.0.0.0 550938580922478.mateti.net
 0.0.0.0 577680464855331.mateti.net
+0.0.0.0 589430062152496.mateti.net
 0.0.0.0 589514176000918.mateti.net
 0.0.0.0 596587256968718.mateti.net
 0.0.0.0 601895680266687.mateti.net
@@ -106752,6 +106846,7 @@
 0.0.0.0 ww.ojrq.net
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.www.ojrq.net
+0.0.0.0 xwww.ojrq.net
 0.0.0.0 yaysave.ojrq.net
 0.0.0.0 omtrdc.net
 0.0.0.0 hb.omtrdc.net
@@ -107469,6 +107564,7 @@
 0.0.0.0 insuramatch.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 investors.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 java.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 jetblue.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 jobstreet.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 kmart.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 lancastereaglegazette.com.ssl.d1.sc.omtrdc.net
@@ -108825,11 +108921,32 @@
 0.0.0.0 capella.edu.ssl.sc.omtrdc.net
 0.0.0.0 wgu.edu.ssl.sc.omtrdc.net
 0.0.0.0 es.ssl.sc.omtrdc.net
+0.0.0.0 abc.es.ssl.sc.omtrdc.net
+0.0.0.0 avis.es.ssl.sc.omtrdc.net
+0.0.0.0 budget.es.ssl.sc.omtrdc.net
+0.0.0.0 caixabank.es.ssl.sc.omtrdc.net
+0.0.0.0 elnortedecastilla.es.ssl.sc.omtrdc.net
+0.0.0.0 fishersci.es.ssl.sc.omtrdc.net
+0.0.0.0 hoy.es.ssl.sc.omtrdc.net
+0.0.0.0 ideal.es.ssl.sc.omtrdc.net
+0.0.0.0 ing.es.ssl.sc.omtrdc.net
+0.0.0.0 ingdirect.es.ssl.sc.omtrdc.net
+0.0.0.0 jungheinrich-profishop.es.ssl.sc.omtrdc.net
+0.0.0.0 makro.es.ssl.sc.omtrdc.net
+0.0.0.0 michaelkors.es.ssl.sc.omtrdc.net
+0.0.0.0 paf.es.ssl.sc.omtrdc.net
+0.0.0.0 shopdisney.es.ssl.sc.omtrdc.net
+0.0.0.0 sky.es.ssl.sc.omtrdc.net
+0.0.0.0 sony.es.ssl.sc.omtrdc.net
+0.0.0.0 vodafone.es.ssl.sc.omtrdc.net
 0.0.0.0 aktia.fi.ssl.sc.omtrdc.net
 0.0.0.0 fm.ssl.sc.omtrdc.net
 0.0.0.0 avis.fr.ssl.sc.omtrdc.net
 0.0.0.0 global.ssl.sc.omtrdc.net
 0.0.0.0 gov.ssl.sc.omtrdc.net
+0.0.0.0 cancer.gov.ssl.sc.omtrdc.net
+0.0.0.0 congress.gov.ssl.sc.omtrdc.net
+0.0.0.0 lacounty.gov.ssl.sc.omtrdc.net
 0.0.0.0 loc.gov.ssl.sc.omtrdc.net
 0.0.0.0 lululemon.com.hk.ssl.sc.omtrdc.net
 0.0.0.0 info.ssl.sc.omtrdc.net
@@ -111642,6 +111759,8 @@
 0.0.0.0 collector-pxfqtaw5et.px-cdn.net
 0.0.0.0 collector-pxfxx25tyn.px-cdn.net
 0.0.0.0 collector-pxg8atfja1.px-cdn.net
+0.0.0.0 collector-pxghhyv7jv.px-cdn.net
+0.0.0.0 collector-pxgm4fv3vc.px-cdn.net
 0.0.0.0 collector-pxgy5w79au.px-cdn.net
 0.0.0.0 collector-pxhd2cxrgh.px-cdn.net
 0.0.0.0 collector-pxhp4b16gp.px-cdn.net
@@ -111696,6 +111815,7 @@
 0.0.0.0 collector-pxs2e03d8g.px-cdn.net
 0.0.0.0 collector-pxsew6hkxg.px-cdn.net
 0.0.0.0 collector-pxslc3j22k.px-cdn.net
+0.0.0.0 collector-pxsmtpgl4l.px-cdn.net
 0.0.0.0 collector-pxss13u803.px-cdn.net
 0.0.0.0 collector-pxszbf5p84.px-cdn.net
 0.0.0.0 collector-pxszbkva5m.px-cdn.net
@@ -112446,6 +112566,7 @@
 0.0.0.0 ewr-247.ewr-rtb1.rfihub.net
 0.0.0.0 ewr-249.ewr-rtb1.rfihub.net
 0.0.0.0 ewr-251.ewr-rtb1.rfihub.net
+0.0.0.0 ewr-253.ewr-rtb1.rfihub.net
 0.0.0.0 ewr-254.ewr-rtb1.rfihub.net
 0.0.0.0 ewr-255.ewr-rtb1.rfihub.net
 0.0.0.0 ewr-256.ewr-rtb1.rfihub.net
@@ -113764,6 +113885,7 @@
 0.0.0.0 filter0741p1iad2.sendgrid.net
 0.0.0.0 filter0742p1iad2.sendgrid.net
 0.0.0.0 filter0743p1iad2.sendgrid.net
+0.0.0.0 filter0744p1iad2.sendgrid.net
 0.0.0.0 filter0745p1iad2.sendgrid.net
 0.0.0.0 filter0745p1las1.sendgrid.net
 0.0.0.0 filter0746p1iad2.sendgrid.net
@@ -114921,6 +115043,7 @@
 0.0.0.0 sggw-prod.sendgrid.net
 0.0.0.0 sggw-staging.sendgrid.net
 0.0.0.0 sink.sendgrid.net
+0.0.0.0 splunk.sendgrid.net
 0.0.0.0 staging.sendgrid.net
 0.0.0.0 google-staging.staging.sendgrid.net
 0.0.0.0 optimization-staging.staging.sendgrid.net
@@ -115281,7 +115404,6 @@
 0.0.0.0 randstad.silveregg.net
 0.0.0.0 reclo.silveregg.net
 0.0.0.0 recogazo.silveregg.net
-0.0.0.0 enwomen.recogazo.silveregg.net
 0.0.0.0 rehouse.silveregg.net
 0.0.0.0 rneshop.silveregg.net
 0.0.0.0 ropping.silveregg.net
@@ -116247,6 +116369,7 @@
 0.0.0.0 q3.webtrekk.net
 0.0.0.0 q3-2.webtrekk.net
 0.0.0.0 reichelt02.webtrekk.net
+0.0.0.0 rewe01.webtrekk.net
 0.0.0.0 ru01.webtrekk.net
 0.0.0.0 salem02.webtrekk.net
 0.0.0.0 sapato01.webtrekk.net
@@ -116657,6 +116780,7 @@
 0.0.0.0 smetrics.aarp.org
 0.0.0.0 ads.org
 0.0.0.0 autodiscover.ads.org
+0.0.0.0 cpcontacts.ads.org
 0.0.0.0 mail.ads.org
 0.0.0.0 webdisk.ads.org
 0.0.0.0 www.ads.org
@@ -116940,6 +117064,9 @@
 0.0.0.0 test.oriel.mgr.consensu.org
 0.0.0.0 paruvendu.mgr.consensu.org
 0.0.0.0 pharmapartner.mgr.consensu.org
+0.0.0.0 cpcontacts.pharmapartner.mgr.consensu.org
+0.0.0.0 webdisk.pharmapartner.mgr.consensu.org
+0.0.0.0 www.pharmapartner.mgr.consensu.org
 0.0.0.0 purch.mgr.consensu.org
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 api.quantcast.mgr.consensu.org
@@ -116991,6 +117118,7 @@
 0.0.0.0 log.uniconsent.mgr.consensu.org
 0.0.0.0 usercentrics.mgr.consensu.org
 0.0.0.0 vortex.mgr.consensu.org
+0.0.0.0 webads.mgr.consensu.org
 0.0.0.0 webedia.mgr.consensu.org
 0.0.0.0 cmp.webedia.mgr.consensu.org
 0.0.0.0 wpm.mgr.consensu.org
@@ -117093,6 +117221,7 @@
 0.0.0.0 admperformance.go2cloud.org
 0.0.0.0 adnanny.go2cloud.org
 0.0.0.0 adnet7.go2cloud.org
+0.0.0.0 adnetmarket.go2cloud.org
 0.0.0.0 adonis.go2cloud.org
 0.0.0.0 adotmobanalytics.go2cloud.org
 0.0.0.0 adp.go2cloud.org
@@ -117112,6 +117241,7 @@
 0.0.0.0 adstrategy.go2cloud.org
 0.0.0.0 adstrologycpa.go2cloud.org
 0.0.0.0 adsup.go2cloud.org
+0.0.0.0 adsup-elb.go2cloud.org
 0.0.0.0 adtackmedia.go2cloud.org
 0.0.0.0 adtank.go2cloud.org
 0.0.0.0 adthinkcpa.go2cloud.org
@@ -117195,13 +117325,16 @@
 0.0.0.0 blackorange.go2cloud.org
 0.0.0.0 blacksheep.go2cloud.org
 0.0.0.0 blindferretmedia.go2cloud.org
+0.0.0.0 blueflameelite.go2cloud.org
 0.0.0.0 bluelinkmarketing0.go2cloud.org
 0.0.0.0 bluerazormedia.go2cloud.org
 0.0.0.0 bmi.go2cloud.org
 0.0.0.0 brandedoffersaff.go2cloud.org
 0.0.0.0 brawnmill.go2cloud.org
+0.0.0.0 brusmedia.go2cloud.org
 0.0.0.0 bucksense.go2cloud.org
 0.0.0.0 bucksmedia.go2cloud.org
+0.0.0.0 bukalapak.go2cloud.org
 0.0.0.0 buy2.go2cloud.org
 0.0.0.0 buypremierleads.go2cloud.org
 0.0.0.0 buzzreferrals.go2cloud.org
@@ -117221,6 +117354,7 @@
 0.0.0.0 clicksandclients.go2cloud.org
 0.0.0.0 clixzen1.go2cloud.org
 0.0.0.0 cloveads.go2cloud.org
+0.0.0.0 www.cloveads.go2cloud.org
 0.0.0.0 clvrtrkr.go2cloud.org
 0.0.0.0 cmschatcash.go2cloud.org
 0.0.0.0 coachingminceur.go2cloud.org
@@ -118003,6 +118137,11 @@
 0.0.0.0 onet.hit.gemius.pl
 0.0.0.0 pcsppl.hit.gemius.pl
 0.0.0.0 pl.hit.gemius.pl
+0.0.0.0 gemius.pl.hit.gemius.pl
+0.0.0.0 gabe.hit.gemius.pl.hit.gemius.pl
+0.0.0.0 gaby.hit.gemius.pl.hit.gemius.pl
+0.0.0.0 pro.hit.gemius.pl.hit.gemius.pl
+0.0.0.0 str.hit.gemius.pl.hit.gemius.pl
 0.0.0.0 pracuj.hit.gemius.pl
 0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 pro.hit.gemius.pl
@@ -118689,6 +118828,7 @@
 0.0.0.0 n.rich
 0.0.0.0 auth.n.rich
 0.0.0.0 vesta.n.rich
+0.0.0.0 www.vesta.n.rich
 0.0.0.0 webinar.n.rich
 0.0.0.0 www.n.rich
 0.0.0.0 creativeads.ro
@@ -119326,6 +119466,7 @@
 0.0.0.0 app-3qnb178j7q.marketingautomation.services
 0.0.0.0 app-3qnb1hi1wy.marketingautomation.services
 0.0.0.0 app-3qnb1qas8a.marketingautomation.services
+0.0.0.0 app-3qnbnznp2k.marketingautomation.services
 0.0.0.0 app-3qnbr6rlcu.marketingautomation.services
 0.0.0.0 app-3qnbtg5cro.marketingautomation.services
 0.0.0.0 app-3qnbyh8qey.marketingautomation.services
@@ -119445,6 +119586,7 @@
 0.0.0.0 cst2.marketingautomation.services
 0.0.0.0 cst3.marketingautomation.services
 0.0.0.0 ddom.marketingautomation.services
+0.0.0.0 ferrilli.marketingautomation.services
 0.0.0.0 fortinetglgagencyaccount.marketingautomation.services
 0.0.0.0 garriganlymangroup.marketingautomation.services
 0.0.0.0 grupograiche.marketingautomation.services
@@ -119735,6 +119877,7 @@
 0.0.0.0 koi-3qnhse28nc.marketingautomation.services
 0.0.0.0 koi-3qnhwzrc8s.marketingautomation.services
 0.0.0.0 koi-3qnhybeys6.marketingautomation.services
+0.0.0.0 koi-3qnhzbca8g.marketingautomation.services
 0.0.0.0 koi-3qni0re9xi.marketingautomation.services
 0.0.0.0 koi-3qni28x20g.marketingautomation.services
 0.0.0.0 koi-3qni3bry8i.marketingautomation.services
@@ -119845,6 +119988,7 @@
 0.0.0.0 koi-3qnjmv52a0.marketingautomation.services
 0.0.0.0 koi-3qnjn2h07g.marketingautomation.services
 0.0.0.0 koi-3qnjn64z66.marketingautomation.services
+0.0.0.0 koi-3qnjnsv75g.marketingautomation.services
 0.0.0.0 koi-3qnjnxzyi2.marketingautomation.services
 0.0.0.0 koi-3qnjoj9e3g.marketingautomation.services
 0.0.0.0 koi-3qnjomxd26.marketingautomation.services
@@ -120045,6 +120189,7 @@
 0.0.0.0 koi-3qnm4m8ie6.marketingautomation.services
 0.0.0.0 koi-3qnm5b5wya.marketingautomation.services
 0.0.0.0 koi-3qnm5srdky.marketingautomation.services
+0.0.0.0 koi-3qnm6daeze.marketingautomation.services
 0.0.0.0 koi-3qnm6if6c0.marketingautomation.services
 0.0.0.0 koi-3qnm6p0q2i.marketingautomation.services
 0.0.0.0 koi-3qnm8cenp0.marketingautomation.services
@@ -120140,6 +120285,7 @@
 0.0.0.0 zilina.etarget.sk
 0.0.0.0 inres.sk
 0.0.0.0 cdn.inres.sk
+0.0.0.0 www.cdn.inres.sk
 0.0.0.0 rtb.inres.sk
 0.0.0.0 www.inres.sk
 0.0.0.0 tagm.tchibo.sk
@@ -121565,6 +121711,7 @@
 0.0.0.0 advertisers.tapjoy.kiosk.tm
 0.0.0.0 home.tapjoy.kiosk.tm
 0.0.0.0 info.tapjoy.kiosk.tm
+0.0.0.0 newsroom.tapjoy.kiosk.tm
 0.0.0.0 online.tapjoy.kiosk.tm
 0.0.0.0 tech.tapjoy.kiosk.tm
 0.0.0.0 cpx.to
@@ -122355,6 +122502,19 @@
 0.0.0.0 brands.sift.co.uk
 0.0.0.0 collector.sift.co.uk
 0.0.0.0 dev.sift.co.uk
+0.0.0.0 d7-v2-fspooner.dev.sift.co.uk
+0.0.0.0 d7-v3-drobinson.dev.sift.co.uk
+0.0.0.0 d7-v3-kchilcott.dev.sift.co.uk
+0.0.0.0 d7-v3-lwhittle.dev.sift.co.uk
+0.0.0.0 d7-v3-mharris.dev.sift.co.uk
+0.0.0.0 d7-v3-pshepherd.dev.sift.co.uk
+0.0.0.0 hz-drobinson.dev.sift.co.uk
+0.0.0.0 hz-mharris.dev.sift.co.uk
+0.0.0.0 hz-pshepherd.dev.sift.co.uk
+0.0.0.0 hz-rpope.dev.sift.co.uk
+0.0.0.0 hz-uat.dev.sift.co.uk
+0.0.0.0 hz1.dev.sift.co.uk
+0.0.0.0 hz3.dev.sift.co.uk
 0.0.0.0 email.sift.co.uk
 0.0.0.0 events.sift.co.uk
 0.0.0.0 insights.sift.co.uk
