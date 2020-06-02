@@ -1,6 +1,6 @@
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-06-02T12:56:05+00:00
-# Count: 122818 domains
+# Released: 2020-06-02T19:39:11+00:00
+# Count: 122833 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -12438,6 +12438,7 @@
 0.0.0.0 st.adnxs.com
 0.0.0.0 staging-console-cdn.adnxs.com
 0.0.0.0 tacdn.adnxs.com
+0.0.0.0 test.adnxs.com
 0.0.0.0 thunder.adnxs.com
 0.0.0.0 www.thunder.adnxs.com
 0.0.0.0 tr.adnxs.com
@@ -23240,6 +23241,7 @@
 0.0.0.0 agility.cartoonnetwork.com
 0.0.0.0 sstats.cartoonnetwork.com
 0.0.0.0 casalemedia.com
+0.0.0.0 00fun.casalemedia.com
 0.0.0.0 a001.casalemedia.com
 0.0.0.0 a003.casalemedia.com
 0.0.0.0 a007.casalemedia.com
@@ -23333,6 +23335,7 @@
 0.0.0.0 a115.casalemedia.com
 0.0.0.0 a1150.casalemedia.com
 0.0.0.0 a1153.casalemedia.com
+0.0.0.0 a1155.casalemedia.com
 0.0.0.0 a116.casalemedia.com
 0.0.0.0 a1162.casalemedia.com
 0.0.0.0 a1163.casalemedia.com
@@ -25037,6 +25040,7 @@
 0.0.0.0 a3780.casalemedia.com
 0.0.0.0 a3781.casalemedia.com
 0.0.0.0 a3782.casalemedia.com
+0.0.0.0 a3783.casalemedia.com
 0.0.0.0 a3785.casalemedia.com
 0.0.0.0 a3786.casalemedia.com
 0.0.0.0 a3787.casalemedia.com
@@ -25048,6 +25052,7 @@
 0.0.0.0 a3821.casalemedia.com
 0.0.0.0 a3825.casalemedia.com
 0.0.0.0 a3827.casalemedia.com
+0.0.0.0 a383.casalemedia.com
 0.0.0.0 a3831.casalemedia.com
 0.0.0.0 a384.casalemedia.com
 0.0.0.0 a3856.casalemedia.com
@@ -29944,6 +29949,17 @@
 0.0.0.0 web.consoliads.com
 0.0.0.0 www.web.consoliads.com
 0.0.0.0 www.consoliads.com
+0.0.0.0 consumable.com
+0.0.0.0 demos.consumable.com
+0.0.0.0 fridge.consumable.com
+0.0.0.0 kitchen.consumable.com
+0.0.0.0 landing.consumable.com
+0.0.0.0 publishers.consumable.com
+0.0.0.0 showcase.consumable.com
+0.0.0.0 vid.consumable.com
+0.0.0.0 www.consumable.com
+0.0.0.0 yummy.consumable.com
+0.0.0.0 yummy2.consumable.com
 0.0.0.0 consumedmedia.com
 0.0.0.0 archive.consumedmedia.com
 0.0.0.0 assets.consumedmedia.com
@@ -36969,13 +36985,16 @@
 0.0.0.0 ws.s4.exacttarget.com
 0.0.0.0 yodlee.s4.exacttarget.com
 0.0.0.0 s5.exacttarget.com
+0.0.0.0 anonymous.s5.exacttarget.com
 0.0.0.0 auth.s5.exacttarget.com
 0.0.0.0 bounce-mx.s5.exacttarget.com
 0.0.0.0 imh.s5.exacttarget.com
 0.0.0.0 inbound.s5.exacttarget.com
+0.0.0.0 inbound-reply.s5.exacttarget.com
 0.0.0.0 mc.s5.exacttarget.com
 0.0.0.0 members.s5.exacttarget.com
 0.0.0.0 reply-mx.s5.exacttarget.com
+0.0.0.0 rest.s5.exacttarget.com
 0.0.0.0 scpweb.s5.exacttarget.com
 0.0.0.0 pages.virt.s5.exacttarget.com
 0.0.0.0 view.virt.s5.exacttarget.com
@@ -56557,6 +56576,7 @@
 0.0.0.0 adjrds.netmng.com
 0.0.0.0 adjvk.netmng.com
 0.0.0.0 ahawks.netmng.com
+0.0.0.0 alarm.netmng.com
 0.0.0.0 allianz.netmng.com
 0.0.0.0 alpina.netmng.com
 0.0.0.0 ancm.netmng.com
@@ -79549,13 +79569,10 @@
 0.0.0.0 www.vizu.com
 0.0.0.0 yuki.vizu.com
 0.0.0.0 vizury.com
-0.0.0.0 2xu.vizury.com
 0.0.0.0 adtest.vizury.com
 0.0.0.0 anz-tags.vizury.com
 0.0.0.0 as.vizury.com
 0.0.0.0 aws.vizury.com
-0.0.0.0 bhg.vizury.com
-0.0.0.0 blanja.vizury.com
 0.0.0.0 br-tags.vizury.com
 0.0.0.0 campaigns.vizury.com
 0.0.0.0 cdn.vizury.com
@@ -79586,7 +79603,6 @@
 0.0.0.0 engage-commerce-demo.vizury.com
 0.0.0.0 engage2.vizury.com
 0.0.0.0 eu-tags.vizury.com
-0.0.0.0 falabella-pe.vizury.com
 0.0.0.0 feedcache.vizury.com
 0.0.0.0 hub.vizury.com
 0.0.0.0 icloud.vizury.com
@@ -79604,7 +79620,6 @@
 0.0.0.0 mu-pl.vizury.com
 0.0.0.0 notbot.vizury.com
 0.0.0.0 onsite.vizury.com
-0.0.0.0 parenting.vizury.com
 0.0.0.0 pivot.vizury.com
 0.0.0.0 push.vizury.com
 0.0.0.0 reports.vizury.com
@@ -79617,11 +79632,9 @@
 0.0.0.0 serv4.vizury.com
 0.0.0.0 sg-pl.vizury.com
 0.0.0.0 sg-pl-d.vizury.com
-0.0.0.0 sodimac.vizury.com
 0.0.0.0 ssl.vizury.com
 0.0.0.0 sslads.vizury.com
 0.0.0.0 stageweb.vizury.com
-0.0.0.0 themoviehouse.vizury.com
 0.0.0.0 tig.vizury.com
 0.0.0.0 tr.vizury.com
 0.0.0.0 tw-tags.vizury.com
@@ -85953,6 +85966,7 @@
 0.0.0.0 fanserv.us-east-1.stinger-ad.bidr.io
 0.0.0.0 foursquare.us-east-1.stinger-ad.bidr.io
 0.0.0.0 grabitmedia.us-east-1.stinger-ad.bidr.io
+0.0.0.0 indeed.us-east-1.stinger-ad.bidr.io
 0.0.0.0 infinia.us-east-1.stinger-ad.bidr.io
 0.0.0.0 inmobi.us-east-1.stinger-ad.bidr.io
 0.0.0.0 madhive.us-east-1.stinger-ad.bidr.io
@@ -98392,6 +98406,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21j0tl4id6lf2.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 d25dfknw9ghxs6.cloudfront.net
 0.0.0.0 d26opx5dl8t69i.cloudfront.net
 0.0.0.0 d275im4r3zngba.cloudfront.net
 0.0.0.0 d291gmt65i2gs5.cloudfront.net
@@ -110134,8 +110149,6 @@
 0.0.0.0 h-ipayment.online-metrix.net
 0.0.0.0 h-joom.online-metrix.net
 0.0.0.0 h-kijiji.online-metrix.net
-0.0.0.0 sb1.h-kijiji.online-metrix.net
-0.0.0.0 sb2.h-kijiji.online-metrix.net
 0.0.0.0 h-liveme.online-metrix.net
 0.0.0.0 h-massmutual.online-metrix.net
 0.0.0.0 h-mbna.online-metrix.net
@@ -110230,6 +110243,7 @@
 0.0.0.0 allabout-d.openx.net
 0.0.0.0 allaboutlifemarketing-d.openx.net
 0.0.0.0 allmedia-d.openx.net
+0.0.0.0 allnurses-d.openx.net
 0.0.0.0 aloysiamedia-d.openx.net
 0.0.0.0 alz-d.openx.net
 0.0.0.0 ambientdigital-d.openx.net
@@ -110429,6 +110443,7 @@
 0.0.0.0 evolution-d.openx.net
 0.0.0.0 evolvemedia-d.openx.net
 0.0.0.0 exceljet-d.openx.net
+0.0.0.0 exent-d.openx.net
 0.0.0.0 ezoic-d.openx.net
 0.0.0.0 faithit-d.openx.net
 0.0.0.0 famousbirthdays-d.openx.net
