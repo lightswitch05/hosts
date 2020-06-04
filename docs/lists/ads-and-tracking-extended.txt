@@ -1,6 +1,6 @@
 # Title: Lightswitch05's ads-and-tracking-extended.txt
-# Released: 2020-06-04T12:51:11+00:00
-# Count: 122894 domains
+# Released: 2020-06-04T19:23:02+00:00
+# Count: 122902 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
@@ -17420,7 +17420,6 @@
 0.0.0.0 www.admarvel.s3.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-pda-creatives.s3.amazonaws.com
 0.0.0.0 www.ams-ads-cornerstone-pda-creatives.s3.amazonaws.com
-0.0.0.0 anvato-api-config.s3.amazonaws.com
 0.0.0.0 www.anvato-api-config.s3.amazonaws.com
 0.0.0.0 btf-analytics.s3.amazonaws.com
 0.0.0.0 www.btf-analytics.s3.amazonaws.com
@@ -62745,6 +62744,7 @@
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 clientbuildserver-v3-prod.optimizely.com
 0.0.0.0 community-staging.optimizely.com
+0.0.0.0 config.optimizely.com
 0.0.0.0 gslink.csm.optimizely.com
 0.0.0.0 cspreporter.optimizely.com
 0.0.0.0 cspreporter-stage.optimizely.com
@@ -75044,6 +75044,7 @@
 0.0.0.0 timeinc.trc.taboola.com
 0.0.0.0 viacom.trc.taboola.com
 0.0.0.0 trc-cc.taboola.com
+0.0.0.0 trc-events.taboola.com
 0.0.0.0 trc-f.taboola.com
 0.0.0.0 trc-tls13.taboola.com
 0.0.0.0 trc0.taboola.com
@@ -86102,7 +86103,6 @@
 0.0.0.0 discoverydev.branch.io
 0.0.0.0 tune.docs.branch.io
 0.0.0.0 wizard.docs.branch.io
-0.0.0.0 email.branch.io
 0.0.0.0 events.branch.io
 0.0.0.0 expert.branch.io
 0.0.0.0 gdpr.branch.io
@@ -86111,7 +86111,6 @@
 0.0.0.0 growth.branch.io
 0.0.0.0 api.qa.branch.io
 0.0.0.0 qahooks.branch.io
-0.0.0.0 rkggkt.branch.io
 0.0.0.0 ssltest2.branch.io
 0.0.0.0 staging-help.branch.io
 0.0.0.0 start.branch.io
@@ -99087,6 +99086,7 @@
 0.0.0.0 cancertreatmentcentersofamericainc.demdex.net
 0.0.0.0 canda.demdex.net
 0.0.0.0 capella.demdex.net
+0.0.0.0 capitaland.demdex.net
 0.0.0.0 capitalgroup.demdex.net
 0.0.0.0 capitaloneservices.demdex.net
 0.0.0.0 fast.capitaloneservices.demdex.net
@@ -99145,6 +99145,7 @@
 0.0.0.0 cigarsinternational.demdex.net
 0.0.0.0 cigna.demdex.net
 0.0.0.0 cimb.demdex.net
+0.0.0.0 fast.cimb.demdex.net
 0.0.0.0 cimpressnv.demdex.net
 0.0.0.0 fast.cisco.demdex.net
 0.0.0.0 ciscolearningnetwork.demdex.net
@@ -99474,6 +99475,7 @@
 0.0.0.0 fast.frontiercomm.demdex.net
 0.0.0.0 fsecure.demdex.net
 0.0.0.0 fsnecommerce.demdex.net
+0.0.0.0 fti.demdex.net
 0.0.0.0 fullbeauty.demdex.net
 0.0.0.0 furniturecom.demdex.net
 0.0.0.0 galeriakaufhof.demdex.net
@@ -99599,6 +99601,7 @@
 0.0.0.0 fast.hsbcbankcommon.demdex.net
 0.0.0.0 hsbcbankgbm.demdex.net
 0.0.0.0 hsbcbankglobal.demdex.net
+0.0.0.0 hsbcus.demdex.net
 0.0.0.0 hudsonbaycompany.demdex.net
 0.0.0.0 hukcoburg.demdex.net
 0.0.0.0 humanainc.demdex.net
@@ -99982,6 +99985,7 @@
 0.0.0.0 newton.demdex.net
 0.0.0.0 newyorkcompany.demdex.net
 0.0.0.0 newyorklife.demdex.net
+0.0.0.0 fast.newyorklife.demdex.net
 0.0.0.0 nexac.demdex.net
 0.0.0.0 nfcu.demdex.net
 0.0.0.0 nfl.demdex.net
@@ -100000,6 +100004,7 @@
 0.0.0.0 fast.nissanhelios-jao.demdex.net
 0.0.0.0 nissanheliosami.demdex.net
 0.0.0.0 nissanhelioseurope.demdex.net
+0.0.0.0 fast.nissanhelioseurope.demdex.net
 0.0.0.0 nissanmotorcoltd.demdex.net
 0.0.0.0 fast.nissanmotorcoltd.demdex.net
 0.0.0.0 nittotire.demdex.net
@@ -110446,6 +110451,7 @@
 0.0.0.0 covers-media-group-d.openx.net
 0.0.0.0 coxauto-d.openx.net
 0.0.0.0 coxmediagroup-d.openx.net
+0.0.0.0 cpmstar-d.openx.net
 0.0.0.0 creativelink-d.openx.net
 0.0.0.0 criticinc-d.openx.net
 0.0.0.0 crowdynews-d.openx.net
@@ -110478,6 +110484,7 @@
 0.0.0.0 derstandard-d.openx.net
 0.0.0.0 deviantart-d.openx.net
 0.0.0.0 prebid.devint.openx.net
+0.0.0.0 dexerto-d.openx.net
 0.0.0.0 diamond-d.openx.net
 0.0.0.0 didna-d.openx.net
 0.0.0.0 digg-d.openx.net
@@ -110910,6 +110917,7 @@
 0.0.0.0 re-d.openx.net
 0.0.0.0 readtheory-d.openx.net
 0.0.0.0 realtor-d.openx.net
+0.0.0.0 recoorlando-d.openx.net
 0.0.0.0 reddit-d.openx.net
 0.0.0.0 redux-d.openx.net
 0.0.0.0 reignn-d.openx.net
@@ -111419,6 +111427,7 @@
 0.0.0.0 collector-px74roxf6t.perimeterx.net
 0.0.0.0 collector-px79lwtrta.perimeterx.net
 0.0.0.0 collector-px7g7bfrt2.perimeterx.net
+0.0.0.0 collector-px7ganow2g.perimeterx.net
 0.0.0.0 collector-px7i76o2z5.perimeterx.net
 0.0.0.0 collector-px7vv0zost.perimeterx.net
 0.0.0.0 collector-px81wk13v6.perimeterx.net
@@ -114858,7 +114867,6 @@
 0.0.0.0 prometheus-production2-las1.k8s.sendgrid.net
 0.0.0.0 prometheus-staging-mdw1.k8s.sendgrid.net
 0.0.0.0 prometheus-testing-mdw1.k8s.sendgrid.net
-0.0.0.0 rgw-production2-iad2.k8s.sendgrid.net
 0.0.0.0 serverdashboard.k8s.sendgrid.net
 0.0.0.0 serverdashboard-staging.k8s.sendgrid.net
 0.0.0.0 servernameapi-p1iad2.k8s.sendgrid.net
