@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-06-09T12:53:02+00:00
-# Count: 5302 domains
+# Released: 2020-06-10T03:36:32+00:00
+# Count: 5378 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -199,6 +199,7 @@
 0.0.0.0 6-edge-chat.facebook.com
 0.0.0.0 a1team.facebook.com
 0.0.0.0 about.facebook.com
+0.0.0.0 accenture.facebook.com
 0.0.0.0 actcorp.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 advantio.facebook.com
@@ -220,6 +221,7 @@
 0.0.0.0 secure.alpha.facebook.com
 0.0.0.0 work.alpha.facebook.com
 0.0.0.0 www.alpha.facebook.com
+0.0.0.0 altavia.facebook.com
 0.0.0.0 amorepacific.facebook.com
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics.facebook.com
@@ -231,6 +233,7 @@
 0.0.0.0 artistawake.facebook.com
 0.0.0.0 asiafusiontech.facebook.com
 0.0.0.0 asus.facebook.com
+0.0.0.0 atlas-pp-shv-01-nrt1.facebook.com
 0.0.0.0 axiomcc.facebook.com
 0.0.0.0 az-az.facebook.com
 0.0.0.0 b-api.facebook.com
@@ -366,6 +369,8 @@
 0.0.0.0 atlas.c10r.facebook.com
 0.0.0.0 developers.c10r.facebook.com
 0.0.0.0 extern.c10r.facebook.com
+0.0.0.0 fblite-mini.c10r.facebook.com
+0.0.0.0 fblite-p1.c10r.facebook.com
 0.0.0.0 fblite-ws-p1.c10r.facebook.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 intern-managed-client.c10r.facebook.com
@@ -596,6 +601,14 @@
 0.0.0.0 edge-atlas-shv-01-qro1.facebook.com
 0.0.0.0 edge-atlas-shv-01-sof1.facebook.com
 0.0.0.0 edge-chat.facebook.com
+0.0.0.0 edge-extern-shv-01-lht6.facebook.com
+0.0.0.0 edge-fblite-tcp-mini-shv-01-zrh1.facebook.com
+0.0.0.0 edge-fblite-tcp-p1-shv-01-frx5.facebook.com
+0.0.0.0 edge-fblite-ws-p1-shv-01-ort2.facebook.com
+0.0.0.0 edge-fblite-ws-p1-shv-02-mrs2.facebook.com
+0.0.0.0 edge-ig-mqtt-p4-shv-01-kut2.facebook.com
+0.0.0.0 edge-ig-mqtt-p4-shv-01-mba1.facebook.com
+0.0.0.0 edge-ig-mqtt-p4-shv-02-mia3.facebook.com
 0.0.0.0 edge-latest-shv-01-dus1.facebook.com
 0.0.0.0 edge-latest-shv-01-eze1.facebook.com
 0.0.0.0 edge-latest-shv-01-frt3.facebook.com
@@ -606,34 +619,61 @@
 0.0.0.0 edge-latest-shv-01-mad1.facebook.com
 0.0.0.0 edge-latest-shv-02-sin6.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt-latest-shv-01-cgk1.facebook.com
+0.0.0.0 edge-mqtt-latest-shv-01-hel2.facebook.com
+0.0.0.0 edge-mqtt-latest-shv-02-arn2.facebook.com
+0.0.0.0 edge-mqtt-latest-shv-02-sin6.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-any2.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-dus1.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-gig2.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-gmp1.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-lis1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-p4-shv-01-vie1.facebook.com
+0.0.0.0 edge-mqtt-p4-shv-02-bom1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-bru2.facebook.com
 0.0.0.0 edge-mqtt-shv-01-cdt1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-eze1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-fco1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-gru1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-hkg4.facebook.com
+0.0.0.0 edge-mqtt-shv-01-lim1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mad1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-mxp1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-tpe1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
+0.0.0.0 edge-mws-l-shv-01-xsp1.facebook.com
 0.0.0.0 edge-mws-l-shv-02-sin6.facebook.com
 0.0.0.0 edge-mws-shv-01-frt3.facebook.com
 0.0.0.0 edge-mws-shv-01-gru2.facebook.com
 0.0.0.0 edge-mws-shv-01-lga3.facebook.com
+0.0.0.0 edge-mws-shv-01-mad1.facebook.com
+0.0.0.0 edge-mws-shv-01-msp1.facebook.com
+0.0.0.0 edge-mws-shv-01-sof1.facebook.com
+0.0.0.0 edge-proxygen-test-healthchecks-shv-01-sea1.facebook.com
 0.0.0.0 edge-resolver001-bgp-01-cdg2.facebook.com
+0.0.0.0 edge-resolver001-bgp-01-jnb1.facebook.com
+0.0.0.0 edge-resolver001-bgp-01-syd2.facebook.com
+0.0.0.0 edge-resolver001-bgp-01-waw1.facebook.com
+0.0.0.0 edge-secure-shv-01-ber1.facebook.com
+0.0.0.0 edge-secure-shv-02-maa2.facebook.com
+0.0.0.0 edge-services-fbonly-shv-01-lhr8.facebook.com
+0.0.0.0 edge-services-fbonly-shv-01-waw1.facebook.com
+0.0.0.0 edge-services-shv-01-mxp1.facebook.com
 0.0.0.0 edge-services-shv-02-kut2.facebook.com
 0.0.0.0 edge-services-shv-02-mia3.facebook.com
+0.0.0.0 edge-shortwave-shv-01-gru1.facebook.com
 0.0.0.0 edge-shortwave-shv-01-syd2.facebook.com
+0.0.0.0 edge-snaptu-http-mini-shv-01-ber1.facebook.com
+0.0.0.0 edge-snaptu-http-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-hkt1.facebook.com
 0.0.0.0 edge-snaptu-http-mini-shv-01-mrs2.facebook.com
+0.0.0.0 edge-snaptu-http-mini-shv-01-msp1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-bru2.facebook.com
+0.0.0.0 edge-snaptu-http-p1-shv-01-dus1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gig2.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-gru1.facebook.com
 0.0.0.0 edge-snaptu-http-p1-shv-01-iad3.facebook.com
@@ -669,16 +709,27 @@
 0.0.0.0 edge-star-shv-01-lim1.facebook.com
 0.0.0.0 edge-star-shv-02-mrs2.facebook.com
 0.0.0.0 edge-stun.facebook.com
+0.0.0.0 edge-stun-shv-01-arn2.facebook.com
+0.0.0.0 edge-stun-shv-01-for1.facebook.com
+0.0.0.0 edge-stun-shv-01-jnb1.facebook.com
 0.0.0.0 edge-stun-shv-01-scl1.facebook.com
 0.0.0.0 edge-stun-shv-01-vie1.facebook.com
 0.0.0.0 edge-stun-shv-01-waw1.facebook.com
 0.0.0.0 edge-stun-shv-02-mia3.facebook.com
+0.0.0.0 edge-tcp-tunnel-fbonly-shv-01-bru2.facebook.com
+0.0.0.0 edge-tcp-tunnel-fbonly-shv-01-dus1.facebook.com
+0.0.0.0 edge-tcp-tunnel-shv-01-cdt1.facebook.com
 0.0.0.0 edge-tcp-tunnel-shv-01-los2.facebook.com
+0.0.0.0 edge-tcp-tunnel-shv-01-mba1.facebook.com
+0.0.0.0 edge-tcp-tunnel-shv-01-msp1.facebook.com
+0.0.0.0 edge-tcp-tunnel-shv-01-ort2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-arn2.facebook.com
 0.0.0.0 edge-turnservice-shv-01-bos3.facebook.com
 0.0.0.0 edge-turnservice-shv-01-del1.facebook.com
+0.0.0.0 edge-turnservice-shv-01-for1.facebook.com
 0.0.0.0 edge-turnservice-shv-01-lht6.facebook.com
 0.0.0.0 edge-turnservice-shv-02-bom1.facebook.com
+0.0.0.0 edge-xwf-p3-shv-01-frx5.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-bom1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-cgk1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-dus1.facebook.com
@@ -686,20 +737,26 @@
 0.0.0.0 edge-z-m-mini-shv-01-hkg4.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-maa2.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-xsp1.facebook.com
+0.0.0.0 edge-z-p1-shv-01-mia3.facebook.com
 0.0.0.0 edge-z-p1-shv-01-sea1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
 0.0.0.0 edge-z-p3-shv-01-atl3.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sea1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-sof1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-xsp1.facebook.com
+0.0.0.0 edge-z-p4-shv-01-cdg2.facebook.com
 0.0.0.0 edge-z-p4-shv-01-fco1.facebook.com
 0.0.0.0 edge-z-p4-shv-01-mad1.facebook.com
+0.0.0.0 edge-z-p4-shv-01-sju1.facebook.com
 0.0.0.0 edge-z-p4-shv-01-sof1.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fbeg10.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fmaa1.facebook.com
+0.0.0.0 edgeray-fna-shv-01-fmnl18.facebook.com
+0.0.0.0 edgeray-fna-shv-01-fruh5.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fsjo10.facebook.com
 0.0.0.0 edgeray-fna-shv-03-fmaa1.facebook.com
 0.0.0.0 edgeray-msgr-shv-01-sea1.facebook.com
+0.0.0.0 edgeray-msgr-shv-01-syd2.facebook.com
 0.0.0.0 edgeray-shv-01-bog1.facebook.com
 0.0.0.0 edgeray-shv-01-bru2.facebook.com
 0.0.0.0 edgeray-shv-01-dus1.facebook.com
@@ -734,6 +791,9 @@
 0.0.0.0 fa-ir.facebook.com
 0.0.0.0 falabella.facebook.com
 0.0.0.0 fb.facebook.com
+0.0.0.0 fbcromwelledge-bgp-01-sjc3.facebook.com
+0.0.0.0 fbcromwelledge-bgp-01-syd2.facebook.com
+0.0.0.0 fbcromwelledge-bgp-02-mia3.facebook.com
 0.0.0.0 de-de.he-il.fbjs.facebook.com
 0.0.0.0 af-za.de-de.he-il.fbjs.facebook.com
 0.0.0.0 ar-ar.de-de.he-il.fbjs.facebook.com
@@ -807,6 +867,8 @@
 0.0.0.0 zh-hk.de-de.he-il.fbjs.facebook.com
 0.0.0.0 zh-tw.de-de.he-il.fbjs.facebook.com
 0.0.0.0 fbonly-test-bgp-01-eze1.facebook.com
+0.0.0.0 fbonly-test-bgp-02-bom1.facebook.com
+0.0.0.0 fbonly-test-bgp-02-mia3.facebook.com
 0.0.0.0 feedback.facebook.com
 0.0.0.0 fi-fi.facebook.com
 0.0.0.0 fo-fo.facebook.com
@@ -877,6 +939,8 @@
 0.0.0.0 com.wmlwww.intern.facebook.com
 0.0.0.0 www.intern.facebook.com
 0.0.0.0 intern-managed-client-chromebook-shv-01-bog1.facebook.com
+0.0.0.0 intern-managed-client-shv-01-arn2.facebook.com
+0.0.0.0 intern-managed-client-shv-01-lht6.facebook.com
 0.0.0.0 intern-managed-client-shv-01-qro1.facebook.com
 0.0.0.0 internmc.facebook.com
 0.0.0.0 fb.internmc.facebook.com
@@ -896,6 +960,7 @@
 0.0.0.0 it-it.facebook.com
 0.0.0.0 ja-jp.facebook.com
 0.0.0.0 ja-ks.facebook.com
+0.0.0.0 jazz-clap-coop.facebook.com
 0.0.0.0 ka-ge.facebook.com
 0.0.0.0 kaios-d-test.facebook.com
 0.0.0.0 kcb.facebook.com
@@ -1162,7 +1227,9 @@
 0.0.0.0 lithium.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-any2.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-mad1.facebook.com
+0.0.0.0 livestream-edgetee-upload-shv-01-tpe1.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-02-bom1.facebook.com
+0.0.0.0 livestream-fbvp-edgetee-upload-shv-01-bos3.facebook.com
 0.0.0.0 livestream-fbvp-edgetee-upload-shv-01-mrs2.facebook.com
 0.0.0.0 lm.facebook.com
 0.0.0.0 lntinfotech.facebook.com
@@ -1265,6 +1332,7 @@
 0.0.0.0 mk-mk.facebook.com
 0.0.0.0 ml-in.facebook.com
 0.0.0.0 mobile.facebook.com
+0.0.0.0 mpstreamer-fbonly-bgp-01-vie1.facebook.com
 0.0.0.0 mqtt.facebook.com
 0.0.0.0 mqtt-ig-p4.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
@@ -1308,6 +1376,7 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pl-pl.facebook.com
 0.0.0.0 portal.facebook.com
+0.0.0.0 premier.facebook.com
 0.0.0.0 prod.facebook.com
 0.0.0.0 km-kh.apps.prod.facebook.com
 0.0.0.0 www.apps.prod.facebook.com
@@ -1544,6 +1613,7 @@
 0.0.0.0 sunyedu.facebook.com
 0.0.0.0 sv-se.facebook.com
 0.0.0.0 sw-ke.facebook.com
+0.0.0.0 syagcom.facebook.com
 0.0.0.0 sz-pl.facebook.com
 0.0.0.0 msgin.t.facebook.com
 0.0.0.0 ta-in.facebook.com
@@ -1562,7 +1632,9 @@
 0.0.0.0 toyotaturkey.facebook.com
 0.0.0.0 tr-tr.facebook.com
 0.0.0.0 trac.facebook.com
+0.0.0.0 traceroute-fbonly-bgp-01-lis1.facebook.com
 0.0.0.0 transparency.facebook.com
+0.0.0.0 true.facebook.com
 0.0.0.0 trunkstable.facebook.com
 0.0.0.0 secure.trunkstable.facebook.com
 0.0.0.0 uk-ua.facebook.com
@@ -1588,6 +1660,7 @@
 0.0.0.0 w.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 webdav.facebook.com
+0.0.0.0 westwing.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-arn2.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-den4.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-dfw5.facebook.com
@@ -1597,6 +1670,9 @@
 0.0.0.0 whatsapp-chatd-edge-shv-02-dfw5.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-frt3.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-xsp1.facebook.com
+0.0.0.0 wit-edge-shv-01-gru1.facebook.com
+0.0.0.0 wit-edge-shv-01-mad1.facebook.com
+0.0.0.0 wit-edge-shv-01-msp1.facebook.com
 0.0.0.0 work.facebook.com
 0.0.0.0 work-60984499.facebook.com
 0.0.0.0 work-70529761.facebook.com
