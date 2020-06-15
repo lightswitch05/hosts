@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-06-15T18:58:20+00:00
-# Count: 6182 domains
+# Released: 2020-06-15T20:07:13+00:00
+# Count: 6185 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -693,6 +693,7 @@
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt-latest-shv-01-cgk1.facebook.com
 0.0.0.0 edge-mqtt-latest-shv-01-hel2.facebook.com
+0.0.0.0 edge-mqtt-latest-shv-01-sin6.facebook.com
 0.0.0.0 edge-mqtt-latest-shv-02-arn2.facebook.com
 0.0.0.0 edge-mqtt-latest-shv-02-sin6.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-any2.facebook.com
@@ -792,6 +793,7 @@
 0.0.0.0 edge-stun-shv-01-vie1.facebook.com
 0.0.0.0 edge-stun-shv-01-waw1.facebook.com
 0.0.0.0 edge-stun-shv-02-mia3.facebook.com
+0.0.0.0 edge-stun-shv-02-sin6.facebook.com
 0.0.0.0 edge-tcp-tunnel-fbonly-shv-01-bru2.facebook.com
 0.0.0.0 edge-tcp-tunnel-fbonly-shv-01-dus1.facebook.com
 0.0.0.0 edge-tcp-tunnel-shv-01-cdt1.facebook.com
@@ -4036,6 +4038,7 @@
 0.0.0.0 edge-sonar-mini-shv-01-muc2.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-xsp1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-zrh1.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-02-xsp1.fbcdn.net
 0.0.0.0 edge-video-shv-01-amt2.fbcdn.net
 0.0.0.0 edge-video-shv-01-arn2.fbcdn.net
 0.0.0.0 edge-video-shv-01-atl3.fbcdn.net
