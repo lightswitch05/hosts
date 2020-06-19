@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-06-18T18:46:04+00:00
-# Count: 8523 domains
+# Released: 2020-06-19T05:46:15+00:00
+# Count: 8634 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -40,6 +40,14 @@
 0.0.0.0 hd.110.360.cn
 0.0.0.0 www.110.360.cn
 0.0.0.0 360game.360.cn
+0.0.0.0 bbs.360game.360.cn
+0.0.0.0 cloud.360game.360.cn
+0.0.0.0 live.360game.360.cn
+0.0.0.0 q.360game.360.cn
+0.0.0.0 recording.360game.360.cn
+0.0.0.0 v5.360game.360.cn
+0.0.0.0 wan.360game.360.cn
+0.0.0.0 xbox.360game.360.cn
 0.0.0.0 5space.360.cn
 0.0.0.0 huid.ad.360.cn
 0.0.0.0 huid-b.ad.360.cn
@@ -170,8 +178,10 @@
 0.0.0.0 bcsec.360.cn
 0.0.0.0 bizhi.360.cn
 0.0.0.0 blockcat.360.cn
+0.0.0.0 api.blockcat.360.cn
 0.0.0.0 blogs.360.cn
 0.0.0.0 bobao.360.cn
+0.0.0.0 m.bobao.360.cn
 0.0.0.0 browser.360.cn
 0.0.0.0 cdata.browser.360.cn
 0.0.0.0 cloud.browser.360.cn
@@ -466,6 +476,21 @@
 0.0.0.0 jijiu.360.cn
 0.0.0.0 jinrong.360.cn
 0.0.0.0 jishi.360.cn
+0.0.0.0 acc.jishi.360.cn
+0.0.0.0 e.acc.jishi.360.cn
+0.0.0.0 cc.jishi.360.cn
+0.0.0.0 m.jishi.360.cn
+0.0.0.0 open.jishi.360.cn
+0.0.0.0 openc.jishi.360.cn
+0.0.0.0 opene.jishi.360.cn
+0.0.0.0 opplat.jishi.360.cn
+0.0.0.0 pay.jishi.360.cn
+0.0.0.0 pay-b.jishi.360.cn
+0.0.0.0 tech.jishi.360.cn
+0.0.0.0 v2.jishi.360.cn
+0.0.0.0 e.v2.jishi.360.cn
+0.0.0.0 v3.jishi.360.cn
+0.0.0.0 web.jishi.360.cn
 0.0.0.0 kandian.360.cn
 0.0.0.0 cmsapi.kandian.360.cn
 0.0.0.0 h5.kandian.360.cn
@@ -670,6 +695,8 @@
 0.0.0.0 report.passport.360.cn
 0.0.0.0 pay.360.cn
 0.0.0.0 card.pay.360.cn
+0.0.0.0 test.pay.360.cn
+0.0.0.0 test8.pay.360.cn
 0.0.0.0 pinst.360.cn
 0.0.0.0 h5.qb.360.cn
 0.0.0.0 th5.qb.360.cn
@@ -717,6 +744,18 @@
 0.0.0.0 upxy.safe.360.cn
 0.0.0.0 vod.safe.360.cn
 0.0.0.0 sd.360.cn
+0.0.0.0 down.sd.360.cn
+0.0.0.0 feedback.sd.360.cn
+0.0.0.0 honors.sd.360.cn
+0.0.0.0 popwndmgr.sd.360.cn
+0.0.0.0 popwndmgr-b.sd.360.cn
+0.0.0.0 sampleup.sd.360.cn
+0.0.0.0 skins.sd.360.cn
+0.0.0.0 stat.sd.360.cn
+0.0.0.0 url.sd.360.cn
+0.0.0.0 vi.sd.360.cn
+0.0.0.0 www.sd.360.cn
+0.0.0.0 www-b.sd.360.cn
 0.0.0.0 sdp.360.cn
 0.0.0.0 sdup.360.cn
 0.0.0.0 sdupm.360.cn
@@ -787,9 +826,40 @@
 0.0.0.0 sug.so.360.cn
 0.0.0.0 socaas.360.cn
 0.0.0.0 soft.360.cn
+0.0.0.0 2011.soft.360.cn
+0.0.0.0 2012.soft.360.cn
+0.0.0.0 2013.soft.360.cn
+0.0.0.0 2013-b.soft.360.cn
+0.0.0.0 2014.soft.360.cn
+0.0.0.0 2015.soft.360.cn
+0.0.0.0 2016.soft.360.cn
+0.0.0.0 activity.soft.360.cn
+0.0.0.0 bjyt.s3.addops.soft.360.cn
+0.0.0.0 pub1-bjyt.s3.addops.soft.360.cn
+0.0.0.0 s3.shbt.addops.soft.360.cn
+0.0.0.0 api.soft.360.cn
 0.0.0.0 cdn.soft.360.cn
+0.0.0.0 comment.soft.360.cn
+0.0.0.0 cx.soft.360.cn
+0.0.0.0 dl.soft.360.cn
 0.0.0.0 api.easydoc.soft.360.cn
+0.0.0.0 feedback.soft.360.cn
+0.0.0.0 intf.soft.360.cn
+0.0.0.0 intf-b.soft.360.cn
+0.0.0.0 m.soft.360.cn
+0.0.0.0 m-b.soft.360.cn
+0.0.0.0 news.soft.360.cn
+0.0.0.0 open.soft.360.cn
+0.0.0.0 profile.open.soft.360.cn
+0.0.0.0 profile-b.open.soft.360.cn
+0.0.0.0 open-b.soft.360.cn
+0.0.0.0 api.pay.soft.360.cn
+0.0.0.0 detail.pay.soft.360.cn
 0.0.0.0 q.soft.360.cn
+0.0.0.0 stat.soft.360.cn
+0.0.0.0 tools.soft.360.cn
+0.0.0.0 up.soft.360.cn
+0.0.0.0 upld.soft.360.cn
 0.0.0.0 self.wonder.soft.360.cn
 0.0.0.0 softdl.360.cn
 0.0.0.0 softdl2.360.cn
@@ -824,7 +894,12 @@
 0.0.0.0 static.priv.uc.360.cn
 0.0.0.0 unicorn.360.cn
 0.0.0.0 union.360.cn
+0.0.0.0 open.union.360.cn
 0.0.0.0 s.union.360.cn
+0.0.0.0 s-b.union.360.cn
+0.0.0.0 stat.union.360.cn
+0.0.0.0 stat-b.union.360.cn
+0.0.0.0 v.union.360.cn
 0.0.0.0 university.360.cn
 0.0.0.0 v.360.cn
 0.0.0.0 app.v.360.cn
@@ -855,6 +930,10 @@
 0.0.0.0 data.wangzhan.360.cn
 0.0.0.0 wargaming.360.cn
 0.0.0.0 warning.360.cn
+0.0.0.0 ce.warning.360.cn
+0.0.0.0 info.warning.360.cn
+0.0.0.0 mse.warning.360.cn
+0.0.0.0 se.warning.360.cn
 0.0.0.0 watch.360.cn
 0.0.0.0 bx.wd.360.cn
 0.0.0.0 webid.360.cn
@@ -894,13 +973,18 @@
 0.0.0.0 www.360.cn
 0.0.0.0 u.xianpei.360.cn
 0.0.0.0 xiaoshuo.360.cn
+0.0.0.0 m.xiaoshuo.360.cn
 0.0.0.0 xiaoyouxi.360.cn
 0.0.0.0 xinyong.360.cn
 0.0.0.0 biying.xy.360.cn
 0.0.0.0 qc.xy.360.cn
 0.0.0.0 yasuo.360.cn
 0.0.0.0 youqian.360.cn
+0.0.0.0 m.youqian.360.cn
 0.0.0.0 yule.360.cn
+0.0.0.0 api.yule.360.cn
+0.0.0.0 m.yule.360.cn
+0.0.0.0 wb.yule.360.cn
 0.0.0.0 yun.360.cn
 0.0.0.0 api.yun.360.cn
 0.0.0.0 api-b.yun.360.cn
@@ -1088,6 +1172,7 @@
 0.0.0.0 katespade.ugc.bazaarvoice.com
 0.0.0.0 kbb.ugc.bazaarvoice.com
 0.0.0.0 kiehls-us.ugc.bazaarvoice.com
+0.0.0.0 kiehlscanada-en-ca.ugc.bazaarvoice.com
 0.0.0.0 kodakeurope.ugc.bazaarvoice.com
 0.0.0.0 krylon.ugc.bazaarvoice.com
 0.0.0.0 lactaid.ugc.bazaarvoice.com
@@ -2630,6 +2715,7 @@
 0.0.0.0 status.hellomedian.com
 0.0.0.0 www.hellomedian.com
 0.0.0.0 icanhazip.com
+0.0.0.0 2.icanhazip.com
 0.0.0.0 4.icanhazip.com
 0.0.0.0 a95c530a7af5f492a74499e70578d150.icanhazip.com
 0.0.0.0 dfw.icanhazip.com
@@ -2648,6 +2734,7 @@
 0.0.0.0 packet-sjc.icanhazip.com
 0.0.0.0 pv4.icanhazip.com
 0.0.0.0 shared.icanhazip.com
+0.0.0.0 status.icanhazip.com
 0.0.0.0 test.icanhazip.com
 0.0.0.0 v4.icanhazip.com
 0.0.0.0 v6.icanhazip.com
@@ -2970,6 +3057,7 @@
 0.0.0.0 panel.livechatinc.com
 0.0.0.0 partners.livechatinc.com
 0.0.0.0 pmbounces.livechatinc.com
+0.0.0.0 prestashop.livechatinc.com
 0.0.0.0 quality.livechatinc.com
 0.0.0.0 queue.livechatinc.com
 0.0.0.0 queue-fra.livechatinc.com
@@ -7421,6 +7509,7 @@
 0.0.0.0 engineering.intercom.io
 0.0.0.0 force.intercom.io
 0.0.0.0 images.intercom.io
+0.0.0.0 intercom-integrations.intercom.io
 0.0.0.0 intercomrades.intercom.io
 0.0.0.0 internal.intercom.io
 0.0.0.0 interflow.internal.intercom.io
@@ -8278,6 +8367,11 @@
 0.0.0.0 amzn.to
 0.0.0.0 www.amzn.to
 0.0.0.0 tawk.to
+0.0.0.0 asa10.tawk.to
+0.0.0.0 asa13.tawk.to
+0.0.0.0 asa2.tawk.to
+0.0.0.0 asa3.tawk.to
+0.0.0.0 asa8.tawk.to
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb10.tawk.to
 0.0.0.0 asb11.tawk.to
@@ -8357,7 +8451,24 @@
 0.0.0.0 upload.tawk.to
 0.0.0.0 va.tawk.to
 0.0.0.0 video.tawk.to
+0.0.0.0 vsa10.tawk.to
+0.0.0.0 vsa15.tawk.to
+0.0.0.0 vsa18.tawk.to
+0.0.0.0 vsa24.tawk.to
+0.0.0.0 vsa28.tawk.to
+0.0.0.0 vsa30.tawk.to
+0.0.0.0 vsa39.tawk.to
+0.0.0.0 vsa43.tawk.to
+0.0.0.0 vsa47.tawk.to
 0.0.0.0 vsa52.tawk.to
+0.0.0.0 vsa57.tawk.to
+0.0.0.0 vsa64.tawk.to
+0.0.0.0 vsa69.tawk.to
+0.0.0.0 vsa78.tawk.to
+0.0.0.0 vsa87.tawk.to
+0.0.0.0 vsa90.tawk.to
+0.0.0.0 vsa95.tawk.to
+0.0.0.0 vsa99.tawk.to
 0.0.0.0 vsb1.tawk.to
 0.0.0.0 vsb10.tawk.to
 0.0.0.0 vsb100.tawk.to
