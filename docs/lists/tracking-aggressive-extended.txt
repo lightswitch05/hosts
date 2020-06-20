@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-06-20T05:46:15+00:00
-# Count: 8670 domains
+# Released: 2020-06-20T18:46:15+00:00
+# Count: 8685 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -926,6 +926,7 @@
 0.0.0.0 w.360.cn
 0.0.0.0 wan.360.cn
 0.0.0.0 dev.tg.wan.360.cn
+0.0.0.0 wangzhan.360.cn
 0.0.0.0 blog.wangzhan.360.cn
 0.0.0.0 data.wangzhan.360.cn
 0.0.0.0 wargaming.360.cn
@@ -7427,7 +7428,6 @@
 0.0.0.0 mc-siderail.spot.im
 0.0.0.0 me.spot.im
 0.0.0.0 metrics-logger.spot.im
-0.0.0.0 mmaweekly-community.spot.im
 0.0.0.0 mobile-gw.spot.im
 0.0.0.0 moderation.spot.im
 0.0.0.0 monetizationapi.spot.im
@@ -8371,10 +8371,13 @@
 0.0.0.0 amzn.to
 0.0.0.0 www.amzn.to
 0.0.0.0 tawk.to
+0.0.0.0 asa1.tawk.to
 0.0.0.0 asa10.tawk.to
+0.0.0.0 asa11.tawk.to
 0.0.0.0 asa13.tawk.to
 0.0.0.0 asa2.tawk.to
 0.0.0.0 asa3.tawk.to
+0.0.0.0 asa4.tawk.to
 0.0.0.0 asa5.tawk.to
 0.0.0.0 asa6.tawk.to
 0.0.0.0 asa8.tawk.to
@@ -8470,22 +8473,32 @@
 0.0.0.0 vsa23.tawk.to
 0.0.0.0 vsa24.tawk.to
 0.0.0.0 vsa25.tawk.to
+0.0.0.0 vsa26.tawk.to
+0.0.0.0 vsa27.tawk.to
 0.0.0.0 vsa28.tawk.to
 0.0.0.0 vsa30.tawk.to
 0.0.0.0 vsa31.tawk.to
+0.0.0.0 vsa33.tawk.to
+0.0.0.0 vsa35.tawk.to
+0.0.0.0 vsa36.tawk.to
 0.0.0.0 vsa39.tawk.to
 0.0.0.0 vsa4.tawk.to
 0.0.0.0 vsa40.tawk.to
 0.0.0.0 vsa41.tawk.to
+0.0.0.0 vsa42.tawk.to
 0.0.0.0 vsa43.tawk.to
 0.0.0.0 vsa44.tawk.to
+0.0.0.0 vsa45.tawk.to
 0.0.0.0 vsa47.tawk.to
 0.0.0.0 vsa48.tawk.to
 0.0.0.0 vsa49.tawk.to
 0.0.0.0 vsa52.tawk.to
+0.0.0.0 vsa54.tawk.to
+0.0.0.0 vsa55.tawk.to
 0.0.0.0 vsa57.tawk.to
 0.0.0.0 vsa58.tawk.to
 0.0.0.0 vsa6.tawk.to
+0.0.0.0 vsa60.tawk.to
 0.0.0.0 vsa64.tawk.to
 0.0.0.0 vsa65.tawk.to
 0.0.0.0 vsa66.tawk.to
@@ -8495,9 +8508,11 @@
 0.0.0.0 vsa73.tawk.to
 0.0.0.0 vsa74.tawk.to
 0.0.0.0 vsa78.tawk.to
+0.0.0.0 vsa79.tawk.to
 0.0.0.0 vsa80.tawk.to
 0.0.0.0 vsa81.tawk.to
 0.0.0.0 vsa82.tawk.to
+0.0.0.0 vsa84.tawk.to
 0.0.0.0 vsa87.tawk.to
 0.0.0.0 vsa90.tawk.to
 0.0.0.0 vsa91.tawk.to
