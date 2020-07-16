@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-07-13T13:28:53+00:00
-# Count: 8946 domains
+# Released: 2020-07-16T13:03:19+00:00
+# Count: 9002 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -3947,6 +3947,8 @@
 0.0.0.0 2fumassboston.qualtrics.com
 0.0.0.0 2fwww.qualtrics.com
 0.0.0.0 36399-stopcovid19.qualtrics.com
+0.0.0.0 3kry-proxy-usev-masks.qualtrics.com
+0.0.0.0 7bltopcovid19.qualtrics.com
 0.0.0.0 7c1covid19.qualtrics.com
 0.0.0.0 a1.qualtrics.com
 0.0.0.0 a1covid19study.qualtrics.com
@@ -3957,6 +3959,7 @@
 0.0.0.0 aba.qualtrics.com
 0.0.0.0 aboutloyalty.qualtrics.com
 0.0.0.0 aboutloyalty-lkhykcrgcoivdv-travelers.qualtrics.com
+0.0.0.0 aboutloyaltyuscensusbureaucovid.qualtrics.com
 0.0.0.0 acenet.qualtrics.com
 0.0.0.0 acs.qualtrics.com
 0.0.0.0 acsurvey.qualtrics.com
@@ -4042,6 +4045,7 @@
 0.0.0.0 amazonecsp.asia.qualtrics.com
 0.0.0.0 amazonee.asia.qualtrics.com
 0.0.0.0 amazonelements.asia.qualtrics.com
+0.0.0.0 covid.amazonelements.asia.qualtrics.com
 0.0.0.0 amazoneu.asia.qualtrics.com
 0.0.0.0 amazoneusupport.asia.qualtrics.com
 0.0.0.0 amazongamestudios.asia.qualtrics.com
@@ -4081,6 +4085,8 @@
 0.0.0.0 hkufbe.asia.qualtrics.com
 0.0.0.0 hujipoliticalscience.asia.qualtrics.com
 0.0.0.0 hujipsych.asia.qualtrics.com
+0.0.0.0 covid19testing.hujipsych.asia.qualtrics.com
+0.0.0.0 zn8cpg0snvaqe86xl-covid19triage.hujipsych.asia.qualtrics.com
 0.0.0.0 humansleepresearch.asia.qualtrics.com
 0.0.0.0 idp.asia.qualtrics.com
 0.0.0.0 inspire.asia.qualtrics.com
@@ -4410,6 +4416,7 @@
 0.0.0.0 bentley.qualtrics.com
 0.0.0.0 berkeley.qualtrics.com
 0.0.0.0 bersin.qualtrics.com
+0.0.0.0 bersinzn6lkhykcrgcoivdv.qualtrics.com
 0.0.0.0 bethel.qualtrics.com
 0.0.0.0 betterment.qualtrics.com
 0.0.0.0 bgumanagement.qualtrics.com
@@ -4857,9 +4864,13 @@
 0.0.0.0 copa.qualtrics.com
 0.0.0.0 cornell.qualtrics.com
 0.0.0.0 corona.qualtrics.com
+0.0.0.0 corona-az1.qualtrics.com
 0.0.0.0 corona-rc-staging.qualtrics.com
 0.0.0.0 corona-trunk-development-manhattan.qualtrics.com
+0.0.0.0 corona07.qualtrics.com
 0.0.0.0 corona08.qualtrics.com
+0.0.0.0 corona1-dev11-shr-plf.qualtrics.com
+0.0.0.0 corona14.qualtrics.com
 0.0.0.0 corona28.qualtrics.com
 0.0.0.0 coronaborealisetcom.qualtrics.com
 0.0.0.0 coronanc.qualtrics.com
@@ -4878,14 +4889,19 @@
 0.0.0.0 covid19il.qualtrics.com
 0.0.0.0 covid19pulse.qualtrics.com
 0.0.0.0 covid19study.qualtrics.com
+0.0.0.0 covid19studytuelearning.qualtrics.com
 0.0.0.0 covid19studyvcaa.qualtrics.com
+0.0.0.0 covid19testing-ttuelearning.qualtrics.com
 0.0.0.0 covid19testingbloomu.qualtrics.com
 0.0.0.0 covid19testingia.qualtrics.com
 0.0.0.0 covid19testingneinstructure.qualtrics.com
 0.0.0.0 covid19testingneww.qualtrics.com
 0.0.0.0 covid19triageumw.qualtrics.com
+0.0.0.0 covidgrandect.qualtrics.com
+0.0.0.0 covidmilien.qualtrics.com
 0.0.0.0 covidresponse.qualtrics.com
 0.0.0.0 covidrsabc-84.qualtrics.com
+0.0.0.0 covids7287bykc85b7-bd35.qualtrics.com
 0.0.0.0 covidzd-iotitex.qualtrics.com
 0.0.0.0 covirickscviterbi.qualtrics.com
 0.0.0.0 coxautomotive.qualtrics.com
@@ -4896,6 +4912,7 @@
 0.0.0.0 cripcas.qualtrics.com
 0.0.0.0 crtkl.qualtrics.com
 0.0.0.0 cs635807americastestkitchen.qualtrics.com
+0.0.0.0 cs635807dev-masks.qualtrics.com
 0.0.0.0 csipsychology.qualtrics.com
 0.0.0.0 csod.qualtrics.com
 0.0.0.0 csuci.qualtrics.com
@@ -4928,6 +4945,8 @@
 0.0.0.0 directoptions.qualtrics.com
 0.0.0.0 distance-akamaisecure2.qualtrics.com
 0.0.0.0 distancelearnadmin.qualtrics.com
+0.0.0.0 distancelearnpre.qualtrics.com
+0.0.0.0 distancelearnreakingmedia.qualtrics.com
 0.0.0.0 dminc.qualtrics.com
 0.0.0.0 dmupsy.qualtrics.com
 0.0.0.0 doc.qualtrics.com
@@ -4946,10 +4965,12 @@
 0.0.0.0 ea.qualtrics.com
 0.0.0.0 eafstandardextractactiveunit.qualtrics.com
 0.0.0.0 ebl.qualtrics.com
+0.0.0.0 eblvirus.qualtrics.com
 0.0.0.0 eblxl-covid.qualtrics.com
 0.0.0.0 eccles.qualtrics.com
 0.0.0.0 echo.qualtrics.com
 0.0.0.0 ecochil-virus.qualtrics.com
+0.0.0.0 ecovidrio.qualtrics.com
 0.0.0.0 ecuau.qualtrics.com
 0.0.0.0 edr.qualtrics.com
 0.0.0.0 educationtemple.qualtrics.com
@@ -5127,6 +5148,7 @@
 0.0.0.0 firstcaribbean.qualtrics.com
 0.0.0.0 firstdata.qualtrics.com
 0.0.0.0 fiu.qualtrics.com
+0.0.0.0 fma.qualtrics.com
 0.0.0.0 fminet.qualtrics.com
 0.0.0.0 fmru.qualtrics.com
 0.0.0.0 focuspointeglobal.qualtrics.com
@@ -5147,6 +5169,7 @@
 0.0.0.0 fw-quarantine1.qualtrics.com
 0.0.0.0 g1-iad.qualtrics.com
 0.0.0.0 s1.g1-iad.qualtrics.com
+0.0.0.0 zn6m2eei53aorhh37-covidcl7chq8rhgvrb.s1.g1-iad.qualtrics.com
 0.0.0.0 gadventures.qualtrics.com
 0.0.0.0 gamestop.qualtrics.com
 0.0.0.0 geico.qualtrics.com
@@ -5181,6 +5204,7 @@
 0.0.0.0 hanoverresearch.qualtrics.com
 0.0.0.0 harvard.qualtrics.com
 0.0.0.0 hbs.qualtrics.com
+0.0.0.0 hbslkhykcrgcoivdv.qualtrics.com
 0.0.0.0 hc1covid19.qualtrics.com
 0.0.0.0 hci.qualtrics.com
 0.0.0.0 hdsupply.qualtrics.com
@@ -5378,6 +5402,7 @@
 0.0.0.0 kellogg-zn6lkhykcrgcoivdv.qualtrics.com
 0.0.0.0 kent.qualtrics.com
 0.0.0.0 kentstate.qualtrics.com
+0.0.0.0 kfcoronacpa.qualtrics.com
 0.0.0.0 kimberlyclark360.qualtrics.com
 0.0.0.0 kirkwoodie.qualtrics.com
 0.0.0.0 kmrc.qualtrics.com
@@ -5385,6 +5410,7 @@
 0.0.0.0 kstate.qualtrics.com
 0.0.0.0 ksudistancelearning.qualtrics.com
 0.0.0.0 ksudistancelearning-naus.qualtrics.com
+0.0.0.0 ksudistancelearning-yakimamemorial.qualtrics.com
 0.0.0.0 kuclas.qualtrics.com
 0.0.0.0 kvcc.qualtrics.com
 0.0.0.0 lafayettec.qualtrics.com
@@ -5434,6 +5460,7 @@
 0.0.0.0 mask.qualtrics.com
 0.0.0.0 maska.qualtrics.com
 0.0.0.0 maskbear.qualtrics.com
+0.0.0.0 maskerade.qualtrics.com
 0.0.0.0 masko-t4-1-ikitelli-t4-1.qualtrics.com
 0.0.0.0 maskpanda.qualtrics.com
 0.0.0.0 maskros-tcb.qualtrics.com
@@ -5444,6 +5471,7 @@
 0.0.0.0 mccombs.qualtrics.com
 0.0.0.0 mcgillmgmt.qualtrics.com
 0.0.0.0 mcqma.qualtrics.com
+0.0.0.0 mcqmasktwl.qualtrics.com
 0.0.0.0 mde.qualtrics.com
 0.0.0.0 mdrc.qualtrics.com
 0.0.0.0 megapath.qualtrics.com
@@ -5451,6 +5479,7 @@
 0.0.0.0 mercer.qualtrics.com
 0.0.0.0 merieuxnutrisciences.qualtrics.com
 0.0.0.0 meritagehomes.qualtrics.com
+0.0.0.0 metcal-corona.qualtrics.com
 0.0.0.0 mgmtconcepts360.qualtrics.com
 0.0.0.0 mhcd.qualtrics.com
 0.0.0.0 mhrsd_covid-19_response_survey.qualtrics.com
@@ -5570,6 +5599,7 @@
 0.0.0.0 paceadmin.qualtrics.com
 0.0.0.0 pages.qualtrics.com
 0.0.0.0 pandora.qualtrics.com
+0.0.0.0 payments-testkitashinchi-yasu-com.qualtrics.com
 0.0.0.0 pbigordon.qualtrics.com
 0.0.0.0 pct.qualtrics.com
 0.0.0.0 peabodyenergy360.qualtrics.com
@@ -5595,6 +5625,7 @@
 0.0.0.0 ps.qualtrics.com
 0.0.0.0 psicsocialugr.qualtrics.com
 0.0.0.0 psychiatryoxford.qualtrics.com
+0.0.0.0 psychruzn8cpg0snvaqe86xl-covid19triage.qualtrics.com
 0.0.0.0 psyunibe.qualtrics.com
 0.0.0.0 ptc.qualtrics.com
 0.0.0.0 pucrs.qualtrics.com
@@ -5627,8 +5658,10 @@
 0.0.0.0 survey.e.eu.qualtricu.qualtrics.com
 0.0.0.0 bmsau.a.au1.qualtriu1.qualtrics.com
 0.0.0.0 quarantine-global.qualtrics.com
+0.0.0.0 quarantine-leg.qualtrics.com
 0.0.0.0 quarantine-tst-its.qualtrics.com
 0.0.0.0 quarantine51.qualtrics.com
+0.0.0.0 quarantineentomol.qualtrics.com
 0.0.0.0 quarentenamp.qualtrics.com
 0.0.0.0 queensu.qualtrics.com
 0.0.0.0 quicken.qualtrics.com
@@ -5681,6 +5714,7 @@
 0.0.0.0 rtc.qualtrics.com
 0.0.0.0 rutgers.qualtrics.com
 0.0.0.0 s.qualtrics.com
+0.0.0.0 saacovid19testingne.qualtrics.com
 0.0.0.0 sabancimanagement.qualtrics.com
 0.0.0.0 sae.qualtrics.com
 0.0.0.0 safllc.qualtrics.com
@@ -5746,6 +5780,7 @@
 0.0.0.0 zn5dz7agmvn4252ap-hhsgovfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn5mx8mmsrkmc74ej-cemgsa.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn6fpq8uicqiph6sn-fdawebcx.gov1.siteintercept.qualtrics.com
+0.0.0.0 zn6ka36kpdi3e9i21-cfpbfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn78u3r5bu7clf1xr-cmsmacfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn7ngtyxwjbrjz6xb-cms.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn8d1kurntgicedvv-medicare.gov1.siteintercept.qualtrics.com
@@ -5757,6 +5792,7 @@
 0.0.0.0 zna2yyleysbqsckwl-cmsmacfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 znafsmees7ypwglvh-cemgsa.gov1.siteintercept.qualtrics.com
 0.0.0.0 znbjtzm0wlm72mvv3-cms.gov1.siteintercept.qualtrics.com
+0.0.0.0 znbvyka4y6po4fepd-hhsgovfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zncavpghm4p7uacyp-hhsgovfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zne2jvm9sr8pqegvn-cemgsa.gov1.siteintercept.qualtrics.com
 0.0.0.0 znelk3em3eedio5hd-cmsmacfedramp.gov1.siteintercept.qualtrics.com
@@ -6418,6 +6454,7 @@
 0.0.0.0 smeal.qualtrics.com
 0.0.0.0 smithsmedical.qualtrics.com
 0.0.0.0 smsadapter-ps.qualtrics.com
+0.0.0.0 smtp-centraldevacinas.qualtrics.com
 0.0.0.0 smu.qualtrics.com
 0.0.0.0 smuniversity.qualtrics.com
 0.0.0.0 sncr.qualtrics.com
@@ -6455,10 +6492,12 @@
 0.0.0.0 steelseries.qualtrics.com
 0.0.0.0 stfx.qualtrics.com
 0.0.0.0 stgallen.qualtrics.com
+0.0.0.0 stimulus.qualtrics.com
 0.0.0.0 stitchfix.qualtrics.com
 0.0.0.0 stjude.qualtrics.com
 0.0.0.0 strathsci.qualtrics.com
 0.0.0.0 stthomasir.qualtrics.com
+0.0.0.0 stthomaskentems.qualtrics.com
 0.0.0.0 study.qualtrics.com
 0.0.0.0 success.qualtrics.com
 0.0.0.0 sullivancotter360.qualtrics.com
@@ -6485,6 +6524,7 @@
 0.0.0.0 tarleton.qualtrics.com
 0.0.0.0 taxsurveys.qualtrics.com
 0.0.0.0 tcb.qualtrics.com
+0.0.0.0 tcbzn8cpg0snvaqe86xl-covid19triage.qualtrics.com
 0.0.0.0 tccolumbia.qualtrics.com
 0.0.0.0 tcdbusiness.qualtrics.com
 0.0.0.0 tcdecon.qualtrics.com
@@ -6493,10 +6533,12 @@
 0.0.0.0 techtarget.qualtrics.com
 0.0.0.0 telerik.qualtrics.com
 0.0.0.0 terry.qualtrics.com
+0.0.0.0 testkitchen.qualtrics.com
 0.0.0.0 testzn6lkhykcrgcoivdv-travelers.qualtrics.com
 0.0.0.0 thebrandconsultancy.qualtrics.com
 0.0.0.0 thecaq.qualtrics.com
 0.0.0.0 thehackettgroup.qualtrics.com
+0.0.0.0 themask.qualtrics.com
 0.0.0.0 thepollingpace.qualtrics.com
 0.0.0.0 thepollingplace.qualtrics.com
 0.0.0.0 thevaccinesuk.qualtrics.com
@@ -6534,6 +6576,7 @@
 0.0.0.0 uccu.qualtrics.com
 0.0.0.0 ucdenver.qualtrics.com
 0.0.0.0 ucdpsychology.qualtrics.com
+0.0.0.0 ucentrepeterborough-coviddwhxd9pxtj3j3.qualtrics.com
 0.0.0.0 ucf.qualtrics.com
 0.0.0.0 ucfrchm.qualtrics.com
 0.0.0.0 uchiledii.qualtrics.com
@@ -6564,6 +6607,7 @@
 0.0.0.0 uleth.qualtrics.com
 0.0.0.0 ulfp.qualtrics.com
 0.0.0.0 ulsm-covid19testingne.qualtrics.com
+0.0.0.0 ulsmcoviddwhxd9pxtj3j3.qualtrics.com
 0.0.0.0 umaine.qualtrics.com
 0.0.0.0 umarketing.qualtrics.com
 0.0.0.0 umass.qualtrics.com
@@ -6800,8 +6844,10 @@
 0.0.0.0 uwstout.qualtrics.com
 0.0.0.0 uwsystemadmin.qualtrics.com
 0.0.0.0 uxunbf.qualtrics.com
+0.0.0.0 vaccinations.qualtrics.com
 0.0.0.0 vaccine.qualtrics.com
 0.0.0.0 vaccinetstodh.qualtrics.com
+0.0.0.0 vanitysirsmaskan.qualtrics.com
 0.0.0.0 vantage.qualtrics.com
 0.0.0.0 vault.qualtrics.com
 0.0.0.0 vaultconsulting.qualtrics.com
@@ -6812,10 +6858,13 @@
 0.0.0.0 vhwdev-masks99s.qualtrics.com
 0.0.0.0 viacom.qualtrics.com
 0.0.0.0 viawest.qualtrics.com
+0.0.0.0 viawest-lkhykcrgcoivdv-travelers.qualtrics.com
 0.0.0.0 vimeo.qualtrics.com
+0.0.0.0 vimeovids.qualtrics.com
 0.0.0.0 virginia.qualtrics.com
 0.0.0.0 virginiatech.qualtrics.com
 0.0.0.0 virus0316-eu.qualtrics.com
+0.0.0.0 virus0316s4.qualtrics.com
 0.0.0.0 virus1-virus.qualtrics.com
 0.0.0.0 virus101.qualtrics.com
 0.0.0.0 virus5.qualtrics.com
@@ -6862,6 +6911,9 @@
 0.0.0.0 wvu.qualtrics.com
 0.0.0.0 wvuhre.qualtrics.com
 0.0.0.0 www.qualtrics.com
+0.0.0.0 www-infeccionvaginal.qualtrics.com
+0.0.0.0 www-infectionfree.qualtrics.com
+0.0.0.0 wwwtestonlinedistance.qualtrics.com
 0.0.0.0 xerox.qualtrics.com
 0.0.0.0 yale.qualtrics.com
 0.0.0.0 yaleas.qualtrics.com
@@ -6871,8 +6923,10 @@
 0.0.0.0 york.qualtrics.com
 0.0.0.0 your_university.qualtrics.com
 0.0.0.0 zapposinternal.qualtrics.com
+0.0.0.0 zn6lkhykcrgcoivdv-nifdi.qualtrics.com
 0.0.0.0 zn6lkhykcrgcoivdv-om21117.qualtrics.com
 0.0.0.0 zn6lkhykcrgcoivdv-travelers-american.qualtrics.com
+0.0.0.0 zn6lkhykcrgcoivdv-travelers-nolijprd01gwad.qualtrics.com
 0.0.0.0 zn6lkhykcrgcoivdv-travelers-rmuohp.qualtrics.com
 0.0.0.0 zoetisoutcomes.qualtrics.com
 0.0.0.0 zynga.qualtrics.com
@@ -8740,6 +8794,7 @@
 0.0.0.0 mx4.mta.tawk.to
 0.0.0.0 nosupport.tawk.to
 0.0.0.0 pages.tawk.to
+0.0.0.0 partners.tawk.to
 0.0.0.0 phdev.tawk.to
 0.0.0.0 cpanel.phdev.tawk.to
 0.0.0.0 drupal-main.phdev.tawk.to
@@ -8786,6 +8841,7 @@
 0.0.0.0 vsa1.tawk.to
 0.0.0.0 vsa10.tawk.to
 0.0.0.0 vsa100.tawk.to
+0.0.0.0 vsa101.tawk.to
 0.0.0.0 vsa102.tawk.to
 0.0.0.0 vsa103.tawk.to
 0.0.0.0 vsa104.tawk.to
