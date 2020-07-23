@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-07-21T18:46:28+00:00
-# Count: 7315 domains
+# Released: 2020-07-23T05:46:21+00:00
+# Count: 7321 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -241,6 +241,7 @@
 0.0.0.0 anchor.facebook.com
 0.0.0.0 api.facebook.com
 0.0.0.0 api-read.facebook.com
+0.0.0.0 api-video.facebook.com
 0.0.0.0 apps.facebook.com
 0.0.0.0 ar-ar.facebook.com
 0.0.0.0 artistawake.facebook.com
@@ -831,6 +832,7 @@
 0.0.0.0 edge-star-shv-01-gmp1.facebook.com
 0.0.0.0 edge-star-shv-01-hkg4.facebook.com
 0.0.0.0 edge-star-shv-01-hkt1.facebook.com
+0.0.0.0 edge-star-shv-01-itm1.facebook.com
 0.0.0.0 edge-star-shv-01-lax3.facebook.com
 0.0.0.0 edge-star-shv-01-lht6.facebook.com
 0.0.0.0 edge-star-shv-01-lim1.facebook.com
@@ -921,6 +923,7 @@
 0.0.0.0 s-static.extern.facebook.com
 0.0.0.0 www.extern.facebook.com
 0.0.0.0 fa-ir.facebook.com
+0.0.0.0 facebook.facebook.com
 0.0.0.0 falabella.facebook.com
 0.0.0.0 fb.facebook.com
 0.0.0.0 fbcromwelledge-bgp-01-sjc3.facebook.com
@@ -3138,12 +3141,14 @@
 0.0.0.0 star.facebook.com
 0.0.0.0 static.facebook.com
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 streaming-graph.facebook.com
 0.0.0.0 succeedtogether.facebook.com
 0.0.0.0 sunyedu.facebook.com
 0.0.0.0 sv-se.facebook.com
 0.0.0.0 sw-ke.facebook.com
 0.0.0.0 syagcom.facebook.com
 0.0.0.0 sz-pl.facebook.com
+0.0.0.0 t.facebook.com
 0.0.0.0 msgin.t.facebook.com
 0.0.0.0 ta-in.facebook.com
 0.0.0.0 tafensw.facebook.com
@@ -7083,6 +7088,7 @@
 0.0.0.0 media-dfw5-2.cdn.whatsapp.net
 0.0.0.0 media-dus1-1.cdn.whatsapp.net
 0.0.0.0 media-fco1-1.cdn.whatsapp.net
+0.0.0.0 media-fml1-1.cdn.whatsapp.net
 0.0.0.0 media-for1-1.cdn.whatsapp.net
 0.0.0.0 media-frt3-1.cdn.whatsapp.net
 0.0.0.0 media-frt3-2.cdn.whatsapp.net
