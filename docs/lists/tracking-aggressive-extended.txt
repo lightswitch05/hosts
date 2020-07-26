@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-07-26T05:46:25+00:00
-# Count: 9362 domains
+# Released: 2020-07-26T18:46:26+00:00
+# Count: 9411 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1033,13 +1033,17 @@
 0.0.0.0 data-location.enhance.co
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 aimmatic.com
+0.0.0.0 account.aimmatic.com
 0.0.0.0 admin.aimmatic.com
 0.0.0.0 api.aimmatic.com
 0.0.0.0 console.aimmatic.com
+0.0.0.0 docs.aimmatic.com
 0.0.0.0 map.aimmatic.com
 0.0.0.0 map-admin.aimmatic.com
 0.0.0.0 map-api.aimmatic.com
 0.0.0.0 map-console.aimmatic.com
+0.0.0.0 talk.aimmatic.com
+0.0.0.0 welcome1.aimmatic.com
 0.0.0.0 www.aimmatic.com
 0.0.0.0 firefly-071591.s3.amazonaws.com
 0.0.0.0 www.firefly-071591.s3.amazonaws.com
@@ -3350,6 +3354,7 @@
 0.0.0.0 523-events.olark.com
 0.0.0.0 550-events.olark.com
 0.0.0.0 593-events.olark.com
+0.0.0.0 716-events.olark.com
 0.0.0.0 781-events.olark.com
 0.0.0.0 839-events.olark.com
 0.0.0.0 843-async.olark.com
@@ -4449,6 +4454,26 @@
 0.0.0.0 waynestate.az1.qualtrics.com
 0.0.0.0 xtelligentmedia.az1.qualtrics.com
 0.0.0.0 b1-prv.qualtrics.com
+0.0.0.0 covid23x7sswjbcv82.b1-prv.qualtrics.com
+0.0.0.0 covid69vb4g4ygwqm6.b1-prv.qualtrics.com
+0.0.0.0 covid7vhcfqbx68w6l.b1-prv.qualtrics.com
+0.0.0.0 covidbmtt2hxsppf5f.b1-prv.qualtrics.com
+0.0.0.0 covidby42z46k2rpk9.b1-prv.qualtrics.com
+0.0.0.0 covidcgs8pcrhzkrg6.b1-prv.qualtrics.com
+0.0.0.0 coviddc5csbjwd82j8.b1-prv.qualtrics.com
+0.0.0.0 covidids.b1-prv.qualtrics.com
+0.0.0.0 covidj6mqhbj2rgk65.b1-prv.qualtrics.com
+0.0.0.0 covidjl3lrzgf6mtfr.b1-prv.qualtrics.com
+0.0.0.0 covidjljv9ylhh3rg6.b1-prv.qualtrics.com
+0.0.0.0 covidk5tqj8s4m2k4n.b1-prv.qualtrics.com
+0.0.0.0 covidkwvp7zqxsmp2q.b1-prv.qualtrics.com
+0.0.0.0 covidl68rwmzdz9mhl.b1-prv.qualtrics.com
+0.0.0.0 covidmm44ldtl23zgx.b1-prv.qualtrics.com
+0.0.0.0 covidmxdkz78yngpqy.b1-prv.qualtrics.com
+0.0.0.0 covidr4598z8h6czcd.b1-prv.qualtrics.com
+0.0.0.0 covidyr4nck2s2lzn4.b1-prv.qualtrics.com
+0.0.0.0 covidytspjdskrlgst.b1-prv.qualtrics.com
+0.0.0.0 covidzkg8dnb2f9hw2.b1-prv.qualtrics.com
 0.0.0.0 s1.b1-prv.qualtrics.com
 0.0.0.0 babson.qualtrics.com
 0.0.0.0 babycenter.qualtrics.com
@@ -4938,6 +4963,10 @@
 0.0.0.0 coronaria.qualtrics.com
 0.0.0.0 coronataxpros.qualtrics.com
 0.0.0.0 corp.qualtrics.com
+0.0.0.0 gcblqcovdr.corp.qualtrics.com
+0.0.0.0 odo.corp.qualtrics.com
+0.0.0.0 qzpmaskflwgauh.corp.qualtrics.com
+0.0.0.0 ugc-quarantine-staging.corp.qualtrics.com
 0.0.0.0 corporateinsight.qualtrics.com
 0.0.0.0 costacruise.qualtrics.com
 0.0.0.0 coventry.qualtrics.com
@@ -5237,6 +5266,25 @@
 0.0.0.0 fullerton.qualtrics.com
 0.0.0.0 fw-quarantine1.qualtrics.com
 0.0.0.0 g1-iad.qualtrics.com
+0.0.0.0 covid6fbl5d3btj9zg.g1-iad.qualtrics.com
+0.0.0.0 covid8c9wxdlrqb2pp.g1-iad.qualtrics.com
+0.0.0.0 covid9h8p7px5mq249.g1-iad.qualtrics.com
+0.0.0.0 covidbr3xrgzfvg49l.g1-iad.qualtrics.com
+0.0.0.0 covidcyx34kgmlm2xh.g1-iad.qualtrics.com
+0.0.0.0 coviddyls9xpdnp88t.g1-iad.qualtrics.com
+0.0.0.0 coviddzwswcydn338x.g1-iad.qualtrics.com
+0.0.0.0 covidghm2xbgv6jcmx.g1-iad.qualtrics.com
+0.0.0.0 covidglf7m5fhtlhxf.g1-iad.qualtrics.com
+0.0.0.0 covidj568xhwrzjgf6.g1-iad.qualtrics.com
+0.0.0.0 covidjt7sg5wl5nhpr.g1-iad.qualtrics.com
+0.0.0.0 covidlfr57fjg9625h.g1-iad.qualtrics.com
+0.0.0.0 covidnbp55mtwjf6gr.g1-iad.qualtrics.com
+0.0.0.0 coviduam.g1-iad.qualtrics.com
+0.0.0.0 covidv5547qszr2pd6.g1-iad.qualtrics.com
+0.0.0.0 covidvn2m89rz7jthy.g1-iad.qualtrics.com
+0.0.0.0 covidwfd4758vpp4h2.g1-iad.qualtrics.com
+0.0.0.0 covidxxny9bj84kkxx.g1-iad.qualtrics.com
+0.0.0.0 covidyky5r2bcfmsv7.g1-iad.qualtrics.com
 0.0.0.0 s1.g1-iad.qualtrics.com
 0.0.0.0 zn6m2eei53aorhh37-covidcl7chq8rhgvrb.s1.g1-iad.qualtrics.com
 0.0.0.0 gadventures.qualtrics.com
@@ -7132,6 +7180,7 @@
 0.0.0.0 mail.spyfone.com
 0.0.0.0 pc.spyfone.com
 0.0.0.0 sdcard.spyfone.com
+0.0.0.0 spyfone.spyfone.com
 0.0.0.0 stage.spyfone.com
 0.0.0.0 store.spyfone.com
 0.0.0.0 ue.spyfone.com
