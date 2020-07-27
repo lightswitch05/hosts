@@ -3,7 +3,7 @@ Thank you for using my hosts lists. I appreciate feedback on this project, but I
 
 **Got something to say?**
 
-I apprecite feedback on this project - both positive and negative. Regardless of the nature of the comment, keep it respectful. I really don't want to create a 'code of conduct', but if you need some guidlines on your expected behavior, checkout this 'Hey Friend' song first https://vimeo.com/338708688
+I appreciate feedback on this project - both positive and negative. Regardless of the nature of the comment, keep it respectful. I really don't want to create a 'code of conduct', but if you need some guidelines on your expected behavior, checkout this 'Hey Friend' song first https://vimeo.com/338708688
 
 **False positive?**
 
