@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-07-28T20:02:42+00:00
-# Count: 9448 domains
+# Released: 2020-07-29T05:46:35+00:00
+# Count: 9488 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -4304,6 +4304,7 @@
 0.0.0.0 disneyinstitute.az1.qualtrics.com
 0.0.0.0 dtcc1.az1.qualtrics.com
 0.0.0.0 dupont.az1.qualtrics.com
+0.0.0.0 ecresearch.az1.qualtrics.com
 0.0.0.0 ecu.az1.qualtrics.com
 0.0.0.0 eig.az1.qualtrics.com
 0.0.0.0 emiconsulting.az1.qualtrics.com
@@ -5860,6 +5861,7 @@
 0.0.0.0 sa-discovidev.qualtrics.com
 0.0.0.0 saacovid19testingne.qualtrics.com
 0.0.0.0 sabancimanagement.qualtrics.com
+0.0.0.0 covid19.sabancimanagement.qualtrics.com
 0.0.0.0 sae.qualtrics.com
 0.0.0.0 safllc.qualtrics.com
 0.0.0.0 sama360.qualtrics.com
@@ -6036,6 +6038,7 @@
 0.0.0.0 zn1rbh1qun86cu03b-sprintt.siteintercept.qualtrics.com
 0.0.0.0 zn1rf02d0jpdoatqr-lds.siteintercept.qualtrics.com
 0.0.0.0 zn1rkcaccxnai8w9l-intuitsocial.siteintercept.qualtrics.com
+0.0.0.0 zn1rmutavg1mjgmkp-deluxecorp.siteintercept.qualtrics.com
 0.0.0.0 zn1x0qh5hjniopg85-sfr.siteintercept.qualtrics.com
 0.0.0.0 zn1x3avlfb1e3py4j-msanulaganja.siteintercept.qualtrics.com
 0.0.0.0 zn1x4bay9t3d099pf-hsbcdigital.siteintercept.qualtrics.com
@@ -6147,6 +6150,7 @@
 0.0.0.0 zn50ybfpkmwdw146f-secureworks.siteintercept.qualtrics.com
 0.0.0.0 zn50yuabmykgwlskr-tollholdings.siteintercept.qualtrics.com
 0.0.0.0 zn510iugmb0178nmz-progressiveleasing.siteintercept.qualtrics.com
+0.0.0.0 zn516glb89xngtkgb-floridajobs.siteintercept.qualtrics.com
 0.0.0.0 zn51skeqspsraph93-bankwestcx.siteintercept.qualtrics.com
 0.0.0.0 zn54o5md2jdnmn9yh-interfaceglobal.siteintercept.qualtrics.com
 0.0.0.0 zn558i8jslatbk3op-lds.siteintercept.qualtrics.com
@@ -7518,6 +7522,7 @@
 0.0.0.0 68post.vk.com
 0.0.0.0 7ww.vk.com
 0.0.0.0 87.vk.com
+0.0.0.0 srv120-131.240.87.vk.com
 0.0.0.0 adm.vk.com
 0.0.0.0 admin.vk.com
 0.0.0.0 ahm.vk.com
@@ -7541,6 +7546,8 @@
 0.0.0.0 clicks.vk.com
 0.0.0.0 collamask.vk.com
 0.0.0.0 comwww.vk.com
+0.0.0.0 vk.comwww.vk.com
+0.0.0.0 www.yahoo.comwww.vk.com
 0.0.0.0 connect.vk.com
 0.0.0.0 coronagolf.vk.com
 0.0.0.0 corp.vk.com
@@ -7561,6 +7568,7 @@
 0.0.0.0 cs10421.vk.com
 0.0.0.0 cs10478.vk.com
 0.0.0.0 cs10599.vk.com
+0.0.0.0 cs10692.vk.com
 0.0.0.0 cs10694.vk.com
 0.0.0.0 cs10787.vk.com
 0.0.0.0 cs10831.vk.com
@@ -7568,6 +7576,7 @@
 0.0.0.0 cs10867.vk.com
 0.0.0.0 cs10969.vk.com
 0.0.0.0 cs11073.vk.com
+0.0.0.0 cs11362.vk.com
 0.0.0.0 cs11429.vk.com
 0.0.0.0 cs123.vk.com
 0.0.0.0 cs126.vk.com
@@ -7728,8 +7737,10 @@
 0.0.0.0 cs9710.vk.com
 0.0.0.0 cs9813.vk.com
 0.0.0.0 cs9916.vk.com
+0.0.0.0 cs9947.vk.com
 0.0.0.0 cs9960.vk.com
 0.0.0.0 cs9970.vk.com
+0.0.0.0 cs9989.vk.com
 0.0.0.0 minneapolis.amidami8828.cs9993890.vk.com
 0.0.0.0 indankorea.cs9993890.vk.com
 0.0.0.0 cu.vk.com
@@ -7907,6 +7918,12 @@
 0.0.0.0 srv181-129-240-87.vk.com
 0.0.0.0 srv193-139-240-87.vk.com
 0.0.0.0 srv194-139-240-87.vk.com
+0.0.0.0 imap.srv194-139-240-87.vk.com
+0.0.0.0 imap4.srv194-139-240-87.vk.com
+0.0.0.0 mail.srv194-139-240-87.vk.com
+0.0.0.0 mx.srv194-139-240-87.vk.com
+0.0.0.0 pop3.srv194-139-240-87.vk.com
+0.0.0.0 www.srv194-139-240-87.vk.com
 0.0.0.0 srv206-137-240-87.vk.com
 0.0.0.0 srv207-137-240-87.vk.com
 0.0.0.0 srv208-137-240-87.vk.com
@@ -7916,6 +7933,16 @@
 0.0.0.0 srv251-165-240-87.vk.com
 0.0.0.0 srv3-6-213-95.vk.com
 0.0.0.0 srv67-190-240-87.vk.com
+0.0.0.0 ftp.srv67-190-240-87.vk.com
+0.0.0.0 imap.srv67-190-240-87.vk.com
+0.0.0.0 imap4.srv67-190-240-87.vk.com
+0.0.0.0 mail.srv67-190-240-87.vk.com
+0.0.0.0 mx.srv67-190-240-87.vk.com
+0.0.0.0 pop.srv67-190-240-87.vk.com
+0.0.0.0 pop3.srv67-190-240-87.vk.com
+0.0.0.0 smtp.srv67-190-240-87.vk.com
+0.0.0.0 smtpp.srv67-190-240-87.vk.com
+0.0.0.0 www.srv67-190-240-87.vk.com
 0.0.0.0 srv69-190-240-87.vk.com
 0.0.0.0 srv70-190-240-87.vk.com
 0.0.0.0 srv71-129-240-87.vk.com
@@ -7927,9 +7954,22 @@
 0.0.0.0 smtp.srv71-129-240-87.vk.com
 0.0.0.0 www.srv71-129-240-87.vk.com
 0.0.0.0 srv72-190-240-87.vk.com
+0.0.0.0 ftp.srv72-190-240-87.vk.com
+0.0.0.0 imap.srv72-190-240-87.vk.com
+0.0.0.0 imap4.srv72-190-240-87.vk.com
+0.0.0.0 mail.srv72-190-240-87.vk.com
+0.0.0.0 mx.srv72-190-240-87.vk.com
+0.0.0.0 pop.srv72-190-240-87.vk.com
+0.0.0.0 pop3.srv72-190-240-87.vk.com
+0.0.0.0 smtp.srv72-190-240-87.vk.com
+0.0.0.0 www.srv72-190-240-87.vk.com
 0.0.0.0 srv75-134-240-87.vk.com
 0.0.0.0 srv75-190-240-87.vk.com
 0.0.0.0 srv78-190-240-87.vk.com
+0.0.0.0 ftp.srv78-190-240-87.vk.com
+0.0.0.0 mail.srv78-190-240-87.vk.com
+0.0.0.0 pop.srv78-190-240-87.vk.com
+0.0.0.0 www.srv78-190-240-87.vk.com
 0.0.0.0 sstakk.vk.com
 0.0.0.0 static.vk.com
 0.0.0.0 storage2.vk.com
