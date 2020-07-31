@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-07-30T18:46:35+00:00
-# Count: 9708 domains
+# Released: 2020-07-31T05:46:45+00:00
+# Count: 9760 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -189,6 +189,7 @@
 0.0.0.0 cdata.browser.360.cn
 0.0.0.0 cloud.browser.360.cn
 0.0.0.0 api-b.cloud.browser.360.cn
+0.0.0.0 google-translate.browser.360.cn
 0.0.0.0 interflow.browser.360.cn
 0.0.0.0 my.browser.360.cn
 0.0.0.0 bugcloud.360.cn
@@ -196,6 +197,7 @@
 0.0.0.0 ca.360.cn
 0.0.0.0 campus.360.cn
 0.0.0.0 campusclub.360.cn
+0.0.0.0 caprogram.360.cn
 0.0.0.0 captcha.360.cn
 0.0.0.0 car.360.cn
 0.0.0.0 cert.360.cn
@@ -222,6 +224,7 @@
 0.0.0.0 cp.360.cn
 0.0.0.0 crm.360.cn
 0.0.0.0 kf.crm.360.cn
+0.0.0.0 cs.360.cn
 0.0.0.0 ctf.360.cn
 0.0.0.0 competition.ctf.360.cn
 0.0.0.0 data.ctf.360.cn
@@ -246,6 +249,7 @@
 0.0.0.0 dp.push.dc.360.cn
 0.0.0.0 test.push.dc.360.cn
 0.0.0.0 dev.360.cn
+0.0.0.0 dian.360.cn
 0.0.0.0 dianhua.360.cn
 0.0.0.0 se.dianhua.360.cn
 0.0.0.0 dianping.360.cn
@@ -338,6 +342,8 @@
 0.0.0.0 qup.f.360.cn
 0.0.0.0 fw.qup.f.360.cn
 0.0.0.0 h.qup.f.360.cn
+0.0.0.0 open.qup.f.360.cn
+0.0.0.0 openbak.qup.f.360.cn
 0.0.0.0 s.qup.f.360.cn
 0.0.0.0 qurl.f.360.cn
 0.0.0.0 open.qurl.f.360.cn
@@ -385,6 +391,7 @@
 0.0.0.0 cm1.d.freemse.360.cn
 0.0.0.0 freewifi.360.cn
 0.0.0.0 fuli.360.cn
+0.0.0.0 fuwu.360.cn
 0.0.0.0 news.g.360.cn
 0.0.0.0 game.360.cn
 0.0.0.0 api.game.360.cn
@@ -421,11 +428,14 @@
 0.0.0.0 role.gamebox.360.cn
 0.0.0.0 next.test.gamebox.360.cn
 0.0.0.0 geelib.360.cn
+0.0.0.0 go.360.cn
 0.0.0.0 gongxiangyun.360.cn
 0.0.0.0 gouwu.360.cn
+0.0.0.0 gushiji.360.cn
 0.0.0.0 hao.360.cn
 0.0.0.0 reg.hao.360.cn
 0.0.0.0 click.stat.hao.360.cn
+0.0.0.0 xiaohua.hao.360.cn
 0.0.0.0 care.help.360.cn
 0.0.0.0 ms.urm.help.360.cn
 0.0.0.0 home.360.cn
@@ -434,6 +444,7 @@
 0.0.0.0 hooan.360.cn
 0.0.0.0 demo.hooan.360.cn
 0.0.0.0 hr.360.cn
+0.0.0.0 huanji.360.cn
 0.0.0.0 hubeixing.360.cn
 0.0.0.0 huochepiao.360.cn
 0.0.0.0 ios.huochepiao.360.cn
@@ -463,6 +474,8 @@
 0.0.0.0 jc.360.cn
 0.0.0.0 jf.360.cn
 0.0.0.0 app.jf.360.cn
+0.0.0.0 test.app.jf.360.cn
+0.0.0.0 h5.jf.360.cn
 0.0.0.0 tapp.jf.360.cn
 0.0.0.0 jia.360.cn
 0.0.0.0 dev.jia.360.cn
@@ -470,6 +483,7 @@
 0.0.0.0 es.jia.360.cn
 0.0.0.0 open.jia.360.cn
 0.0.0.0 q.jia.360.cn
+0.0.0.0 up.jia.360.cn
 0.0.0.0 jiagu.360.cn
 0.0.0.0 jie.360.cn
 0.0.0.0 m.jie.360.cn
@@ -540,7 +554,9 @@
 0.0.0.0 s1.stat.lianmeng.360.cn
 0.0.0.0 s1-b.stat.lianmeng.360.cn
 0.0.0.0 stat-b.lianmeng.360.cn
+0.0.0.0 zhanyi.lianmeng.360.cn
 0.0.0.0 zhuomian.lianmeng.360.cn
+0.0.0.0 licai.360.cn
 0.0.0.0 liuliang.360.cn
 0.0.0.0 live.360.cn
 0.0.0.0 ac.live.360.cn
@@ -549,6 +565,7 @@
 0.0.0.0 fb.live.360.cn
 0.0.0.0 fbtest.live.360.cn
 0.0.0.0 g.live.360.cn
+0.0.0.0 g-iot.live.360.cn
 0.0.0.0 g2.live.360.cn
 0.0.0.0 g3.live.360.cn
 0.0.0.0 gtest.live.360.cn
@@ -563,11 +580,13 @@
 0.0.0.0 u.live.360.cn
 0.0.0.0 v.live.360.cn
 0.0.0.0 login.360.cn
+0.0.0.0 show.look.360.cn
 0.0.0.0 luyou.360.cn
 0.0.0.0 test.api.luyou.360.cn
 0.0.0.0 newapi.cloudquery.luyou.360.cn
 0.0.0.0 api.taozhuang.luyou.360.cn
 0.0.0.0 upgrade.luyou.360.cn
+0.0.0.0 luyouw.360.cn
 0.0.0.0 api.lxqp.360.cn
 0.0.0.0 m.360.cn
 0.0.0.0 mail.360.cn
@@ -635,12 +654,20 @@
 0.0.0.0 openboxcdn.mobilem.360.cn
 0.0.0.0 openboxfwcdn.mobilem.360.cn
 0.0.0.0 openboxsearch.mobilem.360.cn
+0.0.0.0 api.openboxsearch.mobilem.360.cn
 0.0.0.0 rec.mobilem.360.cn
 0.0.0.0 test1.mobilem.360.cn
+0.0.0.0 rom.test1.mobilem.360.cn
+0.0.0.0 sjt-hjctl.test1.mobilem.360.cn
+0.0.0.0 sjt-rom.test1.mobilem.360.cn
+0.0.0.0 speeddownload.test1.mobilem.360.cn
 0.0.0.0 upload.test1.mobilem.360.cn
+0.0.0.0 wp.test1.mobilem.360.cn
+0.0.0.0 zhuangjibibei.test1.mobilem.360.cn
 0.0.0.0 thirdparty.mobilem.360.cn
 0.0.0.0 update.mobilem.360.cn
 0.0.0.0 video.mobilem.360.cn
+0.0.0.0 test.video.mobilem.360.cn
 0.0.0.0 video-b.mobilem.360.cn
 0.0.0.0 wintf.mobilem.360.cn
 0.0.0.0 zhushou.mobilem.360.cn
@@ -751,6 +778,7 @@
 0.0.0.0 trans.safe.360.cn
 0.0.0.0 upxy.safe.360.cn
 0.0.0.0 vod.safe.360.cn
+0.0.0.0 c.sayhi.360.cn
 0.0.0.0 sd.360.cn
 0.0.0.0 down.sd.360.cn
 0.0.0.0 feedback.sd.360.cn
@@ -795,6 +823,7 @@
 0.0.0.0 m.shoujivr.360.cn
 0.0.0.0 shuaji.360.cn
 0.0.0.0 sj.360.cn
+0.0.0.0 download.api.sj.360.cn
 0.0.0.0 free.api.sj.360.cn
 0.0.0.0 recommend.api.sj.360.cn
 0.0.0.0 ring.api.sj.360.cn
@@ -893,15 +922,21 @@
 0.0.0.0 stat.tf.360.cn
 0.0.0.0 v.tf.360.cn
 0.0.0.0 tracking.v.tf.360.cn
+0.0.0.0 tfboys.360.cn
 0.0.0.0 ti.360.cn
 0.0.0.0 api.tianji.360.cn
 0.0.0.0 tmesh.360.cn
+0.0.0.0 tongxunlu.360.cn
 0.0.0.0 tq.360.cn
 0.0.0.0 training.360.cn
 0.0.0.0 tuan.360.cn
 0.0.0.0 tv.360.cn
 0.0.0.0 qweb.txl.360.cn
 0.0.0.0 u.360.cn
+0.0.0.0 bbs.u.360.cn
+0.0.0.0 ka.u.360.cn
+0.0.0.0 ku.u.360.cn
+0.0.0.0 sqhd.u.360.cn
 0.0.0.0 ball.priv.uc.360.cn
 0.0.0.0 ball-b.priv.uc.360.cn
 0.0.0.0 safe.priv.uc.360.cn
@@ -951,6 +986,7 @@
 0.0.0.0 mse.warning.360.cn
 0.0.0.0 se.warning.360.cn
 0.0.0.0 watch.360.cn
+0.0.0.0 wd.360.cn
 0.0.0.0 bx.wd.360.cn
 0.0.0.0 webid.360.cn
 0.0.0.0 webscan.360.cn
@@ -987,6 +1023,7 @@
 0.0.0.0 s.conf.wsm.360.cn
 0.0.0.0 new.poll.tools.wsm.360.cn
 0.0.0.0 www.360.cn
+0.0.0.0 xianpei.360.cn
 0.0.0.0 u.xianpei.360.cn
 0.0.0.0 xiaoshuo.360.cn
 0.0.0.0 m.xiaoshuo.360.cn
@@ -1020,6 +1057,7 @@
 0.0.0.0 vpn.zhongce.360.cn
 0.0.0.0 zhouhe.360.cn
 0.0.0.0 zhuiri.360.cn
+0.0.0.0 zhuomian.360.cn
 0.0.0.0 zhushou.360.cn
 0.0.0.0 zqb.360.cn
 0.0.0.0 odds.zqb.360.cn
@@ -1127,7 +1165,6 @@
 0.0.0.0 columbiasportswear.ugc.bazaarvoice.com
 0.0.0.0 conrad.ugc.bazaarvoice.com
 0.0.0.0 containerstore.ugc.bazaarvoice.com
-0.0.0.0 coopertire.ugc.bazaarvoice.com
 0.0.0.0 createandcraft.ugc.bazaarvoice.com
 0.0.0.0 createandcraftus.ugc.bazaarvoice.com
 0.0.0.0 cubesmart.ugc.bazaarvoice.com
@@ -1709,6 +1746,7 @@
 0.0.0.0 cr13.mta.exacttarget.com
 0.0.0.0 cr144.mta.exacttarget.com
 0.0.0.0 cr146.mta.exacttarget.com
+0.0.0.0 cr171.mta.exacttarget.com
 0.0.0.0 cr172.mta.exacttarget.com
 0.0.0.0 cr184.mta.exacttarget.com
 0.0.0.0 cr196.mta.exacttarget.com
@@ -1740,6 +1778,7 @@
 0.0.0.0 db146.mta.exacttarget.com
 0.0.0.0 db152.mta.exacttarget.com
 0.0.0.0 db167.mta.exacttarget.com
+0.0.0.0 db169.mta.exacttarget.com
 0.0.0.0 db211.mta.exacttarget.com
 0.0.0.0 db29.mta.exacttarget.com
 0.0.0.0 db40.mta.exacttarget.com
@@ -1758,6 +1797,7 @@
 0.0.0.0 df101.mta.exacttarget.com
 0.0.0.0 df102.mta.exacttarget.com
 0.0.0.0 df111.mta.exacttarget.com
+0.0.0.0 df117.mta.exacttarget.com
 0.0.0.0 df119.mta.exacttarget.com
 0.0.0.0 df12.mta.exacttarget.com
 0.0.0.0 df129.mta.exacttarget.com
@@ -3644,11 +3684,15 @@
 0.0.0.0 polldaddy.com
 0.0.0.0 1.polldaddy.com
 0.0.0.0 13609688.polldaddy.com
+0.0.0.0 18422602.polldaddy.com
 0.0.0.0 2831118.polldaddy.com
 0.0.0.0 391420.polldaddy.com
 0.0.0.0 8668049.polldaddy.com
+0.0.0.0 87427.polldaddy.com
 0.0.0.0 acp1.polldaddy.com
 0.0.0.0 adinstrumentsna.polldaddy.com
+0.0.0.0 advocate.polldaddy.com
+0.0.0.0 adweekgroup.polldaddy.com
 0.0.0.0 agilewebsurvey2013.polldaddy.com
 0.0.0.0 ancaputnun.polldaddy.com
 0.0.0.0 andiacunno.polldaddy.com
@@ -3665,6 +3709,7 @@
 0.0.0.0 buypremarinonline.polldaddy.com
 0.0.0.0 cacepsebi.polldaddy.com
 0.0.0.0 campigfisren.polldaddy.com
+0.0.0.0 cdn-cf-metforminwoprescript.polldaddy.com
 0.0.0.0 cghochberg.polldaddy.com
 0.0.0.0 clarionledger.polldaddy.com
 0.0.0.0 conforuk.polldaddy.com
@@ -3685,8 +3730,10 @@
 0.0.0.0 futureofbusinesscoll.polldaddy.com
 0.0.0.0 geopunboter.polldaddy.com
 0.0.0.0 glucophagecost.polldaddy.com
+0.0.0.0 guinnessworldrecords.polldaddy.com
 0.0.0.0 hellocan.polldaddy.com
 0.0.0.0 i.polldaddy.com
+0.0.0.0 iasoft.polldaddy.com
 0.0.0.0 ibcbetpoll.polldaddy.com
 0.0.0.0 icnsolutions.polldaddy.com
 0.0.0.0 immobilienscout24.polldaddy.com
@@ -3697,9 +3744,11 @@
 0.0.0.0 lb.polldaddy.com
 0.0.0.0 linaucalve.polldaddy.com
 0.0.0.0 martinimarcello00.polldaddy.com
+0.0.0.0 mashable.polldaddy.com
 0.0.0.0 mastesvovi.polldaddy.com
 0.0.0.0 medicinehydrochlor.polldaddy.com
 0.0.0.0 mercime.polldaddy.com
+0.0.0.0 metforminwoprescriptivan0707golub.polldaddy.com
 0.0.0.0 mohammedsaleem.polldaddy.com
 0.0.0.0 naconcomlum.polldaddy.com
 0.0.0.0 naphtposhirver.polldaddy.com
@@ -4369,6 +4418,7 @@
 0.0.0.0 landsend.az1.qualtrics.com
 0.0.0.0 leadershipfactor.az1.qualtrics.com
 0.0.0.0 level3.az1.qualtrics.com
+0.0.0.0 livpsych.az1.qualtrics.com
 0.0.0.0 marquette.az1.qualtrics.com
 0.0.0.0 marriottvacationclub.az1.qualtrics.com
 0.0.0.0 marsh.az1.qualtrics.com
@@ -5901,6 +5951,7 @@
 0.0.0.0 new.qualtrics.com
 0.0.0.0 new-aoi-virus.qualtrics.com
 0.0.0.0 newmeasures360.qualtrics.com
+0.0.0.0 newnormal.qualtrics.com
 0.0.0.0 newschool.qualtrics.com
 0.0.0.0 nexantcanada.qualtrics.com
 0.0.0.0 ngov1-zn8cpg0snvaqe86xl-covid19triage.qualtrics.com
@@ -6837,6 +6888,7 @@
 0.0.0.0 siumarketing.qualtrics.com
 0.0.0.0 sixflags.qualtrics.com
 0.0.0.0 sjc1.qualtrics.com
+0.0.0.0 keenfootwear.sjc1.qualtrics.com
 0.0.0.0 nnursesunited.sjc1.qualtrics.com
 0.0.0.0 rc1userh5thjd7hwt7pf.sjc1.qualtrics.com
 0.0.0.0 sjsu.qualtrics.com
