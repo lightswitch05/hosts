@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-07-31T12:00:41+00:00
-# Count: 8724 domains
+# Released: 2020-07-31T18:46:39+00:00
+# Count: 8855 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -774,8 +774,10 @@
 0.0.0.0 edge-atlas-shv-01-qro1.facebook.com
 0.0.0.0 edge-atlas-shv-01-sof1.facebook.com
 0.0.0.0 edge-atlas-shv-01-syd2.facebook.com
+0.0.0.0 edge-atlas-shv-02-bom1.facebook.com
 0.0.0.0 edge-atlas-shv-02-kut2.facebook.com
 0.0.0.0 edge-atlas-shv-02-sin6.facebook.com
+0.0.0.0 edge-atlas-shv-02-xsp1.facebook.com
 0.0.0.0 edge-cg-rtc-shv-01-qro1.facebook.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge-extern-shv-01-lht6.facebook.com
@@ -807,14 +809,18 @@
 0.0.0.0 edge-mqtt-latest-shv-02-sin6.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-any2.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-arn2.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-del1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-dus1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-gig2.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-gmp1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-lis1.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-maa2.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-sof1.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-02-bom1.facebook.com
 0.0.0.0 edge-mqtt-p4-shv-01-vie1.facebook.com
 0.0.0.0 edge-mqtt-p4-shv-02-bom1.facebook.com
+0.0.0.0 edge-mqtt-shv-01-bom1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-bru2.facebook.com
 0.0.0.0 edge-mqtt-shv-01-cdt1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-eze1.facebook.com
@@ -829,6 +835,7 @@
 0.0.0.0 edge-mqtt-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-tpe1.facebook.com
 0.0.0.0 edge-mqtt-shv-01-xsp1.facebook.com
+0.0.0.0 edge-mqtt-shv-02-bom1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
 0.0.0.0 edge-mws-l-shv-01-xsp1.facebook.com
 0.0.0.0 edge-mws-l-shv-02-sin6.facebook.com
@@ -875,8 +882,10 @@
 0.0.0.0 edge-snaptu-http-p1-shv-02-xsp1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-any2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-atl3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-bom1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-cdg2.facebook.com
+0.0.0.0 edge-star-mini-shv-01-del1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-den4.facebook.com
 0.0.0.0 edge-star-mini-shv-01-fco1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-frt3.facebook.com
@@ -895,6 +904,8 @@
 0.0.0.0 edge-star-mini-shv-01-sju1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-yyz1.facebook.com
+0.0.0.0 edge-star-mini-shv-02-bom1.facebook.com
+0.0.0.0 edge-star-mini-shv-02-maa2.facebook.com
 0.0.0.0 edge-star-mini-shv-02-mrs2.facebook.com
 0.0.0.0 edge-star-mini-shv-02-ort2.facebook.com
 0.0.0.0 edge-star-shv-01-amt2.facebook.com
@@ -905,6 +916,7 @@
 0.0.0.0 edge-star-shv-01-cgk1.facebook.com
 0.0.0.0 edge-star-shv-01-del1.facebook.com
 0.0.0.0 edge-star-shv-01-fco1.facebook.com
+0.0.0.0 edge-star-shv-01-frx5.facebook.com
 0.0.0.0 edge-star-shv-01-gmp1.facebook.com
 0.0.0.0 edge-star-shv-01-gru2.facebook.com
 0.0.0.0 edge-star-shv-01-hkg4.facebook.com
@@ -914,6 +926,7 @@
 0.0.0.0 edge-star-shv-01-lga3.facebook.com
 0.0.0.0 edge-star-shv-01-lht6.facebook.com
 0.0.0.0 edge-star-shv-01-lim1.facebook.com
+0.0.0.0 edge-star-shv-01-mrs2.facebook.com
 0.0.0.0 edge-star-shv-02-bom1.facebook.com
 0.0.0.0 edge-star-shv-02-maa2.facebook.com
 0.0.0.0 edge-star-shv-02-mrs2.facebook.com
@@ -992,6 +1005,7 @@
 0.0.0.0 edgeray-shv-02-arn2.facebook.com
 0.0.0.0 edgeray-shv-02-kut2.facebook.com
 0.0.0.0 edgeray-shv-02-lga3.facebook.com
+0.0.0.0 edgeray-shv-02-maa2.facebook.com
 0.0.0.0 edgeray-shv-02-mrs2.facebook.com
 0.0.0.0 edgeray-shv-02-ort2.facebook.com
 0.0.0.0 egmont.facebook.com
@@ -1651,6 +1665,7 @@
 0.0.0.0 et-ee.register.lite.facebook.com
 0.0.0.0 www.fr-fr.register.lite.facebook.com
 0.0.0.0 zh-cn.fr-fr.register.lite.facebook.com
+0.0.0.0 getavirus-com.register.lite.facebook.com
 0.0.0.0 www.hi-in.register.lite.facebook.com
 0.0.0.0 pt-br.id-id.register.lite.facebook.com
 0.0.0.0 ar-ar.it-it.register.lite.facebook.com
@@ -1732,6 +1747,7 @@
 0.0.0.0 www.te-in.register.lite.facebook.com
 0.0.0.0 zh-cn.te-in.register.lite.facebook.com
 0.0.0.0 www.zh-cn.tl-ph.register.lite.facebook.com
+0.0.0.0 trovacinema.register.lite.facebook.com
 0.0.0.0 www.register.lite.facebook.com
 0.0.0.0 ar-ar.www.register.lite.facebook.com
 0.0.0.0 be-by.www.register.lite.facebook.com
@@ -2041,6 +2057,7 @@
 0.0.0.0 es-la.ko-kr.vi-vn.lite.facebook.com
 0.0.0.0 www.ko-kr.vi-vn.lite.facebook.com
 0.0.0.0 zh-cn.ko-kr.vi-vn.lite.facebook.com
+0.0.0.0 middle-distance-classic.vi-vn.lite.facebook.com
 0.0.0.0 es-la.mn-mn.vi-vn.lite.facebook.com
 0.0.0.0 ar-ar.ms-my.vi-vn.lite.facebook.com
 0.0.0.0 de-de.ms-my.vi-vn.lite.facebook.com
@@ -2055,6 +2072,7 @@
 0.0.0.0 zh-cn.pt-br.vi-vn.lite.facebook.com
 0.0.0.0 ar-ar.ro-ro.vi-vn.lite.facebook.com
 0.0.0.0 www.ro-ro.vi-vn.lite.facebook.com
+0.0.0.0 shigekix5.vi-vn.lite.facebook.com
 0.0.0.0 www.th-th.vi-vn.lite.facebook.com
 0.0.0.0 fr-fr.tr-tr.vi-vn.lite.facebook.com
 0.0.0.0 ko-kr.tr-tr.vi-vn.lite.facebook.com
@@ -3643,6 +3661,7 @@
 0.0.0.0 uk-ua.facebook.com
 0.0.0.0 uky.facebook.com
 0.0.0.0 unitecmx.facebook.com
+0.0.0.0 rupload-bom.up.facebook.com
 0.0.0.0 rupload-cgk1-1.up.facebook.com
 0.0.0.0 rupload-frt3-1.up.facebook.com
 0.0.0.0 rupload-maa.up.facebook.com
@@ -3671,6 +3690,7 @@
 0.0.0.0 webdav.facebook.com
 0.0.0.0 westwing.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-arn2.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-01-bom1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-cgk1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-del1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-den4.facebook.com
@@ -3687,6 +3707,7 @@
 0.0.0.0 whatsapp-chatd-edge-shv-02-dfw5.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-frt3.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-lga3.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-02-maa2.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-xsp1.facebook.com
 0.0.0.0 wit-edge-shv-01-gru1.facebook.com
 0.0.0.0 wit-edge-shv-01-mad1.facebook.com
@@ -4185,7 +4206,6 @@
 0.0.0.0 qmn14.fava.fb.com
 0.0.0.0 wcz01.fava.fb.com
 0.0.0.0 wmx11.fava.fb.com
-0.0.0.0 fs.fbdevlab.fb.com
 0.0.0.0 ldap.fbdevlab.fb.com
 0.0.0.0 fbindia.fb.com
 0.0.0.0 www.fbindia.fb.com
@@ -4917,6 +4937,7 @@
 0.0.0.0 blog.giphy.com
 0.0.0.0 cdn.giphy.com
 0.0.0.0 create.giphy.com
+0.0.0.0 dev.giphy.com
 0.0.0.0 developer.giphy.com
 0.0.0.0 developers.giphy.com
 0.0.0.0 dvr.giphy.com
@@ -5644,6 +5665,8 @@
 0.0.0.0 edge-sonar-mini-shv-01-ber1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-bos3.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-cph2.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-01-dus1.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-01-for1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-hkg4.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-mad1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-mba1.fbcdn.net
@@ -5714,13 +5737,16 @@
 0.0.0.0 instagram.fakl6-1.fna.fbcdn.net
 0.0.0.0 instagram.fakx2-1.fna.fbcdn.net
 0.0.0.0 instagram.fala3-1.fna.fbcdn.net
+0.0.0.0 instagram.fala4-1.fna.fbcdn.net
 0.0.0.0 instagram.fala4-2.fna.fbcdn.net
 0.0.0.0 video.fala5-1.fna.fbcdn.net
 0.0.0.0 instagram.falg3-1.fna.fbcdn.net
 0.0.0.0 instagram.faly3-1.fna.fbcdn.net
 0.0.0.0 instagram.famd1-1.fna.fbcdn.net
 0.0.0.0 scontent.famd1-2.fna.fbcdn.net
+0.0.0.0 instagram.famd3-1.fna.fbcdn.net
 0.0.0.0 instagram.famd5-1.fna.fbcdn.net
+0.0.0.0 video.famd5-1.fna.fbcdn.net
 0.0.0.0 instagram.famm3-1.fna.fbcdn.net
 0.0.0.0 instagram.famm6-1.fna.fbcdn.net
 0.0.0.0 instagram.famm9-1.fna.fbcdn.net
@@ -5747,6 +5773,7 @@
 0.0.0.0 scontent.fath4-2.fna.fbcdn.net
 0.0.0.0 instagram.fath6-1.fna.fbcdn.net
 0.0.0.0 instagram.fath7-1.fna.fbcdn.net
+0.0.0.0 scontent.fath7-1.fna.fbcdn.net
 0.0.0.0 scontent.fatl1-1.fna.fbcdn.net
 0.0.0.0 instagram.fatl1-2.fna.fbcdn.net
 0.0.0.0 instagram.fayt2-1.fna.fbcdn.net
@@ -5756,6 +5783,7 @@
 0.0.0.0 scontent.fbau3-1.fna.fbcdn.net
 0.0.0.0 instagram.fbau4-1.fna.fbcdn.net
 0.0.0.0 instagram.fbbi1-1.fna.fbcdn.net
+0.0.0.0 sonar.fbbi1-1.fna.fbcdn.net
 0.0.0.0 instagram.fbcn4-1.fna.fbcdn.net
 0.0.0.0 scontent.fbdj4-1.fna.fbcdn.net
 0.0.0.0 instagram.fbdo1-2.fna.fbcdn.net
@@ -5763,7 +5791,9 @@
 0.0.0.0 instagram.fbdo2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbdo6-2.fna.fbcdn.net
 0.0.0.0 instagram.fbdq1-1.fna.fbcdn.net
+0.0.0.0 scontent.fbdq1-1.fna.fbcdn.net
 0.0.0.0 instagram.fbdq2-1.fna.fbcdn.net
+0.0.0.0 video.fbdq2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbed1-1.fna.fbcdn.net
 0.0.0.0 scontent.fbed1-1.fna.fbcdn.net
 0.0.0.0 video.fbed1-1.fna.fbcdn.net
@@ -5799,8 +5829,10 @@
 0.0.0.0 instagram.fbgw7-1.fna.fbcdn.net
 0.0.0.0 instagram.fbho1-1.fna.fbcdn.net
 0.0.0.0 instagram.fbho1-2.fna.fbcdn.net
+0.0.0.0 sonar.fbho1-2.fna.fbcdn.net
 0.0.0.0 video.fbho2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbho4-1.fna.fbcdn.net
+0.0.0.0 instagram.fbhz2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbkk10-1.fna.fbcdn.net
 0.0.0.0 scontent.fbkk10-1.fna.fbcdn.net
 0.0.0.0 instagram.fbkk13-1.fna.fbcdn.net
@@ -5816,14 +5848,21 @@
 0.0.0.0 instagram.fblb2-1.fna.fbcdn.net
 0.0.0.0 instagram.fblq3-1.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-3.fna.fbcdn.net
+0.0.0.0 sonar.fblr1-3.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-4.fna.fbcdn.net
 0.0.0.0 scontent.fblr1-4.fna.fbcdn.net
 0.0.0.0 instagram.fblr1-5.fna.fbcdn.net
+0.0.0.0 video.fblr12-1.fna.fbcdn.net
+0.0.0.0 scontent.fblr13-1.fna.fbcdn.net
+0.0.0.0 instagram.fblr14-1.fna.fbcdn.net
 0.0.0.0 instagram.fblr2-1.fna.fbcdn.net
 0.0.0.0 instagram.fblr3-1.fna.fbcdn.net
+0.0.0.0 video.fblr3-2.fna.fbcdn.net
 0.0.0.0 instagram.fblr4-1.fna.fbcdn.net
 0.0.0.0 video.fblr4-1.fna.fbcdn.net
+0.0.0.0 sonar.fblr4-2.fna.fbcdn.net
 0.0.0.0 external.fblr6-1.fna.fbcdn.net
+0.0.0.0 scontent.fblr6-1.fna.fbcdn.net
 0.0.0.0 scontent.fblr7-1.fna.fbcdn.net
 0.0.0.0 instagram.fblr9-1.fna.fbcdn.net
 0.0.0.0 scontent.fbma1-1.fna.fbcdn.net
@@ -5833,16 +5872,25 @@
 0.0.0.0 video.fbne5-1.fna.fbcdn.net
 0.0.0.0 scontent.fbog2-3.fna.fbcdn.net
 0.0.0.0 video.fbog4-1.fna.fbcdn.net
+0.0.0.0 video.fbom15-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom17-1.fna.fbcdn.net
 0.0.0.0 scontent.fbom17-1.fna.fbcdn.net
+0.0.0.0 scontent.fbom18-1.fna.fbcdn.net
+0.0.0.0 video.fbom18-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom19-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom19-2.fna.fbcdn.net
 0.0.0.0 instagram.fbom2-1.fna.fbcdn.net
 0.0.0.0 video.fbom2-1.fna.fbcdn.net
 0.0.0.0 scontent.fbom26-1.fna.fbcdn.net
+0.0.0.0 scontent.fbom28-1.fna.fbcdn.net
+0.0.0.0 scontent.fbom31-1.fna.fbcdn.net
+0.0.0.0 scontent.fbom33-1.fna.fbcdn.net
+0.0.0.0 video.fbom35-1.fna.fbcdn.net
 0.0.0.0 scontent.fbom5-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom6-1.fna.fbcdn.net
+0.0.0.0 video.fbom6-1.fna.fbcdn.net
 0.0.0.0 instagram.fbom8-1.fna.fbcdn.net
+0.0.0.0 instagram.fbpm1-1.fna.fbcdn.net
 0.0.0.0 instagram.fbpn2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbre2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbrs1-1.fna.fbcdn.net
@@ -5894,9 +5942,12 @@
 0.0.0.0 scontent.fccp4-1.fna.fbcdn.net
 0.0.0.0 scontent.fccu11-1.fna.fbcdn.net
 0.0.0.0 instagram.fccu13-1.fna.fbcdn.net
+0.0.0.0 sonar.fccu13-1.fna.fbcdn.net
 0.0.0.0 scontent.fccu16-1.fna.fbcdn.net
+0.0.0.0 scontent.fccu18-1.fna.fbcdn.net
 0.0.0.0 scontent.fccu4-1.fna.fbcdn.net
 0.0.0.0 instagram.fccu4-2.fna.fbcdn.net
+0.0.0.0 video.fccu9-1.fna.fbcdn.net
 0.0.0.0 instagram.fcdg1-1.fna.fbcdn.net
 0.0.0.0 external.fcdg2-1.fna.fbcdn.net
 0.0.0.0 instagram.fcdg2-1.fna.fbcdn.net
@@ -5926,6 +5977,7 @@
 0.0.0.0 scontent.fcgy1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fcia2-1.fna.fbcdn.net
 0.0.0.0 instagram.fcit1-1.fna.fbcdn.net
+0.0.0.0 video.fcjb2-1.fna.fbcdn.net
 0.0.0.0 instagram.fcjb3-1.fna.fbcdn.net
 0.0.0.0 external.fcjs1-1.fna.fbcdn.net
 0.0.0.0 scontent.fcjs3-2.fna.fbcdn.net
@@ -5948,6 +6000,11 @@
 0.0.0.0 scontent.fcok1-1.fna.fbcdn.net
 0.0.0.0 external.fcok3-1.fna.fbcdn.net
 0.0.0.0 scontent.fcok3-1.fna.fbcdn.net
+0.0.0.0 video.fcok3-1.fna.fbcdn.net
+0.0.0.0 video.fcok5-1.fna.fbcdn.net
+0.0.0.0 instagram.fcok8-1.fna.fbcdn.net
+0.0.0.0 scontent.fcok8-1.fna.fbcdn.net
+0.0.0.0 video.fcok8-1.fna.fbcdn.net
 0.0.0.0 sonar.fcor10-3.fna.fbcdn.net
 0.0.0.0 instagram.fcor2-2.fna.fbcdn.net
 0.0.0.0 scontent.fcor2-2.fna.fbcdn.net
@@ -5986,6 +6043,7 @@
 0.0.0.0 scontent.fdac4-1.fna.fbcdn.net
 0.0.0.0 scontent.fdac41-1.fna.fbcdn.net
 0.0.0.0 scontent.fdac54-1.fna.fbcdn.net
+0.0.0.0 video.fdac63-1.fna.fbcdn.net
 0.0.0.0 instagram.fdac80-1.fna.fbcdn.net
 0.0.0.0 scontent.fdad3-2.fna.fbcdn.net
 0.0.0.0 instagram.fdel1-1.fna.fbcdn.net
@@ -5994,17 +6052,34 @@
 0.0.0.0 external.fdel11-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel11-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel12-1.fna.fbcdn.net
+0.0.0.0 video.fdel12-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel13-1.fna.fbcdn.net
+0.0.0.0 video.fdel14-1.fna.fbcdn.net
+0.0.0.0 video.fdel15-1.fna.fbcdn.net
+0.0.0.0 video.fdel16-1.fna.fbcdn.net
+0.0.0.0 video.fdel17-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel18-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel2-1.fna.fbcdn.net
+0.0.0.0 instagram.fdel22-1.fna.fbcdn.net
+0.0.0.0 scontent.fdel23-1.fna.fbcdn.net
+0.0.0.0 video.fdel23-1.fna.fbcdn.net
+0.0.0.0 video.fdel24-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel28-1.fna.fbcdn.net
+0.0.0.0 video.fdel28-1.fna.fbcdn.net
 0.0.0.0 scontent.fdel29-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel3-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel3-2.fna.fbcdn.net
+0.0.0.0 instagram.fdel30-1.fna.fbcdn.net
+0.0.0.0 scontent.fdel30-1.fna.fbcdn.net
+0.0.0.0 scontent.fdel31-1.fna.fbcdn.net
+0.0.0.0 instagram.fdel34-1.fna.fbcdn.net
+0.0.0.0 scontent.fdel34-1.fna.fbcdn.net
+0.0.0.0 instagram.fdel37-1.fna.fbcdn.net
 0.0.0.0 instagram.fdel5-1.fna.fbcdn.net
 0.0.0.0 external.fdet2-1.fna.fbcdn.net
 0.0.0.0 instagram.fdet2-1.fna.fbcdn.net
 0.0.0.0 scontent.fdet2-1.fna.fbcdn.net
+0.0.0.0 z-p3-scontent.fdil2-1.fna.fbcdn.net
 0.0.0.0 instagram.fdil3-1.fna.fbcdn.net
 0.0.0.0 instagram.fdiy1-1.fna.fbcdn.net
 0.0.0.0 instagram.fdjj1-1.fna.fbcdn.net
@@ -6027,6 +6102,7 @@
 0.0.0.0 scontent.fdoh6-1.fna.fbcdn.net
 0.0.0.0 z-p4-scontent.fdoh6-2.fna.fbcdn.net
 0.0.0.0 scontent.fdok2-1.fna.fbcdn.net
+0.0.0.0 video.fdps7-1.fna.fbcdn.net
 0.0.0.0 instagram.fdtm1-1.fna.fbcdn.net
 0.0.0.0 scontent.fdtm1-1.fna.fbcdn.net
 0.0.0.0 video.fdtm1-1.fna.fbcdn.net
@@ -6034,6 +6110,7 @@
 0.0.0.0 scontent.fdtm2-1.fna.fbcdn.net
 0.0.0.0 video.fdtm2-2.fna.fbcdn.net
 0.0.0.0 instagram.fdub4-1.fna.fbcdn.net
+0.0.0.0 instagram.fdur5-1.fna.fbcdn.net
 0.0.0.0 scontent.febb2-1.fna.fbcdn.net
 0.0.0.0 instagram.febl5-1.fna.fbcdn.net
 0.0.0.0 video.fecn1-1.fna.fbcdn.net
@@ -6052,17 +6129,23 @@
 0.0.0.0 instagram.fesb4-2.fna.fbcdn.net
 0.0.0.0 instagram.fevn1-1.fna.fbcdn.net
 0.0.0.0 instagram.fevn1-2.fna.fbcdn.net
+0.0.0.0 fevn1-3.fna.fbcdn.net
 0.0.0.0 external.fevn1-3.fna.fbcdn.net
 0.0.0.0 instagram.fevn1-3.fna.fbcdn.net
 0.0.0.0 scontent.fevn1-3.fna.fbcdn.net
 0.0.0.0 sonar.fevn1-3.fna.fbcdn.net
 0.0.0.0 video.fevn1-3.fna.fbcdn.net
+0.0.0.0 fevn1-4.fna.fbcdn.net
 0.0.0.0 external.fevn1-4.fna.fbcdn.net
 0.0.0.0 instagram.fevn1-4.fna.fbcdn.net
 0.0.0.0 scontent.fevn1-4.fna.fbcdn.net
 0.0.0.0 sonar.fevn1-4.fna.fbcdn.net
 0.0.0.0 video.fevn1-4.fna.fbcdn.net
 0.0.0.0 z-m-scontent.fevn1-4.fna.fbcdn.net
+0.0.0.0 fewr1-2.fna.fbcdn.net
+0.0.0.0 fewr1-3.fna.fbcdn.net
+0.0.0.0 instagram.fewr1-3.fna.fbcdn.net
+0.0.0.0 fewr1-5.fna.fbcdn.net
 0.0.0.0 external.fewr1-5.fna.fbcdn.net
 0.0.0.0 instagram.fewr1-5.fna.fbcdn.net
 0.0.0.0 scontent.fewr1-5.fna.fbcdn.net
@@ -6070,11 +6153,13 @@
 0.0.0.0 video.fewr1-5.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fewr1-5.fna.fbcdn.net
 0.0.0.0 instagram.ffcm1-1.fna.fbcdn.net
+0.0.0.0 ffcm1-2.fna.fbcdn.net
 0.0.0.0 instagram.ffcm1-2.fna.fbcdn.net
 0.0.0.0 scontent.ffcm1-2.fna.fbcdn.net
 0.0.0.0 sonar.ffcm1-2.fna.fbcdn.net
 0.0.0.0 video.ffcm1-2.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.ffcm1-2.fna.fbcdn.net
+0.0.0.0 ffco2-1.fna.fbcdn.net
 0.0.0.0 external.ffco2-1.fna.fbcdn.net
 0.0.0.0 instagram.ffco2-1.fna.fbcdn.net
 0.0.0.0 scontent.ffco2-1.fna.fbcdn.net
@@ -6089,6 +6174,7 @@
 0.0.0.0 video.ffjr1-1.fna.fbcdn.net
 0.0.0.0 instagram.ffjr1-2.fna.fbcdn.net
 0.0.0.0 scontent.ffjr1-2.fna.fbcdn.net
+0.0.0.0 external.ffjr1-3.fna.fbcdn.net
 0.0.0.0 instagram.ffjr1-3.fna.fbcdn.net
 0.0.0.0 scontent.ffjr1-3.fna.fbcdn.net
 0.0.0.0 scontent.ffjr1-4.fna.fbcdn.net
@@ -6105,6 +6191,9 @@
 0.0.0.0 video.ffra1-1.fna.fbcdn.net
 0.0.0.0 instagram.ffru4-1.fna.fbcdn.net
 0.0.0.0 instagram.ffru5-1.fna.fbcdn.net
+0.0.0.0 sonar.fgau1-1.fna.fbcdn.net
+0.0.0.0 video.fgau1-1.fna.fbcdn.net
+0.0.0.0 video.fgau3-1.fna.fbcdn.net
 0.0.0.0 scontent.fgba1-1.fna.fbcdn.net
 0.0.0.0 video.fgba1-1.fna.fbcdn.net
 0.0.0.0 instagram.fgbb2-1.fna.fbcdn.net
@@ -6140,6 +6229,7 @@
 0.0.0.0 instagram.fgza2-1.fna.fbcdn.net
 0.0.0.0 external.fham2-1.fna.fbcdn.net
 0.0.0.0 instagram.fham3-1.fna.fbcdn.net
+0.0.0.0 instagram.fhan2-3.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fhan2-5.fna.fbcdn.net
 0.0.0.0 instagram.fhan3-3.fna.fbcdn.net
 0.0.0.0 scontent.fhan5-2.fna.fbcdn.net
@@ -6201,8 +6291,12 @@
 0.0.0.0 scontent.fhyd10-1.fna.fbcdn.net
 0.0.0.0 instagram.fhyd11-1.fna.fbcdn.net
 0.0.0.0 scontent.fhyd11-1.fna.fbcdn.net
+0.0.0.0 scontent.fhyd12-1.fna.fbcdn.net
 0.0.0.0 instagram.fhyd14-1.fna.fbcdn.net
 0.0.0.0 instagram.fhyd2-1.fna.fbcdn.net
+0.0.0.0 scontent.fhyd3-1.fna.fbcdn.net
+0.0.0.0 video.fhyd3-1.fna.fbcdn.net
+0.0.0.0 scontent.fhyd4-1.fna.fbcdn.net
 0.0.0.0 instagram.fhyd6-1.fna.fbcdn.net
 0.0.0.0 video.ficn6-1.fna.fbcdn.net
 0.0.0.0 instagram.fidr1-2.fna.fbcdn.net
@@ -6279,10 +6373,16 @@
 0.0.0.0 instagram.fist7-2.fna.fbcdn.net
 0.0.0.0 instagram.fisu6-1.fna.fbcdn.net
 0.0.0.0 external.fixc2-1.fna.fbcdn.net
+0.0.0.0 video.fixc3-1.fna.fbcdn.net
+0.0.0.0 video.fixe1-1.fna.fbcdn.net
+0.0.0.0 video.fixj2-1.fna.fbcdn.net
 0.0.0.0 video.fjai1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjai1-2.fna.fbcdn.net
 0.0.0.0 video.fjai1-2.fna.fbcdn.net
+0.0.0.0 video.fjai2-1.fna.fbcdn.net
+0.0.0.0 video.fjai4-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdh1-1.fna.fbcdn.net
+0.0.0.0 video.fjdh2-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdo10-1.fna.fbcdn.net
 0.0.0.0 instagram.fjed4-4.fna.fbcdn.net
 0.0.0.0 instagram.fjed4-6.fna.fbcdn.net
@@ -6323,6 +6423,7 @@
 0.0.0.0 instagram.fkix2-1.fna.fbcdn.net
 0.0.0.0 instagram.fkix2-2.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fkix2-2.fna.fbcdn.net
+0.0.0.0 instagram.fkno2-1.fna.fbcdn.net
 0.0.0.0 instagram.fkno3-1.fna.fbcdn.net
 0.0.0.0 scontent.fkno4-1.fna.fbcdn.net
 0.0.0.0 instagram.fknu1-1.fna.fbcdn.net
@@ -6346,6 +6447,7 @@
 0.0.0.0 z-p3-scontent.fkwi2-1.fna.fbcdn.net
 0.0.0.0 instagram.fkwi2-2.fna.fbcdn.net
 0.0.0.0 instagram.fkwi4-1.fna.fbcdn.net
+0.0.0.0 flas1-2.fna.fbcdn.net
 0.0.0.0 external.flas1-2.fna.fbcdn.net
 0.0.0.0 instagram.flas1-2.fna.fbcdn.net
 0.0.0.0 scontent.flas1-2.fna.fbcdn.net
@@ -6364,6 +6466,7 @@
 0.0.0.0 instagram.flhe2-1.fna.fbcdn.net
 0.0.0.0 scontent.flhe2-1.fna.fbcdn.net
 0.0.0.0 sonar.flhe7-1.fna.fbcdn.net
+0.0.0.0 video.flhe8-1.fna.fbcdn.net
 0.0.0.0 instagram.flhr2-1.fna.fbcdn.net
 0.0.0.0 scontent.flhr2-1.fna.fbcdn.net
 0.0.0.0 instagram.flhr2-2.fna.fbcdn.net
@@ -6381,12 +6484,18 @@
 0.0.0.0 instagram.flim9-1.fna.fbcdn.net
 0.0.0.0 instagram.flis6-1.fna.fbcdn.net
 0.0.0.0 instagram.flis8-1.fna.fbcdn.net
+0.0.0.0 scontent.flko2-1.fna.fbcdn.net
+0.0.0.0 video.flko2-1.fna.fbcdn.net
+0.0.0.0 instagram.flko4-1.fna.fbcdn.net
+0.0.0.0 instagram.flko5-1.fna.fbcdn.net
 0.0.0.0 instagram.flos1-1.fna.fbcdn.net
 0.0.0.0 instagram.flos3-1.fna.fbcdn.net
 0.0.0.0 instagram.fltn1-2.fna.fbcdn.net
 0.0.0.0 instagram.fltn2-1.fna.fbcdn.net
 0.0.0.0 video.fltn2-1.fna.fbcdn.net
 0.0.0.0 instagram.fluh2-1.fna.fbcdn.net
+0.0.0.0 video.fluh2-1.fna.fbcdn.net
+0.0.0.0 video.fluh3-1.fna.fbcdn.net
 0.0.0.0 video.flun1-2.fna.fbcdn.net
 0.0.0.0 external.flux1-1.fna.fbcdn.net
 0.0.0.0 instagram.flux1-1.fna.fbcdn.net
@@ -6411,6 +6520,8 @@
 0.0.0.0 instagram.fmaa3-1.fna.fbcdn.net
 0.0.0.0 instagram.fmaa5-1.fna.fbcdn.net
 0.0.0.0 video.fmaa5-1.fna.fbcdn.net
+0.0.0.0 video.fmaa6-1.fna.fbcdn.net
+0.0.0.0 instagram.fmaa8-1.fna.fbcdn.net
 0.0.0.0 external.fmad10-1.fna.fbcdn.net
 0.0.0.0 instagram.fmad10-1.fna.fbcdn.net
 0.0.0.0 scontent.fmad10-1.fna.fbcdn.net
@@ -6544,8 +6655,14 @@
 0.0.0.0 instagram.fplu4-1.fna.fbcdn.net
 0.0.0.0 sonar.fpnh18-1.fna.fbcdn.net
 0.0.0.0 sonar.fpnh5-3.fna.fbcdn.net
+0.0.0.0 video.fpnq1-1.fna.fbcdn.net
 0.0.0.0 instagram.fpnq1-2.fna.fbcdn.net
+0.0.0.0 scontent.fpnq11-1.fna.fbcdn.net
+0.0.0.0 video.fpnq11-1.fna.fbcdn.net
+0.0.0.0 scontent.fpnq12-1.fna.fbcdn.net
+0.0.0.0 scontent.fpnq14-1.fna.fbcdn.net
 0.0.0.0 scontent.fpnq2-1.fna.fbcdn.net
+0.0.0.0 video.fpnq2-1.fna.fbcdn.net
 0.0.0.0 video.fpnq6-1.fna.fbcdn.net
 0.0.0.0 instagram.fpnq7-1.fna.fbcdn.net
 0.0.0.0 instagram.fpoa1-1.fna.fbcdn.net
@@ -6583,6 +6700,7 @@
 0.0.0.0 external.fqls2-1.fna.fbcdn.net
 0.0.0.0 instagram.fqls2-1.fna.fbcdn.net
 0.0.0.0 instagram.fqrc1-1.fna.fbcdn.net
+0.0.0.0 scontent.fraj1-1.fna.fbcdn.net
 0.0.0.0 instagram.frao1-1.fna.fbcdn.net
 0.0.0.0 instagram.frba3-1.fna.fbcdn.net
 0.0.0.0 scontent.frba3-1.fna.fbcdn.net
@@ -6624,10 +6742,12 @@
 0.0.0.0 instagram.fros7-1.fna.fbcdn.net
 0.0.0.0 sonar.fros8-1.fna.fbcdn.net
 0.0.0.0 instagram.frpr1-1.fna.fbcdn.net
+0.0.0.0 video.frpr1-1.fna.fbcdn.net
 0.0.0.0 instagram.fruh2-1.fna.fbcdn.net
 0.0.0.0 instagram.fruh4-3.fna.fbcdn.net
 0.0.0.0 instagram.fruh4-5.fna.fbcdn.net
 0.0.0.0 instagram.fsac1-2.fna.fbcdn.net
+0.0.0.0 instagram.fsal5-1.fna.fbcdn.net
 0.0.0.0 scontent.fsan1-2.fna.fbcdn.net
 0.0.0.0 external.fsaw1-10.fna.fbcdn.net
 0.0.0.0 instagram.fsaw1-10.fna.fbcdn.net
@@ -6671,6 +6791,7 @@
 0.0.0.0 scontent.fsgn2-1.fna.fbcdn.net
 0.0.0.0 www.scontent.fsgn2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsgn6-1.fna.fbcdn.net
+0.0.0.0 video.fshl1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsin1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fsin2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsin9-1.fna.fbcdn.net
@@ -6679,6 +6800,7 @@
 0.0.0.0 instagram.fsjo5-1.fna.fbcdn.net
 0.0.0.0 scontent.fsjo5-1.fna.fbcdn.net
 0.0.0.0 scontent.fskg3-1.fna.fbcdn.net
+0.0.0.0 sonar.fslv1-2.fna.fbcdn.net
 0.0.0.0 instagram.fslz4-1.fna.fbcdn.net
 0.0.0.0 instagram.fsod10-1.fna.fbcdn.net
 0.0.0.0 external.fsof10-1.fna.fbcdn.net
@@ -6701,6 +6823,7 @@
 0.0.0.0 instagram.fssz2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsti4-1.fna.fbcdn.net
 0.0.0.0 external.fstu2-1.fna.fbcdn.net
+0.0.0.0 video.fstv6-1.fna.fbcdn.net
 0.0.0.0 instagram.fsub2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsub4-1.fna.fbcdn.net
 0.0.0.0 scontent.fsub5-1.fna.fbcdn.net
@@ -6796,6 +6919,7 @@
 0.0.0.0 video.fvno3-1.fna.fbcdn.net
 0.0.0.0 instagram.fvno5-1.fna.fbcdn.net
 0.0.0.0 instagram.fvte3-1.fna.fbcdn.net
+0.0.0.0 instagram.fvtz2-1.fna.fbcdn.net
 0.0.0.0 instagram.fwaw3-1.fna.fbcdn.net
 0.0.0.0 scontent.fwaw3-1.fna.fbcdn.net
 0.0.0.0 instagram.fwaw3-2.fna.fbcdn.net
@@ -6841,6 +6965,7 @@
 0.0.0.0 video.fymy1-2.fna.fbcdn.net
 0.0.0.0 www.video.fymy1-2.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fymy1-2.fna.fbcdn.net
+0.0.0.0 fyto1-1.fna.fbcdn.net
 0.0.0.0 external.fyto1-1.fna.fbcdn.net
 0.0.0.0 instagram.fyto1-1.fna.fbcdn.net
 0.0.0.0 scontent.fyto1-1.fna.fbcdn.net
@@ -6907,6 +7032,7 @@
 0.0.0.0 fna-fbcdn-shv-02-ffjr1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fmem1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-03-fblr1.fbcdn.net
+0.0.0.0 fna-fbcdn-shv-03-fdel1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-03-fphx1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-04-fdel1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-04-fmaa1.fbcdn.net
@@ -6990,6 +7116,7 @@
 0.0.0.0 instagram-p3-shv-01-lax3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-lga3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-lht6.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-maa2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-mrs2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-nrt1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sea1.fbcdn.net
@@ -7512,6 +7639,7 @@
 0.0.0.0 sonar-fco1-1.xx.fbcdn.net
 0.0.0.0 sonar-fdac.xx.fbcdn.net
 0.0.0.0 sonar-fdad.xx.fbcdn.net
+0.0.0.0 sonar-fdel.xx.fbcdn.net
 0.0.0.0 sonar-fdet.xx.fbcdn.net
 0.0.0.0 sonar-fdsm.xx.fbcdn.net
 0.0.0.0 sonar-feoh.xx.fbcdn.net
@@ -7581,6 +7709,7 @@
 0.0.0.0 sonar-otp1-1.xx.fbcdn.net
 0.0.0.0 sonar-prg1-1.xx.fbcdn.net
 0.0.0.0 sonar-qro1-1.xx.fbcdn.net
+0.0.0.0 sonar-scl1-1.xx.fbcdn.net
 0.0.0.0 sonar-scl2-1.xx.fbcdn.net
 0.0.0.0 sonar-sea1-1.xx.fbcdn.net
 0.0.0.0 sonar-sin6-1.xx.fbcdn.net
@@ -7753,6 +7882,7 @@
 0.0.0.0 xx-fbcdn-shv-01-sju1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-yyz1.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-02-bom1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-gru2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-maa2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-mia3.fbcdn.net
@@ -8583,6 +8713,7 @@
 0.0.0.0 media.fbga3-1.fna.whatsapp.net
 0.0.0.0 media.fbkk5-4.fna.whatsapp.net
 0.0.0.0 media.fbkk9-2.fna.whatsapp.net
+0.0.0.0 fbll2-1.fna.whatsapp.net
 0.0.0.0 media.fblr1-4.fna.whatsapp.net
 0.0.0.0 media.fblr4-1.fna.whatsapp.net
 0.0.0.0 media.fblr4-2.fna.whatsapp.net

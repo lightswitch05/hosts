@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-07-31T12:00:43+00:00
-# Count: 9606 domains
+# Released: 2020-07-31T18:46:41+00:00
+# Count: 9604 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -47,6 +47,7 @@
 0.0.0.0 0kee.360.cn
 0.0.0.0 nslogadmin.0kee.360.cn
 0.0.0.0 res.0kee.360.cn
+0.0.0.0 m.1.360.cn
 0.0.0.0 110.360.cn
 0.0.0.0 hd.110.360.cn
 0.0.0.0 www.110.360.cn
@@ -186,6 +187,7 @@
 0.0.0.0 m.bang.360.cn
 0.0.0.0 baoku.360.cn
 0.0.0.0 bbs.360.cn
+0.0.0.0 faq.admin2.bbs.360.cn
 0.0.0.0 bcscan.360.cn
 0.0.0.0 bcsec.360.cn
 0.0.0.0 bizhi.360.cn
@@ -209,6 +211,7 @@
 0.0.0.0 captcha.360.cn
 0.0.0.0 car.360.cn
 0.0.0.0 cert.360.cn
+0.0.0.0 sh.cert.360.cn
 0.0.0.0 chaxun.360.cn
 0.0.0.0 che.360.cn
 0.0.0.0 api.che.360.cn
@@ -261,6 +264,7 @@
 0.0.0.0 dianhua.360.cn
 0.0.0.0 se.dianhua.360.cn
 0.0.0.0 dianping.360.cn
+0.0.0.0 api.dishi.360.cn
 0.0.0.0 dmp.360.cn
 0.0.0.0 max.dmp.360.cn
 0.0.0.0 socm.dmp.360.cn
@@ -393,6 +397,7 @@
 0.0.0.0 weblink-b.f.360.cn
 0.0.0.0 wsus.f.360.cn
 0.0.0.0 fangdao.360.cn
+0.0.0.0 fanzhapian.360.cn
 0.0.0.0 fenshen.360.cn
 0.0.0.0 felis.fenxi.360.cn
 0.0.0.0 fonts.360.cn
@@ -440,6 +445,7 @@
 0.0.0.0 gongxiangyun.360.cn
 0.0.0.0 gouwu.360.cn
 0.0.0.0 gushiji.360.cn
+0.0.0.0 shangji.habo.360.cn
 0.0.0.0 hao.360.cn
 0.0.0.0 reg.hao.360.cn
 0.0.0.0 click.stat.hao.360.cn
@@ -694,6 +700,7 @@
 0.0.0.0 uapi.mp.360.cn
 0.0.0.0 mpay.360.cn
 0.0.0.0 query.mpay.360.cn
+0.0.0.0 open.mscanf.360.cn
 0.0.0.0 mse.360.cn
 0.0.0.0 api.mse.360.cn
 0.0.0.0 api-b.mse.360.cn
@@ -1009,6 +1016,7 @@
 0.0.0.0 upload.webscan.360.cn
 0.0.0.0 weishi.360.cn
 0.0.0.0 dm.weishi.360.cn
+0.0.0.0 local.weishi.360.cn
 0.0.0.0 search-b.weishi.360.cn
 0.0.0.0 down.skin.weishi.360.cn
 0.0.0.0 wg.360.cn
@@ -1029,6 +1037,7 @@
 0.0.0.0 wot.360.cn
 0.0.0.0 wows.360.cn
 0.0.0.0 s.conf.wsm.360.cn
+0.0.0.0 poll.tools.wsm.360.cn
 0.0.0.0 new.poll.tools.wsm.360.cn
 0.0.0.0 www.360.cn
 0.0.0.0 xianpei.360.cn
@@ -1146,7 +1155,6 @@
 0.0.0.0 callawayjapan.ugc.bazaarvoice.com
 0.0.0.0 carnival.ugc.bazaarvoice.com
 0.0.0.0 carsondellosa.ugc.bazaarvoice.com
-0.0.0.0 carters.ugc.bazaarvoice.com
 0.0.0.0 cartersoshkoshca.ugc.bazaarvoice.com
 0.0.0.0 cdiscount.ugc.bazaarvoice.com
 0.0.0.0 cdw.ugc.bazaarvoice.com
@@ -2522,7 +2530,6 @@
 0.0.0.0 cdns3.gigya.com
 0.0.0.0 cdns4.gigya.com
 0.0.0.0 cdns5.gigya.com
-0.0.0.0 cn1.gigya.com
 0.0.0.0 socialize.cn1.gigya.com
 0.0.0.0 comments.gigya.com
 0.0.0.0 connect-il2.gigya.com
@@ -2875,9 +2882,7 @@
 0.0.0.0 analyticsapi.janrain.com
 0.0.0.0 v1.api.au.janrain.com
 0.0.0.0 blog.janrain.com
-0.0.0.0 api.cc.janrain.com
 0.0.0.0 v1.api.cc.janrain.com
-0.0.0.0 multi.prod.cc.janrain.com
 0.0.0.0 cceu-config-dev.janrain.com
 0.0.0.0 cdn-quilt.janrain.com
 0.0.0.0 cdn-social.janrain.com
@@ -3015,7 +3020,6 @@
 0.0.0.0 qantas-prod.engage-au.janrain.com
 0.0.0.0 v1.api.eu.janrain.com
 0.0.0.0 hello.janrain.com
-0.0.0.0 ie.janrain.com
 0.0.0.0 sepoc.dev.ie.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.ie.janrain.com
 0.0.0.0 pandg.prod.ie.janrain.com
@@ -3821,14 +3825,10 @@
 0.0.0.0 www.polldaddy.com
 0.0.0.0 providesupport.com
 0.0.0.0 admin.providesupport.com
-0.0.0.0 admin1.providesupport.com
 0.0.0.0 admin10.providesupport.com
 0.0.0.0 admin100i.providesupport.com
 0.0.0.0 admin11.providesupport.com
 0.0.0.0 admin12.providesupport.com
-0.0.0.0 admin2.providesupport.com
-0.0.0.0 admin3.providesupport.com
-0.0.0.0 admin4.providesupport.com
 0.0.0.0 admin5.providesupport.com
 0.0.0.0 admin6.providesupport.com
 0.0.0.0 admin7.providesupport.com
@@ -4025,7 +4025,6 @@
 0.0.0.0 op6.providesupport.com
 0.0.0.0 op7.providesupport.com
 0.0.0.0 op8.providesupport.com
-0.0.0.0 op9.providesupport.com
 0.0.0.0 operator.providesupport.com
 0.0.0.0 operator1.providesupport.com
 0.0.0.0 operator10.providesupport.com
@@ -4043,7 +4042,6 @@
 0.0.0.0 secure.providesupport.com
 0.0.0.0 stats.providesupport.com
 0.0.0.0 stats-api.providesupport.com
-0.0.0.0 stats-websites-api.providesupport.com
 0.0.0.0 stats1.providesupport.com
 0.0.0.0 stats2.providesupport.com
 0.0.0.0 stats3.providesupport.com
@@ -4052,7 +4050,6 @@
 0.0.0.0 stats6.providesupport.com
 0.0.0.0 stats7.providesupport.com
 0.0.0.0 stats8.providesupport.com
-0.0.0.0 stats9.providesupport.com
 0.0.0.0 test.providesupport.com
 0.0.0.0 testcname.providesupport.com
 0.0.0.0 vm.providesupport.com
@@ -4064,7 +4061,6 @@
 0.0.0.0 vm6.providesupport.com
 0.0.0.0 vm7.providesupport.com
 0.0.0.0 vm8.providesupport.com
-0.0.0.0 vm9.providesupport.com
 0.0.0.0 vmcn.providesupport.com
 0.0.0.0 whatever.providesupport.com
 0.0.0.0 wiki-ss.providesupport.com
@@ -7596,6 +7592,7 @@
 0.0.0.0 id.tinypass.com
 0.0.0.0 market.tinypass.com
 0.0.0.0 media.tinypass.com
+0.0.0.0 auth.piano-test-publisher1.tinypass.com
 0.0.0.0 play.tinypass.com
 0.0.0.0 pmauth-sandbox.tinypass.com
 0.0.0.0 publisher.tinypass.com
@@ -8729,7 +8726,6 @@
 0.0.0.0 docs.simpleanalytics.io
 0.0.0.0 external.simpleanalytics.io
 0.0.0.0 gif.simpleanalytics.io
-0.0.0.0 helpdesk.simpleanalytics.io
 0.0.0.0 monitor.simpleanalytics.io
 0.0.0.0 notify.simpleanalytics.io
 0.0.0.0 queue.simpleanalytics.io
@@ -8747,6 +8743,7 @@
 0.0.0.0 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 0.0.0.0 d2zqfs55y95cft.cloudfront.net
 0.0.0.0 lptag.liveperson.net
+0.0.0.0 ptag.liveperson.net
 0.0.0.0 browser-update.org
 0.0.0.0 ssl.browser-update.org
 0.0.0.0 www.browser-update.org
@@ -9565,6 +9562,7 @@
 0.0.0.0 www.tawk.to
 0.0.0.0 geni.us
 0.0.0.0 api.geni.us
+0.0.0.0 fmtc.api.geni.us
 0.0.0.0 blog.geni.us
 0.0.0.0 buy.geni.us
 0.0.0.0 cdn.geni.us
