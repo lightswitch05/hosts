@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-07-31T19:21:11+00:00
-# Count: 9598 domains
+# Released: 2020-08-01T05:46:36+00:00
+# Count: 9616 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1085,13 +1085,17 @@
 0.0.0.0 data-location.enhance.co
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 aimmatic.com
+0.0.0.0 account.aimmatic.com
 0.0.0.0 admin.aimmatic.com
 0.0.0.0 api.aimmatic.com
 0.0.0.0 console.aimmatic.com
+0.0.0.0 docs.aimmatic.com
 0.0.0.0 map.aimmatic.com
 0.0.0.0 map-admin.aimmatic.com
 0.0.0.0 map-api.aimmatic.com
 0.0.0.0 map-console.aimmatic.com
+0.0.0.0 talk.aimmatic.com
+0.0.0.0 welcome1.aimmatic.com
 0.0.0.0 www.aimmatic.com
 0.0.0.0 firefly-071591.s3.amazonaws.com
 0.0.0.0 www.firefly-071591.s3.amazonaws.com
@@ -1108,6 +1112,7 @@
 0.0.0.0 ae.ugc.bazaarvoice.com
 0.0.0.0 agrippa-eu.ugc.bazaarvoice.com
 0.0.0.0 aicpa.ugc.bazaarvoice.com
+0.0.0.0 ajmadison.ugc.bazaarvoice.com
 0.0.0.0 aldermore.ugc.bazaarvoice.com
 0.0.0.0 allenedmonds.ugc.bazaarvoice.com
 0.0.0.0 allybank.ugc.bazaarvoice.com
@@ -1123,9 +1128,11 @@
 0.0.0.0 aviva.ugc.bazaarvoice.com
 0.0.0.0 avon-ru.ugc.bazaarvoice.com
 0.0.0.0 avon-uk.ugc.bazaarvoice.com
+0.0.0.0 bandaidca.ugc.bazaarvoice.com
 0.0.0.0 bebe.ugc.bazaarvoice.com
 0.0.0.0 bell.ugc.bazaarvoice.com
 0.0.0.0 benadryl.ugc.bazaarvoice.com
+0.0.0.0 benylinca.ugc.bazaarvoice.com
 0.0.0.0 bestbuy.ugc.bazaarvoice.com
 0.0.0.0 bettaelectrical.ugc.bazaarvoice.com
 0.0.0.0 bhldn.ugc.bazaarvoice.com
@@ -1160,6 +1167,8 @@
 0.0.0.0 choice.ugc.bazaarvoice.com
 0.0.0.0 choice-au.ugc.bazaarvoice.com
 0.0.0.0 classicindustries.ugc.bazaarvoice.com
+0.0.0.0 cleanandclear.ugc.bazaarvoice.com
+0.0.0.0 cleanclearca.ugc.bazaarvoice.com
 0.0.0.0 cleo.ugc.bazaarvoice.com
 0.0.0.0 coach-ssl.ugc.bazaarvoice.com
 0.0.0.0 coachuk.ugc.bazaarvoice.com
@@ -2671,6 +2680,7 @@
 0.0.0.0 www.api.glympse.com
 0.0.0.0 beta-users.glympse.com
 0.0.0.0 blog.glympse.com
+0.0.0.0 developer.blog.glympse.com
 0.0.0.0 business.glympse.com
 0.0.0.0 content.glympse.com
 0.0.0.0 notifications.content.glympse.com
@@ -2702,6 +2712,7 @@
 0.0.0.0 kik.glympse.com
 0.0.0.0 logging.glympse.com
 0.0.0.0 m.glympse.com
+0.0.0.0 msl.glympse.com
 0.0.0.0 origin.guzzoni-apple.com.akadns.netapi.glympse.com
 0.0.0.0 p-s0-api.glympse.com
 0.0.0.0 p-s0-core-image-legacy.glympse.com
@@ -2994,7 +3005,6 @@
 0.0.0.0 janrain-widget-static.cn.janrain.com
 0.0.0.0 login.cn.janrain.com
 0.0.0.0 philips-staging.login.cn.janrain.com
-0.0.0.0 multi.prod.cn.janrain.com
 0.0.0.0 sso.cn.janrain.com
 0.0.0.0 pfizer-grv.sso.cn.janrain.com
 0.0.0.0 philips-cn-staging.sso.cn.janrain.com
@@ -3018,7 +3028,6 @@
 0.0.0.0 sso-elb-border.multi.prod.ie.janrain.com
 0.0.0.0 pandg.prod.ie.janrain.com
 0.0.0.0 hostedlogin-alb-app.philips.prod.ie.janrain.com
-0.0.0.0 hostedloginstg-alb-app.philips.prod.ie.janrain.com
 0.0.0.0 info.janrain.com
 0.0.0.0 insights.janrain.com
 0.0.0.0 list.janrain.com
@@ -3425,6 +3434,7 @@
 0.0.0.0 523-events.olark.com
 0.0.0.0 550-events.olark.com
 0.0.0.0 593-events.olark.com
+0.0.0.0 716-events.olark.com
 0.0.0.0 781-events.olark.com
 0.0.0.0 839-events.olark.com
 0.0.0.0 843-async.olark.com
@@ -4119,6 +4129,8 @@
 0.0.0.0 akamaisecure.qualtrics.com
 0.0.0.0 akamaisecure2.qualtrics.com
 0.0.0.0 akamaisecure3.qualtrics.com
+0.0.0.0 corona.akamaisecure3.qualtrics.com
+0.0.0.0 www.akamaisecure3.qualtrics.com
 0.0.0.0 akamaisecure4.qualtrics.com
 0.0.0.0 akamaisecure5.qualtrics.com
 0.0.0.0 akamaisecure6.qualtrics.com
@@ -4456,15 +4468,18 @@
 0.0.0.0 www.morningconsult.az1.qualtrics.com
 0.0.0.0 morpace.az1.qualtrics.com
 0.0.0.0 mseut.az1.qualtrics.com
+0.0.0.0 msucoe.az1.qualtrics.com
 0.0.0.0 navigantenergy.az1.qualtrics.com
 0.0.0.0 nestlewaterscx.az1.qualtrics.com
 0.0.0.0 norc.az1.qualtrics.com
 0.0.0.0 novell.az1.qualtrics.com
 0.0.0.0 nvent.az1.qualtrics.com
+0.0.0.0 nwf.az1.qualtrics.com
 0.0.0.0 oakland.az1.qualtrics.com
 0.0.0.0 osdhsdc.az1.qualtrics.com
 0.0.0.0 osu.az1.qualtrics.com
 0.0.0.0 www.osu.az1.qualtrics.com
+0.0.0.0 oxfordxpsy.az1.qualtrics.com
 0.0.0.0 pace.az1.qualtrics.com
 0.0.0.0 paperlesscamp.az1.qualtrics.com
 0.0.0.0 paradigmsample.az1.qualtrics.com
@@ -6059,6 +6074,7 @@
 0.0.0.0 news.siteintercept.qualtrics.com
 0.0.0.0 paddypower.siteintercept.qualtrics.com
 0.0.0.0 s.siteintercept.qualtrics.com
+0.0.0.0 si_42uppevedljnchx-sonycorporation.siteintercept.qualtrics.com
 0.0.0.0 sprintt.siteintercept.qualtrics.com
 0.0.0.0 travismathew.siteintercept.qualtrics.com
 0.0.0.0 tripadvisor.siteintercept.qualtrics.com
@@ -6083,6 +6099,7 @@
 0.0.0.0 zn0bnnurkaoqhhd0n-cushwake.siteintercept.qualtrics.com
 0.0.0.0 zn0bqjn5ymsuersnf-versanthealth.siteintercept.qualtrics.com
 0.0.0.0 zn0cfkvh4tbzplosp-recreationgov.siteintercept.qualtrics.com
+0.0.0.0 zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
 0.0.0.0 zn0cwsgozovztdalr-zija.siteintercept.qualtrics.com
 0.0.0.0 zn0d4lngcjt30pwt3-sapinsights.siteintercept.qualtrics.com
 0.0.0.0 zn0dqsxgvbzaslil3-uhg1.siteintercept.qualtrics.com
@@ -6196,6 +6213,7 @@
 0.0.0.0 zn3ldkc0r8azhqc5v-elephant.siteintercept.qualtrics.com
 0.0.0.0 zn3lwsfwmnkphu1zr-wiley.siteintercept.qualtrics.com
 0.0.0.0 zn3mbrsehqjk0j36d-millerwelds.siteintercept.qualtrics.com
+0.0.0.0 zn3owdqdlxu72cwnv-nejm.siteintercept.qualtrics.com
 0.0.0.0 zn3pg3jzgfzrbl3x7-magnolia.siteintercept.qualtrics.com
 0.0.0.0 zn3q9k3fzv645vjsz-alight.siteintercept.qualtrics.com
 0.0.0.0 zn3qnls7tzxgf77yr-rogers.siteintercept.qualtrics.com
@@ -6718,6 +6736,7 @@
 0.0.0.0 sixflags.qualtrics.com
 0.0.0.0 sjc1.qualtrics.com
 0.0.0.0 keenfootwear.sjc1.qualtrics.com
+0.0.0.0 mcdonough.sjc1.qualtrics.com
 0.0.0.0 nnursesunited.sjc1.qualtrics.com
 0.0.0.0 rc1userh5thjd7hwt7pf.sjc1.qualtrics.com
 0.0.0.0 sjsu.qualtrics.com
@@ -8737,7 +8756,6 @@
 0.0.0.0 prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net
 0.0.0.0 d2zqfs55y95cft.cloudfront.net
 0.0.0.0 lptag.liveperson.net
-0.0.0.0 ptag.liveperson.net
 0.0.0.0 browser-update.org
 0.0.0.0 ssl.browser-update.org
 0.0.0.0 www.browser-update.org
