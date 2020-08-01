@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-08-01T05:46:36+00:00
-# Count: 9616 domains
+# Released: 2020-08-01T18:46:41+00:00
+# Count: 9641 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -201,6 +201,7 @@
 0.0.0.0 google-translate.browser.360.cn
 0.0.0.0 interflow.browser.360.cn
 0.0.0.0 my.browser.360.cn
+0.0.0.0 site.browser.360.cn
 0.0.0.0 bugcloud.360.cn
 0.0.0.0 c.360.cn
 0.0.0.0 ca.360.cn
@@ -593,10 +594,19 @@
 0.0.0.0 login.360.cn
 0.0.0.0 show.look.360.cn
 0.0.0.0 luyou.360.cn
+0.0.0.0 api.luyou.360.cn
 0.0.0.0 test.api.luyou.360.cn
+0.0.0.0 appapi.luyou.360.cn
 0.0.0.0 newapi.cloudquery.luyou.360.cn
+0.0.0.0 download.luyou.360.cn
+0.0.0.0 guanli.luyou.360.cn
+0.0.0.0 hg.luyou.360.cn
+0.0.0.0 log.luyou.360.cn
+0.0.0.0 plugin.luyou.360.cn
+0.0.0.0 scode.luyou.360.cn
 0.0.0.0 api.taozhuang.luyou.360.cn
 0.0.0.0 upgrade.luyou.360.cn
+0.0.0.0 ykapi.luyou.360.cn
 0.0.0.0 luyouw.360.cn
 0.0.0.0 api.lxqp.360.cn
 0.0.0.0 m.360.cn
@@ -834,6 +844,7 @@
 0.0.0.0 m.shoujivr.360.cn
 0.0.0.0 shuaji.360.cn
 0.0.0.0 sj.360.cn
+0.0.0.0 app.api.sj.360.cn
 0.0.0.0 download.api.sj.360.cn
 0.0.0.0 free.api.sj.360.cn
 0.0.0.0 recommend.api.sj.360.cn
@@ -1466,7 +1477,6 @@
 0.0.0.0 enterprise.comm100.com
 0.0.0.0 enterprisechatserver.comm100.com
 0.0.0.0 enterpriseportal.comm100.com
-0.0.0.0 entmax.comm100.com
 0.0.0.0 eu.comm100.com
 0.0.0.0 euchatserver.comm100.com
 0.0.0.0 eumax.comm100.com
@@ -1761,7 +1771,9 @@
 0.0.0.0 cr171.mta.exacttarget.com
 0.0.0.0 cr172.mta.exacttarget.com
 0.0.0.0 cr184.mta.exacttarget.com
+0.0.0.0 cr188.mta.exacttarget.com
 0.0.0.0 cr196.mta.exacttarget.com
+0.0.0.0 cr208.mta.exacttarget.com
 0.0.0.0 cr21.mta.exacttarget.com
 0.0.0.0 cr212.mta.exacttarget.com
 0.0.0.0 cr33.mta.exacttarget.com
@@ -1795,6 +1807,7 @@
 0.0.0.0 db29.mta.exacttarget.com
 0.0.0.0 db40.mta.exacttarget.com
 0.0.0.0 db60.mta.exacttarget.com
+0.0.0.0 db68.mta.exacttarget.com
 0.0.0.0 db90.mta.exacttarget.com
 0.0.0.0 de100.mta.exacttarget.com
 0.0.0.0 de112.mta.exacttarget.com
@@ -1839,6 +1852,7 @@
 0.0.0.0 dj2.mta.exacttarget.com
 0.0.0.0 ef192.mta.exacttarget.com
 0.0.0.0 ef193.mta.exacttarget.com
+0.0.0.0 ef195.mta.exacttarget.com
 0.0.0.0 el67.mta.exacttarget.com
 0.0.0.0 el68.mta.exacttarget.com
 0.0.0.0 el69.mta.exacttarget.com
@@ -1877,6 +1891,8 @@
 0.0.0.0 gc87.mta.exacttarget.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
+0.0.0.0 gt78.mta.exacttarget.com
+0.0.0.0 hb114.mta.exacttarget.com
 0.0.0.0 hu201.mta.exacttarget.com
 0.0.0.0 ih49.mta.exacttarget.com
 0.0.0.0 nexus.exacttarget.com
@@ -3009,9 +3025,11 @@
 0.0.0.0 pfizer-grv.sso.cn.janrain.com
 0.0.0.0 philips-cn-staging.sso.cn.janrain.com
 0.0.0.0 community.janrain.com
+0.0.0.0 console.janrain.com
 0.0.0.0 console2.janrain.com
 0.0.0.0 customer-dev.janrain.com
 0.0.0.0 dashboard.janrain.com
+0.0.0.0 demos.janrain.com
 0.0.0.0 deploy.janrain.com
 0.0.0.0 dev.janrain.com
 0.0.0.0 mastercard.dev.janrain.com
@@ -3019,6 +3037,7 @@
 0.0.0.0 developers.janrain.com
 0.0.0.0 devsite.janrain.com
 0.0.0.0 docs.janrain.com
+0.0.0.0 documentation.janrain.com
 0.0.0.0 educationcenter.janrain.com
 0.0.0.0 engage-au.janrain.com
 0.0.0.0 qantas-prod.engage-au.janrain.com
@@ -3026,7 +3045,6 @@
 0.0.0.0 hello.janrain.com
 0.0.0.0 sepoc.dev.ie.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.ie.janrain.com
-0.0.0.0 pandg.prod.ie.janrain.com
 0.0.0.0 hostedlogin-alb-app.philips.prod.ie.janrain.com
 0.0.0.0 info.janrain.com
 0.0.0.0 insights.janrain.com
@@ -3044,10 +3062,7 @@
 0.0.0.0 coral.ce-team.dev.or.janrain.com
 0.0.0.0 configra.dev.or.janrain.com
 0.0.0.0 api.configra.dev.or.janrain.com
-0.0.0.0 datateam.dev.or.janrain.com
 0.0.0.0 api.datateam.dev.or.janrain.com
-0.0.0.0 devops.dev.or.janrain.com
-0.0.0.0 hostedlogin.dev.or.janrain.com
 0.0.0.0 irsteam.dev.or.janrain.com
 0.0.0.0 api.irsteam.dev.or.janrain.com
 0.0.0.0 login.dev.or.janrain.com
@@ -3070,7 +3085,6 @@
 0.0.0.0 releases.janrain.com
 0.0.0.0 test-2.roman.janrain.com
 0.0.0.0 test-1.test-2.roman.janrain.com
-0.0.0.0 pandg.prod.ru.janrain.com
 0.0.0.0 v1.api.sa.janrain.com
 0.0.0.0 saml-multi-prod-va.janrain.com
 0.0.0.0 saml-multi-stag-va.janrain.com
@@ -3079,12 +3093,10 @@
 0.0.0.0 multi.prod.sg.janrain.com
 0.0.0.0 social.janrain.com
 0.0.0.0 capture.sp.janrain.com
-0.0.0.0 multi.prod.sp.janrain.com
 0.0.0.0 ssl-cdn-quilt.janrain.com
 0.0.0.0 static.janrain.com
 0.0.0.0 status.janrain.com
 0.0.0.0 support.janrain.com
-0.0.0.0 multi.prod.sy.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.sy.janrain.com
 0.0.0.0 pandg.prod.sy.janrain.com
 0.0.0.0 test-trust.janrain.com
@@ -3100,10 +3112,8 @@
 0.0.0.0 v1.api.us.janrain.com
 0.0.0.0 bdc.prod.va.janrain.com
 0.0.0.0 mon.prod.va.janrain.com
-0.0.0.0 multi.prod.va.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.va.janrain.com
 0.0.0.0 unidash-alb-app.multi.prod.va.janrain.com
-0.0.0.0 pandg.prod.va.janrain.com
 0.0.0.0 mcd.test.va.janrain.com
 0.0.0.0 visit.janrain.com
 0.0.0.0 www.janrain.com
@@ -4617,6 +4627,7 @@
 0.0.0.0 bocconi360.qualtrics.com
 0.0.0.0 boisestate.qualtrics.com
 0.0.0.0 bostonu.qualtrics.com
+0.0.0.0 bowdoincollege.qualtrics.com
 0.0.0.0 bradley.qualtrics.com
 0.0.0.0 brand.qualtrics.com
 0.0.0.0 brandaddition.qualtrics.com
@@ -5082,6 +5093,10 @@
 0.0.0.0 covid-kagandefdmsc5g.qualtrics.com
 0.0.0.0 covid-kagandefdmska.qualtrics.com
 0.0.0.0 covid19.qualtrics.com
+0.0.0.0 alpha.covid19.qualtrics.com
+0.0.0.0 angelofthewinds-team.covid19.qualtrics.com
+0.0.0.0 kaiserassociates.covid19.qualtrics.com
+0.0.0.0 usdpsyc.covid19.qualtrics.com
 0.0.0.0 covid19australia.qualtrics.com
 0.0.0.0 covid19il.qualtrics.com
 0.0.0.0 covid19pulse.qualtrics.com
@@ -5282,6 +5297,7 @@
 0.0.0.0 morganmckinleyeu.eu.qualtrics.com
 0.0.0.0 nbk.eu.qualtrics.com
 0.0.0.0 nclpsych.eu.qualtrics.com
+0.0.0.0 nhtv.eu.qualtrics.com
 0.0.0.0 objectivefocus.eu.qualtrics.com
 0.0.0.0 orbitaled.eu.qualtrics.com
 0.0.0.0 oxfordfacultyoflaw.eu.qualtrics.com
@@ -5699,6 +5715,9 @@
 0.0.0.0 mascherato-com.qualtrics.com
 0.0.0.0 mascocabinetry.qualtrics.com
 0.0.0.0 mask.qualtrics.com
+0.0.0.0 imercer.mask.qualtrics.com
+0.0.0.0 ohio.mask.qualtrics.com
+0.0.0.0 utexas.mask.qualtrics.com
 0.0.0.0 mask-static.qualtrics.com
 0.0.0.0 mask123.qualtrics.com
 0.0.0.0 maska.qualtrics.com
@@ -6214,6 +6233,7 @@
 0.0.0.0 zn3lwsfwmnkphu1zr-wiley.siteintercept.qualtrics.com
 0.0.0.0 zn3mbrsehqjk0j36d-millerwelds.siteintercept.qualtrics.com
 0.0.0.0 zn3owdqdlxu72cwnv-nejm.siteintercept.qualtrics.com
+0.0.0.0 zn3pa7ldn5c9k7npn-sni.siteintercept.qualtrics.com
 0.0.0.0 zn3pg3jzgfzrbl3x7-magnolia.siteintercept.qualtrics.com
 0.0.0.0 zn3q9k3fzv645vjsz-alight.siteintercept.qualtrics.com
 0.0.0.0 zn3qnls7tzxgf77yr-rogers.siteintercept.qualtrics.com
@@ -6301,6 +6321,7 @@
 0.0.0.0 zn5pedme4nz1fjesv-bci.siteintercept.qualtrics.com
 0.0.0.0 zn5psovn6eac4xa7h-anz.siteintercept.qualtrics.com
 0.0.0.0 zn5q1lwvjhxcwss6f-acrf.siteintercept.qualtrics.com
+0.0.0.0 zn5ssn5fi61m2n4dn-aramarkfeedback.siteintercept.qualtrics.com
 0.0.0.0 zn5uulicwngsljoab-autozone.siteintercept.qualtrics.com
 0.0.0.0 zn5uwrz1caqxtx62p-saxobank.siteintercept.qualtrics.com
 0.0.0.0 zn5vr2rtlohcc0jmb-logmein1.siteintercept.qualtrics.com
@@ -6738,6 +6759,7 @@
 0.0.0.0 keenfootwear.sjc1.qualtrics.com
 0.0.0.0 mcdonough.sjc1.qualtrics.com
 0.0.0.0 nnursesunited.sjc1.qualtrics.com
+0.0.0.0 rc1user5k7g8cjy3t8sm.sjc1.qualtrics.com
 0.0.0.0 rc1userh5thjd7hwt7pf.sjc1.qualtrics.com
 0.0.0.0 sjsu.qualtrics.com
 0.0.0.0 sju.qualtrics.com
@@ -6764,6 +6786,7 @@
 0.0.0.0 square.qualtrics.com
 0.0.0.0 ss.qualtrics.com
 0.0.0.0 ssd.qualtrics.com
+0.0.0.0 mascaradelatex.ssd.qualtrics.com
 0.0.0.0 ssdmo.qualtrics.com
 0.0.0.0 sshs.qualtrics.com
 0.0.0.0 ssl-uscensusbureaucovid.qualtrics.com
@@ -8282,6 +8305,7 @@
 0.0.0.0 www.spot.im
 0.0.0.0 coactive.io
 0.0.0.0 crucible.coactive.io
+0.0.0.0 help.coactive.io
 0.0.0.0 invite.coactive.io
 0.0.0.0 links.coactive.io
 0.0.0.0 www.coactive.io
@@ -9111,6 +9135,7 @@
 0.0.0.0 android.ada.support
 0.0.0.0 anx.ada.support
 0.0.0.0 apraamcos.ada.support
+0.0.0.0 askai.ada.support
 0.0.0.0 att.ada.support
 0.0.0.0 cricket.att.ada.support
 0.0.0.0 cricket-sales.att.ada.support
