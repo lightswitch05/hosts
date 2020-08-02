@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-08-01T18:46:41+00:00
-# Count: 9641 domains
+# Released: 2020-08-02T05:46:58+00:00
+# Count: 9634 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -244,11 +244,15 @@
 0.0.0.0 dai.360.cn
 0.0.0.0 m.dai.360.cn
 0.0.0.0 daikuan.360.cn
+0.0.0.0 cafe-front.daikuan.360.cn
 0.0.0.0 cdn.daikuan.360.cn
+0.0.0.0 dss.daikuan.360.cn
 0.0.0.0 ele.daikuan.360.cn
 0.0.0.0 mcp.daikuan.360.cn
+0.0.0.0 mktmain.daikuan.360.cn
 0.0.0.0 mms.daikuan.360.cn
 0.0.0.0 pas.daikuan.360.cn
+0.0.0.0 piwik.daikuan.360.cn
 0.0.0.0 rtawin.daikuan.360.cn
 0.0.0.0 totoro.daikuan.360.cn
 0.0.0.0 ubas.daikuan.360.cn
@@ -265,7 +269,13 @@
 0.0.0.0 se.dianhua.360.cn
 0.0.0.0 dianping.360.cn
 0.0.0.0 dmp.360.cn
+0.0.0.0 cm.dmp.360.cn
+0.0.0.0 g.dmp.360.cn
+0.0.0.0 h2m.dmp.360.cn
 0.0.0.0 max.dmp.360.cn
+0.0.0.0 p.openapi.dmp.360.cn
+0.0.0.0 product.dmp.360.cn
+0.0.0.0 registry.dmp.360.cn
 0.0.0.0 socm.dmp.360.cn
 0.0.0.0 dns.360.cn
 0.0.0.0 sec.dns.360.cn
@@ -592,6 +602,7 @@
 0.0.0.0 u.live.360.cn
 0.0.0.0 v.live.360.cn
 0.0.0.0 login.360.cn
+0.0.0.0 relate.look.360.cn
 0.0.0.0 show.look.360.cn
 0.0.0.0 luyou.360.cn
 0.0.0.0 api.luyou.360.cn
@@ -770,6 +781,7 @@
 0.0.0.0 g.s.360.cn
 0.0.0.0 r.m.s.360.cn
 0.0.0.0 p.s.360.cn
+0.0.0.0 pf.s.360.cn
 0.0.0.0 sdk.s.360.cn
 0.0.0.0 pub-shyc2.s3.360.cn
 0.0.0.0 pub1-bjyt.s3.360.cn
@@ -799,6 +811,7 @@
 0.0.0.0 trans.safe.360.cn
 0.0.0.0 upxy.safe.360.cn
 0.0.0.0 vod.safe.360.cn
+0.0.0.0 image.safebox.360.cn
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 sd.360.cn
 0.0.0.0 down.sd.360.cn
@@ -1339,7 +1352,6 @@
 0.0.0.0 suunto.ugc.bazaarvoice.com
 0.0.0.0 sweetbaysupermarket.ugc.bazaarvoice.com
 0.0.0.0 t-mobile.ugc.bazaarvoice.com
-0.0.0.0 targetaustralia.ugc.bazaarvoice.com
 0.0.0.0 tena.ugc.bazaarvoice.com
 0.0.0.0 thebodyshop.ugc.bazaarvoice.com
 0.0.0.0 thebodyshop-usa.ugc.bazaarvoice.com
@@ -1464,7 +1476,6 @@
 0.0.0.0 chatserver.comm100.com
 0.0.0.0 chatserver3.comm100.com
 0.0.0.0 chatserver5.comm100.com
-0.0.0.0 docs.comm100.com
 0.0.0.0 em.comm100.com
 0.0.0.0 ent.comm100.com
 0.0.0.0 ent1chatserver.comm100.com
@@ -1503,7 +1514,6 @@
 0.0.0.0 support.comm100.com
 0.0.0.0 vue.comm100.com
 0.0.0.0 vue1.comm100.com
-0.0.0.0 vuededicated.comm100.com
 0.0.0.0 www.comm100.com
 0.0.0.0 download.db-ip.com
 0.0.0.0 block-test.developerdan.com
@@ -2908,7 +2918,6 @@
 0.0.0.0 cdn-quilt.janrain.com
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 ci-prod.janrain.com
-0.0.0.0 usta.cleint.janrain.com
 0.0.0.0 542digital.client.janrain.com
 0.0.0.0 abudhabimedia.client.janrain.com
 0.0.0.0 adoptapet.client.janrain.com
@@ -3029,7 +3038,6 @@
 0.0.0.0 console2.janrain.com
 0.0.0.0 customer-dev.janrain.com
 0.0.0.0 dashboard.janrain.com
-0.0.0.0 demos.janrain.com
 0.0.0.0 deploy.janrain.com
 0.0.0.0 dev.janrain.com
 0.0.0.0 mastercard.dev.janrain.com
@@ -3043,7 +3051,6 @@
 0.0.0.0 qantas-prod.engage-au.janrain.com
 0.0.0.0 v1.api.eu.janrain.com
 0.0.0.0 hello.janrain.com
-0.0.0.0 sepoc.dev.ie.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.ie.janrain.com
 0.0.0.0 hostedlogin-alb-app.philips.prod.ie.janrain.com
 0.0.0.0 info.janrain.com
@@ -3060,22 +3067,17 @@
 0.0.0.0 stg.api.or.janrain.com
 0.0.0.0 dev.or.janrain.com
 0.0.0.0 coral.ce-team.dev.or.janrain.com
-0.0.0.0 configra.dev.or.janrain.com
 0.0.0.0 api.configra.dev.or.janrain.com
 0.0.0.0 api.datateam.dev.or.janrain.com
-0.0.0.0 irsteam.dev.or.janrain.com
 0.0.0.0 api.irsteam.dev.or.janrain.com
 0.0.0.0 login.dev.or.janrain.com
-0.0.0.0 multi.dev.or.janrain.com
 0.0.0.0 api.multi.dev.or.janrain.com
 0.0.0.0 capture.multi.dev.or.janrain.com
 0.0.0.0 capture-alb-border.multi.dev.or.janrain.com
 0.0.0.0 prometheus.multi.dev.or.janrain.com
-0.0.0.0 profilesteam.dev.or.janrain.com
 0.0.0.0 api.profilesteam.dev.or.janrain.com
 0.0.0.0 engage-app.or.janrain.com
 0.0.0.0 stg.or.janrain.com
-0.0.0.0 multi.stg.or.janrain.com
 0.0.0.0 api.multi.stg.or.janrain.com
 0.0.0.0 social.multi.stg.or.janrain.com
 0.0.0.0 oreilly.janrain.com
@@ -3090,7 +3092,6 @@
 0.0.0.0 saml-multi-stag-va.janrain.com
 0.0.0.0 account-apple-next-com.api.sg.janrain.com
 0.0.0.0 v1.api.sg.janrain.com
-0.0.0.0 multi.prod.sg.janrain.com
 0.0.0.0 social.janrain.com
 0.0.0.0 capture.sp.janrain.com
 0.0.0.0 ssl-cdn-quilt.janrain.com
@@ -3098,11 +3099,9 @@
 0.0.0.0 status.janrain.com
 0.0.0.0 support.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.sy.janrain.com
-0.0.0.0 pandg.prod.sy.janrain.com
 0.0.0.0 test-trust.janrain.com
 0.0.0.0 testsite.janrain.com
 0.0.0.0 v1.api.tk.janrain.com
-0.0.0.0 multi.prod.tk.janrain.com
 0.0.0.0 trust.janrain.com
 0.0.0.0 university.janrain.com
 0.0.0.0 ur-demosite.janrain.com
@@ -7509,7 +7508,6 @@
 0.0.0.0 c-us7.stripcdn.com
 0.0.0.0 c-us8.stripcdn.com
 0.0.0.0 c-us9.stripcdn.com
-0.0.0.0 hls.stripcdn.com
 0.0.0.0 hls-eu.stripcdn.com
 0.0.0.0 hls-eu2.stripcdn.com
 0.0.0.0 hls-us.stripcdn.com
@@ -7524,10 +7522,6 @@
 0.0.0.0 ns2.stripcdn.com
 0.0.0.0 ns3.stripcdn.com
 0.0.0.0 ns4.stripcdn.com
-0.0.0.0 p-eu4.stripcdn.com
-0.0.0.0 p-us1.stripcdn.com
-0.0.0.0 p0.stripcdn.com
-0.0.0.0 p1.stripcdn.com
 0.0.0.0 private-video.stripcdn.com
 0.0.0.0 public-video.stripcdn.com
 0.0.0.0 s-eu1.stripcdn.com
@@ -7544,8 +7538,6 @@
 0.0.0.0 s-us7.stripcdn.com
 0.0.0.0 s-us8.stripcdn.com
 0.0.0.0 sp.stripcdn.com
-0.0.0.0 st.stripcdn.com
-0.0.0.0 video-thumbs.stripcdn.com
 0.0.0.0 cdn.subscribers.com
 0.0.0.0 surveygizmo.com
 0.0.0.0 apihelp.surveygizmo.com
@@ -9429,6 +9421,7 @@
 0.0.0.0 mx1.mta.tawk.to
 0.0.0.0 mx2.mta.tawk.to
 0.0.0.0 mx4.mta.tawk.to
+0.0.0.0 mx6.mta.tawk.to
 0.0.0.0 nosupport.tawk.to
 0.0.0.0 pages.tawk.to
 0.0.0.0 partners.tawk.to
