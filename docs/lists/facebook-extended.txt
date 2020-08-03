@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-08-02T18:46:48+00:00
-# Count: 9218 domains
+# Released: 2020-08-03T05:46:38+00:00
+# Count: 9224 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -912,6 +912,7 @@
 0.0.0.0 edge-star-shv-01-bog1.facebook.com
 0.0.0.0 edge-star-shv-01-bom1.facebook.com
 0.0.0.0 edge-star-shv-01-cdg2.facebook.com
+0.0.0.0 edge-star-shv-01-cdt1.facebook.com
 0.0.0.0 edge-star-shv-01-cgk1.facebook.com
 0.0.0.0 edge-star-shv-01-del1.facebook.com
 0.0.0.0 edge-star-shv-01-fco1.facebook.com
@@ -1297,12 +1298,14 @@
 0.0.0.0 ru-ru.latest.facebook.com
 0.0.0.0 sc-it.latest.facebook.com
 0.0.0.0 secure.latest.facebook.com
+0.0.0.0 silvermask.latest.facebook.com
 0.0.0.0 sr-rs.latest.facebook.com
 0.0.0.0 sv-se.latest.facebook.com
 0.0.0.0 sw-ke.latest.facebook.com
 0.0.0.0 th-th.latest.facebook.com
 0.0.0.0 tr-tr.latest.facebook.com
 0.0.0.0 upload.latest.facebook.com
+0.0.0.0 vaccine-bc-huang.latest.facebook.com
 0.0.0.0 vi-vn.latest.facebook.com
 0.0.0.0 www.latest.facebook.com
 0.0.0.0 z-p1-api.latest.facebook.com
@@ -2227,6 +2230,7 @@
 0.0.0.0 nl-nl.facebook.com
 0.0.0.0 nn-no.facebook.com
 0.0.0.0 noe3-0.facebook.com
+0.0.0.0 norwegian.facebook.com
 0.0.0.0 npe.facebook.com
 0.0.0.0 a.ns.facebook.com
 0.0.0.0 b.ns.facebook.com
@@ -3541,6 +3545,7 @@
 0.0.0.0 rtmp-api.facebook.com
 0.0.0.0 ru-ru.facebook.com
 0.0.0.0 rupload.facebook.com
+0.0.0.0 s-static.facebook.com
 0.0.0.0 savealot.facebook.com
 0.0.0.0 scgraph.facebook.com
 0.0.0.0 anonymousmask.scgraph.facebook.com
@@ -3669,6 +3674,7 @@
 0.0.0.0 rupload-ham.up.facebook.com
 0.0.0.0 rupload-maa.up.facebook.com
 0.0.0.0 rupload-mrs.up.facebook.com
+0.0.0.0 rupload-nrt.up.facebook.com
 0.0.0.0 rupload-xsp.up.facebook.com
 0.0.0.0 upload.facebook.com
 0.0.0.0 ur-pk.facebook.com
@@ -3753,6 +3759,7 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 zurich.facebook.com
 0.0.0.0 facebookbrand.com
 0.0.0.0 ar.facebookbrand.com
 0.0.0.0 da-dk.facebookbrand.com
@@ -7241,7 +7248,6 @@
 0.0.0.0 instagram.fzrh2-1.fna.fbcdn.net
 0.0.0.0 external.fzrh3-1.fna.fbcdn.net
 0.0.0.0 instagram.fzrh3-1.fna.fbcdn.net
-0.0.0.0 instagram.fzty2-1.fna.fbcdn.net
 0.0.0.0 a.ns.fna.fbcdn.net
 0.0.0.0 b.ns.fna.fbcdn.net
 0.0.0.0 c.ns.fna.fbcdn.net
@@ -8835,7 +8841,6 @@
 0.0.0.0 ae19.pr06.mia1.tfbnw.net
 0.0.0.0 po106.psw04.mia3.tfbnw.net
 0.0.0.0 dr02.nao1.tfbnw.net
-0.0.0.0 ae15.bb03.odn2.tfbnw.net
 0.0.0.0 ae12.dr03.odn2.tfbnw.net
 0.0.0.0 ae10.dr04.odn2.tfbnw.net
 0.0.0.0 oob-vpn-iad.tfbnw.net
@@ -9150,6 +9155,7 @@
 0.0.0.0 sonar.fkul2-1.fna.whatsapp.net
 0.0.0.0 sonar.fkul4-2.fna.whatsapp.net
 0.0.0.0 media.flca1-1.fna.whatsapp.net
+0.0.0.0 flex1-1.fna.whatsapp.net
 0.0.0.0 media.flhe10-1.fna.whatsapp.net
 0.0.0.0 sonar.flhe10-1.fna.whatsapp.net
 0.0.0.0 media.flhe15-1.fna.whatsapp.net
