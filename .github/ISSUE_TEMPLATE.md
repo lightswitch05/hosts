@@ -7,7 +7,7 @@ I appreciate feedback on this project - both positive and negative. Regardless o
 
 **False positive?**
 
-Prove it. Do your research. I spend a lot of time working on this list, if you think you've found an issue, put the effort into it to prove it to me. Give me links to verify. I added the domain to the list, so I think it should be blocked. The burden of proof is on you.
+Prove it. Do your research. I spend a lot of time working on this list, if you think you've found an issue, put the effort into it to prove it to me. Give me links to verify. I added the domain to the list, so I think it should be blocked. The burden of proof is on you. Please review these common issues before opening a ticket: https://github.com/lightswitch05/hosts#common-issues
 
 **New domains to block?**
 
