@@ -16,3 +16,15 @@ Tracking Aggressive | A very aggressive block list for tracking, geo-targeting, 
 AMP Hosts | [Google's Accelerated Mobile Pages (AMP)](https://www.theregister.co.uk/2017/05/19/open_source_insider_google_amp_bad_bad_bad/) are taking over the web. Block AMP pages with this list. Since I use [DuckDuckGo](https://duckduckgo.com/), this list is pretty sparse and suggestions are welcome! | [link](https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
 Facebook | A hosts file to block all facebook and facebook related services, including Messenger, Instagram, and WhatsApp. | [link](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt)
 
+
+# Common Issues
+
+### Google Fonts
+
+I DO NOT BLOCK `fonts.gstatic.com`. However, I do block `gstaticadssl.l.google.com`. If you are using the Ads & Tracking list and are having issues with `fonts.gstatic.com`, then you might be using a blocker that blocks based on CNAME. Depending on your blocking tool, you might want to whitelist `fonts.gstatic.com` to prevent it from getting blocked by `gstaticadssl.l.google.com` CNAME.
+
+See: [#197](https://github.com/lightswitch05/hosts/issues/197), [#136](https://github.com/lightswitch05/hosts/issues/136), and [#213](https://github.com/lightswitch05/hosts/issues/213)
+
+### Xbox Live Achievements
+
+Turns out Xbox Live Achievements is using a common Microsoft tracking server. If you are using the Ads & Tracking list and want to continue getting Xbox Live Achievements, then you might need to whitelist a couple domains. Since I do not have an Xbox, I can't really help you with that, but please see [#161](https://github.com/lightswitch05/hosts/issues/161) for details.
