@@ -3,8 +3,7 @@ image: alpine:latest
 pages:
   stage: deploy
   script:
-  - mkdir -p ./public/hosts
-  - mv ./docs/* ./public/hosts
+  - mv docs public
   artifacts:
     paths:
     - public
