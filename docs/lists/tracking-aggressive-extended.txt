@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-08-16T13:30:11+00:00
-# Count: 10217 domains
+# Released: 2020-08-17T01:30:12+00:00
+# Count: 10250 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -617,8 +617,6 @@
 0.0.0.0 appapi.luyou.360.cn
 0.0.0.0 newapi.cloudquery.luyou.360.cn
 0.0.0.0 download.luyou.360.cn
-0.0.0.0 guanli.luyou.360.cn
-0.0.0.0 hg.luyou.360.cn
 0.0.0.0 log.luyou.360.cn
 0.0.0.0 plugin.luyou.360.cn
 0.0.0.0 scode.luyou.360.cn
@@ -2662,6 +2660,7 @@
 0.0.0.0 socialize.ru1.gigya.com
 0.0.0.0 socialize.gigya.com
 0.0.0.0 socialize-api.gigya.com
+0.0.0.0 abs-cbn.sslproxy.gigya.com
 0.0.0.0 allposters.sslproxy.gigya.com
 0.0.0.0 animaxtaiwan.sslproxy.gigya.com
 0.0.0.0 bakkerswereld.sslproxy.gigya.com
@@ -3172,7 +3171,6 @@
 0.0.0.0 cdn-akamai.livechatinc.com
 0.0.0.0 cdnx.livechatinc.com
 0.0.0.0 chat1a.livechatinc.com
-0.0.0.0 chat1f.livechatinc.com
 0.0.0.0 chat2b.livechatinc.com
 0.0.0.0 chat56a.livechatinc.com
 0.0.0.0 community-staging.livechatinc.com
@@ -4861,6 +4859,7 @@
 0.0.0.0 cfigroupse.qualtrics.com
 0.0.0.0 cgu.qualtrics.com
 0.0.0.0 chakroff.qualtrics.com
+0.0.0.0 chanelusa.qualtrics.com
 0.0.0.0 chg.qualtrics.com
 0.0.0.0 childrensmercy.qualtrics.com
 0.0.0.0 chronicle.qualtrics.com
@@ -5436,6 +5435,7 @@
 0.0.0.0 dmupsy.qualtrics.com
 0.0.0.0 doc.qualtrics.com
 0.0.0.0 dollarshaveclub.qualtrics.com
+0.0.0.0 domo.qualtrics.com
 0.0.0.0 dorg.qualtrics.com
 0.0.0.0 drake.qualtrics.com
 0.0.0.0 drexel.qualtrics.com
@@ -8047,6 +8047,10 @@
 0.0.0.0 vk.com
 0.0.0.0 0.vk.com
 0.0.0.0 0-109.vk.com
+0.0.0.0 0-11.vk.com
+0.0.0.0 0-11-213-95.vk.com
+0.0.0.0 0-118-213-95.vk.com
+0.0.0.0 0-12.vk.com
 0.0.0.0 0-196.vk.com
 0.0.0.0 09.vk.com
 0.0.0.0 1.vk.com
@@ -8145,6 +8149,7 @@
 0.0.0.0 theagency.web5913.cs304110.vk.com
 0.0.0.0 ing.sakeena.cs304111.vk.com
 0.0.0.0 lenta.ap108.cs304112.vk.com
+0.0.0.0 cs305300.vk.com
 0.0.0.0 cs305608.vk.com
 0.0.0.0 policy.query.cs316931.vk.com
 0.0.0.0 cs323817.vk.com
@@ -8157,15 +8162,18 @@
 0.0.0.0 cs4125.vk.com
 0.0.0.0 cs4218.vk.com
 0.0.0.0 cs4239.vk.com
+0.0.0.0 cs4340.vk.com
 0.0.0.0 cs4362.vk.com
 0.0.0.0 cs4394.vk.com
 0.0.0.0 cs4423.vk.com
+0.0.0.0 cs4441.vk.com
 0.0.0.0 cs4700.vk.com
 0.0.0.0 cs508407.vk.com
 0.0.0.0 cs509605.vk.com
 0.0.0.0 cs5172.vk.com
 0.0.0.0 cs5179.vk.com
 0.0.0.0 cs5302.vk.com
+0.0.0.0 cs5363.vk.com
 0.0.0.0 cs53835.vk.com
 0.0.0.0 cs540301.vk.com
 0.0.0.0 cs5414.vk.com
@@ -8175,6 +8183,7 @@
 0.0.0.0 cs543603.vk.com
 0.0.0.0 cs5475.vk.com
 0.0.0.0 cs5533.vk.com
+0.0.0.0 cs5840.vk.com
 0.0.0.0 cs5903.vk.com
 0.0.0.0 cs5920.vk.com
 0.0.0.0 cs5931.vk.com
@@ -8312,6 +8321,8 @@
 0.0.0.0 dulunpandemijue.vk.com
 0.0.0.0 dya.vk.com
 0.0.0.0 e-mail.vk.com
+0.0.0.0 ebscovideo.vk.com
+0.0.0.0 ecovidrio.vk.com
 0.0.0.0 edana.vk.com
 0.0.0.0 eitquarantine.vk.com
 0.0.0.0 emeaquarantine.vk.com
@@ -8402,6 +8413,7 @@
 0.0.0.0 pasot.vk.com
 0.0.0.0 past.vk.com
 0.0.0.0 pi.vk.com
+0.0.0.0 pirate.vk.com
 0.0.0.0 piter-ix.vk.com
 0.0.0.0 estimulos-y-respuestas.piter-ix.vk.com
 0.0.0.0 linebinevaskemaskine.piter-ix.vk.com
@@ -8484,6 +8496,7 @@
 0.0.0.0 srv233-185-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
 0.0.0.0 srv3-6-213-95.vk.com
+0.0.0.0 srv66-139-137-79.vk.com
 0.0.0.0 srv67-190-240-87.vk.com
 0.0.0.0 ftp.srv67-190-240-87.vk.com
 0.0.0.0 imap.srv67-190-240-87.vk.com
@@ -8577,6 +8590,7 @@
 0.0.0.0 www.vk.com
 0.0.0.0 xn--80aa5alfu.vk.com
 0.0.0.0 xovide.vk.com
+0.0.0.0 xxxxxxxxxxm.vk.com
 0.0.0.0 yeastinfection.vk.com
 0.0.0.0 yvjnex.vk.com
 0.0.0.0 ads-resources.waze.com
@@ -10003,6 +10017,7 @@
 0.0.0.0 mx1.mta.tawk.to
 0.0.0.0 mx2.mta.tawk.to
 0.0.0.0 mx4.mta.tawk.to
+0.0.0.0 mx5.mta.tawk.to
 0.0.0.0 mx6.mta.tawk.to
 0.0.0.0 nosupport.tawk.to
 0.0.0.0 pages.tawk.to
@@ -10170,6 +10185,24 @@
 0.0.0.0 vsa97.tawk.to
 0.0.0.0 vsa98.tawk.to
 0.0.0.0 vsa99.tawk.to
+0.0.0.0 vsb101.tawk.to
+0.0.0.0 vsb102.tawk.to
+0.0.0.0 vsb104.tawk.to
+0.0.0.0 vsb105.tawk.to
+0.0.0.0 vsb107.tawk.to
+0.0.0.0 vsb108.tawk.to
+0.0.0.0 vsb109.tawk.to
+0.0.0.0 vsb110.tawk.to
+0.0.0.0 vsb111.tawk.to
+0.0.0.0 vsb112.tawk.to
+0.0.0.0 vsb115.tawk.to
+0.0.0.0 vsb116.tawk.to
+0.0.0.0 vsb117.tawk.to
+0.0.0.0 vsb118.tawk.to
+0.0.0.0 vsb119.tawk.to
+0.0.0.0 vsb120.tawk.to
+0.0.0.0 vsb82.tawk.to
+0.0.0.0 vsb83.tawk.to
 0.0.0.0 windows.tawk.to
 0.0.0.0 www.tawk.to
 0.0.0.0 geni.us
