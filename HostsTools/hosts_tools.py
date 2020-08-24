@@ -220,7 +220,7 @@ def virustotal_find_subdomain(domain: str, api_key: Union[str, None], verbose: b
                     print('Found: %s' % found_domain)
                 found_domains.add(found_domain)
 
-    time.sleep(16)  # free API is capped at 4 requests per minute
+    time.sleep(15)  # free API is capped at 4 requests per minute
     return found_domains
 
 
