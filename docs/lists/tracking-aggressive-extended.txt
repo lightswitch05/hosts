@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-08-25T23:33:04+00:00
-# Count: 10673 domains
+# Released: 2020-08-26T13:30:12+00:00
+# Count: 10692 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -618,6 +618,7 @@
 0.0.0.0 v.live.360.cn
 0.0.0.0 login.360.cn
 0.0.0.0 api.look.360.cn
+0.0.0.0 papi.look.360.cn
 0.0.0.0 relate.look.360.cn
 0.0.0.0 show.look.360.cn
 0.0.0.0 luyou.360.cn
@@ -632,6 +633,7 @@
 0.0.0.0 api.taozhuang.luyou.360.cn
 0.0.0.0 upgrade.luyou.360.cn
 0.0.0.0 ykapi.luyou.360.cn
+0.0.0.0 test.ykapi.luyou.360.cn
 0.0.0.0 luyouw.360.cn
 0.0.0.0 api.lxqp.360.cn
 0.0.0.0 m.360.cn
@@ -2454,6 +2456,8 @@
 0.0.0.0 app.test.exacttarget.com
 0.0.0.0 webservice.keepalive.aprimo.test.exacttarget.com
 0.0.0.0 webservice.aprimo.test.exacttarget.com
+0.0.0.0 auth.test.exacttarget.com
+0.0.0.0 cl.test.exacttarget.com
 0.0.0.0 click.test.exacttarget.com
 0.0.0.0 etappx.test.exacttarget.com
 0.0.0.0 image.test.exacttarget.com
@@ -2463,6 +2467,8 @@
 0.0.0.0 ms.test.exacttarget.com
 0.0.0.0 ms.pages.test.exacttarget.com
 0.0.0.0 sms.test.exacttarget.com
+0.0.0.0 view.test.exacttarget.com
+0.0.0.0 vw.test.exacttarget.com
 0.0.0.0 webservice.test.exacttarget.com
 0.0.0.0 ws.test.exacttarget.com
 0.0.0.0 ms.ws.test.exacttarget.com
@@ -4606,12 +4612,16 @@
 0.0.0.0 bkfs.az1.qualtrics.com
 0.0.0.0 blackandveatch.az1.qualtrics.com
 0.0.0.0 bluekc.az1.qualtrics.com
+0.0.0.0 breakingmedia.az1.qualtrics.com
 0.0.0.0 brighthorizonscx.az1.qualtrics.com
 0.0.0.0 bristol.az1.qualtrics.com
+0.0.0.0 butler.az1.qualtrics.com
 0.0.0.0 bwgstrategy.az1.qualtrics.com
 0.0.0.0 byui.az1.qualtrics.com
+0.0.0.0 cacities.az1.qualtrics.com
 0.0.0.0 cadmus.az1.qualtrics.com
 0.0.0.0 careerbuilder.az1.qualtrics.com
+0.0.0.0 carletonu.az1.qualtrics.com
 0.0.0.0 cbs.az1.qualtrics.com
 0.0.0.0 ccnypsych.az1.qualtrics.com
 0.0.0.0 centene.az1.qualtrics.com
@@ -4619,6 +4629,7 @@
 0.0.0.0 chubb.az1.qualtrics.com
 0.0.0.0 cignacx.az1.qualtrics.com
 0.0.0.0 cmm.az1.qualtrics.com
+0.0.0.0 colostate.az1.qualtrics.com
 0.0.0.0 columbia.az1.qualtrics.com
 0.0.0.0 www.columbia.az1.qualtrics.com
 0.0.0.0 conflictofinterest.az1.qualtrics.com
@@ -4890,6 +4901,7 @@
 0.0.0.0 cengagebrm.ca1.qualtrics.com
 0.0.0.0 centrify.ca1.qualtrics.com
 0.0.0.0 council.ca1.qualtrics.com
+0.0.0.0 cssrp.ca1.qualtrics.com
 0.0.0.0 delaware.ca1.qualtrics.com
 0.0.0.0 hanoverresearch.ca1.qualtrics.com
 0.0.0.0 hkbuhk.ca1.qualtrics.com
@@ -4924,6 +4936,8 @@
 0.0.0.0 cadmus.qualtrics.com
 0.0.0.0 calipercorp360.qualtrics.com
 0.0.0.0 calpolycba.qualtrics.com
+0.0.0.0 calstrs.qualtrics.com
+0.0.0.0 cambridge.qualtrics.com
 0.0.0.0 camsys.qualtrics.com
 0.0.0.0 canterbury.qualtrics.com
 0.0.0.0 capitalone.qualtrics.com
@@ -6437,6 +6451,7 @@
 0.0.0.0 redirect.qualtrics.com
 0.0.0.0 redirect120.qualtrics.com
 0.0.0.0 redirect220.qualtrics.com
+0.0.0.0 redirect320.qualtrics.com
 0.0.0.0 reebok.qualtrics.com
 0.0.0.0 regeneron.qualtrics.com
 0.0.0.0 regions.qualtrics.com
@@ -6502,6 +6517,7 @@
 0.0.0.0 scuau.qualtrics.com
 0.0.0.0 sdsubusiness.qualtrics.com
 0.0.0.0 sdsuuw.qualtrics.com
+0.0.0.0 seanacademic.qualtrics.com
 0.0.0.0 seattleu.qualtrics.com
 0.0.0.0 seattleux.qualtrics.com
 0.0.0.0 seiservices.qualtrics.com
@@ -6886,6 +6902,7 @@
 0.0.0.0 zn6p9bxntjlusyijn-gamestop.siteintercept.qualtrics.com
 0.0.0.0 zn6ppyjxvin10cnp7-scrippsmedia.siteintercept.qualtrics.com
 0.0.0.0 zn6pxohmngr5njbsx-catrental.siteintercept.qualtrics.com
+0.0.0.0 zn6qberv3uhxxxrjh-gettyimages.siteintercept.qualtrics.com
 0.0.0.0 zn6qhlgucixd8r9td-scrippsmedia.siteintercept.qualtrics.com
 0.0.0.0 zn6qzq6caaucudesr-pluralsight.siteintercept.qualtrics.com
 0.0.0.0 zn6rk6tr2d4thcrsb-lds.siteintercept.qualtrics.com
@@ -7186,10 +7203,12 @@
 0.0.0.0 zncvokagbtmjvajhd-incomm.siteintercept.qualtrics.com
 0.0.0.0 zncvomiueeqmfxynn-tracfone.siteintercept.qualtrics.com
 0.0.0.0 zncvsbqkosp9nnubv-nar.siteintercept.qualtrics.com
+0.0.0.0 zncxpigrgvhojwtib-firstmidwest.siteintercept.qualtrics.com
 0.0.0.0 zncxv2imuzbbcqj3v-metro.siteintercept.qualtrics.com
 0.0.0.0 zncylzuczeq15wxvp-mailchimp.siteintercept.qualtrics.com
 0.0.0.0 znczmeihu4g9mgthz-arkema.siteintercept.qualtrics.com
 0.0.0.0 znczq7eyghxqqqhor-caleres.siteintercept.qualtrics.com
+0.0.0.0 znczt0pqysvzwnawf-kingspan.siteintercept.qualtrics.com
 0.0.0.0 znd0bfdqlqg9ciloh-uber.siteintercept.qualtrics.com
 0.0.0.0 znd3v7rbphouxilfr-rentpath.siteintercept.qualtrics.com
 0.0.0.0 znd4i0otzvhvl8mdz-rogers.siteintercept.qualtrics.com
