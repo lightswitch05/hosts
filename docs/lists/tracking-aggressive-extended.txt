@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-08-26T13:30:12+00:00
-# Count: 10692 domains
+# Released: 2020-08-27T01:30:12+00:00
+# Count: 10714 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -78,8 +78,13 @@
 0.0.0.0 10673162.bang.360.cn
 0.0.0.0 107628829.bang.360.cn
 0.0.0.0 10872821.bang.360.cn
+0.0.0.0 11251396.bang.360.cn
+0.0.0.0 114115877.bang.360.cn
+0.0.0.0 114380769.bang.360.cn
 0.0.0.0 114484848.bang.360.cn
+0.0.0.0 114648144.bang.360.cn
 0.0.0.0 115047949.bang.360.cn
+0.0.0.0 11924348.bang.360.cn
 0.0.0.0 145431000.bang.360.cn
 0.0.0.0 1500063.bang.360.cn
 0.0.0.0 15058491.bang.360.cn
@@ -178,6 +183,7 @@
 0.0.0.0 w1.im.bang.360.cn
 0.0.0.0 imstatic.bang.360.cn
 0.0.0.0 m.bang.360.cn
+0.0.0.0 mobile-1569427996.bang.360.cn
 0.0.0.0 baoku.360.cn
 0.0.0.0 bbs.360.cn
 0.0.0.0 faq.admin2.bbs.360.cn
@@ -232,6 +238,7 @@
 0.0.0.0 ca.college.360.cn
 0.0.0.0 video.college.360.cn
 0.0.0.0 cp.360.cn
+0.0.0.0 s0.cp.360.cn
 0.0.0.0 crm.360.cn
 0.0.0.0 api.crm.360.cn
 0.0.0.0 kf.crm.360.cn
@@ -245,8 +252,10 @@
 0.0.0.0 daikuan.360.cn
 0.0.0.0 cafe-front.daikuan.360.cn
 0.0.0.0 cdn.daikuan.360.cn
+0.0.0.0 csps.daikuan.360.cn
 0.0.0.0 dss.daikuan.360.cn
 0.0.0.0 ele.daikuan.360.cn
+0.0.0.0 m.daikuan.360.cn
 0.0.0.0 mcp.daikuan.360.cn
 0.0.0.0 mktmain.daikuan.360.cn
 0.0.0.0 mms.daikuan.360.cn
@@ -454,6 +463,8 @@
 0.0.0.0 next.test.gamebox.360.cn
 0.0.0.0 geelib.360.cn
 0.0.0.0 go.360.cn
+0.0.0.0 m.go.360.cn
+0.0.0.0 m-b.go.360.cn
 0.0.0.0 gongxiangyun.360.cn
 0.0.0.0 account-api.gongxiangyun.360.cn
 0.0.0.0 fog.gongxiangyun.360.cn
@@ -467,6 +478,10 @@
 0.0.0.0 reg.hao.360.cn
 0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 xiaohua.hao.360.cn
+0.0.0.0 d.xiaohua.hao.360.cn
+0.0.0.0 d-b.xiaohua.hao.360.cn
+0.0.0.0 se.xiaohua.hao.360.cn
+0.0.0.0 se-b.xiaohua.hao.360.cn
 0.0.0.0 haomashensu.360.cn
 0.0.0.0 care.help.360.cn
 0.0.0.0 ms.urm.help.360.cn
@@ -632,6 +647,7 @@
 0.0.0.0 scode.luyou.360.cn
 0.0.0.0 api.taozhuang.luyou.360.cn
 0.0.0.0 upgrade.luyou.360.cn
+0.0.0.0 wxmsg.luyou.360.cn
 0.0.0.0 ykapi.luyou.360.cn
 0.0.0.0 test.ykapi.luyou.360.cn
 0.0.0.0 luyouw.360.cn
@@ -5849,6 +5865,7 @@
 0.0.0.0 hbs.qualtrics.com
 0.0.0.0 hbslkhykcrgcoivdv.qualtrics.com
 0.0.0.0 hc1covid19.qualtrics.com
+0.0.0.0 hcf.qualtrics.com
 0.0.0.0 hci.qualtrics.com
 0.0.0.0 hdsupply.qualtrics.com
 0.0.0.0 healthcare.qualtrics.com
@@ -6780,6 +6797,7 @@
 0.0.0.0 zn42ql0wt8obdtfy5-ebaycs.siteintercept.qualtrics.com
 0.0.0.0 zn42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 0.0.0.0 zn43febpplzacr5kl-uhaul.siteintercept.qualtrics.com
+0.0.0.0 zn43mknab4wc6kqfj-lastminutecom.siteintercept.qualtrics.com
 0.0.0.0 zn43pkehril6w8dft-delawarenorth.siteintercept.qualtrics.com
 0.0.0.0 zn4h4qcnzcwt6rng9-globalknowledge.siteintercept.qualtrics.com
 0.0.0.0 zn4h58wl6azlhc5h3-cbs.siteintercept.qualtrics.com
@@ -7206,6 +7224,7 @@
 0.0.0.0 zncxpigrgvhojwtib-firstmidwest.siteintercept.qualtrics.com
 0.0.0.0 zncxv2imuzbbcqj3v-metro.siteintercept.qualtrics.com
 0.0.0.0 zncylzuczeq15wxvp-mailchimp.siteintercept.qualtrics.com
+0.0.0.0 zncyorx0fyxgcrlnn-navistar.siteintercept.qualtrics.com
 0.0.0.0 znczmeihu4g9mgthz-arkema.siteintercept.qualtrics.com
 0.0.0.0 znczq7eyghxqqqhor-caleres.siteintercept.qualtrics.com
 0.0.0.0 znczt0pqysvzwnawf-kingspan.siteintercept.qualtrics.com
@@ -10320,6 +10339,9 @@
 0.0.0.0 amzn.to
 0.0.0.0 www.amzn.to
 0.0.0.0 tawk.to
+0.0.0.0 asa13.tawk.to
+0.0.0.0 asa3.tawk.to
+0.0.0.0 asa8.tawk.to
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb10.tawk.to
 0.0.0.0 asb11.tawk.to
