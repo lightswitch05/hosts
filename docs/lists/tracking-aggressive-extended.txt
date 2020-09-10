@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-09-10T01:05:12+00:00
-# Count: 10941 domains
+# Released: 2020-09-10T13:05:12+00:00
+# Count: 10940 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -489,7 +489,6 @@
 0.0.0.0 next.test.gamebox.360.cn
 0.0.0.0 geelib.360.cn
 0.0.0.0 go.360.cn
-0.0.0.0 m.go.360.cn
 0.0.0.0 m-b.go.360.cn
 0.0.0.0 gongxiangyun.360.cn
 0.0.0.0 account-api.gongxiangyun.360.cn
@@ -504,10 +503,6 @@
 0.0.0.0 reg.hao.360.cn
 0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 xiaohua.hao.360.cn
-0.0.0.0 d.xiaohua.hao.360.cn
-0.0.0.0 d-b.xiaohua.hao.360.cn
-0.0.0.0 se.xiaohua.hao.360.cn
-0.0.0.0 se-b.xiaohua.hao.360.cn
 0.0.0.0 haomashensu.360.cn
 0.0.0.0 care.help.360.cn
 0.0.0.0 ms.urm.help.360.cn
@@ -2888,7 +2883,9 @@
 0.0.0.0 ra2-il.gigya.com
 0.0.0.0 ra3-il.gigya.com
 0.0.0.0 reports.gigya.com
+0.0.0.0 ru1.gigya.com
 0.0.0.0 accounts.ru1.gigya.com
+0.0.0.0 cdn.ru1.gigya.com
 0.0.0.0 cdns.ru1.gigya.com
 0.0.0.0 gscounters.ru1.gigya.com
 0.0.0.0 lb.ru1.gigya.com
@@ -7065,6 +7062,7 @@
 0.0.0.0 zn2t6mdnujruus8jh-inc.siteintercept.qualtrics.com
 0.0.0.0 zn2t7odbza4windsb-aexpfeedback.siteintercept.qualtrics.com
 0.0.0.0 zn2txkbvjql6ggjnb-inspire.siteintercept.qualtrics.com
+0.0.0.0 zn37spm9ccmvfv1mv-ameriprisefinancial.siteintercept.qualtrics.com
 0.0.0.0 zn37wxldm5ivjytnl-bankofamerica.siteintercept.qualtrics.com
 0.0.0.0 zn38gzupfezke4elv-anz.siteintercept.qualtrics.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
@@ -7560,6 +7558,7 @@
 0.0.0.0 znczq7eyghxqqqhor-caleres.siteintercept.qualtrics.com
 0.0.0.0 znczt0pqysvzwnawf-kingspan.siteintercept.qualtrics.com
 0.0.0.0 znd0bfdqlqg9ciloh-uber.siteintercept.qualtrics.com
+0.0.0.0 znd0y3ntzchbfavjd-ihg.siteintercept.qualtrics.com
 0.0.0.0 znd3v7rbphouxilfr-rentpath.siteintercept.qualtrics.com
 0.0.0.0 znd4i0otzvhvl8mdz-rogers.siteintercept.qualtrics.com
 0.0.0.0 znd4iaa5ygd7nexul-yoox.siteintercept.qualtrics.com
@@ -9748,6 +9747,7 @@
 0.0.0.0 nexus-long-poller-a.intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 permissions.security.intercom.io
+0.0.0.0 simplerisk.security.intercom.io
 0.0.0.0 shopify.intercom.io
 0.0.0.0 status.intercom.io
 0.0.0.0 trello.intercom.io
@@ -9994,7 +9994,6 @@
 0.0.0.0 ha-jamp.duckdns.org
 0.0.0.0 hazizz.duckdns.org
 0.0.0.0 hazizzapi2.duckdns.org
-0.0.0.0 heinz-pu1.duckdns.org
 0.0.0.0 www.hkdhd.duckdns.org
 0.0.0.0 cpanel.hnksd.duckdns.org
 0.0.0.0 home5912.duckdns.org
