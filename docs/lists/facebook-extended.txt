@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-09-11T13:05:12+00:00
-# Count: 11197 domains
+# Released: 2020-09-12T01:05:12+00:00
+# Count: 11202 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -476,6 +476,8 @@
 0.0.0.0 iorg-fba.c10r.facebook.com
 0.0.0.0 latest.c10r.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
+0.0.0.0 mqtt-ig-p4.c10r.facebook.com
+0.0.0.0 mqtt-latest.c10r.facebook.com
 0.0.0.0 mqtt-mini.c10r.facebook.com
 0.0.0.0 mqtt-p4.c10r.facebook.com
 0.0.0.0 msgr-latest.c10r.facebook.com
@@ -557,6 +559,7 @@
 0.0.0.0 hi-in.cinyour.facebook.com
 0.0.0.0 infeccionesporhongoslibro.cinyour.facebook.com
 0.0.0.0 it-it.cinyour.facebook.com
+0.0.0.0 ja-jp.cinyour.facebook.com
 0.0.0.0 ko-kr.cinyour.facebook.com
 0.0.0.0 korona.cinyour.facebook.com
 0.0.0.0 l.cinyour.facebook.com
@@ -898,6 +901,7 @@
 0.0.0.0 edge-mqtt-shv-01-yyz1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-bom1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
+0.0.0.0 edge-msgr-latest-shv-01-kut2.facebook.com
 0.0.0.0 edge-mws-l-shv-01-xsp1.facebook.com
 0.0.0.0 edge-mws-l-shv-02-sin6.facebook.com
 0.0.0.0 edge-mws-shv-01-frt3.facebook.com
@@ -4303,6 +4307,7 @@
 0.0.0.0 shadow.facebook.com
 0.0.0.0 shortwave.facebook.com
 0.0.0.0 ws.shortwave.facebook.com
+0.0.0.0 sitel.facebook.com
 0.0.0.0 sk-sk.facebook.com
 0.0.0.0 sl-si.facebook.com
 0.0.0.0 slalom.facebook.com
