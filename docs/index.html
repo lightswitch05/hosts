@@ -3,11 +3,22 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Hostfile blocklist for ads and tracking</title>
-    <meta name="description" content="Hostfile blocklist for ads and tracking">
+    <title>Developer Dan's Hosts</title>
+    <meta name="description" content="Hosts formatted blocklist to block various things like ads and internet trackers.">
     <link rel="stylesheet" href="index.css">
     <meta name="viewport" content="width=device-width">
     <link rel="icon" href="favicon.ico">
+
+    <meta property="og:title" content="Developer Dan's Hosts" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.github.developerdan.com/hosts/">
+    <meta property="og:image" content="https://www.github.developerdan.com/hosts/logo.png" />
+    <meta property="og:image:secure_url" content="https://www.github.developerdan.com/hosts/logo.png">
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="640" />
+    <meta property="og:image:alt" content="Developer Dan's Hosts Logo" />
+    <meta property="og:description" content="Hosts formatted blocklist to block various things like ads and internet trackers.">
 </head>
 
 <body>
@@ -18,6 +29,7 @@
             </a>
             Hosts: <small><a href="https://github.com/lightswitch05/hosts" >Source on Github</a></small>
         </h1>
+        <img class="logo" src="logo.png" alt="Hosts Logo">
         <p>
             <a href="https://github.com/lightswitch05/hosts">
                 <img alt="Github Stars" src="https://img.shields.io/github/stars/lightswitch05/hosts" style="max-width:100%;">
@@ -44,6 +56,7 @@
             Also, if you find an unblocked subdomain of a blocked root domain, please let me know so I can add it to a list.
         </p>
 
+        <h1>Lists</h1>
         <section>
             <h2>
                 <a href="lists/ads-and-tracking-extended.txt">Ads &amp; Tracking:</a>
@@ -86,6 +99,34 @@
             <p>
                 A hosts file to block all Facebook and Facebook related services, including Messenger, Instagram, and WhatsApp.
                 This list was last updated on <span id="facebook-extended-date">October 01, 2020</span>.
+            </p>
+        </section>
+
+        <h1>Common Issues</h1>
+        <section>
+            <h2>
+                Google Fonts
+            </h2>
+            <p>
+                <strong>I do not block</strong> <code>fonts.gstatic.com</code>. However, I do block <code>gstaticadssl.l.google.com</code>.
+                If you are using the Ads & Tracking list and are having issues with <code>fonts.gstatic.com</code>,
+                then you might be using a blocker that blocks based on CNAME. Depending on your blocking tool,
+                you might want to whitelist <code>fonts.gstatic.com</code> to prevent it from getting blocked by <code>gstaticadssl.l.google.com</code> CNAME.
+
+                See: <a href="https://github.com/lightswitch05/hosts/issues/197">#197</a>,
+                     <a href="https://github.com/lightswitch05/hosts/issues/136">#136</a>,
+                     <a href="https://github.com/lightswitch05/hosts/issues/213">#213</a>
+            </p>
+        </section>
+        <section>
+            <h2>
+                Xbox Live Achievements
+            </h2>
+            <p>
+                Turns out Xbox Live Achievements is using a common Microsoft tracking server.
+                If you are using the Ads & Tracking list and want to continue getting Xbox Live Achievements,
+                then you might need to whitelist a couple domains. Since I do not have an Xbox, I can't really help you with that,
+                but please see <a href="https://github.com/lightswitch05/hosts/issues/161">#161</a> for details.
             </p>
         </section>
     </main>
