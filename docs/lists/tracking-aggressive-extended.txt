@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-10-06T13:05:13+00:00
-# Count: 11463 domains
+# Released: 2020-10-07T13:05:13+00:00
+# Count: 11484 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -7710,6 +7710,7 @@
 0.0.0.0 zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
 0.0.0.0 zndj4uasdhqp1srdx-carsales.siteintercept.qualtrics.com
 0.0.0.0 zndmp7hs1p0bgook1-supportspotify.siteintercept.qualtrics.com
+0.0.0.0 zndmrwwvrabnmgcmr-tvnz.siteintercept.qualtrics.com
 0.0.0.0 zndngyl9iylkrfwlf-fluke.siteintercept.qualtrics.com
 0.0.0.0 zndny5kzzodhwywuh-flyscoot.siteintercept.qualtrics.com
 0.0.0.0 zndohht6xbshxrzdf-digikey.siteintercept.qualtrics.com
@@ -8789,10 +8790,12 @@
 0.0.0.0 backend.vk.com
 0.0.0.0 0-amadeus.bvdinfo.com.biblio.vk.com
 0.0.0.0 bost.vk.com
+0.0.0.0 bpc.vk.com
 0.0.0.0 browser.vk.com
 0.0.0.0 calls.vk.com
 0.0.0.0 cc.vk.com
 0.0.0.0 quarantine.cc.vk.com
+0.0.0.0 cdn-ads.vk.com
 0.0.0.0 check.vk.com
 0.0.0.0 clicks.vk.com
 0.0.0.0 collamask.vk.com
@@ -8847,6 +8850,7 @@
 0.0.0.0 ing.sakeena.cs304111.vk.com
 0.0.0.0 lenta.ap108.cs304112.vk.com
 0.0.0.0 cs305300.vk.com
+0.0.0.0 cs305605.vk.com
 0.0.0.0 cs305608.vk.com
 0.0.0.0 policy.query.cs316931.vk.com
 0.0.0.0 cs323817.vk.com
@@ -8865,6 +8869,8 @@
 0.0.0.0 cs4422.vk.com
 0.0.0.0 cs4423.vk.com
 0.0.0.0 cs4441.vk.com
+0.0.0.0 cs4473.vk.com
+0.0.0.0 cs4479.vk.com
 0.0.0.0 cs4700.vk.com
 0.0.0.0 cs508407.vk.com
 0.0.0.0 cs509605.vk.com
@@ -8880,8 +8886,10 @@
 0.0.0.0 cs543509.vk.com
 0.0.0.0 cs543603.vk.com
 0.0.0.0 cs5447.vk.com
+0.0.0.0 cs5472.vk.com
 0.0.0.0 cs5475.vk.com
 0.0.0.0 cs5533.vk.com
+0.0.0.0 cs5744.vk.com
 0.0.0.0 cs5840.vk.com
 0.0.0.0 cs5903.vk.com
 0.0.0.0 cs5920.vk.com
@@ -9154,6 +9162,8 @@
 0.0.0.0 search.vk.com
 0.0.0.0 security.vk.com
 0.0.0.0 sept.vk.com
+0.0.0.0 shutdown.vk.com
+0.0.0.0 sklep.vk.com
 0.0.0.0 0-stnweb.cas.org.skyline.vk.com
 0.0.0.0 smokingmask.vk.com
 0.0.0.0 smtp.vk.com
@@ -9173,7 +9183,9 @@
 0.0.0.0 srv140-129-240-87.vk.com
 0.0.0.0 srv142-185-240-87.vk.com
 0.0.0.0 srv146-185-240-87.vk.com
+0.0.0.0 srv15-116-213-95.vk.com
 0.0.0.0 srv157-185-240-87.vk.com
+0.0.0.0 srv157-189-240-87.vk.com
 0.0.0.0 srv158-137-240-87.vk.com
 0.0.0.0 srv16-132-240-87.vk.com
 0.0.0.0 srv160-185-240-87.vk.com
@@ -9195,12 +9207,16 @@
 0.0.0.0 www.srv194-139-240-87.vk.com
 0.0.0.0 srv206-137-240-87.vk.com
 0.0.0.0 srv207-137-240-87.vk.com
+0.0.0.0 srv207-228-186-93.vk.com
 0.0.0.0 srv208-137-240-87.vk.com
+0.0.0.0 srv218-0-213-95.vk.com
+0.0.0.0 srv220-151-240-87.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
 0.0.0.0 srv233-185-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
 0.0.0.0 srv3-6-213-95.vk.com
+0.0.0.0 srv41-129-240-87.vk.com
 0.0.0.0 srv66-139-137-79.vk.com
 0.0.0.0 srv67-190-240-87.vk.com
 0.0.0.0 ftp.srv67-190-240-87.vk.com
@@ -10782,6 +10798,7 @@
 0.0.0.0 www.gomoxie.solutions
 0.0.0.0 ada.support
 0.0.0.0 2.ada.support
+0.0.0.0 23andme.ada.support
 0.0.0.0 2fwww.ada.support
 0.0.0.0 500px.ada.support
 0.0.0.0 ada.ada.support
@@ -10831,6 +10848,7 @@
 0.0.0.0 bot.ada.support
 0.0.0.0 boxycharm.ada.support
 0.0.0.0 brcc.ada.support
+0.0.0.0 briana.ada.support
 0.0.0.0 buda.ada.support
 0.0.0.0 ca.ada.support
 0.0.0.0 koodo.ca.ada.support
@@ -10989,6 +11007,7 @@
 0.0.0.0 prometheus.ops.ada.support
 0.0.0.0 tassadar.ops.ada.support
 0.0.0.0 vpn.ops.ada.support
+0.0.0.0 pango.ada.support
 0.0.0.0 powerschool.ada.support
 0.0.0.0 previews.ada.support
 0.0.0.0 pricesmart.ada.support
@@ -11009,6 +11028,7 @@
 0.0.0.0 seminolecounty.ada.support
 0.0.0.0 shapermint.ada.support
 0.0.0.0 shopback.ada.support
+0.0.0.0 smartvault.ada.support
 0.0.0.0 snowglobe.ada.support
 0.0.0.0 sodexonet.ada.support
 0.0.0.0 soundrop.ada.support
@@ -11064,6 +11084,7 @@
 0.0.0.0 amzn.to
 0.0.0.0 www.amzn.to
 0.0.0.0 tawk.to
+0.0.0.0 as.tawk.to
 0.0.0.0 asa1.tawk.to
 0.0.0.0 asa10.tawk.to
 0.0.0.0 asa11.tawk.to
