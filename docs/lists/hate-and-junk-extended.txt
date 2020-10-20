@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2020-10-17T01:05:13+00:00
-# Count: 438 domains
+# Released: 2020-10-20T01:05:14+00:00
+# Count: 574 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -20,6 +20,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+0.0.0.0 qalerts.app
+0.0.0.0 autodiscover.qalerts.app
+0.0.0.0 cdn.qalerts.app
+0.0.0.0 cpanel.qalerts.app
+0.0.0.0 mail.qalerts.app
+0.0.0.0 new.qalerts.app
+0.0.0.0 shop.qalerts.app
+0.0.0.0 webdisk.qalerts.app
+0.0.0.0 webmail.qalerts.app
+0.0.0.0 www.qalerts.app
 0.0.0.0 siegeculture.biz
 0.0.0.0 cpanel.siegeculture.biz
 0.0.0.0 forums.siegeculture.biz
@@ -31,6 +41,13 @@
 0.0.0.0 ww31.siegeculture.biz
 0.0.0.0 ww38.siegeculture.biz
 0.0.0.0 www.siegeculture.biz
+0.0.0.0 alexjonesvideos.com
+0.0.0.0 cpanel.alexjonesvideos.com
+0.0.0.0 cpcontacts.alexjonesvideos.com
+0.0.0.0 mail.alexjonesvideos.com
+0.0.0.0 webdisk.alexjonesvideos.com
+0.0.0.0 webmail.alexjonesvideos.com
+0.0.0.0 www.alexjonesvideos.com
 0.0.0.0 www.americanmovment.com
 0.0.0.0 americannaziparty.com
 0.0.0.0 webmail.americannaziparty.com
@@ -117,6 +134,105 @@
 0.0.0.0 mercury.identityevropa.com
 0.0.0.0 wp.identityevropa.com
 0.0.0.0 www.identityevropa.com
+0.0.0.0 infowars.com
+0.0.0.0 stream.a.infowars.com
+0.0.0.0 stream-aac.a.infowars.com
+0.0.0.0 stream-aac-eu.a.infowars.com
+0.0.0.0 stream-aac-us.a.infowars.com
+0.0.0.0 stream-mp3.a.infowars.com
+0.0.0.0 stream-mp3-eu.a.infowars.com
+0.0.0.0 stream-mp3-us.a.infowars.com
+0.0.0.0 api.infowars.com
+0.0.0.0 api-assets.infowars.com
+0.0.0.0 war.app.infowars.com
+0.0.0.0 cdn.war.app.infowars.com
+0.0.0.0 app-api.infowars.com
+0.0.0.0 app-api-staging.infowars.com
+0.0.0.0 archives.infowars.com
+0.0.0.0 assets.infowars.com
+0.0.0.0 auth.infowars.com
+0.0.0.0 rss.b.infowars.com
+0.0.0.0 beta.infowars.com
+0.0.0.0 bigmedia1.infowars.com
+0.0.0.0 cache-a.infowars.com
+0.0.0.0 content1.infowars.com
+0.0.0.0 core.infowars.com
+0.0.0.0 cuda.infowars.com
+0.0.0.0 cs-web.dev.infowars.com
+0.0.0.0 devtest.infowars.com
+0.0.0.0 www.devtest.infowars.com
+0.0.0.0 dumbdems.infowars.com
+0.0.0.0 email.infowars.com
+0.0.0.0 europe.infowars.com
+0.0.0.0 fauci.infowars.com
+0.0.0.0 ghost.infowars.com
+0.0.0.0 helpdesk.infowars.com
+0.0.0.0 httpstream.infowars.com
+0.0.0.0 hw.infowars.com
+0.0.0.0 infowarrior.infowars.com
+0.0.0.0 lists.infowars.com
+0.0.0.0 mail.infowars.com
+0.0.0.0 mb.infowars.com
+0.0.0.0 media.infowars.com
+0.0.0.0 media-staging.infowars.com
+0.0.0.0 mobile.infowars.com
+0.0.0.0 new.infowars.com
+0.0.0.0 ns1.infowars.com
+0.0.0.0 ns3.infowars.com
+0.0.0.0 paulrevere.infowars.com
+0.0.0.0 planet.infowars.com
+0.0.0.0 origin.planet.infowars.com
+0.0.0.0 www.planet.infowars.com
+0.0.0.0 podcast.infowars.com
+0.0.0.0 pravda.infowars.com
+0.0.0.0 prod.infowars.com
+0.0.0.0 purge.infowars.com
+0.0.0.0 push.infowars.com
+0.0.0.0 rotate.infowars.com
+0.0.0.0 rss.infowars.com
+0.0.0.0 shop.infowars.com
+0.0.0.0 rss.show.infowars.com
+0.0.0.0 staging.infowars.com
+0.0.0.0 cs-web.staging.infowars.com
+0.0.0.0 staging-2.infowars.com
+0.0.0.0 staging-vod-api.infowars.com
+0.0.0.0 stagingtest.infowars.com
+0.0.0.0 static.infowars.com
+0.0.0.0 stcf.infowars.com
+0.0.0.0 locust.us-east-2.stcf.infowars.com
+0.0.0.0 locust.us-west-2.stcf.infowars.com
+0.0.0.0 store.infowars.com
+0.0.0.0 enews.store.infowars.com
+0.0.0.0 stream.infowars.com
+0.0.0.0 stream-16k.infowars.com
+0.0.0.0 stream-aac.infowars.com
+0.0.0.0 stream-aac-eu.infowars.com
+0.0.0.0 stream-aac-us.infowars.com
+0.0.0.0 stream-mp3.infowars.com
+0.0.0.0 stream-mp3-eu.infowars.com
+0.0.0.0 stream-mp3-us.infowars.com
+0.0.0.0 stream-v2.infowars.com
+0.0.0.0 stream1.infowars.com
+0.0.0.0 streams.infowars.com
+0.0.0.0 talk.infowars.com
+0.0.0.0 tv.infowars.com
+0.0.0.0 tvassets.infowars.com
+0.0.0.0 varnish.us-east-1.infowars.com
+0.0.0.0 varnish.us-west-1.infowars.com
+0.0.0.0 tv.us-west-1c.infowars.com
+0.0.0.0 video.infowars.com
+0.0.0.0 vod-api.infowars.com
+0.0.0.0 vpn.infowars.com
+0.0.0.0 ftp.web.infowars.com
+0.0.0.0 web-dump.infowars.com
+0.0.0.0 www.infowars.com
+0.0.0.0 xml.infowars.com
+0.0.0.0 yes.infowars.com
+0.0.0.0 infowarsshop.com
+0.0.0.0 www.infowarsshop.com
+0.0.0.0 infowarsstore.com
+0.0.0.0 media.infowarsstore.com
+0.0.0.0 www.infowarsstore.com
 0.0.0.0 joyinliberty.com
 0.0.0.0 mail.joyinliberty.com
 0.0.0.0 ns1.joyinliberty.com
@@ -144,6 +260,17 @@
 0.0.0.0 www.national-justice.com
 0.0.0.0 officialproudboys.com
 0.0.0.0 www.officialproudboys.com
+0.0.0.0 prisonplanet.com
+0.0.0.0 dev.prisonplanet.com
+0.0.0.0 forum.prisonplanet.com
+0.0.0.0 forumimages.prisonplanet.com
+0.0.0.0 hw.prisonplanet.com
+0.0.0.0 mail.prisonplanet.com
+0.0.0.0 ns4.prisonplanet.com
+0.0.0.0 staging.prisonplanet.com
+0.0.0.0 static.prisonplanet.com
+0.0.0.0 varnish.prisonplanet.com
+0.0.0.0 www.prisonplanet.com
 0.0.0.0 proudboysusa.com
 0.0.0.0 www.proudboysusa.com
 0.0.0.0 qanon-news.com
@@ -188,6 +315,7 @@
 0.0.0.0 webdisk.thefreedomarticles.com
 0.0.0.0 webmail.thefreedomarticles.com
 0.0.0.0 www.thefreedomarticles.com
+0.0.0.0 theqanon.com
 0.0.0.0 theqanons.com
 0.0.0.0 www.theqanons.com
 0.0.0.0 thinkqanon.com
@@ -223,6 +351,12 @@
 0.0.0.0 theqpatriothub.weebly.com
 0.0.0.0 qanon41020.wordpress.com
 0.0.0.0 www.qanon41020.wordpress.com
+0.0.0.0 qanonnederland.wordpress.com
+0.0.0.0 www.qanonnederland.wordpress.com
+0.0.0.0 qanon.fun
+0.0.0.0 www.qanon.fun
+0.0.0.0 12160.info
+0.0.0.0 www.12160.info
 0.0.0.0 nationalpolicy.institute
 0.0.0.0 cpanel.nationalpolicy.institute
 0.0.0.0 webdisk.nationalpolicy.institute
@@ -296,6 +430,8 @@
 0.0.0.0 rs-stripe.forbiddenknowledgetv.net
 0.0.0.0 www.forbiddenknowledgetv.net
 0.0.0.0 qanon.news
+0.0.0.0 qposts.online
+0.0.0.0 www.qposts.online
 0.0.0.0 911truth.org
 0.0.0.0 autodiscover.911truth.org
 0.0.0.0 mail.911truth.org
