@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-10-31T13:05:13+00:00
-# Count: 12959 domains
+# Released: 2020-11-01T01:05:13+00:00
+# Count: 12976 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -196,7 +196,6 @@
 0.0.0.0 baoku.360.cn
 0.0.0.0 bbs.360.cn
 0.0.0.0 faq.admin2.bbs.360.cn
-0.0.0.0 bcscan.360.cn
 0.0.0.0 bcsec.360.cn
 0.0.0.0 bizhi.360.cn
 0.0.0.0 blockcat.360.cn
@@ -873,7 +872,6 @@
 0.0.0.0 h5.qb.360.cn
 0.0.0.0 th5.qb.360.cn
 0.0.0.0 qingli.360.cn
-0.0.0.0 qingxuan.360.cn
 0.0.0.0 qipai.360.cn
 0.0.0.0 3x.qipai.360.cn
 0.0.0.0 by.qipai.360.cn
@@ -2520,6 +2518,7 @@
 0.0.0.0 1455374-24.chat.api.drift.com
 0.0.0.0 1455790-40.chat.api.drift.com
 0.0.0.0 1456398-48.chat.api.drift.com
+0.0.0.0 1456664-14.chat.api.drift.com
 0.0.0.0 1456754-4.chat.api.drift.com
 0.0.0.0 1457041-41.chat.api.drift.com
 0.0.0.0 1457116-16.chat.api.drift.com
@@ -2593,6 +2592,7 @@
 0.0.0.0 3532-32.chat.api.drift.com
 0.0.0.0 35370-20.chat.api.drift.com
 0.0.0.0 36175-25.chat.api.drift.com
+0.0.0.0 36523-23.chat.api.drift.com
 0.0.0.0 36948-48.chat.api.drift.com
 0.0.0.0 36981-31.chat.api.drift.com
 0.0.0.0 37212-12.chat.api.drift.com
@@ -3319,7 +3319,15 @@
 0.0.0.0 ba3.mta.exacttarget.com
 0.0.0.0 ba54.mta.exacttarget.com
 0.0.0.0 bd55.mta.exacttarget.com
+0.0.0.0 bg152.mta.exacttarget.com
+0.0.0.0 bg238.mta.exacttarget.com
+0.0.0.0 bh184.mta.exacttarget.com
+0.0.0.0 bh251.mta.exacttarget.com
+0.0.0.0 bk147.mta.exacttarget.com
+0.0.0.0 bk165.mta.exacttarget.com
 0.0.0.0 bk190.mta.exacttarget.com
+0.0.0.0 bl193.mta.exacttarget.com
+0.0.0.0 bm185.mta.exacttarget.com
 0.0.0.0 br33.mta.exacttarget.com
 0.0.0.0 br35.mta.exacttarget.com
 0.0.0.0 cc14.mta.exacttarget.com
@@ -4903,6 +4911,9 @@
 0.0.0.0 ct255.dsr.livefyre.com
 0.0.0.0 ct257.dsr.livefyre.com
 0.0.0.0 ct258.dsr.livefyre.com
+0.0.0.0 lc100.dsr.livefyre.com
+0.0.0.0 lc101.dsr.livefyre.com
+0.0.0.0 lc102.dsr.livefyre.com
 0.0.0.0 lc84.dsr.livefyre.com
 0.0.0.0 lc85.dsr.livefyre.com
 0.0.0.0 lc86.dsr.livefyre.com
@@ -5186,6 +5197,7 @@
 0.0.0.0 303-events.olark.com
 0.0.0.0 304-events.olark.com
 0.0.0.0 400-events.olark.com
+0.0.0.0 402-events.olark.com
 0.0.0.0 432-async.olark.com
 0.0.0.0 460-events.olark.com
 0.0.0.0 48-events.olark.com
@@ -7420,6 +7432,7 @@
 0.0.0.0 psicologiaunimib.eu.qualtrics.com
 0.0.0.0 pwccc.eu.qualtrics.com
 0.0.0.0 qcorpeu.eu.qualtrics.com
+0.0.0.0 www.qcorpeu.eu.qualtrics.com
 0.0.0.0 qeurope.eu.qualtrics.com
 0.0.0.0 qunia55n0u9dh91t.eu.qualtrics.com
 0.0.0.0 rbi.eu.qualtrics.com
@@ -9085,6 +9098,7 @@
 0.0.0.0 zncvomiueeqmfxynn-tracfone.siteintercept.qualtrics.com
 0.0.0.0 zncvsbqkosp9nnubv-nar.siteintercept.qualtrics.com
 0.0.0.0 zncvwzq01bdkk1bu1-expediainc.siteintercept.qualtrics.com
+0.0.0.0 zncw5avjorhv76cwp-zillow.siteintercept.qualtrics.com
 0.0.0.0 zncwhb0dbf4jm4zrr-payoneer.siteintercept.qualtrics.com
 0.0.0.0 zncxpigrgvhojwtib-firstmidwest.siteintercept.qualtrics.com
 0.0.0.0 zncxv2imuzbbcqj3v-metro.siteintercept.qualtrics.com
@@ -11047,6 +11061,7 @@
 0.0.0.0 eriojnh3-ios.mobile-sdk-api.intercom.io
 0.0.0.0 ersi79xv-android.mobile-sdk-api.intercom.io
 0.0.0.0 etsbuhz4-ios.mobile-sdk-api.intercom.io
+0.0.0.0 europewestzyggvuts-android-1-5.mobile-sdk-api.intercom.io
 0.0.0.0 eveani71-android.mobile-sdk-api.intercom.io
 0.0.0.0 ewo7x2za-android.mobile-sdk-api.intercom.io
 0.0.0.0 ex1puooi-android.mobile-sdk-api.intercom.io
@@ -11122,6 +11137,7 @@
 0.0.0.0 k2d765xf-android-1-0.mobile-sdk-api.intercom.io
 0.0.0.0 k2d765xf-ios.mobile-sdk-api.intercom.io
 0.0.0.0 k6ucpbz7-android.mobile-sdk-api.intercom.io
+0.0.0.0 kd3maooe-ios.mobile-sdk-api.intercom.io
 0.0.0.0 kh187l1y-android.mobile-sdk-api.intercom.io
 0.0.0.0 kh187l1y-ios.mobile-sdk-api.intercom.io
 0.0.0.0 kh9snjgb-android.mobile-sdk-api.intercom.io
@@ -11213,6 +11229,7 @@
 0.0.0.0 q2syclro-android.mobile-sdk-api.intercom.io
 0.0.0.0 qeney5t3-android.mobile-sdk-api.intercom.io
 0.0.0.0 qfj1mcik-android.mobile-sdk-api.intercom.io
+0.0.0.0 qfj1mcik-ios.mobile-sdk-api.intercom.io
 0.0.0.0 qgudsigi-android.mobile-sdk-api.intercom.io
 0.0.0.0 qimcl7t1-android.mobile-sdk-api.intercom.io
 0.0.0.0 ql1doqxg-android.mobile-sdk-api.intercom.io
