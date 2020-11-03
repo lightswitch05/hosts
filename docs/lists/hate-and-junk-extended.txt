@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2020-10-31T13:05:13+00:00
-# Count: 764 domains
+# Released: 2020-11-03T13:05:14+00:00
+# Count: 751 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -21,12 +21,6 @@
 # limitations under the License.
 
 0.0.0.0 qalerts.app
-0.0.0.0 autodiscover.qalerts.app
-0.0.0.0 cpanel.qalerts.app
-0.0.0.0 mail.qalerts.app
-0.0.0.0 new.qalerts.app
-0.0.0.0 webdisk.qalerts.app
-0.0.0.0 webmail.qalerts.app
 0.0.0.0 www.qalerts.app
 0.0.0.0 qanon.app
 0.0.0.0 www.qanon.app
@@ -185,11 +179,9 @@
 0.0.0.0 cs-web.dev.infowars.com
 0.0.0.0 devtest.infowars.com
 0.0.0.0 www.devtest.infowars.com
-0.0.0.0 dumbdems.infowars.com
 0.0.0.0 email.infowars.com
 0.0.0.0 europe.infowars.com
 0.0.0.0 fauci.infowars.com
-0.0.0.0 ghost.infowars.com
 0.0.0.0 helpdesk.infowars.com
 0.0.0.0 httpstream.infowars.com
 0.0.0.0 hw.infowars.com
@@ -205,14 +197,11 @@
 0.0.0.0 ns3.infowars.com
 0.0.0.0 paulrevere.infowars.com
 0.0.0.0 planet.infowars.com
-0.0.0.0 origin.planet.infowars.com
-0.0.0.0 www.planet.infowars.com
 0.0.0.0 podcast.infowars.com
 0.0.0.0 pravda.infowars.com
 0.0.0.0 prod.infowars.com
 0.0.0.0 purge.infowars.com
 0.0.0.0 push.infowars.com
-0.0.0.0 rotate.infowars.com
 0.0.0.0 rss.infowars.com
 0.0.0.0 shop.infowars.com
 0.0.0.0 rss.show.infowars.com
@@ -226,7 +215,6 @@
 0.0.0.0 locust.us-east-2.stcf.infowars.com
 0.0.0.0 locust.us-west-2.stcf.infowars.com
 0.0.0.0 store.infowars.com
-0.0.0.0 enews.store.infowars.com
 0.0.0.0 stream.infowars.com
 0.0.0.0 stream-16k.infowars.com
 0.0.0.0 stream-aac.infowars.com
@@ -314,7 +302,6 @@
 0.0.0.0 forum.prisonplanet.com
 0.0.0.0 forumimages.prisonplanet.com
 0.0.0.0 hw.prisonplanet.com
-0.0.0.0 mail.prisonplanet.com
 0.0.0.0 ns4.prisonplanet.com
 0.0.0.0 staging.prisonplanet.com
 0.0.0.0 static.prisonplanet.com
