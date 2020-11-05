@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-05T01:05:14+00:00
-# Count: 13059 domains
+# Released: 2020-11-05T13:05:14+00:00
+# Count: 13071 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -874,7 +874,6 @@
 0.0.0.0 qipai.360.cn
 0.0.0.0 3x.qipai.360.cn
 0.0.0.0 by.qipai.360.cn
-0.0.0.0 by-b.qipai.360.cn
 0.0.0.0 ddz.qipai.360.cn
 0.0.0.0 fknz.qipai.360.cn
 0.0.0.0 hlmj.qipai.360.cn
@@ -10620,6 +10619,7 @@
 0.0.0.0 ocygds.vk.com
 0.0.0.0 ofhvyn.vk.com
 0.0.0.0 ogin.vk.com
+0.0.0.0 olsyar.vk.com
 0.0.0.0 ouath.vk.com
 0.0.0.0 outch.vk.com
 0.0.0.0 oyecwj.vk.com
@@ -11003,6 +11003,7 @@
 0.0.0.0 demo.intercom.io
 0.0.0.0 www.demo.intercom.io
 0.0.0.0 demos.intercom.io
+0.0.0.0 www.demos.intercom.io
 0.0.0.0 developers.intercom.io
 0.0.0.0 docs.intercom.io
 0.0.0.0 engineering.intercom.io
@@ -11145,6 +11146,7 @@
 0.0.0.0 exysppe9-android-1-1-4.mobile-sdk-api.intercom.io
 0.0.0.0 f32qynci-android.mobile-sdk-api.intercom.io
 0.0.0.0 f32qynci-ios.mobile-sdk-api.intercom.io
+0.0.0.0 quarantine.f32qynci-ios.mobile-sdk-api.intercom.io
 0.0.0.0 f476zbvw-android.mobile-sdk-api.intercom.io
 0.0.0.0 f806782r-android.mobile-sdk-api.intercom.io
 0.0.0.0 fahwgnn3-ios.mobile-sdk-api.intercom.io
@@ -11408,6 +11410,7 @@
 0.0.0.0 vqqoqx9e-android.mobile-sdk-api.intercom.io
 0.0.0.0 vqygxmn2-android.mobile-sdk-api.intercom.io
 0.0.0.0 vr192m8o-android.mobile-sdk-api.intercom.io
+0.0.0.0 vr192m8o-ios.mobile-sdk-api.intercom.io
 0.0.0.0 vtgn3zlz-android.mobile-sdk-api.intercom.io
 0.0.0.0 vtyscak2-android.mobile-sdk-api.intercom.io
 0.0.0.0 vuhbg7xg-android.mobile-sdk-api.intercom.io
@@ -12538,9 +12541,11 @@
 0.0.0.0 enricher.svc.att.ada.support
 0.0.0.0 sdf-proxy.svc.att.ada.support
 0.0.0.0 ultra-proxy.svc.att.ada.support
+0.0.0.0 baiduribank.ada.support
 0.0.0.0 balsam.ada.support
 0.0.0.0 balsam-uk.ada.support
 0.0.0.0 bankin-fr.ada.support
+0.0.0.0 bark.ada.support
 0.0.0.0 baycountytax.ada.support
 0.0.0.0 betsafe.ada.support
 0.0.0.0 bitso.ada.support
@@ -12610,6 +12615,7 @@
 0.0.0.0 crepeerase.ada.support
 0.0.0.0 cricket.ada.support
 0.0.0.0 cricket-sales.ada.support
+0.0.0.0 cricut.ada.support
 0.0.0.0 crunchbase.ada.support
 0.0.0.0 cyberghost.ada.support
 0.0.0.0 digicel.ada.support
@@ -12629,6 +12635,7 @@
 0.0.0.0 emma-sleep-fr.ada.support
 0.0.0.0 emma-sleep-nl.ada.support
 0.0.0.0 ficanex.ada.support
+0.0.0.0 kscu.ficanex.ada.support
 0.0.0.0 airflow.ops.ficanex.ada.support
 0.0.0.0 alertmanager.ops.ficanex.ada.support
 0.0.0.0 grafana.ops.ficanex.ada.support
@@ -12637,6 +12644,7 @@
 0.0.0.0 kuberos.ops.ficanex.ada.support
 0.0.0.0 oauth2.ops.ficanex.ada.support
 0.0.0.0 prometheus.ops.ficanex.ada.support
+0.0.0.0 rollout.ficanex.ada.support
 0.0.0.0 answer-utilities.svc.ficanex.ada.support
 0.0.0.0 ficanex-proxy.svc.ficanex.ada.support
 0.0.0.0 firstrade.ada.support
@@ -12695,6 +12703,8 @@
 0.0.0.0 mpower.ada.support
 0.0.0.0 muse.ada.support
 0.0.0.0 myzone-bot.ada.support
+0.0.0.0 nakedwines.ada.support
+0.0.0.0 neatbot1.ada.support
 0.0.0.0 nordvpn.ada.support
 0.0.0.0 null.ada.support
 0.0.0.0 o.ada.support
@@ -12776,10 +12786,12 @@
 0.0.0.0 ultius-client.ada.support
 0.0.0.0 ultra.ada.support
 0.0.0.0 ultra-esp.ada.support
+0.0.0.0 undefined.ada.support
 0.0.0.0 uplift.ada.support
 0.0.0.0 uplift-tas.ada.support
 0.0.0.0 upwork.ada.support
 0.0.0.0 upwork-community.ada.support
+0.0.0.0 upwork-product.ada.support
 0.0.0.0 usertesting.ada.support
 0.0.0.0 uwhelp.ada.support
 0.0.0.0 vaporfi.ada.support
