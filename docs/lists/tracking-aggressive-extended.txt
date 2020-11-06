@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-06T01:05:13+00:00
-# Count: 13394 domains
+# Released: 2020-11-06T13:05:14+00:00
+# Count: 13409 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -3156,7 +3156,6 @@
 0.0.0.0 global.exacttarget.com
 0.0.0.0 prg-image.global.exacttarget.com
 0.0.0.0 prg-image-dr.global.exacttarget.com
-0.0.0.0 prg-mc.global.exacttarget.com
 0.0.0.0 prg-members.global.exacttarget.com
 0.0.0.0 prg-members-dr.global.exacttarget.com
 0.0.0.0 prg-webservice.global.exacttarget.com
@@ -3541,6 +3540,7 @@
 0.0.0.0 gc87.mta.exacttarget.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
+0.0.0.0 gp79.mta.exacttarget.com
 0.0.0.0 gt78.mta.exacttarget.com
 0.0.0.0 hb114.mta.exacttarget.com
 0.0.0.0 hb4.mta.exacttarget.com
@@ -8611,6 +8611,7 @@
 0.0.0.0 zn39lf7vyaovreysn-telenorrs.siteintercept.qualtrics.com
 0.0.0.0 zn39mmprno5poxi69-visitsavannah.siteintercept.qualtrics.com
 0.0.0.0 zn39ohc1yc8wqzn01-ameriprise.siteintercept.qualtrics.com
+0.0.0.0 zn3aphtrmui7fnkwh-redventures.siteintercept.qualtrics.com
 0.0.0.0 zn3beawzqa5sf1p5b-danielwellington.siteintercept.qualtrics.com
 0.0.0.0 zn3bfxb2uowgia7sr-f5.siteintercept.qualtrics.com
 0.0.0.0 zn3bhfdulj7vtgut3-monotype.siteintercept.qualtrics.com
@@ -10460,17 +10461,26 @@
 0.0.0.0 cs7014.vk.com
 0.0.0.0 cs7777.vk.com
 0.0.0.0 admin.cs7777.vk.com
+0.0.0.0 aaculovich.admin.cs7777.vk.com
 0.0.0.0 rk-master.admin.cs7777.vk.com
 0.0.0.0 m.akolnogorov.cs7777.vk.com
 0.0.0.0 anabiullin.cs7777.vk.com
 0.0.0.0 api.cs7777.vk.com
+0.0.0.0 agoglev.api.cs7777.vk.com
 0.0.0.0 ayakushev.api.cs7777.vk.com
 0.0.0.0 oillarionov.api.cs7777.vk.com
+0.0.0.0 rk-master.api.cs7777.vk.com
+0.0.0.0 tk-aloha.api.cs7777.vk.com
 0.0.0.0 away.cs7777.vk.com
 0.0.0.0 isterekhov.cs7777.vk.com
 0.0.0.0 login.cs7777.vk.com
+0.0.0.0 rk-master.login.cs7777.vk.com
 0.0.0.0 m.cs7777.vk.com
+0.0.0.0 tk-aloha.m.cs7777.vk.com
+0.0.0.0 tk-inch.m.cs7777.vk.com
+0.0.0.0 tk-karma.m.cs7777.vk.com
 0.0.0.0 oauth.cs7777.vk.com
+0.0.0.0 tk-aloha.oauth.cs7777.vk.com
 0.0.0.0 r-redesign.cs7777.vk.com
 0.0.0.0 rk-agoglev.cs7777.vk.com
 0.0.0.0 ui.cs7777.vk.com
@@ -10538,6 +10548,7 @@
 0.0.0.0 fqmkfa.vk.com
 0.0.0.0 mail.mobile-legend.free.vk.com
 0.0.0.0 gemail.vk.com
+0.0.0.0 gnowts.vk.com
 0.0.0.0 graph.vk.com
 0.0.0.0 gzip.vk.com
 0.0.0.0 ha3virus.vk.com
@@ -10561,7 +10572,9 @@
 0.0.0.0 indianapolis.vk.com
 0.0.0.0 infeccionvaginal.vk.com
 0.0.0.0 ivs458.vk.com
+0.0.0.0 iybbhm.vk.com
 0.0.0.0 jbnank.vk.com
+0.0.0.0 jhyzck.vk.com
 0.0.0.0 khromovskikh.vk.com
 0.0.0.0 kiss.vk.com
 0.0.0.0 koronaekszerkft-hu.vk.com
@@ -10598,6 +10611,7 @@
 0.0.0.0 matytsina.vk.com
 0.0.0.0 mega.vk.com
 0.0.0.0 mellamaskayla.vk.com
+0.0.0.0 meqzhx.vk.com
 0.0.0.0 meta.vk.com
 0.0.0.0 mfhziu.vk.com
 0.0.0.0 mqufrp.vk.com
@@ -10844,6 +10858,7 @@
 0.0.0.0 yvjnex.vk.com
 0.0.0.0 yvoqgv.vk.com
 0.0.0.0 yzzusk.vk.com
+0.0.0.0 zjujbt.vk.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 winred.com
