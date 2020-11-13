@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-13T01:05:15+00:00
-# Count: 15070 domains
+# Released: 2020-11-13T13:05:15+00:00
+# Count: 15123 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -9500,6 +9500,7 @@
 0.0.0.0 txstate.qualtrics.com
 0.0.0.0 u5t2covidm7fdgm2h5fkk4.qualtrics.com
 0.0.0.0 uaibusiness.qualtrics.com
+0.0.0.0 uarizona.qualtrics.com
 0.0.0.0 uark.qualtrics.com
 0.0.0.0 www.uark.qualtrics.com
 0.0.0.0 uatvaccines.qualtrics.com
@@ -9895,6 +9896,7 @@
 0.0.0.0 wright.qualtrics.com
 0.0.0.0 wsbe.qualtrics.com
 0.0.0.0 wsu.qualtrics.com
+0.0.0.0 wustl.qualtrics.com
 0.0.0.0 wustlbusiness360.qualtrics.com
 0.0.0.0 wvu.qualtrics.com
 0.0.0.0 wvuhre.qualtrics.com
@@ -11723,6 +11725,7 @@
 0.0.0.0 7hr08ik.duckdns.org
 0.0.0.0 815murray.duckdns.org
 0.0.0.0 81martin.duckdns.org
+0.0.0.0 bw.81martin.duckdns.org
 0.0.0.0 925home.duckdns.org
 0.0.0.0 95895.duckdns.org
 0.0.0.0 sab.95895.duckdns.org
@@ -11746,6 +11749,10 @@
 0.0.0.0 aaronkir.duckdns.org
 0.0.0.0 aaronnze.duckdns.org
 0.0.0.0 abadeeha.duckdns.org
+0.0.0.0 cam.abadeeha.duckdns.org
+0.0.0.0 camera.abadeeha.duckdns.org
+0.0.0.0 freepbx.abadeeha.duckdns.org
+0.0.0.0 pbx.abadeeha.duckdns.org
 0.0.0.0 abaleke.duckdns.org
 0.0.0.0 abel262.duckdns.org
 0.0.0.0 abmsrnvcwr.duckdns.org
@@ -11943,6 +11950,9 @@
 0.0.0.0 benassistant.duckdns.org
 0.0.0.0 benjihome.duckdns.org
 0.0.0.0 benknaan.duckdns.org
+0.0.0.0 emby.benknaan.duckdns.org
+0.0.0.0 media.benknaan.duckdns.org
+0.0.0.0 ombi.benknaan.duckdns.org
 0.0.0.0 benzopyrazolone.duckdns.org
 0.0.0.0 bkm.berretto.duckdns.org
 0.0.0.0 wiki.berretto.duckdns.org
@@ -12064,8 +12074,21 @@
 0.0.0.0 unifi.blkh.duckdns.org
 0.0.0.0 bllb.duckdns.org
 0.0.0.0 blok.duckdns.org
+0.0.0.0 backup.blok.duckdns.org
+0.0.0.0 bitwarden.blok.duckdns.org
 0.0.0.0 git.blok.duckdns.org
+0.0.0.0 grafana.blok.duckdns.org
+0.0.0.0 ha.blok.duckdns.org
+0.0.0.0 influxdb.blok.duckdns.org
+0.0.0.0 lib.blok.duckdns.org
+0.0.0.0 manga.blok.duckdns.org
+0.0.0.0 media.blok.duckdns.org
+0.0.0.0 minecraft.blok.duckdns.org
 0.0.0.0 nc.blok.duckdns.org
+0.0.0.0 remoto.blok.duckdns.org
+0.0.0.0 shiori.blok.duckdns.org
+0.0.0.0 torrent.blok.duckdns.org
+0.0.0.0 trilium.blok.duckdns.org
 0.0.0.0 bmflachshaus.duckdns.org
 0.0.0.0 doz.bmflachshaus.duckdns.org
 0.0.0.0 guac.bmflachshaus.duckdns.org
@@ -12189,7 +12212,14 @@
 0.0.0.0 chandini-hass.duckdns.org
 0.0.0.0 grafana.chardware.duckdns.org
 0.0.0.0 charlesnas.duckdns.org
+0.0.0.0 book.charlesnas.duckdns.org
+0.0.0.0 dsm.charlesnas.duckdns.org
 0.0.0.0 file.charlesnas.duckdns.org
+0.0.0.0 music.charlesnas.duckdns.org
+0.0.0.0 mv.charlesnas.duckdns.org
+0.0.0.0 note.charlesnas.duckdns.org
+0.0.0.0 proxy.charlesnas.duckdns.org
+0.0.0.0 sjva.charlesnas.duckdns.org
 0.0.0.0 t.charlesnas.duckdns.org
 0.0.0.0 web.charlesnas.duckdns.org
 0.0.0.0 chase-account-manager-com.duckdns.org
@@ -12929,6 +12959,7 @@
 0.0.0.0 joeri-ha.duckdns.org
 0.0.0.0 joevberg.duckdns.org
 0.0.0.0 joghome.duckdns.org
+0.0.0.0 cloud.joghome.duckdns.org
 0.0.0.0 johansf.duckdns.org
 0.0.0.0 join-grupwa38.duckdns.org
 0.0.0.0 join-grupwa69.duckdns.org
@@ -13599,6 +13630,11 @@
 0.0.0.0 chat.psycor.duckdns.org
 0.0.0.0 psystem.duckdns.org
 0.0.0.0 ptogalera.duckdns.org
+0.0.0.0 nc.ptogalera.duckdns.org
+0.0.0.0 plex.ptogalera.duckdns.org
+0.0.0.0 sara.ptogalera.duckdns.org
+0.0.0.0 tplink.ptogalera.duckdns.org
+0.0.0.0 traccar.ptogalera.duckdns.org
 0.0.0.0 pub03832.duckdns.org
 0.0.0.0 pucciohome.duckdns.org
 0.0.0.0 pumpdacat.duckdns.org
@@ -13639,6 +13675,7 @@
 0.0.0.0 ratownik89medyczny.duckdns.org
 0.0.0.0 raulersonha.duckdns.org
 0.0.0.0 magento2.raulibi.duckdns.org
+0.0.0.0 blog.magento2.raulibi.duckdns.org
 0.0.0.0 www.magento2.raulibi.duckdns.org
 0.0.0.0 zerotier-moon.raulibi.duckdns.org
 0.0.0.0 blog.zerotier-moon.raulibi.duckdns.org
@@ -13913,6 +13950,7 @@
 0.0.0.0 susielei.duckdns.org
 0.0.0.0 svenhassio.duckdns.org
 0.0.0.0 magento2.sverik-registry.duckdns.org
+0.0.0.0 www.magento2.sverik-registry.duckdns.org
 0.0.0.0 svit.duckdns.org
 0.0.0.0 swampen-home.duckdns.org
 0.0.0.0 swhome.duckdns.org
@@ -13975,6 +14013,11 @@
 0.0.0.0 thijs217.duckdns.org
 0.0.0.0 thisismathiewandwhatnotomegalul.duckdns.org
 0.0.0.0 thomas55555.duckdns.org
+0.0.0.0 grafana.thomas55555.duckdns.org
+0.0.0.0 ha.thomas55555.duckdns.org
+0.0.0.0 ng.thomas55555.duckdns.org
+0.0.0.0 sauger.thomas55555.duckdns.org
+0.0.0.0 sauger2.thomas55555.duckdns.org
 0.0.0.0 thomassistant.duckdns.org
 0.0.0.0 tidder.duckdns.org
 0.0.0.0 tiderace.duckdns.org
@@ -14176,6 +14219,13 @@
 0.0.0.0 wickedshrapnel.duckdns.org
 0.0.0.0 wigglenet.duckdns.org
 0.0.0.0 wilemenn.duckdns.org
+0.0.0.0 bitwarden.wilemenn.duckdns.org
+0.0.0.0 hass.wilemenn.duckdns.org
+0.0.0.0 lidarr.wilemenn.duckdns.org
+0.0.0.0 octopi.wilemenn.duckdns.org
+0.0.0.0 plex.wilemenn.duckdns.org
+0.0.0.0 radarr.wilemenn.duckdns.org
+0.0.0.0 sonarr.wilemenn.duckdns.org
 0.0.0.0 willemsen.duckdns.org
 0.0.0.0 win5-staging.duckdns.org
 0.0.0.0 winayyhomerpi.duckdns.org
@@ -14556,6 +14606,7 @@
 0.0.0.0 brcc.ada.support
 0.0.0.0 briana.ada.support
 0.0.0.0 buda.ada.support
+0.0.0.0 bulk.ada.support
 0.0.0.0 ca.ada.support
 0.0.0.0 koodo.ca.ada.support
 0.0.0.0 www.koodo.ca.ada.support
@@ -14726,6 +14777,7 @@
 0.0.0.0 tassadar.ops.ada.support
 0.0.0.0 vpn.ops.ada.support
 0.0.0.0 pango.ada.support
+0.0.0.0 pc-financial.ada.support
 0.0.0.0 play-on.ada.support
 0.0.0.0 powerschool.ada.support
 0.0.0.0 previews.ada.support
@@ -15077,6 +15129,7 @@
 0.0.0.0 stage-api.geni.us
 0.0.0.0 stage-booklinker.geni.us
 0.0.0.0 stage-booklinker-author.geni.us
+0.0.0.0 stage-booklinker-book.geni.us
 0.0.0.0 stage-cdn.geni.us
 0.0.0.0 stage-custom.geni.us
 0.0.0.0 stage-linkexplorer.geni.us

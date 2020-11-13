@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-11-13T01:05:14+00:00
-# Count: 15869 domains
+# Released: 2020-11-13T13:05:15+00:00
+# Count: 15874 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -168,6 +168,7 @@
 0.0.0.0 scontent-yyz1-1.cdninstagram.com
 0.0.0.0 scontent-zrh1-1.cdninstagram.com
 0.0.0.0 video.cdninstagram.com
+0.0.0.0 video-ams4-1.cdninstagram.com
 0.0.0.0 video-amt2-1.cdninstagram.com
 0.0.0.0 video-arn2-1.cdninstagram.com
 0.0.0.0 video-arn2-2.cdninstagram.com
@@ -991,6 +992,7 @@
 0.0.0.0 edge-mws-shv-01-lga3.facebook.com
 0.0.0.0 edge-mws-shv-01-mad1.facebook.com
 0.0.0.0 edge-mws-shv-01-msp1.facebook.com
+0.0.0.0 edge-mws-shv-01-ort2.facebook.com
 0.0.0.0 edge-mws-shv-01-sof1.facebook.com
 0.0.0.0 edge-proxygen-test-healthchecks-shv-01-sea1.facebook.com
 0.0.0.0 edge-resolver001-bgp-01-cdg2.facebook.com
@@ -1006,6 +1008,7 @@
 0.0.0.0 edge-services-fbonly-shv-01-lhr8.facebook.com
 0.0.0.0 edge-services-fbonly-shv-01-waw1.facebook.com
 0.0.0.0 edge-services-shv-01-amt2.facebook.com
+0.0.0.0 edge-services-shv-01-any2.facebook.com
 0.0.0.0 edge-services-shv-01-mxp1.facebook.com
 0.0.0.0 edge-services-shv-02-kut2.facebook.com
 0.0.0.0 edge-services-shv-02-mia3.facebook.com
@@ -4955,6 +4958,7 @@
 0.0.0.0 mqtt-ig-p4.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt-p4.facebook.com
+0.0.0.0 mrvpravoce.facebook.com
 0.0.0.0 ms-my.facebook.com
 0.0.0.0 msgin-regional-shv-01-rash0.facebook.com
 0.0.0.0 msgin-regional-shv-01-rfrc0.facebook.com
@@ -7505,6 +7509,7 @@
 0.0.0.0 sdvg.facebook.com
 0.0.0.0 secure.facebook.com
 0.0.0.0 graph.secure.facebook.com
+0.0.0.0 secure-edge-latest-shv-01-jnb1.facebook.com
 0.0.0.0 secure-edge-latest-shv-01-vie1.facebook.com
 0.0.0.0 securitas.facebook.com
 0.0.0.0 servicenow.facebook.com
@@ -7640,6 +7645,7 @@
 0.0.0.0 whatsapp-chatd-edge-shv-01-dus1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-eze1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-frt3.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-01-frx5.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-tpe1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-waw1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-xsp1.facebook.com
@@ -15553,7 +15559,6 @@
 0.0.0.0 media.fisb11-1.fna.whatsapp.net
 0.0.0.0 media.fisb3-1.fna.whatsapp.net
 0.0.0.0 sonar.fisb7-1.fna.whatsapp.net
-0.0.0.0 fisu3-1.fna.whatsapp.net
 0.0.0.0 media.fixc1-2.fna.whatsapp.net
 0.0.0.0 media.fixc1-3.fna.whatsapp.net
 0.0.0.0 media.fixc4-1.fna.whatsapp.net
