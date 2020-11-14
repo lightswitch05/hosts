@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2020-11-13T01:05:15+00:00
-# Count: 769 domains
+# Released: 2020-11-14T13:05:15+00:00
+# Count: 774 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -43,7 +43,6 @@
 0.0.0.0 store.globalresearch.ca
 0.0.0.0 store-stg.globalresearch.ca
 0.0.0.0 tv.globalresearch.ca
-0.0.0.0 upgrade01.globalresearch.ca
 0.0.0.0 www.globalresearch.ca
 0.0.0.0 qresear.ch
 0.0.0.0 de.qresear.ch
@@ -256,6 +255,7 @@
 0.0.0.0 ww1.kamellia.com
 0.0.0.0 www.kamellia.com
 0.0.0.0 knowingthetruth.com
+0.0.0.0 cpanel.knowingthetruth.com
 0.0.0.0 www.knowingthetruth.com
 0.0.0.0 leagueofthesouth.com
 0.0.0.0 direct.leagueofthesouth.com
@@ -354,6 +354,7 @@
 0.0.0.0 thefreedomarticles.com
 0.0.0.0 autodiscover.thefreedomarticles.com
 0.0.0.0 cpanel.thefreedomarticles.com
+0.0.0.0 cpcalendars.thefreedomarticles.com
 0.0.0.0 mail.thefreedomarticles.com
 0.0.0.0 webdisk.thefreedomarticles.com
 0.0.0.0 webmail.thefreedomarticles.com
@@ -482,7 +483,6 @@
 0.0.0.0 cancerwisdom.net
 0.0.0.0 www.cancerwisdom.net
 0.0.0.0 coronavirushoax.net
-0.0.0.0 dc-0adc37af29d7.coronavirushoax.net
 0.0.0.0 mail.coronavirushoax.net
 0.0.0.0 www.coronavirushoax.net
 0.0.0.0 forbiddenknowledgetv.net
@@ -520,6 +520,9 @@
 0.0.0.0 flatearthers.org
 0.0.0.0 www.flatearthers.org
 0.0.0.0 fluoridealert.org
+0.0.0.0 imap.fluoridealert.org
+0.0.0.0 la.fluoridealert.org
+0.0.0.0 www.fluoridealert.org
 0.0.0.0 heartland.org
 0.0.0.0 auth.heartland.org
 0.0.0.0 benefit.heartland.org
@@ -544,6 +547,8 @@
 0.0.0.0 staging.learntherisk.org
 0.0.0.0 www.learntherisk.org
 0.0.0.0 mmcw.org
+0.0.0.0 mx.mmcw.org
+0.0.0.0 www.mmcw.org
 0.0.0.0 nationalistwomensfront.org
 0.0.0.0 www.nationalistwomensfront.org
 0.0.0.0 nationalvanguard.org

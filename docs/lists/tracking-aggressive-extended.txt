@@ -1,5 +1,5 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-14T01:05:15+00:00
+# Released: 2020-11-14T13:05:15+00:00
 # Count: 15122 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -5043,7 +5043,6 @@
 0.0.0.0 minfraud1.maxmind.com
 0.0.0.0 minfraud2.maxmind.com
 0.0.0.0 minfraud3.maxmind.com
-0.0.0.0 nagios.maxmind.com
 0.0.0.0 pgbadger.maxmind.com
 0.0.0.0 prometheus.maxmind.com
 0.0.0.0 static.maxmind.com
@@ -7557,6 +7556,7 @@
 0.0.0.0 ffp2.qualtrics.com
 0.0.0.0 ffp3.qualtrics.com
 0.0.0.0 fhwn.qualtrics.com
+0.0.0.0 fido.qualtrics.com
 0.0.0.0 fiestademascaras-lan.qualtrics.com
 0.0.0.0 firstbook.qualtrics.com
 0.0.0.0 firstcaribbean.qualtrics.com
