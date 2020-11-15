@@ -1,5 +1,5 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-11-14T13:05:14+00:00
+# Released: 2020-11-15T01:05:15+00:00
 # Count: 15879 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -38,6 +38,7 @@
 0.0.0.0 scontent-a-bru.cdninstagram.com
 0.0.0.0 scontent-a-gru.cdninstagram.com
 0.0.0.0 scontent-a-hkg.cdninstagram.com
+0.0.0.0 scontent-a-hkg4-1.cdninstagram.com
 0.0.0.0 scontent-a-iad.cdninstagram.com
 0.0.0.0 scontent-a-lax.cdninstagram.com
 0.0.0.0 scontent-a-lga.cdninstagram.com
@@ -236,6 +237,7 @@
 0.0.0.0 z-p42-scontent.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-hkt1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-hkt1-2.cdninstagram.com
+0.0.0.0 z-p42-scontent-b-hkg4-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-hkt1-2.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-sjc3-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-for1-1.cdninstagram.com
@@ -959,6 +961,7 @@
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-02-bom1.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-02-hkg4.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-02-hkt1.facebook.com
 0.0.0.0 edge-mqtt-p4-shv-01-vie1.facebook.com
 0.0.0.0 edge-mqtt-p4-shv-02-bom1.facebook.com
@@ -11330,7 +11333,6 @@
 0.0.0.0 video.fiev12-1.fna.fbcdn.net
 0.0.0.0 instagram.fiev13-1.fna.fbcdn.net
 0.0.0.0 video.fiev13-1.fna.fbcdn.net
-0.0.0.0 fiev14-1.fna.fbcdn.net
 0.0.0.0 instagram.fiev14-1.fna.fbcdn.net
 0.0.0.0 scontent.fiev14-1.fna.fbcdn.net
 0.0.0.0 video.fiev14-1.fna.fbcdn.net
@@ -11475,7 +11477,6 @@
 0.0.0.0 instagram.fjdo10-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdo2-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdo5-1.fna.fbcdn.net
-0.0.0.0 fjed4-1.fna.fbcdn.net
 0.0.0.0 instagram.fjed4-1.fna.fbcdn.net
 0.0.0.0 instagram.fjed4-2.fna.fbcdn.net
 0.0.0.0 sonar.fjed4-2.fna.fbcdn.net
@@ -15354,7 +15355,6 @@
 0.0.0.0 sonar.fbdo9-1.fna.whatsapp.net
 0.0.0.0 media.fbeg10-1.fna.whatsapp.net
 0.0.0.0 media.fbek1-1.fna.whatsapp.net
-0.0.0.0 fbfh7-1.fna.whatsapp.net
 0.0.0.0 media.fbga3-1.fna.whatsapp.net
 0.0.0.0 media.fbho4-1.fna.whatsapp.net
 0.0.0.0 media.fbio1-1.fna.whatsapp.net
