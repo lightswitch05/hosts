@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-21T01:05:14+00:00
-# Count: 15344 domains
+# Released: 2020-11-21T13:05:15+00:00
+# Count: 15380 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -971,6 +971,7 @@
 0.0.0.0 profile.se.360.cn
 0.0.0.0 profile2.se.360.cn
 0.0.0.0 skin.se.360.cn
+0.0.0.0 securecity.360.cn
 0.0.0.0 security.360.cn
 0.0.0.0 sehd.360.cn
 0.0.0.0 shake.360.cn
@@ -1257,6 +1258,7 @@
 0.0.0.0 api.yun.360.cn
 0.0.0.0 api-b.yun.360.cn
 0.0.0.0 luyou.yun.360.cn
+0.0.0.0 api.luyou.yun.360.cn
 0.0.0.0 home.api.luyou.yun.360.cn
 0.0.0.0 home-b.api.luyou.yun.360.cn
 0.0.0.0 qita.yun.360.cn
@@ -6660,6 +6662,7 @@
 0.0.0.0 cdn.qualtrics.com
 0.0.0.0 ce.qualtrics.com
 0.0.0.0 ceibs.qualtrics.com
+0.0.0.0 celebrity.qualtrics.com
 0.0.0.0 cengage.qualtrics.com
 0.0.0.0 cengage-covid19testingne.qualtrics.com
 0.0.0.0 cengagecovid19.qualtrics.com
@@ -7386,6 +7389,7 @@
 0.0.0.0 ecochil-virus.qualtrics.com
 0.0.0.0 ecovidrio.qualtrics.com
 0.0.0.0 ecuau.qualtrics.com
+0.0.0.0 edinburgh.qualtrics.com
 0.0.0.0 edr.qualtrics.com
 0.0.0.0 educationtemple.qualtrics.com
 0.0.0.0 eduhk.qualtrics.com
@@ -7705,6 +7709,7 @@
 0.0.0.0 hpops.qualtrics.com
 0.0.0.0 hpresearch.qualtrics.com
 0.0.0.0 hpsupport.qualtrics.com
+0.0.0.0 www.hpsupport.qualtrics.com
 0.0.0.0 hrebay360.qualtrics.com
 0.0.0.0 https-3a__survey.qualtrics.com
 0.0.0.0 hub.qualtrics.com
@@ -8230,6 +8235,7 @@
 0.0.0.0 om21117.qualtrics.com
 0.0.0.0 coviddwhxd.om21117.qualtrics.com
 0.0.0.0 omasks.qualtrics.com
+0.0.0.0 onetech.qualtrics.com
 0.0.0.0 openbusinessschool.qualtrics.com
 0.0.0.0 openss.qualtrics.com
 0.0.0.0 oportun.qualtrics.com
@@ -11124,7 +11130,6 @@
 0.0.0.0 interflow.internal.intercom.io
 0.0.0.0 muster-permissions-test.internal.intercom.io
 0.0.0.0 orientation.internal.intercom.io
-0.0.0.0 whatsapp.internal.intercom.io
 0.0.0.0 messenger-apps.intercom.io
 0.0.0.0 mobile-admin-client-android.intercom.io
 0.0.0.0 mobile-admin-client-ios.intercom.io
@@ -14826,7 +14831,10 @@
 0.0.0.0 emma-sleep-fr.ada.support
 0.0.0.0 emma-sleep-nl.ada.support
 0.0.0.0 ficanex.ada.support
+0.0.0.0 fcu.ficanex.ada.support
+0.0.0.0 kawarthacu.ficanex.ada.support
 0.0.0.0 kscu.ficanex.ada.support
+0.0.0.0 ops.ficanex.ada.support
 0.0.0.0 airflow.ops.ficanex.ada.support
 0.0.0.0 alertmanager.ops.ficanex.ada.support
 0.0.0.0 grafana.ops.ficanex.ada.support
@@ -14836,8 +14844,10 @@
 0.0.0.0 oauth2.ops.ficanex.ada.support
 0.0.0.0 prometheus.ops.ficanex.ada.support
 0.0.0.0 rollout.ficanex.ada.support
+0.0.0.0 svc.ficanex.ada.support
 0.0.0.0 answer-utilities.svc.ficanex.ada.support
 0.0.0.0 ficanex-proxy.svc.ficanex.ada.support
+0.0.0.0 yncu.ficanex.ada.support
 0.0.0.0 firstrade.ada.support
 0.0.0.0 firstrade-prod.ada.support
 0.0.0.0 foodhub.ada.support
@@ -15106,20 +15116,29 @@
 0.0.0.0 vsa101.tawk.to
 0.0.0.0 vsa102.tawk.to
 0.0.0.0 vsa105.tawk.to
+0.0.0.0 vsa11.tawk.to
 0.0.0.0 vsa111.tawk.to
+0.0.0.0 vsa12.tawk.to
 0.0.0.0 vsa13.tawk.to
 0.0.0.0 vsa14.tawk.to
 0.0.0.0 vsa15.tawk.to
 0.0.0.0 vsa16.tawk.to
 0.0.0.0 vsa17.tawk.to
 0.0.0.0 vsa18.tawk.to
+0.0.0.0 vsa19.tawk.to
+0.0.0.0 vsa20.tawk.to
+0.0.0.0 vsa21.tawk.to
+0.0.0.0 vsa22.tawk.to
+0.0.0.0 vsa23.tawk.to
 0.0.0.0 vsa24.tawk.to
+0.0.0.0 vsa25.tawk.to
 0.0.0.0 vsa26.tawk.to
 0.0.0.0 vsa27.tawk.to
 0.0.0.0 vsa28.tawk.to
 0.0.0.0 vsa29.tawk.to
 0.0.0.0 vsa3.tawk.to
 0.0.0.0 vsa30.tawk.to
+0.0.0.0 vsa31.tawk.to
 0.0.0.0 vsa32.tawk.to
 0.0.0.0 vsa33.tawk.to
 0.0.0.0 vsa34.tawk.to
@@ -15128,11 +15147,15 @@
 0.0.0.0 vsa37.tawk.to
 0.0.0.0 vsa38.tawk.to
 0.0.0.0 vsa39.tawk.to
+0.0.0.0 vsa4.tawk.to
+0.0.0.0 vsa40.tawk.to
 0.0.0.0 vsa42.tawk.to
 0.0.0.0 vsa43.tawk.to
 0.0.0.0 vsa45.tawk.to
 0.0.0.0 vsa46.tawk.to
 0.0.0.0 vsa47.tawk.to
+0.0.0.0 vsa48.tawk.to
+0.0.0.0 vsa49.tawk.to
 0.0.0.0 vsa50.tawk.to
 0.0.0.0 vsa51.tawk.to
 0.0.0.0 vsa52.tawk.to
@@ -15141,23 +15164,33 @@
 0.0.0.0 vsa55.tawk.to
 0.0.0.0 vsa56.tawk.to
 0.0.0.0 vsa57.tawk.to
+0.0.0.0 vsa58.tawk.to
 0.0.0.0 vsa59.tawk.to
 0.0.0.0 vsa60.tawk.to
 0.0.0.0 vsa61.tawk.to
 0.0.0.0 vsa62.tawk.to
 0.0.0.0 vsa63.tawk.to
 0.0.0.0 vsa64.tawk.to
+0.0.0.0 vsa65.tawk.to
+0.0.0.0 vsa66.tawk.to
 0.0.0.0 vsa67.tawk.to
 0.0.0.0 vsa68.tawk.to
 0.0.0.0 vsa69.tawk.to
 0.0.0.0 vsa7.tawk.to
 0.0.0.0 vsa70.tawk.to
+0.0.0.0 vsa71.tawk.to
+0.0.0.0 vsa72.tawk.to
+0.0.0.0 vsa73.tawk.to
+0.0.0.0 vsa74.tawk.to
 0.0.0.0 vsa75.tawk.to
 0.0.0.0 vsa76.tawk.to
 0.0.0.0 vsa77.tawk.to
 0.0.0.0 vsa78.tawk.to
 0.0.0.0 vsa79.tawk.to
 0.0.0.0 vsa8.tawk.to
+0.0.0.0 vsa80.tawk.to
+0.0.0.0 vsa81.tawk.to
+0.0.0.0 vsa82.tawk.to
 0.0.0.0 vsa83.tawk.to
 0.0.0.0 vsa84.tawk.to
 0.0.0.0 vsa85.tawk.to
@@ -15167,6 +15200,9 @@
 0.0.0.0 vsa89.tawk.to
 0.0.0.0 vsa9.tawk.to
 0.0.0.0 vsa90.tawk.to
+0.0.0.0 vsa91.tawk.to
+0.0.0.0 vsa92.tawk.to
+0.0.0.0 vsa93.tawk.to
 0.0.0.0 vsa94.tawk.to
 0.0.0.0 vsa95.tawk.to
 0.0.0.0 vsa96.tawk.to
