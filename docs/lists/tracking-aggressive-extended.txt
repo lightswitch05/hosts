@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-21T13:05:15+00:00
-# Count: 15380 domains
+# Released: 2020-11-22T01:05:15+00:00
+# Count: 15444 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -890,6 +890,7 @@
 0.0.0.0 fknz.qipai.360.cn
 0.0.0.0 hlmj.qipai.360.cn
 0.0.0.0 kxddz.qipai.360.cn
+0.0.0.0 lobby.kxddz.qipai.360.cn
 0.0.0.0 kxsj.qipai.360.cn
 0.0.0.0 pay.qipai.360.cn
 0.0.0.0 pk.qipai.360.cn
@@ -1248,6 +1249,8 @@
 0.0.0.0 yasuo.360.cn
 0.0.0.0 fb.yasuo.360.cn
 0.0.0.0 ydt.360.cn
+0.0.0.0 backend.ydt.360.cn
+0.0.0.0 m.ydt.360.cn
 0.0.0.0 youqian.360.cn
 0.0.0.0 m.youqian.360.cn
 0.0.0.0 yule.360.cn
@@ -1365,6 +1368,7 @@
 0.0.0.0 c4.ugc.bazaarvoice.com
 0.0.0.0 c5.ugc.bazaarvoice.com
 0.0.0.0 c6.ugc.bazaarvoice.com
+0.0.0.0 c7.ugc.bazaarvoice.com
 0.0.0.0 cabelas.ugc.bazaarvoice.com
 0.0.0.0 calderaspas.ugc.bazaarvoice.com
 0.0.0.0 callaway.ugc.bazaarvoice.com
@@ -4986,9 +4990,46 @@
 0.0.0.0 ct255.dsr.livefyre.com
 0.0.0.0 ct257.dsr.livefyre.com
 0.0.0.0 ct258.dsr.livefyre.com
+0.0.0.0 ct261.dsr.livefyre.com
+0.0.0.0 ct263.dsr.livefyre.com
+0.0.0.0 ct265.dsr.livefyre.com
+0.0.0.0 ct271.dsr.livefyre.com
+0.0.0.0 ct277.dsr.livefyre.com
+0.0.0.0 ct278.dsr.livefyre.com
+0.0.0.0 ct279.dsr.livefyre.com
+0.0.0.0 ct280.dsr.livefyre.com
+0.0.0.0 ct281.dsr.livefyre.com
+0.0.0.0 ct283.dsr.livefyre.com
+0.0.0.0 ct284.dsr.livefyre.com
+0.0.0.0 ct285.dsr.livefyre.com
+0.0.0.0 ct286.dsr.livefyre.com
+0.0.0.0 ct291.dsr.livefyre.com
+0.0.0.0 ct292.dsr.livefyre.com
+0.0.0.0 ct293.dsr.livefyre.com
+0.0.0.0 ct294.dsr.livefyre.com
+0.0.0.0 ct295.dsr.livefyre.com
+0.0.0.0 ct296.dsr.livefyre.com
+0.0.0.0 ct297.dsr.livefyre.com
+0.0.0.0 ct299.dsr.livefyre.com
 0.0.0.0 lc100.dsr.livefyre.com
 0.0.0.0 lc101.dsr.livefyre.com
 0.0.0.0 lc102.dsr.livefyre.com
+0.0.0.0 lc105.dsr.livefyre.com
+0.0.0.0 lc109.dsr.livefyre.com
+0.0.0.0 lc110.dsr.livefyre.com
+0.0.0.0 lc114.dsr.livefyre.com
+0.0.0.0 lc120.dsr.livefyre.com
+0.0.0.0 lc121.dsr.livefyre.com
+0.0.0.0 lc123.dsr.livefyre.com
+0.0.0.0 lc124.dsr.livefyre.com
+0.0.0.0 lc125.dsr.livefyre.com
+0.0.0.0 lc126.dsr.livefyre.com
+0.0.0.0 lc127.dsr.livefyre.com
+0.0.0.0 lc128.dsr.livefyre.com
+0.0.0.0 lc129.dsr.livefyre.com
+0.0.0.0 lc130.dsr.livefyre.com
+0.0.0.0 lc131.dsr.livefyre.com
+0.0.0.0 lc132.dsr.livefyre.com
 0.0.0.0 lc84.dsr.livefyre.com
 0.0.0.0 lc85.dsr.livefyre.com
 0.0.0.0 lc86.dsr.livefyre.com
@@ -5076,6 +5117,7 @@
 0.0.0.0 tc.maxmind.com
 0.0.0.0 update.maxmind.com
 0.0.0.0 updates.maxmind.com
+0.0.0.0 url603.maxmind.com
 0.0.0.0 www.maxmind.com
 0.0.0.0 www2.maxmind.com
 0.0.0.0 share.microsoft.com
@@ -5674,6 +5716,7 @@
 0.0.0.0 polls.polldaddy.com
 0.0.0.0 prinitsmarid.polldaddy.com
 0.0.0.0 raemunumli.polldaddy.com
+0.0.0.0 rdc.polldaddy.com
 0.0.0.0 rithnenbeta.polldaddy.com
 0.0.0.0 roleplaycon.polldaddy.com
 0.0.0.0 s3.polldaddy.com
@@ -15115,10 +15158,26 @@
 0.0.0.0 vsa100.tawk.to
 0.0.0.0 vsa101.tawk.to
 0.0.0.0 vsa102.tawk.to
+0.0.0.0 vsa103.tawk.to
+0.0.0.0 vsa104.tawk.to
 0.0.0.0 vsa105.tawk.to
+0.0.0.0 vsa106.tawk.to
+0.0.0.0 vsa107.tawk.to
+0.0.0.0 vsa108.tawk.to
+0.0.0.0 vsa109.tawk.to
 0.0.0.0 vsa11.tawk.to
+0.0.0.0 vsa110.tawk.to
 0.0.0.0 vsa111.tawk.to
+0.0.0.0 vsa112.tawk.to
+0.0.0.0 vsa113.tawk.to
+0.0.0.0 vsa114.tawk.to
+0.0.0.0 vsa115.tawk.to
+0.0.0.0 vsa116.tawk.to
+0.0.0.0 vsa117.tawk.to
+0.0.0.0 vsa118.tawk.to
+0.0.0.0 vsa119.tawk.to
 0.0.0.0 vsa12.tawk.to
+0.0.0.0 vsa120.tawk.to
 0.0.0.0 vsa13.tawk.to
 0.0.0.0 vsa14.tawk.to
 0.0.0.0 vsa15.tawk.to
@@ -15126,6 +15185,7 @@
 0.0.0.0 vsa17.tawk.to
 0.0.0.0 vsa18.tawk.to
 0.0.0.0 vsa19.tawk.to
+0.0.0.0 vsa2.tawk.to
 0.0.0.0 vsa20.tawk.to
 0.0.0.0 vsa21.tawk.to
 0.0.0.0 vsa22.tawk.to
@@ -15149,13 +15209,16 @@
 0.0.0.0 vsa39.tawk.to
 0.0.0.0 vsa4.tawk.to
 0.0.0.0 vsa40.tawk.to
+0.0.0.0 vsa41.tawk.to
 0.0.0.0 vsa42.tawk.to
 0.0.0.0 vsa43.tawk.to
+0.0.0.0 vsa44.tawk.to
 0.0.0.0 vsa45.tawk.to
 0.0.0.0 vsa46.tawk.to
 0.0.0.0 vsa47.tawk.to
 0.0.0.0 vsa48.tawk.to
 0.0.0.0 vsa49.tawk.to
+0.0.0.0 vsa5.tawk.to
 0.0.0.0 vsa50.tawk.to
 0.0.0.0 vsa51.tawk.to
 0.0.0.0 vsa52.tawk.to
@@ -15166,6 +15229,7 @@
 0.0.0.0 vsa57.tawk.to
 0.0.0.0 vsa58.tawk.to
 0.0.0.0 vsa59.tawk.to
+0.0.0.0 vsa6.tawk.to
 0.0.0.0 vsa60.tawk.to
 0.0.0.0 vsa61.tawk.to
 0.0.0.0 vsa62.tawk.to
