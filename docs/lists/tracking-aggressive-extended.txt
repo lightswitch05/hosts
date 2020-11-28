@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-27T13:05:15+00:00
-# Count: 15564 domains
+# Released: 2020-11-28T01:05:15+00:00
+# Count: 15585 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1721,6 +1721,7 @@
 0.0.0.0 1111.cloudflare-dns.com
 0.0.0.0 1dot0dot0dot1.cloudflare-dns.com
 0.0.0.0 1dot1dot1do1.cloudflare-dns.com
+0.0.0.0 1dot1dot1dot.cloudflare-dns.com
 0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
 0.0.0.0 1dot1dot1dot1dot.cloudflare-dns.com
 0.0.0.0 1dot1dot1dot2.cloudflare-dns.com
@@ -5623,6 +5624,7 @@
 0.0.0.0 s4058.pingdom.com
 0.0.0.0 s4059.pingdom.com
 0.0.0.0 s4061.pingdom.com
+0.0.0.0 s4064.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s412.pingdom.com
 0.0.0.0 s413.pingdom.com
@@ -6717,6 +6719,8 @@
 0.0.0.0 butler.qualtrics.com
 0.0.0.0 buytap.qualtrics.com
 0.0.0.0 byui.qualtrics.com
+0.0.0.0 c.qualtrics.com
+0.0.0.0 c01.qualtrics.com
 0.0.0.0 ca.qualtrics.com
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 anaimas.ca1.qualtrics.com
@@ -6817,6 +6821,7 @@
 0.0.0.0 clarku.qualtrics.com
 0.0.0.0 claytonstate.qualtrics.com
 0.0.0.0 clearvoicesurveys.qualtrics.com
+0.0.0.0 clemsonhealth.qualtrics.com
 0.0.0.0 cls.qualtrics.com
 0.0.0.0 clviddoaxi-wc.qualtrics.com
 0.0.0.0 cmaconsult360.qualtrics.com
@@ -7535,6 +7540,8 @@
 0.0.0.0 dollarshaveclub.qualtrics.com
 0.0.0.0 domo.qualtrics.com
 0.0.0.0 dorg.qualtrics.com
+0.0.0.0 douglascollege.qualtrics.com
+0.0.0.0 dphga.qualtrics.com
 0.0.0.0 drake.qualtrics.com
 0.0.0.0 drexel.qualtrics.com
 0.0.0.0 dskydev-masksb2btst.qualtrics.com
@@ -7881,6 +7888,7 @@
 0.0.0.0 hpsupport.qualtrics.com
 0.0.0.0 www.hpsupport.qualtrics.com
 0.0.0.0 hrebay360.qualtrics.com
+0.0.0.0 hsluwi.qualtrics.com
 0.0.0.0 https-3a__survey.qualtrics.com
 0.0.0.0 hub.qualtrics.com
 0.0.0.0 hujincjw.qualtrics.com
@@ -8195,6 +8203,7 @@
 0.0.0.0 isctecis.qualtrics.com
 0.0.0.0 isg.qualtrics.com
 0.0.0.0 iska-covidvm8gg48q5q6nh.qualtrics.com
+0.0.0.0 ispawjrc.qualtrics.com
 0.0.0.0 isrcsus.qualtrics.com
 0.0.0.0 isrcsuslkhykcrgcoivdv-travelers.qualtrics.com
 0.0.0.0 itamnegocios.qualtrics.com
@@ -8255,6 +8264,7 @@
 0.0.0.0 laphil.qualtrics.com
 0.0.0.0 laverne.qualtrics.com
 0.0.0.0 lcb.qualtrics.com
+0.0.0.0 lcsd2.qualtrics.com
 0.0.0.0 lcu.qualtrics.com
 0.0.0.0 lds.qualtrics.com
 0.0.0.0 leeds.qualtrics.com
@@ -8294,6 +8304,7 @@
 0.0.0.0 m07.qualtrics.com
 0.0.0.0 macquariefbe.qualtrics.com
 0.0.0.0 mafpai.qualtrics.com
+0.0.0.0 magellanstrategy.qualtrics.com
 0.0.0.0 majorasmask3d.qualtrics.com
 0.0.0.0 www.majorasmask3d.qualtrics.com
 0.0.0.0 manulifehk.qualtrics.com
@@ -8387,6 +8398,7 @@
 0.0.0.0 mullen.qualtrics.com
 0.0.0.0 multi.qualtrics.com
 0.0.0.0 multistudycovid19.qualtrics.com
+0.0.0.0 murdochlearn.qualtrics.com
 0.0.0.0 mx.qualtrics.com
 0.0.0.0 mylmu.qualtrics.com
 0.0.0.0 mzbwcovidyxgjyzjyh.qualtrics.com
@@ -8414,6 +8426,7 @@
 0.0.0.0 ndhealthuscensusbureaucovid.qualtrics.com
 0.0.0.0 ndscs.qualtrics.com
 0.0.0.0 ndstate.qualtrics.com
+0.0.0.0 ndus.qualtrics.com
 0.0.0.0 neocovid19.qualtrics.com
 0.0.0.0 network.qualtrics.com
 0.0.0.0 new.qualtrics.com
@@ -8469,6 +8482,7 @@
 0.0.0.0 opra360.qualtrics.com
 0.0.0.0 oregon.qualtrics.com
 0.0.0.0 oregonstate.qualtrics.com
+0.0.0.0 origin-us2.qualtrics.com
 0.0.0.0 originaz1.qualtrics.com
 0.0.0.0 star.originaz1.qualtrics.com
 0.0.0.0 originco1.qualtrics.com
@@ -8544,6 +8558,7 @@
 0.0.0.0 qpr.qualtrics.com
 0.0.0.0 qsnetwork-maskan.qualtrics.com
 0.0.0.0 qsurvey.qualtrics.com
+0.0.0.0 qtraining.qualtrics.com
 0.0.0.0 qtrial.qualtrics.com
 0.0.0.0 qtrial2010.qualtrics.com
 0.0.0.0 qtrial2012.qualtrics.com
@@ -8624,6 +8639,7 @@
 0.0.0.0 royalcaribbean.qualtrics.com
 0.0.0.0 rpi.qualtrics.com
 0.0.0.0 rtc.qualtrics.com
+0.0.0.0 ruinpain.qualtrics.com
 0.0.0.0 rutgers.qualtrics.com
 0.0.0.0 rutgersbcsr.qualtrics.com
 0.0.0.0 s.qualtrics.com
@@ -8658,6 +8674,7 @@
 0.0.0.0 seattleu.qualtrics.com
 0.0.0.0 seattleux.qualtrics.com
 0.0.0.0 seiservices.qualtrics.com
+0.0.0.0 semtsinghua.qualtrics.com
 0.0.0.0 sfasu.qualtrics.com
 0.0.0.0 sfchronicle.qualtrics.com
 0.0.0.0 sgfocusgrp.qualtrics.com
@@ -9853,6 +9870,7 @@
 0.0.0.0 unisg.qualtrics.com
 0.0.0.0 university-researchers.qualtrics.com
 0.0.0.0 universityofalabama.qualtrics.com
+0.0.0.0 unmpolisci.qualtrics.com
 0.0.0.0 unomaha.qualtrics.com
 0.0.0.0 unr.qualtrics.com
 0.0.0.0 unsw.qualtrics.com
@@ -10027,8 +10045,10 @@
 0.0.0.0 uscstudentaffairs.qualtrics.com
 0.0.0.0 uscviterbi.qualtrics.com
 0.0.0.0 usd.qualtrics.com
+0.0.0.0 usdsoe.qualtrics.com
 0.0.0.0 usf.qualtrics.com
 0.0.0.0 usfca.qualtrics.com
+0.0.0.0 usi.qualtrics.com
 0.0.0.0 usmuw.qualtrics.com
 0.0.0.0 uspta.qualtrics.com
 0.0.0.0 usstudyr.qualtrics.com
@@ -10040,6 +10060,7 @@
 0.0.0.0 covid19triage-vanityleadershiplanding-api.ut1.qualtrics.com
 0.0.0.0 cvscaremark360.ut1.qualtrics.com
 0.0.0.0 ericsson360.ut1.qualtrics.com
+0.0.0.0 fido.ut1.qualtrics.com
 0.0.0.0 labovitz.ut1.qualtrics.com
 0.0.0.0 ldsei.ut1.qualtrics.com
 0.0.0.0 lkhykcrgcoivdvmflint.ut1.qualtrics.com
