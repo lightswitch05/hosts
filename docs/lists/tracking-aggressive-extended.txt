@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-11-29T13:05:16+00:00
-# Count: 15600 domains
+# Released: 2020-11-30T01:05:14+00:00
+# Count: 15606 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -12077,6 +12077,7 @@
 0.0.0.0 camera.abadeeha.duckdns.org
 0.0.0.0 freepbx.abadeeha.duckdns.org
 0.0.0.0 pbx.abadeeha.duckdns.org
+0.0.0.0 cert.pbx.abadeeha.duckdns.org
 0.0.0.0 abaleke.duckdns.org
 0.0.0.0 abel262.duckdns.org
 0.0.0.0 abelhomeassistant.duckdns.org
@@ -12398,6 +12399,7 @@
 0.0.0.0 opnsense.blkh.duckdns.org
 0.0.0.0 plex.blkh.duckdns.org
 0.0.0.0 unifi.blkh.duckdns.org
+0.0.0.0 vpn.blkh.duckdns.org
 0.0.0.0 bllb.duckdns.org
 0.0.0.0 blok.duckdns.org
 0.0.0.0 backup.blok.duckdns.org
@@ -13875,6 +13877,10 @@
 0.0.0.0 ozies.duckdns.org
 0.0.0.0 p1x.duckdns.org
 0.0.0.0 pa3dsoft.duckdns.org
+0.0.0.0 chronograf.pa3dsoft.duckdns.org
+0.0.0.0 grafana.pa3dsoft.duckdns.org
+0.0.0.0 homeassistant.pa3dsoft.duckdns.org
+0.0.0.0 nodered.pa3dsoft.duckdns.org
 0.0.0.0 pahu.duckdns.org
 0.0.0.0 palthe.duckdns.org
 0.0.0.0 pandabinhminh.duckdns.org
