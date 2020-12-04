@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-12-04T01:05:15+00:00
-# Count: 15769 domains
+# Released: 2020-12-04T13:05:15+00:00
+# Count: 15836 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1624,6 +1624,7 @@
 0.0.0.0 civicscience.com
 0.0.0.0 138.civicscience.com
 0.0.0.0 2fwww2.civicscience.com
+0.0.0.0 38.civicscience.com
 0.0.0.0 www.aan.civicscience.com
 0.0.0.0 about.civicscience.com
 0.0.0.0 api.civicscience.com
@@ -1632,6 +1633,7 @@
 0.0.0.0 biz.civicscience.com
 0.0.0.0 blog.civicscience.com
 0.0.0.0 camposvor.civicscience.com
+0.0.0.0 com.civicscience.com
 0.0.0.0 conchovalleyhomepage.civicscience.com
 0.0.0.0 csdemo.civicscience.com
 0.0.0.0 envoy.civicscience.com
@@ -1640,6 +1642,7 @@
 0.0.0.0 info.civicscience.com
 0.0.0.0 isi.civicscience.com
 0.0.0.0 m.civicscience.com
+0.0.0.0 nexstar.civicscience.com
 0.0.0.0 nra.civicscience.com
 0.0.0.0 pilot.civicscience.com
 0.0.0.0 public.civicscience.com
@@ -1781,7 +1784,6 @@
 0.0.0.0 enterpriseportal.comm100.com
 0.0.0.0 eu.comm100.com
 0.0.0.0 eumax.comm100.com
-0.0.0.0 eumaxservice.comm100.com
 0.0.0.0 go.comm100.com
 0.0.0.0 hobbyking.comm100.com
 0.0.0.0 hosted.comm100.com
@@ -5213,6 +5215,8 @@
 0.0.0.0 www2.maxmind.com
 0.0.0.0 share.microsoft.com
 0.0.0.0 mktossl.com
+0.0.0.0 2xy8t6qo-bf9q42dexsymx0w5i0nej.mktossl.com
+0.0.0.0 a.mktossl.com
 0.0.0.0 a42.mktossl.com
 0.0.0.0 ab.mktossl.com
 0.0.0.0 ab01.mktossl.com
@@ -5267,10 +5271,77 @@
 0.0.0.0 abk.mktossl.com
 0.0.0.0 abm.mktossl.com
 0.0.0.0 abq.mktossl.com
+0.0.0.0 acapi.mktossl.com
+0.0.0.0 akamai.mktossl.com
+0.0.0.0 akamai-test.mktossl.com
+0.0.0.0 akamai-test-origin.mktossl.com
+0.0.0.0 api.mktossl.com
+0.0.0.0 app.mktossl.com
+0.0.0.0 assets.mktossl.com
+0.0.0.0 autoconfig.mktossl.com
+0.0.0.0 autodiscover.mktossl.com
+0.0.0.0 awsdashboard.mktossl.com
+0.0.0.0 b.mktossl.com
+0.0.0.0 basic.mktossl.com
+0.0.0.0 basic-nodejs-dev.mktossl.com
+0.0.0.0 bbs.mktossl.com
+0.0.0.0 beta.mktossl.com
+0.0.0.0 blog.mktossl.com
+0.0.0.0 blogs.mktossl.com
+0.0.0.0 builder.mktossl.com
+0.0.0.0 c.mktossl.com
+0.0.0.0 careers.mktossl.com
+0.0.0.0 cdn.mktossl.com
+0.0.0.0 cdq-api.mktossl.com
+0.0.0.0 cert.mktossl.com
+0.0.0.0 certificate.mktossl.com
+0.0.0.0 check.mktossl.com
+0.0.0.0 cim-api.mktossl.com
+0.0.0.0 cim-api-dev.mktossl.com
+0.0.0.0 cim-api-qa.mktossl.com
+0.0.0.0 cim-api-uat.mktossl.com
+0.0.0.0 cim-data-quality-qa.mktossl.com
+0.0.0.0 cim-dev.mktossl.com
+0.0.0.0 cim-geo-dev.mktossl.com
+0.0.0.0 citrix.mktossl.com
+0.0.0.0 click.mktossl.com
+0.0.0.0 cloud.mktossl.com
+0.0.0.0 cname.mktossl.com
+0.0.0.0 code.mktossl.com
+0.0.0.0 consul.mktossl.com
+0.0.0.0 cp.mktossl.com
+0.0.0.0 cpanel.mktossl.com
+0.0.0.0 crm.mktossl.com
 0.0.0.0 cs.mktossl.com
+0.0.0.0 cveapi.mktossl.com
+0.0.0.0 danieapp.mktossl.com
+0.0.0.0 db.mktossl.com
+0.0.0.0 dc.mktossl.com
+0.0.0.0 de.mktossl.com
+0.0.0.0 demo.mktossl.com
+0.0.0.0 dev.mktossl.com
 0.0.0.0 dnm.mktossl.com
+0.0.0.0 dns.mktossl.com
+0.0.0.0 dns1.mktossl.com
+0.0.0.0 dns2.mktossl.com
+0.0.0.0 docker.mktossl.com
 0.0.0.0 docs.mktossl.com
+0.0.0.0 dogfood-dev.mktossl.com
+0.0.0.0 download.mktossl.com
+0.0.0.0 dyn.mktossl.com
 0.0.0.0 e.mktossl.com
+0.0.0.0 edge.mktossl.com
+0.0.0.0 elastic.mktossl.com
+0.0.0.0 email.mktossl.com
+0.0.0.0 en.mktossl.com
+0.0.0.0 exchange.mktossl.com
+0.0.0.0 forum.mktossl.com
+0.0.0.0 forums.mktossl.com
+0.0.0.0 ftp.mktossl.com
+0.0.0.0 fw.mktossl.com
+0.0.0.0 ga.mktossl.com
+0.0.0.0 gac-rds-external-readonly-preprod.mktossl.com
+0.0.0.0 h9po2f0wdmnt2u2n5ek0qasleuy1stn.mktossl.com
 0.0.0.0 lon02.mktossl.com
 0.0.0.0 lon03.mktossl.com
 0.0.0.0 lon04.mktossl.com
@@ -5282,6 +5353,7 @@
 0.0.0.0 lon10.mktossl.com
 0.0.0.0 lon8.mktossl.com
 0.0.0.0 mktopodab01.mktossl.com
+0.0.0.0 mobile.mktossl.com
 0.0.0.0 nld101.mktossl.com
 0.0.0.0 sb10.mktossl.com
 0.0.0.0 sb42.mktossl.com
@@ -5345,6 +5417,7 @@
 0.0.0.0 sn03.mktossl.com
 0.0.0.0 sn04.mktossl.com
 0.0.0.0 sn05.mktossl.com
+0.0.0.0 vtsinc.mktossl.com
 0.0.0.0 www.mktossl.com
 0.0.0.0 mobistealth.com
 0.0.0.0 alpha.mobistealth.com
@@ -10073,6 +10146,7 @@
 0.0.0.0 uscensusbureaucovidwfcfeim.qualtrics.com
 0.0.0.0 usckeck.qualtrics.com
 0.0.0.0 uscmarshall.qualtrics.com
+0.0.0.0 uscsocialwork.qualtrics.com
 0.0.0.0 uscstudentaffairs.qualtrics.com
 0.0.0.0 uscviterbi.qualtrics.com
 0.0.0.0 usd.qualtrics.com
@@ -11318,6 +11392,8 @@
 0.0.0.0 ak-mc-siderail.spot.im
 0.0.0.0 ak-publisher-assets.spot.im
 0.0.0.0 ak-recirculation.spot.im
+0.0.0.0 ak-spotops.spot.im
+0.0.0.0 ak-traffic.spot.im
 0.0.0.0 all.spot.im
 0.0.0.0 amp.spot.im
 0.0.0.0 api.spot.im
@@ -11350,6 +11426,7 @@
 0.0.0.0 internal-events-collector.spot.im
 0.0.0.0 kong.spot.im
 0.0.0.0 launcher.spot.im
+0.0.0.0 mail.spot.im
 0.0.0.0 mc-siderail.spot.im
 0.0.0.0 me.spot.im
 0.0.0.0 metrics-logger.spot.im
@@ -12321,7 +12398,6 @@
 0.0.0.0 bdgejehjw.duckdns.org
 0.0.0.0 ckbhlo4aow983s9atxzlt7t64j.bdgejehjw.duckdns.org
 0.0.0.0 https.email.office.9uf59ba9k4fkl4bgeohzl4sqnhgks.ywhmkt2cl8bpbnlki6rzq.8i5khzu1sw9xkeyydvp.kecb89yzckjjncs3susueevpv.f8wyufhx6h46pkd1f.tagaletg81k4bpkgkvsha56lko4kf.t4dm0smesm6q4xtjhfvxqi6k4e.bdgejehjw.duckdns.org
-0.0.0.0 becker-net.duckdns.org
 0.0.0.0 beeitu.duckdns.org
 0.0.0.0 beep-boop.duckdns.org
 0.0.0.0 beimler.duckdns.org
@@ -12531,12 +12607,6 @@
 0.0.0.0 bvhome.duckdns.org
 0.0.0.0 bvlgarian.duckdns.org
 0.0.0.0 bypufnimjv.duckdns.org
-0.0.0.0 dozzle.bytraefik.duckdns.org
-0.0.0.0 grafana.bytraefik.duckdns.org
-0.0.0.0 portainer.bytraefik.duckdns.org
-0.0.0.0 sdl.bytraefik.duckdns.org
-0.0.0.0 sso-idp.bytraefik.duckdns.org
-0.0.0.0 sso-sp.bytraefik.duckdns.org
 0.0.0.0 c4et4uk.duckdns.org
 0.0.0.0 cabecadas.duckdns.org
 0.0.0.0 caco.duckdns.org
@@ -14648,18 +14718,13 @@
 0.0.0.0 wandersosaraiva.duckdns.org
 0.0.0.0 wardnc.duckdns.org
 0.0.0.0 warzywniak.duckdns.org
-0.0.0.0 watering.duckdns.org
-0.0.0.0 bitwarden.watering.duckdns.org
-0.0.0.0 hassio.watering.duckdns.org
 0.0.0.0 jellyfin.watering.duckdns.org
-0.0.0.0 nextcloud.watering.duckdns.org
 0.0.0.0 ombi.watering.duckdns.org
 0.0.0.0 plex.watering.duckdns.org
 0.0.0.0 psonarr.watering.duckdns.org
 0.0.0.0 pwa.watering.duckdns.org
 0.0.0.0 pwaplex.watering.duckdns.org
 0.0.0.0 test.watering.duckdns.org
-0.0.0.0 traefik.watering.duckdns.org
 0.0.0.0 unifiportal.watering.duckdns.org
 0.0.0.0 waterwall.duckdns.org
 0.0.0.0 weatheros.duckdns.org
@@ -14739,7 +14804,6 @@
 0.0.0.0 wybnas.duckdns.org
 0.0.0.0 wzefi.duckdns.org
 0.0.0.0 x-th1.duckdns.org
-0.0.0.0 x4tza24.duckdns.org
 0.0.0.0 xaumasala.duckdns.org
 0.0.0.0 xdneie.duckdns.org
 0.0.0.0 frp.xdneie.duckdns.org
@@ -15372,7 +15436,9 @@
 0.0.0.0 www.amzn.to
 0.0.0.0 tawk.to
 0.0.0.0 as.tawk.to
+0.0.0.0 asa1.tawk.to
 0.0.0.0 asa10.tawk.to
+0.0.0.0 asa11.tawk.to
 0.0.0.0 asa13.tawk.to
 0.0.0.0 asa17.tawk.to
 0.0.0.0 asa19.tawk.to
@@ -15382,6 +15448,7 @@
 0.0.0.0 asa23.tawk.to
 0.0.0.0 asa26.tawk.to
 0.0.0.0 asa3.tawk.to
+0.0.0.0 asa4.tawk.to
 0.0.0.0 asa5.tawk.to
 0.0.0.0 asa6.tawk.to
 0.0.0.0 asa7.tawk.to
