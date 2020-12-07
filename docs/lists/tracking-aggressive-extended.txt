@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-12-07T01:05:16+00:00
-# Count: 15864 domains
+# Released: 2020-12-07T13:05:16+00:00
+# Count: 15877 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1818,6 +1818,7 @@
 0.0.0.0 2zdai-un453h0931.drift.com
 0.0.0.0 aperianglobal.drift.com
 0.0.0.0 api.drift.com
+0.0.0.0 adserver.api.drift.com
 0.0.0.0 audiences.api.drift.com
 0.0.0.0 bootstrap.api.drift.com
 0.0.0.0 chat.api.drift.com
@@ -2386,6 +2387,7 @@
 0.0.0.0 1333869-19.chat.api.drift.com
 0.0.0.0 1333903-3.chat.api.drift.com
 0.0.0.0 133395-45.chat.api.drift.com
+0.0.0.0 1333950-0.chat.api.drift.com
 0.0.0.0 1333961-11.chat.api.drift.com
 0.0.0.0 1334561-11.chat.api.drift.com
 0.0.0.0 1336671-21.chat.api.drift.com
@@ -2913,6 +2915,7 @@
 0.0.0.0 file2.api.drift.com
 0.0.0.0 flow.api.drift.com
 0.0.0.0 identify.api.drift.com
+0.0.0.0 istio.api.drift.com
 0.0.0.0 lightstep-satellite.api.drift.com
 0.0.0.0 live.api.drift.com
 0.0.0.0 100191-41.live.api.drift.com
@@ -3078,6 +3081,7 @@
 0.0.0.0 adserver.98212-12.live.api.drift.com
 0.0.0.0 98631-31.live.api.drift.com
 0.0.0.0 adserver.live.api.drift.com
+0.0.0.0 meetings.api.drift.com
 0.0.0.0 messaging.api.drift.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 presence.api.drift.com
@@ -9654,6 +9658,7 @@
 0.0.0.0 znetevwa2wlb6en9p-coned.siteintercept.qualtrics.com
 0.0.0.0 znetjitvxsol8c1x7-vrt.siteintercept.qualtrics.com
 0.0.0.0 znevcenxkc1nzdyub-deakinsurveys.siteintercept.qualtrics.com
+0.0.0.0 www.znevcenxkc1nzdyub-deakinsurveys.siteintercept.qualtrics.com
 0.0.0.0 znevcrkpzely9tahj-afklm.siteintercept.qualtrics.com
 0.0.0.0 znevfhqqmstxf5cgr-wlgore.siteintercept.qualtrics.com
 0.0.0.0 znevspo0tupz8xswr-atbfeedback.siteintercept.qualtrics.com
@@ -15237,6 +15242,7 @@
 0.0.0.0 ultra-proxy.svc.att.ada.support
 0.0.0.0 baiduribank.ada.support
 0.0.0.0 balsam.ada.support
+0.0.0.0 balsam-dev.ada.support
 0.0.0.0 balsam-uk.ada.support
 0.0.0.0 bankin-fr.ada.support
 0.0.0.0 bark.ada.support
@@ -15244,6 +15250,7 @@
 0.0.0.0 betsafe.ada.support
 0.0.0.0 bitso.ada.support
 0.0.0.0 blog.ada.support
+0.0.0.0 blueair.ada.support
 0.0.0.0 bluprint.ada.support
 0.0.0.0 borrowell.ada.support
 0.0.0.0 bostonglobe.ada.support
@@ -15284,6 +15291,7 @@
 0.0.0.0 telus-fifa.ca.ada.support
 0.0.0.0 telus-fifa-tss.ca.ada.support
 0.0.0.0 telus-hr.ca.ada.support
+0.0.0.0 telus-iq-2.ca.ada.support
 0.0.0.0 telus-mob-tss.ca.ada.support
 0.0.0.0 telus-mobility.ca.ada.support
 0.0.0.0 telus-sales.ca.ada.support
@@ -15329,6 +15337,7 @@
 0.0.0.0 emma-sleep.ada.support
 0.0.0.0 emma-sleep-fr.ada.support
 0.0.0.0 emma-sleep-nl.ada.support
+0.0.0.0 fairstone.ada.support
 0.0.0.0 ficanex.ada.support
 0.0.0.0 fcu.ficanex.ada.support
 0.0.0.0 kawarthacu.ficanex.ada.support
@@ -15351,6 +15360,7 @@
 0.0.0.0 firstrade-prod.ada.support
 0.0.0.0 foodhub.ada.support
 0.0.0.0 fr.ada.support
+0.0.0.0 globalwallet.ada.support
 0.0.0.0 godaddy.ada.support
 0.0.0.0 gridpane.ada.support
 0.0.0.0 grubhub.ada.support
@@ -15376,6 +15386,7 @@
 0.0.0.0 koodo.ada.support
 0.0.0.0 kotn.ada.support
 0.0.0.0 lightsallnight.ada.support
+0.0.0.0 linenchest.ada.support
 0.0.0.0 linode.ada.support
 0.0.0.0 litebit.ada.support
 0.0.0.0 loblaws-og.ada.support
@@ -15453,6 +15464,7 @@
 0.0.0.0 seminolecounty.ada.support
 0.0.0.0 shapermint.ada.support
 0.0.0.0 share.ada.support
+0.0.0.0 shop.ada.support
 0.0.0.0 shopback.ada.support
 0.0.0.0 smartvault.ada.support
 0.0.0.0 snowglobe.ada.support
@@ -15486,6 +15498,7 @@
 0.0.0.0 teacherspayteachers.ada.support
 0.0.0.0 tile.ada.support
 0.0.0.0 tophat-2.ada.support
+0.0.0.0 trustedshops.ada.support
 0.0.0.0 try.ada.support
 0.0.0.0 www.try.ada.support
 0.0.0.0 ultius.ada.support
