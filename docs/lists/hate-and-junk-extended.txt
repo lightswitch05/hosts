@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2020-12-16T13:05:16+00:00
-# Count: 818 domains
+# Released: 2020-12-18T13:05:16+00:00
+# Count: 826 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -259,7 +259,11 @@
 0.0.0.0 ww25.kamellia.com
 0.0.0.0 www.kamellia.com
 0.0.0.0 knowingthetruth.com
+0.0.0.0 autodiscover.knowingthetruth.com
 0.0.0.0 cpanel.knowingthetruth.com
+0.0.0.0 cpcalendars.knowingthetruth.com
+0.0.0.0 mail.knowingthetruth.com
+0.0.0.0 webmail.knowingthetruth.com
 0.0.0.0 www.knowingthetruth.com
 0.0.0.0 leagueofthesouth.com
 0.0.0.0 direct.leagueofthesouth.com
@@ -365,7 +369,9 @@
 0.0.0.0 autodiscover.thefreedomarticles.com
 0.0.0.0 cpanel.thefreedomarticles.com
 0.0.0.0 cpcalendars.thefreedomarticles.com
+0.0.0.0 ftp.thefreedomarticles.com
 0.0.0.0 mail.thefreedomarticles.com
+0.0.0.0 smtp.thefreedomarticles.com
 0.0.0.0 webdisk.thefreedomarticles.com
 0.0.0.0 webmail.thefreedomarticles.com
 0.0.0.0 www.thefreedomarticles.com
@@ -542,6 +548,8 @@
 0.0.0.0 fluoridealert.org
 0.0.0.0 imap.fluoridealert.org
 0.0.0.0 la.fluoridealert.org
+0.0.0.0 mail.fluoridealert.org
+0.0.0.0 webmail.fluoridealert.org
 0.0.0.0 www.fluoridealert.org
 0.0.0.0 heartland.org
 0.0.0.0 auth.heartland.org
