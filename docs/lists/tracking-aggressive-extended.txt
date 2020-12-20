@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-12-19T13:05:16+00:00
-# Count: 16411 domains
+# Released: 2020-12-20T01:05:16+00:00
+# Count: 16425 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1149,6 +1149,7 @@
 0.0.0.0 tuan.360.cn
 0.0.0.0 tv.360.cn
 0.0.0.0 api.tv.360.cn
+0.0.0.0 b.tv.360.cn
 0.0.0.0 qweb.txl.360.cn
 0.0.0.0 txlfile.360.cn
 0.0.0.0 u.360.cn
@@ -1188,6 +1189,7 @@
 0.0.0.0 g1.vcloud.360.cn
 0.0.0.0 img.vcloud.360.cn
 0.0.0.0 vod.vcloud.360.cn
+0.0.0.0 vi.360.cn
 0.0.0.0 vip.360.cn
 0.0.0.0 code.vip.360.cn
 0.0.0.0 lucky.vip.360.cn
@@ -4308,6 +4310,7 @@
 0.0.0.0 flipper.flipboard.com
 0.0.0.0 from.flipboard.com
 0.0.0.0 gumby.flipboard.com
+0.0.0.0 ic-cdn.flipboard.com
 0.0.0.0 inside.flipboard.com
 0.0.0.0 inside-brazil.flipboard.com
 0.0.0.0 inside-espanol.flipboard.com
@@ -4333,6 +4336,7 @@
 0.0.0.0 ue.flipboard.com
 0.0.0.0 ue-c.flipboard.com
 0.0.0.0 ue-test.flipboard.com
+0.0.0.0 um-cdn.flipboard.com
 0.0.0.0 webu-auth-beta.flipboard.com
 0.0.0.0 wiki.flipboard.com
 0.0.0.0 winphone.flipboard.com
@@ -11651,6 +11655,8 @@
 0.0.0.0 winred.com
 0.0.0.0 api.winred.com
 0.0.0.0 app.winred.com
+0.0.0.0 catalog.winred.com
+0.0.0.0 dev7-portal.winred.com
 0.0.0.0 directory.winred.com
 0.0.0.0 donors.winred.com
 0.0.0.0 link.winred.com
@@ -14164,8 +14170,16 @@
 0.0.0.0 bitwarden.lx72.duckdns.org
 0.0.0.0 deconz.lx72.duckdns.org
 0.0.0.0 esphome.lx72.duckdns.org
+0.0.0.0 grafana.lx72.duckdns.org
+0.0.0.0 homeassistant.lx72.duckdns.org
+0.0.0.0 hyperion.lx72.duckdns.org
+0.0.0.0 ledfx.lx72.duckdns.org
 0.0.0.0 nibbler.lx72.duckdns.org
+0.0.0.0 notifications.lx72.duckdns.org
+0.0.0.0 pihole.lx72.duckdns.org
 0.0.0.0 registry.lx72.duckdns.org
+0.0.0.0 traefik.lx72.duckdns.org
+0.0.0.0 tv.wled.lx72.duckdns.org
 0.0.0.0 lyridsmarthub.duckdns.org
 0.0.0.0 lzelaviphh.duckdns.org
 0.0.0.0 ma-house.duckdns.org
