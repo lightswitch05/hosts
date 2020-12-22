@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-12-21T13:05:15+00:00
-# Count: 16443 domains
+# Released: 2020-12-22T01:05:16+00:00
+# Count: 16447 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -6874,6 +6874,7 @@
 0.0.0.0 c.qualtrics.com
 0.0.0.0 c01.qualtrics.com
 0.0.0.0 ca.qualtrics.com
+0.0.0.0 uwaterloo.ca.qualtrics.com
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 anaimas.ca1.qualtrics.com
 0.0.0.0 berkeleyssw.ca1.qualtrics.com
@@ -8869,6 +8870,7 @@
 0.0.0.0 renieslaptopengr.qualtrics.com
 0.0.0.0 reovirus.qualtrics.com
 0.0.0.0 reporting.qualtrics.com
+0.0.0.0 reporting-api.qualtrics.com
 0.0.0.0 reportingapi.qualtrics.com
 0.0.0.0 research.qualtrics.com
 0.0.0.0 research1.qualtrics.com
@@ -8887,6 +8889,7 @@
 0.0.0.0 rit.qualtrics.com
 0.0.0.0 rlquarantine1.qualtrics.com
 0.0.0.0 rlv1teeka.qualtrics.com
+0.0.0.0 rmit.qualtrics.com
 0.0.0.0 rmuohp.qualtrics.com
 0.0.0.0 rogensi360.qualtrics.com
 0.0.0.0 rogers.qualtrics.com
@@ -16096,10 +16099,12 @@
 0.0.0.0 www.amzn.to
 0.0.0.0 tawk.to
 0.0.0.0 accounts.tawk.to
+0.0.0.0 api.tawk.to
 0.0.0.0 as.tawk.to
 0.0.0.0 asa1.tawk.to
 0.0.0.0 asa10.tawk.to
 0.0.0.0 asa11.tawk.to
+0.0.0.0 asa12.tawk.to
 0.0.0.0 asa13.tawk.to
 0.0.0.0 asa14.tawk.to
 0.0.0.0 asa15.tawk.to
@@ -16110,7 +16115,9 @@
 0.0.0.0 asa2.tawk.to
 0.0.0.0 asa20.tawk.to
 0.0.0.0 asa21.tawk.to
+0.0.0.0 asa22.tawk.to
 0.0.0.0 asa23.tawk.to
+0.0.0.0 asa24.tawk.to
 0.0.0.0 asa26.tawk.to
 0.0.0.0 asa3.tawk.to
 0.0.0.0 asa4.tawk.to
@@ -16166,6 +16173,7 @@
 0.0.0.0 nosupport.tawk.to
 0.0.0.0 pages.tawk.to
 0.0.0.0 partners.tawk.to
+0.0.0.0 ph.tawk.to
 0.0.0.0 phdev.tawk.to
 0.0.0.0 cpanel.phdev.tawk.to
 0.0.0.0 drupal-main.phdev.tawk.to
@@ -16356,14 +16364,11 @@
 0.0.0.0 vsb13.tawk.to
 0.0.0.0 vsb15.tawk.to
 0.0.0.0 vsb17.tawk.to
-0.0.0.0 vsb2.tawk.to
 0.0.0.0 vsb21.tawk.to
 0.0.0.0 vsb25.tawk.to
-0.0.0.0 vsb29.tawk.to
 0.0.0.0 vsb33.tawk.to
 0.0.0.0 vsb35.tawk.to
 0.0.0.0 vsb37.tawk.to
-0.0.0.0 vsb39.tawk.to
 0.0.0.0 vsb41.tawk.to
 0.0.0.0 vsb42.tawk.to
 0.0.0.0 vsb45.tawk.to
@@ -16377,7 +16382,6 @@
 0.0.0.0 vsb65.tawk.to
 0.0.0.0 vsb66.tawk.to
 0.0.0.0 vsb68.tawk.to
-0.0.0.0 vsb71.tawk.to
 0.0.0.0 vsb72.tawk.to
 0.0.0.0 vsb77.tawk.to
 0.0.0.0 vsb79.tawk.to
