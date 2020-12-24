@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2020-12-23T13:05:17+00:00
-# Count: 18010 domains
+# Released: 2020-12-24T01:05:15+00:00
+# Count: 18029 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -653,6 +653,7 @@
 0.0.0.0 ccamatil.facebook.com
 0.0.0.0 ccbvl.facebook.com
 0.0.0.0 ccrms.facebook.com
+0.0.0.0 centrality.facebook.com
 0.0.0.0 check6.facebook.com
 0.0.0.0 chevron.facebook.com
 0.0.0.0 choudhry.facebook.com
@@ -1066,6 +1067,7 @@
 0.0.0.0 edge-fblite-tcp-mini-shv-01-iad3.facebook.com
 0.0.0.0 edge-fblite-tcp-mini-shv-01-sin6.facebook.com
 0.0.0.0 edge-fblite-tcp-mini-shv-01-zrh1.facebook.com
+0.0.0.0 edge-fblite-tcp-mini-shv-02-cgk1.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-01-any2.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-01-frx5.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-01-hkt1.facebook.com
@@ -1128,6 +1130,7 @@
 0.0.0.0 edge-mqtt-shv-02-bom1.facebook.com
 0.0.0.0 edge-mqtt-shv-02-dfw5.facebook.com
 0.0.0.0 edge-mqtt-shv-02-hkg4.facebook.com
+0.0.0.0 edge-mqtt-shv-03-sin6.facebook.com
 0.0.0.0 edge-msgr-latest-shv-01-kut2.facebook.com
 0.0.0.0 edge-msgr-latest-shv-02-hkg4.facebook.com
 0.0.0.0 edge-msgr-latest-shv-02-hkt1.facebook.com
@@ -1142,6 +1145,7 @@
 0.0.0.0 edge-mws-shv-01-msp1.facebook.com
 0.0.0.0 edge-mws-shv-01-ort2.facebook.com
 0.0.0.0 edge-mws-shv-01-sof1.facebook.com
+0.0.0.0 edge-mws-shv-01-zrh1.facebook.com
 0.0.0.0 edge-mws-shv-02-lga3.facebook.com
 0.0.0.0 edge-proxygen-test-healthchecks-shv-01-sea1.facebook.com
 0.0.0.0 edge-resolver001-bgp-01-cdg2.facebook.com
@@ -1233,6 +1237,7 @@
 0.0.0.0 edge-star-shv-02-cgk1.facebook.com
 0.0.0.0 edge-star-shv-02-dfw5.facebook.com
 0.0.0.0 edge-star-shv-02-hkg4.facebook.com
+0.0.0.0 edge-star-shv-02-hkt1.facebook.com
 0.0.0.0 edge-star-shv-02-maa2.facebook.com
 0.0.0.0 edge-star-shv-02-mia3.facebook.com
 0.0.0.0 edge-star-shv-02-mrs2.facebook.com
@@ -1268,6 +1273,7 @@
 0.0.0.0 edge-turnservice-shv-02-ort2.facebook.com
 0.0.0.0 edge-turnservice-shv-02-xsp1.facebook.com
 0.0.0.0 edge-turnservice-shv-03-sin6.facebook.com
+0.0.0.0 edge-xwf-p3-shv-01-akl1.facebook.com
 0.0.0.0 edge-xwf-p3-shv-01-frx5.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-bom1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-cgk1.facebook.com
@@ -1283,6 +1289,7 @@
 0.0.0.0 edge-z-m-mini-shv-02-hkt1.facebook.com
 0.0.0.0 edge-z-p1-shv-01-mia3.facebook.com
 0.0.0.0 edge-z-p1-shv-01-sea1.facebook.com
+0.0.0.0 edge-z-p1-shv-02-hkt1.facebook.com
 0.0.0.0 edge-z-p3-shv-01-ams4.facebook.com
 0.0.0.0 edge-z-p3-shv-01-arn2.facebook.com
 0.0.0.0 edge-z-p3-shv-01-atl3.facebook.com
@@ -4882,15 +4889,19 @@
 0.0.0.0 ar-ar.es-la.latest.facebook.com
 0.0.0.0 ja-jp.es-la.latest.facebook.com
 0.0.0.0 ko-kr.es-la.latest.facebook.com
+0.0.0.0 m.es-la.latest.facebook.com
 0.0.0.0 www.es-la.latest.facebook.com
 0.0.0.0 fb-lt.latest.facebook.com
 0.0.0.0 fi-fi.latest.facebook.com
 0.0.0.0 fr-ca.latest.facebook.com
+0.0.0.0 www.fr-ca.latest.facebook.com
 0.0.0.0 fr-fr.latest.facebook.com
 0.0.0.0 he-il.latest.facebook.com
+0.0.0.0 www.he-il.latest.facebook.com
 0.0.0.0 help.latest.facebook.com
 0.0.0.0 hi-in.latest.facebook.com
 0.0.0.0 hu-hu.latest.facebook.com
+0.0.0.0 www.hu-hu.latest.facebook.com
 0.0.0.0 id-id.latest.facebook.com
 0.0.0.0 it-it.latest.facebook.com
 0.0.0.0 ja-jp.latest.facebook.com
@@ -4905,7 +4916,13 @@
 0.0.0.0 p-upload.latest.facebook.com
 0.0.0.0 pixel.latest.facebook.com
 0.0.0.0 pl-pl.latest.facebook.com
+0.0.0.0 de-de.pl-pl.latest.facebook.com
 0.0.0.0 en-gb.pl-pl.latest.facebook.com
+0.0.0.0 he-il.pl-pl.latest.facebook.com
+0.0.0.0 hi-in.pl-pl.latest.facebook.com
+0.0.0.0 ro-ro.pl-pl.latest.facebook.com
+0.0.0.0 ru-ru.pl-pl.latest.facebook.com
+0.0.0.0 tr-tr.pl-pl.latest.facebook.com
 0.0.0.0 www.pl-pl.latest.facebook.com
 0.0.0.0 pt-br.latest.facebook.com
 0.0.0.0 pt-pt.latest.facebook.com
@@ -4921,6 +4938,9 @@
 0.0.0.0 m.th-th.latest.facebook.com
 0.0.0.0 www.th-th.latest.facebook.com
 0.0.0.0 tr-tr.latest.facebook.com
+0.0.0.0 m.tr-tr.latest.facebook.com
+0.0.0.0 www.tr-tr.latest.facebook.com
+0.0.0.0 zh-cn.tr-tr.latest.facebook.com
 0.0.0.0 upload.latest.facebook.com
 0.0.0.0 vaccine-bc-huang.latest.facebook.com
 0.0.0.0 vi-vn.latest.facebook.com
@@ -9324,6 +9344,7 @@
 0.0.0.0 whatsapp-chatd-edge-shv-02-lga3.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-maa2.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-02-xsp1.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-03-sin6.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-03-xsp1.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-edge-shv-01-atl3.facebook.com
 0.0.0.0 wistron.facebook.com
@@ -11890,7 +11911,6 @@
 0.0.0.0 instagram.fala6-1.fna.fbcdn.net
 0.0.0.0 instagram.falg1-2.fna.fbcdn.net
 0.0.0.0 scontent.falg1-2.fna.fbcdn.net
-0.0.0.0 scontent.falg2-1.fna.fbcdn.net
 0.0.0.0 instagram.falg3-1.fna.fbcdn.net
 0.0.0.0 scontent.falg3-1.fna.fbcdn.net
 0.0.0.0 instagram.falg3-2.fna.fbcdn.net
@@ -13019,7 +13039,6 @@
 0.0.0.0 instagram.fgza2-1.fna.fbcdn.net
 0.0.0.0 scontent.fgza2-1.fna.fbcdn.net
 0.0.0.0 instagram.fgza6-1.fna.fbcdn.net
-0.0.0.0 fgza7-1.fna.fbcdn.net
 0.0.0.0 instagram.fgza7-1.fna.fbcdn.net
 0.0.0.0 scontent.fhaj1-1.fna.fbcdn.net
 0.0.0.0 scontent.fhaj2-1.fna.fbcdn.net
@@ -14209,7 +14228,6 @@
 0.0.0.0 instagram.frec21-1.fna.fbcdn.net
 0.0.0.0 instagram.frec26-1.fna.fbcdn.net
 0.0.0.0 instagram.frec27-1.fna.fbcdn.net
-0.0.0.0 frec28-1.fna.fbcdn.net
 0.0.0.0 scontent.frec3-1.fna.fbcdn.net
 0.0.0.0 instagram.frec3-2.fna.fbcdn.net
 0.0.0.0 scontent.frec32-1.fna.fbcdn.net
@@ -15090,6 +15108,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-waw1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-xsp1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-zrh1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-02-cgk1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-hkg4.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-hkt1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-02-kut2.fbcdn.net
@@ -17642,6 +17661,7 @@
 0.0.0.0 media.fhan2-5.fna.whatsapp.net
 0.0.0.0 media.fhan2-6.fna.whatsapp.net
 0.0.0.0 media.fhan7-1.fna.whatsapp.net
+0.0.0.0 fhel2-1.fna.whatsapp.net
 0.0.0.0 media.fhel3-1.fna.whatsapp.net
 0.0.0.0 media.fhel5-1.fna.whatsapp.net
 0.0.0.0 media.fhhr1-1.fna.whatsapp.net
@@ -17922,7 +17942,6 @@
 0.0.0.0 media.fvte5-1.fna.whatsapp.net
 0.0.0.0 media.fvtz1-1.fna.whatsapp.net
 0.0.0.0 fwnp1-1.fna.whatsapp.net
-0.0.0.0 fxds1-1.fna.whatsapp.net
 0.0.0.0 media.fxds1-1.fna.whatsapp.net
 0.0.0.0 media.fybz2-2.fna.whatsapp.net
 0.0.0.0 media.fyka1-1.fna.whatsapp.net
