@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2020-12-26T13:05:16+00:00
-# Count: 16540 domains
+# Released: 2020-12-27T01:05:16+00:00
+# Count: 16638 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -273,6 +273,7 @@
 0.0.0.0 api.crm.360.cn
 0.0.0.0 kf.crm.360.cn
 0.0.0.0 salesvideo.crm.360.cn
+0.0.0.0 sentry.crm.360.cn
 0.0.0.0 cs.360.cn
 0.0.0.0 ctf.360.cn
 0.0.0.0 competition.ctf.360.cn
@@ -552,6 +553,7 @@
 0.0.0.0 cdn.ota.iot.360.cn
 0.0.0.0 disp.push.iot.360.cn
 0.0.0.0 iots.360.cn
+0.0.0.0 an.iots.360.cn
 0.0.0.0 ios.iots.360.cn
 0.0.0.0 iotsec.360.cn
 0.0.0.0 dnsapi.iotsec.360.cn
@@ -1157,6 +1159,7 @@
 0.0.0.0 b.tv.360.cn
 0.0.0.0 qweb.txl.360.cn
 0.0.0.0 txlfile.360.cn
+0.0.0.0 skin.txlfile.360.cn
 0.0.0.0 u.360.cn
 0.0.0.0 bbs.u.360.cn
 0.0.0.0 ka.u.360.cn
@@ -1256,6 +1259,7 @@
 0.0.0.0 stat.wifi.360.cn
 0.0.0.0 wm.360.cn
 0.0.0.0 wot.360.cn
+0.0.0.0 camp.wot.360.cn
 0.0.0.0 shop.wot.360.cn
 0.0.0.0 wows.360.cn
 0.0.0.0 shop.wows.360.cn
@@ -1555,6 +1559,7 @@
 0.0.0.0 starwood.ugc.bazaarvoice.com
 0.0.0.0 stenaline.ugc.bazaarvoice.com
 0.0.0.0 sterilite.ugc.bazaarvoice.com
+0.0.0.0 stwc.ugc.bazaarvoice.com
 0.0.0.0 sudafed.ugc.bazaarvoice.com
 0.0.0.0 sunglasshut.ugc.bazaarvoice.com
 0.0.0.0 suunto.ugc.bazaarvoice.com
@@ -1575,6 +1580,7 @@
 0.0.0.0 tvsn.ugc.bazaarvoice.com
 0.0.0.0 tylenol.ugc.bazaarvoice.com
 0.0.0.0 underarmour.ugc.bazaarvoice.com
+0.0.0.0 underarmourkr.ugc.bazaarvoice.com
 0.0.0.0 uniqlo.ugc.bazaarvoice.com
 0.0.0.0 uniqloenus.ugc.bazaarvoice.com
 0.0.0.0 vandenborre.ugc.bazaarvoice.com
@@ -3325,6 +3331,7 @@
 0.0.0.0 globalops.exacttarget.com
 0.0.0.0 gtm01.exacttarget.com
 0.0.0.0 gtm02.exacttarget.com
+0.0.0.0 hb.exacttarget.com
 0.0.0.0 help.exacttarget.com
 0.0.0.0 hosting.exacttarget.com
 0.0.0.0 aaa.hosting.exacttarget.com
@@ -4236,10 +4243,15 @@
 0.0.0.0 admin.flexispy.com
 0.0.0.0 affiliates.flexispy.com
 0.0.0.0 api.flexispy.com
+0.0.0.0 autodiscover.flexispy.com
 0.0.0.0 blog.flexispy.com
 0.0.0.0 community.flexispy.com
 0.0.0.0 crm.flexispy.com
+0.0.0.0 dev-ecom.flexispy.com
 0.0.0.0 ecom.flexispy.com
+0.0.0.0 ecomapi.flexispy.com
+0.0.0.0 enterpriseenrollment.flexispy.com
+0.0.0.0 enterpriseregistration.flexispy.com
 0.0.0.0 express.flexispy.com
 0.0.0.0 forms.flexispy.com
 0.0.0.0 go.flexispy.com
@@ -4247,6 +4259,7 @@
 0.0.0.0 magpieadmin.flexispy.com
 0.0.0.0 portal.flexispy.com
 0.0.0.0 sip.flexispy.com
+0.0.0.0 smsgateway.flexispy.com
 0.0.0.0 spyshop.flexispy.com
 0.0.0.0 www.spyshop.flexispy.com
 0.0.0.0 status.flexispy.com
@@ -4370,6 +4383,7 @@
 0.0.0.0 accounts.gigya.com
 0.0.0.0 adfs.gigya.com
 0.0.0.0 admin.gigya.com
+0.0.0.0 adobe.gigya.com
 0.0.0.0 api.gigya.com
 0.0.0.0 accounts.au1.gigya.com
 0.0.0.0 cdn.au1.gigya.com
@@ -4410,6 +4424,7 @@
 0.0.0.0 my.console.gigya.com
 0.0.0.0 aha.my.console.gigya.com
 0.0.0.0 deloitte.my.console.gigya.com
+0.0.0.0 cp.gigya.com
 0.0.0.0 demo.gigya.com
 0.0.0.0 developers.gigya.com
 0.0.0.0 www.developers.gigya.com
@@ -4670,12 +4685,14 @@
 0.0.0.0 ms.gravatar.com
 0.0.0.0 nb.gravatar.com
 0.0.0.0 nl.gravatar.com
+0.0.0.0 oc.gravatar.com
 0.0.0.0 pl.gravatar.com
 0.0.0.0 po.gravatar.com
 0.0.0.0 pt.gravatar.com
 0.0.0.0 ro.gravatar.com
 0.0.0.0 ru.gravatar.com
 0.0.0.0 s.gravatar.com
+0.0.0.0 s-origin.gravatar.com
 0.0.0.0 secure.gravatar.com
 0.0.0.0 site.gravatar.com
 0.0.0.0 sk.gravatar.com
@@ -4733,11 +4750,13 @@
 0.0.0.0 ipv.icanhazip.com
 0.0.0.0 ipv4.icanhazip.com
 0.0.0.0 ipva4.icanhazip.com
+0.0.0.0 ipvr.icanhazip.com
 0.0.0.0 lax.icanhazip.com
 0.0.0.0 mia.icanhazip.com
 0.0.0.0 ord.icanhazip.com
 0.0.0.0 packet-ewr.icanhazip.com
 0.0.0.0 packet-sjc.icanhazip.com
+0.0.0.0 packet-sjc2.icanhazip.com
 0.0.0.0 pv4.icanhazip.com
 0.0.0.0 shared.icanhazip.com
 0.0.0.0 status.icanhazip.com
@@ -4750,6 +4769,7 @@
 0.0.0.0 www.icanhazip.com
 0.0.0.0 www6.icanhazip.com
 0.0.0.0 wwww.icanhazip.com
+0.0.0.0 y.icanhazip.com
 0.0.0.0 gameplayapi.intel.com
 0.0.0.0 intercomcdn.com
 0.0.0.0 blog.intercomcdn.com
@@ -5012,6 +5032,8 @@
 0.0.0.0 connect-eu.livechatinc.com
 0.0.0.0 crm.livechatinc.com
 0.0.0.0 dashboard.livechatinc.com
+0.0.0.0 dashboard-fra.livechatinc.com
+0.0.0.0 deploy.livechatinc.com
 0.0.0.0 dev-platform.livechatinc.com
 0.0.0.0 developers.livechatinc.com
 0.0.0.0 docs.livechatinc.com
@@ -5030,6 +5052,7 @@
 0.0.0.0 hubspot.livechatinc.com
 0.0.0.0 integrations.livechatinc.com
 0.0.0.0 investor.livechatinc.com
+0.0.0.0 investors.livechatinc.com
 0.0.0.0 labs.livechatinc.com
 0.0.0.0 accounts.labs.livechatinc.com
 0.0.0.0 api.labs.livechatinc.com
@@ -5055,6 +5078,7 @@
 0.0.0.0 panel.livechatinc.com
 0.0.0.0 panel-eu.livechatinc.com
 0.0.0.0 partners.livechatinc.com
+0.0.0.0 pm-bounces.livechatinc.com
 0.0.0.0 pmbounces.livechatinc.com
 0.0.0.0 prestashop.livechatinc.com
 0.0.0.0 quality.livechatinc.com
@@ -5083,6 +5107,9 @@
 0.0.0.0 pmbounces.tickets.livechatinc.com
 0.0.0.0 url5285.livechatinc.com
 0.0.0.0 verify.livechatinc.com
+0.0.0.0 vpn-dal-sl.livechatinc.com
+0.0.0.0 vpn-fra-sl.livechatinc.com
+0.0.0.0 vpn2-dal-sl.livechatinc.com
 0.0.0.0 wix.livechatinc.com
 0.0.0.0 www.livechatinc.com
 0.0.0.0 livefyre.com
@@ -5181,6 +5208,7 @@
 0.0.0.0 legal.livefyre.com
 0.0.0.0 liveblogeditor.livefyre.com
 0.0.0.0 maven.livefyre.com
+0.0.0.0 outbound.livefyre.com
 0.0.0.0 pypi.livefyre.com
 0.0.0.0 qa-ext.livefyre.com
 0.0.0.0 accounts.qa-ext.livefyre.com
@@ -5219,6 +5247,8 @@
 0.0.0.0 cloudfront.zor.livefyre.com
 0.0.0.0 maxmind.com
 0.0.0.0 api.maxmind.com
+0.0.0.0 api-us-east.maxmind.com
+0.0.0.0 api-us-west.maxmind.com
 0.0.0.0 api-v4.maxmind.com
 0.0.0.0 apt.maxmind.com
 0.0.0.0 blog.maxmind.com
@@ -5463,10 +5493,17 @@
 0.0.0.0 www.mktossl.com
 0.0.0.0 mobistealth.com
 0.0.0.0 alpha.mobistealth.com
+0.0.0.0 archive.mobistealth.com
+0.0.0.0 beta.mobistealth.com
+0.0.0.0 cp.mobistealth.com
 0.0.0.0 dashboard.mobistealth.com
+0.0.0.0 dbadm.mobistealth.com
+0.0.0.0 dev.mobistealth.com
 0.0.0.0 layer.mobistealth.com
 0.0.0.0 mail.mobistealth.com
 0.0.0.0 mobile.mobistealth.com
+0.0.0.0 sandbox.mobistealth.com
+0.0.0.0 secure.mobistealth.com
 0.0.0.0 support.mobistealth.com
 0.0.0.0 vmanager.mobistealth.com
 0.0.0.0 web1.mobistealth.com
@@ -5489,6 +5526,7 @@
 0.0.0.0 frwww2.mspy.com
 0.0.0.0 ha.mspy.com
 0.0.0.0 kr.mspy.com
+0.0.0.0 link.mspy.com
 0.0.0.0 m.mspy.com
 0.0.0.0 secure.mspy.com
 0.0.0.0 static.mspy.com
@@ -5526,6 +5564,9 @@
 0.0.0.0 270-events.olark.com
 0.0.0.0 284-events.olark.com
 0.0.0.0 289-events.olark.com
+0.0.0.0 2knrpc.olark.com
+0.0.0.0 2log.olark.com
+0.0.0.0 2static.olark.com
 0.0.0.0 303-events.olark.com
 0.0.0.0 304-events.olark.com
 0.0.0.0 400-events.olark.com
@@ -5590,24 +5631,46 @@
 0.0.0.0 https_static.olark.com
 0.0.0.0 httpstatic.olark.com
 0.0.0.0 hub.olark.com
+0.0.0.0 i.olark.com
+0.0.0.0 ia.olark.com
 0.0.0.0 im.olark.com
 0.0.0.0 images-async.olark.com
+0.0.0.0 indianapolis.olark.com
+0.0.0.0 io.olark.com
 0.0.0.0 ip-chat.olark.com
 0.0.0.0 ip-jabber.olark.com
 0.0.0.0 ip-rpc1.olark.com
 0.0.0.0 ip-www.olark.com
+0.0.0.0 irc.olark.com
+0.0.0.0 irving.olark.com
 0.0.0.0 isolatie.olark.com
+0.0.0.0 jedi.olark.com
 0.0.0.0 jmask.olark.com
+0.0.0.0 jo.olark.com
+0.0.0.0 juniper.olark.com
 0.0.0.0 kaffemaskiner.olark.com
+0.0.0.0 kansas.olark.com
 0.0.0.0 knrpc.olark.com
+0.0.0.0 laptop.olark.com
+0.0.0.0 link.olark.com
 0.0.0.0 log.olark.com
+0.0.0.0 logfiles.olark.com
 0.0.0.0 longdistance.olark.com
+0.0.0.0 mac11.olark.com
+0.0.0.0 mac2.olark.com
+0.0.0.0 mac4.olark.com
+0.0.0.0 mail2.olark.com
+0.0.0.0 manufacturing.olark.com
 0.0.0.0 mask12.olark.com
 0.0.0.0 mask7.olark.com
 0.0.0.0 maskan.olark.com
 0.0.0.0 masking.olark.com
 0.0.0.0 maskman626.olark.com
 0.0.0.0 maskulin.olark.com
+0.0.0.0 mci.olark.com
+0.0.0.0 md.olark.com
+0.0.0.0 mdaemon.olark.com
+0.0.0.0 media.olark.com
 0.0.0.0 mi.olark.com
 0.0.0.0 michigan.olark.com
 0.0.0.0 minecraft-virusz.olark.com
@@ -5616,6 +5679,7 @@
 0.0.0.0 mt.olark.com
 0.0.0.0 netstats.olark.com
 0.0.0.0 news.olark.com
+0.0.0.0 nexcess-1.olark.com
 0.0.0.0 nightmask3.olark.com
 0.0.0.0 november.olark.com
 0.0.0.0 np.olark.com
@@ -5689,10 +5753,12 @@
 0.0.0.0 blog.opinionstage.com
 0.0.0.0 help.opinionstage.com
 0.0.0.0 test.opinionstage.com
+0.0.0.0 test2.opinionstage.com
 0.0.0.0 www.opinionstage.com
 0.0.0.0 pingdom.com
 0.0.0.0 aday.pingdom.com
 0.0.0.0 api.pingdom.com
+0.0.0.0 billing.pingdom.com
 0.0.0.0 blog.pingdom.com
 0.0.0.0 borntohack.pingdom.com
 0.0.0.0 calendar.pingdom.com
@@ -5735,6 +5801,12 @@
 0.0.0.0 s4019.pingdom.com
 0.0.0.0 s4020.pingdom.com
 0.0.0.0 s4021.pingdom.com
+0.0.0.0 s4022.pingdom.com
+0.0.0.0 s4023.pingdom.com
+0.0.0.0 s4025.pingdom.com
+0.0.0.0 s4026.pingdom.com
+0.0.0.0 s4027.pingdom.com
+0.0.0.0 s4028.pingdom.com
 0.0.0.0 s4029.pingdom.com
 0.0.0.0 s4030.pingdom.com
 0.0.0.0 s4031.pingdom.com
@@ -5742,6 +5814,7 @@
 0.0.0.0 s4035.pingdom.com
 0.0.0.0 s4036.pingdom.com
 0.0.0.0 s4037.pingdom.com
+0.0.0.0 s4038.pingdom.com
 0.0.0.0 s4039.pingdom.com
 0.0.0.0 s4040.pingdom.com
 0.0.0.0 s4041.pingdom.com
@@ -5751,6 +5824,8 @@
 0.0.0.0 s4046.pingdom.com
 0.0.0.0 s4047.pingdom.com
 0.0.0.0 s4048.pingdom.com
+0.0.0.0 s4049.pingdom.com
+0.0.0.0 s4050.pingdom.com
 0.0.0.0 s4051.pingdom.com
 0.0.0.0 s4052.pingdom.com
 0.0.0.0 s4053.pingdom.com
@@ -5758,15 +5833,20 @@
 0.0.0.0 s4058.pingdom.com
 0.0.0.0 s4059.pingdom.com
 0.0.0.0 s4061.pingdom.com
+0.0.0.0 s4062.pingdom.com
+0.0.0.0 s4063.pingdom.com
 0.0.0.0 s4064.pingdom.com
 0.0.0.0 s4065.pingdom.com
 0.0.0.0 s4066.pingdom.com
+0.0.0.0 s4073.pingdom.com
 0.0.0.0 s4074.pingdom.com
 0.0.0.0 s4076.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s412.pingdom.com
 0.0.0.0 s413.pingdom.com
 0.0.0.0 s414.pingdom.com
+0.0.0.0 s415.pingdom.com
+0.0.0.0 s416.pingdom.com
 0.0.0.0 s418.pingdom.com
 0.0.0.0 s420.pingdom.com
 0.0.0.0 s425.pingdom.com
@@ -5774,7 +5854,12 @@
 0.0.0.0 s427.pingdom.com
 0.0.0.0 s428.pingdom.com
 0.0.0.0 s429.pingdom.com
+0.0.0.0 s430.pingdom.com
+0.0.0.0 s431.pingdom.com
+0.0.0.0 s432.pingdom.com
 0.0.0.0 s435.pingdom.com
+0.0.0.0 s436.pingdom.com
+0.0.0.0 s437.pingdom.com
 0.0.0.0 s438.pingdom.com
 0.0.0.0 s441.pingdom.com
 0.0.0.0 s442.pingdom.com
@@ -5788,8 +5873,10 @@
 0.0.0.0 s452.pingdom.com
 0.0.0.0 s455.pingdom.com
 0.0.0.0 s456.pingdom.com
+0.0.0.0 s458.pingdom.com
 0.0.0.0 s459.pingdom.com
 0.0.0.0 s460.pingdom.com
+0.0.0.0 s461.pingdom.com
 0.0.0.0 s462.pingdom.com
 0.0.0.0 s464.pingdom.com
 0.0.0.0 s465.pingdom.com
@@ -5800,8 +5887,17 @@
 0.0.0.0 s484.pingdom.com
 0.0.0.0 s485.pingdom.com
 0.0.0.0 s486.pingdom.com
+0.0.0.0 s487.pingdom.com
+0.0.0.0 s488.pingdom.com
+0.0.0.0 s489.pingdom.com
+0.0.0.0 s490.pingdom.com
+0.0.0.0 s491.pingdom.com
+0.0.0.0 s492.pingdom.com
+0.0.0.0 s493.pingdom.com
+0.0.0.0 s494.pingdom.com
 0.0.0.0 s495.pingdom.com
 0.0.0.0 s496.pingdom.com
+0.0.0.0 s497.pingdom.com
 0.0.0.0 s498.pingdom.com
 0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 server.pingdom.com
@@ -5809,6 +5905,7 @@
 0.0.0.0 share.pingdom.com
 0.0.0.0 st-heroku.pingdom.com
 0.0.0.0 st-livemap.pingdom.com
+0.0.0.0 st-my.pingdom.com
 0.0.0.0 st-secure-stats.pingdom.com
 0.0.0.0 st-share.pingdom.com
 0.0.0.0 st-tms-tester-eu.pingdom.com
@@ -5822,6 +5919,7 @@
 0.0.0.0 tms-tester-us-west.pingdom.com
 0.0.0.0 tool.pingdom.com
 0.0.0.0 tools.pingdom.com
+0.0.0.0 webhook.pingdom.com
 0.0.0.0 webmail.pingdom.com
 0.0.0.0 www.pingdom.com
 0.0.0.0 s.pinimg.com
