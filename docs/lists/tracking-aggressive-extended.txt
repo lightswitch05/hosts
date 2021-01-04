@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-01-03T13:05:16+00:00
-# Count: 18292 domains
+# Released: 2021-01-04T01:05:16+00:00
+# Count: 18316 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -5490,7 +5490,11 @@
 0.0.0.0 fw.mktossl.com
 0.0.0.0 ga.mktossl.com
 0.0.0.0 gac-rds-external-readonly-preprod.mktossl.com
+0.0.0.0 guse4002.mktossl.com
 0.0.0.0 h9po2f0wdmnt2u2n5ek0qasleuy1stn.mktossl.com
+0.0.0.0 images.mktossl.com
+0.0.0.0 inbound.mktossl.com
+0.0.0.0 ipv6.mktossl.com
 0.0.0.0 lon02.mktossl.com
 0.0.0.0 lon03.mktossl.com
 0.0.0.0 lon04.mktossl.com
@@ -5500,13 +5504,26 @@
 0.0.0.0 lon08.mktossl.com
 0.0.0.0 lon09.mktossl.com
 0.0.0.0 lon10.mktossl.com
+0.0.0.0 lon3.mktossl.com
 0.0.0.0 lon8.mktossl.com
+0.0.0.0 mail2.mktossl.com
 0.0.0.0 mktopodab01.mktossl.com
 0.0.0.0 mobile.mktossl.com
+0.0.0.0 mta-sts.mktossl.com
+0.0.0.0 mx01.mktossl.com
+0.0.0.0 mx1.mktossl.com
+0.0.0.0 mx2.mktossl.com
+0.0.0.0 nld1.mktossl.com
 0.0.0.0 nld101.mktossl.com
+0.0.0.0 ns1.mktossl.com
+0.0.0.0 ns2.mktossl.com
+0.0.0.0 ns3.mktossl.com
+0.0.0.0 ns4.mktossl.com
+0.0.0.0 pop3.mktossl.com
 0.0.0.0 sb10.mktossl.com
 0.0.0.0 sb42.mktossl.com
 0.0.0.0 sbj.mktossl.com
+0.0.0.0 server1.mktossl.com
 0.0.0.0 sj01.mktossl.com
 0.0.0.0 sj02.mktossl.com
 0.0.0.0 sj02b.mktossl.com
@@ -5566,8 +5583,16 @@
 0.0.0.0 sn03.mktossl.com
 0.0.0.0 sn04.mktossl.com
 0.0.0.0 sn05.mktossl.com
+0.0.0.0 staging.mktossl.com
+0.0.0.0 static.mktossl.com
+0.0.0.0 stats.mktossl.com
+0.0.0.0 vpn.mktossl.com
 0.0.0.0 vtsinc.mktossl.com
+0.0.0.0 wp.mktossl.com
+0.0.0.0 ww1.mktossl.com
 0.0.0.0 www.mktossl.com
+0.0.0.0 www1.mktossl.com
+0.0.0.0 www2.mktossl.com
 0.0.0.0 mobistealth.com
 0.0.0.0 alpha.mobistealth.com
 0.0.0.0 archive.mobistealth.com
@@ -12674,7 +12699,6 @@
 0.0.0.0 sf2.ipinfo.io
 0.0.0.0 sss.ipinfo.io
 0.0.0.0 staging.ipinfo.io
-0.0.0.0 us.ipinfo.io
 0.0.0.0 v6.ipinfo.io
 0.0.0.0 sub.v6.ipinfo.io
 0.0.0.0 w.ipinfo.io

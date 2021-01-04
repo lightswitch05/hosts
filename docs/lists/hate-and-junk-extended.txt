@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-01-01T01:05:16+00:00
-# Count: 909 domains
+# Released: 2021-01-04T01:05:16+00:00
+# Count: 938 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -30,6 +30,7 @@
 0.0.0.0 mail.siegeculture.biz
 0.0.0.0 webdisk.siegeculture.biz
 0.0.0.0 webmail.siegeculture.biz
+0.0.0.0 wlamazcsrv1.siegeculture.biz
 0.0.0.0 ww11.siegeculture.biz
 0.0.0.0 ww25.siegeculture.biz
 0.0.0.0 ww31.siegeculture.biz
@@ -274,10 +275,15 @@
 0.0.0.0 webmail.knowingthetruth.com
 0.0.0.0 www.knowingthetruth.com
 0.0.0.0 leagueofthesouth.com
+0.0.0.0 802342794173233527.leagueofthesouth.com
+0.0.0.0 aaa.leagueofthesouth.com
 0.0.0.0 direct.leagueofthesouth.com
 0.0.0.0 dixie.leagueofthesouth.com
+0.0.0.0 forum.leagueofthesouth.com
+0.0.0.0 lync.leagueofthesouth.com
 0.0.0.0 mail.leagueofthesouth.com
 0.0.0.0 www.leagueofthesouth.com
+0.0.0.0 wwww.leagueofthesouth.com
 0.0.0.0 lewrockwell.com
 0.0.0.0 archive.lewrockwell.com
 0.0.0.0 beta.lewrockwell.com
@@ -326,6 +332,7 @@
 0.0.0.0 web-dev.projectveritas.com
 0.0.0.0 www.projectveritas.com
 0.0.0.0 proudboysusa.com
+0.0.0.0 old.proudboysusa.com
 0.0.0.0 www.proudboysusa.com
 0.0.0.0 qanon-news.com
 0.0.0.0 www.qanon-news.com
@@ -406,6 +413,7 @@
 0.0.0.0 www.traceamounts.com
 0.0.0.0 unitedpatriotsofamerica.com
 0.0.0.0 cpanel.unitedpatriotsofamerica.com
+0.0.0.0 cpcalendars.unitedpatriotsofamerica.com
 0.0.0.0 cpcontacts.unitedpatriotsofamerica.com
 0.0.0.0 mail.unitedpatriotsofamerica.com
 0.0.0.0 webdisk.unitedpatriotsofamerica.com
@@ -509,9 +517,11 @@
 0.0.0.0 www.afa.net
 0.0.0.0 americanfreepress.net
 0.0.0.0 afpstore.americanfreepress.net
+0.0.0.0 dc-fc8c769cf791.americanfreepress.net
 0.0.0.0 host.americanfreepress.net
 0.0.0.0 newsletter.americanfreepress.net
 0.0.0.0 ns1.americanfreepress.net
+0.0.0.0 ns2.americanfreepress.net
 0.0.0.0 shop.americanfreepress.net
 0.0.0.0 www.americanfreepress.net
 0.0.0.0 cancerwisdom.net
@@ -684,7 +694,14 @@
 0.0.0.0 sniper.nsm88.org
 0.0.0.0 www.nsm88.org
 0.0.0.0 nvic.org
+0.0.0.0 gate.nvic.org
+0.0.0.0 mail.nvic.org
+0.0.0.0 mailx.nvic.org
+0.0.0.0 mx4.nvic.org
+0.0.0.0 smtp.nvic.org
+0.0.0.0 smtpauth.nvic.org
 0.0.0.0 wdev.nvic.org
+0.0.0.0 webmail.nvic.org
 0.0.0.0 ww.nvic.org
 0.0.0.0 www.nvic.org
 0.0.0.0 pacificaforum.org
@@ -859,6 +876,7 @@
 0.0.0.0 3-admin.8kun.top
 0.0.0.0 8k1.8kun.top
 0.0.0.0 8k2.8kun.top
+0.0.0.0 admin.8kun.top
 0.0.0.0 app.8kun.top
 0.0.0.0 archive.8kun.top
 0.0.0.0 b.8kun.top
@@ -879,16 +897,22 @@
 0.0.0.0 mecia.8kun.top
 0.0.0.0 med.8kun.top
 0.0.0.0 media.8kun.top
+0.0.0.0 media2.8kun.top
 0.0.0.0 mediajune.8kun.top
 0.0.0.0 merch-admin.8kun.top
 0.0.0.0 nerv.8kun.top
 0.0.0.0 nerve.8kun.top
+0.0.0.0 nnerve.8kun.top
 0.0.0.0 ns1.8kun.top
 0.0.0.0 ns2.8kun.top
+0.0.0.0 nsys.8kun.top
 0.0.0.0 oldsite.8kun.top
 0.0.0.0 openpgpkey.8kun.top
+0.0.0.0 pingfore.8kun.top
 0.0.0.0 pop.8kun.top
 0.0.0.0 riga.8kun.top
+0.0.0.0 rnerv.8kun.top
+0.0.0.0 rsoon.8kun.top
 0.0.0.0 sandboxsys3.8kun.top
 0.0.0.0 softserve.8kun.top
 0.0.0.0 softserve.softserve.8kun.top
@@ -897,12 +921,17 @@
 0.0.0.0 sys1.8kun.top
 0.0.0.0 sys2.8kun.top
 0.0.0.0 sys3.8kun.top
+0.0.0.0 v.8kun.top
 0.0.0.0 ww.8kun.top
 0.0.0.0 ww1.8kun.top
 0.0.0.0 ww11.8kun.top
 0.0.0.0 www.8kun.top
 0.0.0.0 www14.8kun.top
 0.0.0.0 wyw.8kun.top
+0.0.0.0 x0csys.8kun.top
+0.0.0.0 x0cwww.8kun.top
+0.0.0.0 x0emedia.8kun.top
+0.0.0.0 x12softserve.8kun.top
 0.0.0.0 patriotfront.us
 0.0.0.0 membership.patriotfront.us
 0.0.0.0 www.patriotfront.us
