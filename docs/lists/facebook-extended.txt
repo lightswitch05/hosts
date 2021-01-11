@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-01-11T01:05:16+00:00
-# Count: 18219 domains
+# Released: 2021-01-11T13:05:16+00:00
+# Count: 18221 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -316,6 +316,7 @@
 0.0.0.0 accenture.facebook.com
 0.0.0.0 accounts-graph.facebook.com
 0.0.0.0 actcorp.facebook.com
+0.0.0.0 adeo.facebook.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 advantio.facebook.com
 0.0.0.0 af-za.facebook.com
@@ -1174,6 +1175,7 @@
 0.0.0.0 edge-star-mini-shv-01-atl3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bom1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-bos3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-bru2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-cdg2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-del1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-den4.facebook.com
@@ -1238,6 +1240,7 @@
 0.0.0.0 edge-star-shv-02-bom1.facebook.com
 0.0.0.0 edge-star-shv-02-cgk1.facebook.com
 0.0.0.0 edge-star-shv-02-dfw5.facebook.com
+0.0.0.0 edge-star-shv-02-frt3.facebook.com
 0.0.0.0 edge-star-shv-02-hkg4.facebook.com
 0.0.0.0 edge-star-shv-02-hkt1.facebook.com
 0.0.0.0 edge-star-shv-02-maa2.facebook.com
@@ -1290,6 +1293,7 @@
 0.0.0.0 edge-z-m-mini-shv-01-xsp1.facebook.com
 0.0.0.0 edge-z-m-mini-shv-02-hkg4.facebook.com
 0.0.0.0 edge-z-m-mini-shv-02-hkt1.facebook.com
+0.0.0.0 edge-z-m-mini-shv-03-sin6.facebook.com
 0.0.0.0 edge-z-p1-shv-01-mia3.facebook.com
 0.0.0.0 edge-z-p1-shv-01-sea1.facebook.com
 0.0.0.0 edge-z-p1-shv-02-hkt1.facebook.com
@@ -6395,6 +6399,7 @@
 0.0.0.0 live-api.facebook.com
 0.0.0.0 live-api-a.facebook.com
 0.0.0.0 live-api-s.facebook.com
+0.0.0.0 live-upload-staging.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-any2.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-dub4.facebook.com
 0.0.0.0 livestream-edgetee-upload-shv-01-gig2.facebook.com
@@ -9439,8 +9444,10 @@
 0.0.0.0 facebookmail.com
 0.0.0.0 afs.facebookmail.com
 0.0.0.0 links.event.facebookmail.com
+0.0.0.0 facebook-research.facebookmail.com
 0.0.0.0 go.facebookmail.com
 0.0.0.0 mc.facebookmail.com
+0.0.0.0 mta-sts.facebookmail.com
 0.0.0.0 pages.facebookmail.com
 0.0.0.0 research.facebookmail.com
 0.0.0.0 survey.facebookmail.com
@@ -12189,7 +12196,6 @@
 0.0.0.0 instagram.fbga2-1.fna.fbcdn.net
 0.0.0.0 instagram.fbga3-1.fna.fbcdn.net
 0.0.0.0 external.fbgi3-1.fna.fbcdn.net
-0.0.0.0 instagram.fbgt1-2.fna.fbcdn.net
 0.0.0.0 instagram.fbgw23-1.fna.fbcdn.net
 0.0.0.0 instagram.fbgw26-1.fna.fbcdn.net
 0.0.0.0 scontent.fbgw26-1.fna.fbcdn.net
@@ -13132,7 +13138,6 @@
 0.0.0.0 external.fgyn2-1.fna.fbcdn.net
 0.0.0.0 instagram.fgyn2-1.fna.fbcdn.net
 0.0.0.0 instagram.fgyn3-1.fna.fbcdn.net
-0.0.0.0 instagram.fgyn3-2.fna.fbcdn.net
 0.0.0.0 instagram.fgyn5-1.fna.fbcdn.net
 0.0.0.0 instagram.fgyn7-1.fna.fbcdn.net
 0.0.0.0 instagram.fgyn9-1.fna.fbcdn.net
@@ -17736,7 +17741,6 @@
 0.0.0.0 media.fccu11-1.fna.whatsapp.net
 0.0.0.0 media.fccu13-1.fna.whatsapp.net
 0.0.0.0 sonar.fccu3-1.fna.whatsapp.net
-0.0.0.0 media.fccu4-1.fna.whatsapp.net
 0.0.0.0 media.fccu4-2.fna.whatsapp.net
 0.0.0.0 media.fcdg1-1.fna.whatsapp.net
 0.0.0.0 media.fceb1-1.fna.whatsapp.net
@@ -17865,8 +17869,6 @@
 0.0.0.0 media.fhan7-1.fna.whatsapp.net
 0.0.0.0 media.fhel3-1.fna.whatsapp.net
 0.0.0.0 media.fhel5-1.fna.whatsapp.net
-0.0.0.0 media.fhhr1-1.fna.whatsapp.net
-0.0.0.0 media.fhhr1-2.fna.whatsapp.net
 0.0.0.0 sonar.fhkg1-1.fna.whatsapp.net
 0.0.0.0 media.fhkg10-1.fna.whatsapp.net
 0.0.0.0 sonar.fhkg10-1.fna.whatsapp.net
