@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-01-15T01:05:16+00:00
-# Count: 18499 domains
+# Released: 2021-01-15T13:05:16+00:00
+# Count: 18505 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1102,6 +1102,7 @@
 0.0.0.0 edge-atlas-shv-01-ssn1.facebook.com
 0.0.0.0 edge-atlas-shv-01-syd2.facebook.com
 0.0.0.0 edge-atlas-shv-02-bom1.facebook.com
+0.0.0.0 edge-atlas-shv-02-del1.facebook.com
 0.0.0.0 edge-atlas-shv-02-hkt1.facebook.com
 0.0.0.0 edge-atlas-shv-02-kut2.facebook.com
 0.0.0.0 edge-atlas-shv-02-sin6.facebook.com
@@ -1138,6 +1139,8 @@
 0.0.0.0 edge-latest-shv-01-kut2.facebook.com
 0.0.0.0 edge-latest-shv-01-lis1.facebook.com
 0.0.0.0 edge-latest-shv-01-mad1.facebook.com
+0.0.0.0 edge-latest-shv-02-cgk1.facebook.com
+0.0.0.0 edge-latest-shv-02-del1.facebook.com
 0.0.0.0 edge-latest-shv-02-sin6.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-mqtt-latest-shv-01-cgk1.facebook.com
@@ -4842,6 +4845,7 @@
 0.0.0.0 www.intern.facebook.com
 0.0.0.0 intern-managed-client-chromebook-shv-01-bog1.facebook.com
 0.0.0.0 intern-managed-client-chromebook-shv-01-hbe1.facebook.com
+0.0.0.0 intern-managed-client-chromebook-shv-03-sin6.facebook.com
 0.0.0.0 intern-managed-client-shv-01-arn2.facebook.com
 0.0.0.0 intern-managed-client-shv-01-fml1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-lht6.facebook.com
@@ -4850,6 +4854,7 @@
 0.0.0.0 intern-managed-client-shv-01-tpe1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-vie1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-xsp1.facebook.com
+0.0.0.0 intern-managed-client-shv-03-sin6.facebook.com
 0.0.0.0 internmc.facebook.com
 0.0.0.0 accountsecuritylockdown.internmc.facebook.com
 0.0.0.0 ccoronacv.internmc.facebook.com
@@ -9474,6 +9479,7 @@
 0.0.0.0 graph.secure.facebook.com
 0.0.0.0 secure-edge-latest-shv-01-jnb1.facebook.com
 0.0.0.0 secure-edge-latest-shv-01-vie1.facebook.com
+0.0.0.0 secure-edge-latest-shv-02-gru1.facebook.com
 0.0.0.0 securitas.facebook.com
 0.0.0.0 servicenow.facebook.com
 0.0.0.0 shadow.facebook.com
@@ -18145,6 +18151,7 @@
 0.0.0.0 media.fhan2-5.fna.whatsapp.net
 0.0.0.0 media.fhan2-6.fna.whatsapp.net
 0.0.0.0 media.fhan7-1.fna.whatsapp.net
+0.0.0.0 fhea5-1.fna.whatsapp.net
 0.0.0.0 media.fhel3-1.fna.whatsapp.net
 0.0.0.0 media.fhel5-1.fna.whatsapp.net
 0.0.0.0 sonar.fhkg1-1.fna.whatsapp.net
@@ -18247,7 +18254,6 @@
 0.0.0.0 media.fluh3-1.fna.whatsapp.net
 0.0.0.0 media.flux1-1.fna.whatsapp.net
 0.0.0.0 sonar.flux1-1.fna.whatsapp.net
-0.0.0.0 flyr1-1.fna.whatsapp.net
 0.0.0.0 media.fmaa1-1.fna.whatsapp.net
 0.0.0.0 media.fmaa1-3.fna.whatsapp.net
 0.0.0.0 media.fmaa1-4.fna.whatsapp.net
