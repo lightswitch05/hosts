@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-01-18T01:05:16+00:00
-# Count: 18503 domains
+# Released: 2021-01-18T13:05:17+00:00
+# Count: 18511 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -42,6 +42,7 @@
 0.0.0.0 scontent-a-hkg.cdninstagram.com
 0.0.0.0 scontent-a-hkg4-1.cdninstagram.com
 0.0.0.0 scontent-a-hkt1-1.cdninstagram.com
+0.0.0.0 scontent-a-hkt1-2.cdninstagram.com
 0.0.0.0 scontent-a-iad.cdninstagram.com
 0.0.0.0 scontent-a-iev1-1.cdninstagram.com
 0.0.0.0 scontent-a-lax.cdninstagram.com
@@ -275,6 +276,7 @@
 0.0.0.0 z-p4-scontent-cgk1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-cgk1-2.cdninstagram.com
 0.0.0.0 z-p4-scontent-frt3-1.cdninstagram.com
+0.0.0.0 z-p4-scontent-hkg4-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-hkt1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-hkt1-2.cdninstagram.com
 0.0.0.0 z-p4-scontent-kut2-1.cdninstagram.com
@@ -1091,6 +1093,7 @@
 0.0.0.0 edge-atlas-shv-01-frx5.facebook.com
 0.0.0.0 edge-atlas-shv-01-hkg4.facebook.com
 0.0.0.0 edge-atlas-shv-01-hkt1.facebook.com
+0.0.0.0 edge-atlas-shv-01-hou1.facebook.com
 0.0.0.0 edge-atlas-shv-01-iad3.facebook.com
 0.0.0.0 edge-atlas-shv-01-jnb1.facebook.com
 0.0.0.0 edge-atlas-shv-01-maa2.facebook.com
@@ -1297,6 +1300,7 @@
 0.0.0.0 edge-star-shv-02-maa2.facebook.com
 0.0.0.0 edge-star-shv-02-mia3.facebook.com
 0.0.0.0 edge-star-shv-02-mrs2.facebook.com
+0.0.0.0 edge-star-shv-02-mxp1.facebook.com
 0.0.0.0 edge-star-shv-03-sin6.facebook.com
 0.0.0.0 edge-star-shv-03-xsp1.facebook.com
 0.0.0.0 edge-stun.facebook.com
@@ -4753,6 +4757,7 @@
 0.0.0.0 feedback.facebook.com
 0.0.0.0 ff-ng.facebook.com
 0.0.0.0 fi-fi.facebook.com
+0.0.0.0 fna-internal-services-shv-01-fmex14.facebook.com
 0.0.0.0 fo-fo.facebook.com
 0.0.0.0 fpt.facebook.com
 0.0.0.0 fr-ca.facebook.com
@@ -10899,6 +10904,7 @@
 0.0.0.0 apps-313079896605239.fbsbx.com
 0.0.0.0 apps-446422466744565.fbsbx.com
 0.0.0.0 apps-796777607566082.fbsbx.com
+0.0.0.0 apps-972169473287654.fbsbx.com
 0.0.0.0 aside.fbsbx.com
 0.0.0.0 atriumlookaside.fbsbx.com
 0.0.0.0 attachment.fbsbx.com
@@ -11347,6 +11353,7 @@
 0.0.0.0 freebasic.messenger.com
 0.0.0.0 freebasics-fbcdn.messenger.com
 0.0.0.0 ftp.messenger.com
+0.0.0.0 fx.messenger.com
 0.0.0.0 fy-nl.messenger.com
 0.0.0.0 gaia-voyance-distance.messenger.com
 0.0.0.0 garena.messenger.com
@@ -16477,6 +16484,7 @@
 0.0.0.0 xx-fbcdn-shv-01-lim1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-mba1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-muc2.fbcdn.net
+0.0.0.0 xx-fbcdn-shv-01-mxp1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-ort2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-prg1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-01-sea1.fbcdn.net
@@ -18045,7 +18053,6 @@
 0.0.0.0 media.fcgp16-1.fna.whatsapp.net
 0.0.0.0 sonar.fcgp16-1.fna.whatsapp.net
 0.0.0.0 media.fcgy1-1.fna.whatsapp.net
-0.0.0.0 fchc1-1.fna.whatsapp.net
 0.0.0.0 media.fcjb1-1.fna.whatsapp.net
 0.0.0.0 media.fcjb3-1.fna.whatsapp.net
 0.0.0.0 media.fcjs3-2.fna.whatsapp.net
@@ -18363,6 +18370,7 @@
 0.0.0.0 media.fsac1-2.fna.whatsapp.net
 0.0.0.0 media.fsaw1-10.fna.whatsapp.net
 0.0.0.0 media.fsaw1-6.fna.whatsapp.net
+0.0.0.0 fscx1-1.fna.whatsapp.net
 0.0.0.0 media.fsdv2-1.fna.whatsapp.net
 0.0.0.0 media.fsdv3-1.fna.whatsapp.net
 0.0.0.0 media.fsev1-1.fna.whatsapp.net
