@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-01-22T01:05:18+00:00
-# Count: 999 domains
+# Released: 2021-01-23T13:05:18+00:00
+# Count: 1005 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -275,7 +275,10 @@
 0.0.0.0 autodiscover.knowingthetruth.com
 0.0.0.0 cpanel.knowingthetruth.com
 0.0.0.0 cpcalendars.knowingthetruth.com
+0.0.0.0 cpcontacts.knowingthetruth.com
 0.0.0.0 mail.knowingthetruth.com
+0.0.0.0 staging.knowingthetruth.com
+0.0.0.0 webdisk.knowingthetruth.com
 0.0.0.0 webmail.knowingthetruth.com
 0.0.0.0 www.knowingthetruth.com
 0.0.0.0 leagueofthesouth.com
@@ -388,6 +391,7 @@
 0.0.0.0 cpanel.thefreedomarticles.com
 0.0.0.0 cpcalendars.thefreedomarticles.com
 0.0.0.0 ftp.thefreedomarticles.com
+0.0.0.0 imap.thefreedomarticles.com
 0.0.0.0 mail.thefreedomarticles.com
 0.0.0.0 smtp.thefreedomarticles.com
 0.0.0.0 webdisk.thefreedomarticles.com
@@ -573,6 +577,7 @@
 0.0.0.0 fluoridealert.org
 0.0.0.0 imap.fluoridealert.org
 0.0.0.0 la.fluoridealert.org
+0.0.0.0 la3.fluoridealert.org
 0.0.0.0 mail.fluoridealert.org
 0.0.0.0 webmail.fluoridealert.org
 0.0.0.0 www.fluoridealert.org
@@ -764,6 +769,7 @@
 0.0.0.0 webdisk.pacificaforum.org
 0.0.0.0 www.pacificaforum.org
 0.0.0.0 paulcraigroberts.org
+0.0.0.0 webmail.paulcraigroberts.org
 0.0.0.0 www.paulcraigroberts.org
 0.0.0.0 rtc.org
 0.0.0.0 danish.rtc.org
