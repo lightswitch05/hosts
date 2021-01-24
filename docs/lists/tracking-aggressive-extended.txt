@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-01-23T13:05:18+00:00
-# Count: 27889 domains
+# Released: 2021-01-24T01:05:17+00:00
+# Count: 27907 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -346,6 +346,7 @@
 0.0.0.0 class-b.edu.360.cn
 0.0.0.0 news.edu.360.cn
 0.0.0.0 entlive.360.cn
+0.0.0.0 q.entlive.360.cn
 0.0.0.0 epp.360.cn
 0.0.0.0 ertong.360.cn
 0.0.0.0 mail.ex.360.cn
@@ -682,6 +683,7 @@
 0.0.0.0 g3.live.360.cn
 0.0.0.0 gtest.live.360.cn
 0.0.0.0 h.live.360.cn
+0.0.0.0 im.live.360.cn
 0.0.0.0 iot.live.360.cn
 0.0.0.0 iotbear.live.360.cn
 0.0.0.0 health.iotbear.live.360.cn
@@ -695,6 +697,7 @@
 0.0.0.0 tqos.live.360.cn
 0.0.0.0 u.live.360.cn
 0.0.0.0 v.live.360.cn
+0.0.0.0 logaudit.360.cn
 0.0.0.0 login.360.cn
 0.0.0.0 activity.look.360.cn
 0.0.0.0 api.look.360.cn
@@ -1000,6 +1003,7 @@
 0.0.0.0 flowgift.shake.360.cn
 0.0.0.0 m.shake.360.cn
 0.0.0.0 open.shake.360.cn
+0.0.0.0 shigu.360.cn
 0.0.0.0 shouji.360.cn
 0.0.0.0 adapi.shouji.360.cn
 0.0.0.0 commercial.shouji.360.cn
@@ -1114,6 +1118,7 @@
 0.0.0.0 ssp.360.cn
 0.0.0.0 static.360.cn
 0.0.0.0 stor.360.cn
+0.0.0.0 study.360.cn
 0.0.0.0 needs.szcs.360.cn
 0.0.0.0 t.360.cn
 0.0.0.0 captcha.t.360.cn
@@ -1162,6 +1167,7 @@
 0.0.0.0 b.tv.360.cn
 0.0.0.0 qweb.txl.360.cn
 0.0.0.0 txlfile.360.cn
+0.0.0.0 txlsign.360.cn
 0.0.0.0 u.360.cn
 0.0.0.0 bbs.u.360.cn
 0.0.0.0 ka.u.360.cn
@@ -1212,6 +1218,7 @@
 0.0.0.0 wan.360.cn
 0.0.0.0 bbs.wan.360.cn
 0.0.0.0 dev.tg.wan.360.cn
+0.0.0.0 wanchuse.360.cn
 0.0.0.0 wangzhan.360.cn
 0.0.0.0 blog.wangzhan.360.cn
 0.0.0.0 data.wangzhan.360.cn
@@ -1265,6 +1272,7 @@
 0.0.0.0 shop.wot.360.cn
 0.0.0.0 wows.360.cn
 0.0.0.0 shop.wows.360.cn
+0.0.0.0 wp.360.cn
 0.0.0.0 s.conf.wsm.360.cn
 0.0.0.0 new.poll.tools.wsm.360.cn
 0.0.0.0 www.360.cn
@@ -1806,7 +1814,6 @@
 0.0.0.0 appmax1service.comm100.com
 0.0.0.0 autodiscover.comm100.com
 0.0.0.0 chatserver.comm100.com
-0.0.0.0 chatserver3.comm100.com
 0.0.0.0 chatserver5.comm100.com
 0.0.0.0 em.comm100.com
 0.0.0.0 engage.comm100.com
@@ -6141,6 +6148,7 @@
 0.0.0.0 mohammedsaleem.polldaddy.com
 0.0.0.0 multipublicacoes.polldaddy.com
 0.0.0.0 naconcomlum.polldaddy.com
+0.0.0.0 nancyfrenchpatheos.polldaddy.com
 0.0.0.0 naphtposhirver.polldaddy.com
 0.0.0.0 naturejobs.polldaddy.com
 0.0.0.0 neurineser.polldaddy.com
@@ -6195,6 +6203,7 @@
 0.0.0.0 wordcampcentral.polldaddy.com
 0.0.0.0 wordpressdotorg.polldaddy.com
 0.0.0.0 wpes.polldaddy.com
+0.0.0.0 wpsurvey.polldaddy.com
 0.0.0.0 wpusabilitytesting.polldaddy.com
 0.0.0.0 www.polldaddy.com
 0.0.0.0 cdn.privacy-mgmt.com
@@ -6221,7 +6230,11 @@
 0.0.0.0 a10.bos.providesupport.com
 0.0.0.0 a5.bos.providesupport.com
 0.0.0.0 a8.bos.providesupport.com
+0.0.0.0 cc1c2b.providesupport.com
+0.0.0.0 cc1c3i.providesupport.com
 0.0.0.0 cc1i.providesupport.com
+0.0.0.0 cc3c2b.providesupport.com
+0.0.0.0 cc4c1i.providesupport.com
 0.0.0.0 admin1.cdn.providesupport.com
 0.0.0.0 chat-software.providesupport.com
 0.0.0.0 chatapi.providesupport.com
@@ -6322,6 +6335,7 @@
 0.0.0.0 image-43i.providesupport.com
 0.0.0.0 image-44b.providesupport.com
 0.0.0.0 image-44i.providesupport.com
+0.0.0.0 jira.providesupport.com
 0.0.0.0 jw10b.providesupport.com
 0.0.0.0 jw10i.providesupport.com
 0.0.0.0 jw1c1b.providesupport.com
@@ -6387,6 +6401,7 @@
 0.0.0.0 messenger7.providesupport.com
 0.0.0.0 messenger8.providesupport.com
 0.0.0.0 messenger9.providesupport.com
+0.0.0.0 monitor-s1inap.providesupport.com
 0.0.0.0 mx.providesupport.com
 0.0.0.0 mx1.providesupport.com
 0.0.0.0 mx2.providesupport.com
@@ -6411,6 +6426,7 @@
 0.0.0.0 operator.providesupport.com
 0.0.0.0 operator1.providesupport.com
 0.0.0.0 operator10.providesupport.com
+0.0.0.0 operator100b.providesupport.com
 0.0.0.0 operator11.providesupport.com
 0.0.0.0 operator12.providesupport.com
 0.0.0.0 operator2.providesupport.com
@@ -6423,6 +6439,8 @@
 0.0.0.0 operator9.providesupport.com
 0.0.0.0 otto.providesupport.com
 0.0.0.0 prestashop17-test.providesupport.com
+0.0.0.0 ps2lo-us.providesupport.com
+0.0.0.0 ps5lo-jp.providesupport.com
 0.0.0.0 rt.providesupport.com
 0.0.0.0 secure.providesupport.com
 0.0.0.0 stats.providesupport.com
@@ -6451,6 +6469,7 @@
 0.0.0.0 webmail.providesupport.com
 0.0.0.0 whatever.providesupport.com
 0.0.0.0 wiki-ss.providesupport.com
+0.0.0.0 wordpress-test.providesupport.com
 0.0.0.0 wwvv.providesupport.com
 0.0.0.0 www.providesupport.com
 0.0.0.0 www100i.providesupport.com
@@ -12886,7 +12905,6 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 ziffdavis.com.edgekey.net
 0.0.0.0 akamai-1173.ziffdavis.com.edgekey.net
-0.0.0.0 www.ziffdavis.com.edgekey.net
 0.0.0.0 browser-update.org
 0.0.0.0 db.browser-update.org
 0.0.0.0 new2.browser-update.org
