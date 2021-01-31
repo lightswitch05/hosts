@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-01-31T01:05:18+00:00
-# Count: 30907 domains
+# Released: 2021-01-31T13:05:18+00:00
+# Count: 30923 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -224,6 +224,7 @@
 0.0.0.0 site.browser.360.cn
 0.0.0.0 tt.browser.360.cn
 0.0.0.0 puv.tt.browser.360.cn
+0.0.0.0 qpuv.tt.browser.360.cn
 0.0.0.0 bugcloud.360.cn
 0.0.0.0 c.360.cn
 0.0.0.0 ca.360.cn
@@ -283,6 +284,7 @@
 0.0.0.0 m.dai.360.cn
 0.0.0.0 daikuan.360.cn
 0.0.0.0 aqjietiao.daikuan.360.cn
+0.0.0.0 bps.daikuan.360.cn
 0.0.0.0 cafe-front.daikuan.360.cn
 0.0.0.0 cdn.daikuan.360.cn
 0.0.0.0 csps.daikuan.360.cn
@@ -1336,7 +1338,9 @@
 0.0.0.0 embed.actionbutton.co
 0.0.0.0 images.actionbutton.co
 0.0.0.0 pay.actionbutton.co
+0.0.0.0 pciscan.actionbutton.co
 0.0.0.0 prod-native.actionbutton.co
+0.0.0.0 qa.actionbutton.co
 0.0.0.0 qa-admin.actionbutton.co
 0.0.0.0 qa-api.actionbutton.co
 0.0.0.0 static.actionbutton.co
@@ -1469,7 +1473,6 @@
 0.0.0.0 goodyear.ugc.bazaarvoice.com
 0.0.0.0 grainger.ugc.bazaarvoice.com
 0.0.0.0 happyangler.ugc.bazaarvoice.com
-0.0.0.0 heine.ugc.bazaarvoice.com
 0.0.0.0 hema.ugc.bazaarvoice.com
 0.0.0.0 hobbs.ugc.bazaarvoice.com
 0.0.0.0 hobbycraft.ugc.bazaarvoice.com
@@ -4374,6 +4377,7 @@
 0.0.0.0 api2.flipboard.com
 0.0.0.0 as.flipboard.com
 0.0.0.0 auth.flipboard.com
+0.0.0.0 aws.flipboard.com
 0.0.0.0 bapi.flipboard.com
 0.0.0.0 beacon.flipboard.com
 0.0.0.0 beta.flipboard.com
@@ -4404,6 +4408,7 @@
 0.0.0.0 flea.flipboard.com
 0.0.0.0 flemail.flipboard.com
 0.0.0.0 flipper.flipboard.com
+0.0.0.0 flwiki.flipboard.com
 0.0.0.0 from.flipboard.com
 0.0.0.0 github.flipboard.com
 0.0.0.0 gumby.flipboard.com
@@ -4423,10 +4428,12 @@
 0.0.0.0 sentry.flipboard.com
 0.0.0.0 share.flipboard.com
 0.0.0.0 sstream.flipboard.com
+0.0.0.0 stage.flipboard.com
 0.0.0.0 staging.flipboard.com
 0.0.0.0 staging-about.flipboard.com
 0.0.0.0 it-it.staging-about.flipboard.com
 0.0.0.0 ko-kr.staging-about.flipboard.com
+0.0.0.0 support.flipboard.com
 0.0.0.0 sxsw.flipboard.com
 0.0.0.0 test.flipboard.com
 0.0.0.0 theinsight.flipboard.com
@@ -4435,7 +4442,9 @@
 0.0.0.0 ue-c.flipboard.com
 0.0.0.0 ue-test.flipboard.com
 0.0.0.0 um-cdn.flipboard.com
+0.0.0.0 vote2018.flipboard.com
 0.0.0.0 webu-auth-beta.flipboard.com
+0.0.0.0 webu-beta.flipboard.com
 0.0.0.0 wiki.flipboard.com
 0.0.0.0 winphone.flipboard.com
 0.0.0.0 winprod.flipboard.com
@@ -4481,6 +4490,7 @@
 0.0.0.0 sslproxy.au1.gigya.com
 0.0.0.0 updates.au1.gigya.com
 0.0.0.0 au1a-email-mng.gigya.com
+0.0.0.0 backup.gigya.com
 0.0.0.0 blog.gigya.com
 0.0.0.0 staging.blog.gigya.com
 0.0.0.0 cdn.gigya.com
@@ -4820,6 +4830,7 @@
 0.0.0.0 dedi4.de.icanhazip.com
 0.0.0.0 dfw.icanhazip.com
 0.0.0.0 forum.icanhazip.com
+0.0.0.0 hetzner-1.icanhazip.com
 0.0.0.0 hetzner-3.icanhazip.com
 0.0.0.0 iad.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
@@ -5366,6 +5377,7 @@
 0.0.0.0 minfraud1.maxmind.com
 0.0.0.0 minfraud2.maxmind.com
 0.0.0.0 minfraud3.maxmind.com
+0.0.0.0 paypal-ipn.maxmind.com
 0.0.0.0 static.maxmind.com
 0.0.0.0 status.maxmind.com
 0.0.0.0 support.maxmind.com
@@ -5613,6 +5625,7 @@
 0.0.0.0 beta.mobistealth.com
 0.0.0.0 cp.mobistealth.com
 0.0.0.0 dashboard.mobistealth.com
+0.0.0.0 dashboard3.mobistealth.com
 0.0.0.0 dbadm.mobistealth.com
 0.0.0.0 dev.mobistealth.com
 0.0.0.0 layer.mobistealth.com
@@ -5641,15 +5654,18 @@
 0.0.0.0 dewww2.mspy.com
 0.0.0.0 frwww2.mspy.com
 0.0.0.0 ha.mspy.com
+0.0.0.0 help.mspy.com
 0.0.0.0 kr.mspy.com
 0.0.0.0 link.mspy.com
 0.0.0.0 m.mspy.com
+0.0.0.0 o.mspy.com
 0.0.0.0 secure.mspy.com
 0.0.0.0 static.mspy.com
 0.0.0.0 static2.mspy.com
 0.0.0.0 stats.mspy.com
 0.0.0.0 store.mspy.com
 0.0.0.0 support.mspy.com
+0.0.0.0 t.mspy.com
 0.0.0.0 tr.mspy.com
 0.0.0.0 tracker.mspy.com
 0.0.0.0 tracking.mspy.com
@@ -5956,6 +5972,7 @@
 0.0.0.0 s4066.pingdom.com
 0.0.0.0 s4067.pingdom.com
 0.0.0.0 s4070.pingdom.com
+0.0.0.0 s4071.pingdom.com
 0.0.0.0 s4073.pingdom.com
 0.0.0.0 s4074.pingdom.com
 0.0.0.0 s4075.pingdom.com
@@ -29470,7 +29487,6 @@
 0.0.0.0 f69af926555a4c5b8a87908bcc24a21a.www-sverik-cloud.duckdns.org
 0.0.0.0 www.www-sverik-cloud.duckdns.org
 0.0.0.0 wwwk.duckdns.org
-0.0.0.0 wwwwcaixpix10.duckdns.org
 0.0.0.0 wx3.duckdns.org
 0.0.0.0 wybhome.duckdns.org
 0.0.0.0 wybnas.duckdns.org
