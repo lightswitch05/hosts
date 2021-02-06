@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-02-06T01:05:17+00:00
-# Count: 20906 domains
+# Released: 2021-02-06T13:05:18+00:00
+# Count: 20910 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -13299,6 +13299,7 @@
 0.0.0.0 cdn2.giphy.com
 0.0.0.0 cdn4.giphy.com
 0.0.0.0 cookies.giphy.com
+0.0.0.0 crawler102.giphy.com
 0.0.0.0 create.giphy.com
 0.0.0.0 dev.giphy.com
 0.0.0.0 developer.giphy.com
@@ -13315,6 +13316,7 @@
 0.0.0.0 gifdanceparty.giphy.com
 0.0.0.0 giphy-analytics.giphy.com
 0.0.0.0 giphy_analytics.giphy.com
+0.0.0.0 hacks2.giphy.com
 0.0.0.0 happyholidays.giphy.com
 0.0.0.0 i.giphy.com
 0.0.0.0 i-test.giphy.com
@@ -13344,6 +13346,7 @@
 0.0.0.0 p.giphy.com
 0.0.0.0 panopticon.giphy.com
 0.0.0.0 partner-hub-api.giphy.com
+0.0.0.0 partner-hub-api-qa.giphy.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback-dev.giphy.com
 0.0.0.0 pingback-staging.giphy.com
@@ -13371,10 +13374,12 @@
 0.0.0.0 twitch.giphy.com
 0.0.0.0 twitch-qa.giphy.com
 0.0.0.0 twitter.giphy.com
+0.0.0.0 twitterbot.giphy.com
 0.0.0.0 upload.giphy.com
 0.0.0.0 upload-dev.giphy.com
 0.0.0.0 upload-qa.giphy.com
 0.0.0.0 vision2000.giphy.com
+0.0.0.0 web-prod.giphy.com
 0.0.0.0 ws-imaging.giphy.com
 0.0.0.0 ws-imaging-qa.giphy.com
 0.0.0.0 www.giphy.com
@@ -20764,7 +20769,6 @@
 0.0.0.0 media.fsac1-2.fna.whatsapp.net
 0.0.0.0 media.fsaw1-10.fna.whatsapp.net
 0.0.0.0 media.fsaw1-6.fna.whatsapp.net
-0.0.0.0 fscx1-1.fna.whatsapp.net
 0.0.0.0 media.fsdv2-1.fna.whatsapp.net
 0.0.0.0 media.fsdv3-1.fna.whatsapp.net
 0.0.0.0 media.fsev1-1.fna.whatsapp.net
