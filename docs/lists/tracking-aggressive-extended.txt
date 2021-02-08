@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-02-08T01:05:18+00:00
-# Count: 32737 domains
+# Released: 2021-02-08T13:05:19+00:00
+# Count: 32792 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1621,18 +1621,23 @@
 0.0.0.0 directory-us.api.chatid.com
 0.0.0.0 prod-chat.api.chatid.com
 0.0.0.0 stage-ls.api.chatid.com
+0.0.0.0 assets.chatid.com
 0.0.0.0 blog.chatid.com
 0.0.0.0 www.blog.chatid.com
 0.0.0.0 demo.chatid.com
 0.0.0.0 directory.chatid.com
 0.0.0.0 disco.chatid.com
+0.0.0.0 docs.chatid.com
 0.0.0.0 iframe.chatid.com
 0.0.0.0 iframe-stage.chatid.com
 0.0.0.0 internal.chatid.com
 0.0.0.0 internal-analytics.chatid.com
+0.0.0.0 jenkins.chatid.com
 0.0.0.0 ls.chatid.com
 0.0.0.0 ls1x.chatid.com
+0.0.0.0 mail.chatid.com
 0.0.0.0 mb.chatid.com
+0.0.0.0 prod-2019-04-30-tableau-external.chatid.com
 0.0.0.0 support.chatid.com
 0.0.0.0 tableau.chatid.com
 0.0.0.0 test.chatid.com
@@ -1640,6 +1645,7 @@
 0.0.0.0 gisp-demo.test.chatid.com
 0.0.0.0 wheatley.chatid.com
 0.0.0.0 www.chatid.com
+0.0.0.0 x.chatid.com
 0.0.0.0 chatlio.com
 0.0.0.0 alpha-w.chatlio.com
 0.0.0.0 api.chatlio.com
@@ -5123,7 +5129,9 @@
 0.0.0.0 livechatinc.com
 0.0.0.0 accounts.livechatinc.com
 0.0.0.0 addons.livechatinc.com
+0.0.0.0 affiliates.livechatinc.com
 0.0.0.0 api.livechatinc.com
+0.0.0.0 api-csr.livechatinc.com
 0.0.0.0 api-fra.livechatinc.com
 0.0.0.0 api-mobile-dal.livechatinc.com
 0.0.0.0 api-website.livechatinc.com
@@ -5148,6 +5156,7 @@
 0.0.0.0 dev-platform.livechatinc.com
 0.0.0.0 developers.livechatinc.com
 0.0.0.0 docs.livechatinc.com
+0.0.0.0 emailinium.livechatinc.com
 0.0.0.0 fbapp.livechatinc.com
 0.0.0.0 fbmsg.livechatinc.com
 0.0.0.0 gateway.livechatinc.com
@@ -5158,12 +5167,14 @@
 0.0.0.0 gis3.livechatinc.com
 0.0.0.0 gis4.livechatinc.com
 0.0.0.0 gis5.livechatinc.com
+0.0.0.0 git.livechatinc.com
 0.0.0.0 go.livechatinc.com
 0.0.0.0 helpers.livechatinc.com
 0.0.0.0 hubspot.livechatinc.com
 0.0.0.0 integrations.livechatinc.com
 0.0.0.0 investor.livechatinc.com
 0.0.0.0 investors.livechatinc.com
+0.0.0.0 ir.livechatinc.com
 0.0.0.0 labs.livechatinc.com
 0.0.0.0 accounts.labs.livechatinc.com
 0.0.0.0 api.labs.livechatinc.com
@@ -5186,8 +5197,10 @@
 0.0.0.0 mail.livechatinc.com
 0.0.0.0 marketplace-agentapp.livechatinc.com
 0.0.0.0 metrics.livechatinc.com
+0.0.0.0 monitoring.livechatinc.com
 0.0.0.0 my.livechatinc.com
 0.0.0.0 network-test.livechatinc.com
+0.0.0.0 next.livechatinc.com
 0.0.0.0 octopus.livechatinc.com
 0.0.0.0 old.livechatinc.com
 0.0.0.0 panel.livechatinc.com
@@ -5200,17 +5213,21 @@
 0.0.0.0 queue.livechatinc.com
 0.0.0.0 queue-fra.livechatinc.com
 0.0.0.0 salesforce.livechatinc.com
+0.0.0.0 salesforce-fra.livechatinc.com
 0.0.0.0 sandbox.livechatinc.com
 0.0.0.0 secure.livechatinc.com
+0.0.0.0 secure-dal.livechatinc.com
 0.0.0.0 secure-fra.livechatinc.com
 0.0.0.0 secure-labs.livechatinc.com
 0.0.0.0 secure-lc.livechatinc.com
+0.0.0.0 secure-lc-cf.livechatinc.com
 0.0.0.0 shopify.livechatinc.com
 0.0.0.0 smtp.livechatinc.com
 0.0.0.0 source.livechatinc.com
 0.0.0.0 staging.livechatinc.com
 0.0.0.0 accounts.staging.livechatinc.com
 0.0.0.0 api.staging.livechatinc.com
+0.0.0.0 marketplace-agentapp.staging.livechatinc.com
 0.0.0.0 my.staging.livechatinc.com
 0.0.0.0 static.staging.livechatinc.com
 0.0.0.0 startups.livechatinc.com
@@ -5220,6 +5237,7 @@
 0.0.0.0 support.livechatinc.com
 0.0.0.0 test.livechatinc.com
 0.0.0.0 pmbounces.tickets.livechatinc.com
+0.0.0.0 twilioauth.livechatinc.com
 0.0.0.0 url5285.livechatinc.com
 0.0.0.0 verify.livechatinc.com
 0.0.0.0 vpn-dal-sl.livechatinc.com
@@ -5827,6 +5845,7 @@
 0.0.0.0 news.olark.com
 0.0.0.0 nexcess-1.olark.com
 0.0.0.0 nightmask3.olark.com
+0.0.0.0 notes.olark.com
 0.0.0.0 november.olark.com
 0.0.0.0 np.olark.com
 0.0.0.0 nrpc.olark.com
@@ -10899,7 +10918,9 @@
 0.0.0.0 t.mark.reevoo.com
 0.0.0.0 onsite2.researchintel.com
 0.0.0.0 retinax.com
+0.0.0.0 ftp.retinax.com
 0.0.0.0 m.retinax.com
+0.0.0.0 mail.retinax.com
 0.0.0.0 webmail.retinax.com
 0.0.0.0 www.retinax.com
 0.0.0.0 telemetry.ros.rockstargames.com
@@ -10960,6 +10981,7 @@
 0.0.0.0 aps2.spyhuman.com
 0.0.0.0 aps3.spyhuman.com
 0.0.0.0 aps9.spyhuman.com
+0.0.0.0 authsmtp.spyhuman.com
 0.0.0.0 cp.spyhuman.com
 0.0.0.0 data9.spyhuman.com
 0.0.0.0 demo.spyhuman.com
@@ -10972,6 +10994,7 @@
 0.0.0.0 error.spyhuman.com
 0.0.0.0 file.spyhuman.com
 0.0.0.0 fldwnl.spyhuman.com
+0.0.0.0 help.spyhuman.com
 0.0.0.0 r.help.spyhuman.com
 0.0.0.0 hfhytfykjlikhreswste.spyhuman.com
 0.0.0.0 img.spyhuman.com
@@ -10979,14 +11002,25 @@
 0.0.0.0 imgfnl.spyhuman.com
 0.0.0.0 imgfnl2.spyhuman.com
 0.0.0.0 logs.spyhuman.com
+0.0.0.0 mail02.spyhuman.com
+0.0.0.0 mail1.spyhuman.com
+0.0.0.0 mailsrv.spyhuman.com
 0.0.0.0 migrate.spyhuman.com
+0.0.0.0 ms1.spyhuman.com
+0.0.0.0 mta.spyhuman.com
 0.0.0.0 newadmin.spyhuman.com
 0.0.0.0 nodejs.spyhuman.com
+0.0.0.0 ns1.spyhuman.com
 0.0.0.0 online.spyhuman.com
 0.0.0.0 payment.spyhuman.com
 0.0.0.0 pic.spyhuman.com
 0.0.0.0 play.spyhuman.com
+0.0.0.0 po.spyhuman.com
+0.0.0.0 remote.spyhuman.com
+0.0.0.0 server1.spyhuman.com
 0.0.0.0 services.spyhuman.com
+0.0.0.0 smtp3.spyhuman.com
+0.0.0.0 spf.spyhuman.com
 0.0.0.0 support.spyhuman.com
 0.0.0.0 vip.spyhuman.com
 0.0.0.0 www.spyhuman.com
@@ -11021,6 +11055,7 @@
 0.0.0.0 mail1.spymasterpro.com
 0.0.0.0 mailx.spymasterpro.com
 0.0.0.0 new.spymasterpro.com
+0.0.0.0 pt.spymasterpro.com
 0.0.0.0 senseye.spymasterpro.com
 0.0.0.0 server.spymasterpro.com
 0.0.0.0 shop.spymasterpro.com
@@ -11162,6 +11197,7 @@
 0.0.0.0 apihelp.surveygizmo.com
 0.0.0.0 app.surveygizmo.com
 0.0.0.0 app-stryker-mdl-com.surveygizmo.com
+0.0.0.0 app-workforlawrence-com.surveygizmo.com
 0.0.0.0 appca.surveygizmo.com
 0.0.0.0 appus.surveygizmo.com
 0.0.0.0 arborvistallc-com.surveygizmo.com
@@ -11171,6 +11207,7 @@
 0.0.0.0 blog.surveygizmo.com
 0.0.0.0 ca.surveygizmo.com
 0.0.0.0 cdn.surveygizmo.com
+0.0.0.0 ce.surveygizmo.com
 0.0.0.0 chickadvisor-com.surveygizmo.com
 0.0.0.0 community.surveygizmo.com
 0.0.0.0 courses-barrowbrainbook-org.surveygizmo.com
@@ -11193,9 +11230,11 @@
 0.0.0.0 favouritebrands-gr.surveygizmo.com
 0.0.0.0 forms.surveygizmo.com
 0.0.0.0 forms-aon-nl.surveygizmo.com
+0.0.0.0 forms-kcanxiety-com.surveygizmo.com
 0.0.0.0 forms-sra-org-uk.surveygizmo.com
 0.0.0.0 fpl-com-pl.surveygizmo.com
 0.0.0.0 fr.surveygizmo.com
+0.0.0.0 goto-primarycolourssurveys-co-uk.surveygizmo.com
 0.0.0.0 gsr-ssl.surveygizmo.com
 0.0.0.0 help.surveygizmo.com
 0.0.0.0 httphelp.surveygizmo.com
@@ -11212,8 +11251,10 @@
 0.0.0.0 mandrill.surveygizmo.com
 0.0.0.0 medicineinsight-nps-org-au.surveygizmo.com
 0.0.0.0 merriman-com.surveygizmo.com
+0.0.0.0 metrics.surveygizmo.com
 0.0.0.0 mosaic-client-com.surveygizmo.com
 0.0.0.0 mpcsurveys-com.surveygizmo.com
+0.0.0.0 my-careernumbers-com.surveygizmo.com
 0.0.0.0 northerntrust-com.surveygizmo.com
 0.0.0.0 oemhelp.surveygizmo.com
 0.0.0.0 ok-andyoursurveysays-com.surveygizmo.com
@@ -11228,10 +11269,12 @@
 0.0.0.0 registry-pachyonychia-org.surveygizmo.com
 0.0.0.0 research-microsoft-com.surveygizmo.com
 0.0.0.0 restapi.surveygizmo.com
+0.0.0.0 restapica.surveygizmo.com
 0.0.0.0 rspmtadfw-01.surveygizmo.com
 0.0.0.0 sales.surveygizmo.com
 0.0.0.0 script.surveygizmo.com
 0.0.0.0 showvalue-com.surveygizmo.com
+0.0.0.0 sixdegreesgrants-com.surveygizmo.com
 0.0.0.0 stage2app.surveygizmo.com
 0.0.0.0 stage2www.surveygizmo.com
 0.0.0.0 stagecommunity.surveygizmo.com
@@ -11244,6 +11287,7 @@
 0.0.0.0 survey-naturallyslim-com.surveygizmo.com
 0.0.0.0 survey-qhms-com.surveygizmo.com
 0.0.0.0 survey-thyssenkrupp.surveygizmo.com
+0.0.0.0 survey-xactlycorp-com.surveygizmo.com
 0.0.0.0 surveygizmotour.surveygizmo.com
 0.0.0.0 surveys-4patientcare-com.surveygizmo.com
 0.0.0.0 surveys-askyourpatient-com.surveygizmo.com
@@ -11253,6 +11297,7 @@
 0.0.0.0 surveys-gt-com.surveygizmo.com
 0.0.0.0 surveys-intelliscaninc-net.surveygizmo.com
 0.0.0.0 surveys-kccbrands-com.surveygizmo.com
+0.0.0.0 surveys-lawsociety-org-uk.surveygizmo.com
 0.0.0.0 surveys-quester-com.surveygizmo.com
 0.0.0.0 surveys-rti-org.surveygizmo.com
 0.0.0.0 surveys-vansd-org.surveygizmo.com
@@ -11266,6 +11311,7 @@
 0.0.0.0 uat.surveygizmo.com
 0.0.0.0 uatwww.surveygizmo.com
 0.0.0.0 us1.surveygizmo.com
+0.0.0.0 vim-group-com.surveygizmo.com
 0.0.0.0 walkingthetalk-com.surveygizmo.com
 0.0.0.0 welisten-vansd-org.surveygizmo.com
 0.0.0.0 wpengine.surveygizmo.com
@@ -31757,6 +31803,7 @@
 0.0.0.0 gomoxie.solutions
 0.0.0.0 25events-nutrisystem.gomoxie.solutions
 0.0.0.0 asset.gomoxie.solutions
+0.0.0.0 blogs.gomoxie.solutions
 0.0.0.0 bmstest_opdivo.gomoxie.solutions
 0.0.0.0 identity-cr-rbcroyalbank.com.gomoxie.solutions
 0.0.0.0 connector-autotrader.gomoxie.solutions
@@ -31799,6 +31846,7 @@
 0.0.0.0 connector-signetjewelers.gomoxie.solutions
 0.0.0.0 connector-southbeachdiet.gomoxie.solutions
 0.0.0.0 connector-synchrony.gomoxie.solutions
+0.0.0.0 connector-usaaclaims.gomoxie.solutions
 0.0.0.0 connector-usaaeligibility.gomoxie.solutions
 0.0.0.0 connector-usaahomeowners.gomoxie.solutions
 0.0.0.0 connector-usaaumbrella.gomoxie.solutions
@@ -31850,8 +31898,10 @@
 0.0.0.0 events-nutrisystem.gomoxie.solutions
 0.0.0.0 events-peoples.gomoxie.solutions
 0.0.0.0 events-rbc.gomoxie.solutions
+0.0.0.0 events-rbctest.gomoxie.solutions
 0.0.0.0 events-rcn.gomoxie.solutions
 0.0.0.0 events-sandals.gomoxie.solutions
+0.0.0.0 events-seescandies.gomoxie.solutions
 0.0.0.0 events-shareacoke.gomoxie.solutions
 0.0.0.0 events-signetjewelers.gomoxie.solutions
 0.0.0.0 events-southbeachdiet.gomoxie.solutions
@@ -31950,6 +32000,7 @@
 0.0.0.0 log-sandals.gomoxie.solutions
 0.0.0.0 log-shareacoke.gomoxie.solutions
 0.0.0.0 log-signetjewelers.gomoxie.solutions
+0.0.0.0 log-signetjewelerstest.gomoxie.solutions
 0.0.0.0 log-southbeachdiet.gomoxie.solutions
 0.0.0.0 log-sunsetter.gomoxie.solutions
 0.0.0.0 log-synchrony.gomoxie.solutions
@@ -31962,9 +32013,12 @@
 0.0.0.0 log-usaavpp.gomoxie.solutions
 0.0.0.0 log-vitacost.gomoxie.solutions
 0.0.0.0 log-yankeecandle.gomoxie.solutions
+0.0.0.0 michaelkors.gomoxie.solutions
 0.0.0.0 newcote.gomoxie.solutions
 0.0.0.0 norton.gomoxie.solutions
+0.0.0.0 online.gomoxie.solutions
 0.0.0.0 peoples.gomoxie.solutions
+0.0.0.0 proxy.gomoxie.solutions
 0.0.0.0 s.gomoxie.solutions
 0.0.0.0 solutionsevents-nutrisystem.gomoxie.solutions
 0.0.0.0 stage.gomoxie.solutions
@@ -32002,6 +32056,7 @@
 0.0.0.0 log-parkretail.uk.gomoxie.solutions
 0.0.0.0 log-synnex.uk.gomoxie.solutions
 0.0.0.0 log-wolseley.uk.gomoxie.solutions
+0.0.0.0 vitacosttest.gomoxie.solutions
 0.0.0.0 www.gomoxie.solutions
 0.0.0.0 ada.support
 0.0.0.0 2.ada.support
