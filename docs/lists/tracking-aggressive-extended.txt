@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-02-17T01:05:19+00:00
-# Count: 35385 domains
+# Released: 2021-02-17T13:05:18+00:00
+# Count: 35402 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -877,10 +877,7 @@
 0.0.0.0 u.mse.360.cn
 0.0.0.0 warn.mse.360.cn
 0.0.0.0 msic.360.cn
-0.0.0.0 apikpatch.msic.360.cn
-0.0.0.0 ddkpatch.msic.360.cn
 0.0.0.0 huawei.iot.msic.360.cn
-0.0.0.0 saoma.msic.360.cn
 0.0.0.0 msoftdl.360.cn
 0.0.0.0 mtabjsc2.360.cn
 0.0.0.0 mtabjsc3.360.cn
@@ -1847,6 +1844,7 @@
 0.0.0.0 entchatserver7.comm100.com
 0.0.0.0 enterprise.comm100.com
 0.0.0.0 enterprisechatserver.comm100.com
+0.0.0.0 enterpriseenrollment.comm100.com
 0.0.0.0 enterpriseportal.comm100.com
 0.0.0.0 eu.comm100.com
 0.0.0.0 eumax.comm100.com
@@ -1860,6 +1858,7 @@
 0.0.0.0 logicmonitor.comm100.com
 0.0.0.0 mail1.comm100.com
 0.0.0.0 mail11.comm100.com
+0.0.0.0 mail16.comm100.com
 0.0.0.0 ns2.comm100.com
 0.0.0.0 ontariotravel.comm100.com
 0.0.0.0 pciform.comm100.com
@@ -1871,6 +1870,7 @@
 0.0.0.0 route.comm100.com
 0.0.0.0 route1.comm100.com
 0.0.0.0 secure.comm100.com
+0.0.0.0 sip.comm100.com
 0.0.0.0 smbchatserver.comm100.com
 0.0.0.0 smbmaxservice.comm100.com
 0.0.0.0 support.comm100.com
@@ -8854,6 +8854,7 @@
 0.0.0.0 indstate.qualtrics.com
 0.0.0.0 www.indstate.qualtrics.com
 0.0.0.0 informedix.qualtrics.com
+0.0.0.0 innovationexchange.qualtrics.com
 0.0.0.0 insead.qualtrics.com
 0.0.0.0 insidesales.qualtrics.com
 0.0.0.0 insightdynamo.qualtrics.com
@@ -11698,6 +11699,7 @@
 0.0.0.0 autodiscover.corp.vk.com
 0.0.0.0 u.corp.vk.com
 0.0.0.0 corradocorona.vk.com
+0.0.0.0 cs.vk.com
 0.0.0.0 foodpolicyadmin.zappa-st.www.cs00000000000000000000000000000000.vk.com
 0.0.0.0 polishlove1.zappa-st.www.cs00000000000000000000000000000000.vk.com
 0.0.0.0 lmd.ris-lx09.roslin.www.cs001.vk.com
@@ -11708,6 +11710,7 @@
 0.0.0.0 cs10096.vk.com
 0.0.0.0 cs10130.vk.com
 0.0.0.0 cs10269.vk.com
+0.0.0.0 cs10315.vk.com
 0.0.0.0 cs10320.vk.com
 0.0.0.0 cs10373.vk.com
 0.0.0.0 cs10376.vk.com
@@ -11715,6 +11718,7 @@
 0.0.0.0 cs10478.vk.com
 0.0.0.0 cs10501.vk.com
 0.0.0.0 cs10599.vk.com
+0.0.0.0 cs10647.vk.com
 0.0.0.0 cs10692.vk.com
 0.0.0.0 cs10694.vk.com
 0.0.0.0 cs10787.vk.com
@@ -11725,8 +11729,10 @@
 0.0.0.0 cs11039.vk.com
 0.0.0.0 cs11073.vk.com
 0.0.0.0 cs11085.vk.com
+0.0.0.0 cs11269.vk.com
 0.0.0.0 cs11331.vk.com
 0.0.0.0 cs11362.vk.com
+0.0.0.0 cs11401.vk.com
 0.0.0.0 cs11429.vk.com
 0.0.0.0 cs12.vk.com
 0.0.0.0 cs123.vk.com
@@ -11762,6 +11768,7 @@
 0.0.0.0 cs4111.vk.com
 0.0.0.0 cs4125.vk.com
 0.0.0.0 cs4218.vk.com
+0.0.0.0 cs4230.vk.com
 0.0.0.0 cs4239.vk.com
 0.0.0.0 cs4340.vk.com
 0.0.0.0 cs4362.vk.com
@@ -11775,6 +11782,7 @@
 0.0.0.0 cs4557.vk.com
 0.0.0.0 cs4700.vk.com
 0.0.0.0 cs508407.vk.com
+0.0.0.0 cs509601.vk.com
 0.0.0.0 cs509605.vk.com
 0.0.0.0 cs5172.vk.com
 0.0.0.0 cs5179.vk.com
@@ -11785,6 +11793,7 @@
 0.0.0.0 cs53835.vk.com
 0.0.0.0 cs540301.vk.com
 0.0.0.0 cs5414.vk.com
+0.0.0.0 cs5422.vk.com
 0.0.0.0 cs543304.vk.com
 0.0.0.0 cs543501.vk.com
 0.0.0.0 cs543509.vk.com
@@ -11948,6 +11957,7 @@
 0.0.0.0 cs9360.vk.com
 0.0.0.0 cs9385.vk.com
 0.0.0.0 cs949.vk.com
+0.0.0.0 cs9526.vk.com
 0.0.0.0 cs9530.vk.com
 0.0.0.0 nbs.cs9591.vk.com
 0.0.0.0 cs9602.vk.com
@@ -12330,6 +12340,7 @@
 0.0.0.0 st1-29.vk.com
 0.0.0.0 st1-30.vk.com
 0.0.0.0 st1-47.vk.com
+0.0.0.0 st1-83.vk.com
 0.0.0.0 st1-84.vk.com
 0.0.0.0 st1-85.vk.com
 0.0.0.0 st1-86.vk.com
@@ -12350,8 +12361,10 @@
 0.0.0.0 st2-9.vk.com
 0.0.0.0 st3-10.vk.com
 0.0.0.0 st3-11.vk.com
+0.0.0.0 st3-12.vk.com
 0.0.0.0 st3-13.vk.com
 0.0.0.0 st4-10.vk.com
+0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-12.vk.com
 0.0.0.0 st4-15.vk.com
 0.0.0.0 st4-16.vk.com
@@ -12362,6 +12375,7 @@
 0.0.0.0 st6-21.vk.com
 0.0.0.0 st6-22.vk.com
 0.0.0.0 st6-23.vk.com
+0.0.0.0 st7-6.vk.com
 0.0.0.0 st7-7.vk.com
 0.0.0.0 st7-8.vk.com
 0.0.0.0 st7-9.vk.com
@@ -12460,7 +12474,9 @@
 0.0.0.0 zakaz1570.vk.com
 0.0.0.0 zbzazq.vk.com
 0.0.0.0 zjujbt.vk.com
+0.0.0.0 zqtqyq.vk.com
 0.0.0.0 zzzzzz.vk.com
+0.0.0.0 zzzzzzzz.vk.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-resources-legacy.waze.com
 0.0.0.0 winred.com
@@ -35337,6 +35353,7 @@
 0.0.0.0 api.geni.us
 0.0.0.0 chums.api.geni.us
 0.0.0.0 fmtc.api.geni.us
+0.0.0.0 kit.api.geni.us
 0.0.0.0 blog.geni.us
 0.0.0.0 buy.geni.us
 0.0.0.0 cdn.geni.us
