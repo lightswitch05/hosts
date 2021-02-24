@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-02-24T01:05:19+00:00
-# Count: 20558 domains
+# Released: 2021-02-24T13:05:18+00:00
+# Count: 20573 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -72,10 +72,12 @@
 0.0.0.0 scontent-b-dfw.cdninstagram.com
 0.0.0.0 scontent-b-gru.cdninstagram.com
 0.0.0.0 scontent-b-hkt1-1.cdninstagram.com
+0.0.0.0 scontent-b-hkt1-2.cdninstagram.com
 0.0.0.0 scontent-b-iev1-1.cdninstagram.com
 0.0.0.0 scontent-b-lax.cdninstagram.com
 0.0.0.0 scontent-b-lga.cdninstagram.com
 0.0.0.0 scontent-b-lhr.cdninstagram.com
+0.0.0.0 scontent-b-mct1-1.cdninstagram.com
 0.0.0.0 scontent-b-mxp.cdninstagram.com
 0.0.0.0 scontent-b-nrt.cdninstagram.com
 0.0.0.0 scontent-b-sin.cdninstagram.com
@@ -136,6 +138,7 @@
 0.0.0.0 scontent-lax.cdninstagram.com
 0.0.0.0 scontent-lax3-1.cdninstagram.com
 0.0.0.0 scontent-lax3-2.cdninstagram.com
+0.0.0.0 scontent-lcy1-1.cdninstagram.com
 0.0.0.0 scontent-lga.cdninstagram.com
 0.0.0.0 scontent-lga3-1.cdninstagram.com
 0.0.0.0 scontent-lga3-2.cdninstagram.com
@@ -152,6 +155,7 @@
 0.0.0.0 scontent-mad1-1.cdninstagram.com
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-mba1-1.cdninstagram.com
+0.0.0.0 scontent-mct1-1.cdninstagram.com
 0.0.0.0 scontent-mia.cdninstagram.com
 0.0.0.0 scontent-mia3-1.cdninstagram.com
 0.0.0.0 scontent-mia3-2.cdninstagram.com
@@ -232,8 +236,10 @@
 0.0.0.0 video-lhr8-2.cdninstagram.com
 0.0.0.0 video-lht6-1.cdninstagram.com
 0.0.0.0 video-mad1-1.cdninstagram.com
+0.0.0.0 video-mct1-1.cdninstagram.com
 0.0.0.0 video-mia3-1.cdninstagram.com
 0.0.0.0 video-mia3-2.cdninstagram.com
+0.0.0.0 video-mrs2-1.cdninstagram.com
 0.0.0.0 video-mrs2-2.cdninstagram.com
 0.0.0.0 video-msp1-1.cdninstagram.com
 0.0.0.0 video-mxp1-1.cdninstagram.com
@@ -263,11 +269,13 @@
 0.0.0.0 z-p15-scontent-b-hkt1-1.cdninstagram.com
 0.0.0.0 z-p15-scontent-b-hkt1-2.cdninstagram.com
 0.0.0.0 z-p15-scontent-b-iev1-1.cdninstagram.com
+0.0.0.0 z-p15-scontent-b-mct1-1.cdninstagram.com
 0.0.0.0 z-p15-scontent-hkg4-1.cdninstagram.com
 0.0.0.0 z-p15-scontent-hkg4-2.cdninstagram.com
 0.0.0.0 z-p15-scontent-hkt1-1.cdninstagram.com
 0.0.0.0 z-p15-scontent-hkt1-2.cdninstagram.com
 0.0.0.0 z-p15-scontent-iev1-1.cdninstagram.com
+0.0.0.0 z-p15-scontent-mct1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent.cdninstagram.com
 0.0.0.0 z-p4-scontent-a-hkg4-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-a-hkg4-2.cdninstagram.com
@@ -428,6 +436,7 @@
 0.0.0.0 b2gether.facebook.com
 0.0.0.0 badge.facebook.com
 0.0.0.0 bancoripley.facebook.com
+0.0.0.0 be-by.facebook.com
 0.0.0.0 beta.facebook.com
 0.0.0.0 www.m.0.beta.facebook.com
 0.0.0.0 1.beta.facebook.com
@@ -1168,6 +1177,7 @@
 0.0.0.0 edge-fblite-ws-p1-shv-01-ort2.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-02-hkt1.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-02-mrs2.facebook.com
+0.0.0.0 edge-fwdproxy-3-bgp-02-mrs2.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-01-kut2.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-01-mba1.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-02-mia3.facebook.com
@@ -8937,6 +8947,7 @@
 0.0.0.0 edge-chat.p.facebook.com
 0.0.0.0 rupload.p.facebook.com
 0.0.0.0 p-upload.facebook.com
+0.0.0.0 pa-in.facebook.com
 0.0.0.0 pages.facebook.com
 0.0.0.0 partners.facebook.com
 0.0.0.0 pay.facebook.com
@@ -11783,6 +11794,7 @@
 0.0.0.0 secure-edge-latest-shv-02-gru1.facebook.com
 0.0.0.0 securitas.facebook.com
 0.0.0.0 servicenow.facebook.com
+0.0.0.0 sgx.facebook.com
 0.0.0.0 shadow.facebook.com
 0.0.0.0 shortwave.facebook.com
 0.0.0.0 ws.shortwave.facebook.com
@@ -13243,12 +13255,14 @@
 0.0.0.0 apps-2742898032629217.fbsbx.com
 0.0.0.0 apps-2856208641321432.fbsbx.com
 0.0.0.0 apps-2874190002852013.fbsbx.com
+0.0.0.0 apps-2909091452706965.fbsbx.com
 0.0.0.0 apps-310459543585211.fbsbx.com
 0.0.0.0 apps-313079896605239.fbsbx.com
 0.0.0.0 apps-321701685843134.fbsbx.com
 0.0.0.0 apps-324885758924616.fbsbx.com
 0.0.0.0 apps-3282655251788091.fbsbx.com
 0.0.0.0 apps-328699078319282.fbsbx.com
+0.0.0.0 apps-331702331550069.fbsbx.com
 0.0.0.0 apps-3436022163289684.fbsbx.com
 0.0.0.0 apps-3649018971852947.fbsbx.com
 0.0.0.0 apps-376570793639164.fbsbx.com
@@ -13257,6 +13271,7 @@
 0.0.0.0 apps-402405457516476.fbsbx.com
 0.0.0.0 apps-404129200660215.fbsbx.com
 0.0.0.0 apps-410778693329491.fbsbx.com
+0.0.0.0 apps-416136086118877.fbsbx.com
 0.0.0.0 apps-434896427524775.fbsbx.com
 0.0.0.0 apps-446422466744565.fbsbx.com
 0.0.0.0 apps-458479161987754.fbsbx.com
@@ -17788,6 +17803,7 @@
 0.0.0.0 instagram-p3-shv-01-mba1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-mrs2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-nrt1.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-pmo1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sea1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sin6.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-sjc3.fbcdn.net
@@ -20366,7 +20382,6 @@
 0.0.0.0 media.fotp5-1.fna.whatsapp.net
 0.0.0.0 media.fotp7-1.fna.whatsapp.net
 0.0.0.0 media.fpat3-1.fna.whatsapp.net
-0.0.0.0 fpbq1-1.fna.whatsapp.net
 0.0.0.0 sonar.fpen1-1.fna.whatsapp.net
 0.0.0.0 media.fpew1-1.fna.whatsapp.net
 0.0.0.0 media.fphx1-1.fna.whatsapp.net
