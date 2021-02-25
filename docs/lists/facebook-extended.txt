@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-02-25T01:05:19+00:00
-# Count: 20620 domains
+# Released: 2021-02-25T13:05:18+00:00
+# Count: 20666 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1505,6 +1505,7 @@
 0.0.0.0 13m.fbjs.facebook.com
 0.0.0.0 521533.fbjs.facebook.com
 0.0.0.0 5www.fbjs.facebook.com
+0.0.0.0 66-220-144-173-en-gb.fbjs.facebook.com
 0.0.0.0 7.fbjs.facebook.com
 0.0.0.0 9de-de.fbjs.facebook.com
 0.0.0.0 sz-pl.es-la.af-za.fbjs.facebook.com
@@ -1513,6 +1514,7 @@
 0.0.0.0 app.fbjs.facebook.com
 0.0.0.0 appa.fbjs.facebook.com
 0.0.0.0 applicationms-my.fbjs.facebook.com
+0.0.0.0 apps.fbjs.facebook.com
 0.0.0.0 ar-ar.fbjs.facebook.com
 0.0.0.0 es-la.apps.ar-ar.fbjs.facebook.com
 0.0.0.0 www.apps.ar-ar.fbjs.facebook.com
@@ -1600,6 +1602,8 @@
 0.0.0.0 el-gr.ru-ru.ar-ar.fbjs.facebook.com
 0.0.0.0 it-it.ru-ru.ar-ar.fbjs.facebook.com
 0.0.0.0 sw-ke.ar-ar.fbjs.facebook.com
+0.0.0.0 ar-ar.sw-ke.ar-ar.fbjs.facebook.com
+0.0.0.0 www.sw-ke.ar-ar.fbjs.facebook.com
 0.0.0.0 es-es.th-th.ar-ar.fbjs.facebook.com
 0.0.0.0 www.th-th.ar-ar.fbjs.facebook.com
 0.0.0.0 de-de.tr-tr.ar-ar.fbjs.facebook.com
@@ -1618,8 +1622,15 @@
 0.0.0.0 www.zh-tw.ar-ar.fbjs.facebook.com
 0.0.0.0 auth-www.fbjs.facebook.com
 0.0.0.0 backendm.fbjs.facebook.com
+0.0.0.0 be-by.fbjs.facebook.com
 0.0.0.0 billingl.fbjs.facebook.com
+0.0.0.0 bn-in.fbjs.facebook.com
+0.0.0.0 ca-es.fbjs.facebook.com
 0.0.0.0 cb-iq.fbjs.facebook.com
+0.0.0.0 m.cb-iq.fbjs.facebook.com
+0.0.0.0 mk-mk.cb-iq.fbjs.facebook.com
+0.0.0.0 th-th.cb-iq.fbjs.facebook.com
+0.0.0.0 www.cb-iq.fbjs.facebook.com
 0.0.0.0 chromebook.fbjs.facebook.com
 0.0.0.0 cms-www.fbjs.facebook.com
 0.0.0.0 cs-cz.fbjs.facebook.com
@@ -2061,21 +2072,29 @@
 0.0.0.0 dev1-de.fbjs.facebook.com
 0.0.0.0 dev1-portal.fbjs.facebook.com
 0.0.0.0 drop-l.fbjs.facebook.com
+0.0.0.0 edge-atlas-shv-01-cph2-roro.fbjs.facebook.com
 0.0.0.0 edge-c2p-shv-01-atl3.fbjs.facebook.com
+0.0.0.0 ms-my.edge-c2p-shv-01-atl3.fbjs.facebook.com
 0.0.0.0 edge-cg-rtc-shv-02-kut2pt-br.fbjs.facebook.com
+0.0.0.0 www.edge-cg-rtc-shv-02-kut2pt-br.fbjs.facebook.com
 0.0.0.0 edge-extern-shv-02-hkt1.fbjs.facebook.com
 0.0.0.0 edge-mws-shv-01-for1-ms-my.fbjs.facebook.com
 0.0.0.0 edge-resolver002-bgp-01-lim1pt-br.fbjs.facebook.com
+0.0.0.0 www.edge-resolver002-bgp-01-lim1pt-br.fbjs.facebook.com
 0.0.0.0 edge-secure-shv-01-frx5.fbjs.facebook.com
 0.0.0.0 edge-services-fbonly-shv-02-arn2.fbjs.facebook.com
+0.0.0.0 f1.edge-services-fbonly-shv-02-arn2.fbjs.facebook.com
 0.0.0.0 edge-tcp-tunnel-shv-01-mba1.fbjs.facebook.com
+0.0.0.0 job.edge-tcp-tunnel-shv-01-mba1.fbjs.facebook.com
 0.0.0.0 edge-z-m-mini-shv-01-for1-pt-br.fbjs.facebook.com
+0.0.0.0 www.edge-z-m-mini-shv-01-for1-pt-br.fbjs.facebook.com
 0.0.0.0 edge-z-p4-shv-01-dus1.fbjs.facebook.com
 0.0.0.0 edge-z-p4-shv-01-sea1.fbjs.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fmaa1-pt-br.fbjs.facebook.com
 0.0.0.0 lt-lt.pl-pl.el-gr.fbjs.facebook.com
 0.0.0.0 tl-ph.en-pi.fbjs.facebook.com
 0.0.0.0 www.en-pi.fbjs.facebook.com
+0.0.0.0 eo-eo.fbjs.facebook.com
 0.0.0.0 epixel.fbjs.facebook.com
 0.0.0.0 es-cms1.fbjs.facebook.com
 0.0.0.0 es-es.fbjs.facebook.com
@@ -2297,6 +2316,7 @@
 0.0.0.0 www.ja-ks.ru-ru.es-la.fbjs.facebook.com
 0.0.0.0 www.ru-ru.es-la.fbjs.facebook.com
 0.0.0.0 rw-rw.es-la.fbjs.facebook.com
+0.0.0.0 m.rw-rw.es-la.fbjs.facebook.com
 0.0.0.0 de-de.sr-rs.es-la.fbjs.facebook.com
 0.0.0.0 www.fr-fr.sr-rs.es-la.fbjs.facebook.com
 0.0.0.0 hi-in.sr-rs.es-la.fbjs.facebook.com
@@ -2319,6 +2339,7 @@
 0.0.0.0 he-il.fi.fbjs.facebook.com
 0.0.0.0 id-id.fi.fbjs.facebook.com
 0.0.0.0 www.fi.fbjs.facebook.com
+0.0.0.0 fi-fi.fbjs.facebook.com
 0.0.0.0 id-id.de-de.fi-fi.fbjs.facebook.com
 0.0.0.0 jv-id.de-de.fi-fi.fbjs.facebook.com
 0.0.0.0 gu-in.fr-ca.fi-fi.fbjs.facebook.com
@@ -2333,6 +2354,7 @@
 0.0.0.0 fna148.fbjs.facebook.com
 0.0.0.0 fna175.fbjs.facebook.com
 0.0.0.0 www.es-la.fr.fr.fbjs.facebook.com
+0.0.0.0 fr-ca.fbjs.facebook.com
 0.0.0.0 fr-fr.fbjs.facebook.com
 0.0.0.0 www.ar-ar.fr-fr.fbjs.facebook.com
 0.0.0.0 zh-cn.ko-kr.da-dk.fr-fr.fbjs.facebook.com
@@ -2538,8 +2560,11 @@
 0.0.0.0 www.zh-tw.fr-fr.fbjs.facebook.com
 0.0.0.0 fr-fr-public.fbjs.facebook.com
 0.0.0.0 jagltsd.fr-fr-public.fbjs.facebook.com
+0.0.0.0 fy-nl.fbjs.facebook.com
+0.0.0.0 ga-ie.fbjs.facebook.com
 0.0.0.0 getavirus-com.fbjs.facebook.com
 0.0.0.0 ghcpim.fbjs.facebook.com
+0.0.0.0 gl-es.fbjs.facebook.com
 0.0.0.0 gwqz42wjyil0m7gsfofjvb.fbjs.facebook.com
 0.0.0.0 he-il.fbjs.facebook.com
 0.0.0.0 es-la.apps.he-il.fbjs.facebook.com
@@ -2981,6 +3006,7 @@
 0.0.0.0 ms-my.blog.it-it.fbjs.facebook.com
 0.0.0.0 my-mm.blog.it-it.fbjs.facebook.com
 0.0.0.0 nb-no.blog.it-it.fbjs.facebook.com
+0.0.0.0 ar-ar.nb-no.blog.it-it.fbjs.facebook.com
 0.0.0.0 de-de.nb-no.blog.it-it.fbjs.facebook.com
 0.0.0.0 en-gb.nb-no.blog.it-it.fbjs.facebook.com
 0.0.0.0 es-la.nb-no.blog.it-it.fbjs.facebook.com
@@ -3182,6 +3208,7 @@
 0.0.0.0 sv-se.fr-fr.ja-jp.fbjs.facebook.com
 0.0.0.0 www.fr-fr.ja-jp.fbjs.facebook.com
 0.0.0.0 www.hi-in.ja-jp.fbjs.facebook.com
+0.0.0.0 it-it.ja-jp.fbjs.facebook.com
 0.0.0.0 ar-ar.it-it.ja-jp.fbjs.facebook.com
 0.0.0.0 ar-ar.de-de.it-it.ja-jp.fbjs.facebook.com
 0.0.0.0 fr-fr.de-de.it-it.ja-jp.fbjs.facebook.com
@@ -3200,6 +3227,7 @@
 0.0.0.0 ja-jp.it-it.ja-jp.fbjs.facebook.com
 0.0.0.0 www.it-it.ja-jp.fbjs.facebook.com
 0.0.0.0 zh-cn.it-it.ja-jp.fbjs.facebook.com
+0.0.0.0 ko-kr.ja-jp.fbjs.facebook.com
 0.0.0.0 www.ko-kr.ja-jp.fbjs.facebook.com
 0.0.0.0 lt-lt.ja-jp.fbjs.facebook.com
 0.0.0.0 es-la.lt-lt.ja-jp.fbjs.facebook.com
@@ -3207,6 +3235,7 @@
 0.0.0.0 www.ms-my.ja-jp.fbjs.facebook.com
 0.0.0.0 it-it.nb-no.ja-jp.fbjs.facebook.com
 0.0.0.0 ja-jp.nb-no.ja-jp.fbjs.facebook.com
+0.0.0.0 nl-be.ja-jp.fbjs.facebook.com
 0.0.0.0 de-de.th-th.ja-jp.fbjs.facebook.com
 0.0.0.0 ar-ar.tr-tr.ja-jp.fbjs.facebook.com
 0.0.0.0 en-gb.tr-tr.ja-jp.fbjs.facebook.com
@@ -3312,6 +3341,7 @@
 0.0.0.0 zh-cn.ka-ge.fbjs.facebook.com
 0.0.0.0 zh-hk.ka-ge.fbjs.facebook.com
 0.0.0.0 zh-tw.ka-ge.fbjs.facebook.com
+0.0.0.0 pt-br.zh-tw.ka-ge.fbjs.facebook.com
 0.0.0.0 ko-kr.fbjs.facebook.com
 0.0.0.0 ar-ar.ko-kr.fbjs.facebook.com
 0.0.0.0 fr-fr.ar-ar.ko-kr.fbjs.facebook.com
@@ -3596,6 +3626,7 @@
 0.0.0.0 ro-ro.ne-np.fbjs.facebook.com
 0.0.0.0 www.ne-np.fbjs.facebook.com
 0.0.0.0 ngogarf1.fbjs.facebook.com
+0.0.0.0 ko-kr.ngogarf1.fbjs.facebook.com
 0.0.0.0 www.ar-ar.nl-nl.fbjs.facebook.com
 0.0.0.0 www.nl-nl.fbjs.facebook.com
 0.0.0.0 www.zh-cn.nn-no.fbjs.facebook.com
@@ -3792,6 +3823,7 @@
 0.0.0.0 zh-cn.zh-hk.zh-hk.pl-pl.fbjs.facebook.com
 0.0.0.0 zh-tw.pl-pl.fbjs.facebook.com
 0.0.0.0 playpen7.fbjs.facebook.com
+0.0.0.0 ms-my.playpen7.fbjs.facebook.com
 0.0.0.0 portal-lax1.fbjs.facebook.com
 0.0.0.0 portal-qa.fbjs.facebook.com
 0.0.0.0 prdwww.fbjs.facebook.com
@@ -3810,6 +3842,7 @@
 0.0.0.0 repository-pixel.fbjs.facebook.com
 0.0.0.0 respiratorycare.fbjs.facebook.com
 0.0.0.0 ro.fbjs.facebook.com
+0.0.0.0 en-gb.ro.fbjs.facebook.com
 0.0.0.0 af-za.en-gb.ro.fbjs.facebook.com
 0.0.0.0 da-dk.en-gb.ro.fbjs.facebook.com
 0.0.0.0 en-gb.en-gb.ro.fbjs.facebook.com
@@ -3843,6 +3876,11 @@
 0.0.0.0 zh-tw.en-gb.ro.fbjs.facebook.com
 0.0.0.0 es-la.ro.fbjs.facebook.com
 0.0.0.0 fi-fi.ro.fbjs.facebook.com
+0.0.0.0 m.fi-fi.ro.fbjs.facebook.com
+0.0.0.0 nb-no.fi-fi.ro.fbjs.facebook.com
+0.0.0.0 pt-pt.fi-fi.ro.fbjs.facebook.com
+0.0.0.0 sv-se.fi-fi.ro.fbjs.facebook.com
+0.0.0.0 fr-ca.ro.fbjs.facebook.com
 0.0.0.0 fy-nl.ro.fbjs.facebook.com
 0.0.0.0 it-it.ro.fbjs.facebook.com
 0.0.0.0 cy-gb.it-it.ro.fbjs.facebook.com
@@ -3855,9 +3893,11 @@
 0.0.0.0 ms-my.ro.fbjs.facebook.com
 0.0.0.0 ja-jp.ro.ro.fbjs.facebook.com
 0.0.0.0 www.ro.ro.fbjs.facebook.com
+0.0.0.0 ro-ro.ro.fbjs.facebook.com
 0.0.0.0 tr-tr.ro.fbjs.facebook.com
 0.0.0.0 vi-vn.ro.fbjs.facebook.com
 0.0.0.0 www.ro.fbjs.facebook.com
+0.0.0.0 zh-cn.ro.fbjs.facebook.com
 0.0.0.0 ar-ar.zh-cn.ro.fbjs.facebook.com
 0.0.0.0 az-az.zh-cn.ro.fbjs.facebook.com
 0.0.0.0 bs-ba.zh-cn.ro.fbjs.facebook.com
@@ -5283,6 +5323,7 @@
 0.0.0.0 www.sw-ke.fbjs.facebook.com
 0.0.0.0 systemtechus.fbjs.facebook.com
 0.0.0.0 sz-pl.fbjs.facebook.com
+0.0.0.0 ta-in.fbjs.facebook.com
 0.0.0.0 www.el-gr.th-th.fbjs.facebook.com
 0.0.0.0 ca-es.es-es.th-th.fbjs.facebook.com
 0.0.0.0 www.es-es.tl-ph.fbjs.facebook.com
@@ -5294,12 +5335,16 @@
 0.0.0.0 en-gb.tz-ma.fbjs.facebook.com
 0.0.0.0 es-es.tz-ma.fbjs.facebook.com
 0.0.0.0 u-hi-in.fbjs.facebook.com
+0.0.0.0 uk-ua.fbjs.facebook.com
+0.0.0.0 vi-vn.fbjs.facebook.com
 0.0.0.0 virusirto.fbjs.facebook.com
 0.0.0.0 w-l.fbjs.facebook.com
 0.0.0.0 w3-l.fbjs.facebook.com
 0.0.0.0 webm.fbjs.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-fml1.fbjs.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-jnb1.fbjs.facebook.com
+0.0.0.0 ms-my.whatsapp-chatd-edge-shv-01-jnb1.fbjs.facebook.com
+0.0.0.0 whatsapp-chatd-msgr-p4-edge-shv-01-jnb1ro-ro.fbjs.facebook.com
 0.0.0.0 work.fbjs.facebook.com
 0.0.0.0 lt-lt.work.fbjs.facebook.com
 0.0.0.0 nb-no.work.fbjs.facebook.com
@@ -6072,6 +6117,7 @@
 0.0.0.0 intern-managed-client-chromebook-shv-01-hbe1.facebook.com
 0.0.0.0 intern-managed-client-chromebook-shv-03-sin6.facebook.com
 0.0.0.0 intern-managed-client-shv-01-arn2.facebook.com
+0.0.0.0 intern-managed-client-shv-01-fml1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-lht6.facebook.com
 0.0.0.0 intern-managed-client-shv-01-mba1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-qro1.facebook.com
