@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-02-25T13:05:19+00:00
-# Count: 1162 domains
+# Released: 2021-02-26T13:05:19+00:00
+# Count: 1168 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -142,6 +142,7 @@
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 block-test-hate-junk.developerdan.com
 0.0.0.0 eartheclipse.com
+0.0.0.0 cdn.eartheclipse.com
 0.0.0.0 www.eartheclipse.com
 0.0.0.0 flatearthnexus.com
 0.0.0.0 autodiscover.flatearthnexus.com
@@ -582,6 +583,7 @@
 0.0.0.0 www.coronavirushoax.net
 0.0.0.0 forbiddenknowledgetv.net
 0.0.0.0 cdn.forbiddenknowledgetv.net
+0.0.0.0 ftp.forbiddenknowledgetv.net
 0.0.0.0 rs-stripe.forbiddenknowledgetv.net
 0.0.0.0 www.forbiddenknowledgetv.net
 0.0.0.0 phibetaiota.net
@@ -643,9 +645,13 @@
 0.0.0.0 legacy.heartland.org
 0.0.0.0 mail.heartland.org
 0.0.0.0 news.heartland.org
+0.0.0.0 rewards.heartland.org
 0.0.0.0 speakers.heartland.org
 0.0.0.0 store.heartland.org
+0.0.0.0 vpn.heartland.org
+0.0.0.0 wiki.heartland.org
 0.0.0.0 www.heartland.org
+0.0.0.0 www2.heartland.org
 0.0.0.0 iasmembership.org
 0.0.0.0 authsmtp.iasmembership.org
 0.0.0.0 barracuda.iasmembership.org
