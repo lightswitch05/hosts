@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-03-02T01:05:19+00:00
-# Count: 39392 domains
+# Released: 2021-03-02T13:05:18+00:00
+# Count: 39404 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -67,6 +67,7 @@
 0.0.0.0 anfu.360.cn
 0.0.0.0 captcha.antispam.360.cn
 0.0.0.0 data.antispam.360.cn
+0.0.0.0 apc.360.cn
 0.0.0.0 apistore.360.cn
 0.0.0.0 app.360.cn
 0.0.0.0 chajian.app.360.cn
@@ -267,6 +268,7 @@
 0.0.0.0 admin.college.360.cn
 0.0.0.0 ca.college.360.cn
 0.0.0.0 video.college.360.cn
+0.0.0.0 connect.360.cn
 0.0.0.0 cp.360.cn
 0.0.0.0 s0.cp.360.cn
 0.0.0.0 crm.360.cn
@@ -713,6 +715,7 @@
 0.0.0.0 papi.look.360.cn
 0.0.0.0 relate.look.360.cn
 0.0.0.0 show.look.360.cn
+0.0.0.0 loudongyun.360.cn
 0.0.0.0 luyou.360.cn
 0.0.0.0 api.luyou.360.cn
 0.0.0.0 test.api.luyou.360.cn
@@ -6560,6 +6563,7 @@
 0.0.0.0 stats8.providesupport.com
 0.0.0.0 test.providesupport.com
 0.0.0.0 testcname.providesupport.com
+0.0.0.0 transcript-api.providesupport.com
 0.0.0.0 vm.providesupport.com
 0.0.0.0 vm1.providesupport.com
 0.0.0.0 vm2.providesupport.com
@@ -11202,7 +11206,6 @@
 0.0.0.0 b-hls-eu6.stripcdn.com
 0.0.0.0 b-hls-eu7.stripcdn.com
 0.0.0.0 b-hls-eu9.stripcdn.com
-0.0.0.0 b-hls-us5.stripcdn.com
 0.0.0.0 b-hls-us9.stripcdn.com
 0.0.0.0 b-us1.stripcdn.com
 0.0.0.0 b-us10.stripcdn.com
@@ -23879,6 +23882,8 @@
 0.0.0.0 hooverdamnserver.duckdns.org
 0.0.0.0 hoppel.duckdns.org
 0.0.0.0 hoppie.duckdns.org
+0.0.0.0 bitw.hoppie.duckdns.org
+0.0.0.0 nginx.hoppie.duckdns.org
 0.0.0.0 hopps-ha.duckdns.org
 0.0.0.0 hoqmfkkzrm.duckdns.org
 0.0.0.0 horgencam1.duckdns.org
@@ -27124,6 +27129,7 @@
 0.0.0.0 www.blog.lndvll.duckdns.org
 0.0.0.0 magento.lndvll.duckdns.org
 0.0.0.0 blog.magento.lndvll.duckdns.org
+0.0.0.0 blog.blog.magento.lndvll.duckdns.org
 0.0.0.0 dev.magento.lndvll.duckdns.org
 0.0.0.0 blog.dev.magento.lndvll.duckdns.org
 0.0.0.0 blog.mta-sts.lndvll.duckdns.org
@@ -27436,14 +27442,6 @@
 0.0.0.0 lukaszcwik.duckdns.org
 0.0.0.0 lukawski.duckdns.org
 0.0.0.0 lukebrandt.duckdns.org
-0.0.0.0 akaunting.lukestestserver.duckdns.org
-0.0.0.0 code.lukestestserver.duckdns.org
-0.0.0.0 grocy.lukestestserver.duckdns.org
-0.0.0.0 nextcloud.lukestestserver.duckdns.org
-0.0.0.0 papermerge.lukestestserver.duckdns.org
-0.0.0.0 redmine.lukestestserver.duckdns.org
-0.0.0.0 wger.lukestestserver.duckdns.org
-0.0.0.0 wiki.lukestestserver.duckdns.org
 0.0.0.0 lukexico.duckdns.org
 0.0.0.0 lukichouse.duckdns.org
 0.0.0.0 lukish.duckdns.org
@@ -28252,7 +28250,10 @@
 0.0.0.0 mckellip-ha.duckdns.org
 0.0.0.0 mckenna.duckdns.org
 0.0.0.0 cracker.mckenna.duckdns.org
+0.0.0.0 drive.mckenna.duckdns.org
 0.0.0.0 hass.mckenna.duckdns.org
+0.0.0.0 hoth.mckenna.duckdns.org
+0.0.0.0 drive.hoth.mckenna.duckdns.org
 0.0.0.0 portainer.mckenna.duckdns.org
 0.0.0.0 mckernan.duckdns.org
 0.0.0.0 mckhouse.duckdns.org
@@ -30621,6 +30622,7 @@
 0.0.0.0 okoo.duckdns.org
 0.0.0.0 dsm.okoo.duckdns.org
 0.0.0.0 ha.okoo.duckdns.org
+0.0.0.0 router.okoo.duckdns.org
 0.0.0.0 seafile.oksymoron.duckdns.org
 0.0.0.0 xmpp.oksymoron.duckdns.org
 0.0.0.0 okyob.duckdns.org
@@ -31810,6 +31812,10 @@
 0.0.0.0 porut.duckdns.org
 0.0.0.0 whoami.porut.duckdns.org
 0.0.0.0 posadadelpelaire.duckdns.org
+0.0.0.0 climate.posadadelpelaire.duckdns.org
+0.0.0.0 max.posadadelpelaire.duckdns.org
+0.0.0.0 proxmox.posadadelpelaire.duckdns.org
+0.0.0.0 router.posadadelpelaire.duckdns.org
 0.0.0.0 possebom.duckdns.org
 0.0.0.0 cloud.possebom.duckdns.org
 0.0.0.0 git.possebom.duckdns.org
@@ -32076,7 +32082,6 @@
 0.0.0.0 www.pvqwpvwfuw.duckdns.org
 0.0.0.0 pvt270244.duckdns.org
 0.0.0.0 pwarden.duckdns.org
-0.0.0.0 pwatk.duckdns.org
 0.0.0.0 pwerspire.duckdns.org
 0.0.0.0 pwmsm.duckdns.org
 0.0.0.0 mail.pwmsm.duckdns.org
@@ -32450,11 +32455,14 @@
 0.0.0.0 www.dockovpn.raulibi.duckdns.org
 0.0.0.0 blog.eager-payne.raulibi.duckdns.org
 0.0.0.0 blog.filebot.raulibi.duckdns.org
+0.0.0.0 blog.blog.filebot.raulibi.duckdns.org
 0.0.0.0 blog.www.filebot.raulibi.duckdns.org
 0.0.0.0 blog.blog.www.filebot.raulibi.duckdns.org
 0.0.0.0 jacket.raulibi.duckdns.org
 0.0.0.0 blog.jacket.raulibi.duckdns.org
+0.0.0.0 blog.blog.jacket.raulibi.duckdns.org
 0.0.0.0 dev.jacket.raulibi.duckdns.org
+0.0.0.0 blog.dev.jacket.raulibi.duckdns.org
 0.0.0.0 www.jacket.raulibi.duckdns.org
 0.0.0.0 jackett.raulibi.duckdns.org
 0.0.0.0 blog.jackett.raulibi.duckdns.org
@@ -32479,13 +32487,16 @@
 0.0.0.0 blog.blog.magento2.raulibi.duckdns.org
 0.0.0.0 www.magento2.raulibi.duckdns.org
 0.0.0.0 blog.mta-sts.raulibi.duckdns.org
+0.0.0.0 blog.blog.mta-sts.raulibi.duckdns.org
 0.0.0.0 blog.munin.raulibi.duckdns.org
 0.0.0.0 blog.blog.munin.raulibi.duckdns.org
 0.0.0.0 blog.mystifying-shamir.raulibi.duckdns.org
 0.0.0.0 blog.nervous-lichterman.raulibi.duckdns.org
+0.0.0.0 blog.blog.nervous-lichterman.raulibi.duckdns.org
 0.0.0.0 blog.netdatarouter.raulibi.duckdns.org
 0.0.0.0 blog.blog.netdatarouter.raulibi.duckdns.org
 0.0.0.0 pedzoblog.node-red.raulibi.duckdns.org
+0.0.0.0 blog.pedzoblog.node-red.raulibi.duckdns.org
 0.0.0.0 www.openvpn.raulibi.duckdns.org
 0.0.0.0 blog.peaceful-fermi.raulibi.duckdns.org
 0.0.0.0 blog.pedantic-kapitsa.raulibi.duckdns.org
@@ -38384,6 +38395,7 @@
 0.0.0.0 zngduong.duckdns.org
 0.0.0.0 hass.zngduong.duckdns.org
 0.0.0.0 jupyter.zngduong.duckdns.org
+0.0.0.0 manager.zngduong.duckdns.org
 0.0.0.0 portainer.zngduong.duckdns.org
 0.0.0.0 znsh.duckdns.org
 0.0.0.0 zockhaus.duckdns.org
