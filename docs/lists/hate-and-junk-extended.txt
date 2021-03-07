@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-03-05T13:05:19+00:00
-# Count: 1182 domains
+# Released: 2021-03-07T13:05:19+00:00
+# Count: 1197 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -174,6 +174,7 @@
 0.0.0.0 stream-mp3.a.infowars.com
 0.0.0.0 stream-mp3-eu.a.infowars.com
 0.0.0.0 stream-mp3-us.a.infowars.com
+0.0.0.0 advertise.infowars.com
 0.0.0.0 affiliates.infowars.com
 0.0.0.0 api.infowars.com
 0.0.0.0 api-assets.infowars.com
@@ -190,8 +191,11 @@
 0.0.0.0 cache-a.infowars.com
 0.0.0.0 cdn.infowars.com
 0.0.0.0 cdntest.infowars.com
+0.0.0.0 comments.infowars.com
 0.0.0.0 content1.infowars.com
+0.0.0.0 content2.infowars.com
 0.0.0.0 core.infowars.com
+0.0.0.0 cpdns1.infowars.com
 0.0.0.0 cuda.infowars.com
 0.0.0.0 db-dump.infowars.com
 0.0.0.0 cs-web.dev.infowars.com
@@ -213,6 +217,8 @@
 0.0.0.0 mobile.infowars.com
 0.0.0.0 new.infowars.com
 0.0.0.0 ns1.infowars.com
+0.0.0.0 ns10.infowars.com
+0.0.0.0 ns11.infowars.com
 0.0.0.0 ns12.infowars.com
 0.0.0.0 ns13.infowars.com
 0.0.0.0 ns2.infowars.com
@@ -225,14 +231,17 @@
 0.0.0.0 paulrevere.infowars.com
 0.0.0.0 planet.infowars.com
 0.0.0.0 podcast.infowars.com
+0.0.0.0 poll.infowars.com
 0.0.0.0 pravda.infowars.com
 0.0.0.0 prod.infowars.com
 0.0.0.0 purge.infowars.com
 0.0.0.0 push.infowars.com
+0.0.0.0 rocket.infowars.com
 0.0.0.0 rss.infowars.com
 0.0.0.0 sender.infowars.com
 0.0.0.0 shop.infowars.com
 0.0.0.0 rss.show.infowars.com
+0.0.0.0 sl.infowars.com
 0.0.0.0 staging.infowars.com
 0.0.0.0 cs-web.staging.infowars.com
 0.0.0.0 staging-2.infowars.com
@@ -253,9 +262,11 @@
 0.0.0.0 stream-mp3-us.infowars.com
 0.0.0.0 stream-v2.infowars.com
 0.0.0.0 stream1.infowars.com
+0.0.0.0 stream3.infowars.com
 0.0.0.0 streams.infowars.com
 0.0.0.0 support.infowars.com
 0.0.0.0 talk.infowars.com
+0.0.0.0 testing.infowars.com
 0.0.0.0 tv.infowars.com
 0.0.0.0 tvassets.infowars.com
 0.0.0.0 varnish.us-east-1.infowars.com
@@ -350,6 +361,7 @@
 0.0.0.0 www.prayingmedic.com
 0.0.0.0 prisonplanet.com
 0.0.0.0 cdn.prisonplanet.com
+0.0.0.0 cdn-test.prisonplanet.com
 0.0.0.0 dev.prisonplanet.com
 0.0.0.0 forum.prisonplanet.com
 0.0.0.0 forumimages.prisonplanet.com
@@ -357,11 +369,13 @@
 0.0.0.0 hw.prisonplanet.com
 0.0.0.0 img.prisonplanet.com
 0.0.0.0 ns1.prisonplanet.com
+0.0.0.0 ns2.prisonplanet.com
 0.0.0.0 ns3.prisonplanet.com
 0.0.0.0 ns4.prisonplanet.com
 0.0.0.0 staging.prisonplanet.com
 0.0.0.0 static.prisonplanet.com
 0.0.0.0 varnish.prisonplanet.com
+0.0.0.0 web.prisonplanet.com
 0.0.0.0 www.prisonplanet.com
 0.0.0.0 projectveritas.com
 0.0.0.0 breaking.projectveritas.com
@@ -499,6 +513,7 @@
 0.0.0.0 12160.info
 0.0.0.0 email.12160.info
 0.0.0.0 ftp.12160.info
+0.0.0.0 imap.12160.info
 0.0.0.0 mail.12160.info
 0.0.0.0 pop.12160.info
 0.0.0.0 www.12160.info
