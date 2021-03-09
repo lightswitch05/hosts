@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-03-08T13:05:19+00:00
-# Count: 1202 domains
+# Released: 2021-03-09T01:05:19+00:00
+# Count: 1237 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -686,14 +686,21 @@
 0.0.0.0 www.heartland.org
 0.0.0.0 www2.heartland.org
 0.0.0.0 iasmembership.org
+0.0.0.0 antispam.iasmembership.org
+0.0.0.0 art.iasmembership.org
+0.0.0.0 auth.iasmembership.org
 0.0.0.0 authsmtp.iasmembership.org
 0.0.0.0 barracuda.iasmembership.org
 0.0.0.0 box.iasmembership.org
 0.0.0.0 comune.iasmembership.org
+0.0.0.0 correo.iasmembership.org
+0.0.0.0 direct.iasmembership.org
+0.0.0.0 dns.iasmembership.org
 0.0.0.0 email.iasmembership.org
 0.0.0.0 exchange.iasmembership.org
 0.0.0.0 ftp.iasmembership.org
 0.0.0.0 gate.iasmembership.org
+0.0.0.0 gateway.iasmembership.org
 0.0.0.0 gw.iasmembership.org
 0.0.0.0 hermes.iasmembership.org
 0.0.0.0 home.iasmembership.org
@@ -716,6 +723,8 @@
 0.0.0.0 mail6.iasmembership.org
 0.0.0.0 mail7.iasmembership.org
 0.0.0.0 mail8.iasmembership.org
+0.0.0.0 mail9.iasmembership.org
+0.0.0.0 mailapp.iasmembership.org
 0.0.0.0 mailbox.iasmembership.org
 0.0.0.0 mailer.iasmembership.org
 0.0.0.0 mailgate.iasmembership.org
@@ -724,20 +733,30 @@
 0.0.0.0 mailin.iasmembership.org
 0.0.0.0 mailout.iasmembership.org
 0.0.0.0 mailrelay.iasmembership.org
+0.0.0.0 mails.iasmembership.org
 0.0.0.0 mailserver.iasmembership.org
+0.0.0.0 mailsrv.iasmembership.org
+0.0.0.0 mailx.iasmembership.org
 0.0.0.0 mbox.iasmembership.org
+0.0.0.0 ms.iasmembership.org
 0.0.0.0 ms1.iasmembership.org
+0.0.0.0 mta.iasmembership.org
+0.0.0.0 mta1.iasmembership.org
 0.0.0.0 mx.iasmembership.org
+0.0.0.0 mx0.iasmembership.org
 0.0.0.0 mx01.iasmembership.org
 0.0.0.0 mx02.iasmembership.org
 0.0.0.0 mx1.iasmembership.org
 0.0.0.0 mx10.iasmembership.org
 0.0.0.0 mx2.iasmembership.org
+0.0.0.0 mx20.iasmembership.org
 0.0.0.0 mx3.iasmembership.org
 0.0.0.0 mx4.iasmembership.org
 0.0.0.0 mx5.iasmembership.org
 0.0.0.0 mx7.iasmembership.org
 0.0.0.0 mxs.iasmembership.org
+0.0.0.0 newmail.iasmembership.org
+0.0.0.0 ns.iasmembership.org
 0.0.0.0 ns1.iasmembership.org
 0.0.0.0 ns2.iasmembership.org
 0.0.0.0 out.iasmembership.org
@@ -745,16 +764,19 @@
 0.0.0.0 po.iasmembership.org
 0.0.0.0 poczta.iasmembership.org
 0.0.0.0 pop.iasmembership.org
+0.0.0.0 pop3.iasmembership.org
 0.0.0.0 post.iasmembership.org
 0.0.0.0 posta.iasmembership.org
 0.0.0.0 postmaster.iasmembership.org
 0.0.0.0 relay.iasmembership.org
+0.0.0.0 relay1.iasmembership.org
 0.0.0.0 relay2.iasmembership.org
 0.0.0.0 remote.iasmembership.org
 0.0.0.0 root.iasmembership.org
 0.0.0.0 secure.iasmembership.org
 0.0.0.0 server.iasmembership.org
 0.0.0.0 server1.iasmembership.org
+0.0.0.0 server2.iasmembership.org
 0.0.0.0 smtp.iasmembership.org
 0.0.0.0 smtp01.iasmembership.org
 0.0.0.0 smtp1.iasmembership.org
@@ -762,14 +784,21 @@
 0.0.0.0 smtp3.iasmembership.org
 0.0.0.0 smtpauth.iasmembership.org
 0.0.0.0 smtps.iasmembership.org
+0.0.0.0 smtpseguro.iasmembership.org
 0.0.0.0 sniper.iasmembership.org
 0.0.0.0 spam.iasmembership.org
 0.0.0.0 srv.iasmembership.org
 0.0.0.0 ssl.iasmembership.org
+0.0.0.0 tiger.iasmembership.org
+0.0.0.0 tw.iasmembership.org
+0.0.0.0 vnet.iasmembership.org
+0.0.0.0 vps.iasmembership.org
 0.0.0.0 webmail.iasmembership.org
 0.0.0.0 www.iasmembership.org
 0.0.0.0 www1.iasmembership.org
+0.0.0.0 www2.iasmembership.org
 0.0.0.0 zimbra.iasmembership.org
+0.0.0.0 zmail.iasmembership.org
 0.0.0.0 learntherisk.org
 0.0.0.0 ftp.learntherisk.org
 0.0.0.0 www.learntherisk.org
@@ -952,7 +981,9 @@
 0.0.0.0 scientology.org
 0.0.0.0 aola.scientology.org
 0.0.0.0 aoshanzo.scientology.org
+0.0.0.0 br.scientology.org
 0.0.0.0 catalog.scientology.org
+0.0.0.0 de.scientology.org
 0.0.0.0 ef5e51dd69a8801ce436681121284a00.scientology.org
 0.0.0.0 es.scientology.org
 0.0.0.0 europe.scientology.org
@@ -964,7 +995,9 @@
 0.0.0.0 www.events.scientology.org
 0.0.0.0 expansion.scientology.org
 0.0.0.0 faq.scientology.org
+0.0.0.0 feeds.scientology.org
 0.0.0.0 foundingchurch.scientology.org
+0.0.0.0 fr.scientology.org
 0.0.0.0 groundbreaking.scientology.org
 0.0.0.0 italian.groundbreaking.scientology.org
 0.0.0.0 home.scientology.org
@@ -972,6 +1005,7 @@
 0.0.0.0 img2.scientology.org
 0.0.0.0 img3.scientology.org
 0.0.0.0 info.scientology.org
+0.0.0.0 it.scientology.org
 0.0.0.0 jiveaces.scientology.org
 0.0.0.0 learn.scientology.org
 0.0.0.0 french.learn.scientology.org
@@ -992,6 +1026,7 @@
 0.0.0.0 ns.scientology.org
 0.0.0.0 ns1.scientology.org
 0.0.0.0 ns2.scientology.org
+0.0.0.0 ns3.scientology.org
 0.0.0.0 new.oca.scientology.org
 0.0.0.0 www.oca.scientology.org
 0.0.0.0 on-line.scientology.org
