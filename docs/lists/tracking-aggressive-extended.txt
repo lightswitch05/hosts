@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-03-10T13:05:19+00:00
-# Count: 39644 domains
+# Released: 2021-03-11T01:05:19+00:00
+# Count: 39668 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1127,6 +1127,7 @@
 0.0.0.0 vod.speaker.360.cn
 0.0.0.0 speedtest.360.cn
 0.0.0.0 ssp.360.cn
+0.0.0.0 c.ssp.360.cn
 0.0.0.0 static.360.cn
 0.0.0.0 stor.360.cn
 0.0.0.0 offline.stor.360.cn
@@ -1270,6 +1271,7 @@
 0.0.0.0 pay.wg.360.cn
 0.0.0.0 profile.wg.360.cn
 0.0.0.0 vod.wg.360.cn
+0.0.0.0 wegame.wg.360.cn
 0.0.0.0 wx.wg.360.cn
 0.0.0.0 wifi.360.cn
 0.0.0.0 free.wifi.360.cn
@@ -1343,7 +1345,9 @@
 0.0.0.0 zt.360.cn
 0.0.0.0 zyun.360.cn
 0.0.0.0 actionbutton.co
+0.0.0.0 admin.actionbutton.co
 0.0.0.0 api.actionbutton.co
+0.0.0.0 build-api.actionbutton.co
 0.0.0.0 embed.actionbutton.co
 0.0.0.0 images.actionbutton.co
 0.0.0.0 pay.actionbutton.co
@@ -1352,6 +1356,7 @@
 0.0.0.0 qa.actionbutton.co
 0.0.0.0 qa-admin.actionbutton.co
 0.0.0.0 qa-api.actionbutton.co
+0.0.0.0 qa-native.actionbutton.co
 0.0.0.0 static.actionbutton.co
 0.0.0.0 userapi.actionbutton.co
 0.0.0.0 www.actionbutton.co
@@ -1498,6 +1503,7 @@
 0.0.0.0 jcpenney.ugc.bazaarvoice.com
 0.0.0.0 jcrew.ugc.bazaarvoice.com
 0.0.0.0 jcrewfactory.ugc.bazaarvoice.com
+0.0.0.0 jeannedarc.ugc.bazaarvoice.com
 0.0.0.0 jmbruneau.ugc.bazaarvoice.com
 0.0.0.0 johndeere.ugc.bazaarvoice.com
 0.0.0.0 johnfrieda.ugc.bazaarvoice.com
@@ -1534,6 +1540,7 @@
 0.0.0.0 mountainhardwear.ugc.bazaarvoice.com
 0.0.0.0 nationwide.ugc.bazaarvoice.com
 0.0.0.0 ncl.ugc.bazaarvoice.com
+0.0.0.0 netonnet.ugc.bazaarvoice.com
 0.0.0.0 nikon.ugc.bazaarvoice.com
 0.0.0.0 nizoral.ugc.bazaarvoice.com
 0.0.0.0 norauto.ugc.bazaarvoice.com
@@ -1644,6 +1651,7 @@
 0.0.0.0 prod-2019-04-30-tableau-external.chatid.com
 0.0.0.0 prod-2019-04-30-tableau-internal.chatid.com
 0.0.0.0 qa.chatid.com
+0.0.0.0 stage-ls.chatid.com
 0.0.0.0 support.chatid.com
 0.0.0.0 tableau.chatid.com
 0.0.0.0 test.chatid.com
@@ -1663,10 +1671,12 @@
 0.0.0.0 email.chatlio.com
 0.0.0.0 es.chatlio.com
 0.0.0.0 jitsi.chatlio.com
+0.0.0.0 mail.chatlio.com
 0.0.0.0 meet.chatlio.com
 0.0.0.0 nchan.chatlio.com
 0.0.0.0 s-w.chatlio.com
 0.0.0.0 stable-w.chatlio.com
+0.0.0.0 static.chatlio.com
 0.0.0.0 status.chatlio.com
 0.0.0.0 uploads-cdn.chatlio.com
 0.0.0.0 w.chatlio.com
@@ -3348,6 +3358,7 @@
 0.0.0.0 ally-mc-dr.exacttarget.com
 0.0.0.0 ally-members.exacttarget.com
 0.0.0.0 ally-members-dr.exacttarget.com
+0.0.0.0 ally-webservice.exacttarget.com
 0.0.0.0 ally-webservice-dr.exacttarget.com
 0.0.0.0 lyncpoolwebext.america.exacttarget.com
 0.0.0.0 sipext.america.exacttarget.com
@@ -3365,6 +3376,7 @@
 0.0.0.0 artifactory-qa-p03.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p03.exacttarget.com
 0.0.0.0 sfmc-docker-qa-local.artifactory-qa-p03.exacttarget.com
+0.0.0.0 assets.exacttarget.com
 0.0.0.0 auth.exacttarget.com
 0.0.0.0 autodiscover.exacttarget.com
 0.0.0.0 barracuda.exacttarget.com
@@ -3404,6 +3416,7 @@
 0.0.0.0 code.exacttarget.com
 0.0.0.0 docs.code.exacttarget.com
 0.0.0.0 content.exacttarget.com
+0.0.0.0 cotweet.exacttarget.com
 0.0.0.0 api.dc1.exacttarget.com
 0.0.0.0 temp-api.dc1.exacttarget.com
 0.0.0.0 api.dc2.exacttarget.com
@@ -4350,9 +4363,13 @@
 0.0.0.0 webmail.exacttarget.com
 0.0.0.0 webservice.exacttarget.com
 0.0.0.0 webservice-aaa.exacttarget.com
+0.0.0.0 webservice-agilone.exacttarget.com
 0.0.0.0 webservice-aprimo.exacttarget.com
 0.0.0.0 webservice-bby-gemini.exacttarget.com
+0.0.0.0 webservice-bestbuy.exacttarget.com
 0.0.0.0 webservice-csg.exacttarget.com
+0.0.0.0 webservice-nw.exacttarget.com
+0.0.0.0 webservice-sha2.exacttarget.com
 0.0.0.0 webservice-test.exacttarget.com
 0.0.0.0 papajohns.webservices.exacttarget.com
 0.0.0.0 website.exacttarget.com
@@ -4390,6 +4407,7 @@
 0.0.0.0 license.flexispy.com
 0.0.0.0 lyncdiscover.flexispy.com
 0.0.0.0 magpieadmin.flexispy.com
+0.0.0.0 magpieadmin2.flexispy.com
 0.0.0.0 msoid.flexispy.com
 0.0.0.0 portal.flexispy.com
 0.0.0.0 sip.flexispy.com
@@ -4514,6 +4532,7 @@
 0.0.0.0 custom.getbeamer.com
 0.0.0.0 errors.getbeamer.com
 0.0.0.0 functions.getbeamer.com
+0.0.0.0 help.getbeamer.com
 0.0.0.0 landing.getbeamer.com
 0.0.0.0 logs.getbeamer.com
 0.0.0.0 mail.getbeamer.com
@@ -4523,6 +4542,7 @@
 0.0.0.0 static.getbeamer.com
 0.0.0.0 status.getbeamer.com
 0.0.0.0 try.getbeamer.com
+0.0.0.0 url9707.getbeamer.com
 0.0.0.0 www.getbeamer.com
 0.0.0.0 gigya.com
 0.0.0.0 academy.gigya.com
@@ -4719,6 +4739,7 @@
 0.0.0.0 www.motd.api.glympse.com
 0.0.0.0 www.api.glympse.com
 0.0.0.0 app.glympse.com
+0.0.0.0 arrive.glympse.com
 0.0.0.0 beta-users.glympse.com
 0.0.0.0 blog.glympse.com
 0.0.0.0 developer.blog.glympse.com
@@ -4850,6 +4871,7 @@
 0.0.0.0 th.gravatar.com
 0.0.0.0 tr.gravatar.com
 0.0.0.0 uk.gravatar.com
+0.0.0.0 ur.gravatar.com
 0.0.0.0 vi.gravatar.com
 0.0.0.0 www.gravatar.com
 0.0.0.0 zh-tw.gravatar.com
@@ -4885,19 +4907,25 @@
 0.0.0.0 2.icanhazip.com
 0.0.0.0 4.icanhazip.com
 0.0.0.0 a95c530a7af5f492a74499e70578d150.icanhazip.com
+0.0.0.0 about.icanhazip.com
+0.0.0.0 cloud01-hetzner.icanhazip.com
 0.0.0.0 dedi3.de.icanhazip.com
 0.0.0.0 dedi4.de.icanhazip.com
 0.0.0.0 dfw.icanhazip.com
 0.0.0.0 forum.icanhazip.com
 0.0.0.0 hetzner-1.icanhazip.com
+0.0.0.0 hetzner-2.icanhazip.com
 0.0.0.0 hetzner-3.icanhazip.com
 0.0.0.0 iad.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
 0.0.0.0 icanhazip-iad-1.icanhazip.com
 0.0.0.0 ip.icanhazip.com
 0.0.0.0 ip4.icanhazip.com
+0.0.0.0 ip6.icanhazip.com
 0.0.0.0 ipv.icanhazip.com
 0.0.0.0 ipv4.icanhazip.com
+0.0.0.0 ipv6.icanhazip.com
+0.0.0.0 ipva.icanhazip.com
 0.0.0.0 ipva4.icanhazip.com
 0.0.0.0 ipvr.icanhazip.com
 0.0.0.0 lax.icanhazip.com
@@ -5459,6 +5487,7 @@
 0.0.0.0 update.maxmind.com
 0.0.0.0 updates.maxmind.com
 0.0.0.0 url603.maxmind.com
+0.0.0.0 vpn.maxmind.com
 0.0.0.0 www.maxmind.com
 0.0.0.0 www2.maxmind.com
 0.0.0.0 share.microsoft.com
@@ -5716,9 +5745,12 @@
 0.0.0.0 dashboard3.mobistealth.com
 0.0.0.0 dbadm.mobistealth.com
 0.0.0.0 dev.mobistealth.com
+0.0.0.0 ftp.mobistealth.com
 0.0.0.0 layer.mobistealth.com
 0.0.0.0 mail.mobistealth.com
+0.0.0.0 mdm.mobistealth.com
 0.0.0.0 mobile.mobistealth.com
+0.0.0.0 mx.mobistealth.com
 0.0.0.0 sandbox.mobistealth.com
 0.0.0.0 secure.mobistealth.com
 0.0.0.0 support.mobistealth.com
@@ -5740,24 +5772,30 @@
 0.0.0.0 www.demo.mspy.com
 0.0.0.0 demo2.mspy.com
 0.0.0.0 dewww2.mspy.com
+0.0.0.0 eu.mspy.com
 0.0.0.0 frwww2.mspy.com
 0.0.0.0 ha.mspy.com
 0.0.0.0 help.mspy.com
+0.0.0.0 j17a8.mspy.com
+0.0.0.0 j17a9.mspy.com
 0.0.0.0 kr.mspy.com
 0.0.0.0 link.mspy.com
 0.0.0.0 m.mspy.com
 0.0.0.0 o.mspy.com
+0.0.0.0 pl.mspy.com
 0.0.0.0 secure.mspy.com
 0.0.0.0 static.mspy.com
 0.0.0.0 static2.mspy.com
 0.0.0.0 stats.mspy.com
 0.0.0.0 store.mspy.com
+0.0.0.0 store2.mspy.com
 0.0.0.0 support.mspy.com
 0.0.0.0 t.mspy.com
 0.0.0.0 tr.mspy.com
 0.0.0.0 tracker.mspy.com
 0.0.0.0 tracking.mspy.com
 0.0.0.0 try.mspy.com
+0.0.0.0 us.mspy.com
 0.0.0.0 www.mspy.com
 0.0.0.0 www2.mspy.com
 0.0.0.0 analytics.narvar.com
@@ -13589,7 +13627,6 @@
 0.0.0.0 30.duckdns.org
 0.0.0.0 300parent.duckdns.org
 0.0.0.0 3012ju8f6u011j49xe82u03keh06259s00z3692z.duckdns.org
-0.0.0.0 307.duckdns.org
 0.0.0.0 30818aef-d631-4b87-b8ff-9a6bfd57f253.duckdns.org
 0.0.0.0 30ashwood.duckdns.org
 0.0.0.0 3121.duckdns.org
@@ -14743,7 +14780,6 @@
 0.0.0.0 ap0920.duckdns.org
 0.0.0.0 ap3.duckdns.org
 0.0.0.0 apatea.duckdns.org
-0.0.0.0 apaypalgermany-satine.duckdns.org
 0.0.0.0 apcs.duckdns.org
 0.0.0.0 apd911.duckdns.org
 0.0.0.0 apdlrhfuehdvs-adkelfir.duckdns.org
@@ -15057,7 +15093,6 @@
 0.0.0.0 astorix.duckdns.org
 0.0.0.0 astpdmbpcx.duckdns.org
 0.0.0.0 astralricksienna.duckdns.org
-0.0.0.0 astras45.duckdns.org
 0.0.0.0 astride-ha.duckdns.org
 0.0.0.0 astrocode.duckdns.org
 0.0.0.0 astrofabiani.duckdns.org
@@ -18136,7 +18171,6 @@
 0.0.0.0 cous.duckdns.org
 0.0.0.0 couta7.duckdns.org
 0.0.0.0 coutinho.duckdns.org
-0.0.0.0 couvaclayesouilly.duckdns.org
 0.0.0.0 cov19.duckdns.org
 0.0.0.0 covacasa.duckdns.org
 0.0.0.0 analytics.covacasa.duckdns.org
@@ -21692,7 +21726,6 @@
 0.0.0.0 gkal.duckdns.org
 0.0.0.0 gkawebtrees.duckdns.org
 0.0.0.0 gkghomeauto.duckdns.org
-0.0.0.0 gkielyhome-assistant.duckdns.org
 0.0.0.0 gknc.duckdns.org
 0.0.0.0 gkpic.duckdns.org
 0.0.0.0 gladosserver.duckdns.org
@@ -23781,7 +23814,6 @@
 0.0.0.0 homeassistant-totodotto.duckdns.org
 0.0.0.0 homeassistant020.duckdns.org
 0.0.0.0 homeassistant1978.duckdns.org
-0.0.0.0 homeassistant23.duckdns.org
 0.0.0.0 homeassistant2345.duckdns.org
 0.0.0.0 homeassistant33.duckdns.org
 0.0.0.0 homeassistant3535.duckdns.org
@@ -24950,7 +24982,6 @@
 0.0.0.0 seafile.jcal.duckdns.org
 0.0.0.0 jcalhome.duckdns.org
 0.0.0.0 seafile.jcalhome.duckdns.org
-0.0.0.0 jcalseafile.duckdns.org
 0.0.0.0 jcarlospostigo.duckdns.org
 0.0.0.0 jccnfqqdrqysyeoiihcsvacx.duckdns.org
 0.0.0.0 jccusknyuk.duckdns.org
@@ -30434,7 +30465,6 @@
 0.0.0.0 nmtr.duckdns.org
 0.0.0.0 webmail.nmtr.duckdns.org
 0.0.0.0 nnarain.duckdns.org
-0.0.0.0 nnccloud.duckdns.org
 0.0.0.0 mars.nnote.duckdns.org
 0.0.0.0 nnp.duckdns.org
 0.0.0.0 nobasis.duckdns.org
@@ -33872,7 +33902,6 @@
 0.0.0.0 test.schueller.duckdns.org
 0.0.0.0 schuette.duckdns.org
 0.0.0.0 schuitemaker.duckdns.org
-0.0.0.0 schullescloudpi.duckdns.org
 0.0.0.0 schulz85.duckdns.org
 0.0.0.0 schunke.duckdns.org
 0.0.0.0 schurho.duckdns.org
@@ -35820,7 +35849,6 @@
 0.0.0.0 testecomeia.duckdns.org
 0.0.0.0 tester2020.duckdns.org
 0.0.0.0 tester2a.duckdns.org
-0.0.0.0 testerdoang.duckdns.org
 0.0.0.0 testfmb.duckdns.org
 0.0.0.0 testmanager.duckdns.org
 0.0.0.0 testmyfuck.duckdns.org
@@ -37113,7 +37141,6 @@
 0.0.0.0 verification-servces9846-agricole.duckdns.org
 0.0.0.0 verifikasi-login--pemblokiran-2021.duckdns.org
 0.0.0.0 verify-center.duckdns.org
-0.0.0.0 verifyamz-g3hj32fg42h.duckdns.org
 0.0.0.0 verkaehr.duckdns.org
 0.0.0.0 vermideco.duckdns.org
 0.0.0.0 vermot.duckdns.org
@@ -37754,14 +37781,12 @@
 0.0.0.0 www.whatgodcannotdodoestnotexist.duckdns.org
 0.0.0.0 whathefucka.duckdns.org
 0.0.0.0 whatsapp-efdewe-chat.duckdns.org
-0.0.0.0 whatsapp67.duckdns.org
 0.0.0.0 whatsapp76.duckdns.org
 0.0.0.0 whatsappcrott.duckdns.org
 0.0.0.0 whatsappindo79.duckdns.org
 0.0.0.0 whatsappme109.duckdns.org
 0.0.0.0 whatsappme110.duckdns.org
 0.0.0.0 whatsappme111.duckdns.org
-0.0.0.0 whatsappme57.duckdns.org
 0.0.0.0 whatsapps1.duckdns.org
 0.0.0.0 whatsapps13.duckdns.org
 0.0.0.0 whatsapps3.duckdns.org
@@ -38046,7 +38071,6 @@
 0.0.0.0 wu279.duckdns.org
 0.0.0.0 wu48.duckdns.org
 0.0.0.0 time.wucinski.duckdns.org
-0.0.0.0 wuehlkiste.duckdns.org
 0.0.0.0 wuelbern.duckdns.org
 0.0.0.0 wuepe.duckdns.org
 0.0.0.0 wuhanvirus.duckdns.org
