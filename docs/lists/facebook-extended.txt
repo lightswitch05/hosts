@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-03-17T13:05:19+00:00
-# Count: 21118 domains
+# Released: 2021-03-19T01:05:19+00:00
+# Count: 21119 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -13854,6 +13854,7 @@
 0.0.0.0 giphy.com
 0.0.0.0 admin.giphy.com
 0.0.0.0 api.giphy.com
+0.0.0.0 api-cached-staging.giphy.com
 0.0.0.0 api-qa.giphy.com
 0.0.0.0 arcade.giphy.com
 0.0.0.0 arcade-qa.giphy.com
@@ -13872,6 +13873,7 @@
 0.0.0.0 developer.giphy.com
 0.0.0.0 developers.giphy.com
 0.0.0.0 devportal.giphy.com
+0.0.0.0 devportal-new.giphy.com
 0.0.0.0 dvr.giphy.com
 0.0.0.0 editor.giphy.com
 0.0.0.0 engineering.giphy.com
@@ -13946,6 +13948,7 @@
 0.0.0.0 ws-imaging.giphy.com
 0.0.0.0 ws-imaging-qa.giphy.com
 0.0.0.0 www.giphy.com
+0.0.0.0 www-video.giphy.com
 0.0.0.0 x.giphy.com
 0.0.0.0 x-qa.giphy.com
 0.0.0.0 instagram.com
@@ -18317,8 +18320,6 @@
 0.0.0.0 interncache-pnb.fbcdn.net
 0.0.0.0 interncache-prn.fbcdn.net
 0.0.0.0 interncache-vll.fbcdn.net
-0.0.0.0 origincache-all.fbcdn.net
-0.0.0.0 origincache-ash.fbcdn.net
 0.0.0.0 origincache-atn.fbcdn.net
 0.0.0.0 origincache-frc.fbcdn.net
 0.0.0.0 origincache-ftw.fbcdn.net
