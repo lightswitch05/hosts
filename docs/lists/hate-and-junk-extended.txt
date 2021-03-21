@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-03-19T13:05:19+00:00
-# Count: 1240 domains
+# Released: 2021-03-21T13:05:19+00:00
+# Count: 1304 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -300,6 +300,33 @@
 0.0.0.0 ns2.joyinliberty.com
 0.0.0.0 www.joyinliberty.com
 0.0.0.0 kamellia.com
+0.0.0.0 antispam.kamellia.com
+0.0.0.0 art.kamellia.com
+0.0.0.0 comune.kamellia.com
+0.0.0.0 cs.kamellia.com
+0.0.0.0 direct.kamellia.com
+0.0.0.0 imap.kamellia.com
+0.0.0.0 m.kamellia.com
+0.0.0.0 mail.kamellia.com
+0.0.0.0 mail01.kamellia.com
+0.0.0.0 mail1.kamellia.com
+0.0.0.0 mail2.kamellia.com
+0.0.0.0 mail3.kamellia.com
+0.0.0.0 mail6.kamellia.com
+0.0.0.0 mailgate.kamellia.com
+0.0.0.0 mbox.kamellia.com
+0.0.0.0 mx2.kamellia.com
+0.0.0.0 mx5.kamellia.com
+0.0.0.0 mxs.kamellia.com
+0.0.0.0 ns.kamellia.com
+0.0.0.0 ns2.kamellia.com
+0.0.0.0 pop3.kamellia.com
+0.0.0.0 root.kamellia.com
+0.0.0.0 seed.kamellia.com
+0.0.0.0 srv.kamellia.com
+0.0.0.0 tiger.kamellia.com
+0.0.0.0 vip.kamellia.com
+0.0.0.0 vmail.kamellia.com
 0.0.0.0 ww1.kamellia.com
 0.0.0.0 ww16.kamellia.com
 0.0.0.0 ww25.kamellia.com
@@ -600,11 +627,13 @@
 0.0.0.0 americanfreepress.net
 0.0.0.0 afpstore.americanfreepress.net
 0.0.0.0 dc-fc8c769cf791.americanfreepress.net
+0.0.0.0 ftp.americanfreepress.net
 0.0.0.0 host.americanfreepress.net
 0.0.0.0 newsletter.americanfreepress.net
 0.0.0.0 ns1.americanfreepress.net
 0.0.0.0 ns2.americanfreepress.net
 0.0.0.0 shop.americanfreepress.net
+0.0.0.0 video.americanfreepress.net
 0.0.0.0 www.americanfreepress.net
 0.0.0.0 cancerwisdom.net
 0.0.0.0 m.cancerwisdom.net
@@ -922,34 +951,63 @@
 0.0.0.0 zimbra.nsm88.org
 0.0.0.0 zmail.nsm88.org
 0.0.0.0 nvic.org
+0.0.0.0 antispam.nvic.org
 0.0.0.0 authsmtp.nvic.org
+0.0.0.0 barracuda.nvic.org
+0.0.0.0 correo.nvic.org
+0.0.0.0 exchange.nvic.org
 0.0.0.0 gate.nvic.org
+0.0.0.0 gateway.nvic.org
 0.0.0.0 host.nvic.org
+0.0.0.0 imap.nvic.org
 0.0.0.0 mail.nvic.org
 0.0.0.0 mail3.nvic.org
+0.0.0.0 mail6.nvic.org
+0.0.0.0 mail7.nvic.org
 0.0.0.0 mail9.nvic.org
+0.0.0.0 mailer.nvic.org
 0.0.0.0 mailgw.nvic.org
+0.0.0.0 mailhost.nvic.org
 0.0.0.0 mailx.nvic.org
+0.0.0.0 mbox.nvic.org
 0.0.0.0 ms.nvic.org
 0.0.0.0 ms1.nvic.org
 0.0.0.0 mx.nvic.org
+0.0.0.0 mx02.nvic.org
+0.0.0.0 mx2.nvic.org
+0.0.0.0 mx20.nvic.org
 0.0.0.0 mx4.nvic.org
+0.0.0.0 mx5.nvic.org
 0.0.0.0 mxs.nvic.org
 0.0.0.0 newmail.nvic.org
+0.0.0.0 ns.nvic.org
+0.0.0.0 ns2.nvic.org
+0.0.0.0 outmail.nvic.org
+0.0.0.0 po.nvic.org
 0.0.0.0 pop.nvic.org
+0.0.0.0 pop3.nvic.org
+0.0.0.0 postmaster.nvic.org
+0.0.0.0 relay.nvic.org
+0.0.0.0 relay1.nvic.org
 0.0.0.0 relay2.nvic.org
 0.0.0.0 remote.nvic.org
 0.0.0.0 server.nvic.org
 0.0.0.0 server1.nvic.org
+0.0.0.0 server2.nvic.org
 0.0.0.0 sm-srv01.nvic.org
 0.0.0.0 smtp.nvic.org
+0.0.0.0 smtp1.nvic.org
 0.0.0.0 smtpauth.nvic.org
+0.0.0.0 smtps.nvic.org
+0.0.0.0 smtpseguro.nvic.org
 0.0.0.0 sniper.nvic.org
+0.0.0.0 srv.nvic.org
 0.0.0.0 wdev.nvic.org
 0.0.0.0 webmail.nvic.org
 0.0.0.0 ww.nvic.org
 0.0.0.0 www.nvic.org
 0.0.0.0 zimbra.nvic.org
+0.0.0.0 zmail.nvic.org
 0.0.0.0 pacificaforum.org
 0.0.0.0 webdisk.pacificaforum.org
 0.0.0.0 www.pacificaforum.org
@@ -1094,12 +1152,17 @@
 0.0.0.0 stormfront.org
 0.0.0.0 bbs.stormfront.org
 0.0.0.0 www.bbs.stormfront.org
+0.0.0.0 cat8.stormfront.org
 0.0.0.0 cdn.stormfront.org
 0.0.0.0 dc-c5d58999adca.stormfront.org
 0.0.0.0 dc-e036bc98653e.stormfront.org
 0.0.0.0 kelso.stormfront.org
+0.0.0.0 kenning01.stormfront.org
+0.0.0.0 kenning02.stormfront.org
+0.0.0.0 kenning03.stormfront.org
 0.0.0.0 radio.stormfront.org
 0.0.0.0 saga.stormfront.org
+0.0.0.0 svr02.stormfront.org
 0.0.0.0 ws.stormfront.org
 0.0.0.0 www.stormfront.org
 0.0.0.0 www2.stormfront.org
@@ -1182,6 +1245,7 @@
 0.0.0.0 ftp.8kun.top
 0.0.0.0 hispa.8kun.top
 0.0.0.0 html.8kun.top
+0.0.0.0 httpsoftserve.8kun.top
 0.0.0.0 kornerv.8kun.top
 0.0.0.0 m.8kun.top
 0.0.0.0 mecia.8kun.top
