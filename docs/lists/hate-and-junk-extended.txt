@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-03-21T13:05:19+00:00
-# Count: 1304 domains
+# Released: 2021-03-22T01:05:20+00:00
+# Count: 1315 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -349,6 +349,7 @@
 0.0.0.0 direct.leagueofthesouth.com
 0.0.0.0 dixie.leagueofthesouth.com
 0.0.0.0 forum.leagueofthesouth.com
+0.0.0.0 lists.leagueofthesouth.com
 0.0.0.0 lync.leagueofthesouth.com
 0.0.0.0 mail.leagueofthesouth.com
 0.0.0.0 mail2.leagueofthesouth.com
@@ -512,14 +513,23 @@
 0.0.0.0 webmail.traceamounts.com
 0.0.0.0 www.traceamounts.com
 0.0.0.0 unitedpatriotsofamerica.com
+0.0.0.0 authsmtp.unitedpatriotsofamerica.com
 0.0.0.0 cpanel.unitedpatriotsofamerica.com
 0.0.0.0 cpcalendars.unitedpatriotsofamerica.com
 0.0.0.0 cpcontacts.unitedpatriotsofamerica.com
+0.0.0.0 exchange.unitedpatriotsofamerica.com
 0.0.0.0 ftp.unitedpatriotsofamerica.com
+0.0.0.0 imap.unitedpatriotsofamerica.com
+0.0.0.0 imap2.unitedpatriotsofamerica.com
 0.0.0.0 mail.unitedpatriotsofamerica.com
+0.0.0.0 mail2.unitedpatriotsofamerica.com
+0.0.0.0 remote.unitedpatriotsofamerica.com
 0.0.0.0 webdisk.unitedpatriotsofamerica.com
 0.0.0.0 webmail.unitedpatriotsofamerica.com
+0.0.0.0 ww.unitedpatriotsofamerica.com
 0.0.0.0 www.unitedpatriotsofamerica.com
+0.0.0.0 www1.unitedpatriotsofamerica.com
+0.0.0.0 www2.unitedpatriotsofamerica.com
 0.0.0.0 vaccinehoax.com
 0.0.0.0 www.vaccinehoax.com
 0.0.0.0 virus-hoax.com
@@ -670,6 +680,7 @@
 0.0.0.0 bloodandsoil.org
 0.0.0.0 membership.bloodandsoil.org
 0.0.0.0 pf3618.bloodandsoil.org
+0.0.0.0 pfvoice.bloodandsoil.org
 0.0.0.0 www.bloodandsoil.org
 0.0.0.0 educate-yourself.org
 0.0.0.0 cpanel.educate-yourself.org
