@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-03-24T13:05:19+00:00
-# Count: 41306 domains
+# Released: 2021-03-25T01:05:20+00:00
+# Count: 41317 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -24,6 +24,7 @@
 0.0.0.0 api.cortana.ai
 0.0.0.0 querysuggestions-int.api.cortana.ai
 0.0.0.0 catchmeupskill.cortana.ai
+0.0.0.0 certdojoameonmstenant.cortana.ai
 0.0.0.0 dev.cortana.ai
 0.0.0.0 localdebug.uxo.dev.cortana.ai
 0.0.0.0 westus1.dev.cortana.ai
@@ -6787,6 +6788,7 @@
 0.0.0.0 albanychsrcovid.qualtrics.com
 0.0.0.0 algorhythm.qualtrics.com
 0.0.0.0 alixpartners360.qualtrics.com
+0.0.0.0 alliancedata360.qualtrics.com
 0.0.0.0 alliant.qualtrics.com
 0.0.0.0 allisonpr.qualtrics.com
 0.0.0.0 amazon.qualtrics.com
@@ -7296,6 +7298,7 @@
 0.0.0.0 babson.qualtrics.com
 0.0.0.0 babycenter.qualtrics.com
 0.0.0.0 ballastresearch.qualtrics.com
+0.0.0.0 bankofengland.qualtrics.com
 0.0.0.0 barclays.qualtrics.com
 0.0.0.0 barilanpsychology.qualtrics.com
 0.0.0.0 barrycallebaut.qualtrics.com
@@ -7415,6 +7418,7 @@
 0.0.0.0 cadmus.qualtrics.com
 0.0.0.0 cal.qualtrics.com
 0.0.0.0 clemson.cal.qualtrics.com
+0.0.0.0 calgarycac.qualtrics.com
 0.0.0.0 calipercorp360.qualtrics.com
 0.0.0.0 calpolycba.qualtrics.com
 0.0.0.0 calstrs.qualtrics.com
@@ -8294,10 +8298,12 @@
 0.0.0.0 doc.qualtrics.com
 0.0.0.0 dollarshaveclub.qualtrics.com
 0.0.0.0 domo.qualtrics.com
+0.0.0.0 donalcahill.qualtrics.com
 0.0.0.0 dorg.qualtrics.com
 0.0.0.0 doshishalaw.qualtrics.com
 0.0.0.0 douglascollege.qualtrics.com
 0.0.0.0 dphga.qualtrics.com
+0.0.0.0 dprconstruction.qualtrics.com
 0.0.0.0 drake.qualtrics.com
 0.0.0.0 drexel.qualtrics.com
 0.0.0.0 dskydev-masksb2btst.qualtrics.com
@@ -8634,6 +8640,7 @@
 0.0.0.0 hansagcr.qualtrics.com
 0.0.0.0 harvard.qualtrics.com
 0.0.0.0 hase.qualtrics.com
+0.0.0.0 haverford.qualtrics.com
 0.0.0.0 hbb.qualtrics.com
 0.0.0.0 hbs.qualtrics.com
 0.0.0.0 hbslkhykcrgcoivdv.qualtrics.com
@@ -9547,6 +9554,7 @@
 0.0.0.0 covid19.sabancimanagement.qualtrics.com
 0.0.0.0 sabre.qualtrics.com
 0.0.0.0 sae.qualtrics.com
+0.0.0.0 safetycultureltd.qualtrics.com
 0.0.0.0 safllc.qualtrics.com
 0.0.0.0 sama360.qualtrics.com
 0.0.0.0 samford.qualtrics.com
@@ -10638,6 +10646,7 @@
 0.0.0.0 surveyopinions.qualtrics.com
 0.0.0.0 surveys.qualtrics.com
 0.0.0.0 surveyuccs.qualtrics.com
+0.0.0.0 svsd410.qualtrics.com
 0.0.0.0 swissre.qualtrics.com
 0.0.0.0 www.swissre.qualtrics.com
 0.0.0.0 syd1.qualtrics.com
@@ -11099,6 +11108,7 @@
 0.0.0.0 virusradar.qualtrics.com
 0.0.0.0 virust90.qualtrics.com
 0.0.0.0 viterbo.qualtrics.com
+0.0.0.0 vivi.qualtrics.com
 0.0.0.0 vivintsolar.qualtrics.com
 0.0.0.0 vmvirusstatss.qualtrics.com
 0.0.0.0 vodafone.qualtrics.com
@@ -11130,6 +11140,7 @@
 0.0.0.0 whartonexeced360.qualtrics.com
 0.0.0.0 whcovid19.qualtrics.com
 0.0.0.0 whirlpoolci.qualtrics.com
+0.0.0.0 wichitastate.qualtrics.com
 0.0.0.0 widener.qualtrics.com
 0.0.0.0 wikimedia.qualtrics.com
 0.0.0.0 wiley.qualtrics.com
@@ -11155,6 +11166,7 @@
 0.0.0.0 wvuhre.qualtrics.com
 0.0.0.0 wwu.qualtrics.com
 0.0.0.0 www.qualtrics.com
+0.0.0.0 www-api.qualtrics.com
 0.0.0.0 www-emailquarantine.qualtrics.com
 0.0.0.0 www-infeccionesporhongosnomaslibropdf.qualtrics.com
 0.0.0.0 www-infeccionvaginal.qualtrics.com
@@ -13836,7 +13848,6 @@
 0.0.0.0 4670balsam.duckdns.org
 0.0.0.0 46cc.duckdns.org
 0.0.0.0 478333.duckdns.org
-0.0.0.0 480gjsz.duckdns.org
 0.0.0.0 4820batcave.duckdns.org
 0.0.0.0 48strings.duckdns.org
 0.0.0.0 4952w.duckdns.org
@@ -26090,6 +26101,7 @@
 0.0.0.0 johnmcdaid.duckdns.org
 0.0.0.0 johnniemalm.duckdns.org
 0.0.0.0 johnnyroyale.duckdns.org
+0.0.0.0 johnrealtv.duckdns.org
 0.0.0.0 johnsoma.duckdns.org
 0.0.0.0 johnv123.duckdns.org
 0.0.0.0 jellyfin.johnvick2.duckdns.org
@@ -32716,7 +32728,6 @@
 0.0.0.0 radarr.phatass.duckdns.org
 0.0.0.0 router.phatass.duckdns.org
 0.0.0.0 sonarr.phatass.duckdns.org
-0.0.0.0 phattx3.duckdns.org
 0.0.0.0 phc-airsonic.duckdns.org
 0.0.0.0 pheemdrive.duckdns.org
 0.0.0.0 phei.duckdns.org
