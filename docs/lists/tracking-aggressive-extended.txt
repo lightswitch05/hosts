@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-03-29T01:05:20+00:00
-# Count: 41691 domains
+# Released: 2021-03-29T13:05:20+00:00
+# Count: 41707 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -9163,6 +9163,7 @@
 0.0.0.0 leeds.qualtrics.com
 0.0.0.0 www.leeds.qualtrics.com
 0.0.0.0 leflein.qualtrics.com
+0.0.0.0 lenta.qualtrics.com
 0.0.0.0 lesmills.qualtrics.com
 0.0.0.0 lesmillsta.qualtrics.com
 0.0.0.0 lessius.qualtrics.com
@@ -10715,6 +10716,7 @@
 0.0.0.0 tempeunion.qualtrics.com
 0.0.0.0 templeharrisburglkhykcrgcoivdv-travelers.qualtrics.com
 0.0.0.0 terry.qualtrics.com
+0.0.0.0 testandtrace.qualtrics.com
 0.0.0.0 testkitchen.qualtrics.com
 0.0.0.0 testzn6lkhykcrgcoivdv-travelers.qualtrics.com
 0.0.0.0 tfi.qualtrics.com
@@ -15888,6 +15890,7 @@
 0.0.0.0 https.email.office.9uf59ba9k4fkl4bgeohzl4sqnhgks.ywhmkt2cl8bpbnlki6rzq.8i5khzu1sw9xkeyydvp.kecb89yzckjjncs3susueevpv.f8wyufhx6h46pkd1f.tagaletg81k4bpkgkvsha56lko4kf.t4dm0smesm6q4xtjhfvxqi6k4e.bdgejehjw.duckdns.org
 0.0.0.0 www.bdgejehjw.duckdns.org
 0.0.0.0 bdhome.duckdns.org
+0.0.0.0 bw.bdhome.duckdns.org
 0.0.0.0 fhem.bdhome.duckdns.org
 0.0.0.0 homeassistant.bdhome.duckdns.org
 0.0.0.0 motioneye.bdhome.duckdns.org
@@ -16655,6 +16658,7 @@
 0.0.0.0 bonshadowsock.duckdns.org
 0.0.0.0 bonvinext.duckdns.org
 0.0.0.0 bonzoalex.duckdns.org
+0.0.0.0 filezilla.bonzoalex.duckdns.org
 0.0.0.0 jellyfin.bonzoalex.duckdns.org
 0.0.0.0 nginx.bonzoalex.duckdns.org
 0.0.0.0 omv.bonzoalex.duckdns.org
@@ -16802,6 +16806,8 @@
 0.0.0.0 bloofare.brickert.duckdns.org
 0.0.0.0 bw.brickert.duckdns.org
 0.0.0.0 fml.brickert.duckdns.org
+0.0.0.0 guac.brickert.duckdns.org
+0.0.0.0 ha.brickert.duckdns.org
 0.0.0.0 jimp.brickert.duckdns.org
 0.0.0.0 kggbot.brickert.duckdns.org
 0.0.0.0 plex.brickert.duckdns.org
@@ -29203,6 +29209,7 @@
 0.0.0.0 mangoraidtautulli.duckdns.org
 0.0.0.0 mangrovia-iot.duckdns.org
 0.0.0.0 dev.mangrovia-iot.duckdns.org
+0.0.0.0 grafana.mangrovia-iot.duckdns.org
 0.0.0.0 show.mangrovia-iot.duckdns.org
 0.0.0.0 test.mangrovia-iot.duckdns.org
 0.0.0.0 mangrovia-license.duckdns.org
@@ -29221,6 +29228,7 @@
 0.0.0.0 mansfieldhome.duckdns.org
 0.0.0.0 manske.duckdns.org
 0.0.0.0 bi.manske.duckdns.org
+0.0.0.0 ha.manske.duckdns.org
 0.0.0.0 manu1991.duckdns.org
 0.0.0.0 manudiv15.duckdns.org
 0.0.0.0 bitwarden.manudiv15.duckdns.org
@@ -29981,12 +29989,15 @@
 0.0.0.0 contabo.mihassiokk.duckdns.org
 0.0.0.0 contacam.mihassiokk.duckdns.org
 0.0.0.0 foscam.mihassiokk.duckdns.org
+0.0.0.0 honor.mihassiokk.duckdns.org
 0.0.0.0 influxdb.mihassiokk.duckdns.org
+0.0.0.0 mqtt.mihassiokk.duckdns.org
 0.0.0.0 ngnix.mihassiokk.duckdns.org
 0.0.0.0 octoprint.mihassiokk.duckdns.org
 0.0.0.0 plex.mihassiokk.duckdns.org
 0.0.0.0 routertel.mihassiokk.duckdns.org
 0.0.0.0 tasmota.mihassiokk.duckdns.org
+0.0.0.0 telefonica.mihassiokk.duckdns.org
 0.0.0.0 xiaomi.mihassiokk.duckdns.org
 0.0.0.0 mihause.duckdns.org
 0.0.0.0 mihomeit.duckdns.org
@@ -30688,17 +30699,11 @@
 0.0.0.0 mulfterityingeradeav.duckdns.org
 0.0.0.0 mulhernhex.duckdns.org
 0.0.0.0 books.mulhernhex.duckdns.org
-0.0.0.0 calibre.mulhernhex.duckdns.org
 0.0.0.0 comics.mulhernhex.duckdns.org
-0.0.0.0 emby.mulhernhex.duckdns.org
 0.0.0.0 films.mulhernhex.duckdns.org
-0.0.0.0 hass.mulhernhex.duckdns.org
 0.0.0.0 jackett.mulhernhex.duckdns.org
-0.0.0.0 komga.mulhernhex.duckdns.org
 0.0.0.0 mylar.mulhernhex.duckdns.org
-0.0.0.0 nzb.mulhernhex.duckdns.org
 0.0.0.0 nzbget.mulhernhex.duckdns.org
-0.0.0.0 transmission.mulhernhex.duckdns.org
 0.0.0.0 tv.mulhernhex.duckdns.org
 0.0.0.0 multidevice-ctek.duckdns.org
 0.0.0.0 mulvihill.duckdns.org
@@ -31660,6 +31665,10 @@
 0.0.0.0 nightice.duckdns.org
 0.0.0.0 nightkid.duckdns.org
 0.0.0.0 nightmortis.duckdns.org
+0.0.0.0 bit.nightmortis.duckdns.org
+0.0.0.0 plex.nightmortis.duckdns.org
+0.0.0.0 unifi.nightmortis.duckdns.org
+0.0.0.0 wd.nightmortis.duckdns.org
 0.0.0.0 niikk.duckdns.org
 0.0.0.0 niittymetsa.duckdns.org
 0.0.0.0 nijenrode.duckdns.org
@@ -32463,6 +32472,7 @@
 0.0.0.0 owncloudsol.duckdns.org
 0.0.0.0 ownhosting.duckdns.org
 0.0.0.0 amp.ownhosting.duckdns.org
+0.0.0.0 octoprint.ownhosting.duckdns.org
 0.0.0.0 valorantelo.ownhosting.duckdns.org
 0.0.0.0 oxamafia.duckdns.org
 0.0.0.0 oxigenhome.duckdns.org
@@ -33219,6 +33229,7 @@
 0.0.0.0 plagrizr.duckdns.org
 0.0.0.0 3dprint.plagrizr.duckdns.org
 0.0.0.0 3dprinter.plagrizr.duckdns.org
+0.0.0.0 basement.plagrizr.duckdns.org
 0.0.0.0 bitwarden.plagrizr.duckdns.org
 0.0.0.0 cctv.plagrizr.duckdns.org
 0.0.0.0 log.plagrizr.duckdns.org
@@ -33232,6 +33243,7 @@
 0.0.0.0 sickchill.plagrizr.duckdns.org
 0.0.0.0 tasmo.plagrizr.duckdns.org
 0.0.0.0 tautulli.plagrizr.duckdns.org
+0.0.0.0 transmission.plagrizr.duckdns.org
 0.0.0.0 tubesync.plagrizr.duckdns.org
 0.0.0.0 planchas.duckdns.org
 0.0.0.0 planet-plex.duckdns.org
@@ -33346,8 +33358,10 @@
 0.0.0.0 pmsaeul.duckdns.org
 0.0.0.0 pmsplayer.duckdns.org
 0.0.0.0 agent.pmsplayer.duckdns.org
+0.0.0.0 cloud.pmsplayer.duckdns.org
 0.0.0.0 player.pmsplayer.duckdns.org
 0.0.0.0 stats.pmsplayer.duckdns.org
+0.0.0.0 talk.pmsplayer.duckdns.org
 0.0.0.0 pmusters.duckdns.org
 0.0.0.0 pmzvemedte.duckdns.org
 0.0.0.0 www.pmzvemedte.duckdns.org
@@ -33454,6 +33468,7 @@
 0.0.0.0 climate.posadadelpelaire.duckdns.org
 0.0.0.0 hassio.posadadelpelaire.duckdns.org
 0.0.0.0 max.posadadelpelaire.duckdns.org
+0.0.0.0 odoo.posadadelpelaire.duckdns.org
 0.0.0.0 proxmox.posadadelpelaire.duckdns.org
 0.0.0.0 router.posadadelpelaire.duckdns.org
 0.0.0.0 positiveday.duckdns.org
@@ -40537,6 +40552,7 @@
 0.0.0.0 zmbqoaojog.duckdns.org
 0.0.0.0 zminder.duckdns.org
 0.0.0.0 zngduong.duckdns.org
+0.0.0.0 cloud.zngduong.duckdns.org
 0.0.0.0 hass.zngduong.duckdns.org
 0.0.0.0 jupyter.zngduong.duckdns.org
 0.0.0.0 manager.zngduong.duckdns.org
