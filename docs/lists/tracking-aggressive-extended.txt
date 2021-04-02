@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-01T13:05:20+00:00
-# Count: 42309 domains
+# Released: 2021-04-02T01:05:19+00:00
+# Count: 42325 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -5007,19 +5007,28 @@
 0.0.0.0 icanhazip.com
 0.0.0.0 2.icanhazip.com
 0.0.0.0 4.icanhazip.com
+0.0.0.0 a95c530a7af5f492a74499e70578d150.icanhazip.com
 0.0.0.0 about.icanhazip.com
 0.0.0.0 cloud01-hetzner.icanhazip.com
+0.0.0.0 forum.icanhazip.com
 0.0.0.0 hetzner-2.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
 0.0.0.0 icanhazip-iad-1.icanhazip.com
 0.0.0.0 ip6.icanhazip.com
+0.0.0.0 ipv.icanhazip.com
 0.0.0.0 ipv4.icanhazip.com
 0.0.0.0 ipv6.icanhazip.com
 0.0.0.0 ipva.icanhazip.com
+0.0.0.0 ord.icanhazip.com
+0.0.0.0 pv4.icanhazip.com
+0.0.0.0 shared.icanhazip.com
 0.0.0.0 status.icanhazip.com
+0.0.0.0 test.icanhazip.com
 0.0.0.0 v4.icanhazip.com
 0.0.0.0 v6.icanhazip.com
+0.0.0.0 ww.w.icanhazip.com
 0.0.0.0 www.icanhazip.com
+0.0.0.0 www6.icanhazip.com
 0.0.0.0 gameplayapi.intel.com
 0.0.0.0 intercomcdn.com
 0.0.0.0 billing-internal.intercomcdn.com
@@ -10689,6 +10698,7 @@
 0.0.0.0 strathbusiness.qualtrics.com
 0.0.0.0 www.strathbusiness.qualtrics.com
 0.0.0.0 strathsci.qualtrics.com
+0.0.0.0 strava.qualtrics.com
 0.0.0.0 stthomasir.qualtrics.com
 0.0.0.0 stthomaskentems.qualtrics.com
 0.0.0.0 study.qualtrics.com
@@ -11196,6 +11206,7 @@
 0.0.0.0 washington.qualtrics.com
 0.0.0.0 www.washington.qualtrics.com
 0.0.0.0 wau.qualtrics.com
+0.0.0.0 wbcsd.qualtrics.com
 0.0.0.0 wbs.qualtrics.com
 0.0.0.0 webcim.qualtrics.com
 0.0.0.0 webroot.qualtrics.com
@@ -18706,6 +18717,7 @@
 0.0.0.0 jellyfin.conorob.duckdns.org
 0.0.0.0 lidarr.conorob.duckdns.org
 0.0.0.0 nginx.conorob.duckdns.org
+0.0.0.0 proxmox.conorob.duckdns.org
 0.0.0.0 sonarr.conorob.duckdns.org
 0.0.0.0 transmission.conorob.duckdns.org
 0.0.0.0 xteve.conorob.duckdns.org
@@ -34931,6 +34943,7 @@
 0.0.0.0 returnfire.duckdns.org
 0.0.0.0 reubix.duckdns.org
 0.0.0.0 reunionrd.duckdns.org
+0.0.0.0 alfred.reunionrd.duckdns.org
 0.0.0.0 assetunpnp.reunionrd.duckdns.org
 0.0.0.0 bollox.reunionrd.duckdns.org
 0.0.0.0 deemix.reunionrd.duckdns.org
@@ -38430,6 +38443,7 @@
 0.0.0.0 3cx.tiho.duckdns.org
 0.0.0.0 tikhha.duckdns.org
 0.0.0.0 tikiris.duckdns.org
+0.0.0.0 bw.tikiris.duckdns.org
 0.0.0.0 ha.tikiris.duckdns.org
 0.0.0.0 nodered.tikiris.duckdns.org
 0.0.0.0 portainer.tikiris.duckdns.org
@@ -41061,12 +41075,14 @@
 0.0.0.0 zeptohome.duckdns.org
 0.0.0.0 zerbitzaile.duckdns.org
 0.0.0.0 zerokcal.duckdns.org
+0.0.0.0 drive.zerokcal.duckdns.org
 0.0.0.0 photo.zerokcal.duckdns.org
 0.0.0.0 plex.zerokcal.duckdns.org
 0.0.0.0 proxy.zerokcal.duckdns.org
 0.0.0.0 sjva.zerokcal.duckdns.org
 0.0.0.0 tmission.zerokcal.duckdns.org
 0.0.0.0 torrssen.zerokcal.duckdns.org
+0.0.0.0 webdav.zerokcal.duckdns.org
 0.0.0.0 zerop-server.duckdns.org
 0.0.0.0 zetachung.duckdns.org
 0.0.0.0 zetarancio.duckdns.org
