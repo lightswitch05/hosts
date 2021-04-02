@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-03-31T13:05:20+00:00
-# Count: 1327 domains
+# Released: 2021-04-02T13:05:19+00:00
+# Count: 1339 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -380,6 +380,7 @@
 0.0.0.0 natall.com
 0.0.0.0 mail.natall.com
 0.0.0.0 ssh.natall.com
+0.0.0.0 video.natall.com
 0.0.0.0 webmail.natall.com
 0.0.0.0 www.natall.com
 0.0.0.0 national-justice.com
@@ -888,6 +889,7 @@
 0.0.0.0 host.nsm88.org
 0.0.0.0 imap.nsm88.org
 0.0.0.0 imap1.nsm88.org
+0.0.0.0 imap2.nsm88.org
 0.0.0.0 internet.nsm88.org
 0.0.0.0 join.nsm88.org
 0.0.0.0 jointoday.nsm88.org
@@ -903,10 +905,14 @@
 0.0.0.0 mail3.nsm88.org
 0.0.0.0 mail5.nsm88.org
 0.0.0.0 mail7.nsm88.org
+0.0.0.0 mail9.nsm88.org
 0.0.0.0 mailer.nsm88.org
 0.0.0.0 mailgate.nsm88.org
+0.0.0.0 mailgw.nsm88.org
 0.0.0.0 mailhost.nsm88.org
 0.0.0.0 mailin.nsm88.org
+0.0.0.0 mailout.nsm88.org
+0.0.0.0 mails.nsm88.org
 0.0.0.0 mailserver.nsm88.org
 0.0.0.0 mailsrv.nsm88.org
 0.0.0.0 mailx.nsm88.org
@@ -917,6 +923,7 @@
 0.0.0.0 mta.nsm88.org
 0.0.0.0 mx.nsm88.org
 0.0.0.0 mx0.nsm88.org
+0.0.0.0 mx01.nsm88.org
 0.0.0.0 mx1.nsm88.org
 0.0.0.0 mx10.nsm88.org
 0.0.0.0 mx2.nsm88.org
@@ -924,6 +931,7 @@
 0.0.0.0 mx3.nsm88.org
 0.0.0.0 mx4.nsm88.org
 0.0.0.0 mx5.nsm88.org
+0.0.0.0 mx7.nsm88.org
 0.0.0.0 mxs.nsm88.org
 0.0.0.0 newmail.nsm88.org
 0.0.0.0 ns.nsm88.org
@@ -941,11 +949,13 @@
 0.0.0.0 ns8.nsm88.org
 0.0.0.0 ns9.nsm88.org
 0.0.0.0 nv.nsm88.org
+0.0.0.0 ny.nsm88.org
 0.0.0.0 ohio.nsm88.org
 0.0.0.0 out.nsm88.org
 0.0.0.0 outmail.nsm88.org
 0.0.0.0 po.nsm88.org
 0.0.0.0 pop.nsm88.org
+0.0.0.0 pop3.nsm88.org
 0.0.0.0 posta.nsm88.org
 0.0.0.0 postmaster.nsm88.org
 0.0.0.0 relay.nsm88.org
@@ -963,6 +973,7 @@
 0.0.0.0 spam.nsm88.org
 0.0.0.0 srv.nsm88.org
 0.0.0.0 ssl.nsm88.org
+0.0.0.0 u.nsm88.org
 0.0.0.0 vmail.nsm88.org
 0.0.0.0 webmail.nsm88.org
 0.0.0.0 www.nsm88.org
@@ -1209,6 +1220,7 @@
 0.0.0.0 ublock.org
 0.0.0.0 demo.ublock.org
 0.0.0.0 log.ublock.org
+0.0.0.0 mail.ublock.org
 0.0.0.0 ping.ublock.org
 0.0.0.0 www.ublock.org
 0.0.0.0 warroom.org
