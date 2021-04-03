@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-03T01:05:20+00:00
-# Count: 42344 domains
+# Released: 2021-04-03T13:05:19+00:00
+# Count: 42356 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -5006,11 +5006,14 @@
 0.0.0.0 vonage.hellomedian.com
 0.0.0.0 www.hellomedian.com
 0.0.0.0 icanhazip.com
+0.0.0.0 1pv4.icanhazip.com
 0.0.0.0 2.icanhazip.com
 0.0.0.0 4.icanhazip.com
 0.0.0.0 a95c530a7af5f492a74499e70578d150.icanhazip.com
 0.0.0.0 about.icanhazip.com
 0.0.0.0 cloud01-hetzner.icanhazip.com
+0.0.0.0 dedi3.de.icanhazip.com
+0.0.0.0 dedi4.de.icanhazip.com
 0.0.0.0 forum.icanhazip.com
 0.0.0.0 hetzner-2.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
@@ -14242,6 +14245,7 @@
 0.0.0.0 api.abdali.duckdns.org
 0.0.0.0 drive.abdali.duckdns.org
 0.0.0.0 esb.abdali.duckdns.org
+0.0.0.0 keycloak.abdali.duckdns.org
 0.0.0.0 plex.abdali.duckdns.org
 0.0.0.0 remote.abdali.duckdns.org
 0.0.0.0 secure.abdali.duckdns.org
@@ -14773,8 +14777,6 @@
 0.0.0.0 portainer.aliagazgz.duckdns.org
 0.0.0.0 aliambe.duckdns.org
 0.0.0.0 alibaba-gitlab.duckdns.org
-0.0.0.0 alibabaentrypassport.duckdns.org
-0.0.0.0 www.alibabaentrypassport.duckdns.org
 0.0.0.0 alibrade.duckdns.org
 0.0.0.0 alicianc.duckdns.org
 0.0.0.0 aliciashouse.duckdns.org
@@ -15934,6 +15936,9 @@
 0.0.0.0 bastienenan.duckdns.org
 0.0.0.0 bastostreinamentos.duckdns.org
 0.0.0.0 basurto.duckdns.org
+0.0.0.0 home.basurto.duckdns.org
+0.0.0.0 omv.basurto.duckdns.org
+0.0.0.0 portainer.basurto.duckdns.org
 0.0.0.0 bat-caverna.duckdns.org
 0.0.0.0 batcaveonline.duckdns.org
 0.0.0.0 batcavernacm.duckdns.org
@@ -16949,6 +16954,7 @@
 0.0.0.0 speedtest.brickert.duckdns.org
 0.0.0.0 torrent.brickert.duckdns.org
 0.0.0.0 vscode.brickert.duckdns.org
+0.0.0.0 ytdl.brickert.duckdns.org
 0.0.0.0 brickmansion.duckdns.org
 0.0.0.0 bricodx.duckdns.org
 0.0.0.0 bridge-technology.duckdns.org
@@ -17195,7 +17201,6 @@
 0.0.0.0 bvvgiftcard.duckdns.org
 0.0.0.0 bw-dk.duckdns.org
 0.0.0.0 bw-sv.duckdns.org
-0.0.0.0 bw-tom.duckdns.org
 0.0.0.0 bwgroesbeek.duckdns.org
 0.0.0.0 bwhassio.duckdns.org
 0.0.0.0 bwosborne.duckdns.org
@@ -18890,6 +18895,7 @@
 0.0.0.0 cowciuse.duckdns.org
 0.0.0.0 node-red.cowciuse.duckdns.org
 0.0.0.0 tuxedo.cowciuse.duckdns.org
+0.0.0.0 vscode.cowciuse.duckdns.org
 0.0.0.0 zwavejs.cowciuse.duckdns.org
 0.0.0.0 coyote00881.duckdns.org
 0.0.0.0 coys-rapp-6404.duckdns.org
@@ -22803,6 +22809,7 @@
 0.0.0.0 glitch912.duckdns.org
 0.0.0.0 globe.duckdns.org
 0.0.0.0 home.globe.duckdns.org
+0.0.0.0 nc.globe.duckdns.org
 0.0.0.0 pass.globe.duckdns.org
 0.0.0.0 plex.globe.duckdns.org
 0.0.0.0 video.globe.duckdns.org
@@ -26691,6 +26698,7 @@
 0.0.0.0 johnv123.duckdns.org
 0.0.0.0 jellyfin.johnvick2.duckdns.org
 0.0.0.0 johnw230873.duckdns.org
+0.0.0.0 join-chatgrup.duckdns.org
 0.0.0.0 join-ggrupwhatsapp-bokep.duckdns.org
 0.0.0.0 join-group-whatsapp-terbaru1.duckdns.org
 0.0.0.0 join-grub-whatsapp.duckdns.org
@@ -29612,6 +29620,7 @@
 0.0.0.0 grafana.mangrovia-iot.duckdns.org
 0.0.0.0 show.mangrovia-iot.duckdns.org
 0.0.0.0 test.mangrovia-iot.duckdns.org
+0.0.0.0 traefik.mangrovia-iot.duckdns.org
 0.0.0.0 mangrovia-license.duckdns.org
 0.0.0.0 mangrovia-registry.duckdns.org
 0.0.0.0 manhammer.duckdns.org
@@ -30406,12 +30415,14 @@
 0.0.0.0 influxdb.mihassiokk.duckdns.org
 0.0.0.0 mqtt.mihassiokk.duckdns.org
 0.0.0.0 ngnix.mihassiokk.duckdns.org
+0.0.0.0 octocamara.mihassiokk.duckdns.org
 0.0.0.0 octoprint.mihassiokk.duckdns.org
 0.0.0.0 plex.mihassiokk.duckdns.org
 0.0.0.0 routertel.mihassiokk.duckdns.org
 0.0.0.0 tasmota.mihassiokk.duckdns.org
 0.0.0.0 telefonica.mihassiokk.duckdns.org
 0.0.0.0 xiaomi.mihassiokk.duckdns.org
+0.0.0.0 zigbee.mihassiokk.duckdns.org
 0.0.0.0 mihause.duckdns.org
 0.0.0.0 mihomeit.duckdns.org
 0.0.0.0 miir-ha.duckdns.org
@@ -30807,7 +30818,6 @@
 0.0.0.0 molinos.duckdns.org
 0.0.0.0 mollysam.duckdns.org
 0.0.0.0 molniya.duckdns.org
-0.0.0.0 molodizhna90.duckdns.org
 0.0.0.0 molzen.duckdns.org
 0.0.0.0 mom-pwa.duckdns.org
 0.0.0.0 mom0.duckdns.org
@@ -33937,6 +33947,8 @@
 0.0.0.0 climate.posadadelpelaire.duckdns.org
 0.0.0.0 hassio.posadadelpelaire.duckdns.org
 0.0.0.0 max.posadadelpelaire.duckdns.org
+0.0.0.0 nas.posadadelpelaire.duckdns.org
+0.0.0.0 nextcloud.posadadelpelaire.duckdns.org
 0.0.0.0 odoo.posadadelpelaire.duckdns.org
 0.0.0.0 proxmox.posadadelpelaire.duckdns.org
 0.0.0.0 router.posadadelpelaire.duckdns.org
@@ -34650,6 +34662,7 @@
 0.0.0.0 dockermon.raulibi.duckdns.org
 0.0.0.0 blog.dockermon.raulibi.duckdns.org
 0.0.0.0 dev.dockermon.raulibi.duckdns.org
+0.0.0.0 blog.dev.dockermon.raulibi.duckdns.org
 0.0.0.0 www.dockermon.raulibi.duckdns.org
 0.0.0.0 www.dockovpn.raulibi.duckdns.org
 0.0.0.0 blog.eager-payne.raulibi.duckdns.org
@@ -34722,6 +34735,7 @@
 0.0.0.0 www.sonarr.raulibi.duckdns.org
 0.0.0.0 ss.raulibi.duckdns.org
 0.0.0.0 blog.ss.raulibi.duckdns.org
+0.0.0.0 blog.blog.ss.raulibi.duckdns.org
 0.0.0.0 www.ss.raulibi.duckdns.org
 0.0.0.0 blog.store.raulibi.duckdns.org
 0.0.0.0 blog.blog.store.raulibi.duckdns.org
@@ -37184,7 +37198,6 @@
 0.0.0.0 spiderhassio.duckdns.org
 0.0.0.0 spidersprog.duckdns.org
 0.0.0.0 spidersweb.duckdns.org
-0.0.0.0 spideypasswords.duckdns.org
 0.0.0.0 spidqq.duckdns.org
 0.0.0.0 spiekenheuer.duckdns.org
 0.0.0.0 spiershass.duckdns.org
@@ -38850,7 +38863,6 @@
 0.0.0.0 trungautomation.duckdns.org
 0.0.0.0 trunglthome.duckdns.org
 0.0.0.0 trungnguyensmarthome.duckdns.org
-0.0.0.0 truonghy.duckdns.org
 0.0.0.0 trustkemi.duckdns.org
 0.0.0.0 truthfulness.duckdns.org
 0.0.0.0 tryesp.duckdns.org
