@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-06T01:05:19+00:00
-# Count: 42305 domains
+# Released: 2021-04-06T13:05:19+00:00
+# Count: 42293 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1829,6 +1829,7 @@
 0.0.0.0 testsll2.clickdesk.com
 0.0.0.0 www.clickdesk.com
 0.0.0.0 cloudflare-dns.com
+0.0.0.0 0.cloudflare-dns.com
 0.0.0.0 1.0.0.1.cloudflare-dns.com
 0.0.0.0 1.1.1.1.cloudflare-dns.com
 0.0.0.0 1001.cloudflare-dns.com
@@ -1841,10 +1842,12 @@
 0.0.0.0 1dot1dot1dot1dot.cloudflare-dns.com
 0.0.0.0 1dot1dot1dot2.cloudflare-dns.com
 0.0.0.0 1dot1dot1dot3.cloudflare-dns.com
+0.0.0.0 28mozilla.cloudflare-dns.com
 0.0.0.0 api.cloudflare-dns.com
 0.0.0.0 azure.cloudflare-dns.com
 0.0.0.0 bc81c677f335277f324c3ce13a.cloudflare-dns.com
 0.0.0.0 chrome.cloudflare-dns.com
+0.0.0.0 chrome-security.cloudflare-dns.com
 0.0.0.0 cloudflare.cloudflare-dns.com
 0.0.0.0 youtube.com.cloudflare-dns.com
 0.0.0.0 commozilla.cloudflare-dns.com
@@ -5013,6 +5016,7 @@
 0.0.0.0 forum.icanhazip.com
 0.0.0.0 hetzner-1.icanhazip.com
 0.0.0.0 hetzner-2.icanhazip.com
+0.0.0.0 hetzner-3.icanhazip.com
 0.0.0.0 iad.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
 0.0.0.0 icanhazip-iad-1.icanhazip.com
@@ -5280,7 +5284,6 @@
 0.0.0.0 accounts-globe-com-ph.api.us.janrain.com
 0.0.0.0 login-beachbody-com.api.us.janrain.com
 0.0.0.0 v1.api.us.janrain.com
-0.0.0.0 configra.dev.va.janrain.com
 0.0.0.0 bdc.prod.va.janrain.com
 0.0.0.0 mon.prod.va.janrain.com
 0.0.0.0 sso-elb-border.multi.prod.va.janrain.com
@@ -13856,17 +13859,13 @@
 0.0.0.0 162roberts.duckdns.org
 0.0.0.0 16413redwillowst.duckdns.org
 0.0.0.0 16e3710fenc60940mogq04ta0fs8l11a97t3446r.duckdns.org
-0.0.0.0 16grupwa.duckdns.org
-0.0.0.0 16wagrup.duckdns.org
 0.0.0.0 1706hoangthanh.duckdns.org
 0.0.0.0 1735oakhammockct.duckdns.org
 0.0.0.0 17flo.duckdns.org
-0.0.0.0 17grupwa.duckdns.org
 0.0.0.0 17hvd.duckdns.org
 0.0.0.0 17k.duckdns.org
 0.0.0.0 17rock.duckdns.org
 0.0.0.0 17toronto.duckdns.org
-0.0.0.0 17wagrup.duckdns.org
 0.0.0.0 1849bentley.duckdns.org
 0.0.0.0 186771.duckdns.org
 0.0.0.0 18duncan.duckdns.org
@@ -14806,7 +14805,6 @@
 0.0.0.0 allantisor.duckdns.org
 0.0.0.0 allard.duckdns.org
 0.0.0.0 allard-ha.duckdns.org
-0.0.0.0 alldomainpage247.duckdns.org
 0.0.0.0 allegianceln.duckdns.org
 0.0.0.0 allegro-143.duckdns.org
 0.0.0.0 allemuehl.duckdns.org
@@ -21025,7 +21023,6 @@
 0.0.0.0 pihole.electronics32.duckdns.org
 0.0.0.0 elektraal.duckdns.org
 0.0.0.0 elektronhome.duckdns.org
-0.0.0.0 element79.duckdns.org
 0.0.0.0 elenlhome.duckdns.org
 0.0.0.0 eleomir.duckdns.org
 0.0.0.0 elepsl.duckdns.org
@@ -21669,7 +21666,6 @@
 0.0.0.0 favotto.duckdns.org
 0.0.0.0 favour1.duckdns.org
 0.0.0.0 fawcettcloud.duckdns.org
-0.0.0.0 fawtssecurepurhaseaccouhtsg.duckdns.org
 0.0.0.0 faxyhass.duckdns.org
 0.0.0.0 fazetti.duckdns.org
 0.0.0.0 fazmin.duckdns.org
@@ -27008,7 +27004,6 @@
 0.0.0.0 jxqviahdz89.duckdns.org
 0.0.0.0 jy-automation.duckdns.org
 0.0.0.0 jyb.duckdns.org
-0.0.0.0 jyrexs-ryuisoxmghuesooxwetwx.duckdns.org
 0.0.0.0 ph.jys37.duckdns.org
 0.0.0.0 pl.jys37.duckdns.org
 0.0.0.0 sh.jys37.duckdns.org
@@ -30975,7 +30970,6 @@
 0.0.0.0 mrdreamr.duckdns.org
 0.0.0.0 mreichert-nextcloud.duckdns.org
 0.0.0.0 mreza.duckdns.org
-0.0.0.0 mrgenkonfup.duckdns.org
 0.0.0.0 mrha.duckdns.org
 0.0.0.0 mrhell.duckdns.org
 0.0.0.0 mrianphill.duckdns.org
@@ -36160,7 +36154,6 @@
 0.0.0.0 mail.securedchaseidserver.duckdns.org
 0.0.0.0 securedownload2.duckdns.org
 0.0.0.0 www.securedownload2.duckdns.org
-0.0.0.0 secureg8verify.duckdns.org
 0.0.0.0 securegateway2restoremyappleidaccount.duckdns.org
 0.0.0.0 cpcontacts.securegateway2restoremyappleidaccount.duckdns.org
 0.0.0.0 securehome3000.duckdns.org
@@ -36182,7 +36175,6 @@
 0.0.0.0 webmail.security2manage-appleinformationupdate.duckdns.org
 0.0.0.0 www.security2manage-appleinformationupdate.duckdns.org
 0.0.0.0 securityhtx.duckdns.org
-0.0.0.0 securityservc-app04.duckdns.org
 0.0.0.0 securitysr.duckdns.org
 0.0.0.0 www.securitysr.duckdns.org
 0.0.0.0 see-home.duckdns.org
@@ -38541,7 +38533,6 @@
 0.0.0.0 tngi.duckdns.org
 0.0.0.0 tngsmarthome.duckdns.org
 0.0.0.0 tntnasnextcloud.duckdns.org
-0.0.0.0 tntpot.duckdns.org
 0.0.0.0 toa.duckdns.org
 0.0.0.0 toadbasket.duckdns.org
 0.0.0.0 tobai.duckdns.org
@@ -39464,7 +39455,6 @@
 0.0.0.0 mail.verifikasi-login--pemblokiran-2021.duckdns.org
 0.0.0.0 www.verifikasi-login--pemblokiran-2021.duckdns.org
 0.0.0.0 verifikasi-pemblokiran-data.duckdns.org
-0.0.0.0 verify-center.duckdns.org
 0.0.0.0 verkaehr.duckdns.org
 0.0.0.0 vermideco.duckdns.org
 0.0.0.0 vermot.duckdns.org
@@ -40172,7 +40162,6 @@
 0.0.0.0 cpanel.whatsapp76.duckdns.org
 0.0.0.0 whatsapp8jhvztulp7ajofk9jua3jfiju2.duckdns.org
 0.0.0.0 whatsappgrubfreefire2k21.duckdns.org
-0.0.0.0 whatsappindo79.duckdns.org
 0.0.0.0 whatsappinvite-grubmabar.duckdns.org
 0.0.0.0 whatsappinvite-grubneww2021.duckdns.org
 0.0.0.0 whatsapprenyah18.duckdns.org
@@ -40728,7 +40717,6 @@
 0.0.0.0 xyhome-188.duckdns.org
 0.0.0.0 xyuputina.duckdns.org
 0.0.0.0 xz0609.duckdns.org
-0.0.0.0 y4fvr79f-g9hcu43.duckdns.org
 0.0.0.0 y5exm6rhkk3e.duckdns.org
 0.0.0.0 y5o1x7y0w704820ywpmjc09m14s4o2d0nwet6842.duckdns.org
 0.0.0.0 yaaaah.duckdns.org
