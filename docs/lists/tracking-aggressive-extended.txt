@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-08T01:05:19+00:00
-# Count: 43160 domains
+# Released: 2021-04-08T13:05:20+00:00
+# Count: 43180 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -3513,7 +3513,6 @@
 0.0.0.0 content.exacttarget.com
 0.0.0.0 cotweet.exacttarget.com
 0.0.0.0 temp-api.dc1.exacttarget.com
-0.0.0.0 api.dc2.exacttarget.com
 0.0.0.0 dev.exacttarget.com
 0.0.0.0 dev1.exacttarget.com
 0.0.0.0 dialin.exacttarget.com
@@ -4510,6 +4509,10 @@
 0.0.0.0 magpieadmin2.flexispy.com
 0.0.0.0 msoid.flexispy.com
 0.0.0.0 portal.flexispy.com
+0.0.0.0 pushtest-api.flexispy.com
+0.0.0.0 sanitytest-push.flexispy.com
+0.0.0.0 sbx-ecom.flexispy.com
+0.0.0.0 sbx-magpieadmin.flexispy.com
 0.0.0.0 sip.flexispy.com
 0.0.0.0 smsgateway.flexispy.com
 0.0.0.0 spyshop.flexispy.com
@@ -7388,6 +7391,7 @@
 0.0.0.0 baruch.qualtrics.com
 0.0.0.0 basecamp.qualtrics.com
 0.0.0.0 baylor.qualtrics.com
+0.0.0.0 bayviewanalytics.qualtrics.com
 0.0.0.0 bbk.qualtrics.com
 0.0.0.0 bc.qualtrics.com
 0.0.0.0 bcbst.qualtrics.com
@@ -8649,6 +8653,7 @@
 0.0.0.0 fordham360.qualtrics.com
 0.0.0.0 foremost.qualtrics.com
 0.0.0.0 foster360.qualtrics.com
+0.0.0.0 fox.qualtrics.com
 0.0.0.0 fpse.qualtrics.com
 0.0.0.0 fra1.qualtrics.com
 0.0.0.0 sftp.fra1.qualtrics.com
@@ -8698,6 +8703,7 @@
 0.0.0.0 gmuchss.qualtrics.com
 0.0.0.0 go2.qualtrics.com
 0.0.0.0 go2emea.qualtrics.com
+0.0.0.0 godaddy.qualtrics.com
 0.0.0.0 goldmansachs.qualtrics.com
 0.0.0.0 goldmansachshr.qualtrics.com
 0.0.0.0 goodbysilverstein.qualtrics.com
@@ -9509,6 +9515,7 @@
 0.0.0.0 ppsisfaculty.qualtrics.com
 0.0.0.0 pragmaticmarketing.qualtrics.com
 0.0.0.0 prevost.qualtrics.com
+0.0.0.0 primed.qualtrics.com
 0.0.0.0 primetherapeutics.qualtrics.com
 0.0.0.0 princess.qualtrics.com
 0.0.0.0 princetonsurvey.qualtrics.com
@@ -9661,6 +9668,7 @@
 0.0.0.0 sans.qualtrics.com
 0.0.0.0 santarosa.qualtrics.com
 0.0.0.0 sapdevelopment.qualtrics.com
+0.0.0.0 sapphire.qualtrics.com
 0.0.0.0 sapporpbprgr.qualtrics.com
 0.0.0.0 sas.qualtrics.com
 0.0.0.0 sasupenn.qualtrics.com
@@ -10782,6 +10790,7 @@
 0.0.0.0 testzn6lkhykcrgcoivdv-travelers.qualtrics.com
 0.0.0.0 tfi.qualtrics.com
 0.0.0.0 tgas.qualtrics.com
+0.0.0.0 tgguk.qualtrics.com
 0.0.0.0 thebrandconsultancy.qualtrics.com
 0.0.0.0 thecaq.qualtrics.com
 0.0.0.0 thehackettgroup.qualtrics.com
@@ -11470,6 +11479,7 @@
 0.0.0.0 new.spymasterpro.com
 0.0.0.0 pt.spymasterpro.com
 0.0.0.0 senseye.spymasterpro.com
+0.0.0.0 cpanel.senseye.spymasterpro.com
 0.0.0.0 server.spymasterpro.com
 0.0.0.0 shop.spymasterpro.com
 0.0.0.0 www.shop.spymasterpro.com
@@ -14460,6 +14470,7 @@
 0.0.0.0 f.adriannd.duckdns.org
 0.0.0.0 jellyfin.adriannd.duckdns.org
 0.0.0.0 nextcloud.adriannd.duckdns.org
+0.0.0.0 sf.adriannd.duckdns.org
 0.0.0.0 adrianorodrigues.duckdns.org
 0.0.0.0 adriansprengel.duckdns.org
 0.0.0.0 adriantcw1911.duckdns.org
@@ -15222,6 +15233,7 @@
 0.0.0.0 antowen.duckdns.org
 0.0.0.0 antrivas.duckdns.org
 0.0.0.0 antsinflowers.duckdns.org
+0.0.0.0 openwrt.antsinflowers.duckdns.org
 0.0.0.0 gotify.antsva.duckdns.org
 0.0.0.0 jellyfin.antsva.duckdns.org
 0.0.0.0 nextcloud.antsva.duckdns.org
@@ -17156,6 +17168,7 @@
 0.0.0.0 brundlefly.duckdns.org
 0.0.0.0 brunido.duckdns.org
 0.0.0.0 brunilde.duckdns.org
+0.0.0.0 xbsync.brunilde.duckdns.org
 0.0.0.0 brunnerhome.duckdns.org
 0.0.0.0 brunoapel.duckdns.org
 0.0.0.0 brunocasa.duckdns.org
@@ -18320,6 +18333,8 @@
 0.0.0.0 chenphung.duckdns.org
 0.0.0.0 cheny09.duckdns.org
 0.0.0.0 cloud.cheny09.duckdns.org
+0.0.0.0 ha.cheny09.duckdns.org
+0.0.0.0 omv.cheny09.duckdns.org
 0.0.0.0 chepa.duckdns.org
 0.0.0.0 cheriches.duckdns.org
 0.0.0.0 chermesnok.duckdns.org
@@ -30490,6 +30505,7 @@
 0.0.0.0 plex.hass.mcflexus.duckdns.org
 0.0.0.0 next.mcflexus.duckdns.org
 0.0.0.0 nextcloud.mcflexus.duckdns.org
+0.0.0.0 ombi.mcflexus.duckdns.org
 0.0.0.0 plex.mcflexus.duckdns.org
 0.0.0.0 mcfx.duckdns.org
 0.0.0.0 mcgrathnl.duckdns.org
@@ -30910,6 +30926,7 @@
 0.0.0.0 influxdb.mihassiokk.duckdns.org
 0.0.0.0 mqtt.mihassiokk.duckdns.org
 0.0.0.0 ngnix.mihassiokk.duckdns.org
+0.0.0.0 nodered.mihassiokk.duckdns.org
 0.0.0.0 octocamara.mihassiokk.duckdns.org
 0.0.0.0 octoprint.mihassiokk.duckdns.org
 0.0.0.0 plex.mihassiokk.duckdns.org
@@ -38102,6 +38119,8 @@
 0.0.0.0 stefhomeassistant.duckdns.org
 0.0.0.0 stefkoch.duckdns.org
 0.0.0.0 adguard.stefkoch.duckdns.org
+0.0.0.0 bit.stefkoch.duckdns.org
+0.0.0.0 bitwarden.stefkoch.duckdns.org
 0.0.0.0 camera.stefkoch.duckdns.org
 0.0.0.0 fotos.stefkoch.duckdns.org
 0.0.0.0 fritzbox.stefkoch.duckdns.org
@@ -42863,6 +42882,7 @@
 0.0.0.0 upload.tawk.to
 0.0.0.0 va.tawk.to
 0.0.0.0 video.tawk.to
+0.0.0.0 vs53.tawk.to
 0.0.0.0 vsa1.tawk.to
 0.0.0.0 vsa10.tawk.to
 0.0.0.0 vsa100.tawk.to
