@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-08T13:05:20+00:00
-# Count: 43180 domains
+# Released: 2021-04-09T01:05:19+00:00
+# Count: 43194 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -4205,7 +4205,6 @@
 0.0.0.0 view.virt.s11.exacttarget.com
 0.0.0.0 webservice-auth.s11.exacttarget.com
 0.0.0.0 s4.exacttarget.com
-0.0.0.0 api.s4.exacttarget.com
 0.0.0.0 app.s4.exacttarget.com
 0.0.0.0 appmanager.s4.exacttarget.com
 0.0.0.0 approvals.s4.exacttarget.com
@@ -4495,6 +4494,7 @@
 0.0.0.0 blog.flexispy.com
 0.0.0.0 community.flexispy.com
 0.0.0.0 crm.flexispy.com
+0.0.0.0 d.flexispy.com
 0.0.0.0 dev-ecom.flexispy.com
 0.0.0.0 ecom.flexispy.com
 0.0.0.0 ecomapi.flexispy.com
@@ -5579,6 +5579,7 @@
 0.0.0.0 apt.maxmind.com
 0.0.0.0 blog.maxmind.com
 0.0.0.0 ct100-test.maxmind.com
+0.0.0.0 ct205-test.maxmind.com
 0.0.0.0 datareview.maxmind.com
 0.0.0.0 deployments.maxmind.com
 0.0.0.0 dev.maxmind.com
@@ -7572,6 +7573,7 @@
 0.0.0.0 cmu.qualtrics.com
 0.0.0.0 cmuira.qualtrics.com
 0.0.0.0 cna.qualtrics.com
+0.0.0.0 cnbcrsh.qualtrics.com
 0.0.0.0 cntecuador.qualtrics.com
 0.0.0.0 co1.qualtrics.com
 0.0.0.0 100kin10.co1.qualtrics.com
@@ -9505,6 +9507,7 @@
 0.0.0.0 pire.qualtrics.com
 0.0.0.0 playstation.qualtrics.com
 0.0.0.0 playstationresearch.qualtrics.com
+0.0.0.0 pli.qualtrics.com
 0.0.0.0 plymouthgmc.qualtrics.com
 0.0.0.0 pnfp.qualtrics.com
 0.0.0.0 polisci.qualtrics.com
@@ -9585,6 +9588,7 @@
 0.0.0.0 quarentenamp.qualtrics.com
 0.0.0.0 quartzbenefits.qualtrics.com
 0.0.0.0 queensu.qualtrics.com
+0.0.0.0 www.queensu.qualtrics.com
 0.0.0.0 quicken.qualtrics.com
 0.0.0.0 quiktrip.qualtrics.com
 0.0.0.0 quinnipiacmed.qualtrics.com
@@ -11481,6 +11485,7 @@
 0.0.0.0 senseye.spymasterpro.com
 0.0.0.0 cpanel.senseye.spymasterpro.com
 0.0.0.0 server.spymasterpro.com
+0.0.0.0 www.server.spymasterpro.com
 0.0.0.0 shop.spymasterpro.com
 0.0.0.0 www.shop.spymasterpro.com
 0.0.0.0 sniper.spymasterpro.com
@@ -16129,9 +16134,14 @@
 0.0.0.0 nextcloud.bdhome.duckdns.org
 0.0.0.0 nodered.bdhome.duckdns.org
 0.0.0.0 npm.bdhome.duckdns.org
+0.0.0.0 office.bdhome.duckdns.org
 0.0.0.0 portainer.bdhome.duckdns.org
 0.0.0.0 portainer1.bdhome.duckdns.org
+0.0.0.0 proxmox.bdhome.duckdns.org
 0.0.0.0 router.bdhome.duckdns.org
+0.0.0.0 tasmota.bdhome.duckdns.org
+0.0.0.0 vpn.bdhome.duckdns.org
+0.0.0.0 vpna.bdhome.duckdns.org
 0.0.0.0 vscode.bdhome.duckdns.org
 0.0.0.0 vuplus.bdhome.duckdns.org
 0.0.0.0 wetter.bdhome.duckdns.org
@@ -19066,6 +19076,7 @@
 0.0.0.0 covidinternationalspreadsoomuchtruehead.duckdns.org
 0.0.0.0 coward-hass.duckdns.org
 0.0.0.0 cowciuse.duckdns.org
+0.0.0.0 esphome.cowciuse.duckdns.org
 0.0.0.0 node-red.cowciuse.duckdns.org
 0.0.0.0 tuxedo.cowciuse.duckdns.org
 0.0.0.0 vscode.cowciuse.duckdns.org
@@ -32230,7 +32241,6 @@
 0.0.0.0 nckron.duckdns.org
 0.0.0.0 nclarb.duckdns.org
 0.0.0.0 nclars.duckdns.org
-0.0.0.0 ncloud-netta.duckdns.org
 0.0.0.0 ncloudsb.duckdns.org
 0.0.0.0 ncmd.duckdns.org
 0.0.0.0 ncmurali.duckdns.org
@@ -34314,6 +34324,7 @@
 0.0.0.0 log.plagrizr.duckdns.org
 0.0.0.0 makemkv.plagrizr.duckdns.org
 0.0.0.0 mqtt.plagrizr.duckdns.org
+0.0.0.0 nagios.plagrizr.duckdns.org
 0.0.0.0 nginx.plagrizr.duckdns.org
 0.0.0.0 pihole.plagrizr.duckdns.org
 0.0.0.0 plex.plagrizr.duckdns.org
@@ -34559,9 +34570,11 @@
 0.0.0.0 posadadelpelaire.duckdns.org
 0.0.0.0 climate.posadadelpelaire.duckdns.org
 0.0.0.0 hassio.posadadelpelaire.duckdns.org
+0.0.0.0 ispyagentdvr.posadadelpelaire.duckdns.org
 0.0.0.0 max.posadadelpelaire.duckdns.org
 0.0.0.0 nas.posadadelpelaire.duckdns.org
 0.0.0.0 nextcloud.posadadelpelaire.duckdns.org
+0.0.0.0 nvr.posadadelpelaire.duckdns.org
 0.0.0.0 odoo.posadadelpelaire.duckdns.org
 0.0.0.0 proxmox.posadadelpelaire.duckdns.org
 0.0.0.0 router.posadadelpelaire.duckdns.org
@@ -38204,7 +38217,6 @@
 0.0.0.0 stinkynet.duckdns.org
 0.0.0.0 stinntech.duckdns.org
 0.0.0.0 stinux.duckdns.org
-0.0.0.0 stirlingfrigate.duckdns.org
 0.0.0.0 stirlinghassio.duckdns.org
 0.0.0.0 stitzcloud.duckdns.org
 0.0.0.0 stiva.duckdns.org
@@ -42882,6 +42894,8 @@
 0.0.0.0 upload.tawk.to
 0.0.0.0 va.tawk.to
 0.0.0.0 video.tawk.to
+0.0.0.0 vs114.tawk.to
+0.0.0.0 vs48.tawk.to
 0.0.0.0 vs53.tawk.to
 0.0.0.0 vsa1.tawk.to
 0.0.0.0 vsa10.tawk.to
