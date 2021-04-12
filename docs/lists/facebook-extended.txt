@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-04-11T01:05:19+00:00
-# Count: 22110 domains
+# Released: 2021-04-12T01:05:18+00:00
+# Count: 22115 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -190,6 +190,7 @@
 0.0.0.0 scontent-sof1-1.cdninstagram.com
 0.0.0.0 scontent-ssn1-1.cdninstagram.com
 0.0.0.0 scontent-syd2-1.cdninstagram.com
+0.0.0.0 scontent-tir2-1.cdninstagram.com
 0.0.0.0 scontent-tpe.cdninstagram.com
 0.0.0.0 scontent-tpe1-1.cdninstagram.com
 0.0.0.0 scontent-vie.cdninstagram.com
@@ -1333,6 +1334,7 @@
 0.0.0.0 edge-star-mini-shv-01-hkt1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-iad3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-lax3.facebook.com
+0.0.0.0 edge-star-mini-shv-01-lcy1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-lga3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-lht6.facebook.com
 0.0.0.0 edge-star-mini-shv-01-maa2.facebook.com
@@ -13338,6 +13340,7 @@
 0.0.0.0 whatsapp-chatd-edge-shv-02-xsp1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-03-sin6.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-03-xsp1.facebook.com
+0.0.0.0 whatsapp-chatd-igd-edge-shv-01-lht6.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-edge-shv-01-atl3.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-edge-shv-01-sin6.facebook.com
 0.0.0.0 wistron.facebook.com
@@ -14200,6 +14203,7 @@
 0.0.0.0 3.fbsbx.com
 0.0.0.0 3dcdn.fbsbx.com
 0.0.0.0 547.fbsbx.com
+0.0.0.0 droege.547.fbsbx.com
 0.0.0.0 ads.fbsbx.com
 0.0.0.0 agent.fbsbx.com
 0.0.0.0 ajdkwlx9z8c27mu6y50v3qgfpsi4brtneh1o.fbsbx.com
@@ -14437,6 +14441,7 @@
 0.0.0.0 apps-2754295727942681.apps.fbsbx.com
 0.0.0.0 www.apps-277040139822580.apps.fbsbx.com
 0.0.0.0 apps-278618899454992.apps.fbsbx.com
+0.0.0.0 www.apps-278618899454992.apps.fbsbx.com
 0.0.0.0 apps-279689396297126.apps.fbsbx.com
 0.0.0.0 apps-284391365549942.apps.fbsbx.com
 0.0.0.0 apps-293603471320745.apps.fbsbx.com
@@ -14566,6 +14571,7 @@
 0.0.0.0 apps-519146395563650.apps.fbsbx.com
 0.0.0.0 apps-519257478640823.apps.fbsbx.com
 0.0.0.0 apps-519452305203662.apps.fbsbx.com
+0.0.0.0 www.apps-519452305203662.apps.fbsbx.com
 0.0.0.0 apps-525417394652473.apps.fbsbx.com
 0.0.0.0 apps-530496894075396.apps.fbsbx.com
 0.0.0.0 apps-542782242883778.apps.fbsbx.com
@@ -14709,6 +14715,7 @@
 0.0.0.0 apps-493583988507876.fbsbx.com
 0.0.0.0 apps-498834741512809.fbsbx.com
 0.0.0.0 apps-552447672060541.fbsbx.com
+0.0.0.0 apps-628773107751695.fbsbx.com
 0.0.0.0 apps-676978696322991.fbsbx.com
 0.0.0.0 apps-691439858393389.fbsbx.com
 0.0.0.0 apps-696666491213013.fbsbx.com
@@ -17242,7 +17249,6 @@
 0.0.0.0 scontent.fgdl5-3.fna.fbcdn.net
 0.0.0.0 instagram.fgdl8-1.fna.fbcdn.net
 0.0.0.0 instagram.fgdl9-1.fna.fbcdn.net
-0.0.0.0 fgib1-1.fna.fbcdn.net
 0.0.0.0 instagram.fgig10-1.fna.fbcdn.net
 0.0.0.0 instagram.fgig13-1.fna.fbcdn.net
 0.0.0.0 instagram.fgig14-1.fna.fbcdn.net
@@ -17612,7 +17618,6 @@
 0.0.0.0 instagram.fjan1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdh1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjdh1-1.fna.fbcdn.net
-0.0.0.0 fjdh1-2.fna.fbcdn.net
 0.0.0.0 video.fjdh2-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdo1-2.fna.fbcdn.net
 0.0.0.0 instagram.fjdo10-1.fna.fbcdn.net
