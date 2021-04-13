@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-04-11T01:05:20+00:00
-# Count: 1342 domains
+# Released: 2021-04-13T13:05:20+00:00
+# Count: 1348 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -433,9 +433,11 @@
 0.0.0.0 old.proudboysusa.com
 0.0.0.0 www.proudboysusa.com
 0.0.0.0 qanon-news.com
+0.0.0.0 autodiscover.qanon-news.com
 0.0.0.0 cpanel.qanon-news.com
 0.0.0.0 socialnetwork.qanon-news.com
 0.0.0.0 webdisk.qanon-news.com
+0.0.0.0 webmail.qanon-news.com
 0.0.0.0 www.qanon-news.com
 0.0.0.0 qanonanonymous.com
 0.0.0.0 discord.qanonanonymous.com
@@ -710,6 +712,9 @@
 0.0.0.0 flatearthers.org
 0.0.0.0 www.flatearthers.org
 0.0.0.0 fluoridealert.org
+0.0.0.0 admin.fluoridealert.org
+0.0.0.0 congress.fluoridealert.org
+0.0.0.0 email.fluoridealert.org
 0.0.0.0 imap.fluoridealert.org
 0.0.0.0 la.fluoridealert.org
 0.0.0.0 la2.fluoridealert.org
@@ -857,6 +862,7 @@
 0.0.0.0 ftp.learntherisk.org
 0.0.0.0 www.learntherisk.org
 0.0.0.0 mmcw.org
+0.0.0.0 mail.mmcw.org
 0.0.0.0 mx.mmcw.org
 0.0.0.0 www.mmcw.org
 0.0.0.0 nationalistwomensfront.org
