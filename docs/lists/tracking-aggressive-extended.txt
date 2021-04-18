@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-18T01:05:20+00:00
-# Count: 43325 domains
+# Released: 2021-04-18T13:05:20+00:00
+# Count: 43346 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -9721,6 +9721,7 @@
 0.0.0.0 screenengine.qualtrics.com
 0.0.0.0 scripps.qualtrics.com
 0.0.0.0 scuau.qualtrics.com
+0.0.0.0 sdsu.qualtrics.com
 0.0.0.0 sdsubusiness.qualtrics.com
 0.0.0.0 sdsuuw.qualtrics.com
 0.0.0.0 seanacademic.qualtrics.com
@@ -15285,6 +15286,7 @@
 0.0.0.0 antonscloud.duckdns.org
 0.0.0.0 antonshome.duckdns.org
 0.0.0.0 antonycip.duckdns.org
+0.0.0.0 bi.antonycip.duckdns.org
 0.0.0.0 antowen.duckdns.org
 0.0.0.0 antrivas.duckdns.org
 0.0.0.0 appdaemon.antrivas.duckdns.org
@@ -15675,6 +15677,7 @@
 0.0.0.0 clip.asmbcloud.duckdns.org
 0.0.0.0 dashboard.asmbcloud.duckdns.org
 0.0.0.0 demo.asmbcloud.duckdns.org
+0.0.0.0 firefox.asmbcloud.duckdns.org
 0.0.0.0 notify.asmbcloud.duckdns.org
 0.0.0.0 shiori.asmbcloud.duckdns.org
 0.0.0.0 test1.asmbcloud.duckdns.org
@@ -16668,6 +16671,7 @@
 0.0.0.0 droppy2.bigwolf2000.duckdns.org
 0.0.0.0 etesyn.bigwolf2000.duckdns.org
 0.0.0.0 etesync.bigwolf2000.duckdns.org
+0.0.0.0 ezm.bigwolf2000.duckdns.org
 0.0.0.0 file.bigwolf2000.duckdns.org
 0.0.0.0 filerun.bigwolf2000.duckdns.org
 0.0.0.0 filestash.bigwolf2000.duckdns.org
@@ -23483,6 +23487,12 @@
 0.0.0.0 greengolfball.duckdns.org
 0.0.0.0 greenheck.duckdns.org
 0.0.0.0 greening.duckdns.org
+0.0.0.0 hassio.greening.duckdns.org
+0.0.0.0 home.greening.duckdns.org
+0.0.0.0 nas.greening.duckdns.org
+0.0.0.0 pass.greening.duckdns.org
+0.0.0.0 proxy.greening.duckdns.org
+0.0.0.0 voip.greening.duckdns.org
 0.0.0.0 greeninghass.duckdns.org
 0.0.0.0 greenkegheedahatakankeadeshnaajaotawqsz.duckdns.org
 0.0.0.0 www.greenkegheedahatakankeadeshnaajaotawqsz.duckdns.org
@@ -26707,12 +26717,15 @@
 0.0.0.0 kodi.jamavery.duckdns.org
 0.0.0.0 lidarr.jamavery.duckdns.org
 0.0.0.0 music.jamavery.duckdns.org
+0.0.0.0 mux.jamavery.duckdns.org
 0.0.0.0 nginx.jamavery.duckdns.org
 0.0.0.0 omv.jamavery.duckdns.org
 0.0.0.0 pm.jamavery.duckdns.org
 0.0.0.0 portainer.jamavery.duckdns.org
 0.0.0.0 qbit.jamavery.duckdns.org
+0.0.0.0 qbits.jamavery.duckdns.org
 0.0.0.0 radarr.jamavery.duckdns.org
+0.0.0.0 snips.jamavery.duckdns.org
 0.0.0.0 sonarr.jamavery.duckdns.org
 0.0.0.0 vs.jamavery.duckdns.org
 0.0.0.0 james7shome.duckdns.org
@@ -31424,6 +31437,8 @@
 0.0.0.0 mmatus1112hassio.duckdns.org
 0.0.0.0 mmbroadhead.duckdns.org
 0.0.0.0 mmduif.duckdns.org
+0.0.0.0 nextcloud.mmduif.duckdns.org
+0.0.0.0 plex.mmduif.duckdns.org
 0.0.0.0 mmfl.duckdns.org
 0.0.0.0 mmgdata.duckdns.org
 0.0.0.0 mmhhomeassistant.duckdns.org
@@ -32193,7 +32208,9 @@
 0.0.0.0 namapuffi.duckdns.org
 0.0.0.0 namas0.duckdns.org
 0.0.0.0 namaste2020.duckdns.org
+0.0.0.0 camera1.namaste2020.duckdns.org
 0.0.0.0 configurator.namaste2020.duckdns.org
+0.0.0.0 ha.namaste2020.duckdns.org
 0.0.0.0 nodered.namaste2020.duckdns.org
 0.0.0.0 name37541.duckdns.org
 0.0.0.0 namking.duckdns.org
@@ -32667,7 +32684,9 @@
 0.0.0.0 downloads.netwerk.duckdns.org
 0.0.0.0 home.netwerk.duckdns.org
 0.0.0.0 movies.netwerk.duckdns.org
+0.0.0.0 pdownloads.netwerk.duckdns.org
 0.0.0.0 pihole.netwerk.duckdns.org
+0.0.0.0 psearch.netwerk.duckdns.org
 0.0.0.0 search.netwerk.duckdns.org
 0.0.0.0 subs.netwerk.duckdns.org
 0.0.0.0 tv.netwerk.duckdns.org
@@ -34761,7 +34780,6 @@
 0.0.0.0 portal-captcha.duckdns.org
 0.0.0.0 portal-huntngton.duckdns.org
 0.0.0.0 portalfrommo.duckdns.org
-0.0.0.0 cpcalendars.portalkey-ef8fs7f9idg.duckdns.org
 0.0.0.0 portalworkersha.duckdns.org
 0.0.0.0 portaoparkway.duckdns.org
 0.0.0.0 portfolioso.duckdns.org
@@ -35804,6 +35822,9 @@
 0.0.0.0 renovideo.duckdns.org
 0.0.0.0 renscloud.duckdns.org
 0.0.0.0 bitwarden.renscloud.duckdns.org
+0.0.0.0 clock.renscloud.duckdns.org
+0.0.0.0 cloud.renscloud.duckdns.org
+0.0.0.0 music.renscloud.duckdns.org
 0.0.0.0 syno.renscloud.duckdns.org
 0.0.0.0 www.renscloud.duckdns.org
 0.0.0.0 rentallect.duckdns.org
