@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-04-28T01:33:58+00:00
-# Count: 44725 domains
+# Released: 2021-04-30T01:05:19+00:00
+# Count: 44746 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -3437,6 +3437,7 @@
 0.0.0.0 jenny-miranda.drift.com
 0.0.0.0 js.drift.com
 0.0.0.0 ks-vendingtransactions-mq4.drift.com
+0.0.0.0 ldr21.drift.com
 0.0.0.0 lightningai.drift.com
 0.0.0.0 mail-2008.drift.com
 0.0.0.0 mail02.drift.com
@@ -15395,6 +15396,8 @@
 0.0.0.0 antonshome.duckdns.org
 0.0.0.0 antonycip.duckdns.org
 0.0.0.0 bi.antonycip.duckdns.org
+0.0.0.0 op.antonycip.duckdns.org
+0.0.0.0 unifi.antonycip.duckdns.org
 0.0.0.0 antowen.duckdns.org
 0.0.0.0 antrivas.duckdns.org
 0.0.0.0 appdaemon.antrivas.duckdns.org
@@ -16288,6 +16291,9 @@
 0.0.0.0 bastelbude.duckdns.org
 0.0.0.0 basti-homeassistant.duckdns.org
 0.0.0.0 bastienenan.duckdns.org
+0.0.0.0 nextcloud.bastienenan.duckdns.org
+0.0.0.0 office.bastienenan.duckdns.org
+0.0.0.0 portainer.bastienenan.duckdns.org
 0.0.0.0 bastienha.duckdns.org
 0.0.0.0 bastostreinamentos.duckdns.org
 0.0.0.0 basurto.duckdns.org
@@ -18994,7 +19000,6 @@
 0.0.0.0 cloud-lucerna.duckdns.org
 0.0.0.0 cloud-nardo.duckdns.org
 0.0.0.0 cloud-oldfashioned.duckdns.org
-0.0.0.0 cloud-pcmrtechnode.duckdns.org
 0.0.0.0 cloud-poseb.duckdns.org
 0.0.0.0 cloud-rougette.duckdns.org
 0.0.0.0 cloud-stlouisdegonzague44.duckdns.org
@@ -19291,10 +19296,13 @@
 0.0.0.0 connorshome.duckdns.org
 0.0.0.0 conorob.duckdns.org
 0.0.0.0 cloud.conorob.duckdns.org
+0.0.0.0 jellyadmin.conorob.duckdns.org
 0.0.0.0 jellyfin.conorob.duckdns.org
 0.0.0.0 lidarr.conorob.duckdns.org
 0.0.0.0 nginx.conorob.duckdns.org
 0.0.0.0 proxmox.conorob.duckdns.org
+0.0.0.0 radarr.conorob.duckdns.org
+0.0.0.0 serveradmin.conorob.duckdns.org
 0.0.0.0 sonarr.conorob.duckdns.org
 0.0.0.0 transmission.conorob.duckdns.org
 0.0.0.0 xteve.conorob.duckdns.org
@@ -19737,6 +19745,9 @@
 0.0.0.0 dabozz88.duckdns.org
 0.0.0.0 synclounge.dachte.duckdns.org
 0.0.0.0 dada-pi.duckdns.org
+0.0.0.0 bitwarden.dada-pi.duckdns.org
+0.0.0.0 nextcloud.dada-pi.duckdns.org
+0.0.0.0 proxymanager.dada-pi.duckdns.org
 0.0.0.0 dada-server.duckdns.org
 0.0.0.0 dadadomus.duckdns.org
 0.0.0.0 dadahome.duckdns.org
@@ -23377,7 +23388,6 @@
 0.0.0.0 omv.gaubuz.duckdns.org
 0.0.0.0 pve.gaubuz.duckdns.org
 0.0.0.0 gaunty.duckdns.org
-0.0.0.0 gauravkumar.duckdns.org
 0.0.0.0 gautefall.duckdns.org
 0.0.0.0 gavilanuy.duckdns.org
 0.0.0.0 gavraqhassio.duckdns.org
@@ -27624,8 +27634,6 @@
 0.0.0.0 jessluc.duckdns.org
 0.0.0.0 jesternator.duckdns.org
 0.0.0.0 jetrequest.duckdns.org
-0.0.0.0 jett-home-eclypse.duckdns.org
-0.0.0.0 jett-home-portainer.duckdns.org
 0.0.0.0 www.jettimelapse.duckdns.org
 0.0.0.0 jettliuvpn.duckdns.org
 0.0.0.0 jev.duckdns.org
@@ -33493,6 +33501,7 @@
 0.0.0.0 netwerk.duckdns.org
 0.0.0.0 downloads.netwerk.duckdns.org
 0.0.0.0 home.netwerk.duckdns.org
+0.0.0.0 media.netwerk.duckdns.org
 0.0.0.0 movies.netwerk.duckdns.org
 0.0.0.0 pdownloads.netwerk.duckdns.org
 0.0.0.0 pihole.netwerk.duckdns.org
@@ -36778,8 +36787,10 @@
 0.0.0.0 renovideo.duckdns.org
 0.0.0.0 renscloud.duckdns.org
 0.0.0.0 bitwarden.renscloud.duckdns.org
+0.0.0.0 bw.renscloud.duckdns.org
 0.0.0.0 clock.renscloud.duckdns.org
 0.0.0.0 cloud.renscloud.duckdns.org
+0.0.0.0 code.renscloud.duckdns.org
 0.0.0.0 music.renscloud.duckdns.org
 0.0.0.0 syno.renscloud.duckdns.org
 0.0.0.0 www.renscloud.duckdns.org
@@ -37127,6 +37138,7 @@
 0.0.0.0 db-admin.robsgax.duckdns.org
 0.0.0.0 gitlab.robsgax.duckdns.org
 0.0.0.0 monitor.robsgax.duckdns.org
+0.0.0.0 pihole.robsgax.duckdns.org
 0.0.0.0 portainer.robsgax.duckdns.org
 0.0.0.0 whoami.robsgax.duckdns.org
 0.0.0.0 robshouse.duckdns.org
@@ -38018,6 +38030,7 @@
 0.0.0.0 seaser.duckdns.org
 0.0.0.0 seaserver.duckdns.org
 0.0.0.0 grafana.seaserver.duckdns.org
+0.0.0.0 minecraft.seaserver.duckdns.org
 0.0.0.0 ombi.seaserver.duckdns.org
 0.0.0.0 qbittorrent.seaserver.duckdns.org
 0.0.0.0 radarr.seaserver.duckdns.org
@@ -38584,14 +38597,18 @@
 0.0.0.0 sillyhome.duckdns.org
 0.0.0.0 silmarilli.duckdns.org
 0.0.0.0 dashboard.silmarilli.duckdns.org
+0.0.0.0 dl.silmarilli.duckdns.org
 0.0.0.0 dnd.silmarilli.duckdns.org
 0.0.0.0 dps.silmarilli.duckdns.org
+0.0.0.0 drive.silmarilli.duckdns.org
+0.0.0.0 home.silmarilli.duckdns.org
 0.0.0.0 monitoring.silmarilli.duckdns.org
 0.0.0.0 pihole.silmarilli.duckdns.org
 0.0.0.0 python.silmarilli.duckdns.org
 0.0.0.0 radarr.silmarilli.duckdns.org
 0.0.0.0 requests.silmarilli.duckdns.org
 0.0.0.0 sonarr.silmarilli.duckdns.org
+0.0.0.0 synology.silmarilli.duckdns.org
 0.0.0.0 vault.silmarilli.duckdns.org
 0.0.0.0 vpn.silmarilli.duckdns.org
 0.0.0.0 silmarilli-dl.duckdns.org
@@ -40521,6 +40538,7 @@
 0.0.0.0 auth.thomasfamily.duckdns.org
 0.0.0.0 files.thomasfamily.duckdns.org
 0.0.0.0 git.thomasfamily.duckdns.org
+0.0.0.0 guacamole.thomasfamily.duckdns.org
 0.0.0.0 pydio.thomasfamily.duckdns.org
 0.0.0.0 radarr.thomasfamily.duckdns.org
 0.0.0.0 sonarr.thomasfamily.duckdns.org
@@ -43131,6 +43149,9 @@
 0.0.0.0 xmobiledev.duckdns.org
 0.0.0.0 xmotyc03.duckdns.org
 0.0.0.0 xndrxw.duckdns.org
+0.0.0.0 hassio.xndrxw.duckdns.org
+0.0.0.0 heimdall.xndrxw.duckdns.org
+0.0.0.0 nextcloud.xndrxw.duckdns.org
 0.0.0.0 esxi.xnuno.duckdns.org
 0.0.0.0 nextcloud.xnuno.duckdns.org
 0.0.0.0 pihole.xnuno.duckdns.org
