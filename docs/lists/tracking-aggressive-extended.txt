@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-05-07T13:05:19+00:00
-# Count: 46277 domains
+# Released: 2021-05-08T01:05:20+00:00
+# Count: 46299 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -5398,6 +5398,7 @@
 0.0.0.0 docs.livechatinc.com
 0.0.0.0 em.livechatinc.com
 0.0.0.0 emailinium.livechatinc.com
+0.0.0.0 export.livechatinc.com
 0.0.0.0 external-workers.livechatinc.com
 0.0.0.0 fbapp.livechatinc.com
 0.0.0.0 fbmsg.livechatinc.com
@@ -5422,11 +5423,13 @@
 0.0.0.0 accounts.labs.livechatinc.com
 0.0.0.0 addons-fra-b.labs.livechatinc.com
 0.0.0.0 api.labs.livechatinc.com
+0.0.0.0 api-website.labs.livechatinc.com
 0.0.0.0 bigcommerce.labs.livechatinc.com
 0.0.0.0 billing.labs.livechatinc.com
 0.0.0.0 cdnx.labs.livechatinc.com
 0.0.0.0 dashboard.labs.livechatinc.com
 0.0.0.0 developers.labs.livechatinc.com
+0.0.0.0 drm.labs.livechatinc.com
 0.0.0.0 gateway.labs.livechatinc.com
 0.0.0.0 gis.labs.livechatinc.com
 0.0.0.0 hubspot.labs.livechatinc.com
@@ -5437,6 +5440,7 @@
 0.0.0.0 marketplace-agentapp.labs.livechatinc.com
 0.0.0.0 mp.labs.livechatinc.com
 0.0.0.0 my.labs.livechatinc.com
+0.0.0.0 panel.labs.livechatinc.com
 0.0.0.0 partners.labs.livechatinc.com
 0.0.0.0 queue.labs.livechatinc.com
 0.0.0.0 secure.labs.livechatinc.com
@@ -5480,6 +5484,7 @@
 0.0.0.0 staging.livechatinc.com
 0.0.0.0 accounts.staging.livechatinc.com
 0.0.0.0 api.staging.livechatinc.com
+0.0.0.0 fbwebhooks.staging.livechatinc.com
 0.0.0.0 marketplace-agentapp.staging.livechatinc.com
 0.0.0.0 my.staging.livechatinc.com
 0.0.0.0 static.staging.livechatinc.com
@@ -6797,6 +6802,7 @@
 0.0.0.0 mx.providesupport.com
 0.0.0.0 mx1.providesupport.com
 0.0.0.0 mx2.providesupport.com
+0.0.0.0 nagios-conan.providesupport.com
 0.0.0.0 news.providesupport.com
 0.0.0.0 ns-b.providesupport.com
 0.0.0.0 ns-c.providesupport.com
@@ -11494,6 +11500,7 @@
 0.0.0.0 gpsdemo.spyfone.com
 0.0.0.0 www.gpsdemo.spyfone.com
 0.0.0.0 login.spyfone.com
+0.0.0.0 m.spyfone.com
 0.0.0.0 mail.spyfone.com
 0.0.0.0 pc.spyfone.com
 0.0.0.0 www.pc.spyfone.com
@@ -11532,6 +11539,7 @@
 0.0.0.0 authsmtp.spyhuman.com
 0.0.0.0 comune.spyhuman.com
 0.0.0.0 cp.spyhuman.com
+0.0.0.0 cpbeta.spyhuman.com
 0.0.0.0 data9.spyhuman.com
 0.0.0.0 demo.spyhuman.com
 0.0.0.0 download.spyhuman.com
@@ -11547,6 +11555,7 @@
 0.0.0.0 r.help.spyhuman.com
 0.0.0.0 hermes.spyhuman.com
 0.0.0.0 hfhytfykjlikhreswste.spyhuman.com
+0.0.0.0 host.spyhuman.com
 0.0.0.0 imap.spyhuman.com
 0.0.0.0 img.spyhuman.com
 0.0.0.0 img2.spyhuman.com
@@ -11560,12 +11569,15 @@
 0.0.0.0 mailsrv.spyhuman.com
 0.0.0.0 mbox.spyhuman.com
 0.0.0.0 migrate.spyhuman.com
+0.0.0.0 ms.spyhuman.com
 0.0.0.0 ms1.spyhuman.com
 0.0.0.0 mta.spyhuman.com
+0.0.0.0 mx01.spyhuman.com
 0.0.0.0 mx02.spyhuman.com
 0.0.0.0 mxs.spyhuman.com
 0.0.0.0 newadmin.spyhuman.com
 0.0.0.0 nodejs.spyhuman.com
+0.0.0.0 ns.spyhuman.com
 0.0.0.0 ns1.spyhuman.com
 0.0.0.0 online.spyhuman.com
 0.0.0.0 payment.spyhuman.com
@@ -11573,10 +11585,13 @@
 0.0.0.0 play.spyhuman.com
 0.0.0.0 po.spyhuman.com
 0.0.0.0 remote.spyhuman.com
+0.0.0.0 server.spyhuman.com
 0.0.0.0 server1.spyhuman.com
 0.0.0.0 services.spyhuman.com
 0.0.0.0 smtp.spyhuman.com
 0.0.0.0 smtp3.spyhuman.com
+0.0.0.0 smtpauth.spyhuman.com
+0.0.0.0 soldes.spyhuman.com
 0.0.0.0 spf.spyhuman.com
 0.0.0.0 support.spyhuman.com
 0.0.0.0 vip.spyhuman.com
@@ -11623,6 +11638,7 @@
 0.0.0.0 www.shop.spymasterpro.com
 0.0.0.0 sniper.spymasterpro.com
 0.0.0.0 spy.spymasterpro.com
+0.0.0.0 track.spymasterpro.com
 0.0.0.0 webdisk.spymasterpro.com
 0.0.0.0 webmail.spymasterpro.com
 0.0.0.0 www.spymasterpro.com
@@ -13924,6 +13940,7 @@
 0.0.0.0 docs.juicer.io
 0.0.0.0 help.juicer.io
 0.0.0.0 img.juicer.io
+0.0.0.0 mail.juicer.io
 0.0.0.0 staging.juicer.io
 0.0.0.0 clj.staging.juicer.io
 0.0.0.0 staging-assets.juicer.io
@@ -42572,7 +42589,6 @@
 0.0.0.0 tunx404.duckdns.org
 0.0.0.0 tuomohassio.duckdns.org
 0.0.0.0 tupala.duckdns.org
-0.0.0.0 turay.duckdns.org
 0.0.0.0 turbodfly.duckdns.org
 0.0.0.0 turbohouse.duckdns.org
 0.0.0.0 turbolaban.duckdns.org
@@ -45352,6 +45368,7 @@
 0.0.0.0 connector-mig.gomoxie.solutions
 0.0.0.0 connector-mmcservicedesk.gomoxie.solutions
 0.0.0.0 connector-moneygram.gomoxie.solutions
+0.0.0.0 connector-moxiecom.gomoxie.solutions
 0.0.0.0 connector-norton.gomoxie.solutions
 0.0.0.0 connector-nortonrenewal.gomoxie.solutions
 0.0.0.0 connector-nutrisystem.gomoxie.solutions
@@ -45391,6 +45408,7 @@
 0.0.0.0 events-dell.gomoxie.solutions
 0.0.0.0 events-essex.gomoxie.solutions
 0.0.0.0 events-fisgovebt.gomoxie.solutions
+0.0.0.0 events-fisgovebttest.gomoxie.solutions
 0.0.0.0 events-flowers.gomoxie.solutions
 0.0.0.0 events-godemo.gomoxie.solutions
 0.0.0.0 events-hawkecommerce.gomoxie.solutions
@@ -45450,6 +45468,7 @@
 0.0.0.0 identity-cb.gomoxie.solutions
 0.0.0.0 identity-coned.gomoxie.solutions
 0.0.0.0 identity-conedtest.gomoxie.solutions
+0.0.0.0 identity-cont.gomoxie.solutions
 0.0.0.0 identity-ctfs.gomoxie.solutions
 0.0.0.0 identity-ctfstest.gomoxie.solutions
 0.0.0.0 identity-documents.gomoxie.solutions
@@ -45477,6 +45496,7 @@
 0.0.0.0 identity-pictures.gomoxie.solutions
 0.0.0.0 identity-progressive.gomoxie.solutions
 0.0.0.0 identity-rbc.gomoxie.solutions
+0.0.0.0 identity-rbcgi3m01.gomoxie.solutions
 0.0.0.0 identity-rcn.gomoxie.solutions
 0.0.0.0 identity-sandals.gomoxie.solutions
 0.0.0.0 identity-sandalstest.gomoxie.solutions
@@ -45484,6 +45504,7 @@
 0.0.0.0 identity-signetjewelers.gomoxie.solutions
 0.0.0.0 identity-southbeachdiet.gomoxie.solutions
 0.0.0.0 identity-synchrony.gomoxie.solutions
+0.0.0.0 identity-test.gomoxie.solutions
 0.0.0.0 identity-usaaeligibility.gomoxie.solutions
 0.0.0.0 identity-usaahomeowners.gomoxie.solutions
 0.0.0.0 identity-usaaumbrella.gomoxie.solutions
@@ -45547,6 +45568,7 @@
 0.0.0.0 log-vitacost.gomoxie.solutions
 0.0.0.0 log-yankeecandle.gomoxie.solutions
 0.0.0.0 michaelkors.gomoxie.solutions
+0.0.0.0 michaelkorsca.gomoxie.solutions
 0.0.0.0 newcote.gomoxie.solutions
 0.0.0.0 norton.gomoxie.solutions
 0.0.0.0 online.gomoxie.solutions
