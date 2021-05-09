@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-05-05T01:05:19+00:00
-# Count: 1370 domains
+# Released: 2021-05-09T01:05:19+00:00
+# Count: 1401 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -32,8 +32,10 @@
 0.0.0.0 webmail.siegeculture.biz
 0.0.0.0 wlamazcsrv1.siegeculture.biz
 0.0.0.0 ww25.wlamazcsrv1.siegeculture.biz
+0.0.0.0 ws.siegeculture.biz
 0.0.0.0 ww11.siegeculture.biz
 0.0.0.0 ww25.siegeculture.biz
+0.0.0.0 ww2w.siegeculture.biz
 0.0.0.0 ww25.ww2w.siegeculture.biz
 0.0.0.0 ww31.siegeculture.biz
 0.0.0.0 ww38.siegeculture.biz
@@ -172,7 +174,9 @@
 0.0.0.0 www.globalclimatescam.com
 0.0.0.0 godhatesfags.com
 0.0.0.0 blogs.godhatesfags.com
+0.0.0.0 blogsdev.godhatesfags.com
 0.0.0.0 downloads.godhatesfags.com
+0.0.0.0 testing.godhatesfags.com
 0.0.0.0 www.godhatesfags.com
 0.0.0.0 identityevropa.com
 0.0.0.0 www.identityevropa.com
@@ -541,6 +545,7 @@
 0.0.0.0 www.traceamounts.com
 0.0.0.0 unitedpatriotsofamerica.com
 0.0.0.0 authsmtp.unitedpatriotsofamerica.com
+0.0.0.0 correo.unitedpatriotsofamerica.com
 0.0.0.0 cpanel.unitedpatriotsofamerica.com
 0.0.0.0 cpcalendars.unitedpatriotsofamerica.com
 0.0.0.0 cpcontacts.unitedpatriotsofamerica.com
@@ -549,14 +554,25 @@
 0.0.0.0 imap.unitedpatriotsofamerica.com
 0.0.0.0 imap2.unitedpatriotsofamerica.com
 0.0.0.0 mail.unitedpatriotsofamerica.com
+0.0.0.0 mail10.unitedpatriotsofamerica.com
 0.0.0.0 mail2.unitedpatriotsofamerica.com
+0.0.0.0 mail3.unitedpatriotsofamerica.com
+0.0.0.0 mailgate.unitedpatriotsofamerica.com
+0.0.0.0 mailx.unitedpatriotsofamerica.com
+0.0.0.0 ms1.unitedpatriotsofamerica.com
+0.0.0.0 mx.unitedpatriotsofamerica.com
+0.0.0.0 mx02.unitedpatriotsofamerica.com
+0.0.0.0 ns2.unitedpatriotsofamerica.com
 0.0.0.0 remote.unitedpatriotsofamerica.com
+0.0.0.0 secure.unitedpatriotsofamerica.com
+0.0.0.0 server.unitedpatriotsofamerica.com
 0.0.0.0 webdisk.unitedpatriotsofamerica.com
 0.0.0.0 webmail.unitedpatriotsofamerica.com
 0.0.0.0 ww.unitedpatriotsofamerica.com
 0.0.0.0 www.unitedpatriotsofamerica.com
 0.0.0.0 www1.unitedpatriotsofamerica.com
 0.0.0.0 www2.unitedpatriotsofamerica.com
+0.0.0.0 zimbra.unitedpatriotsofamerica.com
 0.0.0.0 vaccinehoax.com
 0.0.0.0 www.vaccinehoax.com
 0.0.0.0 virus-hoax.com
@@ -727,6 +743,7 @@
 0.0.0.0 webmail.educate-yourself.org
 0.0.0.0 www.educate-yourself.org
 0.0.0.0 flatearthers.org
+0.0.0.0 mail.flatearthers.org
 0.0.0.0 www.flatearthers.org
 0.0.0.0 fluoridealert.org
 0.0.0.0 admin.fluoridealert.org
@@ -1017,10 +1034,13 @@
 0.0.0.0 exchange.nvic.org
 0.0.0.0 gate.nvic.org
 0.0.0.0 gateway.nvic.org
+0.0.0.0 home.nvic.org
 0.0.0.0 host.nvic.org
 0.0.0.0 imap.nvic.org
+0.0.0.0 m.nvic.org
 0.0.0.0 mail.nvic.org
 0.0.0.0 mail3.nvic.org
+0.0.0.0 mail4.nvic.org
 0.0.0.0 mail6.nvic.org
 0.0.0.0 mail7.nvic.org
 0.0.0.0 mail9.nvic.org
@@ -1031,6 +1051,7 @@
 0.0.0.0 mbox.nvic.org
 0.0.0.0 ms.nvic.org
 0.0.0.0 ms1.nvic.org
+0.0.0.0 mta.nvic.org
 0.0.0.0 mx.nvic.org
 0.0.0.0 mx02.nvic.org
 0.0.0.0 mx2.nvic.org
@@ -1043,6 +1064,7 @@
 0.0.0.0 ns2.nvic.org
 0.0.0.0 outmail.nvic.org
 0.0.0.0 po.nvic.org
+0.0.0.0 poczta.nvic.org
 0.0.0.0 pop.nvic.org
 0.0.0.0 pop3.nvic.org
 0.0.0.0 postmaster.nvic.org
@@ -1289,13 +1311,18 @@
 0.0.0.0 webmail.dailystormer.su
 0.0.0.0 www.dailystormer.su
 0.0.0.0 8kun.top
+0.0.0.0 018.8kun.top
+0.0.0.0 13b.8kun.top
+0.0.0.0 17b.8kun.top
 0.0.0.0 3-admin.8kun.top
+0.0.0.0 8b.8kun.top
 0.0.0.0 8k1.8kun.top
 0.0.0.0 8k2.8kun.top
 0.0.0.0 admin.8kun.top
 0.0.0.0 app.8kun.top
 0.0.0.0 archive.8kun.top
 0.0.0.0 b.8kun.top
+0.0.0.0 b7.8kun.top
 0.0.0.0 banners.8kun.top
 0.0.0.0 bannersb.8kun.top
 0.0.0.0 beta.8kun.top
@@ -1303,12 +1330,14 @@
 0.0.0.0 boars.8kun.top
 0.0.0.0 c0cvmn223akidbkocb9g.8kun.top
 0.0.0.0 c0cvmna23akidbkocbag.8kun.top
+0.0.0.0 com.8kun.top
 0.0.0.0 dashboard.8kun.top
 0.0.0.0 data.8kun.top
 0.0.0.0 dump.8kun.top
 0.0.0.0 forum.8kun.top
 0.0.0.0 forums.8kun.top
 0.0.0.0 ftp.8kun.top
+0.0.0.0 gitlab.8kun.top
 0.0.0.0 hispa.8kun.top
 0.0.0.0 html.8kun.top
 0.0.0.0 httpsoftserve.8kun.top
@@ -1334,7 +1363,9 @@
 0.0.0.0 riga.8kun.top
 0.0.0.0 rnerv.8kun.top
 0.0.0.0 rsoon.8kun.top
+0.0.0.0 s.8kun.top
 0.0.0.0 sandboxsys3.8kun.top
+0.0.0.0 softserv.8kun.top
 0.0.0.0 softserve.8kun.top
 0.0.0.0 softserve.softserve.8kun.top
 0.0.0.0 soon.8kun.top
