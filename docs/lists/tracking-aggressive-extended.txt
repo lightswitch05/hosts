@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-05-11T01:05:19+00:00
-# Count: 47471 domains
+# Released: 2021-05-11T13:05:19+00:00
+# Count: 47477 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -23,17 +23,21 @@
 0.0.0.0 cortana.ai
 0.0.0.0 api.cortana.ai
 0.0.0.0 querysuggestions-int.api.cortana.ai
+0.0.0.0 prod.binganswers.cortana.ai
 0.0.0.0 dev.cortana.ai
 0.0.0.0 westus1.dev.cortana.ai
 0.0.0.0 internal.cortana.ai
 0.0.0.0 dev.internal.cortana.ai
+0.0.0.0 kws.cortana.ai
 0.0.0.0 msit.cortana.ai
 0.0.0.0 prod.cortana.ai
 0.0.0.0 cortex.shs.prod.cortana.ai
 0.0.0.0 sdf.cortana.ai
 0.0.0.0 staging.cortana.ai
 0.0.0.0 eastus1.staging.cortana.ai
+0.0.0.0 prod.suggestionsskill.cortana.ai
 0.0.0.0 test.cortana.ai
+0.0.0.0 prod.windowsskills.cortana.ai
 0.0.0.0 www.cortana.ai
 0.0.0.0 adserver.va3.megaphone.cloud
 0.0.0.0 360.cn
@@ -4971,6 +4975,7 @@
 0.0.0.0 p-s0-core-image-service.glympse.com
 0.0.0.0 p-s1-api.glympse.com
 0.0.0.0 p-s1-core-image-service.glympse.com
+0.0.0.0 papajohns.glympse.com
 0.0.0.0 product.glympse.com
 0.0.0.0 kibana.n0.production.proxy.glympse.com
 0.0.0.0 itt.s0.production.proxy.glympse.com
@@ -14121,6 +14126,7 @@
 0.0.0.0 email.mg.ipinfo.io
 0.0.0.0 pixel.ipinfo.io
 0.0.0.0 staging.ipinfo.io
+0.0.0.0 staging2.ipinfo.io
 0.0.0.0 v6.ipinfo.io
 0.0.0.0 www.ipinfo.io
 0.0.0.0 juicer.io
@@ -17780,6 +17786,7 @@
 0.0.0.0 boprewolco.duckdns.org
 0.0.0.0 boqlftdqzj.duckdns.org
 0.0.0.0 borarel.duckdns.org
+0.0.0.0 bordeciel.duckdns.org
 0.0.0.0 bordplate.duckdns.org
 0.0.0.0 bordura.duckdns.org
 0.0.0.0 boreklev.duckdns.org
@@ -19764,6 +19771,7 @@
 0.0.0.0 cloy.duckdns.org
 0.0.0.0 backup.cloy.duckdns.org
 0.0.0.0 cloud.cloy.duckdns.org
+0.0.0.0 ha.cloy.duckdns.org
 0.0.0.0 nc.cloy.duckdns.org
 0.0.0.0 pw.cloy.duckdns.org
 0.0.0.0 tv.cloy.duckdns.org
@@ -25790,7 +25798,6 @@
 0.0.0.0 hagekamera.duckdns.org
 0.0.0.0 hagenbckqlmerty.duckdns.org
 0.0.0.0 haglaser.duckdns.org
-0.0.0.0 hagnett.duckdns.org
 0.0.0.0 hagrafana.duckdns.org
 0.0.0.0 hagranby.duckdns.org
 0.0.0.0 hagruebel.duckdns.org
@@ -36302,7 +36309,6 @@
 0.0.0.0 olson-home.duckdns.org
 0.0.0.0 olymp-be.duckdns.org
 0.0.0.0 omar82.duckdns.org
-0.0.0.0 omaraceveshassio.duckdns.org
 0.0.0.0 omarelaich.duckdns.org
 0.0.0.0 ombelet.duckdns.org
 0.0.0.0 ombi-fin.duckdns.org
@@ -37604,6 +37610,7 @@
 0.0.0.0 abooquity.plusultra.duckdns.org
 0.0.0.0 adminer.plusultra.duckdns.org
 0.0.0.0 apachetest.plusultra.duckdns.org
+0.0.0.0 authelia.plusultra.duckdns.org
 0.0.0.0 calibre.plusultra.duckdns.org
 0.0.0.0 calibreg.plusultra.duckdns.org
 0.0.0.0 calibrew.plusultra.duckdns.org
@@ -43307,7 +43314,6 @@
 0.0.0.0 toby-home.duckdns.org
 0.0.0.0 tocasaha.duckdns.org
 0.0.0.0 tocinilloassistant.duckdns.org
-0.0.0.0 today-api.duckdns.org
 0.0.0.0 todd5438.duckdns.org
 0.0.0.0 todoapp.duckdns.org
 0.0.0.0 todoaqui.duckdns.org
