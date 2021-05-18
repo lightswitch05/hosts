@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-05-18T01:05:19+00:00
-# Count: 48318 domains
+# Released: 2021-05-18T13:05:19+00:00
+# Count: 48342 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1957,8 +1957,6 @@
 0.0.0.0 em.comm100.com
 0.0.0.0 engage.comm100.com
 0.0.0.0 ent.comm100.com
-0.0.0.0 ent1chatserver.comm100.com
-0.0.0.0 ent1portal.comm100.com
 0.0.0.0 ent7.comm100.com
 0.0.0.0 entchatserver.comm100.com
 0.0.0.0 entchatserver7.comm100.com
@@ -1974,6 +1972,7 @@
 0.0.0.0 hostedmax.comm100.com
 0.0.0.0 hostedremote.comm100.com
 0.0.0.0 humana.comm100.com
+0.0.0.0 internalstatuspageuseonly.comm100.com
 0.0.0.0 learning.comm100.com
 0.0.0.0 logicmonitor.comm100.com
 0.0.0.0 mail1.comm100.com
@@ -1983,6 +1982,7 @@
 0.0.0.0 pciform.comm100.com
 0.0.0.0 platform.comm100.com
 0.0.0.0 any1.platform.comm100.com
+0.0.0.0 app.platform.comm100.com
 0.0.0.0 appit.platform.comm100.com
 0.0.0.0 chakap.platform.comm100.com
 0.0.0.0 jackhenry.platform.comm100.com
@@ -1996,6 +1996,7 @@
 0.0.0.0 vue.comm100.com
 0.0.0.0 vue1.comm100.com
 0.0.0.0 vuex2test.comm100.com
+0.0.0.0 vuex2teststandby.comm100.com
 0.0.0.0 www.comm100.com
 0.0.0.0 download.db-ip.com
 0.0.0.0 block-test.developerdan.com
@@ -12618,6 +12619,7 @@
 0.0.0.0 app.vk.com
 0.0.0.0 archieve.vk.com
 0.0.0.0 arkehh.vk.com
+0.0.0.0 asar.vk.com
 0.0.0.0 auth.vk.com
 0.0.0.0 avto1254.vk.com
 0.0.0.0 avto3490.vk.com
@@ -12637,6 +12639,7 @@
 0.0.0.0 bpc.vk.com
 0.0.0.0 bqokanybhyxgjuwufmgjkznfidvkczbhfdnheffj.vk.com
 0.0.0.0 browser.vk.com
+0.0.0.0 c.vk.com
 0.0.0.0 calls.vk.com
 0.0.0.0 cc.vk.com
 0.0.0.0 quarantine.cc.vk.com
@@ -12744,6 +12747,7 @@
 0.0.0.0 cs4552.vk.com
 0.0.0.0 cs4557.vk.com
 0.0.0.0 cs4700.vk.com
+0.0.0.0 cs5077.vk.com
 0.0.0.0 cs508407.vk.com
 0.0.0.0 cs509601.vk.com
 0.0.0.0 cs509605.vk.com
@@ -12765,6 +12769,7 @@
 0.0.0.0 cs5472.vk.com
 0.0.0.0 cs5475.vk.com
 0.0.0.0 cs5533.vk.com
+0.0.0.0 cs5541.vk.com
 0.0.0.0 cs5697.vk.com
 0.0.0.0 cs573.vk.com
 0.0.0.0 cs5744.vk.com
@@ -12943,6 +12948,7 @@
 0.0.0.0 cs9763.vk.com
 0.0.0.0 cs9767.vk.com
 0.0.0.0 cs9813.vk.com
+0.0.0.0 cs9846.vk.com
 0.0.0.0 cs9916.vk.com
 0.0.0.0 cs9947.vk.com
 0.0.0.0 cs9960.vk.com
@@ -13104,6 +13110,7 @@
 0.0.0.0 nm.vk.com
 0.0.0.0 nolesfootball.vk.com
 0.0.0.0 noreply.vk.com
+0.0.0.0 notevil.vk.com
 0.0.0.0 notify.vk.com
 0.0.0.0 ns1.vk.com
 0.0.0.0 ns2.vk.com
@@ -13117,6 +13124,7 @@
 0.0.0.0 oautdh.vk.com
 0.0.0.0 oauth.vk.com
 0.0.0.0 ocygds.vk.com
+0.0.0.0 odn.vk.com
 0.0.0.0 ofhvyn.vk.com
 0.0.0.0 ogin.vk.com
 0.0.0.0 ognjs.vk.com
@@ -13152,6 +13160,7 @@
 0.0.0.0 push.vk.com
 0.0.0.0 www.push.vk.com
 0.0.0.0 puskesmaskota.vk.com
+0.0.0.0 pycaaf.vk.com
 0.0.0.0 qapi.vk.com
 0.0.0.0 qrvsas.vk.com
 0.0.0.0 quarantine-poc.vk.com
@@ -13203,12 +13212,14 @@
 0.0.0.0 srv135-185-240-87.vk.com
 0.0.0.0 srv137-137-240-87.vk.com
 0.0.0.0 srv137-185-240-87.vk.com
+0.0.0.0 srv138-177-240-87.vk.com
 0.0.0.0 srv140-129-240-87.vk.com
 0.0.0.0 srv140-47-213-95.vk.com
 0.0.0.0 srv142-185-240-87.vk.com
 0.0.0.0 srv143-185-240-87.vk.com
 0.0.0.0 srv146-185-240-87.vk.com
 0.0.0.0 srv15-116-213-95.vk.com
+0.0.0.0 srv15-132-240-87.vk.com
 0.0.0.0 srv151-6-213-95-hjvote.vk.com
 0.0.0.0 srv151-6-213-95microsoft-excel-2016.vk.com
 0.0.0.0 srv157-185-240-87.vk.com
@@ -13225,10 +13236,12 @@
 0.0.0.0 srv164-11-213-95.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
 0.0.0.0 srv168-185-240-87.vk.com
+0.0.0.0 srv171-21-213-95.vk.com
 0.0.0.0 srv172-156-240-87.vk.com
 0.0.0.0 srv177-129-240-87.vk.com
 0.0.0.0 srv178-129-240-87.vk.com
 0.0.0.0 srv181-129-240-87.vk.com
+0.0.0.0 srv191-137-240-87.vk.com
 0.0.0.0 srv193-113-213-95.vk.com
 0.0.0.0 srv193-139-240-87.vk.com
 0.0.0.0 srv194-139-240-87.vk.com
@@ -13246,18 +13259,24 @@
 0.0.0.0 srv218-0-213-95.vk.com
 0.0.0.0 srv220-151-240-87.vk.com
 0.0.0.0 srv221-238-186-93.vk.com
+0.0.0.0 srv222-51-213-95.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
 0.0.0.0 srv229-170-240-87.vk.com
+0.0.0.0 srv230-165-240-87.vk.com
 0.0.0.0 srv233-185-240-87.vk.com
 0.0.0.0 srv24-2-213-95.vk.com
 0.0.0.0 srv244-15-213-95.vk.com
+0.0.0.0 srv246-164-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
+0.0.0.0 srv28-156-240-87.vk.com
 0.0.0.0 srv3-6-213-95.vk.com
 0.0.0.0 srv38-74-213-95.vk.com
 0.0.0.0 srv41-129-240-87.vk.com
+0.0.0.0 srv41-139-240-87.vk.com
 0.0.0.0 srv43-64-213-95.vk.com
 0.0.0.0 srv49-5-213-95.vk.com
+0.0.0.0 srv61-176-240-87.vk.com
 0.0.0.0 srv64-61-213-95.vk.com
 0.0.0.0 srv66-139-137-79.vk.com
 0.0.0.0 srv67-190-240-87.vk.com
@@ -13301,6 +13320,7 @@
 0.0.0.0 www.srv78-190-240-87.vk.com
 0.0.0.0 srv79-43-213-95.vk.com
 0.0.0.0 srv9-4-213-95.vk.com
+0.0.0.0 srv92-117-213-95.vk.com
 0.0.0.0 sstakk.vk.com
 0.0.0.0 st.vk.com
 0.0.0.0 st1-14.vk.com
@@ -13346,6 +13366,8 @@
 0.0.0.0 st3-11.vk.com
 0.0.0.0 st3-12.vk.com
 0.0.0.0 st3-13.vk.com
+0.0.0.0 st3-16.vk.com
+0.0.0.0 st3-17.vk.com
 0.0.0.0 st4-10.vk.com
 0.0.0.0 st4-11.vk.com
 0.0.0.0 st4-12.vk.com
@@ -14596,7 +14618,6 @@
 0.0.0.0 2016today.duckdns.org
 0.0.0.0 www.2016today.duckdns.org
 0.0.0.0 2020danputago1974xyz.duckdns.org
-0.0.0.0 2021-joinbokep.duckdns.org
 0.0.0.0 www.2021-joinbokep.duckdns.org
 0.0.0.0 2021movi.duckdns.org
 0.0.0.0 204181.duckdns.org
@@ -48058,10 +48079,13 @@
 0.0.0.0 asb11.tawk.to
 0.0.0.0 asb14.tawk.to
 0.0.0.0 asb15.tawk.to
+0.0.0.0 asb18.tawk.to
 0.0.0.0 asb19.tawk.to
+0.0.0.0 asb2.tawk.to
 0.0.0.0 asb21.tawk.to
 0.0.0.0 asb23.tawk.to
 0.0.0.0 asb3.tawk.to
+0.0.0.0 asb6.tawk.to
 0.0.0.0 asb7.tawk.to
 0.0.0.0 asb8.tawk.to
 0.0.0.0 asb9.tawk.to
