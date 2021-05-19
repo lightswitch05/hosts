@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-05-19T01:05:19+00:00
-# Count: 21248 domains
+# Released: 2021-05-19T13:05:20+00:00
+# Count: 21256 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -671,6 +671,7 @@
 0.0.0.0 zh-cn.ejister.c.facebook.com
 0.0.0.0 c10r.facebook.com
 0.0.0.0 atlas.c10r.facebook.com
+0.0.0.0 chat-e2ee-ig-p42.c10r.facebook.com
 0.0.0.0 chat-e2ee-mini.c10r.facebook.com
 0.0.0.0 developers.c10r.facebook.com
 0.0.0.0 extern.c10r.facebook.com
@@ -693,6 +694,7 @@
 0.0.0.0 c.ns.c10r.facebook.com
 0.0.0.0 d.ns.c10r.facebook.com
 0.0.0.0 oculus.c10r.facebook.com
+0.0.0.0 onevc.c10r.facebook.com
 0.0.0.0 partners.c10r.facebook.com
 0.0.0.0 secure.c10r.facebook.com
 0.0.0.0 secure-latest.c10r.facebook.com
@@ -776,9 +778,11 @@
 0.0.0.0 graph.cinyour.facebook.com
 0.0.0.0 heart-surgery-ntm-infection-lawyer.cinyour.facebook.com
 0.0.0.0 hi-in.cinyour.facebook.com
+0.0.0.0 m.hi-in.cinyour.facebook.com
 0.0.0.0 www.hi-in.cinyour.facebook.com
 0.0.0.0 infeccionesporhongoslibro.cinyour.facebook.com
 0.0.0.0 it-it.cinyour.facebook.com
+0.0.0.0 www.it-it.cinyour.facebook.com
 0.0.0.0 ja-jp.cinyour.facebook.com
 0.0.0.0 ko-kr.cinyour.facebook.com
 0.0.0.0 www.ko-kr.cinyour.facebook.com
@@ -12388,6 +12392,7 @@
 0.0.0.0 ja-jp.es-la.id-id.prod.facebook.com
 0.0.0.0 ka-ge.es-la.id-id.prod.facebook.com
 0.0.0.0 ko-kr.es-la.id-id.prod.facebook.com
+0.0.0.0 www.ko-kr.es-la.id-id.prod.facebook.com
 0.0.0.0 pl-pl.es-la.id-id.prod.facebook.com
 0.0.0.0 pt-br.es-la.id-id.prod.facebook.com
 0.0.0.0 www.es-la.id-id.prod.facebook.com
@@ -12408,9 +12413,11 @@
 0.0.0.0 sv-se.hu-hu.id-id.prod.facebook.com
 0.0.0.0 www.hu-hu.id-id.prod.facebook.com
 0.0.0.0 zh-cn.hu-hu.id-id.prod.facebook.com
+0.0.0.0 hy-am.id-id.prod.facebook.com
 0.0.0.0 es-la.it-it.id-id.prod.facebook.com
 0.0.0.0 hi-in.it-it.id-id.prod.facebook.com
 0.0.0.0 www.it-it.id-id.prod.facebook.com
+0.0.0.0 ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.ar-ar.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.es-es.ja-jp.id-id.prod.facebook.com
 0.0.0.0 es-la.ja-jp.id-id.prod.facebook.com
@@ -12528,6 +12535,7 @@
 0.0.0.0 it-it.pt-pt.id-id.prod.facebook.com
 0.0.0.0 ro-ro.pt-pt.id-id.prod.facebook.com
 0.0.0.0 www.pt-pt.id-id.prod.facebook.com
+0.0.0.0 ro-ro.id-id.prod.facebook.com
 0.0.0.0 zh-cn.ro-ro.id-id.prod.facebook.com
 0.0.0.0 ar-ar.ru-ru.id-id.prod.facebook.com
 0.0.0.0 es-la.ru-ru.id-id.prod.facebook.com
@@ -12546,6 +12554,7 @@
 0.0.0.0 fr-fr.pt-br.zh-cn.id-id.prod.facebook.com
 0.0.0.0 zh-cn.pt-br.zh-cn.id-id.prod.facebook.com
 0.0.0.0 www.zh-cn.id-id.prod.facebook.com
+0.0.0.0 zh-tw.id-id.prod.facebook.com
 0.0.0.0 zpsrc6icrqj56k3yyp8gz.id-id.prod.facebook.com
 0.0.0.0 it-it.prod.facebook.com
 0.0.0.0 apps.it-it.prod.facebook.com
@@ -18324,7 +18333,6 @@
 0.0.0.0 external.flhr1-1.fna.fbcdn.net
 0.0.0.0 instagram.flhr1-1.fna.fbcdn.net
 0.0.0.0 instagram.flhr4-2.fna.fbcdn.net
-0.0.0.0 scontent.flhr4-2.fna.fbcdn.net
 0.0.0.0 external.flhr6-1.fna.fbcdn.net
 0.0.0.0 instagram.flhr6-1.fna.fbcdn.net
 0.0.0.0 video.flhr6-1.fna.fbcdn.net
