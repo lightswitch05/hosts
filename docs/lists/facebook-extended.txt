@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-05-23T01:05:20+00:00
-# Count: 21588 domains
+# Released: 2021-05-23T13:05:20+00:00
+# Count: 21586 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1524,7 +1524,6 @@
 0.0.0.0 edge-stun-shv-01-waw1.facebook.com
 0.0.0.0 edge-stun-shv-02-mia3.facebook.com
 0.0.0.0 edge-stun-shv-02-sin6.facebook.com
-0.0.0.0 edge-synthetic-e2e-dynamic-shv-01-tpe1.facebook.com
 0.0.0.0 edge-synthetic-e2e-dynamic-shv-02-gru1.facebook.com
 0.0.0.0 edge-tcp-tunnel-fbonly-shv-01-bru2.facebook.com
 0.0.0.0 edge-tcp-tunnel-fbonly-shv-01-dus1.facebook.com
@@ -14098,7 +14097,6 @@
 0.0.0.0 whatsapp-chatd-edge-shv-02-xsp1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-03-sin6.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-03-xsp1.facebook.com
-0.0.0.0 whatsapp-chatd-igd-edge-shv-01-lht6.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-edge-shv-01-atl3.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-edge-shv-01-sin6.facebook.com
 0.0.0.0 wistron.facebook.com
@@ -19408,7 +19406,6 @@
 0.0.0.0 instagram.fsap1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsap2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsaw1-1.fna.fbcdn.net
-0.0.0.0 scontent.fsaw1-1.fna.fbcdn.net
 0.0.0.0 external.fsaw1-10.fna.fbcdn.net
 0.0.0.0 instagram.fsaw1-10.fna.fbcdn.net
 0.0.0.0 scontent.fsaw1-10.fna.fbcdn.net
@@ -21231,6 +21228,7 @@
 0.0.0.0 media.fgau1-1.fna.whatsapp.net
 0.0.0.0 media.fgig14-1.fna.whatsapp.net
 0.0.0.0 media.fgru9-1.fna.whatsapp.net
+0.0.0.0 fgua7-1.fna.whatsapp.net
 0.0.0.0 media.fgum1-1.fna.whatsapp.net
 0.0.0.0 media.fgum2-1.fna.whatsapp.net
 0.0.0.0 media.fgvr3-1.fna.whatsapp.net
