@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-05-25T13:05:19+00:00
-# Count: 21566 domains
+# Released: 2021-05-26T01:05:19+00:00
+# Count: 21572 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -215,6 +215,7 @@
 0.0.0.0 video-cdg2-1.cdninstagram.com
 0.0.0.0 video-cdt1-1.cdninstagram.com
 0.0.0.0 video-cgk1-1.cdninstagram.com
+0.0.0.0 video-cph2-1.cdninstagram.com
 0.0.0.0 video-den4-1.cdninstagram.com
 0.0.0.0 video-dfw5-1.cdninstagram.com
 0.0.0.0 video-dfw5-2.cdninstagram.com
@@ -1497,6 +1498,7 @@
 0.0.0.0 edge-star-shv-01-lim1.facebook.com
 0.0.0.0 edge-star-shv-01-mia3.facebook.com
 0.0.0.0 edge-star-shv-01-mrs2.facebook.com
+0.0.0.0 edge-star-shv-01-mxp1.facebook.com
 0.0.0.0 edge-star-shv-01-prg1.facebook.com
 0.0.0.0 edge-star-shv-01-syd2.facebook.com
 0.0.0.0 edge-star-shv-01-tir2.facebook.com
@@ -1585,8 +1587,6 @@
 0.0.0.0 edge-z-p4-shv-02-maa2.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fbeg10.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fmaa1.facebook.com
-0.0.0.0 edgeray-fna-shv-01-fmnl18.facebook.com
-0.0.0.0 edgeray-fna-shv-01-fruh5.facebook.com
 0.0.0.0 edgeray-fna-shv-01-fsjo10.facebook.com
 0.0.0.0 edgeray-fna-shv-03-fmaa1.facebook.com
 0.0.0.0 edgeray-msgr-shv-01-lax3.facebook.com
@@ -2666,6 +2666,7 @@
 0.0.0.0 ar-ar.ro-ro.es-es.fbjs.facebook.com
 0.0.0.0 it-it.ro-ro.es-es.fbjs.facebook.com
 0.0.0.0 sk-sk.es-es.fbjs.facebook.com
+0.0.0.0 cs-cz.sk-sk.es-es.fbjs.facebook.com
 0.0.0.0 www.sr-rs.es-es.fbjs.facebook.com
 0.0.0.0 th-th.es-es.fbjs.facebook.com
 0.0.0.0 ar-ar.th-th.es-es.fbjs.facebook.com
@@ -2675,6 +2676,7 @@
 0.0.0.0 bg-bg.th-th.es-es.fbjs.facebook.com
 0.0.0.0 bn-in.th-th.es-es.fbjs.facebook.com
 0.0.0.0 bs-ba.th-th.es-es.fbjs.facebook.com
+0.0.0.0 www.bs-ba.th-th.es-es.fbjs.facebook.com
 0.0.0.0 ca-es.th-th.es-es.fbjs.facebook.com
 0.0.0.0 cs-cz.th-th.es-es.fbjs.facebook.com
 0.0.0.0 da-dk.th-th.es-es.fbjs.facebook.com
@@ -2691,6 +2693,7 @@
 0.0.0.0 de-de.fi-fi.th-th.es-es.fbjs.facebook.com
 0.0.0.0 fr-fr.fi-fi.th-th.es-es.fbjs.facebook.com
 0.0.0.0 ja-jp.fi-fi.th-th.es-es.fbjs.facebook.com
+0.0.0.0 m.fi-fi.th-th.es-es.fbjs.facebook.com
 0.0.0.0 www.fi-fi.th-th.es-es.fbjs.facebook.com
 0.0.0.0 zh-cn.fi-fi.th-th.es-es.fbjs.facebook.com
 0.0.0.0 fo-fo.th-th.es-es.fbjs.facebook.com
@@ -2714,6 +2717,7 @@
 0.0.0.0 pl-pl.hi-in.th-th.es-es.fbjs.facebook.com
 0.0.0.0 pt-br.hi-in.th-th.es-es.fbjs.facebook.com
 0.0.0.0 pt-pt.hi-in.th-th.es-es.fbjs.facebook.com
+0.0.0.0 ru-ru.hi-in.th-th.es-es.fbjs.facebook.com
 0.0.0.0 th-th.hi-in.th-th.es-es.fbjs.facebook.com
 0.0.0.0 www.hi-in.th-th.es-es.fbjs.facebook.com
 0.0.0.0 hr-hr.th-th.es-es.fbjs.facebook.com
@@ -5034,6 +5038,7 @@
 0.0.0.0 bg-bg.it-it.de-de.ro-ro.fbjs.facebook.com
 0.0.0.0 bs-ba.it-it.de-de.ro-ro.fbjs.facebook.com
 0.0.0.0 ca-es.it-it.de-de.ro-ro.fbjs.facebook.com
+0.0.0.0 cb-iq.it-it.de-de.ro-ro.fbjs.facebook.com
 0.0.0.0 cs-cz.it-it.de-de.ro-ro.fbjs.facebook.com
 0.0.0.0 cy-gb.it-it.de-de.ro-ro.fbjs.facebook.com
 0.0.0.0 da-dk.it-it.de-de.ro-ro.fbjs.facebook.com
@@ -6403,6 +6408,7 @@
 0.0.0.0 lv-lv.es-la.zh-cn.fbjs.facebook.com
 0.0.0.0 mk-mk.es-la.zh-cn.fbjs.facebook.com
 0.0.0.0 ml-in.es-la.zh-cn.fbjs.facebook.com
+0.0.0.0 www.ml-in.es-la.zh-cn.fbjs.facebook.com
 0.0.0.0 mr-in.es-la.zh-cn.fbjs.facebook.com
 0.0.0.0 ms-my.es-la.zh-cn.fbjs.facebook.com
 0.0.0.0 nb-no.es-la.zh-cn.fbjs.facebook.com
@@ -6671,6 +6677,7 @@
 0.0.0.0 fa-ir.es-la.zh-tw.fbjs.facebook.com
 0.0.0.0 fb-lt.es-la.zh-tw.fbjs.facebook.com
 0.0.0.0 fi-fi.es-la.zh-tw.fbjs.facebook.com
+0.0.0.0 es-la.fi-fi.es-la.zh-tw.fbjs.facebook.com
 0.0.0.0 www.fi-fi.es-la.zh-tw.fbjs.facebook.com
 0.0.0.0 fr-ca.es-la.zh-tw.fbjs.facebook.com
 0.0.0.0 fr-fr.es-la.zh-tw.fbjs.facebook.com
@@ -14672,6 +14679,7 @@
 0.0.0.0 fbindia.fb.com
 0.0.0.0 www.fbindia.fb.com
 0.0.0.0 feedback.fb.com
+0.0.0.0 fightcovidmisinfo.fb.com
 0.0.0.0 files.fb.com
 0.0.0.0 formation.fb.com
 0.0.0.0 www.formation.fb.com
@@ -15072,6 +15080,7 @@
 0.0.0.0 apps-172342127344938.apps.fbsbx.com
 0.0.0.0 apps-1749672481846056.apps.fbsbx.com
 0.0.0.0 apps-1750132475311905.apps.fbsbx.com
+0.0.0.0 www.apps-1750132475311905.apps.fbsbx.com
 0.0.0.0 apps-1758850267554925.apps.fbsbx.com
 0.0.0.0 apps-1766150917023645.apps.fbsbx.com
 0.0.0.0 www.apps-1766150917023645.apps.fbsbx.com
@@ -15437,6 +15446,7 @@
 0.0.0.0 apps-954609611577557.apps.fbsbx.com
 0.0.0.0 apps-964791783867019.apps.fbsbx.com
 0.0.0.0 apps-980450325667812.apps.fbsbx.com
+0.0.0.0 apps-1020669798466989.fbsbx.com
 0.0.0.0 apps-1100919010372332.fbsbx.com
 0.0.0.0 apps-1252085018527100.fbsbx.com
 0.0.0.0 apps-127036382702092.fbsbx.com
@@ -15510,6 +15520,7 @@
 0.0.0.0 apps-446422466744565.fbsbx.com
 0.0.0.0 apps-455329539062282.fbsbx.com
 0.0.0.0 apps-458479161987754.fbsbx.com
+0.0.0.0 apps-464946774585762.fbsbx.com
 0.0.0.0 apps-465469661571608.fbsbx.com
 0.0.0.0 apps-467841711131721.fbsbx.com
 0.0.0.0 apps-472444580747717.fbsbx.com
@@ -15522,6 +15533,7 @@
 0.0.0.0 apps-552447672060541.fbsbx.com
 0.0.0.0 apps-628773107751695.fbsbx.com
 0.0.0.0 apps-676978696322991.fbsbx.com
+0.0.0.0 apps-691194661532673.fbsbx.com
 0.0.0.0 apps-691439858393389.fbsbx.com
 0.0.0.0 apps-696666491213013.fbsbx.com
 0.0.0.0 apps-699660614255503.fbsbx.com
@@ -15555,6 +15567,7 @@
 0.0.0.0 apps-915436285932387.fbsbx.com
 0.0.0.0 apps-923434011761539.fbsbx.com
 0.0.0.0 apps-931201720982019.fbsbx.com
+0.0.0.0 apps-947332626094581.fbsbx.com
 0.0.0.0 apps-972169473287654.fbsbx.com
 0.0.0.0 apps-981290565723018.fbsbx.com
 0.0.0.0 apps-999265433814080.fbsbx.com
@@ -16880,6 +16893,7 @@
 0.0.0.0 edge-sonar-mini-shv-02-del1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-02-hkg4.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-02-hkt1.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-02-iad3.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-02-lhr8.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-02-mxp1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-02-sof1.fbcdn.net
@@ -19399,12 +19413,6 @@
 0.0.0.0 instagram.fsap1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsap2-1.fna.fbcdn.net
 0.0.0.0 instagram.fsaw1-1.fna.fbcdn.net
-0.0.0.0 external.fsaw1-10.fna.fbcdn.net
-0.0.0.0 instagram.fsaw1-10.fna.fbcdn.net
-0.0.0.0 scontent.fsaw1-10.fna.fbcdn.net
-0.0.0.0 sonar.fsaw1-10.fna.fbcdn.net
-0.0.0.0 video.fsaw1-10.fna.fbcdn.net
-0.0.0.0 z-p42-instagram.fsaw1-10.fna.fbcdn.net
 0.0.0.0 instagram.fsaw1-5.fna.fbcdn.net
 0.0.0.0 instagram.fsaw1-7.fna.fbcdn.net
 0.0.0.0 instagram.fsaw2-1.fna.fbcdn.net
@@ -21020,7 +21028,6 @@
 0.0.0.0 media.fagr1-1.fna.whatsapp.net
 0.0.0.0 media.fagr1-2.fna.whatsapp.net
 0.0.0.0 media.fagr2-1.fna.whatsapp.net
-0.0.0.0 faju13-1.fna.whatsapp.net
 0.0.0.0 media.faly2-1.fna.whatsapp.net
 0.0.0.0 media.famd1-1.fna.whatsapp.net
 0.0.0.0 media.famd1-2.fna.whatsapp.net
@@ -21425,7 +21432,6 @@
 0.0.0.0 media.fruh4-2.fna.whatsapp.net
 0.0.0.0 media.fruh4-3.fna.whatsapp.net
 0.0.0.0 media.fsac1-2.fna.whatsapp.net
-0.0.0.0 media.fsaw1-10.fna.whatsapp.net
 0.0.0.0 media.fsdv2-1.fna.whatsapp.net
 0.0.0.0 media.fsdv3-1.fna.whatsapp.net
 0.0.0.0 media.fsev1-1.fna.whatsapp.net
