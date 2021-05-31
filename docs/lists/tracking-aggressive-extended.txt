@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-05-31T01:05:20+00:00
-# Count: 50729 domains
+# Released: 2021-05-31T13:05:20+00:00
+# Count: 50744 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -8783,6 +8783,7 @@
 0.0.0.0 cunyhunter.qualtrics.com
 0.0.0.0 curtin.qualtrics.com
 0.0.0.0 cushwake.qualtrics.com
+0.0.0.0 customers.qualtrics.com
 0.0.0.0 customersatisfaction.qualtrics.com
 0.0.0.0 cuttingedge.qualtrics.com
 0.0.0.0 cwru.qualtrics.com
@@ -23751,12 +23752,19 @@
 0.0.0.0 electronics32.duckdns.org
 0.0.0.0 pihole.electronics32.duckdns.org
 0.0.0.0 electronik.duckdns.org
+0.0.0.0 bw.electronik.duckdns.org
+0.0.0.0 media.electronik.duckdns.org
 0.0.0.0 nc.electronik.duckdns.org
 0.0.0.0 nextcloud.electronik.duckdns.org
 0.0.0.0 npm.electronik.duckdns.org
+0.0.0.0 omv.electronik.duckdns.org
+0.0.0.0 portainer.electronik.duckdns.org
 0.0.0.0 pw.electronik.duckdns.org
 0.0.0.0 router.electronik.duckdns.org
+0.0.0.0 rpm.electronik.duckdns.org
+0.0.0.0 torr.electronik.duckdns.org
 0.0.0.0 torrent.electronik.duckdns.org
+0.0.0.0 wg.electronik.duckdns.org
 0.0.0.0 elektraal.duckdns.org
 0.0.0.0 elektronhome.duckdns.org
 0.0.0.0 elenlhome.duckdns.org
@@ -32746,6 +32754,7 @@
 0.0.0.0 kzell.duckdns.org
 0.0.0.0 kzk.duckdns.org
 0.0.0.0 grocy.kzk.duckdns.org
+0.0.0.0 home.kzk.duckdns.org
 0.0.0.0 irc.kzk.duckdns.org
 0.0.0.0 mail.kzk.duckdns.org
 0.0.0.0 movies.kzk.duckdns.org
@@ -38671,7 +38680,6 @@
 0.0.0.0 openvpn.omv666.duckdns.org
 0.0.0.0 portainer3.omv666.duckdns.org
 0.0.0.0 omvi.duckdns.org
-0.0.0.0 omvm34.duckdns.org
 0.0.0.0 omvmynas.duckdns.org
 0.0.0.0 omvnc.duckdns.org
 0.0.0.0 omvnixgeht.duckdns.org
@@ -38764,6 +38772,10 @@
 0.0.0.0 openrvdl.duckdns.org
 0.0.0.0 opensoft.duckdns.org
 0.0.0.0 opensourcegc.duckdns.org
+0.0.0.0 apps.opensourcegc.duckdns.org
+0.0.0.0 blog.opensourcegc.duckdns.org
+0.0.0.0 clickit.opensourcegc.duckdns.org
+0.0.0.0 cloud.opensourcegc.duckdns.org
 0.0.0.0 torrent.opensourcegc.duckdns.org
 0.0.0.0 openspace.duckdns.org
 0.0.0.0 opensprinkler-ai.duckdns.org
@@ -44084,6 +44096,9 @@
 0.0.0.0 sliti.duckdns.org
 0.0.0.0 sllam.duckdns.org
 0.0.0.0 sllc.duckdns.org
+0.0.0.0 ha.sllc.duckdns.org
+0.0.0.0 nas.sllc.duckdns.org
+0.0.0.0 nextcloud.sllc.duckdns.org
 0.0.0.0 slmshawn.duckdns.org
 0.0.0.0 sln12.duckdns.org
 0.0.0.0 jbtest.sln12.duckdns.org
