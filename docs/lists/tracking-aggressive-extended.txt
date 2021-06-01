@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-01T01:05:19+00:00
-# Count: 50858 domains
+# Released: 2021-06-01T13:05:21+00:00
+# Count: 50871 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -256,6 +256,7 @@
 0.0.0.0 caprogram.360.cn
 0.0.0.0 captcha.360.cn
 0.0.0.0 car.360.cn
+0.0.0.0 mqtt1.car.360.cn
 0.0.0.0 service.car.360.cn
 0.0.0.0 qa.service.car.360.cn
 0.0.0.0 cert.360.cn
@@ -6722,6 +6723,7 @@
 0.0.0.0 2831118.polldaddy.com
 0.0.0.0 359045.polldaddy.com
 0.0.0.0 391420.polldaddy.com
+0.0.0.0 5093520.polldaddy.com
 0.0.0.0 5655129.polldaddy.com
 0.0.0.0 8668049.polldaddy.com
 0.0.0.0 87427.polldaddy.com
@@ -6871,7 +6873,9 @@
 0.0.0.0 secure.polldaddy.com
 0.0.0.0 senleniani.polldaddy.com
 0.0.0.0 sheabunge.polldaddy.com
+0.0.0.0 shifthelpcenter.polldaddy.com
 0.0.0.0 solium.polldaddy.com
+0.0.0.0 stanfy.polldaddy.com
 0.0.0.0 static.polldaddy.com
 0.0.0.0 stats.polldaddy.com
 0.0.0.0 stonline.polldaddy.com
@@ -6895,6 +6899,7 @@
 0.0.0.0 venturebeat3.polldaddy.com
 0.0.0.0 viewpoints.polldaddy.com
 0.0.0.0 virgoevents.polldaddy.com
+0.0.0.0 wceurope.polldaddy.com
 0.0.0.0 wclondon.polldaddy.com
 0.0.0.0 weebly.polldaddy.com
 0.0.0.0 wordcampcentral.polldaddy.com
@@ -14841,7 +14846,6 @@
 0.0.0.0 webmail.58832.duckdns.org
 0.0.0.0 www.58832.duckdns.org
 0.0.0.0 58lincoln.duckdns.org
-0.0.0.0 5920hassio.duckdns.org
 0.0.0.0 5967.duckdns.org
 0.0.0.0 59c792eb-d182-499d-aa66-405401401ec3.duckdns.org
 0.0.0.0 59mallory.duckdns.org
@@ -16338,7 +16342,12 @@
 0.0.0.0 anunankis1.duckdns.org
 0.0.0.0 www.anunankis1.duckdns.org
 0.0.0.0 anup-home.duckdns.org
+0.0.0.0 asusrtr.anup-home.duckdns.org
+0.0.0.0 bitw.anup-home.duckdns.org
+0.0.0.0 hik.anup-home.duckdns.org
+0.0.0.0 nginx.anup-home.duckdns.org
 0.0.0.0 rtr1.anup-home.duckdns.org
+0.0.0.0 tplink.anup-home.duckdns.org
 0.0.0.0 anuraag.duckdns.org
 0.0.0.0 anusinocentral9.duckdns.org
 0.0.0.0 anyahome.duckdns.org
@@ -17319,6 +17328,7 @@
 0.0.0.0 home.basurto.duckdns.org
 0.0.0.0 omv.basurto.duckdns.org
 0.0.0.0 portainer.basurto.duckdns.org
+0.0.0.0 tasmota.basurto.duckdns.org
 0.0.0.0 bat-caverna.duckdns.org
 0.0.0.0 batally.duckdns.org
 0.0.0.0 batcaveonline.duckdns.org
@@ -20998,7 +21008,6 @@
 0.0.0.0 cordg017ws.duckdns.org
 0.0.0.0 cs.cordg017ws.duckdns.org
 0.0.0.0 jl.cordg017ws.duckdns.org
-0.0.0.0 core-chat.duckdns.org
 0.0.0.0 core-pass.duckdns.org
 0.0.0.0 core-server.duckdns.org
 0.0.0.0 core-sinj-flat.duckdns.org
@@ -21095,6 +21104,7 @@
 0.0.0.0 coward-hass.duckdns.org
 0.0.0.0 cowciuse.duckdns.org
 0.0.0.0 esphome.cowciuse.duckdns.org
+0.0.0.0 homebridge.cowciuse.duckdns.org
 0.0.0.0 lorex.cowciuse.duckdns.org
 0.0.0.0 node-red.cowciuse.duckdns.org
 0.0.0.0 tuxedo.cowciuse.duckdns.org
@@ -35762,6 +35772,8 @@
 0.0.0.0 octoprint2.mihassiokk.duckdns.org
 0.0.0.0 octossh.mihassiokk.duckdns.org
 0.0.0.0 plex.mihassiokk.duckdns.org
+0.0.0.0 pow1.mihassiokk.duckdns.org
+0.0.0.0 pow2.mihassiokk.duckdns.org
 0.0.0.0 putty.mihassiokk.duckdns.org
 0.0.0.0 tasmo.reles.mihassiokk.duckdns.org
 0.0.0.0 routertel.mihassiokk.duckdns.org
@@ -37172,7 +37184,6 @@
 0.0.0.0 nardetti.duckdns.org
 0.0.0.0 narkanalen.duckdns.org
 0.0.0.0 narolnej.duckdns.org
-0.0.0.0 narp.duckdns.org
 0.0.0.0 psono01-fileserver01.narshe.duckdns.org
 0.0.0.0 calibregui.narthall.duckdns.org
 0.0.0.0 calibreserver.narthall.duckdns.org
@@ -40165,6 +40176,7 @@
 0.0.0.0 lounge.plusultra.duckdns.org
 0.0.0.0 matrix.plusultra.duckdns.org
 0.0.0.0 mayan.plusultra.duckdns.org
+0.0.0.0 monica.plusultra.duckdns.org
 0.0.0.0 nextcloud.plusultra.duckdns.org
 0.0.0.0 openeats.plusultra.duckdns.org
 0.0.0.0 openeatsapi.plusultra.duckdns.org
@@ -49509,6 +49521,7 @@
 0.0.0.0 proxmox.zako-hass.duckdns.org
 0.0.0.0 ru.zako-hass.duckdns.org
 0.0.0.0 ruwebmin.zako-hass.duckdns.org
+0.0.0.0 test.zako-hass.duckdns.org
 0.0.0.0 webmin.zako-hass.duckdns.org
 0.0.0.0 wordpress.zako-hass.duckdns.org
 0.0.0.0 zakrom.duckdns.org
