@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-01T13:05:21+00:00
-# Count: 50871 domains
+# Released: 2021-06-02T01:05:28+00:00
+# Count: 50899 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -294,6 +294,7 @@
 0.0.0.0 ca.college.360.cn
 0.0.0.0 video.college.360.cn
 0.0.0.0 connect.360.cn
+0.0.0.0 open.connect.360.cn
 0.0.0.0 cp.360.cn
 0.0.0.0 s0.cp.360.cn
 0.0.0.0 crm.360.cn
@@ -643,7 +644,6 @@
 0.0.0.0 m.jifen.360.cn
 0.0.0.0 mobile.jifen.360.cn
 0.0.0.0 jijiu.360.cn
-0.0.0.0 jijiupan.360.cn
 0.0.0.0 jinrong.360.cn
 0.0.0.0 jishi.360.cn
 0.0.0.0 acc.jishi.360.cn
@@ -4679,6 +4679,7 @@
 0.0.0.0 challenge.flipboard.com
 0.0.0.0 cherry.flipboard.com
 0.0.0.0 contentpartnerships.flipboard.com
+0.0.0.0 docs.flipboard.com
 0.0.0.0 downloads.flipboard.com
 0.0.0.0 editor.flipboard.com
 0.0.0.0 email.flipboard.com
@@ -4714,6 +4715,7 @@
 0.0.0.0 magazines.flipboard.com
 0.0.0.0 mail.flipboard.com
 0.0.0.0 portal.flipboard.com
+0.0.0.0 press.flipboard.com
 0.0.0.0 prodfosho.flipboard.com
 0.0.0.0 publishers.flipboard.com
 0.0.0.0 s.flipboard.com
@@ -4736,6 +4738,7 @@
 0.0.0.0 ue-test.flipboard.com
 0.0.0.0 um-cdn.flipboard.com
 0.0.0.0 vote2018.flipboard.com
+0.0.0.0 webdev.flipboard.com
 0.0.0.0 webu-auth-beta.flipboard.com
 0.0.0.0 webu-beta.flipboard.com
 0.0.0.0 wiki.flipboard.com
@@ -5127,10 +5130,7 @@
 0.0.0.0 vonage.hellomedian.com
 0.0.0.0 www.hellomedian.com
 0.0.0.0 icanhazip.com
-0.0.0.0 1pv4.icanhazip.com
 0.0.0.0 4.icanhazip.com
-0.0.0.0 dedi3.de.icanhazip.com
-0.0.0.0 dedi4.de.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
 0.0.0.0 icanhazip-iad-1.icanhazip.com
 0.0.0.0 ipv4.icanhazip.com
@@ -7447,6 +7447,7 @@
 0.0.0.0 asuclas.qualtrics.com
 0.0.0.0 atlas.qualtrics.com
 0.0.0.0 atlasworld.qualtrics.com
+0.0.0.0 attresearch.qualtrics.com
 0.0.0.0 au1.qualtrics.com
 0.0.0.0 amazon.au1.qualtrics.com
 0.0.0.0 amazon29.au1.qualtrics.com
@@ -7514,6 +7515,7 @@
 0.0.0.0 axa.qualtrics.com
 0.0.0.0 az.qualtrics.com
 0.0.0.0 advocatehealth.az.qualtrics.com
+0.0.0.0 bwgstrategy.az.qualtrics.com
 0.0.0.0 globalknowledge.az.qualtrics.com
 0.0.0.0 az1.qualtrics.com
 0.0.0.0 4schools.az1.qualtrics.com
@@ -8038,6 +8040,7 @@
 0.0.0.0 alteryx.co1.qualtrics.com
 0.0.0.0 alticorinc.co1.qualtrics.com
 0.0.0.0 altoshaam.co1.qualtrics.com
+0.0.0.0 alvernia.co1.qualtrics.com
 0.0.0.0 amainsurance.co1.qualtrics.com
 0.0.0.0 amamarketing.co1.qualtrics.com
 0.0.0.0 amazonbr.co1.qualtrics.com
@@ -8048,6 +8051,7 @@
 0.0.0.0 americanchemical.co1.qualtrics.com
 0.0.0.0 americancrystalex.co1.qualtrics.com
 0.0.0.0 americanheart.co1.qualtrics.com
+0.0.0.0 americansystems.co1.qualtrics.com
 0.0.0.0 ameriprise.co1.qualtrics.com
 0.0.0.0 amerisbank.co1.qualtrics.com
 0.0.0.0 amerisourcebergencx.co1.qualtrics.com
@@ -8067,6 +8071,7 @@
 0.0.0.0 appdynamicsux.co1.qualtrics.com
 0.0.0.0 appstatepsych.co1.qualtrics.com
 0.0.0.0 apsu.co1.qualtrics.com
+0.0.0.0 apsva.co1.qualtrics.com
 0.0.0.0 apt.co1.qualtrics.com
 0.0.0.0 apubas.co1.qualtrics.com
 0.0.0.0 apuresearch.co1.qualtrics.com
@@ -8074,6 +8079,7 @@
 0.0.0.0 arcadia.co1.qualtrics.com
 0.0.0.0 arcadiau.co1.qualtrics.com
 0.0.0.0 architecture.co1.qualtrics.com
+0.0.0.0 archny.co1.qualtrics.com
 0.0.0.0 arizonacsbs.co1.qualtrics.com
 0.0.0.0 armstrongu.co1.qualtrics.com
 0.0.0.0 artsciuc.co1.qualtrics.com
@@ -8114,6 +8120,8 @@
 0.0.0.0 bates.co1.qualtrics.com
 0.0.0.0 bcfo.co1.qualtrics.com
 0.0.0.0 bclynch.co1.qualtrics.com
+0.0.0.0 bcmop.co1.qualtrics.com
+0.0.0.0 bcnursing.co1.qualtrics.com
 0.0.0.0 bcomnm.co1.qualtrics.com
 0.0.0.0 bcps.co1.qualtrics.com
 0.0.0.0 beaconhealth.co1.qualtrics.com
@@ -8156,6 +8164,8 @@
 0.0.0.0 bridgepoint.co1.qualtrics.com
 0.0.0.0 bridgestone.co1.qualtrics.com
 0.0.0.0 bridgewater.co1.qualtrics.com
+0.0.0.0 brightline.co1.qualtrics.com
+0.0.0.0 brightonbusiness.co1.qualtrics.com
 0.0.0.0 brinker.co1.qualtrics.com
 0.0.0.0 brockport.co1.qualtrics.com
 0.0.0.0 brookeshls.co1.qualtrics.com
@@ -8163,6 +8173,7 @@
 0.0.0.0 www.brookeside.co1.qualtrics.com
 0.0.0.0 broward.co1.qualtrics.com
 0.0.0.0 brown.co1.qualtrics.com
+0.0.0.0 brunswickgroup.co1.qualtrics.com
 0.0.0.0 brynmawrschool.co1.qualtrics.com
 0.0.0.0 bsa.co1.qualtrics.com
 0.0.0.0 bucknell.co1.qualtrics.com
@@ -8189,6 +8200,7 @@
 0.0.0.0 canisius.co1.qualtrics.com
 0.0.0.0 cardinalhealth.co1.qualtrics.com
 0.0.0.0 carletonpsych.co1.qualtrics.com
+0.0.0.0 carnegiefoundation.co1.qualtrics.com
 0.0.0.0 cas.co1.qualtrics.com
 0.0.0.0 cassatsc.co1.qualtrics.com
 0.0.0.0 catalysthcr.co1.qualtrics.com
@@ -8234,11 +8246,15 @@
 0.0.0.0 citiboces.co1.qualtrics.com
 0.0.0.0 citizensmortgage.co1.qualtrics.com
 0.0.0.0 citrix.co1.qualtrics.com
+0.0.0.0 cityofloganville.co1.qualtrics.com
 0.0.0.0 cityofmedford.co1.qualtrics.com
+0.0.0.0 cke.co1.qualtrics.com
 0.0.0.0 clackamas.co1.qualtrics.com
 0.0.0.0 claremontmckenna.co1.qualtrics.com
+0.0.0.0 clarkhealthdept.co1.qualtrics.com
 0.0.0.0 clarku.co1.qualtrics.com
 0.0.0.0 clayton.co1.qualtrics.com
+0.0.0.0 clemsoneducation.co1.qualtrics.com
 0.0.0.0 clemsonia.co1.qualtrics.com
 0.0.0.0 clinicalresearch.co1.qualtrics.com
 0.0.0.0 clozd.co1.qualtrics.com
@@ -8248,6 +8264,7 @@
 0.0.0.0 cnbcux.co1.qualtrics.com
 0.0.0.0 cocc.co1.qualtrics.com
 0.0.0.0 cochise.co1.qualtrics.com
+0.0.0.0 codesixfour.co1.qualtrics.com
 0.0.0.0 codmva.co1.qualtrics.com
 0.0.0.0 coeccc.co1.qualtrics.com
 0.0.0.0 coeuh.co1.qualtrics.com
@@ -8262,6 +8279,7 @@
 0.0.0.0 columbiactl.co1.qualtrics.com
 0.0.0.0 columbiahealth.co1.qualtrics.com
 0.0.0.0 columbiangwu.co1.qualtrics.com
+0.0.0.0 columbiataa.co1.qualtrics.com
 0.0.0.0 columbuslibrary.co1.qualtrics.com
 0.0.0.0 columbustech.co1.qualtrics.com
 0.0.0.0 comixology.co1.qualtrics.com
@@ -8285,6 +8303,8 @@
 0.0.0.0 cpcsd.co1.qualtrics.com
 0.0.0.0 cpicardgroup.co1.qualtrics.com
 0.0.0.0 cptc.co1.qualtrics.com
+0.0.0.0 crasurvey.co1.qualtrics.com
+0.0.0.0 creminelli.co1.qualtrics.com
 0.0.0.0 criver.co1.qualtrics.com
 0.0.0.0 csaresearch.co1.qualtrics.com
 0.0.0.0 csbsutah.co1.qualtrics.com
@@ -8299,6 +8319,7 @@
 0.0.0.0 csumb.co1.qualtrics.com
 0.0.0.0 csunbusiness.co1.qualtrics.com
 0.0.0.0 csus.co1.qualtrics.com
+0.0.0.0 csusaccce.co1.qualtrics.com
 0.0.0.0 csuscba.co1.qualtrics.com
 0.0.0.0 csusm.co1.qualtrics.com
 0.0.0.0 csustan.co1.qualtrics.com
@@ -8331,6 +8352,7 @@
 0.0.0.0 dekalb.co1.qualtrics.com
 0.0.0.0 denison.co1.qualtrics.com
 0.0.0.0 designworkshop.co1.qualtrics.com
+0.0.0.0 destinationhomes.co1.qualtrics.com
 0.0.0.0 developmentci.co1.qualtrics.com
 0.0.0.0 diabetesdaily.co1.qualtrics.com
 0.0.0.0 dickinson.co1.qualtrics.com
@@ -8352,6 +8374,7 @@
 0.0.0.0 douglasesd.co1.qualtrics.com
 0.0.0.0 dowagro.co1.qualtrics.com
 0.0.0.0 dowjonessurveys.co1.qualtrics.com
+0.0.0.0 downstate.co1.qualtrics.com
 0.0.0.0 dphsbcounty.co1.qualtrics.com
 0.0.0.0 dpsk12.co1.qualtrics.com
 0.0.0.0 dqa.co1.qualtrics.com
@@ -8359,8 +8382,10 @@
 0.0.0.0 drhorton.co1.qualtrics.com
 0.0.0.0 driscolls.co1.qualtrics.com
 0.0.0.0 dsipher.co1.qualtrics.com
+0.0.0.0 dtcc.co1.qualtrics.com
 0.0.0.0 dufferinpeelcatholic.co1.qualtrics.com
 0.0.0.0 dukeenergy.co1.qualtrics.com
+0.0.0.0 durhamcvb.co1.qualtrics.com
 0.0.0.0 durhamvcb.co1.qualtrics.com
 0.0.0.0 dvu.co1.qualtrics.com
 0.0.0.0 eaca.co1.qualtrics.com
@@ -9218,6 +9243,7 @@
 0.0.0.0 healthmavens.qualtrics.com
 0.0.0.0 healthresearch1.qualtrics.com
 0.0.0.0 herffjones.qualtrics.com
+0.0.0.0 hermeshears.qualtrics.com
 0.0.0.0 hhs.qualtrics.com
 0.0.0.0 hillsbank.qualtrics.com
 0.0.0.0 hiupsylab.qualtrics.com
@@ -9250,6 +9276,7 @@
 0.0.0.0 hwsml.qualtrics.com
 0.0.0.0 iad1.qualtrics.com
 0.0.0.0 3rphd.iad1.qualtrics.com
+0.0.0.0 aafa.iad1.qualtrics.com
 0.0.0.0 aaupresearch.iad1.qualtrics.com
 0.0.0.0 abcnational.iad1.qualtrics.com
 0.0.0.0 abconsulting.iad1.qualtrics.com
@@ -9288,9 +9315,11 @@
 0.0.0.0 benchprep.iad1.qualtrics.com
 0.0.0.0 bentleysystems.iad1.qualtrics.com
 0.0.0.0 bigeye.iad1.qualtrics.com
+0.0.0.0 bistatedev.iad1.qualtrics.com
 0.0.0.0 blackbox.iad1.qualtrics.com
 0.0.0.0 blackrockdigital.iad1.qualtrics.com
 0.0.0.0 blueskyagency.iad1.qualtrics.com
+0.0.0.0 bmedia.iad1.qualtrics.com
 0.0.0.0 bncollege.iad1.qualtrics.com
 0.0.0.0 brandingiron.iad1.qualtrics.com
 0.0.0.0 breg.iad1.qualtrics.com
@@ -9326,6 +9355,7 @@
 0.0.0.0 citcx.iad1.qualtrics.com
 0.0.0.0 cityofgainesville.iad1.qualtrics.com
 0.0.0.0 clarivatecx.iad1.qualtrics.com
+0.0.0.0 cmsd.iad1.qualtrics.com
 0.0.0.0 cmshr.iad1.qualtrics.com
 0.0.0.0 cocacolacandb.iad1.qualtrics.com
 0.0.0.0 columbiasd.iad1.qualtrics.com
@@ -9353,9 +9383,12 @@
 0.0.0.0 dshstx.iad1.qualtrics.com
 0.0.0.0 dui.iad1.qualtrics.com
 0.0.0.0 dyc.iad1.qualtrics.com
+0.0.0.0 easternct.iad1.qualtrics.com
+0.0.0.0 eastersealsnj.iad1.qualtrics.com
 0.0.0.0 eddyalexander.iad1.qualtrics.com
 0.0.0.0 ehp.iad1.qualtrics.com
 0.0.0.0 elementfleet.iad1.qualtrics.com
+0.0.0.0 elizabeth.iad1.qualtrics.com
 0.0.0.0 emeritussurveys.iad1.qualtrics.com
 0.0.0.0 emorylibraries.iad1.qualtrics.com
 0.0.0.0 emoryuniv.iad1.qualtrics.com
@@ -9405,8 +9438,10 @@
 0.0.0.0 honeywellmarketing.iad1.qualtrics.com
 0.0.0.0 hope4college.iad1.qualtrics.com
 0.0.0.0 horacemanncovid.iad1.qualtrics.com
+0.0.0.0 horizonsolutions.iad1.qualtrics.com
 0.0.0.0 hria.iad1.qualtrics.com
 0.0.0.0 iabmarketing.iad1.qualtrics.com
+0.0.0.0 ibr.iad1.qualtrics.com
 0.0.0.0 icfinternational.iad1.qualtrics.com
 0.0.0.0 icfyae.iad1.qualtrics.com
 0.0.0.0 ier.iad1.qualtrics.com
@@ -9459,6 +9494,7 @@
 0.0.0.0 mediamath.iad1.qualtrics.com
 0.0.0.0 medspeed.iad1.qualtrics.com
 0.0.0.0 meskwakination.iad1.qualtrics.com
+0.0.0.0 messer.iad1.qualtrics.com
 0.0.0.0 mhahouston.iad1.qualtrics.com
 0.0.0.0 midfirstbank.iad1.qualtrics.com
 0.0.0.0 mindwire.iad1.qualtrics.com
@@ -9474,6 +9510,7 @@
 0.0.0.0 muscogee.iad1.qualtrics.com
 0.0.0.0 mutualofamerica.iad1.qualtrics.com
 0.0.0.0 mypar.iad1.qualtrics.com
+0.0.0.0 nace.iad1.qualtrics.com
 0.0.0.0 nationalcatholicedu.iad1.qualtrics.com
 0.0.0.0 nbcsportsresearch.iad1.qualtrics.com
 0.0.0.0 nbeo.iad1.qualtrics.com
@@ -9493,6 +9530,7 @@
 0.0.0.0 nscsurveys.iad1.qualtrics.com
 0.0.0.0 nsre.iad1.qualtrics.com
 0.0.0.0 nssepulse.iad1.qualtrics.com
+0.0.0.0 nsugradstudies.iad1.qualtrics.com
 0.0.0.0 nycminsurance.iad1.qualtrics.com
 0.0.0.0 nysedcharter.iad1.qualtrics.com
 0.0.0.0 ohiosupremecourt.iad1.qualtrics.com
@@ -9508,6 +9546,7 @@
 0.0.0.0 payitforwardlive.iad1.qualtrics.com
 0.0.0.0 pcaob.iad1.qualtrics.com
 0.0.0.0 pennsbury.iad1.qualtrics.com
+0.0.0.0 perkinswill.iad1.qualtrics.com
 0.0.0.0 phietasigma.iad1.qualtrics.com
 0.0.0.0 phlpublichealth.iad1.qualtrics.com
 0.0.0.0 phoebe.iad1.qualtrics.com
@@ -9522,6 +9561,8 @@
 0.0.0.0 psba2.iad1.qualtrics.com
 0.0.0.0 pyxera.iad1.qualtrics.com
 0.0.0.0 qcjoan.iad1.qualtrics.com
+0.0.0.0 qxm.iad1.qualtrics.com
+0.0.0.0 rackspacecx.iad1.qualtrics.com
 0.0.0.0 racsback2school.iad1.qualtrics.com
 0.0.0.0 radnor.iad1.qualtrics.com
 0.0.0.0 redventures.iad1.qualtrics.com
@@ -9529,6 +9570,7 @@
 0.0.0.0 research3.iad1.qualtrics.com
 0.0.0.0 research919.iad1.qualtrics.com
 0.0.0.0 rfi.iad1.qualtrics.com
+0.0.0.0 richland1.iad1.qualtrics.com
 0.0.0.0 rickinsonmarketing.iad1.qualtrics.com
 0.0.0.0 rockedu.iad1.qualtrics.com
 0.0.0.0 rotor.iad1.qualtrics.com
@@ -9566,6 +9608,7 @@
 0.0.0.0 supportspotify.iad1.qualtrics.com
 0.0.0.0 survey.iad1.qualtrics.com
 0.0.0.0 www.survey.iad1.qualtrics.com
+0.0.0.0 susangkomen.iad1.qualtrics.com
 0.0.0.0 sxu.iad1.qualtrics.com
 0.0.0.0 t1d.iad1.qualtrics.com
 0.0.0.0 tapestry.iad1.qualtrics.com
@@ -9574,6 +9617,7 @@
 0.0.0.0 teamsportsmarketing.iad1.qualtrics.com
 0.0.0.0 teaneck1.iad1.qualtrics.com
 0.0.0.0 tenafly.iad1.qualtrics.com
+0.0.0.0 thereflectorg.iad1.qualtrics.com
 0.0.0.0 thevisioncouncil.iad1.qualtrics.com
 0.0.0.0 tikvah.iad1.qualtrics.com
 0.0.0.0 tiu.iad1.qualtrics.com
@@ -9581,6 +9625,7 @@
 0.0.0.0 tnpca.iad1.qualtrics.com
 0.0.0.0 townofdavie.iad1.qualtrics.com
 0.0.0.0 tranetechnologies.iad1.qualtrics.com
+0.0.0.0 trdigital.iad1.qualtrics.com
 0.0.0.0 trefnycenter.iad1.qualtrics.com
 0.0.0.0 trimble.iad1.qualtrics.com
 0.0.0.0 turnaround.iad1.qualtrics.com
@@ -11984,6 +12029,7 @@
 0.0.0.0 file.spyhuman.com
 0.0.0.0 fldwnl.spyhuman.com
 0.0.0.0 help.spyhuman.com
+0.0.0.0 img.help.spyhuman.com
 0.0.0.0 r.help.spyhuman.com
 0.0.0.0 hermes.spyhuman.com
 0.0.0.0 hfhytfykjlikhreswste.spyhuman.com
@@ -15922,7 +15968,6 @@
 0.0.0.0 amazon-scuremanager.duckdns.org
 0.0.0.0 amazon-signin-871m1ng1231-156.duckdns.org
 0.0.0.0 amazon-signin-871rabsz1-172.duckdns.org
-0.0.0.0 amazon-signin-871s3lasa1231-150.duckdns.org
 0.0.0.0 amazon-signin-871s4btu31-181.duckdns.org
 0.0.0.0 amazon-signin-871selasa21-166.duckdns.org
 0.0.0.0 amazon-signin-871selasa21-170.duckdns.org
@@ -16002,11 +16047,8 @@
 0.0.0.0 amurphy.duckdns.org
 0.0.0.0 amyhome98.duckdns.org
 0.0.0.0 amyshouse.duckdns.org
-0.0.0.0 amz-updatedetails240.duckdns.org
-0.0.0.0 amz0n-verifysytemtae.duckdns.org
 0.0.0.0 amzn-fr-signin-871senen21-155.duckdns.org
 0.0.0.0 amzn-qokz.duckdns.org
-0.0.0.0 amzn-signin-871sen1nv266.duckdns.org
 0.0.0.0 amzon-signin-8194r4bz423.duckdns.org
 0.0.0.0 amzon-signin-8712r4b890.duckdns.org
 0.0.0.0 amzreliefpandemivservicedeutchelpegerman.duckdns.org
@@ -20098,7 +20140,6 @@
 0.0.0.0 mail.chatonline01.duckdns.org
 0.0.0.0 www.chatonline01.duckdns.org
 0.0.0.0 chatsswhatssap.duckdns.org
-0.0.0.0 chatswhatsappgroupasyek.duckdns.org
 0.0.0.0 chatt-whtssapgrs.duckdns.org
 0.0.0.0 chattin.duckdns.org
 0.0.0.0 chattwhatsappakuenak.duckdns.org
@@ -20452,7 +20493,6 @@
 0.0.0.0 claim-new-itemold99.duckdns.org
 0.0.0.0 claim-newfreefire2021.duckdns.org
 0.0.0.0 claim-newskinmlbb2342.duckdns.org
-0.0.0.0 claimbundleoldgratis.duckdns.org
 0.0.0.0 claimcrate.duckdns.org
 0.0.0.0 claimdiamondff6196.duckdns.org
 0.0.0.0 claimeventfree.duckdns.org
@@ -20715,7 +20755,6 @@
 0.0.0.0 codashop-2k21new.duckdns.org
 0.0.0.0 codashop-bug-diamond-ff.duckdns.org
 0.0.0.0 codashop-bug-diamond-freefire5588.duckdns.org
-0.0.0.0 codashop-bug-neww-top-up-gratis-2021.duckdns.org
 0.0.0.0 codashop-bugdimaond-freefire.duckdns.org
 0.0.0.0 cpcontacts.codashop-bugdimaond-freefire.duckdns.org
 0.0.0.0 www.codashop-bugdimaond-freefire.duckdns.org
@@ -21706,7 +21745,6 @@
 0.0.0.0 dash-8.duckdns.org
 0.0.0.0 dash-lms.duckdns.org
 0.0.0.0 dashalarm.duckdns.org
-0.0.0.0 dashboard-secure08duserauth.duckdns.org
 0.0.0.0 dashboard-vmgil.duckdns.org
 0.0.0.0 grafana.docker-grafana.dashboard-vmgil.duckdns.org
 0.0.0.0 influxdb.docker-grafana.dashboard-vmgil.duckdns.org
@@ -23968,7 +24006,6 @@
 0.0.0.0 emrmlk.duckdns.org
 0.0.0.0 emucovers.duckdns.org
 0.0.0.0 emutor2.duckdns.org
-0.0.0.0 en-amazonpageserv.duckdns.org
 0.0.0.0 en0046ha.duckdns.org
 0.0.0.0 enasecurity.duckdns.org
 0.0.0.0 encont.duckdns.org
@@ -24738,7 +24775,6 @@
 0.0.0.0 fdaruos.duckdns.org
 0.0.0.0 fddiscoming.duckdns.org
 0.0.0.0 fde06efaf57c164f6e87.duckdns.org
-0.0.0.0 fdgfcv.duckdns.org
 0.0.0.0 www.fdgfcv.duckdns.org
 0.0.0.0 fdgfdsf.duckdns.org
 0.0.0.0 fdigdjdh5dhd584dh.duckdns.org
@@ -24769,7 +24805,6 @@
 0.0.0.0 fearfect.duckdns.org
 0.0.0.0 fearzozlocal.duckdns.org
 0.0.0.0 febo7011.duckdns.org
-0.0.0.0 feccebookkonfirmasi.duckdns.org
 0.0.0.0 fedegcasa.duckdns.org
 0.0.0.0 fedegiobbe.duckdns.org
 0.0.0.0 fedemota.duckdns.org
@@ -28591,7 +28626,6 @@
 0.0.0.0 hillmeade.duckdns.org
 0.0.0.0 hillsideprairie.duckdns.org
 0.0.0.0 hillsmarthome.duckdns.org
-0.0.0.0 hima2.duckdns.org
 0.0.0.0 himeros.duckdns.org
 0.0.0.0 hingley.duckdns.org
 0.0.0.0 hinkey.duckdns.org
@@ -30420,7 +30454,6 @@
 0.0.0.0 jamesmr2021.duckdns.org
 0.0.0.0 jamesnextcloud.duckdns.org
 0.0.0.0 jamesnichols.duckdns.org
-0.0.0.0 jametkuy.duckdns.org
 0.0.0.0 jamietre.duckdns.org
 0.0.0.0 jamila1709.duckdns.org
 0.0.0.0 wallabag.jamisonkissh.duckdns.org
@@ -37723,7 +37756,6 @@
 0.0.0.0 newcore-02.duckdns.org
 0.0.0.0 newcoyote.duckdns.org
 0.0.0.0 newelley.duckdns.org
-0.0.0.0 neweventml21.duckdns.org
 0.0.0.0 newfiebeeker.duckdns.org
 0.0.0.0 newfreelarunda.duckdns.org
 0.0.0.0 newgisss.duckdns.org
@@ -37740,7 +37772,6 @@
 0.0.0.0 newratanas.duckdns.org
 0.0.0.0 newsify.duckdns.org
 0.0.0.0 newstone.duckdns.org
-0.0.0.0 newsupdate07d-supservice.duckdns.org
 0.0.0.0 newswe.duckdns.org
 0.0.0.0 newsystemlaunchwithnewmethodforserverfil.duckdns.org
 0.0.0.0 newtamilrocker.duckdns.org
@@ -39451,7 +39482,6 @@
 0.0.0.0 www.paypai-com-de-signin-71sel16-142.duckdns.org
 0.0.0.0 paypai-com-de-signin-91jum3-142.duckdns.org
 0.0.0.0 mail.paypai-com-de-signin-91jum3-142.duckdns.org
-0.0.0.0 paypor-tal-16.duckdns.org
 0.0.0.0 paywalledrecipes.duckdns.org
 0.0.0.0 pazer.duckdns.org
 0.0.0.0 pazo55.duckdns.org
@@ -43217,7 +43247,6 @@
 0.0.0.0 cpcalendars.secure03b-support.duckdns.org
 0.0.0.0 secure03b-users-info-auth.duckdns.org
 0.0.0.0 cpcontacts.secure03b-users-info-auth.duckdns.org
-0.0.0.0 secure03d-verification.duckdns.org
 0.0.0.0 secure05ac-chaseonline-dashboard.duckdns.org
 0.0.0.0 mail.secure05ac-chaseonline-dashboard.duckdns.org
 0.0.0.0 www.secure05ac-chaseonline-dashboard.duckdns.org
@@ -45656,7 +45685,6 @@
 0.0.0.0 tatoh.duckdns.org
 0.0.0.0 tatoonie.duckdns.org
 0.0.0.0 tvheadend.tatoonie.duckdns.org
-0.0.0.0 tatsh.duckdns.org
 0.0.0.0 tatter.duckdns.org
 0.0.0.0 taub.duckdns.org
 0.0.0.0 tauberhome.duckdns.org
