@@ -1,5 +1,5 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-05T01:05:21+00:00
+# Released: 2021-06-05T13:05:21+00:00
 # Count: 50980 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -1249,7 +1249,6 @@
 0.0.0.0 admin.union.360.cn
 0.0.0.0 open.union.360.cn
 0.0.0.0 s.union.360.cn
-0.0.0.0 s-b.union.360.cn
 0.0.0.0 stat-b.union.360.cn
 0.0.0.0 v.union.360.cn
 0.0.0.0 university.360.cn
@@ -14846,6 +14845,7 @@
 0.0.0.0 44unit.duckdns.org
 0.0.0.0 44x2.duckdns.org
 0.0.0.0 460med.duckdns.org
+0.0.0.0 pfsense.460med.duckdns.org
 0.0.0.0 4632.duckdns.org
 0.0.0.0 4670balsam.duckdns.org
 0.0.0.0 46cc.duckdns.org
@@ -15750,7 +15750,6 @@
 0.0.0.0 alexathome.duckdns.org
 0.0.0.0 alexbica.duckdns.org
 0.0.0.0 alexcloud2002.duckdns.org
-0.0.0.0 alexdha.duckdns.org
 0.0.0.0 alexfish.duckdns.org
 0.0.0.0 alexfo.duckdns.org
 0.0.0.0 alexhassio-415.duckdns.org
@@ -18011,6 +18010,7 @@
 0.0.0.0 plex.bigwolf2000.duckdns.org
 0.0.0.0 prom.bigwolf2000.duckdns.org
 0.0.0.0 prox.bigwolf2000.duckdns.org
+0.0.0.0 sea-seafile.bigwolf2000.duckdns.org
 0.0.0.0 seafile.bigwolf2000.duckdns.org
 0.0.0.0 seite.bigwolf2000.duckdns.org
 0.0.0.0 shiori.bigwolf2000.duckdns.org
@@ -31167,7 +31167,6 @@
 0.0.0.0 joinff18.duckdns.org
 0.0.0.0 joingroupwafdw.duckdns.org
 0.0.0.0 joingrub-bokep-watssapp.duckdns.org
-0.0.0.0 www.joingrub-bokep-watssapp.duckdns.org
 0.0.0.0 joingrub-bokepwa1.duckdns.org
 0.0.0.0 cpcalendars.joingrub-bokepwa1.duckdns.org
 0.0.0.0 joingrub-whatsappdewasa.duckdns.org
@@ -37207,7 +37206,6 @@
 0.0.0.0 nagios64.duckdns.org
 0.0.0.0 nagys.duckdns.org
 0.0.0.0 naib.duckdns.org
-0.0.0.0 naierprox.duckdns.org
 0.0.0.0 naii.duckdns.org
 0.0.0.0 nais.duckdns.org
 0.0.0.0 najixtautulli.duckdns.org
@@ -37925,7 +37923,6 @@
 0.0.0.0 ngtrphuong.duckdns.org
 0.0.0.0 nguyenbitwarden.duckdns.org
 0.0.0.0 nguyenblog.duckdns.org
-0.0.0.0 nguyendinhlong8687.duckdns.org
 0.0.0.0 nguyenha.duckdns.org
 0.0.0.0 nguyenhai.duckdns.org
 0.0.0.0 nguyenlife.duckdns.org
@@ -47362,10 +47359,12 @@
 0.0.0.0 user7er0.duckdns.org
 0.0.0.0 cloud.user7er0.duckdns.org
 0.0.0.0 git.user7er0.duckdns.org
+0.0.0.0 homeassistant.user7er0.duckdns.org
 0.0.0.0 jackett.user7er0.duckdns.org
 0.0.0.0 jelly.user7er0.duckdns.org
 0.0.0.0 jellyfin.user7er0.duckdns.org
 0.0.0.0 lidarr.user7er0.duckdns.org
+0.0.0.0 motioneye.user7er0.duckdns.org
 0.0.0.0 radarr.user7er0.duckdns.org
 0.0.0.0 shinobi.user7er0.duckdns.org
 0.0.0.0 sonarr.user7er0.duckdns.org
@@ -47901,6 +47900,7 @@
 0.0.0.0 data.fazenda.vladn.duckdns.org
 0.0.0.0 grafana.fazenda.vladn.duckdns.org
 0.0.0.0 nr.fazenda.vladn.duckdns.org
+0.0.0.0 unifi.fazenda.vladn.duckdns.org
 0.0.0.0 vscode.fazenda.vladn.duckdns.org
 0.0.0.0 ha1.vladn.duckdns.org
 0.0.0.0 ha2.vladn.duckdns.org
