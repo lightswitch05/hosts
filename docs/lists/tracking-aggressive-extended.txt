@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-05T13:05:21+00:00
-# Count: 50980 domains
+# Released: 2021-06-06T01:05:20+00:00
+# Count: 51001 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -9931,6 +9931,7 @@
 0.0.0.0 mslc.qualtrics.com
 0.0.0.0 msloc.qualtrics.com
 0.0.0.0 msoe.qualtrics.com
+0.0.0.0 mspanel.qualtrics.com
 0.0.0.0 mspcovdsl.qualtrics.com
 0.0.0.0 mst.qualtrics.com
 0.0.0.0 msu.qualtrics.com
@@ -11908,6 +11909,7 @@
 0.0.0.0 wsbe.qualtrics.com
 0.0.0.0 wsu.qualtrics.com
 0.0.0.0 www.wsu.qualtrics.com
+0.0.0.0 wur.qualtrics.com
 0.0.0.0 wustl.qualtrics.com
 0.0.0.0 wustlbusiness360.qualtrics.com
 0.0.0.0 wvu.qualtrics.com
@@ -20073,7 +20075,6 @@
 0.0.0.0 cpcontacts.chase-04-secure07.duckdns.org
 0.0.0.0 chase-account-manager-com.duckdns.org
 0.0.0.0 webmail.chase-account-manager-com.duckdns.org
-0.0.0.0 chase-online.duckdns.org
 0.0.0.0 chase-online-user0b2.duckdns.org
 0.0.0.0 chase-secure03b.duckdns.org
 0.0.0.0 mail.chase-secure03b.duckdns.org
@@ -23876,19 +23877,26 @@
 0.0.0.0 electronics32.duckdns.org
 0.0.0.0 pihole.electronics32.duckdns.org
 0.0.0.0 electronik.duckdns.org
+0.0.0.0 board.electronik.duckdns.org
 0.0.0.0 bw.electronik.duckdns.org
+0.0.0.0 dash.electronik.duckdns.org
 0.0.0.0 media.electronik.duckdns.org
+0.0.0.0 mon.electronik.duckdns.org
+0.0.0.0 monitor.electronik.duckdns.org
 0.0.0.0 nc.electronik.duckdns.org
 0.0.0.0 nextcloud.electronik.duckdns.org
 0.0.0.0 npm.electronik.duckdns.org
 0.0.0.0 omv.electronik.duckdns.org
+0.0.0.0 pm.electronik.duckdns.org
 0.0.0.0 portainer.electronik.duckdns.org
 0.0.0.0 pw.electronik.duckdns.org
+0.0.0.0 pw2.electronik.duckdns.org
 0.0.0.0 router.electronik.duckdns.org
 0.0.0.0 rpm.electronik.duckdns.org
 0.0.0.0 torr.electronik.duckdns.org
 0.0.0.0 torrent.electronik.duckdns.org
 0.0.0.0 wg.electronik.duckdns.org
+0.0.0.0 ytdl.electronik.duckdns.org
 0.0.0.0 elektraal.duckdns.org
 0.0.0.0 elektronhome.duckdns.org
 0.0.0.0 elenlhome.duckdns.org
@@ -31008,6 +31016,7 @@
 0.0.0.0 jmaloney.duckdns.org
 0.0.0.0 jmartosb.duckdns.org
 0.0.0.0 ds.jmartosb.duckdns.org
+0.0.0.0 vu.jmartosb.duckdns.org
 0.0.0.0 jmaweb.duckdns.org
 0.0.0.0 jmbe.duckdns.org
 0.0.0.0 jmbello-viens.duckdns.org
@@ -32531,6 +32540,7 @@
 0.0.0.0 aguardo.koizo.duckdns.org
 0.0.0.0 nodered.koizo.duckdns.org
 0.0.0.0 pimatic.koizo.duckdns.org
+0.0.0.0 traccar.koizo.duckdns.org
 0.0.0.0 vault.koizo.duckdns.org
 0.0.0.0 webmin.koizo.duckdns.org
 0.0.0.0 kokkinos.duckdns.org
@@ -36593,6 +36603,7 @@
 0.0.0.0 mpekxerdwu.duckdns.org
 0.0.0.0 www.mpekxerdwu.duckdns.org
 0.0.0.0 mpercivaldi.duckdns.org
+0.0.0.0 gitlab.mpercivaldi.duckdns.org
 0.0.0.0 nextcloud.mpercivaldi.duckdns.org
 0.0.0.0 mperg70.duckdns.org
 0.0.0.0 mpha.duckdns.org
@@ -38023,6 +38034,7 @@
 0.0.0.0 niflheimsnetwork.duckdns.org
 0.0.0.0 niggipi.duckdns.org
 0.0.0.0 bitwarden.niggipi.duckdns.org
+0.0.0.0 mail.niggipi.duckdns.org
 0.0.0.0 office.niggipi.duckdns.org
 0.0.0.0 nightice.duckdns.org
 0.0.0.0 nightkid.duckdns.org
@@ -42396,6 +42408,7 @@
 0.0.0.0 mattermost.rsjorge.duckdns.org
 0.0.0.0 netdata.rsjorge.duckdns.org
 0.0.0.0 nodered.rsjorge.duckdns.org
+0.0.0.0 sentry.rsjorge.duckdns.org
 0.0.0.0 vscode.rsjorge.duckdns.org
 0.0.0.0 webcarmita.rsjorge.duckdns.org
 0.0.0.0 rsnbw.duckdns.org
@@ -43068,6 +43081,10 @@
 0.0.0.0 schwartztad.duckdns.org
 0.0.0.0 sciacchitano.duckdns.org
 0.0.0.0 scialla.duckdns.org
+0.0.0.0 ha.scialla.duckdns.org
+0.0.0.0 modem.scialla.duckdns.org
+0.0.0.0 tasmoadmin.scialla.duckdns.org
+0.0.0.0 z2m.scialla.duckdns.org
 0.0.0.0 scj13.duckdns.org
 0.0.0.0 scld.duckdns.org
 0.0.0.0 scn3xtcl0ud.duckdns.org
@@ -44314,6 +44331,8 @@
 0.0.0.0 ha.sllc.duckdns.org
 0.0.0.0 nas.sllc.duckdns.org
 0.0.0.0 nextcloud.sllc.duckdns.org
+0.0.0.0 synology.sllc.duckdns.org
+0.0.0.0 test.sllc.duckdns.org
 0.0.0.0 slmshawn.duckdns.org
 0.0.0.0 sln12.duckdns.org
 0.0.0.0 jbtest.sln12.duckdns.org
@@ -47702,6 +47721,7 @@
 0.0.0.0 vicoma.duckdns.org
 0.0.0.0 api.vicoma.duckdns.org
 0.0.0.0 climate.vicoma.duckdns.org
+0.0.0.0 docs.vicoma.duckdns.org
 0.0.0.0 luchtmeting.vicoma.duckdns.org
 0.0.0.0 report.vicoma.duckdns.org
 0.0.0.0 ved.vicoma.duckdns.org
@@ -49334,6 +49354,7 @@
 0.0.0.0 xyfiwifi.duckdns.org
 0.0.0.0 xyhome-188.duckdns.org
 0.0.0.0 xyntillan.duckdns.org
+0.0.0.0 dav.xyntillan.duckdns.org
 0.0.0.0 manage.xyntillan.duckdns.org
 0.0.0.0 monitor.xyntillan.duckdns.org
 0.0.0.0 mumble.xyntillan.duckdns.org
