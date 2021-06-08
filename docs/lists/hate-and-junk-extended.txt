@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-06-07T13:05:20+00:00
-# Count: 1547 domains
+# Released: 2021-06-08T01:05:20+00:00
+# Count: 1569 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -181,6 +181,7 @@
 0.0.0.0 cpcalendars.flatearthnexus.com
 0.0.0.0 cpcontacts.flatearthnexus.com
 0.0.0.0 ftp.flatearthnexus.com
+0.0.0.0 localhost.flatearthnexus.com
 0.0.0.0 mail.flatearthnexus.com
 0.0.0.0 webdisk.flatearthnexus.com
 0.0.0.0 webmail.flatearthnexus.com
@@ -940,6 +941,8 @@
 0.0.0.0 www.heartland.org
 0.0.0.0 www2.heartland.org
 0.0.0.0 iasmembership.org
+0.0.0.0 1.iasmembership.org
+0.0.0.0 ads.iasmembership.org
 0.0.0.0 antispam.iasmembership.org
 0.0.0.0 art.iasmembership.org
 0.0.0.0 auth.iasmembership.org
@@ -950,21 +953,28 @@
 0.0.0.0 correo.iasmembership.org
 0.0.0.0 direct.iasmembership.org
 0.0.0.0 dns.iasmembership.org
+0.0.0.0 download.iasmembership.org
+0.0.0.0 downloads.iasmembership.org
 0.0.0.0 email.iasmembership.org
+0.0.0.0 events.iasmembership.org
 0.0.0.0 exchange.iasmembership.org
 0.0.0.0 ftp.iasmembership.org
+0.0.0.0 gallery.iasmembership.org
 0.0.0.0 gate.iasmembership.org
 0.0.0.0 gateway.iasmembership.org
 0.0.0.0 gw.iasmembership.org
+0.0.0.0 helpdesk.iasmembership.org
 0.0.0.0 hermes.iasmembership.org
 0.0.0.0 home.iasmembership.org
 0.0.0.0 host.iasmembership.org
 0.0.0.0 imap.iasmembership.org
 0.0.0.0 imap1.iasmembership.org
 0.0.0.0 imap2.iasmembership.org
+0.0.0.0 intranet.iasmembership.org
 0.0.0.0 l.iasmembership.org
 0.0.0.0 m.iasmembership.org
 0.0.0.0 mail.iasmembership.org
+0.0.0.0 smtp.mail.iasmembership.org
 0.0.0.0 mail01.iasmembership.org
 0.0.0.0 mail02.iasmembership.org
 0.0.0.0 mail1.iasmembership.org
@@ -1010,7 +1020,9 @@
 0.0.0.0 mx5.iasmembership.org
 0.0.0.0 mx7.iasmembership.org
 0.0.0.0 mxs.iasmembership.org
+0.0.0.0 new.iasmembership.org
 0.0.0.0 newmail.iasmembership.org
+0.0.0.0 news.iasmembership.org
 0.0.0.0 ns.iasmembership.org
 0.0.0.0 ns1.iasmembership.org
 0.0.0.0 ns2.iasmembership.org
@@ -1046,7 +1058,9 @@
 0.0.0.0 ssl.iasmembership.org
 0.0.0.0 tiger.iasmembership.org
 0.0.0.0 tw.iasmembership.org
+0.0.0.0 vmail.iasmembership.org
 0.0.0.0 vnet.iasmembership.org
+0.0.0.0 vpn.iasmembership.org
 0.0.0.0 vps.iasmembership.org
 0.0.0.0 webmail.iasmembership.org
 0.0.0.0 www.iasmembership.org
@@ -1243,6 +1257,7 @@
 0.0.0.0 webmail.paulcraigroberts.org
 0.0.0.0 www.paulcraigroberts.org
 0.0.0.0 rtc.org
+0.0.0.0 autodiscover.rtc.org
 0.0.0.0 danish.rtc.org
 0.0.0.0 davidmiscavige.rtc.org
 0.0.0.0 dutch.rtc.org
@@ -1267,9 +1282,12 @@
 0.0.0.0 scientology.org
 0.0.0.0 aola.scientology.org
 0.0.0.0 aoshanzo.scientology.org
+0.0.0.0 aosheu.scientology.org
+0.0.0.0 av.scientology.org
 0.0.0.0 br.scientology.org
 0.0.0.0 catalog.scientology.org
 0.0.0.0 de.scientology.org
+0.0.0.0 dk.scientology.org
 0.0.0.0 ef5e51dd69a8801ce436681121284a00.scientology.org
 0.0.0.0 es.scientology.org
 0.0.0.0 europe.scientology.org
@@ -1304,6 +1322,7 @@
 0.0.0.0 www.locator.scientology.org
 0.0.0.0 mail.scientology.org
 0.0.0.0 mail3.scientology.org
+0.0.0.0 ml.scientology.org
 0.0.0.0 mobile.scientology.org
 0.0.0.0 ms.scientology.org
 0.0.0.0 munich.scientology.org
@@ -1322,6 +1341,8 @@
 0.0.0.0 pt.scientology.org
 0.0.0.0 purification.scientology.org
 0.0.0.0 related.scientology.org
+0.0.0.0 ru.scientology.org
+0.0.0.0 se.scientology.org
 0.0.0.0 secure.scientology.org
 0.0.0.0 secure1.scientology.org
 0.0.0.0 secure10.scientology.org
@@ -1353,6 +1374,7 @@
 0.0.0.0 stream3.scientology.org
 0.0.0.0 stream6.scientology.org
 0.0.0.0 sundayservice.scientology.org
+0.0.0.0 survey.scientology.org
 0.0.0.0 sys003.scientology.org
 0.0.0.0 taiwanese.scientology.org
 0.0.0.0 test.scientology.org
@@ -1376,6 +1398,7 @@
 0.0.0.0 workshop.scientology.org
 0.0.0.0 ww.scientology.org
 0.0.0.0 www.scientology.org
+0.0.0.0 xml.scientology.org
 0.0.0.0 scientologynews.org
 0.0.0.0 fr.scientologynews.org
 0.0.0.0 nl.scientologynews.org
@@ -1542,7 +1565,6 @@
 0.0.0.0 mail.qgear.us
 0.0.0.0 ns1.qgear.us
 0.0.0.0 ns2.qgear.us
-0.0.0.0 qge.qgear.us
 0.0.0.0 qgear.qgear.us
 0.0.0.0 webdisk.qgear.us
 0.0.0.0 webmail.qgear.us
