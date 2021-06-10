@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-10T01:05:20+00:00
-# Count: 52168 domains
+# Released: 2021-06-10T13:05:20+00:00
+# Count: 52183 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -46,6 +46,7 @@
 0.0.0.0 res.0kee.360.cn
 0.0.0.0 110.360.cn
 0.0.0.0 hd.110.360.cn
+0.0.0.0 naicha.110.360.cn
 0.0.0.0 pro.110.360.cn
 0.0.0.0 www.110.360.cn
 0.0.0.0 12306.360.cn
@@ -1192,6 +1193,7 @@
 0.0.0.0 demo.t.360.cn
 0.0.0.0 m.t.360.cn
 0.0.0.0 mapi.t.360.cn
+0.0.0.0 t-b.360.cn
 0.0.0.0 tbk-api.360.cn
 0.0.0.0 test.360.cn
 0.0.0.0 tf.360.cn
@@ -2004,7 +2006,6 @@
 0.0.0.0 support.comm100.com
 0.0.0.0 vue.comm100.com
 0.0.0.0 vue1.comm100.com
-0.0.0.0 vuex2teststandby.comm100.com
 0.0.0.0 www.comm100.com
 0.0.0.0 download.db-ip.com
 0.0.0.0 block-test.developerdan.com
@@ -5033,6 +5034,7 @@
 0.0.0.0 upload.glympse.com
 0.0.0.0 east.vpn.glympse.com
 0.0.0.0 west.vpn.glympse.com
+0.0.0.0 wew.glympse.com
 0.0.0.0 wp.glympse.com
 0.0.0.0 www.glympse.com
 0.0.0.0 translate.google.com
@@ -5102,6 +5104,7 @@
 0.0.0.0 sv.gravatar.com
 0.0.0.0 th.gravatar.com
 0.0.0.0 tr.gravatar.com
+0.0.0.0 trac.gravatar.com
 0.0.0.0 uk.gravatar.com
 0.0.0.0 ur.gravatar.com
 0.0.0.0 vi.gravatar.com
@@ -5500,6 +5503,7 @@
 0.0.0.0 pmbounces.livechatinc.com
 0.0.0.0 prestashop.livechatinc.com
 0.0.0.0 prestashop-eu.livechatinc.com
+0.0.0.0 productcards.livechatinc.com
 0.0.0.0 quality.livechatinc.com
 0.0.0.0 queue.livechatinc.com
 0.0.0.0 queue-fra.livechatinc.com
@@ -5531,6 +5535,7 @@
 0.0.0.0 support.livechatinc.com
 0.0.0.0 test.livechatinc.com
 0.0.0.0 pmbounces.tickets.livechatinc.com
+0.0.0.0 twilio.livechatinc.com
 0.0.0.0 twilioauth.livechatinc.com
 0.0.0.0 url5285.livechatinc.com
 0.0.0.0 verify.livechatinc.com
@@ -5703,6 +5708,7 @@
 0.0.0.0 minfraud2.maxmind.com
 0.0.0.0 minfraud3.maxmind.com
 0.0.0.0 paypal-ipn.maxmind.com
+0.0.0.0 safe-coordinates.maxmind.com
 0.0.0.0 staging-dev.maxmind.com
 0.0.0.0 static.maxmind.com
 0.0.0.0 status.maxmind.com
@@ -6269,12 +6275,14 @@
 0.0.0.0 mdm.mobistealth.com
 0.0.0.0 mobile.mobistealth.com
 0.0.0.0 mx.mobistealth.com
+0.0.0.0 new.mobistealth.com
 0.0.0.0 sandbox.mobistealth.com
 0.0.0.0 secure.mobistealth.com
 0.0.0.0 support.mobistealth.com
 0.0.0.0 vmanager.mobistealth.com
 0.0.0.0 web1.mobistealth.com
 0.0.0.0 web2.mobistealth.com
+0.0.0.0 wiki.mobistealth.com
 0.0.0.0 www.mobistealth.com
 0.0.0.0 mspy.com
 0.0.0.0 affiliates.mspy.com
@@ -6303,6 +6311,7 @@
 0.0.0.0 o.mspy.com
 0.0.0.0 pl.mspy.com
 0.0.0.0 resell.mspy.com
+0.0.0.0 reviews-widget.mspy.com
 0.0.0.0 se.mspy.com
 0.0.0.0 secure.mspy.com
 0.0.0.0 static.mspy.com
@@ -6634,6 +6643,9 @@
 0.0.0.0 s4077.pingdom.com
 0.0.0.0 s4079.pingdom.com
 0.0.0.0 s4081.pingdom.com
+0.0.0.0 s4082.pingdom.com
+0.0.0.0 s4083.pingdom.com
+0.0.0.0 s4085.pingdom.com
 0.0.0.0 s410.pingdom.com
 0.0.0.0 s412.pingdom.com
 0.0.0.0 s413.pingdom.com
@@ -6857,6 +6869,7 @@
 0.0.0.0 nprsocial.polldaddy.com
 0.0.0.0 nwmedia2013.polldaddy.com
 0.0.0.0 oneregionforward.polldaddy.com
+0.0.0.0 pamelastroud2117.polldaddy.com
 0.0.0.0 pasurmifau.polldaddy.com
 0.0.0.0 petermaynard2015.polldaddy.com
 0.0.0.0 petyaraykovska.polldaddy.com
@@ -26905,12 +26918,16 @@
 0.0.0.0 greengolfball.duckdns.org
 0.0.0.0 greenheck.duckdns.org
 0.0.0.0 greening.duckdns.org
+0.0.0.0 colo.greening.duckdns.org
+0.0.0.0 down.greening.duckdns.org
 0.0.0.0 hassio.greening.duckdns.org
 0.0.0.0 home.greening.duckdns.org
 0.0.0.0 nas.greening.duckdns.org
+0.0.0.0 networks.greening.duckdns.org
 0.0.0.0 pass.greening.duckdns.org
 0.0.0.0 proxy.greening.duckdns.org
 0.0.0.0 voip.greening.duckdns.org
+0.0.0.0 web1.greening.duckdns.org
 0.0.0.0 win10access01.greening.duckdns.org
 0.0.0.0 greeninghass.duckdns.org
 0.0.0.0 greenkegheedahatakankeadeshnaajaotawqsz.duckdns.org
@@ -38550,7 +38567,6 @@
 0.0.0.0 nextcloud-krp.duckdns.org
 0.0.0.0 nextcloud-mwwco.duckdns.org
 0.0.0.0 nextcloud-percunivers.duckdns.org
-0.0.0.0 nextcloud-roberweb.duckdns.org
 0.0.0.0 nextcloud-unraidhome.duckdns.org
 0.0.0.0 nextcloud-zimon.duckdns.org
 0.0.0.0 nextcloud1232.duckdns.org
@@ -46372,7 +46388,6 @@
 0.0.0.0 hass.susnea.duckdns.org
 0.0.0.0 media.susnea.duckdns.org
 0.0.0.0 suso.duckdns.org
-0.0.0.0 susparadesu.duckdns.org
 0.0.0.0 suvicore.duckdns.org
 0.0.0.0 suvid.duckdns.org
 0.0.0.0 suwon.duckdns.org
