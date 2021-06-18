@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-18T01:05:20+00:00
-# Count: 52677 domains
+# Released: 2021-06-18T13:05:20+00:00
+# Count: 52698 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -531,7 +531,6 @@
 0.0.0.0 pay.game.360.cn
 0.0.0.0 qipai.game.360.cn
 0.0.0.0 service.game.360.cn
-0.0.0.0 svip.game.360.cn
 0.0.0.0 sw.game.360.cn
 0.0.0.0 thyj2.game.360.cn
 0.0.0.0 txlh.game.360.cn
@@ -5207,12 +5206,18 @@
 0.0.0.0 2.icanhazip.com
 0.0.0.0 4.icanhazip.com
 0.0.0.0 a95c530a7af5f492a74499e70578d150.icanhazip.com
+0.0.0.0 about.icanhazip.com
+0.0.0.0 cloud01-hetzner.icanhazip.com
 0.0.0.0 forum.icanhazip.com
+0.0.0.0 hetzner-2.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
 0.0.0.0 icanhazip-iad-1.icanhazip.com
+0.0.0.0 ip4.icanhazip.com
+0.0.0.0 ip6.icanhazip.com
 0.0.0.0 ipv.icanhazip.com
 0.0.0.0 ipv4.icanhazip.com
 0.0.0.0 ipv6.icanhazip.com
+0.0.0.0 ipva.icanhazip.com
 0.0.0.0 ord.icanhazip.com
 0.0.0.0 pv4.icanhazip.com
 0.0.0.0 sfo.icanhazip.com
@@ -7399,6 +7404,7 @@
 0.0.0.0 americastestkitchenacba.qualtrics.com
 0.0.0.0 amherst.qualtrics.com
 0.0.0.0 amhtopcovid19.qualtrics.com
+0.0.0.0 analogdeviceslistens.qualtrics.com
 0.0.0.0 anbank.qualtrics.com
 0.0.0.0 ancestry.qualtrics.com
 0.0.0.0 andersons.qualtrics.com
@@ -7411,6 +7417,7 @@
 0.0.0.0 ap1trial.qualtrics.com
 0.0.0.0 api.qualtrics.com
 0.0.0.0 api-test.qualtrics.com
+0.0.0.0 appian.qualtrics.com
 0.0.0.0 apprissretail.qualtrics.com
 0.0.0.0 apptopcovid19.qualtrics.com
 0.0.0.0 aptmetrics.qualtrics.com
@@ -7844,6 +7851,7 @@
 0.0.0.0 uhcresearch.az1.qualtrics.com
 0.0.0.0 uhsinc.az1.qualtrics.com
 0.0.0.0 umaryland.az1.qualtrics.com
+0.0.0.0 www.umaryland.az1.qualtrics.com
 0.0.0.0 umpublishing.az1.qualtrics.com
 0.0.0.0 umr.az1.qualtrics.com
 0.0.0.0 unc.az1.qualtrics.com
@@ -8084,6 +8092,7 @@
 0.0.0.0 cityss.qualtrics.com
 0.0.0.0 clarku.qualtrics.com
 0.0.0.0 claytonstate.qualtrics.com
+0.0.0.0 cleardata.qualtrics.com
 0.0.0.0 clearvoicesurveys.qualtrics.com
 0.0.0.0 clemson.qualtrics.com
 0.0.0.0 clemsonhealth.qualtrics.com
@@ -8799,6 +8808,7 @@
 0.0.0.0 columbusstate.qualtrics.com
 0.0.0.0 commbank.qualtrics.com
 0.0.0.0 communicus.qualtrics.com
+0.0.0.0 community.qualtrics.com
 0.0.0.0 communitystaging.qualtrics.com
 0.0.0.0 conduent.qualtrics.com
 0.0.0.0 conduenthr.qualtrics.com
@@ -8810,6 +8820,7 @@
 0.0.0.0 corexms2lh7fsgj8z5zk.qualtrics.com
 0.0.0.0 corexms3s97fmqc8mtrq.qualtrics.com
 0.0.0.0 corexms3yyd5zdzs6ym5.qualtrics.com
+0.0.0.0 corexms9vvdhngxkwjnn.qualtrics.com
 0.0.0.0 corexmsbmpbrbrn7788j.qualtrics.com
 0.0.0.0 corexmsbqz6xb94ghhfy.qualtrics.com
 0.0.0.0 corexmsdwkhzzwc8334j.qualtrics.com
@@ -8817,6 +8828,7 @@
 0.0.0.0 corexmsk3fzbxqwfrjpx.qualtrics.com
 0.0.0.0 corexmsrfm4qrgmxjhmc.qualtrics.com
 0.0.0.0 corexmsxpwwzhpvjkhrf.qualtrics.com
+0.0.0.0 corexmsyxd575bs3y6n8.qualtrics.com
 0.0.0.0 corexmszrwznczjd9x3m.qualtrics.com
 0.0.0.0 cornell.qualtrics.com
 0.0.0.0 www.cornell.qualtrics.com
@@ -9291,6 +9303,7 @@
 0.0.0.0 ghentunipsslkhykcrgcoivdv.qualtrics.com
 0.0.0.0 gm.qualtrics.com
 0.0.0.0 gmac.qualtrics.com
+0.0.0.0 gmexforit.qualtrics.com
 0.0.0.0 gmuchss.qualtrics.com
 0.0.0.0 go2.qualtrics.com
 0.0.0.0 go2emea.qualtrics.com
@@ -9783,6 +9796,7 @@
 0.0.0.0 inavero.qualtrics.com
 0.0.0.0 inc.qualtrics.com
 0.0.0.0 inclusioninc360.qualtrics.com
+0.0.0.0 inclusivemrg.qualtrics.com
 0.0.0.0 indsightsresearch.qualtrics.com
 0.0.0.0 indstate.qualtrics.com
 0.0.0.0 www.indstate.qualtrics.com
@@ -9826,6 +9840,7 @@
 0.0.0.0 ivytech.qualtrics.com
 0.0.0.0 jbs.qualtrics.com
 0.0.0.0 jcu.qualtrics.com
+0.0.0.0 jcuchs.qualtrics.com
 0.0.0.0 jcus.qualtrics.com
 0.0.0.0 jefferson.qualtrics.com
 0.0.0.0 jenniferbrown.qualtrics.com
@@ -10117,6 +10132,7 @@
 0.0.0.0 oadsgeorgetown.qualtrics.com
 0.0.0.0 oberlin.qualtrics.com
 0.0.0.0 oberlin-ksudistancelearning.qualtrics.com
+0.0.0.0 oclistens.qualtrics.com
 0.0.0.0 oculusur.qualtrics.com
 0.0.0.0 odisee.qualtrics.com
 0.0.0.0 www.odisee.qualtrics.com
@@ -10249,6 +10265,7 @@
 0.0.0.0 qmulbusiness.qualtrics.com
 0.0.0.0 qpaz1.qualtrics.com
 0.0.0.0 qpr.qualtrics.com
+0.0.0.0 qreillyh.qualtrics.com
 0.0.0.0 qsnetwork-maskan.qualtrics.com
 0.0.0.0 qsurvey.qualtrics.com
 0.0.0.0 qtraining.qualtrics.com
@@ -10367,10 +10384,12 @@
 0.0.0.0 samford.qualtrics.com
 0.0.0.0 sans.qualtrics.com
 0.0.0.0 santarosa.qualtrics.com
+0.0.0.0 santosex.qualtrics.com
 0.0.0.0 sapdevelopment.qualtrics.com
 0.0.0.0 sapientinsights.qualtrics.com
 0.0.0.0 sapphire.qualtrics.com
 0.0.0.0 sapporpbprgr.qualtrics.com
+0.0.0.0 sapqualtricssurvey.qualtrics.com
 0.0.0.0 sas.qualtrics.com
 0.0.0.0 sasupenn.qualtrics.com
 0.0.0.0 sat.qualtrics.com
@@ -10456,6 +10475,7 @@
 0.0.0.0 zn0qpbwue5tvsy6gn-hrsagov.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn1gplkxoy8pjw5pn-hhsgovfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn1nx7vebqbovfqmp-cemgsa.gov1.siteintercept.qualtrics.com
+0.0.0.0 zn1zwyoxxt9mbp0sc-hrsagov.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn2aettvaedte4ylf-hrsagov.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn37xwsbwlqwwzzfr-uscisomnichannel.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn39q5jmtqsq6dzmj-dotocio.gov1.siteintercept.qualtrics.com
@@ -10467,6 +10487,7 @@
 0.0.0.0 zn5alubksv6xx7dxv-cemgsa.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn5dz7agmvn4252ap-hhsgovfedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn5mx8mmsrkmc74ej-cemgsa.gov1.siteintercept.qualtrics.com
+0.0.0.0 zn5sclcftrf3p3joj-usdafedramp.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn5zoa3vxq9g9iftp-dotocio.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn6fpq8uicqiph6sn-fdawebcx.gov1.siteintercept.qualtrics.com
 0.0.0.0 zn6ka36kpdi3e9i21-cfpbfedramp.gov1.siteintercept.qualtrics.com
