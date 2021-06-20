@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-06-19T13:05:20+00:00
-# Count: 1464 domains
+# Released: 2021-06-20T13:05:21+00:00
+# Count: 1484 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -30,7 +30,14 @@
 0.0.0.0 siegeculture.biz
 0.0.0.0 cpanel.siegeculture.biz
 0.0.0.0 forums.siegeculture.biz
+0.0.0.0 ftp.siegeculture.biz
 0.0.0.0 mail.siegeculture.biz
+0.0.0.0 mydevice.siegeculture.biz
+0.0.0.0 search.siegeculture.biz
+0.0.0.0 smtp.siegeculture.biz
+0.0.0.0 w.siegeculture.biz
+0.0.0.0 watch.siegeculture.biz
+0.0.0.0 web.siegeculture.biz
 0.0.0.0 webdisk.siegeculture.biz
 0.0.0.0 webmail.siegeculture.biz
 0.0.0.0 wlamazcsrv1.siegeculture.biz
@@ -389,12 +396,18 @@
 0.0.0.0 direct.leagueofthesouth.com
 0.0.0.0 dixie.leagueofthesouth.com
 0.0.0.0 forum.leagueofthesouth.com
+0.0.0.0 ftp.leagueofthesouth.com
 0.0.0.0 lists.leagueofthesouth.com
 0.0.0.0 lync.leagueofthesouth.com
 0.0.0.0 mail.leagueofthesouth.com
 0.0.0.0 mail2.leagueofthesouth.com
 0.0.0.0 messenger.leagueofthesouth.com
+0.0.0.0 mx.leagueofthesouth.com
 0.0.0.0 radio.leagueofthesouth.com
+0.0.0.0 server.leagueofthesouth.com
+0.0.0.0 smtp.leagueofthesouth.com
+0.0.0.0 vpn.leagueofthesouth.com
+0.0.0.0 vps.leagueofthesouth.com
 0.0.0.0 www.leagueofthesouth.com
 0.0.0.0 wwww.leagueofthesouth.com
 0.0.0.0 lewrockwell.com
@@ -698,6 +711,7 @@
 0.0.0.0 mailx.unitedpatriotsofamerica.com
 0.0.0.0 ms1.unitedpatriotsofamerica.com
 0.0.0.0 mx.unitedpatriotsofamerica.com
+0.0.0.0 mx0.unitedpatriotsofamerica.com
 0.0.0.0 mx02.unitedpatriotsofamerica.com
 0.0.0.0 ns2.unitedpatriotsofamerica.com
 0.0.0.0 remote.unitedpatriotsofamerica.com
@@ -834,6 +848,7 @@
 0.0.0.0 www.afa.net
 0.0.0.0 americanfreepress.net
 0.0.0.0 afpstore.americanfreepress.net
+0.0.0.0 dc-4d1c3c084ca9.americanfreepress.net
 0.0.0.0 dc-fc8c769cf791.americanfreepress.net
 0.0.0.0 ftp.americanfreepress.net
 0.0.0.0 host.americanfreepress.net
@@ -1109,6 +1124,7 @@
 0.0.0.0 mta.nvic.org
 0.0.0.0 mx.nvic.org
 0.0.0.0 mx02.nvic.org
+0.0.0.0 mx1.nvic.org
 0.0.0.0 mx2.nvic.org
 0.0.0.0 mx20.nvic.org
 0.0.0.0 mx4.nvic.org
@@ -1133,11 +1149,14 @@
 0.0.0.0 sm-srv01.nvic.org
 0.0.0.0 smtp.nvic.org
 0.0.0.0 smtp1.nvic.org
+0.0.0.0 smtp2.nvic.org
+0.0.0.0 smtp3.nvic.org
 0.0.0.0 smtpauth.nvic.org
 0.0.0.0 smtps.nvic.org
 0.0.0.0 smtpseguro.nvic.org
 0.0.0.0 sniper.nvic.org
 0.0.0.0 srv.nvic.org
+0.0.0.0 vmail.nvic.org
 0.0.0.0 wdev.nvic.org
 0.0.0.0 webmail.nvic.org
 0.0.0.0 ww.nvic.org
@@ -1413,6 +1432,7 @@
 0.0.0.0 media2.8kun.top
 0.0.0.0 mediajune.8kun.top
 0.0.0.0 merch-admin.8kun.top
+0.0.0.0 mobile.8kun.top
 0.0.0.0 mvideo.8kun.top
 0.0.0.0 nerv.8kun.top
 0.0.0.0 nerve.8kun.top
