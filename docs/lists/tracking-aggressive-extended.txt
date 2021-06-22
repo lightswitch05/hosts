@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-21T13:05:20+00:00
-# Count: 53468 domains
+# Released: 2021-06-22T01:05:20+00:00
+# Count: 53498 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -5225,12 +5225,15 @@
 0.0.0.0 cloud01-hetzner.icanhazip.com
 0.0.0.0 dedi3.de.icanhazip.com
 0.0.0.0 dedi4.de.icanhazip.com
+0.0.0.0 dfw.icanhazip.com
 0.0.0.0 forum.icanhazip.com
 0.0.0.0 ftp.icanhazip.com
 0.0.0.0 hetzner-1.icanhazip.com
 0.0.0.0 hetzner-2.icanhazip.com
+0.0.0.0 iad.icanhazip.com
 0.0.0.0 icanhazip-dfw-1.icanhazip.com
 0.0.0.0 icanhazip-iad-1.icanhazip.com
+0.0.0.0 ip.icanhazip.com
 0.0.0.0 ip4.icanhazip.com
 0.0.0.0 ip4v.icanhazip.com
 0.0.0.0 ip6.icanhazip.com
@@ -5238,8 +5241,15 @@
 0.0.0.0 ipv4.icanhazip.com
 0.0.0.0 ipv6.icanhazip.com
 0.0.0.0 ipva.icanhazip.com
+0.0.0.0 ipva4.icanhazip.com
+0.0.0.0 ipvr.icanhazip.com
+0.0.0.0 lax.icanhazip.com
+0.0.0.0 mia.icanhazip.com
 0.0.0.0 mx.icanhazip.com
 0.0.0.0 ord.icanhazip.com
+0.0.0.0 packet-ewr.icanhazip.com
+0.0.0.0 packet-sjc.icanhazip.com
+0.0.0.0 packet-sjc2.icanhazip.com
 0.0.0.0 pv4.icanhazip.com
 0.0.0.0 server.icanhazip.com
 0.0.0.0 sfo.icanhazip.com
@@ -5252,8 +5262,11 @@
 0.0.0.0 vps.icanhazip.com
 0.0.0.0 vultr.icanhazip.com
 0.0.0.0 ww.w.icanhazip.com
+0.0.0.0 ww.icanhazip.com
 0.0.0.0 www.icanhazip.com
 0.0.0.0 www6.icanhazip.com
+0.0.0.0 wwww.icanhazip.com
+0.0.0.0 y.icanhazip.com
 0.0.0.0 gameplayapi.intel.com
 0.0.0.0 intercomcdn.com
 0.0.0.0 billing-internal.intercomcdn.com
@@ -5543,7 +5556,6 @@
 0.0.0.0 emailinium.livechatinc.com
 0.0.0.0 export.livechatinc.com
 0.0.0.0 external-workers.livechatinc.com
-0.0.0.0 fbapp.livechatinc.com
 0.0.0.0 fbmsg.livechatinc.com
 0.0.0.0 gateway.livechatinc.com
 0.0.0.0 gateway-fra.livechatinc.com
@@ -7587,6 +7599,7 @@
 0.0.0.0 amazonfreshuk.au1.qualtrics.com
 0.0.0.0 amazonindia2.au1.qualtrics.com
 0.0.0.0 amazonmr.au1.qualtrics.com
+0.0.0.0 www.amazonmr.au1.qualtrics.com
 0.0.0.0 amazonretailsystems.au1.qualtrics.com
 0.0.0.0 anasurvey.au1.qualtrics.com
 0.0.0.0 anu.au1.qualtrics.com
@@ -10093,6 +10106,7 @@
 0.0.0.0 multistudycovid19.qualtrics.com
 0.0.0.0 murdochlearn.qualtrics.com
 0.0.0.0 mx.qualtrics.com
+0.0.0.0 mycwt.qualtrics.com
 0.0.0.0 mylmu.qualtrics.com
 0.0.0.0 mzbwcovidyxgjyzjyh.qualtrics.com
 0.0.0.0 n16icorona-borealis.qualtrics.com
@@ -10403,6 +10417,7 @@
 0.0.0.0 ruinpain.qualtrics.com
 0.0.0.0 rutgers.qualtrics.com
 0.0.0.0 rutgersbcsr.qualtrics.com
+0.0.0.0 rwjbhinstitute.qualtrics.com
 0.0.0.0 s.qualtrics.com
 0.0.0.0 sa-discovidev.qualtrics.com
 0.0.0.0 acomtarget.sa-discovidev.qualtrics.com
@@ -12578,6 +12593,7 @@
 0.0.0.0 auth-daily-chronicle.tinypass.com
 0.0.0.0 auth-denipt.tinypass.com
 0.0.0.0 auth-elespanol.tinypass.com
+0.0.0.0 auth-exploringthenebulae.tinypass.com
 0.0.0.0 auth-fastcompany.tinypass.com
 0.0.0.0 auth-forbes.tinypass.com
 0.0.0.0 auth-forward.tinypass.com
@@ -19499,6 +19515,7 @@
 0.0.0.0 competent-haibt.c0eos.duckdns.org
 0.0.0.0 elated-shtern.c0eos.duckdns.org
 0.0.0.0 sonarr.emilie.c0eos.duckdns.org
+0.0.0.0 ender3.c0eos.duckdns.org
 0.0.0.0 epic-lumiere.c0eos.duckdns.org
 0.0.0.0 exciting-meninsky.c0eos.duckdns.org
 0.0.0.0 festive-allen.c0eos.duckdns.org
@@ -37380,7 +37397,6 @@
 0.0.0.0 milkain.duckdns.org
 0.0.0.0 milkain-dev.duckdns.org
 0.0.0.0 milkhoney.duckdns.org
-0.0.0.0 milky-ware.duckdns.org
 0.0.0.0 blog.milky-ware.duckdns.org
 0.0.0.0 milkymilan.duckdns.org
 0.0.0.0 milkyway87.duckdns.org
@@ -43595,6 +43611,7 @@
 0.0.0.0 cloud.renscloud.duckdns.org
 0.0.0.0 code.renscloud.duckdns.org
 0.0.0.0 git.renscloud.duckdns.org
+0.0.0.0 mc.renscloud.duckdns.org
 0.0.0.0 music.renscloud.duckdns.org
 0.0.0.0 nextcloud.renscloud.duckdns.org
 0.0.0.0 photo.renscloud.duckdns.org
@@ -45127,11 +45144,15 @@
 0.0.0.0 grafana.seaserver.duckdns.org
 0.0.0.0 minecraft.seaserver.duckdns.org
 0.0.0.0 ombi.seaserver.duckdns.org
+0.0.0.0 overseerr.seaserver.duckdns.org
+0.0.0.0 pihole.seaserver.duckdns.org
 0.0.0.0 qbittorrent.seaserver.duckdns.org
 0.0.0.0 radarr.seaserver.duckdns.org
+0.0.0.0 requestrr.seaserver.duckdns.org
 0.0.0.0 sonarr.seaserver.duckdns.org
 0.0.0.0 tautulli.seaserver.duckdns.org
 0.0.0.0 unifi.seaserver.duckdns.org
+0.0.0.0 unraid.seaserver.duckdns.org
 0.0.0.0 seatosea.duckdns.org
 0.0.0.0 seb-nxt.duckdns.org
 0.0.0.0 sebastas.duckdns.org
@@ -49403,6 +49424,7 @@
 0.0.0.0 send.umbcorp.duckdns.org
 0.0.0.0 shit.umbcorp.duckdns.org
 0.0.0.0 sonarr.umbcorp.duckdns.org
+0.0.0.0 zt.umbcorp.duckdns.org
 0.0.0.0 umbeha.duckdns.org
 0.0.0.0 umbferhome.duckdns.org
 0.0.0.0 umbies.duckdns.org
@@ -51453,6 +51475,14 @@
 0.0.0.0 books.wucinski.duckdns.org
 0.0.0.0 time.wucinski.duckdns.org
 0.0.0.0 wuelbern.duckdns.org
+0.0.0.0 ad.wuelbern.duckdns.org
+0.0.0.0 bw.wuelbern.duckdns.org
+0.0.0.0 dms.wuelbern.duckdns.org
+0.0.0.0 ha.wuelbern.duckdns.org
+0.0.0.0 heizung.wuelbern.duckdns.org
+0.0.0.0 nzb.wuelbern.duckdns.org
+0.0.0.0 omv.wuelbern.duckdns.org
+0.0.0.0 wg.wuelbern.duckdns.org
 0.0.0.0 wuepe.duckdns.org
 0.0.0.0 wufpatch.duckdns.org
 0.0.0.0 wuillemin.duckdns.org
