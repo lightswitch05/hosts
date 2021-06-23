@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-22T13:05:20+00:00
-# Count: 54396 domains
+# Released: 2021-06-23T01:05:20+00:00
+# Count: 54414 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -6829,6 +6829,7 @@
 0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 server.pingdom.com
 0.0.0.0 server-monitor.pingdom.com
+0.0.0.0 get.server-monitor.pingdom.com
 0.0.0.0 share.pingdom.com
 0.0.0.0 st-heroku.pingdom.com
 0.0.0.0 st-livemap.pingdom.com
@@ -10042,6 +10043,7 @@
 0.0.0.0 mcgillmgmt.qualtrics.com
 0.0.0.0 mcqma.qualtrics.com
 0.0.0.0 mcqmasktwl.qualtrics.com
+0.0.0.0 mcvma.qualtrics.com
 0.0.0.0 mde.qualtrics.com
 0.0.0.0 mdrc.qualtrics.com
 0.0.0.0 megapath.qualtrics.com
@@ -10234,6 +10236,7 @@
 0.0.0.0 p3delivery.qualtrics.com
 0.0.0.0 pace.qualtrics.com
 0.0.0.0 paceadmin.qualtrics.com
+0.0.0.0 pacersurvey.qualtrics.com
 0.0.0.0 pages.qualtrics.com
 0.0.0.0 pandora.qualtrics.com
 0.0.0.0 paragraph.qualtrics.com
@@ -11521,6 +11524,7 @@
 0.0.0.0 stlouisdph.qualtrics.com
 0.0.0.0 stmarys.qualtrics.com
 0.0.0.0 stockton.qualtrics.com
+0.0.0.0 strategictreasurer.qualtrics.com
 0.0.0.0 strathbusiness.qualtrics.com
 0.0.0.0 www.strathbusiness.qualtrics.com
 0.0.0.0 strathsci.qualtrics.com
@@ -11571,6 +11575,7 @@
 0.0.0.0 technion.qualtrics.com
 0.0.0.0 techsmith.qualtrics.com
 0.0.0.0 techtarget.qualtrics.com
+0.0.0.0 telarus.qualtrics.com
 0.0.0.0 telaviv.qualtrics.com
 0.0.0.0 telecomex.qualtrics.com
 0.0.0.0 telerik.qualtrics.com
@@ -16121,6 +16126,7 @@
 0.0.0.0 alexnetwork.duckdns.org
 0.0.0.0 alexoko.duckdns.org
 0.0.0.0 home.alexoko.duckdns.org
+0.0.0.0 nxtcloud.alexoko.duckdns.org
 0.0.0.0 vault.alexoko.duckdns.org
 0.0.0.0 alexpablo.duckdns.org
 0.0.0.0 alexpasa.duckdns.org
@@ -17465,6 +17471,7 @@
 0.0.0.0 axatruch.duckdns.org
 0.0.0.0 axefield.duckdns.org
 0.0.0.0 axeluss.duckdns.org
+0.0.0.0 bitwarden.axeluss.duckdns.org
 0.0.0.0 browser.axeluss.duckdns.org
 0.0.0.0 downloader.axeluss.duckdns.org
 0.0.0.0 pihole.axeluss.duckdns.org
@@ -21097,7 +21104,6 @@
 0.0.0.0 ytdl.chrk.duckdns.org
 0.0.0.0 chromacloud.duckdns.org
 0.0.0.0 chromewaves.duckdns.org
-0.0.0.0 chronograf-jschoot.duckdns.org
 0.0.0.0 chrysalyd.duckdns.org
 0.0.0.0 chrysanthopoulos.duckdns.org
 0.0.0.0 chsegemi-lenesa23.duckdns.org
@@ -23393,6 +23399,7 @@
 0.0.0.0 movies.dimitrov.duckdns.org
 0.0.0.0 nginx.dimitrov.duckdns.org
 0.0.0.0 ombi.dimitrov.duckdns.org
+0.0.0.0 pihole.dimitrov.duckdns.org
 0.0.0.0 plex.dimitrov.duckdns.org
 0.0.0.0 request.dimitrov.duckdns.org
 0.0.0.0 series.dimitrov.duckdns.org
@@ -23516,7 +23523,6 @@
 0.0.0.0 djmafioso.duckdns.org
 0.0.0.0 djmania48.duckdns.org
 0.0.0.0 djordjep.duckdns.org
-0.0.0.0 djpaus.duckdns.org
 0.0.0.0 djsss.duckdns.org
 0.0.0.0 djupis.duckdns.org
 0.0.0.0 djwar35.duckdns.org
@@ -24448,7 +24454,6 @@
 0.0.0.0 dxtiny.duckdns.org
 0.0.0.0 dxtr.duckdns.org
 0.0.0.0 dy8000.duckdns.org
-0.0.0.0 dyakonovg.duckdns.org
 0.0.0.0 dyamun.duckdns.org
 0.0.0.0 ha.dyamun.duckdns.org
 0.0.0.0 dyarvilla26.duckdns.org
@@ -24885,11 +24890,16 @@
 0.0.0.0 bitwarden.elcoraje.duckdns.org
 0.0.0.0 git.elcoraje.duckdns.org
 0.0.0.0 ide.elcoraje.duckdns.org
+0.0.0.0 jackett.elcoraje.duckdns.org
+0.0.0.0 jellyfin.elcoraje.duckdns.org
 0.0.0.0 mikrotik.elcoraje.duckdns.org
 0.0.0.0 plesk.elcoraje.duckdns.org
 0.0.0.0 plex.elcoraje.duckdns.org
+0.0.0.0 proxmox.elcoraje.duckdns.org
 0.0.0.0 proxy.elcoraje.duckdns.org
+0.0.0.0 radarr.elcoraje.duckdns.org
 0.0.0.0 sonarqube.elcoraje.duckdns.org
+0.0.0.0 sonarr.elcoraje.duckdns.org
 0.0.0.0 ssh.elcoraje.duckdns.org
 0.0.0.0 tasmoadmin.elcoraje.duckdns.org
 0.0.0.0 wp.elcoraje.duckdns.org
@@ -27602,6 +27612,9 @@
 0.0.0.0 gobishome.duckdns.org
 0.0.0.0 goblinscave.duckdns.org
 0.0.0.0 gobrunswick.duckdns.org
+0.0.0.0 focalboard.gobrunswick.duckdns.org
+0.0.0.0 hass.gobrunswick.duckdns.org
+0.0.0.0 overleaf.gobrunswick.duckdns.org
 0.0.0.0 gobucks.duckdns.org
 0.0.0.0 godcloud.duckdns.org
 0.0.0.0 godella.duckdns.org
@@ -31707,6 +31720,7 @@
 0.0.0.0 ir77.duckdns.org
 0.0.0.0 iraca.duckdns.org
 0.0.0.0 bitwarden.iraca.duckdns.org
+0.0.0.0 find3.iraca.duckdns.org
 0.0.0.0 hassio.iraca.duckdns.org
 0.0.0.0 iramfasterx.duckdns.org
 0.0.0.0 iratirex.duckdns.org
@@ -40802,7 +40816,6 @@
 0.0.0.0 nzhavor.duckdns.org
 0.0.0.0 nzsolt2015.duckdns.org
 0.0.0.0 o-abuzeit.duckdns.org
-0.0.0.0 o-g.duckdns.org
 0.0.0.0 o-x-o.duckdns.org
 0.0.0.0 o2shome.duckdns.org
 0.0.0.0 o3h.duckdns.org
@@ -42224,6 +42237,7 @@
 0.0.0.0 pftdm.duckdns.org
 0.0.0.0 pftm.duckdns.org
 0.0.0.0 pfugl.duckdns.org
+0.0.0.0 hass.pfugl.duckdns.org
 0.0.0.0 pfugltest.duckdns.org
 0.0.0.0 pgcasa.duckdns.org
 0.0.0.0 pgdczupqer.duckdns.org
@@ -43024,6 +43038,10 @@
 0.0.0.0 dev.preprod.duckdns.org
 0.0.0.0 blog.dev.preprod.duckdns.org
 0.0.0.0 endesa.preprod.duckdns.org
+0.0.0.0 enel.preprod.duckdns.org
+0.0.0.0 enelenergy.preprod.duckdns.org
+0.0.0.0 enelgreenpower.preprod.duckdns.org
+0.0.0.0 enelx.preprod.duckdns.org
 0.0.0.0 fibi.preprod.duckdns.org
 0.0.0.0 magento.preprod.duckdns.org
 0.0.0.0 blog.magento.preprod.duckdns.org
@@ -45496,7 +45514,6 @@
 0.0.0.0 cpcalendars.sangenihsay.duckdns.org
 0.0.0.0 mail.sangenihsay.duckdns.org
 0.0.0.0 router.sangerchurch.duckdns.org
-0.0.0.0 sanghun9634.duckdns.org
 0.0.0.0 sangmini.duckdns.org
 0.0.0.0 sangstigen.duckdns.org
 0.0.0.0 sanha.duckdns.org
@@ -52316,6 +52333,7 @@
 0.0.0.0 wraeclast.duckdns.org
 0.0.0.0 wrajacmwnw.duckdns.org
 0.0.0.0 wreckdives.duckdns.org
+0.0.0.0 wreckshome.duckdns.org
 0.0.0.0 wrenchhome.duckdns.org
 0.0.0.0 wrighthome.duckdns.org
 0.0.0.0 wrighthouse.duckdns.org
