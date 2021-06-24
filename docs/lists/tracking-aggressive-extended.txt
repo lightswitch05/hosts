@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-23T13:05:20+00:00
-# Count: 54398 domains
+# Released: 2021-06-24T01:05:20+00:00
+# Count: 54428 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1795,7 +1795,9 @@
 0.0.0.0 fox4kc.civicscience.com
 0.0.0.0 fox5sandiego.civicscience.com
 0.0.0.0 get.civicscience.com
+0.0.0.0 h.civicscience.com
 0.0.0.0 help.civicscience.com
+0.0.0.0 imap.civicscience.com
 0.0.0.0 info.civicscience.com
 0.0.0.0 isi.civicscience.com
 0.0.0.0 kdvr.civicscience.com
@@ -5844,6 +5846,7 @@
 0.0.0.0 2xy8t6qo-bf9q42dexsymx0w5i0nej.mktossl.com
 0.0.0.0 a.mktossl.com
 0.0.0.0 delivery.a.mktossl.com
+0.0.0.0 www.delivery.a.mktossl.com
 0.0.0.0 images.a.mktossl.com
 0.0.0.0 www.a.mktossl.com
 0.0.0.0 a42.mktossl.com
@@ -5971,6 +5974,7 @@
 0.0.0.0 c.mktossl.com
 0.0.0.0 www.c.mktossl.com
 0.0.0.0 careers.mktossl.com
+0.0.0.0 www.careers.mktossl.com
 0.0.0.0 cdn.mktossl.com
 0.0.0.0 autoconfig.cdn.mktossl.com
 0.0.0.0 autodiscover.cdn.mktossl.com
@@ -6071,16 +6075,28 @@
 0.0.0.0 e.mktossl.com
 0.0.0.0 ecms.mktossl.com
 0.0.0.0 edge.mktossl.com
+0.0.0.0 all.edge.mktossl.com
+0.0.0.0 eu.edge.mktossl.com
 0.0.0.0 elastic.mktossl.com
 0.0.0.0 email.mktossl.com
 0.0.0.0 autoconfig.email.mktossl.com
 0.0.0.0 autodiscover.email.mktossl.com
 0.0.0.0 ns.email.mktossl.com
+0.0.0.0 a.ns.email.mktossl.com
+0.0.0.0 b.ns.email.mktossl.com
+0.0.0.0 c.ns.email.mktossl.com
+0.0.0.0 d.ns.email.mktossl.com
+0.0.0.0 e.ns.email.mktossl.com
+0.0.0.0 f.ns.email.mktossl.com
 0.0.0.0 o1.email.mktossl.com
 0.0.0.0 o2.email.mktossl.com
 0.0.0.0 webdisk.email.mktossl.com
 0.0.0.0 www.email.mktossl.com
 0.0.0.0 en.mktossl.com
+0.0.0.0 autoconfig.en.mktossl.com
+0.0.0.0 autodiscover.en.mktossl.com
+0.0.0.0 webdisk.en.mktossl.com
+0.0.0.0 www.en.mktossl.com
 0.0.0.0 exchange.mktossl.com
 0.0.0.0 autodiscover.exchange.mktossl.com
 0.0.0.0 www.exchange.mktossl.com
@@ -6129,6 +6145,10 @@
 0.0.0.0 webdisk.images.mktossl.com
 0.0.0.0 www.images.mktossl.com
 0.0.0.0 img.mktossl.com
+0.0.0.0 autoconfig.img.mktossl.com
+0.0.0.0 autodiscover.img.mktossl.com
+0.0.0.0 webdisk.img.mktossl.com
+0.0.0.0 www.img.mktossl.com
 0.0.0.0 inbound.mktossl.com
 0.0.0.0 ipv6.mktossl.com
 0.0.0.0 jojo.mktossl.com
@@ -6262,6 +6282,14 @@
 0.0.0.0 ssl.mktossl.com
 0.0.0.0 www.ssl.mktossl.com
 0.0.0.0 staging.mktossl.com
+0.0.0.0 api.staging.mktossl.com
+0.0.0.0 autoconfig.staging.mktossl.com
+0.0.0.0 autodiscover.staging.mktossl.com
+0.0.0.0 ftp.staging.mktossl.com
+0.0.0.0 m.staging.mktossl.com
+0.0.0.0 v6.staging.mktossl.com
+0.0.0.0 webdisk.staging.mktossl.com
+0.0.0.0 www.staging.mktossl.com
 0.0.0.0 static.mktossl.com
 0.0.0.0 autoconfig.static.mktossl.com
 0.0.0.0 autodiscover.static.mktossl.com
@@ -6270,6 +6298,10 @@
 0.0.0.0 stats.mktossl.com
 0.0.0.0 www.stats.mktossl.com
 0.0.0.0 store.mktossl.com
+0.0.0.0 autoconfig.store.mktossl.com
+0.0.0.0 autodiscover.store.mktossl.com
+0.0.0.0 webdisk.store.mktossl.com
+0.0.0.0 www.store.mktossl.com
 0.0.0.0 sunil.mktossl.com
 0.0.0.0 superdigitalmanager.mktossl.com
 0.0.0.0 swift.mktossl.com
@@ -9908,6 +9940,7 @@
 0.0.0.0 johnson.qualtrics.com
 0.0.0.0 johnsonrsa.qualtrics.com
 0.0.0.0 jointcommission.qualtrics.com
+0.0.0.0 josipsu.qualtrics.com
 0.0.0.0 jsu.qualtrics.com
 0.0.0.0 junioressec.qualtrics.com
 0.0.0.0 k5.qualtrics.com
@@ -10277,6 +10310,7 @@
 0.0.0.0 ppresearch.qualtrics.com
 0.0.0.0 ppsisfaculty.qualtrics.com
 0.0.0.0 pragmaticmarketing.qualtrics.com
+0.0.0.0 preferences.qualtrics.com
 0.0.0.0 prevost.qualtrics.com
 0.0.0.0 primed.qualtrics.com
 0.0.0.0 primetherapeutics.qualtrics.com
@@ -10472,6 +10506,7 @@
 0.0.0.0 selective.qualtrics.com
 0.0.0.0 semtsinghua.qualtrics.com
 0.0.0.0 senecacollege.qualtrics.com
+0.0.0.0 setseg.qualtrics.com
 0.0.0.0 sfasu.qualtrics.com
 0.0.0.0 sfchronicle.qualtrics.com
 0.0.0.0 sfsu.qualtrics.com
@@ -12067,6 +12102,7 @@
 0.0.0.0 webcim.qualtrics.com
 0.0.0.0 webroot.qualtrics.com
 0.0.0.0 wedderspoon.qualtrics.com
+0.0.0.0 weldingresearch.qualtrics.com
 0.0.0.0 wesleyan.qualtrics.com
 0.0.0.0 wested.qualtrics.com
 0.0.0.0 wex.qualtrics.com
@@ -13845,6 +13881,7 @@
 0.0.0.0 app-cdn.spot.im
 0.0.0.0 assets-2-0.spot.im
 0.0.0.0 bd.spot.im
+0.0.0.0 benchmark.spot.im
 0.0.0.0 blog.spot.im
 0.0.0.0 www.blog.spot.im
 0.0.0.0 brotli-test.spot.im
@@ -13874,6 +13911,7 @@
 0.0.0.0 email-connect.spot.im
 0.0.0.0 engine.spot.im
 0.0.0.0 events-collector.spot.im
+0.0.0.0 events-collector-ow.spot.im
 0.0.0.0 extract.spot.im
 0.0.0.0 extractify.spot.im
 0.0.0.0 gateway.spot.im
@@ -13914,10 +13952,12 @@
 0.0.0.0 production-kong-1b.spot.im
 0.0.0.0 production-kong-1b-mobile.spot.im
 0.0.0.0 production-kong-1d.spot.im
+0.0.0.0 production-kong-1d-mobile.spot.im
 0.0.0.0 ps.spot.im
 0.0.0.0 public-user.spot.im
 0.0.0.0 publisher-assets.spot.im
 0.0.0.0 rank.spot.im
+0.0.0.0 readme.spot.im
 0.0.0.0 recirculation.spot.im
 0.0.0.0 recirculation-direct.spot.im
 0.0.0.0 recirculation-proxy.spot.im
@@ -17454,7 +17494,6 @@
 0.0.0.0 avshare.duckdns.org
 0.0.0.0 avv.duckdns.org
 0.0.0.0 aw-cloud.duckdns.org
-0.0.0.0 awag.duckdns.org
 0.0.0.0 webdisk.awag.duckdns.org
 0.0.0.0 awanku.duckdns.org
 0.0.0.0 awbshass.duckdns.org
@@ -28788,7 +28827,6 @@
 0.0.0.0 hal3000.duckdns.org
 0.0.0.0 hal4432.duckdns.org
 0.0.0.0 hal57.duckdns.org
-0.0.0.0 halange.duckdns.org
 0.0.0.0 haleaz.duckdns.org
 0.0.0.0 haleclose.duckdns.org
 0.0.0.0 halego.duckdns.org
@@ -40412,7 +40450,6 @@
 0.0.0.0 nmatejak.duckdns.org
 0.0.0.0 nmayafit.duckdns.org
 0.0.0.0 nmcloud.duckdns.org
-0.0.0.0 nmdqsuwymd.duckdns.org
 0.0.0.0 www.nmdqsuwymd.duckdns.org
 0.0.0.0 nmdvvbmn.duckdns.org
 0.0.0.0 nmeportal.duckdns.org
@@ -40897,7 +40934,6 @@
 0.0.0.0 octoroug.duckdns.org
 0.0.0.0 cloud.octoshrimpy.duckdns.org
 0.0.0.0 oczos.duckdns.org
-0.0.0.0 odagivchjh.duckdns.org
 0.0.0.0 www.odagivchjh.duckdns.org
 0.0.0.0 odala65.duckdns.org
 0.0.0.0 odala67.duckdns.org
@@ -41232,7 +41268,6 @@
 0.0.0.0 oobevay.duckdns.org
 0.0.0.0 ookam1.duckdns.org
 0.0.0.0 oomejyqrfh.duckdns.org
-0.0.0.0 oomrflytnx.duckdns.org
 0.0.0.0 www.oomrflytnx.duckdns.org
 0.0.0.0 www.oonski.duckdns.org
 0.0.0.0 ooocbcbcob.duckdns.org
@@ -42228,7 +42263,6 @@
 0.0.0.0 hass.pfugl.duckdns.org
 0.0.0.0 pfugltest.duckdns.org
 0.0.0.0 pgcasa.duckdns.org
-0.0.0.0 pgdczupqer.duckdns.org
 0.0.0.0 www.pgdczupqer.duckdns.org
 0.0.0.0 pge94.duckdns.org
 0.0.0.0 pgeerlink33.duckdns.org
@@ -45803,7 +45837,6 @@
 0.0.0.0 scrts.duckdns.org
 0.0.0.0 scruffy.duckdns.org
 0.0.0.0 scsa20.duckdns.org
-0.0.0.0 scshin011.duckdns.org
 0.0.0.0 scsi050.duckdns.org
 0.0.0.0 scsscs.duckdns.org
 0.0.0.0 sct-mtl.duckdns.org
@@ -48687,7 +48720,6 @@
 0.0.0.0 taters.duckdns.org
 0.0.0.0 tatersalad333.duckdns.org
 0.0.0.0 tatf-plex.duckdns.org
-0.0.0.0 tatf-vikunja.duckdns.org
 0.0.0.0 tatjax.duckdns.org
 0.0.0.0 tatoh.duckdns.org
 0.0.0.0 tatoonie.duckdns.org
@@ -49111,7 +49143,6 @@
 0.0.0.0 ha.theleefamily.duckdns.org
 0.0.0.0 nr.theleefamily.duckdns.org
 0.0.0.0 thelifeofme.duckdns.org
-0.0.0.0 grafana.thelions.duckdns.org
 0.0.0.0 thelookout.duckdns.org
 0.0.0.0 thelvan.duckdns.org
 0.0.0.0 themarcondes.duckdns.org
@@ -54208,7 +54239,6 @@
 0.0.0.0 ref.tawk.to
 0.0.0.0 smtp.tawk.to
 0.0.0.0 static-a.tawk.to
-0.0.0.0 static-v.tawk.to
 0.0.0.0 status.tawk.to
 0.0.0.0 test.tawk.to
 0.0.0.0 upload.tawk.to
