@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-06-26T13:05:20+00:00
-# Count: 54594 domains
+# Released: 2021-06-27T01:05:20+00:00
+# Count: 54618 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -10342,6 +10342,7 @@
 0.0.0.0 psychru.qualtrics.com
 0.0.0.0 psychruzn8cpg0snvaqe86xl-covid19triage.qualtrics.com
 0.0.0.0 psyunibe.qualtrics.com
+0.0.0.0 psyunihamburg.qualtrics.com
 0.0.0.0 ptc.qualtrics.com
 0.0.0.0 public-opinion.qualtrics.com
 0.0.0.0 publicjobs.qualtrics.com
@@ -12993,6 +12994,7 @@
 0.0.0.0 cs10320.vk.com
 0.0.0.0 cs10373.vk.com
 0.0.0.0 cs10376.vk.com
+0.0.0.0 cs10401.vk.com
 0.0.0.0 cs10421.vk.com
 0.0.0.0 cs10478.vk.com
 0.0.0.0 cs10501.vk.com
@@ -13020,11 +13022,13 @@
 0.0.0.0 cs140.vk.com
 0.0.0.0 cs141.vk.com
 0.0.0.0 cs143.vk.com
+0.0.0.0 cs1500.vk.com
 0.0.0.0 cs216.vk.com
 0.0.0.0 cs219.vk.com
 0.0.0.0 cs230.vk.com
 0.0.0.0 cs292596712.vk.com
 0.0.0.0 www.cs292596712.vk.com
+0.0.0.0 cs301215.vk.com
 0.0.0.0 cs302709.vk.com
 0.0.0.0 cs303100.vk.com
 0.0.0.0 cs303205.vk.com
@@ -13261,6 +13265,7 @@
 0.0.0.0 cs9681.vk.com
 0.0.0.0 cs9710.vk.com
 0.0.0.0 cs9731.vk.com
+0.0.0.0 cs9747.vk.com
 0.0.0.0 cs975.vk.com
 0.0.0.0 cs9763.vk.com
 0.0.0.0 cs9767.vk.com
@@ -13363,6 +13368,7 @@
 0.0.0.0 ivs458.vk.com
 0.0.0.0 iybbhm.vk.com
 0.0.0.0 izcaz.vk.com
+0.0.0.0 izhevsk.vk.com
 0.0.0.0 javascript-events.vk.com
 0.0.0.0 jbnank.vk.com
 0.0.0.0 jessentials-misc.vk.com
@@ -13445,6 +13451,7 @@
 0.0.0.0 ofhvyn.vk.com
 0.0.0.0 ogin.vk.com
 0.0.0.0 ognjs.vk.com
+0.0.0.0 old.vk.com
 0.0.0.0 olsyar.vk.com
 0.0.0.0 ommidtvask.vk.com
 0.0.0.0 ouath.vk.com
@@ -13478,6 +13485,7 @@
 0.0.0.0 www.push.vk.com
 0.0.0.0 puskesmaskota.vk.com
 0.0.0.0 pycaaf.vk.com
+0.0.0.0 qaegzn.vk.com
 0.0.0.0 qapi.vk.com
 0.0.0.0 qrvsas.vk.com
 0.0.0.0 quarantine-poc.vk.com
@@ -13522,6 +13530,7 @@
 0.0.0.0 srv108-26-213-95.vk.com
 0.0.0.0 srv112-237-186-93.vk.com
 0.0.0.0 srv113-102-213-95.vk.com
+0.0.0.0 srv117-26-213-95.vk.com
 0.0.0.0 srv124-22-213-95.vk.com
 0.0.0.0 srv129-129-240-87.vk.com
 0.0.0.0 srv129-185-240-87.vk.com
@@ -13552,15 +13561,20 @@
 0.0.0.0 www.srv158-137-240-87.vk.com
 0.0.0.0 srv16-132-240-87.vk.com
 0.0.0.0 srv160-185-240-87.vk.com
+0.0.0.0 srv161-89-213-95.vk.com
 0.0.0.0 srv163-11-213-95.vk.com
 0.0.0.0 srv164-11-213-95.vk.com
+0.0.0.0 srv166-190-240-87.vk.com
 0.0.0.0 srv168-170-240-87.vk.com
+0.0.0.0 srv168-178-240-87.vk.com
 0.0.0.0 srv168-185-240-87.vk.com
 0.0.0.0 srv171-21-213-95.vk.com
 0.0.0.0 srv172-156-240-87.vk.com
 0.0.0.0 srv177-129-240-87.vk.com
 0.0.0.0 srv178-129-240-87.vk.com
+0.0.0.0 srv180-95-213-95.vk.com
 0.0.0.0 srv181-129-240-87.vk.com
+0.0.0.0 srv187-138-240-87.vk.com
 0.0.0.0 srv191-137-240-87.vk.com
 0.0.0.0 srv193-113-213-95.vk.com
 0.0.0.0 srv193-139-240-87.vk.com
@@ -13576,11 +13590,13 @@
 0.0.0.0 srv207-137-240-87.vk.com
 0.0.0.0 srv207-228-186-93.vk.com
 0.0.0.0 srv208-137-240-87.vk.com
+0.0.0.0 srv214-167-137-79.vk.com
 0.0.0.0 srv218-0-213-95.vk.com
 0.0.0.0 srv220-151-240-87.vk.com
 0.0.0.0 srv221-238-186-93.vk.com
 0.0.0.0 srv222-51-213-95.vk.com
 0.0.0.0 srv226-191-240-87.vk.com
+0.0.0.0 srv226-39-213-95.vk.com
 0.0.0.0 srv228-182-240-87.vk.com
 0.0.0.0 srv229-170-240-87.vk.com
 0.0.0.0 srv230-165-240-87.vk.com
@@ -13589,8 +13605,10 @@
 0.0.0.0 srv244-15-213-95.vk.com
 0.0.0.0 srv246-164-240-87.vk.com
 0.0.0.0 srv251-165-240-87.vk.com
+0.0.0.0 srv254-85-213-95.vk.com
 0.0.0.0 srv28-156-240-87.vk.com
 0.0.0.0 srv3-6-213-95.vk.com
+0.0.0.0 srv34-239-186-93.vk.com
 0.0.0.0 srv38-74-213-95.vk.com
 0.0.0.0 srv41-129-240-87.vk.com
 0.0.0.0 srv41-139-240-87.vk.com
@@ -13639,10 +13657,12 @@
 0.0.0.0 pop.srv78-190-240-87.vk.com
 0.0.0.0 www.srv78-190-240-87.vk.com
 0.0.0.0 srv79-43-213-95.vk.com
+0.0.0.0 srv87-35-213-95.vk.com
 0.0.0.0 srv9-4-213-95.vk.com
 0.0.0.0 srv92-117-213-95.vk.com
 0.0.0.0 sstakk.vk.com
 0.0.0.0 st.vk.com
+0.0.0.0 st1-13.vk.com
 0.0.0.0 st1-14.vk.com
 0.0.0.0 st1-15.vk.com
 0.0.0.0 st1-16.vk.com
@@ -13749,6 +13769,7 @@
 0.0.0.0 tmzwgc.vk.com
 0.0.0.0 tost.vk.com
 0.0.0.0 touch.vk.com
+0.0.0.0 tpu.vk.com
 0.0.0.0 tr.vk.com
 0.0.0.0 truthpandemic.vk.com
 0.0.0.0 tv.vk.com
@@ -13775,6 +13796,7 @@
 0.0.0.0 vkube.vk.com
 0.0.0.0 vu.vk.com
 0.0.0.0 vww.vk.com
+0.0.0.0 wap.vk.com
 0.0.0.0 way.vk.com
 0.0.0.0 web17046.vk.com
 0.0.0.0 web18026.vk.com
@@ -21959,6 +21981,7 @@
 0.0.0.0 cs.cordg017ws.duckdns.org
 0.0.0.0 jl.cordg017ws.duckdns.org
 0.0.0.0 core-pass.duckdns.org
+0.0.0.0 core-server.duckdns.org
 0.0.0.0 core-sinj-flat.duckdns.org
 0.0.0.0 corected0.duckdns.org
 0.0.0.0 corecutter.duckdns.org
@@ -23872,6 +23895,8 @@
 0.0.0.0 portainer.domofistu.duckdns.org
 0.0.0.0 proxmox.domofistu.duckdns.org
 0.0.0.0 ssh.domofistu.duckdns.org
+0.0.0.0 vpn.domofistu.duckdns.org
+0.0.0.0 vpnx.domofistu.duckdns.org
 0.0.0.0 vs.domofistu.duckdns.org
 0.0.0.0 vscode.domofistu.duckdns.org
 0.0.0.0 webmail.domofistu.duckdns.org
@@ -27984,6 +28009,7 @@
 0.0.0.0 pass.greening.duckdns.org
 0.0.0.0 proxy.greening.duckdns.org
 0.0.0.0 synology.greening.duckdns.org
+0.0.0.0 vmm.greening.duckdns.org
 0.0.0.0 voip.greening.duckdns.org
 0.0.0.0 web1.greening.duckdns.org
 0.0.0.0 win10access01.greening.duckdns.org
@@ -35612,7 +35638,6 @@
 0.0.0.0 limo.duckdns.org
 0.0.0.0 limoncello.duckdns.org
 0.0.0.0 limone.duckdns.org
-0.0.0.0 limpei.duckdns.org
 0.0.0.0 limr-neodome.duckdns.org
 0.0.0.0 lindaan-hassio.duckdns.org
 0.0.0.0 lindacloud.duckdns.org
@@ -54333,7 +54358,6 @@
 0.0.0.0 asb24.tawk.to
 0.0.0.0 asb25.tawk.to
 0.0.0.0 asb26.tawk.to
-0.0.0.0 asb3.tawk.to
 0.0.0.0 asb4.tawk.to
 0.0.0.0 asb5.tawk.to
 0.0.0.0 asb6.tawk.to
