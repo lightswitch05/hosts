@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-06-26T13:05:20+00:00
-# Count: 23116 domains
+# Released: 2021-06-28T01:05:20+00:00
+# Count: 23194 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -748,6 +748,7 @@
 0.0.0.0 es-la.business.cinyour.facebook.com
 0.0.0.0 fi-fi.business.cinyour.facebook.com
 0.0.0.0 fr-fr.business.cinyour.facebook.com
+0.0.0.0 graph.business.cinyour.facebook.com
 0.0.0.0 hi-in.business.cinyour.facebook.com
 0.0.0.0 hr-hr.business.cinyour.facebook.com
 0.0.0.0 hu-hu.business.cinyour.facebook.com
@@ -14057,24 +14058,95 @@
 0.0.0.0 hi-in.it-it.id-id.prod.facebook.com
 0.0.0.0 www.it-it.id-id.prod.facebook.com
 0.0.0.0 ja-jp.id-id.prod.facebook.com
+0.0.0.0 ar-ar.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.ar-ar.ja-jp.id-id.prod.facebook.com
+0.0.0.0 bg-bg.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ca-es.ja-jp.id-id.prod.facebook.com
+0.0.0.0 cs-cz.ja-jp.id-id.prod.facebook.com
+0.0.0.0 cx-ph.ja-jp.id-id.prod.facebook.com
+0.0.0.0 cy-gb.ja-jp.id-id.prod.facebook.com
+0.0.0.0 da-dk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 de-de.ja-jp.id-id.prod.facebook.com
+0.0.0.0 el-gr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 en-gb.ja-jp.id-id.prod.facebook.com
+0.0.0.0 es-es.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.es-es.ja-jp.id-id.prod.facebook.com
 0.0.0.0 es-la.ja-jp.id-id.prod.facebook.com
+0.0.0.0 et-ee.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fa-ir.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fb-lt.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fi-fi.ja-jp.id-id.prod.facebook.com
 0.0.0.0 zh-cn.fi-fi.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fr-ca.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fr-fr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 he-il.ja-jp.id-id.prod.facebook.com
+0.0.0.0 hi-in.ja-jp.id-id.prod.facebook.com
+0.0.0.0 hr-hr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 hu-hu.ja-jp.id-id.prod.facebook.com
+0.0.0.0 id-id.ja-jp.id-id.prod.facebook.com
+0.0.0.0 it-it.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ja-jp.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ka-ge.ja-jp.id-id.prod.facebook.com
 0.0.0.0 ko-kr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ar-ar.ko-kr.ja-jp.id-id.prod.facebook.com
 0.0.0.0 es-la.ko-kr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fr-fr.ko-kr.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.ko-kr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 zh-cn.ko-kr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ku-tr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 lt-lt.ja-jp.id-id.prod.facebook.com
 0.0.0.0 mn-mn.ja-jp.id-id.prod.facebook.com
+0.0.0.0 fr-fr.ms-my.ja-jp.id-id.prod.facebook.com
+0.0.0.0 hi-in.ms-my.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.ms-my.ja-jp.id-id.prod.facebook.com
+0.0.0.0 nb-no.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ne-np.ja-jp.id-id.prod.facebook.com
+0.0.0.0 nl-be.ja-jp.id-id.prod.facebook.com
+0.0.0.0 nl-nl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 nn-no.ja-jp.id-id.prod.facebook.com
+0.0.0.0 pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ar-ar.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 da-dk.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 en-gb.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 es-la.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 pt-br.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 www.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 zh-cn.pl-pl.ja-jp.id-id.prod.facebook.com
+0.0.0.0 pt-br.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.pt-br.ja-jp.id-id.prod.facebook.com
+0.0.0.0 pt-pt.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ro-ro.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ru-ru.ja-jp.id-id.prod.facebook.com
+0.0.0.0 ja-jp.ru-ru.ja-jp.id-id.prod.facebook.com
+0.0.0.0 pt-pt.ru-ru.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.ru-ru.ja-jp.id-id.prod.facebook.com
 0.0.0.0 zh-cn.ru-ru.ja-jp.id-id.prod.facebook.com
+0.0.0.0 rw-rw.ja-jp.id-id.prod.facebook.com
+0.0.0.0 sc-it.ja-jp.id-id.prod.facebook.com
+0.0.0.0 sk-sk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 sr-rs.ja-jp.id-id.prod.facebook.com
+0.0.0.0 sv-se.ja-jp.id-id.prod.facebook.com
+0.0.0.0 th-th.ja-jp.id-id.prod.facebook.com
 0.0.0.0 de-de.th-th.ja-jp.id-id.prod.facebook.com
+0.0.0.0 es-es.th-th.ja-jp.id-id.prod.facebook.com
 0.0.0.0 es-la.th-th.ja-jp.id-id.prod.facebook.com
+0.0.0.0 hr-hr.th-th.ja-jp.id-id.prod.facebook.com
+0.0.0.0 www.th-th.ja-jp.id-id.prod.facebook.com
 0.0.0.0 zh-cn.th-th.ja-jp.id-id.prod.facebook.com
 0.0.0.0 zh-tw.th-th.ja-jp.id-id.prod.facebook.com
+0.0.0.0 tl-ph.ja-jp.id-id.prod.facebook.com
+0.0.0.0 tr-tr.ja-jp.id-id.prod.facebook.com
+0.0.0.0 uk-ua.ja-jp.id-id.prod.facebook.com
+0.0.0.0 vi-vn.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.ja-jp.id-id.prod.facebook.com
+0.0.0.0 zh-cn.ja-jp.id-id.prod.facebook.com
+0.0.0.0 zh-hk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 de-de.zh-hk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 en-gb.zh-hk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 hu-hu.zh-hk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 vi-vn.zh-hk.ja-jp.id-id.prod.facebook.com
 0.0.0.0 www.zh-hk.ja-jp.id-id.prod.facebook.com
+0.0.0.0 zh-tw.ja-jp.id-id.prod.facebook.com
 0.0.0.0 zh-cn.km-kh.id-id.prod.facebook.com
 0.0.0.0 ko-kr.id-id.prod.facebook.com
 0.0.0.0 de-de.ko-kr.id-id.prod.facebook.com
@@ -14189,7 +14261,12 @@
 0.0.0.0 www.th-th.id-id.prod.facebook.com
 0.0.0.0 www.id-id.prod.facebook.com
 0.0.0.0 zh-cn.id-id.prod.facebook.com
+0.0.0.0 cs-cz.zh-cn.id-id.prod.facebook.com
+0.0.0.0 el-gr.zh-cn.id-id.prod.facebook.com
+0.0.0.0 es-la.zh-cn.id-id.prod.facebook.com
 0.0.0.0 fr-fr.zh-cn.id-id.prod.facebook.com
+0.0.0.0 it-it.zh-cn.id-id.prod.facebook.com
+0.0.0.0 m.zh-cn.id-id.prod.facebook.com
 0.0.0.0 fr-fr.pt-br.zh-cn.id-id.prod.facebook.com
 0.0.0.0 zh-cn.pt-br.zh-cn.id-id.prod.facebook.com
 0.0.0.0 www.zh-cn.id-id.prod.facebook.com
@@ -15436,6 +15513,7 @@
 0.0.0.0 whatsapp-chatd-edge-shv-01-eze1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-frt3.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-frx5.facebook.com
+0.0.0.0 whatsapp-chatd-edge-shv-01-lcy1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-otp1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-tpe1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-waw1.facebook.com
