@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-07-03T01:05:20+00:00
-# Count: 55849 domains
+# Released: 2021-07-03T13:05:20+00:00
+# Count: 55862 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -16335,10 +16335,12 @@
 0.0.0.0 alexcloudpi.duckdns.org
 0.0.0.0 alexfish.duckdns.org
 0.0.0.0 alexfo.duckdns.org
+0.0.0.0 bw.alexfo.duckdns.org
 0.0.0.0 fritz.alexfo.duckdns.org
 0.0.0.0 ha.alexfo.duckdns.org
 0.0.0.0 hosy.alexfo.duckdns.org
 0.0.0.0 hs.alexfo.duckdns.org
+0.0.0.0 nginx.alexfo.duckdns.org
 0.0.0.0 alexhassio-415.duckdns.org
 0.0.0.0 alexhuot.duckdns.org
 0.0.0.0 alexisha.duckdns.org
@@ -16356,6 +16358,7 @@
 0.0.0.0 dsvideo.alexmm119.duckdns.org
 0.0.0.0 musica.alexmm119.duckdns.org
 0.0.0.0 nextcloud.alexmm119.duckdns.org
+0.0.0.0 photos.alexmm119.duckdns.org
 0.0.0.0 proxmox.alexmm119.duckdns.org
 0.0.0.0 tia.alexmm119.duckdns.org
 0.0.0.0 alexmtzo.duckdns.org
@@ -22358,7 +22361,11 @@
 0.0.0.0 requestrr.cooproot.duckdns.org
 0.0.0.0 copernico471.duckdns.org
 0.0.0.0 copohass.duckdns.org
+0.0.0.0 coponas.copohass.duckdns.org
+0.0.0.0 mansion.copohass.duckdns.org
 0.0.0.0 mcgomso.copohass.duckdns.org
+0.0.0.0 nginx.copohass.duckdns.org
+0.0.0.0 redgomso.copohass.duckdns.org
 0.0.0.0 coponos.duckdns.org
 0.0.0.0 coppolahouse.duckdns.org
 0.0.0.0 copyhahome.duckdns.org
@@ -34419,7 +34426,6 @@
 0.0.0.0 kallasol.duckdns.org
 0.0.0.0 kallback.duckdns.org
 0.0.0.0 kallek.duckdns.org
-0.0.0.0 kallikrates-zulip.duckdns.org
 0.0.0.0 kallipso.duckdns.org
 0.0.0.0 kallunki.duckdns.org
 0.0.0.0 kalmarek.duckdns.org
@@ -38594,6 +38600,7 @@
 0.0.0.0 ncp.menkwenk.duckdns.org
 0.0.0.0 nextcloudpi.menkwenk.duckdns.org
 0.0.0.0 piwigo.menkwenk.duckdns.org
+0.0.0.0 portainer.menkwenk.duckdns.org
 0.0.0.0 traefik.menkwenk.duckdns.org
 0.0.0.0 whoami.menkwenk.duckdns.org
 0.0.0.0 menm.duckdns.org
@@ -38698,6 +38705,8 @@
 0.0.0.0 mewnz.duckdns.org
 0.0.0.0 mewserver.duckdns.org
 0.0.0.0 hassio.mewserver.duckdns.org
+0.0.0.0 octopi.mewserver.duckdns.org
+0.0.0.0 plex.mewserver.duckdns.org
 0.0.0.0 printer.mewserver.duckdns.org
 0.0.0.0 shinobi.mewserver.duckdns.org
 0.0.0.0 unifi.mewserver.duckdns.org
@@ -43914,6 +43923,7 @@
 0.0.0.0 polios.duckdns.org
 0.0.0.0 poliserver.duckdns.org
 0.0.0.0 polison61.duckdns.org
+0.0.0.0 haxpe.polison61.duckdns.org
 0.0.0.0 nuc.polison61.duckdns.org
 0.0.0.0 omvhass.polison61.duckdns.org
 0.0.0.0 sds.polison61.duckdns.org
@@ -53962,6 +53972,7 @@
 0.0.0.0 xfast.duckdns.org
 0.0.0.0 dev.cpanel.xfinityi.duckdns.org
 0.0.0.0 blog.dev.cpanel.xfinityi.duckdns.org
+0.0.0.0 www.blog.dev.cpanel.xfinityi.duckdns.org
 0.0.0.0 blog.webdisk.xfinityi.duckdns.org
 0.0.0.0 blog.blog.webdisk.xfinityi.duckdns.org
 0.0.0.0 blog.blog.webmail.xfinityi.duckdns.org
@@ -54489,6 +54500,7 @@
 0.0.0.0 minio.zanna.duckdns.org
 0.0.0.0 motion.zanna.duckdns.org
 0.0.0.0 nextcloud.zanna.duckdns.org
+0.0.0.0 nuc.zanna.duckdns.org
 0.0.0.0 zanni.duckdns.org
 0.0.0.0 zaottini.duckdns.org
 0.0.0.0 zapa.duckdns.org
@@ -54783,6 +54795,7 @@
 0.0.0.0 octoprint.ztest.duckdns.org
 0.0.0.0 redbot.ztest.duckdns.org
 0.0.0.0 rtx.ztest.duckdns.org
+0.0.0.0 snap.ztest.duckdns.org
 0.0.0.0 tam.ztest.duckdns.org
 0.0.0.0 whoami.ztest.duckdns.org
 0.0.0.0 ztpo-lsd-registry.duckdns.org
