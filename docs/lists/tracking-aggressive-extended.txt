@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-07-04T13:05:20+00:00
-# Count: 56191 domains
+# Released: 2021-07-05T01:05:20+00:00
+# Count: 56194 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -9250,6 +9250,7 @@
 0.0.0.0 espn.qualtrics.com
 0.0.0.0 essec.qualtrics.com
 0.0.0.0 esselunga.qualtrics.com
+0.0.0.0 estudiofocus.qualtrics.com
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 abnamro.eu.qualtrics.com
 0.0.0.0 allianz.eu.qualtrics.com
@@ -13499,6 +13500,7 @@
 0.0.0.0 juscelinofranca.vk.com
 0.0.0.0 justtofresh.vk.com
 0.0.0.0 jwxes.vk.com
+0.0.0.0 khm.vk.com
 0.0.0.0 khromovskikh.vk.com
 0.0.0.0 kiss.vk.com
 0.0.0.0 koronaekszerkft-hu.vk.com
@@ -14203,6 +14205,7 @@
 0.0.0.0 images.intercom.io
 0.0.0.0 intercom-integrations.intercom.io
 0.0.0.0 internal.intercom.io
+0.0.0.0 contrail.eu.internal.intercom.io
 0.0.0.0 hound.internal.intercom.io
 0.0.0.0 interflow.internal.intercom.io
 0.0.0.0 interknowledge.internal.intercom.io
@@ -15402,6 +15405,10 @@
 0.0.0.0 portainer.5234.duckdns.org
 0.0.0.0 5247.duckdns.org
 0.0.0.0 529broome.duckdns.org
+0.0.0.0 homeassistant.529broome.duckdns.org
+0.0.0.0 jellyfin.529broome.duckdns.org
+0.0.0.0 plex.529broome.duckdns.org
+0.0.0.0 qbittorrent.529broome.duckdns.org
 0.0.0.0 529collins.duckdns.org
 0.0.0.0 52hk.duckdns.org
 0.0.0.0 531x.duckdns.org
@@ -26222,7 +26229,6 @@
 0.0.0.0 event-pubgmobile10.duckdns.org
 0.0.0.0 event-spin-evo343.duckdns.org
 0.0.0.0 event-spin-gratis-free-fire.duckdns.org
-0.0.0.0 event-spin21.duckdns.org
 0.0.0.0 mail.event-spin21.duckdns.org
 0.0.0.0 event-spinc.duckdns.org
 0.0.0.0 event-terbaru-free-fire-codha-v1.duckdns.org
@@ -26496,7 +26502,6 @@
 0.0.0.0 mail.facebook-security-news5.duckdns.org
 0.0.0.0 webdisk.facebook-security-news5.duckdns.org
 0.0.0.0 webmail.facebook-security-news5.duckdns.org
-0.0.0.0 facebooksecurity7.duckdns.org
 0.0.0.0 cpanel.facebooksecurity7.duckdns.org
 0.0.0.0 cpcalendars.facebooksecurity7.duckdns.org
 0.0.0.0 cpcontacts.facebooksecurity7.duckdns.org
@@ -26690,7 +26695,6 @@
 0.0.0.0 fart-house.duckdns.org
 0.0.0.0 jelly.farta.duckdns.org
 0.0.0.0 fartyha.duckdns.org
-0.0.0.0 farvascw.duckdns.org
 0.0.0.0 fassbergsgatan.duckdns.org
 0.0.0.0 fastidio.duckdns.org
 0.0.0.0 fasulloland.duckdns.org
@@ -30040,7 +30044,6 @@
 0.0.0.0 halikarnas43.duckdns.org
 0.0.0.0 halindenthal.duckdns.org
 0.0.0.0 halink.duckdns.org
-0.0.0.0 halitraefik.duckdns.org
 0.0.0.0 hallbeck-minio.duckdns.org
 0.0.0.0 hallenberg.duckdns.org
 0.0.0.0 addbackup.hallenberg.duckdns.org
@@ -50710,8 +50713,6 @@
 0.0.0.0 thedomovoi.duckdns.org
 0.0.0.0 thedowneys.duckdns.org
 0.0.0.0 thedudesabode.duckdns.org
-0.0.0.0 theedoran.duckdns.org
-0.0.0.0 dns.theedoran.duckdns.org
 0.0.0.0 thefat.duckdns.org
 0.0.0.0 thefile.duckdns.org
 0.0.0.0 thegarays.duckdns.org
@@ -53969,6 +53970,7 @@
 0.0.0.0 www.wmuobiovsl.duckdns.org
 0.0.0.0 wnc.duckdns.org
 0.0.0.0 ad.wnc.duckdns.org
+0.0.0.0 auth.wnc.duckdns.org
 0.0.0.0 dl.wnc.duckdns.org
 0.0.0.0 ha.wnc.duckdns.org
 0.0.0.0 home.wnc.duckdns.org
@@ -55557,6 +55559,7 @@
 0.0.0.0 binanceus.ada.support
 0.0.0.0 bitso.ada.support
 0.0.0.0 bittrex.ada.support
+0.0.0.0 bittrexglobal.ada.support
 0.0.0.0 blockfi.ada.support
 0.0.0.0 blog.ada.support
 0.0.0.0 blueair.ada.support
