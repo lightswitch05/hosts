@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-07-08T13:05:20+00:00
-# Count: 56130 domains
+# Released: 2021-07-09T01:05:20+00:00
+# Count: 56147 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -10194,6 +10194,7 @@
 0.0.0.0 mayvillestate.qualtrics.com
 0.0.0.0 mazonww.qualtrics.com
 0.0.0.0 mbta.qualtrics.com
+0.0.0.0 mcafeeenterprise.qualtrics.com
 0.0.0.0 mccombs.qualtrics.com
 0.0.0.0 mcgillmgmt.qualtrics.com
 0.0.0.0 mcqma.qualtrics.com
@@ -10201,6 +10202,7 @@
 0.0.0.0 mcvma.qualtrics.com
 0.0.0.0 mde.qualtrics.com
 0.0.0.0 mdrc.qualtrics.com
+0.0.0.0 medpanel.qualtrics.com
 0.0.0.0 meetelise.qualtrics.com
 0.0.0.0 megapath.qualtrics.com
 0.0.0.0 melcohr.qualtrics.com
@@ -10363,6 +10365,7 @@
 0.0.0.0 coviddwhxd.om21117.qualtrics.com
 0.0.0.0 omasks.qualtrics.com
 0.0.0.0 onetech.qualtrics.com
+0.0.0.0 onetrustex.qualtrics.com
 0.0.0.0 onlinestudies.qualtrics.com
 0.0.0.0 openbusinessschool.qualtrics.com
 0.0.0.0 openss.qualtrics.com
@@ -12195,6 +12198,7 @@
 0.0.0.0 viacom.qualtrics.com
 0.0.0.0 viawest.qualtrics.com
 0.0.0.0 viawest-lkhykcrgcoivdv-travelers.qualtrics.com
+0.0.0.0 victra.qualtrics.com
 0.0.0.0 vimeo.qualtrics.com
 0.0.0.0 vimeovids.qualtrics.com
 0.0.0.0 virginia.qualtrics.com
@@ -15675,7 +15679,6 @@
 0.0.0.0 aatpdns.duckdns.org
 0.0.0.0 ab-auto.duckdns.org
 0.0.0.0 ab-pam-ha.duckdns.org
-0.0.0.0 ab-traefik.duckdns.org
 0.0.0.0 ab1234.duckdns.org
 0.0.0.0 ab8.duckdns.org
 0.0.0.0 ab94jro19.duckdns.org
@@ -17848,7 +17851,6 @@
 0.0.0.0 azirionhass.duckdns.org
 0.0.0.0 azocto.duckdns.org
 0.0.0.0 azr-hass.duckdns.org
-0.0.0.0 azservertower.duckdns.org
 0.0.0.0 azteria.duckdns.org
 0.0.0.0 azulab.duckdns.org
 0.0.0.0 azureknights.duckdns.org
@@ -18296,6 +18298,7 @@
 0.0.0.0 am.bcool.duckdns.org
 0.0.0.0 bw.bcool.duckdns.org
 0.0.0.0 ha.bcool.duckdns.org
+0.0.0.0 kb.bcool.duckdns.org
 0.0.0.0 nas.bcool.duckdns.org
 0.0.0.0 sb.bcool.duckdns.org
 0.0.0.0 cpanel.bdeqfr.duckdns.org
@@ -19992,6 +19995,7 @@
 0.0.0.0 beehive.c0eos.duckdns.org
 0.0.0.0 blissful-leakey.c0eos.duckdns.org
 0.0.0.0 bold-moore.c0eos.duckdns.org
+0.0.0.0 boring-golick.c0eos.duckdns.org
 0.0.0.0 brave-meitner.c0eos.duckdns.org
 0.0.0.0 calibre.c0eos.duckdns.org
 0.0.0.0 calibre-web.c0eos.duckdns.org
@@ -20033,17 +20037,22 @@
 0.0.0.0 magical-carson.c0eos.duckdns.org
 0.0.0.0 modest-wozniak.c0eos.duckdns.org
 0.0.0.0 mqtt.c0eos.duckdns.org
+0.0.0.0 mstream.c0eos.duckdns.org
+0.0.0.0 mylar.c0eos.duckdns.org
 0.0.0.0 nextcloud.c0eos.duckdns.org
 0.0.0.0 nextcloud-docker.c0eos.duckdns.org
 0.0.0.0 nginx.c0eos.duckdns.org
 0.0.0.0 objective-buck.c0eos.duckdns.org
 0.0.0.0 octoprint.c0eos.duckdns.org
+0.0.0.0 optimistic-spence.c0eos.duckdns.org
 0.0.0.0 paperless.c0eos.duckdns.org
 0.0.0.0 paperless-webserver.c0eos.duckdns.org
 0.0.0.0 pedantic-mcclintock.c0eos.duckdns.org
 0.0.0.0 pihole.c0eos.duckdns.org
 0.0.0.0 portainer.c0eos.duckdns.org
 0.0.0.0 priceless-euclid.c0eos.duckdns.org
+0.0.0.0 priceless-williams.c0eos.duckdns.org
+0.0.0.0 prowlarr.c0eos.duckdns.org
 0.0.0.0 qbittorrent.c0eos.duckdns.org
 0.0.0.0 radarr.c0eos.duckdns.org
 0.0.0.0 radarr-docker.c0eos.duckdns.org
@@ -20884,6 +20893,8 @@
 0.0.0.0 redis.librephotos.cdecasa.duckdns.org
 0.0.0.0 mongo.mealie.cdecasa.duckdns.org
 0.0.0.0 mongo-express.mealie.cdecasa.duckdns.org
+0.0.0.0 db.pixelfed.cdecasa.duckdns.org
+0.0.0.0 redis.pixelfed.cdecasa.duckdns.org
 0.0.0.0 worker.pixelfed.cdecasa.duckdns.org
 0.0.0.0 worker.pixelfed-source.cdecasa.duckdns.org
 0.0.0.0 database.teslamate.cdecasa.duckdns.org
@@ -28739,6 +28750,7 @@
 0.0.0.0 nas.greening.duckdns.org
 0.0.0.0 networks.greening.duckdns.org
 0.0.0.0 pass.greening.duckdns.org
+0.0.0.0 photo.greening.duckdns.org
 0.0.0.0 proxy.greening.duckdns.org
 0.0.0.0 synology.greening.duckdns.org
 0.0.0.0 vmm.greening.duckdns.org
@@ -28998,7 +29010,6 @@
 0.0.0.0 webdisk.grupbokepbaru.duckdns.org
 0.0.0.0 webmail.grupbokepbaru.duckdns.org
 0.0.0.0 www.grupbokepbaru.duckdns.org
-0.0.0.0 cpcontacts.grupbokepindoviral.duckdns.org
 0.0.0.0 grupbokepmontok18.duckdns.org
 0.0.0.0 grupbokepnew.duckdns.org
 0.0.0.0 grupchatviralterbaru.duckdns.org
@@ -31296,6 +31307,7 @@
 0.0.0.0 hokla-home.duckdns.org
 0.0.0.0 hokstigen17.duckdns.org
 0.0.0.0 hoktaar.duckdns.org
+0.0.0.0 holacasa.duckdns.org
 0.0.0.0 holderfamily.duckdns.org
 0.0.0.0 holiday-island.duckdns.org
 0.0.0.0 holidaybuttons.duckdns.org
@@ -31523,7 +31535,6 @@
 0.0.0.0 homeappeine.duckdns.org
 0.0.0.0 homearmando.duckdns.org
 0.0.0.0 homearzy.duckdns.org
-0.0.0.0 homeasist.duckdns.org
 0.0.0.0 homeass-sarah.duckdns.org
 0.0.0.0 homeass1969.duckdns.org
 0.0.0.0 homeass21.duckdns.org
@@ -32891,7 +32902,9 @@
 0.0.0.0 ha.itstherosedog.duckdns.org
 0.0.0.0 homenas.itstherosedog.duckdns.org
 0.0.0.0 hoobs.itstherosedog.duckdns.org
+0.0.0.0 jackett.itstherosedog.duckdns.org
 0.0.0.0 nzbget.itstherosedog.duckdns.org
+0.0.0.0 nzbhydra.itstherosedog.duckdns.org
 0.0.0.0 plex.itstherosedog.duckdns.org
 0.0.0.0 portainer.itstherosedog.duckdns.org
 0.0.0.0 radarr.itstherosedog.duckdns.org
@@ -37939,6 +37952,7 @@
 0.0.0.0 manu1991.duckdns.org
 0.0.0.0 manudiv15.duckdns.org
 0.0.0.0 bitwarden.manudiv15.duckdns.org
+0.0.0.0 blog.manudiv15.duckdns.org
 0.0.0.0 code.manudiv15.duckdns.org
 0.0.0.0 mealie.manudiv15.duckdns.org
 0.0.0.0 nextcloud.manudiv15.duckdns.org
@@ -45739,6 +45753,7 @@
 0.0.0.0 nextcloud.renscloud.duckdns.org
 0.0.0.0 photo.renscloud.duckdns.org
 0.0.0.0 print.renscloud.duckdns.org
+0.0.0.0 snap.renscloud.duckdns.org
 0.0.0.0 syno.renscloud.duckdns.org
 0.0.0.0 www.renscloud.duckdns.org
 0.0.0.0 zt.renscloud.duckdns.org
@@ -47786,7 +47801,6 @@
 0.0.0.0 serviceccvchasfr0.duckdns.org
 0.0.0.0 cpanel.serviceccvchasfr0.duckdns.org
 0.0.0.0 servicepoint.duckdns.org
-0.0.0.0 cpanel.serviceresetinfo.duckdns.org
 0.0.0.0 services-bec-restore.duckdns.org
 0.0.0.0 servicessl.duckdns.org
 0.0.0.0 servicewebmanager-securipass-active.duckdns.org
@@ -50889,12 +50903,15 @@
 0.0.0.0 thomasdilts.duckdns.org
 0.0.0.0 thomasfamily.duckdns.org
 0.0.0.0 auth.thomasfamily.duckdns.org
+0.0.0.0 dashboard.thomasfamily.duckdns.org
 0.0.0.0 files.thomasfamily.duckdns.org
 0.0.0.0 git.thomasfamily.duckdns.org
 0.0.0.0 guacamole.thomasfamily.duckdns.org
 0.0.0.0 homeassistant.thomasfamily.duckdns.org
 0.0.0.0 jellyfin.thomasfamily.duckdns.org
+0.0.0.0 ombi.thomasfamily.duckdns.org
 0.0.0.0 photos.thomasfamily.duckdns.org
+0.0.0.0 prowlarr.thomasfamily.duckdns.org
 0.0.0.0 pydio.thomasfamily.duckdns.org
 0.0.0.0 radarr.thomasfamily.duckdns.org
 0.0.0.0 sonarr.thomasfamily.duckdns.org
@@ -54000,7 +54017,6 @@
 0.0.0.0 wormshouse.duckdns.org
 0.0.0.0 wot-mm.duckdns.org
 0.0.0.0 wotthome.duckdns.org
-0.0.0.0 woudenberg.duckdns.org
 0.0.0.0 woutersgh.duckdns.org
 0.0.0.0 wouwseweg.duckdns.org
 0.0.0.0 wp-blog.duckdns.org
@@ -54058,6 +54074,7 @@
 0.0.0.0 dms.wuelbern.duckdns.org
 0.0.0.0 ha.wuelbern.duckdns.org
 0.0.0.0 heizung.wuelbern.duckdns.org
+0.0.0.0 home.wuelbern.duckdns.org
 0.0.0.0 nzb.wuelbern.duckdns.org
 0.0.0.0 omv.wuelbern.duckdns.org
 0.0.0.0 paper.wuelbern.duckdns.org
