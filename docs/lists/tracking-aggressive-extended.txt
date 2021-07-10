@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-07-10T01:05:21+00:00
-# Count: 56215 domains
+# Released: 2021-07-10T13:05:20+00:00
+# Count: 56228 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -18405,6 +18405,7 @@
 0.0.0.0 beeny.duckdns.org
 0.0.0.0 beep-boop.duckdns.org
 0.0.0.0 beep64.duckdns.org
+0.0.0.0 ha.beep64.duckdns.org
 0.0.0.0 beepha.duckdns.org
 0.0.0.0 beerdev.duckdns.org
 0.0.0.0 beesens.duckdns.org
@@ -28512,8 +28513,10 @@
 0.0.0.0 tvshows.gofo.duckdns.org
 0.0.0.0 gogibeet-hass.duckdns.org
 0.0.0.0 gogopanda.duckdns.org
+0.0.0.0 file.gogopanda.duckdns.org
 0.0.0.0 ha.gogopanda.duckdns.org
 0.0.0.0 plex.gogopanda.duckdns.org
+0.0.0.0 port.gogopanda.duckdns.org
 0.0.0.0 trans.gogopanda.duckdns.org
 0.0.0.0 va.gogopanda.duckdns.org
 0.0.0.0 gogy5.duckdns.org
@@ -34267,6 +34270,7 @@
 0.0.0.0 code.jtv.duckdns.org
 0.0.0.0 comix.jtv.duckdns.org
 0.0.0.0 klive.jtv.duckdns.org
+0.0.0.0 meta.jtv.duckdns.org
 0.0.0.0 nas.jtv.duckdns.org
 0.0.0.0 npm.jtv.duckdns.org
 0.0.0.0 plex.jtv.duckdns.org
@@ -39104,6 +39108,7 @@
 0.0.0.0 octocamara.mihassiokk.duckdns.org
 0.0.0.0 octoprint.mihassiokk.duckdns.org
 0.0.0.0 octoprint2.mihassiokk.duckdns.org
+0.0.0.0 octoprintipv6.mihassiokk.duckdns.org
 0.0.0.0 octossh.mihassiokk.duckdns.org
 0.0.0.0 plex.mihassiokk.duckdns.org
 0.0.0.0 pow1.mihassiokk.duckdns.org
@@ -39112,12 +39117,15 @@
 0.0.0.0 pzem.mihassiokk.duckdns.org
 0.0.0.0 tasmo.reles.mihassiokk.duckdns.org
 0.0.0.0 routertel.mihassiokk.duckdns.org
+0.0.0.0 routertrendnet.mihassiokk.duckdns.org
 0.0.0.0 shelly.mihassiokk.duckdns.org
 0.0.0.0 tasmo.shelly.mihassiokk.duckdns.org
+0.0.0.0 tasmoadmin.mihassiokk.duckdns.org
 0.0.0.0 tasmota.mihassiokk.duckdns.org
 0.0.0.0 telefonica.mihassiokk.duckdns.org
 0.0.0.0 torrent.mihassiokk.duckdns.org
 0.0.0.0 xiaomi.mihassiokk.duckdns.org
+0.0.0.0 xiaoroutewrt.mihassiokk.duckdns.org
 0.0.0.0 zabbix.mihassiokk.duckdns.org
 0.0.0.0 zigbee.mihassiokk.duckdns.org
 0.0.0.0 mihause.duckdns.org
@@ -53984,14 +53992,19 @@
 0.0.0.0 www.wmuobiovsl.duckdns.org
 0.0.0.0 wnc.duckdns.org
 0.0.0.0 ad.wnc.duckdns.org
+0.0.0.0 adg.wnc.duckdns.org
 0.0.0.0 auth.wnc.duckdns.org
 0.0.0.0 dl.wnc.duckdns.org
+0.0.0.0 ds.wnc.duckdns.org
+0.0.0.0 guac.wnc.duckdns.org
 0.0.0.0 ha.wnc.duckdns.org
 0.0.0.0 home.wnc.duckdns.org
 0.0.0.0 lidarr.wnc.duckdns.org
 0.0.0.0 mqtt.wnc.duckdns.org
+0.0.0.0 portainer.wnc.duckdns.org
 0.0.0.0 radarr.wnc.duckdns.org
 0.0.0.0 sonarr.wnc.duckdns.org
+0.0.0.0 traefik.wnc.duckdns.org
 0.0.0.0 wndrlnd.duckdns.org
 0.0.0.0 wnextcloud.duckdns.org
 0.0.0.0 ha.wnhomenord.duckdns.org
