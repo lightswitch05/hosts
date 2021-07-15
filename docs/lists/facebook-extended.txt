@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-07-14T13:05:20+00:00
-# Count: 24484 domains
+# Released: 2021-07-15T01:05:20+00:00
+# Count: 24531 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -10528,6 +10528,7 @@
 0.0.0.0 af-za.m.lite.facebook.com
 0.0.0.0 fr-fr.af-za.m.lite.facebook.com
 0.0.0.0 ja-jp.af-za.m.lite.facebook.com
+0.0.0.0 es-la.ja-jp.af-za.m.lite.facebook.com
 0.0.0.0 zh-cn.af-za.m.lite.facebook.com
 0.0.0.0 www.ar-ar.m.lite.facebook.com
 0.0.0.0 www.ar-ar.bg-bg.m.lite.facebook.com
@@ -10626,6 +10627,7 @@
 0.0.0.0 th-th.fi-fi.m.lite.facebook.com
 0.0.0.0 tr-tr.fi-fi.m.lite.facebook.com
 0.0.0.0 uk-ua.fi-fi.m.lite.facebook.com
+0.0.0.0 pt-br.uk-ua.fi-fi.m.lite.facebook.com
 0.0.0.0 vi-vn.fi-fi.m.lite.facebook.com
 0.0.0.0 www.fi-fi.m.lite.facebook.com
 0.0.0.0 zh-cn.fi-fi.m.lite.facebook.com
@@ -10950,6 +10952,7 @@
 0.0.0.0 az-az.m.m.lite.facebook.com
 0.0.0.0 bs-ba.m.m.lite.facebook.com
 0.0.0.0 ca-es.m.m.lite.facebook.com
+0.0.0.0 ro-ro.ca-es.m.m.lite.facebook.com
 0.0.0.0 cs-cz.m.m.lite.facebook.com
 0.0.0.0 da-dk.m.m.lite.facebook.com
 0.0.0.0 de-de.m.m.lite.facebook.com
@@ -11006,6 +11009,12 @@
 0.0.0.0 pt-br.pt-br.m.lite.facebook.com
 0.0.0.0 fr-fr.pt-pt.m.lite.facebook.com
 0.0.0.0 sl-si.m.lite.facebook.com
+0.0.0.0 ca-es.sl-si.m.lite.facebook.com
+0.0.0.0 fi-fi.sl-si.m.lite.facebook.com
+0.0.0.0 hi-in.sl-si.m.lite.facebook.com
+0.0.0.0 hr-hr.sl-si.m.lite.facebook.com
+0.0.0.0 nb-no.sl-si.m.lite.facebook.com
+0.0.0.0 ro-ro.sl-si.m.lite.facebook.com
 0.0.0.0 ar-ar.sv-se.m.lite.facebook.com
 0.0.0.0 www.el-gr.sv-se.m.lite.facebook.com
 0.0.0.0 www.fi-fi.sv-se.m.lite.facebook.com
@@ -12195,6 +12204,7 @@
 0.0.0.0 zh-cn.apps.vi-vn.lite.facebook.com
 0.0.0.0 ar-ar.vi-vn.lite.facebook.com
 0.0.0.0 apps.ar-ar.vi-vn.lite.facebook.com
+0.0.0.0 fr-fr.apps.ar-ar.vi-vn.lite.facebook.com
 0.0.0.0 www.apps.ar-ar.vi-vn.lite.facebook.com
 0.0.0.0 zh-tw.apps.ar-ar.vi-vn.lite.facebook.com
 0.0.0.0 ar-ar.ar-ar.vi-vn.lite.facebook.com
@@ -12363,9 +12373,45 @@
 0.0.0.0 shigekix5.vi-vn.lite.facebook.com
 0.0.0.0 www.th-th.vi-vn.lite.facebook.com
 0.0.0.0 tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 ar-ar.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 az-az.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 bg-bg.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 bs-ba.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 cs-cz.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 da-dk.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 de-de.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 el-gr.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 en-gb.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 es-es.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 es-la.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 fi-fi.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 fr-ca.tr-tr.vi-vn.lite.facebook.com
 0.0.0.0 fr-fr.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 he-il.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 hi-in.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 id-id.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 is-is.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 it-it.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 ja-jp.tr-tr.vi-vn.lite.facebook.com
 0.0.0.0 ko-kr.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 ms-my.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 nb-no.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 nl-be.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 nl-nl.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 pl-pl.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 pt-br.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 pt-pt.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 ro-ro.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 ru-ru.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 sk-sk.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 sq-al.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 sv-se.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 th-th.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 tl-ph.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 tr-tr.tr-tr.vi-vn.lite.facebook.com
 0.0.0.0 www.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 zh-cn.tr-tr.vi-vn.lite.facebook.com
+0.0.0.0 zh-hk.tr-tr.vi-vn.lite.facebook.com
 0.0.0.0 www.zh-cn.vi-vn.lite.facebook.com
 0.0.0.0 zh-hk.vi-vn.lite.facebook.com
 0.0.0.0 2o-9s1id.zh-hk.vi-vn.lite.facebook.com
@@ -16763,6 +16809,7 @@
 0.0.0.0 smtpin.vvv.facebook.com
 0.0.0.0 w.facebook.com
 0.0.0.0 watch.facebook.com
+0.0.0.0 wearejeff.facebook.com
 0.0.0.0 web.facebook.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 wesleyanuk.facebook.com
