@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-07-28T13:05:20+00:00
-# Count: 24998 domains
+# Released: 2021-07-30T13:05:20+00:00
+# Count: 25002 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -396,6 +396,9 @@
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 www.block-test.developerdan.com
 0.0.0.0 block-test-facebook.developerdan.com
+0.0.0.0 diem.diem--facebook.com
+0.0.0.0 down.diem--facebook.com
+0.0.0.0 www.diem--facebook.com
 0.0.0.0 facebook.com
 0.0.0.0 0.facebook.com
 0.0.0.0 m.0.facebook.com
@@ -20150,6 +20153,7 @@
 0.0.0.0 edge-video-shv-02-dfw5.fbcdn.net
 0.0.0.0 edge-video-shv-02-hkt1.fbcdn.net
 0.0.0.0 edge-video-shv-02-kut2.fbcdn.net
+0.0.0.0 edge-video-shv-02-lax3.fbcdn.net
 0.0.0.0 edge-video-shv-02-lga3.fbcdn.net
 0.0.0.0 edge-video-shv-02-ort2.fbcdn.net
 0.0.0.0 edge-video-shv-02-xsp1.fbcdn.net
