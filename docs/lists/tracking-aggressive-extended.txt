@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-08-15T01:05:22+00:00
-# Count: 60690 domains
+# Released: 2021-08-15T13:05:21+00:00
+# Count: 60698 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -1983,6 +1983,7 @@
 0.0.0.0 one.one.cloudflare-dns.com
 0.0.0.0 one.one.one.cloudflare-dns.com
 0.0.0.0 one.one.one.one.cloudflare-dns.com
+0.0.0.0 onedotonedotonedotone.cloudflare-dns.com
 0.0.0.0 opera.cloudflare-dns.com
 0.0.0.0 ozilla.cloudflare-dns.com
 0.0.0.0 qamozilla.cloudflare-dns.com
@@ -16824,6 +16825,7 @@
 0.0.0.0 bitwarden.alextrical.duckdns.org
 0.0.0.0 bw.alextrical.duckdns.org
 0.0.0.0 ha.alextrical.duckdns.org
+0.0.0.0 hass.alextrical.duckdns.org
 0.0.0.0 nginx.alextrical.duckdns.org
 0.0.0.0 portainer.alextrical.duckdns.org
 0.0.0.0 proxmox.alextrical.duckdns.org
@@ -26256,6 +26258,7 @@
 0.0.0.0 dsbhome.duckdns.org
 0.0.0.0 dscso.duckdns.org
 0.0.0.0 dsduarte.duckdns.org
+0.0.0.0 ha.dsduarte.duckdns.org
 0.0.0.0 hateste.dsduarte.duckdns.org
 0.0.0.0 qnap.dsduarte.duckdns.org
 0.0.0.0 dseah.duckdns.org
@@ -27537,7 +27540,6 @@
 0.0.0.0 esteirohouse.duckdns.org
 0.0.0.0 estevaoc.duckdns.org
 0.0.0.0 estiajitsi.duckdns.org
-0.0.0.0 estmatic.duckdns.org
 0.0.0.0 estmatic-ha.duckdns.org
 0.0.0.0 duplicati2.estoes.duckdns.org
 0.0.0.0 medusa.estoes.duckdns.org
@@ -27954,7 +27956,6 @@
 0.0.0.0 mail.eventnewff.duckdns.org
 0.0.0.0 webmail.eventnewff.duckdns.org
 0.0.0.0 eventnotnot201.duckdns.org
-0.0.0.0 eventpubgm123.duckdns.org
 0.0.0.0 eventpubgmobilenewn.duckdns.org
 0.0.0.0 cpanel.eventpubgmobilenewn.duckdns.org
 0.0.0.0 cpcalendars.eventpubgmobilenewn.duckdns.org
@@ -30637,7 +30638,6 @@
 0.0.0.0 graffio58.duckdns.org
 0.0.0.0 music.grahamcracker.duckdns.org
 0.0.0.0 grajek.duckdns.org
-0.0.0.0 grakhome.duckdns.org
 0.0.0.0 graloka.duckdns.org
 0.0.0.0 grammagoose.duckdns.org
 0.0.0.0 grammaswan.duckdns.org
@@ -38402,6 +38402,7 @@
 0.0.0.0 drive.kw-lee.duckdns.org
 0.0.0.0 file.kw-lee.duckdns.org
 0.0.0.0 get.kw-lee.duckdns.org
+0.0.0.0 gitlab.kw-lee.duckdns.org
 0.0.0.0 moments.kw-lee.duckdns.org
 0.0.0.0 video.kw-lee.duckdns.org
 0.0.0.0 webdav.kw-lee.duckdns.org
@@ -39959,7 +39960,6 @@
 0.0.0.0 mta-sts.luckyguy4870.duckdns.org
 0.0.0.0 luckyhassio1.duckdns.org
 0.0.0.0 luckyspin-new-garena.duckdns.org
-0.0.0.0 luckyspin-new2021-feb.duckdns.org
 0.0.0.0 luckyspin-terbaru-garena7263.duckdns.org
 0.0.0.0 cpanel.luckyspin-terbaru-garena7263.duckdns.org
 0.0.0.0 www.luckyspin-terbaru-garena7263.duckdns.org
@@ -43645,9 +43645,13 @@
 0.0.0.0 nages.duckdns.org
 0.0.0.0 nagi-nano.duckdns.org
 0.0.0.0 home-assistant.nagi-nano.duckdns.org
+0.0.0.0 jellyfin.nagi-nano.duckdns.org
+0.0.0.0 nc.nagi-nano.duckdns.org
 0.0.0.0 nextcloud.nagi-nano.duckdns.org
 0.0.0.0 torrent.nagi-nano.duckdns.org
 0.0.0.0 vw.nagi-nano.duckdns.org
+0.0.0.0 web.nagi-nano.duckdns.org
+0.0.0.0 webdav.nagi-nano.duckdns.org
 0.0.0.0 nagios64.duckdns.org
 0.0.0.0 nagys.duckdns.org
 0.0.0.0 naib.duckdns.org
@@ -48043,6 +48047,8 @@
 0.0.0.0 puesto8.duckdns.org
 0.0.0.0 bookstack.puesto8.duckdns.org
 0.0.0.0 transfer.puesto8.duckdns.org
+0.0.0.0 vaultwarden.puesto8.duckdns.org
+0.0.0.0 wikijs.puesto8.duckdns.org
 0.0.0.0 pueyo.duckdns.org
 0.0.0.0 pufferhomeassistant.duckdns.org
 0.0.0.0 puffoxahome.duckdns.org
@@ -54414,7 +54420,6 @@
 0.0.0.0 temkin.duckdns.org
 0.0.0.0 tempestahub.duckdns.org
 0.0.0.0 tenamor.duckdns.org
-0.0.0.0 tencentcolectb.duckdns.org
 0.0.0.0 tenebrae.duckdns.org
 0.0.0.0 tenebris.duckdns.org
 0.0.0.0 teneo.duckdns.org
@@ -54541,6 +54546,7 @@
 0.0.0.0 firefly.tgrowl.duckdns.org
 0.0.0.0 home.tgrowl.duckdns.org
 0.0.0.0 mail.tgrowl.duckdns.org
+0.0.0.0 minecraft.tgrowl.duckdns.org
 0.0.0.0 omv.tgrowl.duckdns.org
 0.0.0.0 whoogle.tgrowl.duckdns.org
 0.0.0.0 tgtbhome.duckdns.org
@@ -57590,6 +57596,9 @@
 0.0.0.0 wcarlsen.duckdns.org
 0.0.0.0 app.wcarlsen.duckdns.org
 0.0.0.0 keycloak.wcarlsen.duckdns.org
+0.0.0.0 minio.wcarlsen.duckdns.org
+0.0.0.0 api.minio.wcarlsen.duckdns.org
+0.0.0.0 console.minio.wcarlsen.duckdns.org
 0.0.0.0 wcbradley.duckdns.org
 0.0.0.0 www.wcbradley.duckdns.org
 0.0.0.0 wchxiaddho.duckdns.org
@@ -57764,7 +57773,6 @@
 0.0.0.0 wergeld.duckdns.org
 0.0.0.0 werkpaardcore.duckdns.org
 0.0.0.0 wernersens.duckdns.org
-0.0.0.0 werneyha.duckdns.org
 0.0.0.0 wernham.duckdns.org
 0.0.0.0 wernli-cabin.duckdns.org
 0.0.0.0 wernlihome.duckdns.org
