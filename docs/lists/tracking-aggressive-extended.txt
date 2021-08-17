@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-08-16T13:05:20+00:00
-# Count: 60711 domains
+# Released: 2021-08-17T01:05:21+00:00
+# Count: 60715 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -21466,6 +21466,7 @@
 0.0.0.0 discovirtual.casapucela.duckdns.org
 0.0.0.0 indice.casapucela.duckdns.org
 0.0.0.0 lidarr.casapucela.duckdns.org
+0.0.0.0 nube.casapucela.duckdns.org
 0.0.0.0 portainer.casapucela.duckdns.org
 0.0.0.0 radarr.casapucela.duckdns.org
 0.0.0.0 sonarr.casapucela.duckdns.org
@@ -28327,18 +28328,21 @@
 0.0.0.0 bookstack.famwecker.duckdns.org
 0.0.0.0 cloud.famwecker.duckdns.org
 0.0.0.0 collabora.famwecker.duckdns.org
+0.0.0.0 droppy.famwecker.duckdns.org
 0.0.0.0 grafana.famwecker.duckdns.org
 0.0.0.0 guacamole.famwecker.duckdns.org
 0.0.0.0 heimdall.famwecker.duckdns.org
 0.0.0.0 morty.famwecker.duckdns.org
 0.0.0.0 nextcloud.famwecker.duckdns.org
 0.0.0.0 phpipam.famwecker.duckdns.org
+0.0.0.0 podgrab.famwecker.duckdns.org
 0.0.0.0 portainer.famwecker.duckdns.org
 0.0.0.0 traefik.famwecker.duckdns.org
 0.0.0.0 unms.famwecker.duckdns.org
 0.0.0.0 weckersearch.famwecker.duckdns.org
 0.0.0.0 weckersearx.famwecker.duckdns.org
 0.0.0.0 wiki.famwecker.duckdns.org
+0.0.0.0 ydl.famwecker.duckdns.org
 0.0.0.0 famwes.duckdns.org
 0.0.0.0 jellyfin-account.famwoolderink.duckdns.org
 0.0.0.0 faneca.duckdns.org
@@ -29996,6 +30000,7 @@
 0.0.0.0 gelhass.duckdns.org
 0.0.0.0 gelinski.duckdns.org
 0.0.0.0 grafana.gelinski.duckdns.org
+0.0.0.0 ha.gelinski.duckdns.org
 0.0.0.0 kibana.gelinski.duckdns.org
 0.0.0.0 nodered.gelinski.duckdns.org
 0.0.0.0 qbit.gelinski.duckdns.org
@@ -35687,7 +35692,6 @@
 0.0.0.0 javielnef.duckdns.org
 0.0.0.0 javierator-ha.duckdns.org
 0.0.0.0 javiercebrian.duckdns.org
-0.0.0.0 javiersplexserver.duckdns.org
 0.0.0.0 javierstolen.duckdns.org
 0.0.0.0 javihome.duckdns.org
 0.0.0.0 javijavitis61.duckdns.org
@@ -54980,6 +54984,7 @@
 0.0.0.0 qb.thunk.duckdns.org
 0.0.0.0 radarr.thunk.duckdns.org
 0.0.0.0 sonarr.thunk.duckdns.org
+0.0.0.0 ssh.thunk.duckdns.org
 0.0.0.0 thuyan.duckdns.org
 0.0.0.0 thuyenhome.duckdns.org
 0.0.0.0 thuyentran.duckdns.org
@@ -58094,7 +58099,6 @@
 0.0.0.0 wiki-ibots.duckdns.org
 0.0.0.0 wiki-sebatinez.duckdns.org
 0.0.0.0 wikiwiki.duckdns.org
-0.0.0.0 wikstfre.duckdns.org
 0.0.0.0 wiktorssonhome.duckdns.org
 0.0.0.0 akinator-api.wild-projects.duckdns.org
 0.0.0.0 captain.wild-projects.duckdns.org
