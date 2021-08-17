@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-08-17T01:05:21+00:00
-# Count: 60715 domains
+# Released: 2021-08-17T13:05:21+00:00
+# Count: 60730 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -18908,11 +18908,17 @@
 0.0.0.0 https.email.office.9uf59ba9k4fkl4bgeohzl4sqnhgks.ywhmkt2cl8bpbnlki6rzq.8i5khzu1sw9xkeyydvp.kecb89yzckjjncs3susueevpv.f8wyufhx6h46pkd1f.tagaletg81k4bpkgkvsha56lko4kf.t4dm0smesm6q4xtjhfvxqi6k4e.bdgejehjw.duckdns.org
 0.0.0.0 www.bdgejehjw.duckdns.org
 0.0.0.0 bdhome.duckdns.org
+0.0.0.0 19.bdhome.duckdns.org
+0.0.0.0 beelink.bdhome.duckdns.org
 0.0.0.0 bootshaus.bdhome.duckdns.org
 0.0.0.0 bw.bdhome.duckdns.org
+0.0.0.0 cam1.bdhome.duckdns.org
 0.0.0.0 cam2.bdhome.duckdns.org
 0.0.0.0 cam3.bdhome.duckdns.org
 0.0.0.0 cam4.bdhome.duckdns.org
+0.0.0.0 cam5.bdhome.duckdns.org
+0.0.0.0 cam6.bdhome.duckdns.org
+0.0.0.0 cam7.bdhome.duckdns.org
 0.0.0.0 fhem.bdhome.duckdns.org
 0.0.0.0 homeassistant.bdhome.duckdns.org
 0.0.0.0 motioneye.bdhome.duckdns.org
@@ -18923,6 +18929,7 @@
 0.0.0.0 office.bdhome.duckdns.org
 0.0.0.0 portainer.bdhome.duckdns.org
 0.0.0.0 portainer1.bdhome.duckdns.org
+0.0.0.0 portainer2.bdhome.duckdns.org
 0.0.0.0 proxmox.bdhome.duckdns.org
 0.0.0.0 router.bdhome.duckdns.org
 0.0.0.0 tasmota.bdhome.duckdns.org
@@ -20308,6 +20315,7 @@
 0.0.0.0 kggbot.brickert.duckdns.org
 0.0.0.0 plex.brickert.duckdns.org
 0.0.0.0 resume.brickert.duckdns.org
+0.0.0.0 send.brickert.duckdns.org
 0.0.0.0 speedtest.brickert.duckdns.org
 0.0.0.0 torrent.brickert.duckdns.org
 0.0.0.0 vscode.brickert.duckdns.org
@@ -23672,6 +23680,7 @@
 0.0.0.0 jupyter.cosmere.duckdns.org
 0.0.0.0 lidarr.cosmere.duckdns.org
 0.0.0.0 nelflix.cosmere.duckdns.org
+0.0.0.0 nelflixnew.cosmere.duckdns.org
 0.0.0.0 nodered.cosmere.duckdns.org
 0.0.0.0 nzbget.cosmere.duckdns.org
 0.0.0.0 radarr.cosmere.duckdns.org
@@ -30401,7 +30410,6 @@
 0.0.0.0 gmjcfnbtbr.duckdns.org
 0.0.0.0 www.gmjcfnbtbr.duckdns.org
 0.0.0.0 gmrandazzo.duckdns.org
-0.0.0.0 gmrsfs.duckdns.org
 0.0.0.0 gmtl.duckdns.org
 0.0.0.0 traefik.conf.gmtl.duckdns.org
 0.0.0.0 emby.gmumple.duckdns.org
@@ -39173,7 +39181,6 @@
 0.0.0.0 ley26.duckdns.org
 0.0.0.0 lezubernet.duckdns.org
 0.0.0.0 lf48y9me0bksf6104e32f2h01z98x0m4b924476h.duckdns.org
-0.0.0.0 lffnxmllju.duckdns.org
 0.0.0.0 lfgut.duckdns.org
 0.0.0.0 apolo.lfgut.duckdns.org
 0.0.0.0 backup.lfgut.duckdns.org
@@ -41977,6 +41984,7 @@
 0.0.0.0 pow2.mihassiokk.duckdns.org
 0.0.0.0 putty.mihassiokk.duckdns.org
 0.0.0.0 pzem.mihassiokk.duckdns.org
+0.0.0.0 rasp4openwrt.mihassiokk.duckdns.org
 0.0.0.0 tasmo.reles.mihassiokk.duckdns.org
 0.0.0.0 tasmo.riego.mihassiokk.duckdns.org
 0.0.0.0 routertel.mihassiokk.duckdns.org
@@ -44162,6 +44170,7 @@
 0.0.0.0 emby.nesie.duckdns.org
 0.0.0.0 grafana.nesie.duckdns.org
 0.0.0.0 ha.nesie.duckdns.org
+0.0.0.0 lola.nesie.duckdns.org
 0.0.0.0 mopidy.nesie.duckdns.org
 0.0.0.0 mqtt.nesie.duckdns.org
 0.0.0.0 owc.nesie.duckdns.org
@@ -44914,6 +44923,9 @@
 0.0.0.0 nomoca.duckdns.org
 0.0.0.0 nompang.duckdns.org
 0.0.0.0 nompangyi19.duckdns.org
+0.0.0.0 npm.nompangyi19.duckdns.org
+0.0.0.0 port.nompangyi19.duckdns.org
+0.0.0.0 sync.nompangyi19.duckdns.org
 0.0.0.0 nomshaus.duckdns.org
 0.0.0.0 nonocloud.duckdns.org
 0.0.0.0 nonohome.duckdns.org
@@ -46019,6 +46031,7 @@
 0.0.0.0 ourwolwenhouse.duckdns.org
 0.0.0.0 outdoorcreations.duckdns.org
 0.0.0.0 outerlink.duckdns.org
+0.0.0.0 outlander-cloud.duckdns.org
 0.0.0.0 outofstock.duckdns.org
 0.0.0.0 outpost4398.duckdns.org
 0.0.0.0 cloud.outpost53.duckdns.org
@@ -50240,7 +50253,6 @@
 0.0.0.0 rwvm.duckdns.org
 0.0.0.0 rxabm.duckdns.org
 0.0.0.0 rxafcqkjuq.duckdns.org
-0.0.0.0 rxhbsnpcqh.duckdns.org
 0.0.0.0 ry1707.duckdns.org
 0.0.0.0 ryandurante.duckdns.org
 0.0.0.0 ryaninihome.duckdns.org
@@ -55592,6 +55604,7 @@
 0.0.0.0 nc.treetop.duckdns.org
 0.0.0.0 password.treetop.duckdns.org
 0.0.0.0 unifi.treetop.duckdns.org
+0.0.0.0 vault.treetop.duckdns.org
 0.0.0.0 tregano.duckdns.org
 0.0.0.0 treintaynueverem.duckdns.org
 0.0.0.0 www.treintaynueverem.duckdns.org
@@ -57637,6 +57650,7 @@
 0.0.0.0 gibberish.weaveworld.duckdns.org
 0.0.0.0 gitlab.weaveworld.duckdns.org
 0.0.0.0 vegcsaba.weaveworld.duckdns.org
+0.0.0.0 vegzoltan.weaveworld.duckdns.org
 0.0.0.0 web-privacy-setting-account.duckdns.org
 0.0.0.0 webapplicationmvc-ci.duckdns.org
 0.0.0.0 webapplicationmvc-stage.duckdns.org
@@ -60442,6 +60456,7 @@
 0.0.0.0 asb12.tawk.to
 0.0.0.0 asb13.tawk.to
 0.0.0.0 asb14.tawk.to
+0.0.0.0 asb15.tawk.to
 0.0.0.0 asb16.tawk.to
 0.0.0.0 asb17.tawk.to
 0.0.0.0 asb18.tawk.to
