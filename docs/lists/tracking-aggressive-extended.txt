@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-08-25T13:05:21+00:00
-# Count: 60854 domains
+# Released: 2021-08-26T01:05:21+00:00
+# Count: 60873 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -323,9 +323,11 @@
 0.0.0.0 bps.daikuan.360.cn
 0.0.0.0 cafe-front.daikuan.360.cn
 0.0.0.0 cdn.daikuan.360.cn
+0.0.0.0 crdtree.daikuan.360.cn
 0.0.0.0 csps.daikuan.360.cn
 0.0.0.0 dss.daikuan.360.cn
 0.0.0.0 ele.daikuan.360.cn
+0.0.0.0 lego.daikuan.360.cn
 0.0.0.0 m.daikuan.360.cn
 0.0.0.0 mcp.daikuan.360.cn
 0.0.0.0 mktmain.daikuan.360.cn
@@ -707,6 +709,7 @@
 0.0.0.0 upload.kuaidi.360.cn
 0.0.0.0 upload2.kuaidi.360.cn
 0.0.0.0 upload2-b.kuaidi.360.cn
+0.0.0.0 kxdpx.360.cn
 0.0.0.0 kxports.360.cn
 0.0.0.0 labs.360.cn
 0.0.0.0 poc.wenjuan.lap.360.cn
@@ -8332,6 +8335,7 @@
 0.0.0.0 capellauniversity.qualtrics.com
 0.0.0.0 capitalone.qualtrics.com
 0.0.0.0 capsresearch.qualtrics.com
+0.0.0.0 captiveresources.qualtrics.com
 0.0.0.0 car.qualtrics.com
 0.0.0.0 cardiff.qualtrics.com
 0.0.0.0 cardiffmet.qualtrics.com
@@ -8384,6 +8388,7 @@
 0.0.0.0 chubbcc.qualtrics.com
 0.0.0.0 cincinnati.qualtrics.com
 0.0.0.0 ciri.qualtrics.com
+0.0.0.0 ciscocloudsecuritycs.qualtrics.com
 0.0.0.0 ciscocx.qualtrics.com
 0.0.0.0 citi1.qualtrics.com
 0.0.0.0 citizensbank.qualtrics.com
@@ -19039,6 +19044,7 @@
 0.0.0.0 becu-secureonline002.duckdns.org
 0.0.0.0 becuonlinehelps.duckdns.org
 0.0.0.0 bedardrouter.duckdns.org
+0.0.0.0 minecraft.bedardrouter.duckdns.org
 0.0.0.0 pass.bedardrouter.duckdns.org
 0.0.0.0 bednarz.duckdns.org
 0.0.0.0 bee202012221.duckdns.org
@@ -20118,6 +20124,7 @@
 0.0.0.0 lazylibrarian.boosted3svt.duckdns.org
 0.0.0.0 magento.boosted3svt.duckdns.org
 0.0.0.0 old.boosted3svt.duckdns.org
+0.0.0.0 plexpy.boosted3svt.duckdns.org
 0.0.0.0 portainer.boosted3svt.duckdns.org
 0.0.0.0 www.portainer.boosted3svt.duckdns.org
 0.0.0.0 request.boosted3svt.duckdns.org
@@ -28506,7 +28513,6 @@
 0.0.0.0 favotto.duckdns.org
 0.0.0.0 favour1.duckdns.org
 0.0.0.0 fawcettcloud.duckdns.org
-0.0.0.0 faxdocs.duckdns.org
 0.0.0.0 faxhome.duckdns.org
 0.0.0.0 faxyhass.duckdns.org
 0.0.0.0 fayejay.duckdns.org
@@ -33777,8 +33783,10 @@
 0.0.0.0 home-domo.duckdns.org
 0.0.0.0 home-duck-hassio-felix.duckdns.org
 0.0.0.0 home-eagles-nest.duckdns.org
+0.0.0.0 appdaemon.home-eagles-nest.duckdns.org
 0.0.0.0 ha.home-eagles-nest.duckdns.org
 0.0.0.0 homebridge.home-eagles-nest.duckdns.org
+0.0.0.0 organizr.home-eagles-nest.duckdns.org
 0.0.0.0 plex.home-eagles-nest.duckdns.org
 0.0.0.0 tablet.home-eagles-nest.duckdns.org
 0.0.0.0 tautulli.home-eagles-nest.duckdns.org
@@ -37046,7 +37054,6 @@
 0.0.0.0 jusimhome.duckdns.org
 0.0.0.0 just8morebolts.duckdns.org
 0.0.0.0 justanotherhome.duckdns.org
-0.0.0.0 justbit.duckdns.org
 0.0.0.0 justchina.duckdns.org
 0.0.0.0 justcloud.duckdns.org
 0.0.0.0 justcompany.duckdns.org
@@ -38024,6 +38031,7 @@
 0.0.0.0 kmshark.duckdns.org
 0.0.0.0 kmsmlcmhlm.duckdns.org
 0.0.0.0 kmspb.duckdns.org
+0.0.0.0 nextcloud.kmspb.duckdns.org
 0.0.0.0 kmu.duckdns.org
 0.0.0.0 kmufhoqxvq.duckdns.org
 0.0.0.0 kn0tit.duckdns.org
@@ -38514,6 +38522,7 @@
 0.0.0.0 get.kw-lee.duckdns.org
 0.0.0.0 gitlab.kw-lee.duckdns.org
 0.0.0.0 moments.kw-lee.duckdns.org
+0.0.0.0 stat.kw-lee.duckdns.org
 0.0.0.0 video.kw-lee.duckdns.org
 0.0.0.0 webdav.kw-lee.duckdns.org
 0.0.0.0 kw12home.duckdns.org
@@ -49788,6 +49797,8 @@
 0.0.0.0 vpn.robbpi.duckdns.org
 0.0.0.0 robbsrv.duckdns.org
 0.0.0.0 erp.robbsrv.duckdns.org
+0.0.0.0 erxes.robbsrv.duckdns.org
+0.0.0.0 subscriptions.erxes.robbsrv.duckdns.org
 0.0.0.0 games.robbsrv.duckdns.org
 0.0.0.0 mc.games.robbsrv.duckdns.org
 0.0.0.0 modem.robbsrv.duckdns.org
@@ -55203,9 +55214,14 @@
 0.0.0.0 timmay54.duckdns.org
 0.0.0.0 alertmanager.timmay54.duckdns.org
 0.0.0.0 gitlab.timmay54.duckdns.org
+0.0.0.0 gotify.timmay54.duckdns.org
 0.0.0.0 grafana.timmay54.duckdns.org
+0.0.0.0 loki.timmay54.duckdns.org
 0.0.0.0 mesa.timmay54.duckdns.org
+0.0.0.0 mesa-simulation.timmay54.duckdns.org
+0.0.0.0 mysql.timmay54.duckdns.org
 0.0.0.0 pfbe.timmay54.duckdns.org
+0.0.0.0 portfolio-backend.timmay54.duckdns.org
 0.0.0.0 proxmox.timmay54.duckdns.org
 0.0.0.0 redmine.timmay54.duckdns.org
 0.0.0.0 teamcity.timmay54.duckdns.org
@@ -60184,6 +60200,7 @@
 0.0.0.0 briana.ada.support
 0.0.0.0 buda.ada.support
 0.0.0.0 bulk.ada.support
+0.0.0.0 bybit.ada.support
 0.0.0.0 ca.ada.support
 0.0.0.0 koodo.ca.ada.support
 0.0.0.0 www.koodo.ca.ada.support
@@ -60254,6 +60271,7 @@
 0.0.0.0 cricut.ada.support
 0.0.0.0 crunchbase.ada.support
 0.0.0.0 cyberghost.ada.support
+0.0.0.0 dapperlabs.ada.support
 0.0.0.0 digicel.ada.support
 0.0.0.0 digicel-languages.ada.support
 0.0.0.0 ding.ada.support
@@ -60417,6 +60435,7 @@
 0.0.0.0 payfit-fr.ada.support
 0.0.0.0 pc-financial.ada.support
 0.0.0.0 pcmobileshop.ada.support
+0.0.0.0 peloton-support.ada.support
 0.0.0.0 play-on.ada.support
 0.0.0.0 pokemon.ada.support
 0.0.0.0 powerschool.ada.support
