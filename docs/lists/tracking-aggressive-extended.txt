@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-09-03T01:05:22+00:00
-# Count: 62245 domains
+# Released: 2021-09-03T13:05:22+00:00
+# Count: 62266 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -602,6 +602,7 @@
 0.0.0.0 txl.idata.360.cn
 0.0.0.0 iisec.360.cn
 0.0.0.0 img.360.cn
+0.0.0.0 institute.360.cn
 0.0.0.0 iot.360.cn
 0.0.0.0 api.iot.360.cn
 0.0.0.0 fastconn-api.iot.360.cn
@@ -829,6 +830,7 @@
 0.0.0.0 profile-b.mb.360.cn
 0.0.0.0 me.360.cn
 0.0.0.0 mgame.360.cn
+0.0.0.0 mhzm.360.cn
 0.0.0.0 miguan.360.cn
 0.0.0.0 mingpian.360.cn
 0.0.0.0 mini.360.cn
@@ -1021,6 +1023,7 @@
 0.0.0.0 pub-shyc2.s3.360.cn
 0.0.0.0 pub-zzdt.s3.360.cn
 0.0.0.0 pub1-bjyt.s3.360.cn
+0.0.0.0 sa.360.cn
 0.0.0.0 2018worldcup.safe.360.cn
 0.0.0.0 a.safe.360.cn
 0.0.0.0 akn.safe.360.cn
@@ -1065,6 +1068,7 @@
 0.0.0.0 vi.sd.360.cn
 0.0.0.0 www.sd.360.cn
 0.0.0.0 www-b.sd.360.cn
+0.0.0.0 sdns.360.cn
 0.0.0.0 sdp.360.cn
 0.0.0.0 sdup.360.cn
 0.0.0.0 sdupf.360.cn
@@ -1414,6 +1418,8 @@
 0.0.0.0 171a78.link.yunpan.360.cn
 0.0.0.0 37353b.link.yunpan.360.cn
 0.0.0.0 yunqu.360.cn
+0.0.0.0 h5.yunqu.360.cn
+0.0.0.0 m.yunqu.360.cn
 0.0.0.0 yuntan.360.cn
 0.0.0.0 yx.360.cn
 0.0.0.0 yzt.360.cn
@@ -10512,6 +10518,7 @@
 0.0.0.0 nbk.qualtrics.com
 0.0.0.0 nbsuea.qualtrics.com
 0.0.0.0 ncaa.qualtrics.com
+0.0.0.0 ncat.qualtrics.com
 0.0.0.0 nccadv.qualtrics.com
 0.0.0.0 ncepod.qualtrics.com
 0.0.0.0 ncsbn.qualtrics.com
@@ -15653,7 +15660,6 @@
 0.0.0.0 2ranm.duckdns.org
 0.0.0.0 pa.2sp0ky4me.duckdns.org
 0.0.0.0 2sycamoreclose.duckdns.org
-0.0.0.0 2uzcwqqcwjxz3wyz.duckdns.org
 0.0.0.0 2x1.duckdns.org
 0.0.0.0 2ys.duckdns.org
 0.0.0.0 30.duckdns.org
@@ -16301,7 +16307,6 @@
 0.0.0.0 actinidia.duckdns.org
 0.0.0.0 actinium-i.duckdns.org
 0.0.0.0 actinograph.duckdns.org
-0.0.0.0 actio0nsecuuree2762828.duckdns.org
 0.0.0.0 action-needed-secure-account-required.duckdns.org
 0.0.0.0 actionsstartnow.duckdns.org
 0.0.0.0 actioshome.duckdns.org
@@ -29949,8 +29954,6 @@
 0.0.0.0 cpcontacts.freefire-event-gratis89.duckdns.org
 0.0.0.0 www.freefire-event-gratis89.duckdns.org
 0.0.0.0 freefire-eventgg.duckdns.org
-0.0.0.0 cpcontacts.freefire-eventgg.duckdns.org
-0.0.0.0 webdisk.freefire-eventgg.duckdns.org
 0.0.0.0 freefire-eventy.duckdns.org
 0.0.0.0 freefire-garena-event-gratis-net.duckdns.org
 0.0.0.0 freefire-garezarss.duckdns.org
@@ -35314,7 +35317,6 @@
 0.0.0.0 hv2168.duckdns.org
 0.0.0.0 hvacengi.duckdns.org
 0.0.0.0 hvb.duckdns.org
-0.0.0.0 hvbhj.duckdns.org
 0.0.0.0 bazarr.hvermannsen.duckdns.org
 0.0.0.0 headphones.hvermannsen.duckdns.org
 0.0.0.0 jackett.hvermannsen.duckdns.org
@@ -44942,9 +44944,27 @@
 0.0.0.0 nasluna.duckdns.org
 0.0.0.0 mail.nasluna.duckdns.org
 0.0.0.0 demo.nasmann.duckdns.org
+0.0.0.0 beta.demo.nasmann.duckdns.org
 0.0.0.0 blog.demo.nasmann.duckdns.org
+0.0.0.0 m.demo.nasmann.duckdns.org
+0.0.0.0 new.demo.nasmann.duckdns.org
+0.0.0.0 news.demo.nasmann.duckdns.org
+0.0.0.0 old.demo.nasmann.duckdns.org
+0.0.0.0 shop.demo.nasmann.duckdns.org
+0.0.0.0 test.demo.nasmann.duckdns.org
+0.0.0.0 www.demo.nasmann.duckdns.org
+0.0.0.0 www2.demo.nasmann.duckdns.org
 0.0.0.0 dev.nasmann.duckdns.org
+0.0.0.0 beta.dev.nasmann.duckdns.org
 0.0.0.0 blog.dev.nasmann.duckdns.org
+0.0.0.0 m.dev.nasmann.duckdns.org
+0.0.0.0 new.dev.nasmann.duckdns.org
+0.0.0.0 news.dev.nasmann.duckdns.org
+0.0.0.0 old.dev.nasmann.duckdns.org
+0.0.0.0 shop.dev.nasmann.duckdns.org
+0.0.0.0 test.dev.nasmann.duckdns.org
+0.0.0.0 www.dev.nasmann.duckdns.org
+0.0.0.0 www2.dev.nasmann.duckdns.org
 0.0.0.0 magento.nasmann.duckdns.org
 0.0.0.0 blog.magento.nasmann.duckdns.org
 0.0.0.0 old.nasmann.duckdns.org
@@ -47272,6 +47292,8 @@
 0.0.0.0 grafana.pa3dsoft.duckdns.org
 0.0.0.0 homeassistant.pa3dsoft.duckdns.org
 0.0.0.0 nodered.pa3dsoft.duckdns.org
+0.0.0.0 pagergrafana.pa3dsoft.duckdns.org
+0.0.0.0 pagermon.pa3dsoft.duckdns.org
 0.0.0.0 paapri.duckdns.org
 0.0.0.0 paarak.duckdns.org
 0.0.0.0 paardekoopervanvelzen.duckdns.org
@@ -57506,7 +57528,6 @@
 0.0.0.0 unifi3190.duckdns.org
 0.0.0.0 unifigcp.duckdns.org
 0.0.0.0 unifishrxit.duckdns.org
-0.0.0.0 unikmjnjn.duckdns.org
 0.0.0.0 united-nextcloud.duckdns.org
 0.0.0.0 units.duckdns.org
 0.0.0.0 unitsoftware.duckdns.org
