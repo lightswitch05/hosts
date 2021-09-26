@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-09-26T01:05:22+00:00
-# Count: 66931 domains
+# Released: 2021-09-26T13:05:22+00:00
+# Count: 66947 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -3781,6 +3781,7 @@
 0.0.0.0 omajimedesign.drift.com
 0.0.0.0 operationspodcast.drift.com
 0.0.0.0 pi.drift.com
+0.0.0.0 pipelinepodcast.drift.com
 0.0.0.0 play.drift.com
 0.0.0.0 preferences.drift.com
 0.0.0.0 presence-state-api.drift.com
@@ -7669,6 +7670,7 @@
 0.0.0.0 acupoll.qualtrics.com
 0.0.0.0 ad1.qualtrics.com
 0.0.0.0 adareps.qualtrics.com
+0.0.0.0 addcd.qualtrics.com
 0.0.0.0 adea.qualtrics.com
 0.0.0.0 adec.qualtrics.com
 0.0.0.0 www.adec.qualtrics.com
@@ -15712,6 +15714,7 @@
 0.0.0.0 150howie.duckdns.org
 0.0.0.0 157159.duckdns.org
 0.0.0.0 1573.duckdns.org
+0.0.0.0 n8n.1573.duckdns.org
 0.0.0.0 1588cromwellct.duckdns.org
 0.0.0.0 15oscar.duckdns.org
 0.0.0.0 15ravensway.duckdns.org
@@ -20894,6 +20897,7 @@
 0.0.0.0 www.portainer.boosted3svt.duckdns.org
 0.0.0.0 request.boosted3svt.duckdns.org
 0.0.0.0 www.request.boosted3svt.duckdns.org
+0.0.0.0 sabnzbd.boosted3svt.duckdns.org
 0.0.0.0 shop.boosted3svt.duckdns.org
 0.0.0.0 staging.boosted3svt.duckdns.org
 0.0.0.0 store.boosted3svt.duckdns.org
@@ -31226,6 +31230,7 @@
 0.0.0.0 flypesca.duckdns.org
 0.0.0.0 flyrlo.duckdns.org
 0.0.0.0 flyweb.duckdns.org
+0.0.0.0 bin.flyweb.duckdns.org
 0.0.0.0 nice.flyweb.duckdns.org
 0.0.0.0 scm.flyweb.duckdns.org
 0.0.0.0 traefik.flyweb.duckdns.org
@@ -31961,8 +31966,10 @@
 0.0.0.0 g3nisys.duckdns.org
 0.0.0.0 g4challenge.duckdns.org
 0.0.0.0 competition.g4challenge.duckdns.org
+0.0.0.0 dashboard.g4challenge.duckdns.org
 0.0.0.0 git.g4challenge.duckdns.org
 0.0.0.0 k3s.g4challenge.duckdns.org
+0.0.0.0 keycloak.g4challenge.duckdns.org
 0.0.0.0 labelstudio.g4challenge.duckdns.org
 0.0.0.0 livecode.g4challenge.duckdns.org
 0.0.0.0 minio.g4challenge.duckdns.org
@@ -38306,6 +38313,7 @@
 0.0.0.0 gitlab.iraca.duckdns.org
 0.0.0.0 hassio.iraca.duckdns.org
 0.0.0.0 monitor.iraca.duckdns.org
+0.0.0.0 mqtt.iraca.duckdns.org
 0.0.0.0 nodered.iraca.duckdns.org
 0.0.0.0 iramfasterx.duckdns.org
 0.0.0.0 iratirex.duckdns.org
@@ -42645,7 +42653,6 @@
 0.0.0.0 lefebvrecharles.duckdns.org
 0.0.0.0 lefebvreengenharia.duckdns.org
 0.0.0.0 left4dev.duckdns.org
-0.0.0.0 legal890.duckdns.org
 0.0.0.0 legalportal.duckdns.org
 0.0.0.0 legham.duckdns.org
 0.0.0.0 legindary.duckdns.org
@@ -45085,10 +45092,13 @@
 0.0.0.0 maxpowerhomeassistant.duckdns.org
 0.0.0.0 maxrh2.duckdns.org
 0.0.0.0 configurator.maxrh2.duckdns.org
+0.0.0.0 draw.maxrh2.duckdns.org
 0.0.0.0 gitea.maxrh2.duckdns.org
 0.0.0.0 ssh.gitea.maxrh2.duckdns.org
 0.0.0.0 grafana.maxrh2.duckdns.org
 0.0.0.0 guacamole.maxrh2.duckdns.org
+0.0.0.0 guacozy.maxrh2.duckdns.org
+0.0.0.0 issue.maxrh2.duckdns.org
 0.0.0.0 mysql.maxrh2.duckdns.org
 0.0.0.0 portainer.maxrh2.duckdns.org
 0.0.0.0 postgres.maxrh2.duckdns.org
@@ -45096,6 +45106,8 @@
 0.0.0.0 teleport.maxrh2.duckdns.org
 0.0.0.0 trasa.maxrh2.duckdns.org
 0.0.0.0 vmware.maxrh2.duckdns.org
+0.0.0.0 wiki.maxrh2.duckdns.org
+0.0.0.0 youtrack.maxrh2.duckdns.org
 0.0.0.0 zero.maxrh2.duckdns.org
 0.0.0.0 maxrx.duckdns.org
 0.0.0.0 maxschall.duckdns.org
@@ -57362,6 +57374,11 @@
 0.0.0.0 simonford.duckdns.org
 0.0.0.0 simonha.duckdns.org
 0.0.0.0 simonhouse.duckdns.org
+0.0.0.0 access.simonhouse.duckdns.org
+0.0.0.0 everything.simonhouse.duckdns.org
+0.0.0.0 minecraft.simonhouse.duckdns.org
+0.0.0.0 plex.simonhouse.duckdns.org
+0.0.0.0 search.simonhouse.duckdns.org
 0.0.0.0 simonix.duckdns.org
 0.0.0.0 adm.simonix.duckdns.org
 0.0.0.0 jellyfin.simonix.duckdns.org
@@ -61429,7 +61446,6 @@
 0.0.0.0 tvjwrevesc.duckdns.org
 0.0.0.0 tvmarinhas.duckdns.org
 0.0.0.0 tvmini.duckdns.org
-0.0.0.0 tvmtnmipoe.duckdns.org
 0.0.0.0 tvpower.duckdns.org
 0.0.0.0 tvrequests.duckdns.org
 0.0.0.0 tvwdzebcjx.duckdns.org
