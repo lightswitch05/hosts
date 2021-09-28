@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-09-27T13:05:22+00:00
-# Count: 67104 domains
+# Released: 2021-09-28T01:05:21+00:00
+# Count: 67123 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -8405,6 +8405,7 @@
 0.0.0.0 uwgreenbay.ca1.qualtrics.com
 0.0.0.0 waterlooregional.ca1.qualtrics.com
 0.0.0.0 caacpvid01.qualtrics.com
+0.0.0.0 caceis.qualtrics.com
 0.0.0.0 cacfamazon.qualtrics.com
 0.0.0.0 cadmus.qualtrics.com
 0.0.0.0 cal.qualtrics.com
@@ -8490,6 +8491,7 @@
 0.0.0.0 civilserviceinsight.qualtrics.com
 0.0.0.0 claimsfeedback.qualtrics.com
 0.0.0.0 clarku.qualtrics.com
+0.0.0.0 clavsm.qualtrics.com
 0.0.0.0 claytonstate.qualtrics.com
 0.0.0.0 cleardata.qualtrics.com
 0.0.0.0 clearvoicesurveys.qualtrics.com
@@ -9510,10 +9512,19 @@
 0.0.0.0 env.qualtrics.com
 0.0.0.0 envisionutah.qualtrics.com
 0.0.0.0 ep-mimecast.qualtrics.com
+0.0.0.0 mcid-02402856-c459-44ec-8a0c-79bfdb4a961c.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-0a2e67cc-c764-4c0d-a0eb-4adc7a9599c0.ep-mimecast.qualtrics.com
 0.0.0.0 mcid-1384565d-fe9f-48dc-8038-dcb5671decba.ep-mimecast.qualtrics.com
 0.0.0.0 mcid-17293470-b620-4145-9ea3-8920a688b5b9.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-224c7c3e-6745-4e31-a1c4-20df150edfc4.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-3d8f02c5-a561-462c-a2fb-558d73aa63dc.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-41199161-7d9e-41d1-8b36-03d457fff617.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-46e7ac80-5c92-4953-a20d-8f7170cf6ce4.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-aedd671c-95ff-4e7a-be46-f805428a3abc.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-d057e196-b8b6-4575-94d0-108ade21d65f.ep-mimecast.qualtrics.com
 0.0.0.0 mcid-d137eca0-52ac-4e39-8bf8-b198b7afd158.ep-mimecast.qualtrics.com
 0.0.0.0 mcid-faa64bc2-81a7-49d9-a6e6-5fa7f333d168.ep-mimecast.qualtrics.com
+0.0.0.0 mcid-feb8f192-df63-407f-8ca7-4176fd886bf6.ep-mimecast.qualtrics.com
 0.0.0.0 epic360.qualtrics.com
 0.0.0.0 equinix.qualtrics.com
 0.0.0.0 erg.qualtrics.com
@@ -12637,6 +12648,7 @@
 0.0.0.0 vault.qualtrics.com
 0.0.0.0 vaultconsulting.qualtrics.com
 0.0.0.0 vaultconsultingcovid19testing.qualtrics.com
+0.0.0.0 vayagroup360.qualtrics.com
 0.0.0.0 vcci.qualtrics.com
 0.0.0.0 veeamresearch.qualtrics.com
 0.0.0.0 veritivcorp.qualtrics.com
@@ -17721,6 +17733,7 @@
 0.0.0.0 amzom-heip-serveralflife.duckdns.org
 0.0.0.0 cpcontacts.amzom-heip-serveralflife.duckdns.org
 0.0.0.0 amzoninfosig.duckdns.org
+0.0.0.0 www.amzoninfosig.duckdns.org
 0.0.0.0 amzpage-updatemanage9582.duckdns.org
 0.0.0.0 amzprimemembershipzkwf.duckdns.org
 0.0.0.0 cpcontacts.amzprimemembershipzkwf.duckdns.org
@@ -18818,6 +18831,7 @@
 0.0.0.0 auth-onlinelabanquepostale.duckdns.org
 0.0.0.0 auth-secured09ic.duckdns.org
 0.0.0.0 auth-securedsessi0.duckdns.org
+0.0.0.0 mail.auth-securedsessi0.duckdns.org
 0.0.0.0 auth-user005.duckdns.org
 0.0.0.0 auth002-secure.duckdns.org
 0.0.0.0 mail.auth002-secure.duckdns.org
@@ -19559,6 +19573,7 @@
 0.0.0.0 cam5.bdhome.duckdns.org
 0.0.0.0 cam6.bdhome.duckdns.org
 0.0.0.0 cam7.bdhome.duckdns.org
+0.0.0.0 docker.bdhome.duckdns.org
 0.0.0.0 fhem.bdhome.duckdns.org
 0.0.0.0 homeassistant.bdhome.duckdns.org
 0.0.0.0 motioneye.bdhome.duckdns.org
@@ -24197,6 +24212,7 @@
 0.0.0.0 clowridr.duckdns.org
 0.0.0.0 cloy.duckdns.org
 0.0.0.0 backup.cloy.duckdns.org
+0.0.0.0 cash.cloy.duckdns.org
 0.0.0.0 cloud.cloy.duckdns.org
 0.0.0.0 ha.cloy.duckdns.org
 0.0.0.0 nc.cloy.duckdns.org
@@ -24523,7 +24539,6 @@
 0.0.0.0 codashop-free-id.duckdns.org
 0.0.0.0 codashop-free1.duckdns.org
 0.0.0.0 www.codashop-free1.duckdns.org
-0.0.0.0 codashop-freediamond.duckdns.org
 0.0.0.0 codashop-freediamond821.duckdns.org
 0.0.0.0 codashop-freefire-999.duckdns.org
 0.0.0.0 codashop-freefire-agustus1.duckdns.org
@@ -33563,6 +33578,7 @@
 0.0.0.0 growtopiaid18.duckdns.org
 0.0.0.0 grozki.duckdns.org
 0.0.0.0 grpbygzxx.duckdns.org
+0.0.0.0 webdisk.grpbygzxx.duckdns.org
 0.0.0.0 grpdewi-wsp18.duckdns.org
 0.0.0.0 grpxzorxx.duckdns.org
 0.0.0.0 cpcalendars.grpxzorxx.duckdns.org
@@ -33809,6 +33825,7 @@
 0.0.0.0 grup-bokep-viral99.duckdns.org
 0.0.0.0 cpcalendars.grup-bokep-viral99.duckdns.org
 0.0.0.0 www.grup-bokep-viral99.duckdns.org
+0.0.0.0 grup-bokep18-2021.duckdns.org
 0.0.0.0 grup-bokep18-terbaru2k21.duckdns.org
 0.0.0.0 grup-bokepp00.duckdns.org
 0.0.0.0 grup-bokepp08.duckdns.org
@@ -39353,6 +39370,7 @@
 0.0.0.0 jhl.duckdns.org
 0.0.0.0 sjva.jhoo.duckdns.org
 0.0.0.0 jhpnas.duckdns.org
+0.0.0.0 jhrath.duckdns.org
 0.0.0.0 jhsherc.duckdns.org
 0.0.0.0 jhue-las.duckdns.org
 0.0.0.0 jhue-sjc.duckdns.org
@@ -41432,6 +41450,7 @@
 0.0.0.0 bookstack.kirves-s.duckdns.org
 0.0.0.0 kirwanhomeassistant.duckdns.org
 0.0.0.0 kismet.duckdns.org
+0.0.0.0 kissangadrive.duckdns.org
 0.0.0.0 kissbalazs.duckdns.org
 0.0.0.0 kissda-ha.duckdns.org
 0.0.0.0 kissviktor193.duckdns.org
@@ -41879,6 +41898,7 @@
 0.0.0.0 kronovecta.duckdns.org
 0.0.0.0 bitwarden.kronovecta.duckdns.org
 0.0.0.0 grafana.kronovecta.duckdns.org
+0.0.0.0 hassio.kronovecta.duckdns.org
 0.0.0.0 sqlserver.kronovecta.duckdns.org
 0.0.0.0 vpn.kronovecta.duckdns.org
 0.0.0.0 kroon.duckdns.org
@@ -42649,7 +42669,6 @@
 0.0.0.0 ldpdzxrmxv.duckdns.org
 0.0.0.0 www.ldpdzxrmxv.duckdns.org
 0.0.0.0 ldsmkb.duckdns.org
-0.0.0.0 www.ldwgksh.duckdns.org
 0.0.0.0 le-homeassistant.duckdns.org
 0.0.0.0 le-transvaal.duckdns.org
 0.0.0.0 le3134.duckdns.org
@@ -46505,7 +46524,6 @@
 0.0.0.0 mail.mlbbevent-neww.duckdns.org
 0.0.0.0 www.mlbbevent-neww.duckdns.org
 0.0.0.0 mlbbevent81.duckdns.org
-0.0.0.0 mlbbeventofficial-ph.duckdns.org
 0.0.0.0 mlbbfreeskin-id.duckdns.org
 0.0.0.0 mail.mlbbfreeskin-id.duckdns.org
 0.0.0.0 www.mlbbfreeskin-id.duckdns.org
@@ -53014,6 +53032,7 @@
 0.0.0.0 dsm.pyrite300zx.duckdns.org
 0.0.0.0 ha.pyrite300zx.duckdns.org
 0.0.0.0 hassos.pyrite300zx.duckdns.org
+0.0.0.0 ns.pyrite300zx.duckdns.org
 0.0.0.0 vm.pyrite300zx.duckdns.org
 0.0.0.0 pyter.duckdns.org
 0.0.0.0 barba.pythonunited.duckdns.org
