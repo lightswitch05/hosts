@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-09-30T13:05:20+00:00
-# Count: 25993 domains
+# Released: 2021-10-01T01:05:21+00:00
+# Count: 26001 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -928,6 +928,7 @@
 0.0.0.0 dawnfoods.facebook.com
 0.0.0.0 de.facebook.com
 0.0.0.0 de-de.facebook.com
+0.0.0.0 demo7.facebook.com
 0.0.0.0 design.facebook.com
 0.0.0.0 dev.facebook.com
 0.0.0.0 www.dev.facebook.com
@@ -1441,6 +1442,7 @@
 0.0.0.0 edge-fblite-ws-p1-shv-01-ort2.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-02-hkt1.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-02-mrs2.facebook.com
+0.0.0.0 edge-fwdproxy-3-bgp-01-ort2.facebook.com
 0.0.0.0 edge-fwdproxy-3-bgp-02-mrs2.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-01-kut2.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-01-mba1.facebook.com
@@ -2856,6 +2858,7 @@
 0.0.0.0 nn-no.it-it.de-de.fbjs.facebook.com
 0.0.0.0 pl-pl.it-it.de-de.fbjs.facebook.com
 0.0.0.0 cs-cz.pl-pl.it-it.de-de.fbjs.facebook.com
+0.0.0.0 l.pl-pl.it-it.de-de.fbjs.facebook.com
 0.0.0.0 pt-pt.pl-pl.it-it.de-de.fbjs.facebook.com
 0.0.0.0 pt-br.it-it.de-de.fbjs.facebook.com
 0.0.0.0 pt-pt.it-it.de-de.fbjs.facebook.com
@@ -4404,6 +4407,7 @@
 0.0.0.0 www.en-gb.he-il.fbjs.facebook.com
 0.0.0.0 es-es.he-il.fbjs.facebook.com
 0.0.0.0 de-de.es-es.he-il.fbjs.facebook.com
+0.0.0.0 ja-jp.es-es.he-il.fbjs.facebook.com
 0.0.0.0 www.es-es.he-il.fbjs.facebook.com
 0.0.0.0 pt-br.cs-cz.es-la.he-il.fbjs.facebook.com
 0.0.0.0 zh-cn.cs-cz.es-la.he-il.fbjs.facebook.com
@@ -6019,8 +6023,13 @@
 0.0.0.0 sk-sk.ph.fbjs.facebook.com
 0.0.0.0 sr-rs.ph.fbjs.facebook.com
 0.0.0.0 tr-tr.ph.fbjs.facebook.com
+0.0.0.0 es-la.tr-tr.ph.fbjs.facebook.com
+0.0.0.0 fr-fr.tr-tr.ph.fbjs.facebook.com
 0.0.0.0 m.tr-tr.ph.fbjs.facebook.com
+0.0.0.0 nl-nl.tr-tr.ph.fbjs.facebook.com
+0.0.0.0 sk-sk.tr-tr.ph.fbjs.facebook.com
 0.0.0.0 uk-ua.tr-tr.ph.fbjs.facebook.com
+0.0.0.0 www.tr-tr.ph.fbjs.facebook.com
 0.0.0.0 vi-vn.ph.fbjs.facebook.com
 0.0.0.0 www.ph.fbjs.facebook.com
 0.0.0.0 zh-cn.ph.fbjs.facebook.com
@@ -7531,6 +7540,7 @@
 0.0.0.0 fr-ca.es-es.it-it.ro-ro.fbjs.facebook.com
 0.0.0.0 fr-fr.es-es.it-it.ro-ro.fbjs.facebook.com
 0.0.0.0 fy-nl.es-es.it-it.ro-ro.fbjs.facebook.com
+0.0.0.0 ha-ng.es-es.it-it.ro-ro.fbjs.facebook.com
 0.0.0.0 he-il.es-es.it-it.ro-ro.fbjs.facebook.com
 0.0.0.0 hi-in.es-es.it-it.ro-ro.fbjs.facebook.com
 0.0.0.0 hr-hr.es-es.it-it.ro-ro.fbjs.facebook.com
@@ -9443,7 +9453,6 @@
 0.0.0.0 wmlwww.intern.facebook.com
 0.0.0.0 com.wmlwww.intern.facebook.com
 0.0.0.0 www.intern.facebook.com
-0.0.0.0 intern-managed-client-chromebook-shv-01-bog1.facebook.com
 0.0.0.0 intern-managed-client-chromebook-shv-01-hbe1.facebook.com
 0.0.0.0 intern-managed-client-shv-01-arn2.facebook.com
 0.0.0.0 intern-managed-client-shv-01-fml1.facebook.com
@@ -21394,7 +21403,6 @@
 0.0.0.0 sonar.fblr4-2.fna.fbcdn.net
 0.0.0.0 instagram.fblr4-3.fna.fbcdn.net
 0.0.0.0 scontent.fblr4-3.fna.fbcdn.net
-0.0.0.0 scontent.fblr6-1.fna.fbcdn.net
 0.0.0.0 scontent.fblr7-1.fna.fbcdn.net
 0.0.0.0 scontent.fbma1-1.fna.fbcdn.net
 0.0.0.0 scontent.fbma2-1.fna.fbcdn.net
