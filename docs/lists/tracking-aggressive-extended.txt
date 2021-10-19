@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-10-19T01:05:22+00:00
-# Count: 69311 domains
+# Released: 2021-10-19T13:05:22+00:00
+# Count: 69318 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -609,6 +609,7 @@
 0.0.0.0 iisec.360.cn
 0.0.0.0 img.360.cn
 0.0.0.0 institute.360.cn
+0.0.0.0 e.institute.360.cn
 0.0.0.0 iot.360.cn
 0.0.0.0 api.iot.360.cn
 0.0.0.0 cn-iot-deviceapi.iot.360.cn
@@ -1435,6 +1436,7 @@
 0.0.0.0 yuntan.360.cn
 0.0.0.0 yx.360.cn
 0.0.0.0 yzt.360.cn
+0.0.0.0 zhike.360.cn
 0.0.0.0 zhikong.360.cn
 0.0.0.0 zhongce.360.cn
 0.0.0.0 vpn.zhongce.360.cn
@@ -14784,7 +14786,6 @@
 0.0.0.0 r.gleam.io
 0.0.0.0 re.gleam.io
 0.0.0.0 stage.gleam.io
-0.0.0.0 preview.stage.gleam.io
 0.0.0.0 www.gleam.io
 0.0.0.0 gleamjs.io
 0.0.0.0 widget.gleamjs.io
@@ -17400,6 +17401,7 @@
 0.0.0.0 alexmtzo.duckdns.org
 0.0.0.0 alexnetwork.duckdns.org
 0.0.0.0 alexoko.duckdns.org
+0.0.0.0 h.alexoko.duckdns.org
 0.0.0.0 home.alexoko.duckdns.org
 0.0.0.0 nxtcloud.alexoko.duckdns.org
 0.0.0.0 print.alexoko.duckdns.org
@@ -24149,7 +24151,6 @@
 0.0.0.0 cpanel.claim-crate-13.duckdns.org
 0.0.0.0 claim-dari-garena-2021.duckdns.org
 0.0.0.0 cpcalendars.claim-dari-garena-2021.duckdns.org
-0.0.0.0 claim-diamond-freefire-gratis2021.duckdns.org
 0.0.0.0 claim-diamond-gratismu1.duckdns.org
 0.0.0.0 claim-diamondfreenow.duckdns.org
 0.0.0.0 claim-diamondgratis21.duckdns.org
@@ -26938,6 +26939,7 @@
 0.0.0.0 jvb.docker-jitsi-meet.deathstar76.duckdns.org
 0.0.0.0 prosody.docker-jitsi-meet.deathstar76.duckdns.org
 0.0.0.0 web.docker-jitsi-meet.deathstar76.duckdns.org
+0.0.0.0 isard-webapp.isard.deathstar76.duckdns.org
 0.0.0.0 isard-webapp.isardvdi.deathstar76.duckdns.org
 0.0.0.0 deathstarcore.duckdns.org
 0.0.0.0 deathstarsn3.duckdns.org
@@ -33070,7 +33072,6 @@
 0.0.0.0 www.garenafreefire-eventid.duckdns.org
 0.0.0.0 garenafreefireindonesia-news1.duckdns.org
 0.0.0.0 garenanewevent778.duckdns.org
-0.0.0.0 garenanewsevent2021.duckdns.org
 0.0.0.0 garenashells2021.duckdns.org
 0.0.0.0 webmail.garenashells2021.duckdns.org
 0.0.0.0 garenatrueid2021.duckdns.org
@@ -38090,7 +38091,6 @@
 0.0.0.0 homefree.duckdns.org
 0.0.0.0 homefsc.duckdns.org
 0.0.0.0 homefurti.duckdns.org
-0.0.0.0 homegalul.duckdns.org
 0.0.0.0 homegen.duckdns.org
 0.0.0.0 homegiovannini.duckdns.org
 0.0.0.0 homegir0s.duckdns.org
@@ -44169,6 +44169,8 @@
 0.0.0.0 bw.lfgut.duckdns.org
 0.0.0.0 cloud.lfgut.duckdns.org
 0.0.0.0 cloud2.lfgut.duckdns.org
+0.0.0.0 cloud3.lfgut.duckdns.org
+0.0.0.0 cloud4.lfgut.duckdns.org
 0.0.0.0 cockpit.lfgut.duckdns.org
 0.0.0.0 cockpitm.lfgut.duckdns.org
 0.0.0.0 cockpitn.lfgut.duckdns.org
@@ -44443,10 +44445,15 @@
 0.0.0.0 lirpahome.duckdns.org
 0.0.0.0 lirtsa.duckdns.org
 0.0.0.0 lisa-server.duckdns.org
+0.0.0.0 cloud.lisa-server.duckdns.org
+0.0.0.0 matrix.lisa-server.duckdns.org
 0.0.0.0 nextcloud.lisa-server.duckdns.org
 0.0.0.0 overseerr.lisa-server.duckdns.org
 0.0.0.0 plex.lisa-server.duckdns.org
 0.0.0.0 riot.lisa-server.duckdns.org
+0.0.0.0 traefik.lisa-server.duckdns.org
+0.0.0.0 vaultwarden.lisa-server.duckdns.org
+0.0.0.0 whoami.lisa-server.duckdns.org
 0.0.0.0 lisaalmhomeassistant.duckdns.org
 0.0.0.0 lisahouse.duckdns.org
 0.0.0.0 liseandmorten.duckdns.org
@@ -54990,6 +54997,7 @@
 0.0.0.0 rademenes330.duckdns.org
 0.0.0.0 radeon200.duckdns.org
 0.0.0.0 radiaddicfallskills.duckdns.org
+0.0.0.0 beta.radiaddicfallskills.duckdns.org
 0.0.0.0 vmeph.radiaddicfallskills.duckdns.org
 0.0.0.0 radio-lidiingo.duckdns.org
 0.0.0.0 radiocortello.duckdns.org
@@ -67095,7 +67103,6 @@
 0.0.0.0 xicohomeassist.duckdns.org
 0.0.0.0 xida5f.duckdns.org
 0.0.0.0 xider1.duckdns.org
-0.0.0.0 xie.duckdns.org
 0.0.0.0 xiiik.duckdns.org
 0.0.0.0 webdisk.xiiik.duckdns.org
 0.0.0.0 webmail.xiiik.duckdns.org
