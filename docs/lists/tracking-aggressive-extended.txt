@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-10-26T01:05:23+00:00
-# Count: 70258 domains
+# Released: 2021-10-26T13:05:21+00:00
+# Count: 70251 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -40,6 +40,7 @@
 0.0.0.0 adserver.va3.megaphone.cloud
 0.0.0.0 360.cn
 0.0.0.0 0kee.360.cn
+0.0.0.0 api.0kee.360.cn
 0.0.0.0 ns01.0kee.360.cn
 0.0.0.0 nslogadmin.0kee.360.cn
 0.0.0.0 res.0kee.360.cn
@@ -1260,6 +1261,7 @@
 0.0.0.0 api.tianji.360.cn
 0.0.0.0 tianyu.360.cn
 0.0.0.0 tmesh.360.cn
+0.0.0.0 show.tmesh.360.cn
 0.0.0.0 vision.tmesh.360.cn
 0.0.0.0 tongxunlu.360.cn
 0.0.0.0 tools.360.cn
@@ -4982,6 +4984,7 @@
 0.0.0.0 analytics.flipboard.com
 0.0.0.0 api.flipboard.com
 0.0.0.0 api2.flipboard.com
+0.0.0.0 applink.flipboard.com
 0.0.0.0 as.flipboard.com
 0.0.0.0 as-eng.flipboard.com
 0.0.0.0 auth.flipboard.com
@@ -5451,6 +5454,7 @@
 0.0.0.0 js-dev.hellomedian.com
 0.0.0.0 landing.hellomedian.com
 0.0.0.0 meeting.hellomedian.com
+0.0.0.0 resources.hellomedian.com
 0.0.0.0 socket.hellomedian.com
 0.0.0.0 socket-az.hellomedian.com
 0.0.0.0 socket-rtc.hellomedian.com
@@ -20000,7 +20004,6 @@
 0.0.0.0 bellishomeauto.duckdns.org
 0.0.0.0 bellix67.duckdns.org
 0.0.0.0 bellohenriquez.duckdns.org
-0.0.0.0 belloivano.duckdns.org
 0.0.0.0 bellomohome.duckdns.org
 0.0.0.0 belloniproxy.duckdns.org
 0.0.0.0 auth.belloniproxy.duckdns.org
@@ -24320,6 +24323,8 @@
 0.0.0.0 cpanel.claim-crate-13.duckdns.org
 0.0.0.0 claim-dari-garena-2021.duckdns.org
 0.0.0.0 cpcalendars.claim-dari-garena-2021.duckdns.org
+0.0.0.0 cpanel.claim-diamond-freefire-gratis2021.duckdns.org
+0.0.0.0 cpcalendars.claim-diamond-freefire-gratis2021.duckdns.org
 0.0.0.0 claim-diamond-gratis012.duckdns.org
 0.0.0.0 claim-diamond-gratismu1.duckdns.org
 0.0.0.0 claim-diamondfreenow.duckdns.org
@@ -27406,7 +27411,6 @@
 0.0.0.0 ha.demidov.duckdns.org
 0.0.0.0 hass.demidov.duckdns.org
 0.0.0.0 home.demidov.duckdns.org
-0.0.0.0 demircloud.duckdns.org
 0.0.0.0 vpn.demitsuri.duckdns.org
 0.0.0.0 demiurgen.duckdns.org
 0.0.0.0 demkes.duckdns.org
@@ -29844,7 +29848,6 @@
 0.0.0.0 elenlhome.duckdns.org
 0.0.0.0 eleomir.duckdns.org
 0.0.0.0 elepsl.duckdns.org
-0.0.0.0 elerrante.duckdns.org
 0.0.0.0 elevenses211.duckdns.org
 0.0.0.0 elfenbeinturm.duckdns.org
 0.0.0.0 bitwarden.elfenbeinturm.duckdns.org
@@ -41041,7 +41044,6 @@
 0.0.0.0 jisto.duckdns.org
 0.0.0.0 traefik.jisudam.duckdns.org
 0.0.0.0 wiki.jisudam.duckdns.org
-0.0.0.0 push.jitdom.duckdns.org
 0.0.0.0 jitsiluizmigue.duckdns.org
 0.0.0.0 jitsiwaffle.duckdns.org
 0.0.0.0 jja-ha.duckdns.org
@@ -47779,7 +47781,6 @@
 0.0.0.0 www.mhxpgxaqar.duckdns.org
 0.0.0.0 mhzbs.duckdns.org
 0.0.0.0 mhzkey.duckdns.org
-0.0.0.0 mhznxc.duckdns.org
 0.0.0.0 mhzvbhlxps.duckdns.org
 0.0.0.0 www.mhzvbhlxps.duckdns.org
 0.0.0.0 mi-casita.duckdns.org
@@ -50260,7 +50261,6 @@
 0.0.0.0 nausicaa.duckdns.org
 0.0.0.0 emby.nausicaa.duckdns.org
 0.0.0.0 hass.nausicaa.duckdns.org
-0.0.0.0 nav61.duckdns.org
 0.0.0.0 nava32.duckdns.org
 0.0.0.0 cloud.nava32.duckdns.org
 0.0.0.0 nextcloud.nava32.duckdns.org
@@ -58073,7 +58073,6 @@
 0.0.0.0 saltybeats.duckdns.org
 0.0.0.0 salvagalindo.duckdns.org
 0.0.0.0 salvamipc.duckdns.org
-0.0.0.0 magicmirror.salvasacie.duckdns.org
 0.0.0.0 salvatoredomotica.duckdns.org
 0.0.0.0 salve7.duckdns.org
 0.0.0.0 salzland2.duckdns.org
@@ -60278,12 +60277,6 @@
 0.0.0.0 sjt.duckdns.org
 0.0.0.0 sjusjoenhytta.duckdns.org
 0.0.0.0 sjva-ryanjin.duckdns.org
-0.0.0.0 plex.sjvanuc.duckdns.org
-0.0.0.0 qbit.sjvanuc.duckdns.org
-0.0.0.0 sjva.sjvanuc.duckdns.org
-0.0.0.0 sjva2.sjvanuc.duckdns.org
-0.0.0.0 tautulli.sjvanuc.duckdns.org
-0.0.0.0 trans.sjvanuc.duckdns.org
 0.0.0.0 sjvnzejrql.duckdns.org
 0.0.0.0 www.sjvnzejrql.duckdns.org
 0.0.0.0 sjvrjgklvy.duckdns.org
