@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-11-10T13:05:21+00:00
-# Count: 27047 domains
+# Released: 2021-11-11T01:05:21+00:00
+# Count: 27125 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -239,6 +239,7 @@
 0.0.0.0 video-hkt1-1.cdninstagram.com
 0.0.0.0 video-hkt1-2.cdninstagram.com
 0.0.0.0 video-hou1-1.cdninstagram.com
+0.0.0.0 video-iad.cdninstagram.com
 0.0.0.0 video-iad3-1.cdninstagram.com
 0.0.0.0 video-iad3-2.cdninstagram.com
 0.0.0.0 video-iev1-1.cdninstagram.com
@@ -299,6 +300,7 @@
 0.0.0.0 z-p4-scontent-a-hkt1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-a-hkt1-2.cdninstagram.com
 0.0.0.0 z-p4-scontent-a-iev1-1.cdninstagram.com
+0.0.0.0 z-p4-scontent-a-mct1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-ams4-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-amt2-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-arn2-2.cdninstagram.com
@@ -961,9 +963,11 @@
 0.0.0.0 15240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 18.15240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 240.18.15240.2.20157.240.18.1513w27uc.dns.facebook.com
+0.0.0.0 157.240.18.15240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 15157.240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 18.15157.240.2.20157.240.18.1513w27uc.dns.facebook.com
+0.0.0.0 240.18.15157.240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 157.240.2.20157.240.18.1513w27uc.dns.facebook.com
 0.0.0.0 2018.1513w27uc.dns.facebook.com
 0.0.0.0 152.2018.1513w27uc.dns.facebook.com
@@ -1002,9 +1006,11 @@
 0.0.0.0 15240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 18.15240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 240.18.15240.2.20157.240.18.152055qnll.dns.facebook.com
+0.0.0.0 157.240.18.15240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 15157.240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 18.15157.240.2.20157.240.18.152055qnll.dns.facebook.com
+0.0.0.0 240.18.15157.240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 157.240.2.20157.240.18.152055qnll.dns.facebook.com
 0.0.0.0 www.1a903k1z.dns.facebook.com
 0.0.0.0 1csrvvr.dns.facebook.com
@@ -1055,6 +1061,8 @@
 0.0.0.0 202.2055qnll.dns.facebook.com
 0.0.0.0 2.202.2055qnll.dns.facebook.com
 0.0.0.0 240.2.202.2055qnll.dns.facebook.com
+0.0.0.0 15157.240.2.202.2055qnll.dns.facebook.com
+0.0.0.0 157.240.2.202.2055qnll.dns.facebook.com
 0.0.0.0 21a4lt.dns.facebook.com
 0.0.0.0 2fh9l6gj.dns.facebook.com
 0.0.0.0 31r5v8.dns.facebook.com
@@ -1246,24 +1254,84 @@
 0.0.0.0 www.zh-hk.el-gr.dns.facebook.com
 0.0.0.0 eo-eo.dns.facebook.com
 0.0.0.0 es-es.dns.facebook.com
+0.0.0.0 ar-ar.es-es.dns.facebook.com
+0.0.0.0 bg-bg.es-es.dns.facebook.com
+0.0.0.0 bn-in.es-es.dns.facebook.com
+0.0.0.0 da-dk.es-es.dns.facebook.com
+0.0.0.0 de-de.es-es.dns.facebook.com
+0.0.0.0 el-gr.es-es.dns.facebook.com
 0.0.0.0 ar-ar.el-gr.es-es.dns.facebook.com
 0.0.0.0 de-de.el-gr.es-es.dns.facebook.com
 0.0.0.0 www.de-de.el-gr.es-es.dns.facebook.com
+0.0.0.0 en-gb.el-gr.es-es.dns.facebook.com
 0.0.0.0 es-es.el-gr.es-es.dns.facebook.com
+0.0.0.0 es-la.el-gr.es-es.dns.facebook.com
 0.0.0.0 fr-fr.el-gr.es-es.dns.facebook.com
+0.0.0.0 it-it.el-gr.es-es.dns.facebook.com
 0.0.0.0 www.el-gr.es-es.dns.facebook.com
 0.0.0.0 fr-fr.zh-hk.el-gr.es-es.dns.facebook.com
 0.0.0.0 zh-tw.el-gr.es-es.dns.facebook.com
+0.0.0.0 en-gb.es-es.dns.facebook.com
+0.0.0.0 es-es.es-es.dns.facebook.com
+0.0.0.0 es-la.es-es.dns.facebook.com
+0.0.0.0 fa-ir.es-es.dns.facebook.com
+0.0.0.0 fr-ca.es-es.dns.facebook.com
+0.0.0.0 ja-jp.fr-ca.es-es.dns.facebook.com
 0.0.0.0 www.pt-pt.fr-ca.es-es.dns.facebook.com
+0.0.0.0 www.fr-ca.es-es.dns.facebook.com
+0.0.0.0 fr-fr.es-es.dns.facebook.com
+0.0.0.0 he-il.es-es.dns.facebook.com
+0.0.0.0 hi-in.es-es.dns.facebook.com
+0.0.0.0 hu-hu.es-es.dns.facebook.com
+0.0.0.0 id-id.es-es.dns.facebook.com
+0.0.0.0 it-it.es-es.dns.facebook.com
 0.0.0.0 ja-jp.it-it.es-es.dns.facebook.com
 0.0.0.0 www.it-it.es-es.dns.facebook.com
+0.0.0.0 ja-jp.es-es.dns.facebook.com
 0.0.0.0 es-la.ja-jp.es-es.dns.facebook.com
+0.0.0.0 ru-ru.ja-jp.es-es.dns.facebook.com
+0.0.0.0 vi-vn.ja-jp.es-es.dns.facebook.com
 0.0.0.0 www.ja-jp.es-es.dns.facebook.com
+0.0.0.0 ka-ge.es-es.dns.facebook.com
+0.0.0.0 ko-kr.es-es.dns.facebook.com
+0.0.0.0 id-id.ko-kr.es-es.dns.facebook.com
 0.0.0.0 it-it.ko-kr.es-es.dns.facebook.com
+0.0.0.0 mk-mk.ko-kr.es-es.dns.facebook.com
+0.0.0.0 pt-br.ko-kr.es-es.dns.facebook.com
+0.0.0.0 www.ko-kr.es-es.dns.facebook.com
+0.0.0.0 zh-cn.ko-kr.es-es.dns.facebook.com
+0.0.0.0 zh-tw.ko-kr.es-es.dns.facebook.com
+0.0.0.0 ku-tr.es-es.dns.facebook.com
+0.0.0.0 ms-my.es-es.dns.facebook.com
+0.0.0.0 nb-no.es-es.dns.facebook.com
+0.0.0.0 nl-be.es-es.dns.facebook.com
+0.0.0.0 nl-nl.es-es.dns.facebook.com
+0.0.0.0 pl-pl.es-es.dns.facebook.com
+0.0.0.0 pt-br.es-es.dns.facebook.com
 0.0.0.0 www.pt-br.es-es.dns.facebook.com
+0.0.0.0 pt-pt.es-es.dns.facebook.com
+0.0.0.0 www.pt-pt.es-es.dns.facebook.com
+0.0.0.0 ro-ro.es-es.dns.facebook.com
 0.0.0.0 ru-ru.es-es.dns.facebook.com
+0.0.0.0 sq-al.es-es.dns.facebook.com
+0.0.0.0 sv-se.es-es.dns.facebook.com
+0.0.0.0 th-th.es-es.dns.facebook.com
+0.0.0.0 ar-ar.th-th.es-es.dns.facebook.com
+0.0.0.0 da-dk.th-th.es-es.dns.facebook.com
+0.0.0.0 es-la.th-th.es-es.dns.facebook.com
+0.0.0.0 fr-fr.th-th.es-es.dns.facebook.com
+0.0.0.0 pl-pl.th-th.es-es.dns.facebook.com
 0.0.0.0 www.th-th.es-es.dns.facebook.com
+0.0.0.0 zh-hk.th-th.es-es.dns.facebook.com
+0.0.0.0 tr-tr.es-es.dns.facebook.com
+0.0.0.0 uk-ua.es-es.dns.facebook.com
+0.0.0.0 vi-vn.es-es.dns.facebook.com
+0.0.0.0 www.es-es.dns.facebook.com
+0.0.0.0 zh-cn.es-es.dns.facebook.com
+0.0.0.0 zh-hk.es-es.dns.facebook.com
+0.0.0.0 zh-tw.es-es.dns.facebook.com
 0.0.0.0 www.zh-tw.es-es.dns.facebook.com
+0.0.0.0 zh-cn.zh-tw.es-es.dns.facebook.com
 0.0.0.0 es-la.dns.facebook.com
 0.0.0.0 fa-ir.dns.facebook.com
 0.0.0.0 www.fa-ir.dns.facebook.com
@@ -1319,6 +1387,7 @@
 0.0.0.0 zh-cn.zh-hk.hu-hu.dns.facebook.com
 0.0.0.0 id-id.dns.facebook.com
 0.0.0.0 nl-nl.id-id.dns.facebook.com
+0.0.0.0 sr-rs.id-id.dns.facebook.com
 0.0.0.0 tl-ph.id-id.dns.facebook.com
 0.0.0.0 vi-vn.id-id.dns.facebook.com
 0.0.0.0 zh-cn.id-id.dns.facebook.com
@@ -1354,6 +1423,7 @@
 0.0.0.0 m.nl-be.dns.facebook.com
 0.0.0.0 nb-no.nl-be.dns.facebook.com
 0.0.0.0 pt-pt.nl-be.dns.facebook.com
+0.0.0.0 www.nl-be.dns.facebook.com
 0.0.0.0 nl-nl.dns.facebook.com
 0.0.0.0 o402h.dns.facebook.com
 0.0.0.0 pl-pl.dns.facebook.com
@@ -17106,6 +17176,7 @@
 0.0.0.0 www.zh-tw.es-la.fr-fr.prod.facebook.com
 0.0.0.0 zh-cn.zh-tw.es-la.fr-fr.prod.facebook.com
 0.0.0.0 www.fr-ca.fr-fr.prod.facebook.com
+0.0.0.0 fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 www.apps.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 fb-lt.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 www.fr-ca.fr-fr.fr-fr.prod.facebook.com
@@ -17207,6 +17278,7 @@
 0.0.0.0 www.fr-fr.prod.facebook.com
 0.0.0.0 ja-jp.zh-cn.fr-fr.prod.facebook.com
 0.0.0.0 zh-hk.fr-fr.prod.facebook.com
+0.0.0.0 de-de.zh-hk.fr-fr.prod.facebook.com
 0.0.0.0 es-la.zh-hk.fr-fr.prod.facebook.com
 0.0.0.0 it-it.zh-hk.fr-fr.prod.facebook.com
 0.0.0.0 m.zh-hk.fr-fr.prod.facebook.com
@@ -18180,6 +18252,7 @@
 0.0.0.0 www.fi-fi.nl-nl.prod.facebook.com
 0.0.0.0 fr-ca.nl-nl.prod.facebook.com
 0.0.0.0 es-la.fr-ca.nl-nl.prod.facebook.com
+0.0.0.0 fr-fr.fr-ca.nl-nl.prod.facebook.com
 0.0.0.0 he-il.fr-ca.nl-nl.prod.facebook.com
 0.0.0.0 www.fr-ca.nl-nl.prod.facebook.com
 0.0.0.0 es-la.fr-fr.nl-nl.prod.facebook.com
@@ -20197,6 +20270,7 @@
 0.0.0.0 apps-558779254509132.apps.fbsbx.com
 0.0.0.0 www.apps-558779254509132.apps.fbsbx.com
 0.0.0.0 apps-568822010296717.apps.fbsbx.com
+0.0.0.0 www.apps-568822010296717.apps.fbsbx.com
 0.0.0.0 apps-573250259436863.apps.fbsbx.com
 0.0.0.0 www.apps-573250259436863.apps.fbsbx.com
 0.0.0.0 apps-575517662906730.apps.fbsbx.com
@@ -20966,6 +21040,7 @@
 0.0.0.0 ha-ng.messenger.com
 0.0.0.0 he-il.messenger.com
 0.0.0.0 helgab.messenger.com
+0.0.0.0 www.helgab.messenger.com
 0.0.0.0 helpstopthevirus.messenger.com
 0.0.0.0 hi-in.messenger.com
 0.0.0.0 hk.messenger.com
@@ -21624,6 +21699,7 @@
 0.0.0.0 grapbh.fb.me
 0.0.0.0 grapg.fb.me
 0.0.0.0 graph.fb.me
+0.0.0.0 graph2.fb.me
 0.0.0.0 graphb.fb.me
 0.0.0.0 graphg.fb.me
 0.0.0.0 graphh.fb.me
@@ -21657,6 +21733,7 @@
 0.0.0.0 grzph.fb.me
 0.0.0.0 gtaph.fb.me
 0.0.0.0 gtraph.fb.me
+0.0.0.0 gva19d42lmric8njbhfsxuye5pk6w30tz7oq.fb.me
 0.0.0.0 h.fb.me
 0.0.0.0 grap.h.fb.me
 0.0.0.0 h56pbqf20ye9uc8noka4t1mxsd7ijg3vlwzr.fb.me
@@ -21668,6 +21745,7 @@
 0.0.0.0 icemask.fb.me
 0.0.0.0 indosat.fb.me
 0.0.0.0 int.fb.me
+0.0.0.0 investor.fb.me
 0.0.0.0 it.fb.me
 0.0.0.0 iv8wsj1rn9uyofmqa504bkelp6hz3c7gx2dt.fb.me
 0.0.0.0 ix32u4hlvp9wrdtmyz0sae7fcbj6n15go8qk.fb.me
