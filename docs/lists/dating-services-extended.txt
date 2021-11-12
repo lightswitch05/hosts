@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2021-11-06T13:05:23+00:00
-# Count: 15378 domains
+# Released: 2021-11-12T13:05:22+00:00
+# Count: 15393 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -8020,6 +8020,7 @@
 0.0.0.0 manitoba.lifestylelounge.com
 0.0.0.0 maryland.lifestylelounge.com
 0.0.0.0 massachusetts.lifestylelounge.com
+0.0.0.0 media.lifestylelounge.com
 0.0.0.0 messaging.lifestylelounge.com
 0.0.0.0 michigan.lifestylelounge.com
 0.0.0.0 minnesota.lifestylelounge.com
@@ -8199,6 +8200,9 @@
 0.0.0.0 hk.lovestruck.com
 0.0.0.0 im.lovestruck.com
 0.0.0.0 im-uat.lovestruck.com
+0.0.0.0 im-uat-no-cf.lovestruck.com
+0.0.0.0 im-uat2.lovestruck.com
+0.0.0.0 im-uat3.lovestruck.com
 0.0.0.0 instapage.lovestruck.com
 0.0.0.0 ls-docker04.lovestruck.com
 0.0.0.0 ls-pbx-server.lovestruck.com
@@ -8404,11 +8408,9 @@
 0.0.0.0 matchmaker.com
 0.0.0.0 mail1.matchmaker.com
 0.0.0.0 mail2.matchmaker.com
-0.0.0.0 mail4.matchmaker.com
 0.0.0.0 portal.matchmaker.com
 0.0.0.0 secure.matchmaker.com
 0.0.0.0 www.matchmaker.com
-0.0.0.0 ssl.www.matchmaker.com
 0.0.0.0 maxnevascouplesplayhouse.com
 0.0.0.0 www.maxnevascouplesplayhouse.com
 0.0.0.0 mddate.com
@@ -9642,6 +9644,7 @@
 0.0.0.0 dev.ue1.aws.okcupid.com
 0.0.0.0 elasticsearch.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 k8s.shared-backend.dev.ue1.aws.okcupid.com
+0.0.0.0 dmz.k8s.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 kirk.k8s.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 okoffice.k8s.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 grafana-dev.dop.ue1.aws.okcupid.com
@@ -13427,10 +13430,7 @@
 0.0.0.0 tracking.adultsex.dating
 0.0.0.0 affaire.dating
 0.0.0.0 alfa.dating
-0.0.0.0 mail.alfabrides.dating
 0.0.0.0 alleinerziehendemutter.dating
-0.0.0.0 pku.alumni.dating
-0.0.0.0 www.alumni.dating
 0.0.0.0 cms.amazilia.dating
 0.0.0.0 help.amazilia.dating
 0.0.0.0 info.amazilia.dating
@@ -13605,6 +13605,8 @@
 0.0.0.0 test.datingvirgins.dating
 0.0.0.0 www.datingvirgins.dating
 0.0.0.0 decentralized.dating
+0.0.0.0 api.decentralized.dating
+0.0.0.0 www.decentralized.dating
 0.0.0.0 dejlig.dating
 0.0.0.0 api.delve.dating
 0.0.0.0 dev.dating
@@ -13625,6 +13627,7 @@
 0.0.0.0 ynytj7owbs2up7cgprtj.dine.dating
 0.0.0.0 disabledsingles.dating
 0.0.0.0 disco.dating
+0.0.0.0 join.disco.dating
 0.0.0.0 m.disco.dating
 0.0.0.0 support.disco.dating
 0.0.0.0 meeting.discover.dating
@@ -13731,6 +13734,7 @@
 0.0.0.0 test.freeporn.dating
 0.0.0.0 v183095s.freeporn.dating
 0.0.0.0 www.freeporn.dating
+0.0.0.0 frekke.dating
 0.0.0.0 fuckbookclub.dating
 0.0.0.0 app.fuse.dating
 0.0.0.0 fwb.dating
@@ -13777,6 +13781,7 @@
 0.0.0.0 local.hebrew.dating
 0.0.0.0 staging.hebrew.dating
 0.0.0.0 heila.dating
+0.0.0.0 hemmelig.dating
 0.0.0.0 crfprofile.hippie.dating
 0.0.0.0 crmprofile.hippie.dating
 0.0.0.0 dev.hippie.dating
@@ -13809,6 +13814,7 @@
 0.0.0.0 hott.dating
 0.0.0.0 api4.hott.dating
 0.0.0.0 app.hott.dating
+0.0.0.0 chat.hott.dating
 0.0.0.0 static1.hott.dating
 0.0.0.0 static2.hott.dating
 0.0.0.0 hotties.dating
@@ -13852,6 +13858,8 @@
 0.0.0.0 reg.jobspeed.dating
 0.0.0.0 staging.jobspeed.dating
 0.0.0.0 tsfiles.jobspeed.dating
+0.0.0.0 joyoo.dating
+0.0.0.0 www.joyoo.dating
 0.0.0.0 juicy.dating
 0.0.0.0 kinkotine.dating
 0.0.0.0 staging.kinksters.dating
@@ -13961,12 +13969,14 @@
 0.0.0.0 mow.dating
 0.0.0.0 www.mow.dating
 0.0.0.0 mycity.dating
+0.0.0.0 nachbar.dating
 0.0.0.0 dev.nativeamerican.dating
 0.0.0.0 faf.nativeamerican.dating
 0.0.0.0 fam.nativeamerican.dating
 0.0.0.0 gay.nativeamerican.dating
 0.0.0.0 local.nativeamerican.dating
 0.0.0.0 staging.nativeamerican.dating
+0.0.0.0 naughtysecret.dating
 0.0.0.0 netdating.dating
 0.0.0.0 crfprofile.newage.dating
 0.0.0.0 crmprofile.newage.dating
@@ -13988,6 +13998,7 @@
 0.0.0.0 app.nifty.dating
 0.0.0.0 www.nifty.dating
 0.0.0.0 nina.dating
+0.0.0.0 i.am.not.dating
 0.0.0.0 still.an.not.dating
 0.0.0.0 we.are.not.dating
 0.0.0.0 rights.to.get.jealous.because.we.are.not.dating
@@ -14055,6 +14066,7 @@
 0.0.0.0 gay.over50.dating
 0.0.0.0 local.over50.dating
 0.0.0.0 staging.over50.dating
+0.0.0.0 over60.dating
 0.0.0.0 dev.over70.dating
 0.0.0.0 dev2.over70.dating
 0.0.0.0 faf.over70.dating
@@ -14114,6 +14126,7 @@
 0.0.0.0 us.quietsecrets.dating
 0.0.0.0 www.quietsecrets.dating
 0.0.0.0 www.ready.dating
+0.0.0.0 reifes.dating
 0.0.0.0 auth.riddle.dating
 0.0.0.0 ring.dating
 0.0.0.0 roast.dating
@@ -14152,6 +14165,7 @@
 0.0.0.0 creditcardforcollegestudent.com.shadi.dating
 0.0.0.0 solutioo.com.shadi.dating
 0.0.0.0 siam.dating
+0.0.0.0 silver-fox.dating
 0.0.0.0 silversingles.dating
 0.0.0.0 single4you.dating
 0.0.0.0 www.single4you.dating
@@ -14302,6 +14316,7 @@
 0.0.0.0 www.waves.dating
 0.0.0.0 weixi1227.dating
 0.0.0.0 www.weixi1227.dating
+0.0.0.0 static.wemovedpast.dating
 0.0.0.0 date.what.dating
 0.0.0.0 start.what.dating
 0.0.0.0 whats.dating
