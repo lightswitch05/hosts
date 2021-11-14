@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-11-12T13:05:22+00:00
-# Count: 2062 domains
+# Released: 2021-11-14T01:05:22+00:00
+# Count: 2012 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -543,6 +543,7 @@
 0.0.0.0 www.mail.joyinliberty.com
 0.0.0.0 ns1.joyinliberty.com
 0.0.0.0 ns2.joyinliberty.com
+0.0.0.0 tracking.joyinliberty.com
 0.0.0.0 www.joyinliberty.com
 0.0.0.0 kamellia.com
 0.0.0.0 antispam.kamellia.com
@@ -1392,7 +1393,6 @@
 0.0.0.0 ads.nsm88.org
 0.0.0.0 adserver.nsm88.org
 0.0.0.0 alerts.nsm88.org
-0.0.0.0 antispam.nsm88.org
 0.0.0.0 ap.nsm88.org
 0.0.0.0 apache.nsm88.org
 0.0.0.0 api.nsm88.org
@@ -1401,11 +1401,8 @@
 0.0.0.0 auth.nsm88.org
 0.0.0.0 authsmtp.nsm88.org
 0.0.0.0 backup.nsm88.org
-0.0.0.0 barracuda.nsm88.org
 0.0.0.0 beta.nsm88.org
 0.0.0.0 blog.nsm88.org
-0.0.0.0 box.nsm88.org
-0.0.0.0 ca.nsm88.org
 0.0.0.0 cdn.nsm88.org
 0.0.0.0 cms.nsm88.org
 0.0.0.0 com.nsm88.org
@@ -1413,7 +1410,6 @@
 0.0.0.0 mail.comune.nsm88.org
 0.0.0.0 smtp.comune.nsm88.org
 0.0.0.0 corp.nsm88.org
-0.0.0.0 correo.nsm88.org
 0.0.0.0 crs.nsm88.org
 0.0.0.0 cvs.nsm88.org
 0.0.0.0 dashboard.nsm88.org
@@ -1439,17 +1435,13 @@
 0.0.0.0 ftp.nsm88.org
 0.0.0.0 ftp0.nsm88.org
 0.0.0.0 gallery.nsm88.org
-0.0.0.0 gate.nsm88.org
 0.0.0.0 gateway.nsm88.org
 0.0.0.0 git.nsm88.org
-0.0.0.0 gw.nsm88.org
 0.0.0.0 helpdesk.nsm88.org
 0.0.0.0 home.nsm88.org
-0.0.0.0 host.nsm88.org
 0.0.0.0 http.nsm88.org
 0.0.0.0 id.nsm88.org
 0.0.0.0 images.nsm88.org
-0.0.0.0 imap.nsm88.org
 0.0.0.0 imap1.nsm88.org
 0.0.0.0 imap2.nsm88.org
 0.0.0.0 info.nsm88.org
@@ -1464,28 +1456,13 @@
 0.0.0.0 linux.nsm88.org
 0.0.0.0 localhost.nsm88.org
 0.0.0.0 log.nsm88.org
-0.0.0.0 m.nsm88.org
-0.0.0.0 mail.nsm88.org
 0.0.0.0 mail01.nsm88.org
-0.0.0.0 mail02.nsm88.org
-0.0.0.0 mail1.nsm88.org
-0.0.0.0 mail10.nsm88.org
-0.0.0.0 mail11.nsm88.org
-0.0.0.0 mail12.nsm88.org
-0.0.0.0 mail2.nsm88.org
-0.0.0.0 mail3.nsm88.org
-0.0.0.0 mail5.nsm88.org
-0.0.0.0 mail7.nsm88.org
 0.0.0.0 mail9.nsm88.org
-0.0.0.0 mailer.nsm88.org
-0.0.0.0 mailgate.nsm88.org
 0.0.0.0 mailgw.nsm88.org
 0.0.0.0 mailhost.nsm88.org
 0.0.0.0 mailin.nsm88.org
 0.0.0.0 mailout.nsm88.org
 0.0.0.0 mails.nsm88.org
-0.0.0.0 mailserver.nsm88.org
-0.0.0.0 mailsrv.nsm88.org
 0.0.0.0 mailx.nsm88.org
 0.0.0.0 main.nsm88.org
 0.0.0.0 manage.nsm88.org
@@ -1494,22 +1471,11 @@
 0.0.0.0 mo.nsm88.org
 0.0.0.0 mobile.nsm88.org
 0.0.0.0 monitor.nsm88.org
-0.0.0.0 ms.nsm88.org
-0.0.0.0 ms1.nsm88.org
 0.0.0.0 mssql.nsm88.org
-0.0.0.0 mta.nsm88.org
-0.0.0.0 mx.nsm88.org
 0.0.0.0 mx0.nsm88.org
 0.0.0.0 mx01.nsm88.org
-0.0.0.0 mx1.nsm88.org
-0.0.0.0 mx10.nsm88.org
-0.0.0.0 mx2.nsm88.org
 0.0.0.0 mx20.nsm88.org
-0.0.0.0 mx3.nsm88.org
-0.0.0.0 mx4.nsm88.org
-0.0.0.0 mx5.nsm88.org
 0.0.0.0 mx7.nsm88.org
-0.0.0.0 mxs.nsm88.org
 0.0.0.0 mysql.nsm88.org
 0.0.0.0 newmail.nsm88.org
 0.0.0.0 news.nsm88.org
@@ -1538,17 +1504,11 @@
 0.0.0.0 old.nsm88.org
 0.0.0.0 ops.nsm88.org
 0.0.0.0 oracle.nsm88.org
-0.0.0.0 out.nsm88.org
-0.0.0.0 outmail.nsm88.org
 0.0.0.0 pbx.nsm88.org
-0.0.0.0 po.nsm88.org
-0.0.0.0 pop.nsm88.org
 0.0.0.0 pop3.nsm88.org
 0.0.0.0 portal.nsm88.org
-0.0.0.0 posta.nsm88.org
 0.0.0.0 postmaster.nsm88.org
 0.0.0.0 relay.nsm88.org
-0.0.0.0 remote.nsm88.org
 0.0.0.0 root.nsm88.org
 0.0.0.0 s3.nsm88.org
 0.0.0.0 secure.nsm88.org
@@ -1557,16 +1517,10 @@
 0.0.0.0 sharepoint.nsm88.org
 0.0.0.0 shop.nsm88.org
 0.0.0.0 smtp.nsm88.org
-0.0.0.0 smtp01.nsm88.org
-0.0.0.0 smtp1.nsm88.org
-0.0.0.0 smtp3.nsm88.org
 0.0.0.0 smtpauth.nsm88.org
-0.0.0.0 smtps.nsm88.org
 0.0.0.0 sniper.nsm88.org
-0.0.0.0 spam.nsm88.org
 0.0.0.0 sql.nsm88.org
 0.0.0.0 squid.nsm88.org
-0.0.0.0 srv.nsm88.org
 0.0.0.0 ssh.nsm88.org
 0.0.0.0 ssl.nsm88.org
 0.0.0.0 stage.nsm88.org
@@ -1591,17 +1545,13 @@
 0.0.0.0 wd.nsm88.org
 0.0.0.0 web.nsm88.org
 0.0.0.0 web2test.nsm88.org
-0.0.0.0 webmail.nsm88.org
 0.0.0.0 whois.nsm88.org
 0.0.0.0 wiki.nsm88.org
 0.0.0.0 www.nsm88.org
 0.0.0.0 www1.nsm88.org
 0.0.0.0 www2.nsm88.org
 0.0.0.0 wwww.nsm88.org
-0.0.0.0 xinxiang.nsm88.org
 0.0.0.0 xml.nsm88.org
-0.0.0.0 zimbra.nsm88.org
-0.0.0.0 zmail.nsm88.org
 0.0.0.0 nvic.org
 0.0.0.0 antispam.nvic.org
 0.0.0.0 authsmtp.nvic.org
