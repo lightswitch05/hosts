@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2021-11-15T13:05:22+00:00
-# Count: 2059 domains
+# Released: 2021-11-16T01:05:22+00:00
+# Count: 2046 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -833,10 +833,8 @@
 0.0.0.0 www.p2pprinting.com
 0.0.0.0 prayingmedic.com
 0.0.0.0 classes.prayingmedic.com
-0.0.0.0 www.classes.prayingmedic.com
 0.0.0.0 ftp.prayingmedic.com
 0.0.0.0 mail.prayingmedic.com
-0.0.0.0 smtp.prayingmedic.com
 0.0.0.0 www.prayingmedic.com
 0.0.0.0 principia-scientific.com
 0.0.0.0 autodiscover.principia-scientific.com
@@ -1498,7 +1496,6 @@
 0.0.0.0 id.nsm88.org
 0.0.0.0 images.nsm88.org
 0.0.0.0 imap1.nsm88.org
-0.0.0.0 imap2.nsm88.org
 0.0.0.0 info.nsm88.org
 0.0.0.0 internet.nsm88.org
 0.0.0.0 intra.nsm88.org
@@ -1511,12 +1508,8 @@
 0.0.0.0 localhost.nsm88.org
 0.0.0.0 log.nsm88.org
 0.0.0.0 mail01.nsm88.org
-0.0.0.0 mail9.nsm88.org
-0.0.0.0 mailgw.nsm88.org
 0.0.0.0 mailhost.nsm88.org
 0.0.0.0 mailin.nsm88.org
-0.0.0.0 mailout.nsm88.org
-0.0.0.0 mails.nsm88.org
 0.0.0.0 mailx.nsm88.org
 0.0.0.0 main.nsm88.org
 0.0.0.0 manage.nsm88.org
@@ -1526,9 +1519,7 @@
 0.0.0.0 monitor.nsm88.org
 0.0.0.0 mssql.nsm88.org
 0.0.0.0 mx0.nsm88.org
-0.0.0.0 mx01.nsm88.org
 0.0.0.0 mx20.nsm88.org
-0.0.0.0 mx7.nsm88.org
 0.0.0.0 mysql.nsm88.org
 0.0.0.0 newmail.nsm88.org
 0.0.0.0 news.nsm88.org
@@ -1546,13 +1537,10 @@
 0.0.0.0 ns8.nsm88.org
 0.0.0.0 ns9.nsm88.org
 0.0.0.0 ntp.nsm88.org
-0.0.0.0 ny.nsm88.org
-0.0.0.0 www.ny.nsm88.org
 0.0.0.0 old.nsm88.org
 0.0.0.0 ops.nsm88.org
 0.0.0.0 oracle.nsm88.org
 0.0.0.0 pbx.nsm88.org
-0.0.0.0 pop3.nsm88.org
 0.0.0.0 portal.nsm88.org
 0.0.0.0 postmaster.nsm88.org
 0.0.0.0 relay.nsm88.org
@@ -1580,7 +1568,6 @@
 0.0.0.0 test1.nsm88.org
 0.0.0.0 test2.nsm88.org
 0.0.0.0 testing.nsm88.org
-0.0.0.0 u.nsm88.org
 0.0.0.0 uat.nsm88.org
 0.0.0.0 upload.nsm88.org
 0.0.0.0 v1.nsm88.org
