@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-11-15T01:05:21+00:00
-# Count: 27248 domains
+# Released: 2021-11-18T01:05:21+00:00
+# Count: 27338 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -315,6 +315,7 @@
 0.0.0.0 z-p4-scontent-cdg2-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-cgk1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-cgk1-2.cdninstagram.com
+0.0.0.0 z-p4-scontent-dus1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-frt3-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-hkg4-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-hkg4-2.cdninstagram.com
@@ -795,6 +796,7 @@
 0.0.0.0 centrality.facebook.com
 0.0.0.0 cgi.facebook.com
 0.0.0.0 channel-staging-ecmp-05-ash3.facebook.com
+0.0.0.0 chat-e2ee-mini.facebook.com
 0.0.0.0 check6.facebook.com
 0.0.0.0 chevron.facebook.com
 0.0.0.0 choudhry.facebook.com
@@ -3323,15 +3325,98 @@
 0.0.0.0 sr-rs.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 ar-ar.zh-cn.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 es-es.es-es.fbjs.facebook.com
+0.0.0.0 af-za.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ar-ar.es-es.es-es.fbjs.facebook.com
+0.0.0.0 az-az.es-es.es-es.fbjs.facebook.com
+0.0.0.0 bg-bg.es-es.es-es.fbjs.facebook.com
+0.0.0.0 bs-ba.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ca-es.es-es.es-es.fbjs.facebook.com
+0.0.0.0 co-fr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 cs-cz.es-es.es-es.fbjs.facebook.com
+0.0.0.0 da-dk.es-es.es-es.fbjs.facebook.com
+0.0.0.0 de-de.es-es.es-es.fbjs.facebook.com
+0.0.0.0 www.de-de.es-es.es-es.fbjs.facebook.com
+0.0.0.0 el-gr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 en-gb.es-es.es-es.fbjs.facebook.com
+0.0.0.0 en-pi.es-es.es-es.fbjs.facebook.com
+0.0.0.0 es-es.es-es.es-es.fbjs.facebook.com
+0.0.0.0 es-la.es-es.es-es.fbjs.facebook.com
+0.0.0.0 et-ee.es-es.es-es.fbjs.facebook.com
+0.0.0.0 fa-ir.es-es.es-es.fbjs.facebook.com
+0.0.0.0 fb-lt.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ff-ng.es-es.es-es.fbjs.facebook.com
 0.0.0.0 fi-fi.es-es.es-es.fbjs.facebook.com
+0.0.0.0 fr-ca.es-es.es-es.fbjs.facebook.com
 0.0.0.0 fr-fr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 gn-py.es-es.es-es.fbjs.facebook.com
+0.0.0.0 gu-in.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ha-ng.es-es.es-es.fbjs.facebook.com
 0.0.0.0 he-il.es-es.es-es.fbjs.facebook.com
+0.0.0.0 hi-in.es-es.es-es.fbjs.facebook.com
+0.0.0.0 hr-hr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 hu-hu.es-es.es-es.fbjs.facebook.com
+0.0.0.0 hy-am.es-es.es-es.fbjs.facebook.com
+0.0.0.0 id-id.es-es.es-es.fbjs.facebook.com
+0.0.0.0 hi-in.id-id.es-es.es-es.fbjs.facebook.com
+0.0.0.0 it-it.id-id.es-es.es-es.fbjs.facebook.com
 0.0.0.0 www.id-id.es-es.es-es.fbjs.facebook.com
+0.0.0.0 zh-cn.id-id.es-es.es-es.fbjs.facebook.com
+0.0.0.0 is-is.es-es.es-es.fbjs.facebook.com
 0.0.0.0 it-it.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ja-jp.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ja-ks.es-es.es-es.fbjs.facebook.com
+0.0.0.0 jv-id.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 fr-fr.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 hi-in.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 it-it.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ja-jp.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ka-ge.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 nl-nl.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 pt-br.ka-ge.es-es.es-es.fbjs.facebook.com
 0.0.0.0 zh-cn.ka-ge.es-es.es-es.fbjs.facebook.com
+0.0.0.0 kk-kz.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ko-kr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ku-tr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 la-va.es-es.es-es.fbjs.facebook.com
+0.0.0.0 lt-lt.es-es.es-es.fbjs.facebook.com
+0.0.0.0 lv-lv.es-es.es-es.fbjs.facebook.com
+0.0.0.0 mk-mk.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ml-in.es-es.es-es.fbjs.facebook.com
+0.0.0.0 mn-mn.es-es.es-es.fbjs.facebook.com
+0.0.0.0 mr-in.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ms-my.es-es.es-es.fbjs.facebook.com
+0.0.0.0 nb-no.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ne-np.es-es.es-es.fbjs.facebook.com
+0.0.0.0 nl-be.es-es.es-es.fbjs.facebook.com
+0.0.0.0 nl-nl.es-es.es-es.fbjs.facebook.com
+0.0.0.0 or-in.es-es.es-es.fbjs.facebook.com
+0.0.0.0 pl-pl.es-es.es-es.fbjs.facebook.com
 0.0.0.0 de-de.pl-pl.es-es.es-es.fbjs.facebook.com
+0.0.0.0 pt-br.es-es.es-es.fbjs.facebook.com
+0.0.0.0 pt-pt.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ro-ro.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ru-ru.es-es.es-es.fbjs.facebook.com
+0.0.0.0 rw-rw.es-es.es-es.fbjs.facebook.com
+0.0.0.0 si-lk.es-es.es-es.fbjs.facebook.com
+0.0.0.0 sk-sk.es-es.es-es.fbjs.facebook.com
+0.0.0.0 sq-al.es-es.es-es.fbjs.facebook.com
+0.0.0.0 sr-rs.es-es.es-es.fbjs.facebook.com
+0.0.0.0 sv-se.es-es.es-es.fbjs.facebook.com
+0.0.0.0 sw-ke.es-es.es-es.fbjs.facebook.com
+0.0.0.0 sz-pl.es-es.es-es.fbjs.facebook.com
+0.0.0.0 ta-in.es-es.es-es.fbjs.facebook.com
+0.0.0.0 th-th.es-es.es-es.fbjs.facebook.com
+0.0.0.0 tl-ph.es-es.es-es.fbjs.facebook.com
+0.0.0.0 tr-tr.es-es.es-es.fbjs.facebook.com
+0.0.0.0 tz-ma.es-es.es-es.fbjs.facebook.com
+0.0.0.0 uk-ua.es-es.es-es.fbjs.facebook.com
 0.0.0.0 uz-uz.es-es.es-es.fbjs.facebook.com
+0.0.0.0 vi-vn.es-es.es-es.fbjs.facebook.com
 0.0.0.0 www.es-es.es-es.fbjs.facebook.com
+0.0.0.0 zh-cn.es-es.es-es.fbjs.facebook.com
+0.0.0.0 zh-hk.es-es.es-es.fbjs.facebook.com
+0.0.0.0 zh-tw.es-es.es-es.fbjs.facebook.com
 0.0.0.0 es-la.es-es.fbjs.facebook.com
 0.0.0.0 ar-ar.es-la.es-es.fbjs.facebook.com
 0.0.0.0 az-az.es-la.es-es.fbjs.facebook.com
@@ -3558,6 +3643,7 @@
 0.0.0.0 tl-ph.th-th.es-es.fbjs.facebook.com
 0.0.0.0 tr-tr.th-th.es-es.fbjs.facebook.com
 0.0.0.0 tz-ma.th-th.es-es.fbjs.facebook.com
+0.0.0.0 uz-uz.th-th.es-es.fbjs.facebook.com
 0.0.0.0 vi-vn.th-th.es-es.fbjs.facebook.com
 0.0.0.0 www.th-th.es-es.fbjs.facebook.com
 0.0.0.0 zh-cn.th-th.es-es.fbjs.facebook.com
@@ -4722,6 +4808,7 @@
 0.0.0.0 es-es.he-il.fbjs.facebook.com
 0.0.0.0 de-de.es-es.he-il.fbjs.facebook.com
 0.0.0.0 ja-jp.es-es.he-il.fbjs.facebook.com
+0.0.0.0 about.ja-jp.es-es.he-il.fbjs.facebook.com
 0.0.0.0 www.es-es.he-il.fbjs.facebook.com
 0.0.0.0 pt-br.cs-cz.es-la.he-il.fbjs.facebook.com
 0.0.0.0 zh-cn.cs-cz.es-la.he-il.fbjs.facebook.com
@@ -19560,6 +19647,7 @@
 0.0.0.0 www.fbindia.fb.com
 0.0.0.0 feedback.fb.com
 0.0.0.0 fightcovidmisinfo.fb.com
+0.0.0.0 www.fightcovidmisinfo.fb.com
 0.0.0.0 files.fb.com
 0.0.0.0 formation.fb.com
 0.0.0.0 www.formation.fb.com
@@ -20371,6 +20459,7 @@
 0.0.0.0 apps-1317629475266274.fbsbx.com
 0.0.0.0 apps-134670638112982.fbsbx.com
 0.0.0.0 apps-1418829565150349.fbsbx.com
+0.0.0.0 apps-142188657260842.fbsbx.com
 0.0.0.0 apps-1423863034626244.fbsbx.com
 0.0.0.0 apps-158338056318248.fbsbx.com
 0.0.0.0 apps-1615120508877521.fbsbx.com
@@ -20482,6 +20571,7 @@
 0.0.0.0 apps-594570001917212.fbsbx.com
 0.0.0.0 apps-611404006508935.fbsbx.com
 0.0.0.0 apps-628773107751695.fbsbx.com
+0.0.0.0 apps-658370418661020.fbsbx.com
 0.0.0.0 apps-676978696322991.fbsbx.com
 0.0.0.0 apps-691194661532673.fbsbx.com
 0.0.0.0 apps-691439858393389.fbsbx.com
