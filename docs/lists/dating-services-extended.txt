@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2021-11-25T13:05:22+00:00
-# Count: 16147 domains
+# Released: 2021-11-26T01:05:23+00:00
+# Count: 16185 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -2087,7 +2087,6 @@
 0.0.0.0 o1.newsletter.ashleymadison.com
 0.0.0.0 photo.ashleymadison.com
 0.0.0.0 photo-cdn.ashleymadison.com
-0.0.0.0 photo-cdn-stg.ashleymadison.com
 0.0.0.0 pimg.ashleymadison.com
 0.0.0.0 portal.ashleymadison.com
 0.0.0.0 secure.ashleymadison.com
@@ -10282,6 +10281,7 @@
 0.0.0.0 minio.sbx.ue1.aws.okcupid.com
 0.0.0.0 registry.sbx.ue1.aws.okcupid.com
 0.0.0.0 k8s.stg.ue1.aws.okcupid.com
+0.0.0.0 dmz.k8s.stg.ue1.aws.okcupid.com
 0.0.0.0 blog.okcupid.com
 0.0.0.0 cdn.okcupid.com
 0.0.0.0 de.okcupid.com
@@ -10292,6 +10292,9 @@
 0.0.0.0 it.okcupid.com
 0.0.0.0 k1.okcupid.com
 0.0.0.0 k3.okcupid.com
+0.0.0.0 livestreaming-dev.okcupid.com
+0.0.0.0 livestreaming-prd.okcupid.com
+0.0.0.0 livestreaming-stg.okcupid.com
 0.0.0.0 m.okcupid.com
 0.0.0.0 mailgrid.okcupid.com
 0.0.0.0 mobile-web.okcupid.com
@@ -14234,6 +14237,7 @@
 0.0.0.0 c-date.dating
 0.0.0.0 www.c-date.dating
 0.0.0.0 cake.dating
+0.0.0.0 www.california.dating
 0.0.0.0 campfire.dating
 0.0.0.0 caribbean.dating
 0.0.0.0 api.chances.dating
@@ -14243,6 +14247,7 @@
 0.0.0.0 dev.cheatingwives.dating
 0.0.0.0 staging.cheatingwives.dating
 0.0.0.0 www.cherish.dating
+0.0.0.0 www.christianity.dating
 0.0.0.0 christiansnet.dating
 0.0.0.0 clubofsex.dating
 0.0.0.0 www.clubofsex.dating
@@ -14369,6 +14374,11 @@
 0.0.0.0 fakku.dating
 0.0.0.0 www.fakku.dating
 0.0.0.0 farmersonly.dating
+0.0.0.0 work.on.fb.dating
+0.0.0.0 not.work.on.fb.dating
+0.0.0.0 does.not.work.on.fb.dating
+0.0.0.0 services.does.not.work.on.fb.dating
+0.0.0.0 location.services.does.not.work.on.fb.dating
 0.0.0.0 dev.feetfetish.dating
 0.0.0.0 female.feetfetish.dating
 0.0.0.0 gay.feetfetish.dating
@@ -14440,6 +14450,11 @@
 0.0.0.0 gbn.dating
 0.0.0.0 www.gbn.dating
 0.0.0.0 au.generations.dating
+0.0.0.0 ie.generations.dating
+0.0.0.0 nz.generations.dating
+0.0.0.0 uk.generations.dating
+0.0.0.0 us.generations.dating
+0.0.0.0 za.generations.dating
 0.0.0.0 dan.girls.dating
 0.0.0.0 glass.dating
 0.0.0.0 static.glass.dating
@@ -14460,6 +14475,9 @@
 0.0.0.0 uploads.graphql.dating
 0.0.0.0 app.gutsy.dating
 0.0.0.0 www.gutsy.dating
+0.0.0.0 pic.for.guys.dating
+0.0.0.0 profile.pic.for.guys.dating
+0.0.0.0 beat.profile.pic.for.guys.dating
 0.0.0.0 hating.dating
 0.0.0.0 www.hating.dating
 0.0.0.0 hd.dating
@@ -14630,6 +14648,8 @@
 0.0.0.0 medical.dating
 0.0.0.0 dev.meditation.dating
 0.0.0.0 staging.meditation.dating
+0.0.0.0 want.to.meet.dating
+0.0.0.0 www.want.to.meet.dating
 0.0.0.0 meetcute.dating
 0.0.0.0 www.meetcute.dating
 0.0.0.0 immo.admin.apps.megusta.dating
@@ -14682,8 +14702,10 @@
 0.0.0.0 gay.nativeamerican.dating
 0.0.0.0 local.nativeamerican.dating
 0.0.0.0 staging.nativeamerican.dating
+0.0.0.0 www.naughtyonline.dating
 0.0.0.0 naughtysecret.dating
 0.0.0.0 netdating.dating
+0.0.0.0 almost.b.new.dating
 0.0.0.0 crfprofile.newage.dating
 0.0.0.0 crmprofile.newage.dating
 0.0.0.0 dev.newage.dating
@@ -14704,8 +14726,11 @@
 0.0.0.0 app.nifty.dating
 0.0.0.0 www.nifty.dating
 0.0.0.0 nina.dating
+0.0.0.0 00.00.not.dating
+0.0.0.0 00.00.00.not.dating
 0.0.0.0 i.am.not.dating
 0.0.0.0 still.an.not.dating
+0.0.0.0 they.are.not.dating
 0.0.0.0 we.are.not.dating
 0.0.0.0 rights.to.get.jealous.because.we.are.not.dating
 0.0.0.0 no.we.are.not.dating
@@ -14715,10 +14740,14 @@
 0.0.0.0 am.i.not.dating
 0.0.0.0 she.is.not.dating
 0.0.0.0 if.m.not.dating
+0.0.0.0 mta-sts.mx.not.dating
 0.0.0.0 mx.mx.not.dating
 0.0.0.0 mx.mx.mx.not.dating
 0.0.0.0 mx.mx.mx.mx.not.dating
 0.0.0.0 mx.mx.mx.mx.mx.not.dating
+0.0.0.0 again.probz.not.dating
+0.0.0.0 single.again.probz.not.dating
+0.0.0.0 ffs.single.again.probz.not.dating
 0.0.0.0 kyo.still.not.dating
 0.0.0.0 and.kyo.still.not.dating
 0.0.0.0 tohru.and.kyo.still.not.dating
@@ -14776,6 +14805,10 @@
 0.0.0.0 gay.over50.dating
 0.0.0.0 local.over50.dating
 0.0.0.0 staging.over50.dating
+0.0.0.0 ca.over50s.dating
+0.0.0.0 uk.over50s.dating
+0.0.0.0 us.over50s.dating
+0.0.0.0 www.over50s.dating
 0.0.0.0 over60.dating
 0.0.0.0 dev.over70.dating
 0.0.0.0 dev2.over70.dating
@@ -14840,6 +14873,7 @@
 0.0.0.0 uk.quietsecrets.dating
 0.0.0.0 us.quietsecrets.dating
 0.0.0.0 www.quietsecrets.dating
+0.0.0.0 www.rampant.dating
 0.0.0.0 www.ready.dating
 0.0.0.0 reifes.dating
 0.0.0.0 auth.riddle.dating
@@ -14929,6 +14963,8 @@
 0.0.0.0 crmprofile.spirituality.dating
 0.0.0.0 dev.spirituality.dating
 0.0.0.0 staging.spirituality.dating
+0.0.0.0 app.spirituallove.dating
+0.0.0.0 www.spirituallove.dating
 0.0.0.0 sponsor.dating
 0.0.0.0 spring.dating
 0.0.0.0 www.spring.dating
@@ -14975,6 +15011,7 @@
 0.0.0.0 staging.tennislovers.dating
 0.0.0.0 tesla.dating
 0.0.0.0 www.tesla.dating
+0.0.0.0 www.text.dating
 0.0.0.0 the.dating
 0.0.0.0 www.the.dating
 0.0.0.0 app.thevip.dating
@@ -14999,6 +15036,7 @@
 0.0.0.0 gay.trucker.dating
 0.0.0.0 local.trucker.dating
 0.0.0.0 staging.trucker.dating
+0.0.0.0 mx.true.dating
 0.0.0.0 mx.www.true.dating
 0.0.0.0 dev.ts.dating
 0.0.0.0 dev2.ts.dating
