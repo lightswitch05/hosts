@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-11-26T13:05:22+00:00
-# Count: 76995 domains
+# Released: 2021-11-27T01:05:23+00:00
+# Count: 77135 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -96,7 +96,6 @@
 0.0.0.0 wiki.dev.app.360.cn
 0.0.0.0 open.app.360.cn
 0.0.0.0 appscan.360.cn
-0.0.0.0 jc.appscan.360.cn
 0.0.0.0 pay.appstore.360.cn
 0.0.0.0 apt.360.cn
 0.0.0.0 arena.360.cn
@@ -1087,6 +1086,7 @@
 0.0.0.0 www.sd.360.cn
 0.0.0.0 www-b.sd.360.cn
 0.0.0.0 sdns.360.cn
+0.0.0.0 pub1.sdns.360.cn
 0.0.0.0 sdp.360.cn
 0.0.0.0 sdup.360.cn
 0.0.0.0 sdupf.360.cn
@@ -4072,7 +4072,6 @@
 0.0.0.0 mccjt6j3swvp8rv98-f15vbfznmq.login.exacttarget.com
 0.0.0.0 mcdj4qdw8l406nfc898dy6v5t9-8.login.exacttarget.com
 0.0.0.0 mcdr28kg165z-z1m78-qyvbr4dhq.login.exacttarget.com
-0.0.0.0 mcdrjg6k8w97wxkwh28m-kcjdfnm.login.exacttarget.com
 0.0.0.0 mcf1gfh1h-z-hc5tth-3tz416311.login.exacttarget.com
 0.0.0.0 mcf8p5lg05rpppqjpcr9ddp56560.login.exacttarget.com
 0.0.0.0 mcfd0ysy8f5vvr206b507p-cy1n0.login.exacttarget.com
@@ -15960,6 +15959,22 @@
 0.0.0.0 d2yyd1h5u9mauk.cloudfront.net
 0.0.0.0 d2zqfs55y95cft.cloudfront.net
 0.0.0.0 dpm.demdex.net
+0.0.0.0 qualtrics.com.edgekey.net
+0.0.0.0 akamaisan.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure2.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure3.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure4.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure6.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure7.qualtrics.com.edgekey.net
+0.0.0.0 akamaisecure8.qualtrics.com.edgekey.net
+0.0.0.0 wildcard.az1.qualtrics.com.edgekey.net
+0.0.0.0 cloud.qualtrics.com.edgekey.net
+0.0.0.0 cloudenhanced.qualtrics.com.edgekey.net
+0.0.0.0 wildcard.co1.qualtrics.com.edgekey.net
+0.0.0.0 wildcard.siteintercept.qualtrics.com.edgekey.net
+0.0.0.0 wildcard.us.qualtrics.com.edgekey.net
+0.0.0.0 wildcard.qualtrics.com.edgekey.net
 0.0.0.0 ziffdavis.com.edgekey.net
 0.0.0.0 akamai-1173.ziffdavis.com.edgekey.net
 0.0.0.0 dual.ziffdavis.com.edgekey.net
@@ -16219,7 +16234,6 @@
 0.0.0.0 www.1lumiw-0006go-b1.duckdns.org
 0.0.0.0 1m.duckdns.org
 0.0.0.0 test.1m.duckdns.org
-0.0.0.0 1mbkfo-0007nx-8q.duckdns.org
 0.0.0.0 1medod-0000fy-qd.duckdns.org
 0.0.0.0 1mef5q-0001lv-gr.duckdns.org
 0.0.0.0 1mgmez-0004ly-vl.duckdns.org
@@ -16468,6 +16482,7 @@
 0.0.0.0 cpcontacts.3tt999daiobfiajsbfasf.duckdns.org
 0.0.0.0 webdisk.3tt999daiobfiajsbfasf.duckdns.org
 0.0.0.0 3usaa-secure.duckdns.org
+0.0.0.0 webmail.3usaa-secure.duckdns.org
 0.0.0.0 3wr56rgoo.duckdns.org
 0.0.0.0 3wwijasg9ains9gians.duckdns.org
 0.0.0.0 cpanel.3wwijasg9ains9gians.duckdns.org
@@ -16567,6 +16582,7 @@
 0.0.0.0 plex.529broome.duckdns.org
 0.0.0.0 qbittorrent.529broome.duckdns.org
 0.0.0.0 qbittorrent1.529broome.duckdns.org
+0.0.0.0 tvh.529broome.duckdns.org
 0.0.0.0 529collins.duckdns.org
 0.0.0.0 52hk.duckdns.org
 0.0.0.0 531x.duckdns.org
@@ -16971,6 +16987,7 @@
 0.0.0.0 abdelamrani.duckdns.org
 0.0.0.0 abdohomeassistant.duckdns.org
 0.0.0.0 abdsrv.duckdns.org
+0.0.0.0 abdullah-hassio.duckdns.org
 0.0.0.0 abdulrahman-ha.duckdns.org
 0.0.0.0 abeasinf.duckdns.org
 0.0.0.0 www.abeasinf.duckdns.org
@@ -17043,6 +17060,7 @@
 0.0.0.0 mail.abungkegrub-bokepterbaru245.duckdns.org
 0.0.0.0 abuzeit.duckdns.org
 0.0.0.0 abvcqmhyfy.duckdns.org
+0.0.0.0 abvouivtwk.duckdns.org
 0.0.0.0 abvsmarthome.duckdns.org
 0.0.0.0 ac-1.duckdns.org
 0.0.0.0 ac31ea.duckdns.org
@@ -17064,6 +17082,7 @@
 0.0.0.0 acc987654ou98765ser8765.duckdns.org
 0.0.0.0 cpcalendars.acc987654ou98765ser8765.duckdns.org
 0.0.0.0 www.acc987654ou98765ser8765.duckdns.org
+0.0.0.0 acces-distant-fba.duckdns.org
 0.0.0.0 accessed0-con03.duckdns.org
 0.0.0.0 accessibilityqw.duckdns.org
 0.0.0.0 webmail.accessibilityqw.duckdns.org
@@ -17839,6 +17858,7 @@
 0.0.0.0 alestilohomer.duckdns.org
 0.0.0.0 alet.duckdns.org
 0.0.0.0 www.aletsch.duckdns.org
+0.0.0.0 aletsechace-bank.duckdns.org
 0.0.0.0 alettaj.duckdns.org
 0.0.0.0 bitwarden.alettaj.duckdns.org
 0.0.0.0 ha.alettaj.duckdns.org
@@ -19069,6 +19089,7 @@
 0.0.0.0 www.appsui04eohjsio.duckdns.org
 0.0.0.0 appvpsign.duckdns.org
 0.0.0.0 aprenderesunaactitud.duckdns.org
+0.0.0.0 apshome.duckdns.org
 0.0.0.0 apsignin.duckdns.org
 0.0.0.0 www.apsignin.duckdns.org
 0.0.0.0 apskon.duckdns.org
@@ -19469,6 +19490,7 @@
 0.0.0.0 owncloud.asonac.duckdns.org
 0.0.0.0 seafile.asonac.duckdns.org
 0.0.0.0 traefik.asonac.duckdns.org
+0.0.0.0 asonarrdeel.duckdns.org
 0.0.0.0 asp-stream.duckdns.org
 0.0.0.0 aspar74.duckdns.org
 0.0.0.0 aspemalm.duckdns.org
@@ -19534,7 +19556,6 @@
 0.0.0.0 async2020.duckdns.org
 0.0.0.0 asyncdnigg.duckdns.org
 0.0.0.0 asyncnextlevel.duckdns.org
-0.0.0.0 asyncrat1234321.duckdns.org
 0.0.0.0 asyncspread.duckdns.org
 0.0.0.0 asynctypebeat.duckdns.org
 0.0.0.0 asypkiwblz.duckdns.org
@@ -19849,6 +19870,7 @@
 0.0.0.0 axs.duckdns.org
 0.0.0.0 axshome.duckdns.org
 0.0.0.0 axune.duckdns.org
+0.0.0.0 axvpswidmt.duckdns.org
 0.0.0.0 ay-home.duckdns.org
 0.0.0.0 ay-kingdom.duckdns.org
 0.0.0.0 ayam-kfc1.duckdns.org
@@ -22043,6 +22065,7 @@
 0.0.0.0 bongguya.duckdns.org
 0.0.0.0 bongja.duckdns.org
 0.0.0.0 bonibel.duckdns.org
+0.0.0.0 bonkeroni.duckdns.org
 0.0.0.0 bonniedoonlakeside.duckdns.org
 0.0.0.0 bonsaialcobendas.duckdns.org
 0.0.0.0 bonshadowsock.duckdns.org
@@ -23587,6 +23610,7 @@
 0.0.0.0 casadinanda.duckdns.org
 0.0.0.0 casadiritaedavi.duckdns.org
 0.0.0.0 casadocasal.duckdns.org
+0.0.0.0 casadofabio.duckdns.org
 0.0.0.0 casadogato.duckdns.org
 0.0.0.0 casadoleandro.duckdns.org
 0.0.0.0 casadomoticadino.duckdns.org
@@ -24987,8 +25011,10 @@
 0.0.0.0 cloud.cheny09.duckdns.org
 0.0.0.0 cloud1.cheny09.duckdns.org
 0.0.0.0 ha.cheny09.duckdns.org
+0.0.0.0 home.cheny09.duckdns.org
 0.0.0.0 mycloud.cheny09.duckdns.org
 0.0.0.0 nas.cheny09.duckdns.org
+0.0.0.0 nube.cheny09.duckdns.org
 0.0.0.0 omv.cheny09.duckdns.org
 0.0.0.0 qbit.cheny09.duckdns.org
 0.0.0.0 wp.cheny09.duckdns.org
@@ -25798,6 +25824,8 @@
 0.0.0.0 webmail.claimfree-diamondfreefire.duckdns.org
 0.0.0.0 claimfree-skinml.duckdns.org
 0.0.0.0 claimfreefire58.duckdns.org
+0.0.0.0 cpanel.claimfreefire58.duckdns.org
+0.0.0.0 cpcontacts.claimfreefire58.duckdns.org
 0.0.0.0 claimfreeskin-ml.duckdns.org
 0.0.0.0 cpcontacts.claimfreeskin-ml.duckdns.org
 0.0.0.0 webmail.claimfreeskin-ml.duckdns.org
@@ -25903,6 +25931,7 @@
 0.0.0.0 cpanel.claimskinmobilelegendsqq.duckdns.org
 0.0.0.0 mail.claimskinmobilelegendsqq.duckdns.org
 0.0.0.0 claimskinmobilelegendsvips.duckdns.org
+0.0.0.0 www.claimskinmobilelegendsvips.duckdns.org
 0.0.0.0 claimskinmoonton66.duckdns.org
 0.0.0.0 mail.claimskinmoonton66.duckdns.org
 0.0.0.0 webmail.claimskinmoonton66.duckdns.org
@@ -25916,7 +25945,6 @@
 0.0.0.0 claker.duckdns.org
 0.0.0.0 clakky.duckdns.org
 0.0.0.0 clamat0.duckdns.org
-0.0.0.0 clamunipin.duckdns.org
 0.0.0.0 cloud.clan-johnston.duckdns.org
 0.0.0.0 collabora.clan-johnston.duckdns.org
 0.0.0.0 onlyoffice.clan-johnston.duckdns.org
@@ -26520,6 +26548,10 @@
 0.0.0.0 webmail.codashop-claimeventz.duckdns.org
 0.0.0.0 www.codashop-claimeventz.duckdns.org
 0.0.0.0 codashop-clim-item-old.duckdns.org
+0.0.0.0 cpcalendars.codashop-clim-item-old.duckdns.org
+0.0.0.0 cpcontacts.codashop-clim-item-old.duckdns.org
+0.0.0.0 mail.codashop-clim-item-old.duckdns.org
+0.0.0.0 www.codashop-clim-item-old.duckdns.org
 0.0.0.0 codashop-comakz.duckdns.org
 0.0.0.0 cpcalendars.codashop-comakz.duckdns.org
 0.0.0.0 codashop-diam0nd-gratis-garena-61782.duckdns.org
@@ -26648,7 +26680,9 @@
 0.0.0.0 www.codashop-freefire-mantap.duckdns.org
 0.0.0.0 codashop-freefire2034.duckdns.org
 0.0.0.0 codashop-freefire27.duckdns.org
+0.0.0.0 codashop-freefire444.duckdns.org
 0.0.0.0 codashop-freefire5.duckdns.org
+0.0.0.0 cpcalendars.codashop-freefire5.duckdns.org
 0.0.0.0 codashop-freefire65.duckdns.org
 0.0.0.0 webmail.codashop-freefire65.duckdns.org
 0.0.0.0 www.codashop-freefire65.duckdns.org
@@ -26947,6 +26981,7 @@
 0.0.0.0 codashopgeratis2021zx.duckdns.org
 0.0.0.0 mail.codashopgeratis2021zx.duckdns.org
 0.0.0.0 codashopgiveaway2021.duckdns.org
+0.0.0.0 codashopgragis2021.duckdns.org
 0.0.0.0 codashopgratis-69.duckdns.org
 0.0.0.0 cpanel.codashopgratis-69.duckdns.org
 0.0.0.0 cpcontacts.codashopgratis-69.duckdns.org
@@ -26994,6 +27029,9 @@
 0.0.0.0 codashopmlgift.duckdns.org
 0.0.0.0 webdisk.codashopmlgift.duckdns.org
 0.0.0.0 codashopnew202108.duckdns.org
+0.0.0.0 cpcontacts.codashopnew202108.duckdns.org
+0.0.0.0 webmail.codashopnew202108.duckdns.org
+0.0.0.0 www.codashopnew202108.duckdns.org
 0.0.0.0 codashopnew81.duckdns.org
 0.0.0.0 cpanel.codashopnew81.duckdns.org
 0.0.0.0 webmail.codashopnew81.duckdns.org
@@ -27225,6 +27263,7 @@
 0.0.0.0 auth-front.comicscrip.duckdns.org
 0.0.0.0 captain.comicscrip.duckdns.org
 0.0.0.0 contacts-api.comicscrip.duckdns.org
+0.0.0.0 cors-proxy.comicscrip.duckdns.org
 0.0.0.0 db-admin.comicscrip.duckdns.org
 0.0.0.0 files.comicscrip.duckdns.org
 0.0.0.0 klassmate.comicscrip.duckdns.org
@@ -27291,6 +27330,7 @@
 0.0.0.0 cone85.duckdns.org
 0.0.0.0 conectatearancher.duckdns.org
 0.0.0.0 conexionescam.duckdns.org
+0.0.0.0 confirm-request.duckdns.org
 0.0.0.0 confirm-updatedetail213.duckdns.org
 0.0.0.0 cpcalendars.confirm-updatedetail213.duckdns.org
 0.0.0.0 confirm-yourfb3w.duckdns.org
@@ -29347,6 +29387,7 @@
 0.0.0.0 ltbgvglkgsj.dfggfdfgfd.duckdns.org
 0.0.0.0 ynsthtcgzvjqby.dfggfdfgfd.duckdns.org
 0.0.0.0 dfhaos.duckdns.org
+0.0.0.0 dfhdiflxjn.duckdns.org
 0.0.0.0 dfhsingh.duckdns.org
 0.0.0.0 hass.dfhsingh.duckdns.org
 0.0.0.0 mqtt.dfhsingh.duckdns.org
@@ -30193,7 +30234,6 @@
 0.0.0.0 dominoduck2117.duckdns.org
 0.0.0.0 www.dominoduck2117.duckdns.org
 0.0.0.0 dominoduck2123.duckdns.org
-0.0.0.0 dominolucky.duckdns.org
 0.0.0.0 dominorete.duckdns.org
 0.0.0.0 bitwarden.dominus-teide.duckdns.org
 0.0.0.0 domipxy8087.duckdns.org
@@ -31367,6 +31407,7 @@
 0.0.0.0 eddyrenkema.duckdns.org
 0.0.0.0 eddyvault.duckdns.org
 0.0.0.0 edegjsjtvx.duckdns.org
+0.0.0.0 www.edegjsjtvx.duckdns.org
 0.0.0.0 edelcloud.duckdns.org
 0.0.0.0 edemur.duckdns.org
 0.0.0.0 edenhome.duckdns.org
@@ -31541,6 +31582,7 @@
 0.0.0.0 eggcarton.duckdns.org
 0.0.0.0 egghassio.duckdns.org
 0.0.0.0 eggserver.duckdns.org
+0.0.0.0 egholm-ha.duckdns.org
 0.0.0.0 eglisau.duckdns.org
 0.0.0.0 eglrpdjpva.duckdns.org
 0.0.0.0 www.eglrpdjpva.duckdns.org
@@ -31613,6 +31655,7 @@
 0.0.0.0 einsteinz.duckdns.org
 0.0.0.0 einzelband.duckdns.org
 0.0.0.0 eiox.duckdns.org
+0.0.0.0 webmail.eiox.duckdns.org
 0.0.0.0 eiqxigyzms.duckdns.org
 0.0.0.0 www.eiqxigyzms.duckdns.org
 0.0.0.0 eisenmannfl.duckdns.org
@@ -32108,6 +32151,7 @@
 0.0.0.0 epjrexrxwp.duckdns.org
 0.0.0.0 epl-tr.duckdns.org
 0.0.0.0 eple.duckdns.org
+0.0.0.0 epmtbcsprt.duckdns.org
 0.0.0.0 epocarlosnas.duckdns.org
 0.0.0.0 epoch-ha.duckdns.org
 0.0.0.0 epoch-nc.duckdns.org
@@ -33246,6 +33290,7 @@
 0.0.0.0 webdisk.eventmobilelegend12.duckdns.org
 0.0.0.0 webmail.eventmobilelegend12.duckdns.org
 0.0.0.0 www.eventmobilelegend12.duckdns.org
+0.0.0.0 eventmobilelegends-gratis2021.duckdns.org
 0.0.0.0 eventnew-codashop-diamond-gratis.duckdns.org
 0.0.0.0 cpanel.eventnew-codashop-diamond-gratis.duckdns.org
 0.0.0.0 mail.eventnew-codashop-diamond-gratis.duckdns.org
@@ -33496,6 +33541,7 @@
 0.0.0.0 ezgogogo.duckdns.org
 0.0.0.0 ezh9.duckdns.org
 0.0.0.0 ezhische.duckdns.org
+0.0.0.0 ezim10.duckdns.org
 0.0.0.0 ezirc.duckdns.org
 0.0.0.0 ezkckeyfmg.duckdns.org
 0.0.0.0 ezl.duckdns.org
@@ -34199,7 +34245,6 @@
 0.0.0.0 ff-claimnew2.duckdns.org
 0.0.0.0 old.ff-claimnew2.duckdns.org
 0.0.0.0 cpanel.old.ff-claimnew2.duckdns.org
-0.0.0.0 ff-claimnew71.duckdns.org
 0.0.0.0 webmail.ff-claimnew71.duckdns.org
 0.0.0.0 ff-coda010-com.duckdns.org
 0.0.0.0 webmail.ff-coda010-com.duckdns.org
@@ -34234,6 +34279,7 @@
 0.0.0.0 ff-gratis-event-real23.duckdns.org
 0.0.0.0 ff-gratis-terbaru677.duckdns.org
 0.0.0.0 ff-kodeqr-com.duckdns.org
+0.0.0.0 cpcalendars.ff-kodeqr-com.duckdns.org
 0.0.0.0 ff-lucky-spin-gratis1231.duckdns.org
 0.0.0.0 cpcalendars.ff-lucky-spin-gratis1231.duckdns.org
 0.0.0.0 ff-newclaim91.duckdns.org
@@ -36132,6 +36178,7 @@
 0.0.0.0 gearservice.duckdns.org
 0.0.0.0 fancontrol.geatel.duckdns.org
 0.0.0.0 gebelhouse.duckdns.org
+0.0.0.0 gecbjejavd.duckdns.org
 0.0.0.0 geckospot.duckdns.org
 0.0.0.0 jellyfin.geebsbox.duckdns.org
 0.0.0.0 nextcloud.geebsbox.duckdns.org
@@ -36178,6 +36225,7 @@
 0.0.0.0 nodered.gelinski.duckdns.org
 0.0.0.0 qbit.gelinski.duckdns.org
 0.0.0.0 qbittorrent.gelinski.duckdns.org
+0.0.0.0 saltstack.gelinski.duckdns.org
 0.0.0.0 teste.gelinski.duckdns.org
 0.0.0.0 tools.gelinski.duckdns.org
 0.0.0.0 gellerha.duckdns.org
@@ -37547,6 +37595,7 @@
 0.0.0.0 cpcalendars.grub-wa-tantembulku.duckdns.org
 0.0.0.0 www.grub-wa-tantembulku.duckdns.org
 0.0.0.0 grub-wa-viral2021.duckdns.org
+0.0.0.0 grub-wa-viraltanteameliaa2021.duckdns.org
 0.0.0.0 grub-wa18.duckdns.org
 0.0.0.0 cpcontacts.grub-wa18.duckdns.org
 0.0.0.0 mail.grub-wa18.duckdns.org
@@ -37754,6 +37803,7 @@
 0.0.0.0 mail.grubwhatsapp.duckdns.org
 0.0.0.0 webdisk.grubwhatsapp.duckdns.org
 0.0.0.0 www.grubwhatsapp.duckdns.org
+0.0.0.0 grubwhatsapp-12.duckdns.org
 0.0.0.0 grubwhatsapp-18full-join.duckdns.org
 0.0.0.0 cpanel.grubwhatsapp-18full-join.duckdns.org
 0.0.0.0 www.grubwhatsapp-18full-join.duckdns.org
@@ -37796,6 +37846,8 @@
 0.0.0.0 cpcalendars.grubwhatshap-22.duckdns.org
 0.0.0.0 grubwhatshap-2j.duckdns.org
 0.0.0.0 grubwhatssapp18.duckdns.org
+0.0.0.0 cpcalendars.grubwhatssapp18.duckdns.org
+0.0.0.0 www.grubwhatssapp18.duckdns.org
 0.0.0.0 grubwhtsapp18.duckdns.org
 0.0.0.0 webmail.grubwhtsapp18.duckdns.org
 0.0.0.0 grubwindasemok.duckdns.org
@@ -38390,6 +38442,7 @@
 0.0.0.0 gruppwavirall2021.duckdns.org
 0.0.0.0 gruppwhastapp.duckdns.org
 0.0.0.0 grups18-flusnew.duckdns.org
+0.0.0.0 webdisk.grups18-flusnew.duckdns.org
 0.0.0.0 grupsangean.duckdns.org
 0.0.0.0 cpcontacts.grupsangean.duckdns.org
 0.0.0.0 www.grupsangean.duckdns.org
@@ -38424,6 +38477,7 @@
 0.0.0.0 gruptante-videoviral07.duckdns.org
 0.0.0.0 gruptante-viralsi.duckdns.org
 0.0.0.0 gruptante18.duckdns.org
+0.0.0.0 mail.gruptante18.duckdns.org
 0.0.0.0 gruptantecantik.duckdns.org
 0.0.0.0 gruptantehot2021.duckdns.org
 0.0.0.0 www.gruptantehot2021.duckdns.org
@@ -39380,6 +39434,7 @@
 0.0.0.0 hadiahuang.duckdns.org
 0.0.0.0 cpanel.hadiahuang.duckdns.org
 0.0.0.0 cpcontacts.hadiahuang.duckdns.org
+0.0.0.0 hadiegoa.duckdns.org
 0.0.0.0 hadler.duckdns.org
 0.0.0.0 hadom.duckdns.org
 0.0.0.0 hadom1990.duckdns.org
@@ -40335,6 +40390,7 @@
 0.0.0.0 hassio12345679.duckdns.org
 0.0.0.0 hassio1337.duckdns.org
 0.0.0.0 hassio17.duckdns.org
+0.0.0.0 hassio1965.duckdns.org
 0.0.0.0 hassio21hurlingwindows.duckdns.org
 0.0.0.0 hassio236.duckdns.org
 0.0.0.0 hassio2617.duckdns.org
@@ -40796,6 +40852,7 @@
 0.0.0.0 heddfan.duckdns.org
 0.0.0.0 hedebovej.duckdns.org
 0.0.0.0 hedegard.duckdns.org
+0.0.0.0 hedegyden.duckdns.org
 0.0.0.0 heden.duckdns.org
 0.0.0.0 hedrick1.duckdns.org
 0.0.0.0 hedwigstreet.duckdns.org
@@ -41590,6 +41647,7 @@
 0.0.0.0 router.home1502.duckdns.org
 0.0.0.0 rt.home1502.duckdns.org
 0.0.0.0 home1707.duckdns.org
+0.0.0.0 home184.duckdns.org
 0.0.0.0 home192168129.duckdns.org
 0.0.0.0 home2002.duckdns.org
 0.0.0.0 home2004.duckdns.org
@@ -42254,7 +42312,6 @@
 0.0.0.0 hridaya0017.duckdns.org
 0.0.0.0 hrnaegeli.duckdns.org
 0.0.0.0 hrnbrg.duckdns.org
-0.0.0.0 hrnys.duckdns.org
 0.0.0.0 hrod84.duckdns.org
 0.0.0.0 hrphsvr01.duckdns.org
 0.0.0.0 hrrrqdddpp.duckdns.org
@@ -42412,6 +42469,7 @@
 0.0.0.0 hungnh.duckdns.org
 0.0.0.0 hungnm.duckdns.org
 0.0.0.0 hungoverviewinfoauth91neta.duckdns.org
+0.0.0.0 webdisk.hungoverviewinfoauth91neta.duckdns.org
 0.0.0.0 hungquangngo.duckdns.org
 0.0.0.0 hungtingpage.duckdns.org
 0.0.0.0 mail.hungtingpage.duckdns.org
@@ -43493,6 +43551,7 @@
 0.0.0.0 isuperhouse.duckdns.org
 0.0.0.0 isyzckhhao.duckdns.org
 0.0.0.0 isz.duckdns.org
+0.0.0.0 it-libri.duckdns.org
 0.0.0.0 it-nets.duckdns.org
 0.0.0.0 it007.duckdns.org
 0.0.0.0 it194.duckdns.org
@@ -44297,6 +44356,7 @@
 0.0.0.0 jelly-monkian.duckdns.org
 0.0.0.0 jellybeanonsunbury.duckdns.org
 0.0.0.0 jellycenter.duckdns.org
+0.0.0.0 jellyf.duckdns.org
 0.0.0.0 jellyfin-durga.duckdns.org
 0.0.0.0 jellyfin-gmsh.duckdns.org
 0.0.0.0 jellyfin-sea.duckdns.org
@@ -44601,6 +44661,7 @@
 0.0.0.0 jlafuenti.duckdns.org
 0.0.0.0 jlar.duckdns.org
 0.0.0.0 transmission.jlaso.duckdns.org
+0.0.0.0 jlemnqrvek.duckdns.org
 0.0.0.0 jlenaers.duckdns.org
 0.0.0.0 jleszcze.duckdns.org
 0.0.0.0 jlferreirabr.duckdns.org
@@ -45252,6 +45313,7 @@
 0.0.0.0 webmail.joingrubwhatsapp-terbaru.duckdns.org
 0.0.0.0 joingrup-5.duckdns.org
 0.0.0.0 joingrup-berbagibokep17.duckdns.org
+0.0.0.0 www.joingrup-berbagibokep17.duckdns.org
 0.0.0.0 joingrup-bokep-viral.duckdns.org
 0.0.0.0 joingrup-bokepsma.duckdns.org
 0.0.0.0 mail.joingrup-bokepsma.duckdns.org
@@ -45355,6 +45417,7 @@
 0.0.0.0 joingrupmabarnotnot.duckdns.org
 0.0.0.0 mail.joingrupmabarnotnot.duckdns.org
 0.0.0.0 www.joingrupmabarnotnot.duckdns.org
+0.0.0.0 joingrupmee.duckdns.org
 0.0.0.0 joingrupnitnott.duckdns.org
 0.0.0.0 joingrupnotnotrealyukguys.duckdns.org
 0.0.0.0 joingrups-viralsx.duckdns.org
@@ -45372,6 +45435,7 @@
 0.0.0.0 joingrupviralyuk.duckdns.org
 0.0.0.0 joingrupwa-silvia.duckdns.org
 0.0.0.0 joingrupwa-tantex.duckdns.org
+0.0.0.0 www.joingrupwa-tantex.duckdns.org
 0.0.0.0 joingrupwa18vz.duckdns.org
 0.0.0.0 cpanel.joingrupwa18vz.duckdns.org
 0.0.0.0 cpcalendars.joingrupwa18vz.duckdns.org
@@ -45428,6 +45492,11 @@
 0.0.0.0 joinjepangindo.duckdns.org
 0.0.0.0 webmail.joinjepangindo.duckdns.org
 0.0.0.0 joinjoingrupgrupwa18www9999.duckdns.org
+0.0.0.0 cpcalendars.joinjoingrupgrupwa18www9999.duckdns.org
+0.0.0.0 cpcontacts.joinjoingrupgrupwa18www9999.duckdns.org
+0.0.0.0 mail.joinjoingrupgrupwa18www9999.duckdns.org
+0.0.0.0 webmail.joinjoingrupgrupwa18www9999.duckdns.org
+0.0.0.0 www.joinjoingrupgrupwa18www9999.duckdns.org
 0.0.0.0 joinkegrubbokepindo.duckdns.org
 0.0.0.0 mail.joinkegrubbokepindo.duckdns.org
 0.0.0.0 joinkliksgrupsex-news.duckdns.org
@@ -45478,6 +45547,8 @@
 0.0.0.0 webmail.joint-new-group-wa.duckdns.org
 0.0.0.0 www.joint-new-group-wa.duckdns.org
 0.0.0.0 jointogrups.duckdns.org
+0.0.0.0 mail.jointogrups.duckdns.org
+0.0.0.0 webdisk.jointogrups.duckdns.org
 0.0.0.0 jointy6-gh.duckdns.org
 0.0.0.0 cpcalendars.jointy6-gh.duckdns.org
 0.0.0.0 www.jointy6-gh.duckdns.org
@@ -47165,6 +47236,7 @@
 0.0.0.0 kjosd.duckdns.org
 0.0.0.0 kjshomeassist.duckdns.org
 0.0.0.0 kjsoyytpdq.duckdns.org
+0.0.0.0 kjtfjrxark.duckdns.org
 0.0.0.0 sjva.kjungin.duckdns.org
 0.0.0.0 kjungyu.duckdns.org
 0.0.0.0 kjymylmlly.duckdns.org
@@ -47867,6 +47939,7 @@
 0.0.0.0 kutilamoy.duckdns.org
 0.0.0.0 mail.kutilamoy.duckdns.org
 0.0.0.0 kutmirhngc.duckdns.org
+0.0.0.0 www.kutmirhngc.duckdns.org
 0.0.0.0 kutt.duckdns.org
 0.0.0.0 portainer.kuuhaku-server.duckdns.org
 0.0.0.0 traefik.kuuhaku-server.duckdns.org
@@ -48493,6 +48566,7 @@
 0.0.0.0 omv.lcha.duckdns.org
 0.0.0.0 lchk.duckdns.org
 0.0.0.0 lcjsm.duckdns.org
+0.0.0.0 lcksvtaeue.duckdns.org
 0.0.0.0 lclasenhome.duckdns.org
 0.0.0.0 lcoceeanpu.duckdns.org
 0.0.0.0 lcooxoetui.duckdns.org
@@ -49151,6 +49225,7 @@
 0.0.0.0 littlebox.duckdns.org
 0.0.0.0 doh.littlebox.duckdns.org
 0.0.0.0 littlebudfarm.duckdns.org
+0.0.0.0 littlefevertree.duckdns.org
 0.0.0.0 littlefork.duckdns.org
 0.0.0.0 littlei.duckdns.org
 0.0.0.0 littlemajovm.duckdns.org
@@ -49530,6 +49605,7 @@
 0.0.0.0 lordnight.duckdns.org
 0.0.0.0 lordnnud.duckdns.org
 0.0.0.0 lordofdark.duckdns.org
+0.0.0.0 lordrvl.duckdns.org
 0.0.0.0 lordziploc.duckdns.org
 0.0.0.0 loredanavalentina.duckdns.org
 0.0.0.0 lorehome83.duckdns.org
@@ -49682,6 +49758,7 @@
 0.0.0.0 lriwezqoqv.duckdns.org
 0.0.0.0 www.lriwezqoqv.duckdns.org
 0.0.0.0 lrn-scw.duckdns.org
+0.0.0.0 lrnhyfwxdr.duckdns.org
 0.0.0.0 lroy.duckdns.org
 0.0.0.0 lrptaos.duckdns.org
 0.0.0.0 ls-dsb.duckdns.org
@@ -50115,6 +50192,7 @@
 0.0.0.0 lyonsfamily.duckdns.org
 0.0.0.0 lyonsfamilytheia.duckdns.org
 0.0.0.0 lyosha.duckdns.org
+0.0.0.0 lyprdaffyo.duckdns.org
 0.0.0.0 lyrand.duckdns.org
 0.0.0.0 lyricalguac.duckdns.org
 0.0.0.0 lyridsmarthub.duckdns.org
@@ -50247,6 +50325,7 @@
 0.0.0.0 machelmontano.duckdns.org
 0.0.0.0 machet3st.duckdns.org
 0.0.0.0 machhn.duckdns.org
+0.0.0.0 machial.duckdns.org
 0.0.0.0 machinaris.duckdns.org
 0.0.0.0 machine2669.duckdns.org
 0.0.0.0 machomeass42.duckdns.org
@@ -50761,6 +50840,7 @@
 0.0.0.0 mansfieldhome.duckdns.org
 0.0.0.0 mansilla.duckdns.org
 0.0.0.0 mansiones.duckdns.org
+0.0.0.0 mansionjc.duckdns.org
 0.0.0.0 manske.duckdns.org
 0.0.0.0 bi.manske.duckdns.org
 0.0.0.0 ha.manske.duckdns.org
@@ -51053,6 +51133,7 @@
 0.0.0.0 martindale.duckdns.org
 0.0.0.0 martingonzalessoto09.duckdns.org
 0.0.0.0 martinipenthouse.duckdns.org
+0.0.0.0 martinl.duckdns.org
 0.0.0.0 martinrouterkingproject.duckdns.org
 0.0.0.0 martintaborda.duckdns.org
 0.0.0.0 martinthe3rd.duckdns.org
@@ -52173,6 +52254,8 @@
 0.0.0.0 miguy973.duckdns.org
 0.0.0.0 mihajlo-phobos.duckdns.org
 0.0.0.0 miharashi.duckdns.org
+0.0.0.0 mihassio.duckdns.org
+0.0.0.0 mihassiocasa.duckdns.org
 0.0.0.0 mihassiokk.duckdns.org
 0.0.0.0 axis.mihassiokk.duckdns.org
 0.0.0.0 blueiris.mihassiokk.duckdns.org
@@ -53602,6 +53685,7 @@
 0.0.0.0 sonarr.msv2.duckdns.org
 0.0.0.0 msvanlaar.duckdns.org
 0.0.0.0 msw0104.duckdns.org
+0.0.0.0 msw217.duckdns.org
 0.0.0.0 msweb.duckdns.org
 0.0.0.0 mswiniuch.duckdns.org
 0.0.0.0 msys2-mirrors.duckdns.org
@@ -54078,6 +54162,7 @@
 0.0.0.0 nextcloud.myhomeinalsace.duckdns.org
 0.0.0.0 omv.myhomeinalsace.duckdns.org
 0.0.0.0 plex.myhomeinalsace.duckdns.org
+0.0.0.0 sonarr.myhomeinalsace.duckdns.org
 0.0.0.0 torrent.myhomeinalsace.duckdns.org
 0.0.0.0 myhomeinstance.duckdns.org
 0.0.0.0 myhomejatero.duckdns.org
@@ -54823,6 +54908,7 @@
 0.0.0.0 ncpcloud.duckdns.org
 0.0.0.0 ncpcloud3.duckdns.org
 0.0.0.0 ncpenguin.duckdns.org
+0.0.0.0 hasspenguin.ncpenguin.duckdns.org
 0.0.0.0 ncpsrv.duckdns.org
 0.0.0.0 ncrhassio.duckdns.org
 0.0.0.0 bi.ncrhassio.duckdns.org
@@ -56534,7 +56620,6 @@
 0.0.0.0 ocondado.duckdns.org
 0.0.0.0 ocptn-seat.duckdns.org
 0.0.0.0 ocsdev-cloud.duckdns.org
-0.0.0.0 octagonfran.duckdns.org
 0.0.0.0 octagonyhuss.duckdns.org
 0.0.0.0 syncthing.octocloud.duckdns.org
 0.0.0.0 octopic.duckdns.org
@@ -56587,6 +56672,7 @@
 0.0.0.0 oestergaard.duckdns.org
 0.0.0.0 oeteldonk.duckdns.org
 0.0.0.0 oeuioo.duckdns.org
+0.0.0.0 www.oeuioo.duckdns.org
 0.0.0.0 ofaaf.duckdns.org
 0.0.0.0 ofendley.duckdns.org
 0.0.0.0 couchpotato.ofendley.duckdns.org
@@ -56833,6 +56919,7 @@
 0.0.0.0 olivierbernardi.duckdns.org
 0.0.0.0 olivierha2591.duckdns.org
 0.0.0.0 olivosmedia.duckdns.org
+0.0.0.0 olkewaqef.duckdns.org
 0.0.0.0 ollfkaih.duckdns.org
 0.0.0.0 ollhassen.duckdns.org
 0.0.0.0 ollihomeassistant.duckdns.org
@@ -57019,6 +57106,7 @@
 0.0.0.0 cpcalendars.onlinchaseloginprotection.duckdns.org
 0.0.0.0 online-01active.duckdns.org
 0.0.0.0 online-authenticate-verify.duckdns.org
+0.0.0.0 online-cisudhlswit91984.duckdns.org
 0.0.0.0 online-cunsmtaid399910001.duckdns.org
 0.0.0.0 cpcalendars.online-cunsmtaid399910001.duckdns.org
 0.0.0.0 online-logvalidaite.duckdns.org
@@ -58415,6 +58503,7 @@
 0.0.0.0 perdiz2.duckdns.org
 0.0.0.0 hassio.perdiz2.duckdns.org
 0.0.0.0 peregrinelink.duckdns.org
+0.0.0.0 pereirapiha.duckdns.org
 0.0.0.0 perelloiserra.duckdns.org
 0.0.0.0 perenhuisje.duckdns.org
 0.0.0.0 perez10245.duckdns.org
@@ -59436,6 +59525,7 @@
 0.0.0.0 pousada-kalunga.duckdns.org
 0.0.0.0 povedilla.duckdns.org
 0.0.0.0 povpov29.duckdns.org
+0.0.0.0 powaus.duckdns.org
 0.0.0.0 powczglffi.duckdns.org
 0.0.0.0 powdahounds.duckdns.org
 0.0.0.0 powellhome.duckdns.org
@@ -59779,6 +59869,7 @@
 0.0.0.0 pripps.duckdns.org
 0.0.0.0 prismaanalytics.duckdns.org
 0.0.0.0 prismart.duckdns.org
+0.0.0.0 prismdh-epepeaadkdmndbvdfnmnvdwq.duckdns.org
 0.0.0.0 prismsf.duckdns.org
 0.0.0.0 grafana.prismsf.duckdns.org
 0.0.0.0 ha.prismsf.duckdns.org
@@ -59959,6 +60050,7 @@
 0.0.0.0 prosperity.duckdns.org
 0.0.0.0 prostorn.duckdns.org
 0.0.0.0 protoncek.duckdns.org
+0.0.0.0 protoservermanager.duckdns.org
 0.0.0.0 hassio.prototech.duckdns.org
 0.0.0.0 proudsoldier.duckdns.org
 0.0.0.0 www.proudsoldier.duckdns.org
@@ -60459,6 +60551,7 @@
 0.0.0.0 qorg.duckdns.org
 0.0.0.0 vid.qorg.duckdns.org
 0.0.0.0 qoxkkhxsso.duckdns.org
+0.0.0.0 qpheuhsuon.duckdns.org
 0.0.0.0 qpkxanlccg.duckdns.org
 0.0.0.0 www.qpkxanlccg.duckdns.org
 0.0.0.0 dev.qporest.duckdns.org
@@ -60797,6 +60890,7 @@
 0.0.0.0 rahulage.duckdns.org
 0.0.0.0 raibasmarthome.duckdns.org
 0.0.0.0 raidhome.duckdns.org
+0.0.0.0 bit.raidhome.duckdns.org
 0.0.0.0 deluge.raidhome.duckdns.org
 0.0.0.0 dock.raidhome.duckdns.org
 0.0.0.0 esx.raidhome.duckdns.org
@@ -60971,6 +61065,7 @@
 0.0.0.0 raspat20.duckdns.org
 0.0.0.0 raspberrino.duckdns.org
 0.0.0.0 raspberry-n-marotta.duckdns.org
+0.0.0.0 raspberrycake.duckdns.org
 0.0.0.0 raspberrycarlo.duckdns.org
 0.0.0.0 raspberryclaud.duckdns.org
 0.0.0.0 raspberrydigio80.duckdns.org
@@ -61397,6 +61492,7 @@
 0.0.0.0 rcantare.duckdns.org
 0.0.0.0 rcas.duckdns.org
 0.0.0.0 rcb-home.duckdns.org
+0.0.0.0 rcczqlorly.duckdns.org
 0.0.0.0 rceesgtgkx.duckdns.org
 0.0.0.0 www.rceesgtgkx.duckdns.org
 0.0.0.0 rcg-cruz-homeassistant.duckdns.org
@@ -61551,6 +61647,7 @@
 0.0.0.0 redirecrtsecure.duckdns.org
 0.0.0.0 redirect-07citizenuserauth.duckdns.org
 0.0.0.0 redirect-auth.duckdns.org
+0.0.0.0 webdisk.redirect-auth.duckdns.org
 0.0.0.0 redirect-service4.duckdns.org
 0.0.0.0 mail.redirect-service4.duckdns.org
 0.0.0.0 redirect-service5.duckdns.org
@@ -63020,6 +63117,9 @@
 0.0.0.0 s3ure-verify0.duckdns.org
 0.0.0.0 s4hc.duckdns.org
 0.0.0.0 s55.duckdns.org
+0.0.0.0 s55-grafana.duckdns.org
+0.0.0.0 s55-motioneye.duckdns.org
+0.0.0.0 s55-router.duckdns.org
 0.0.0.0 s62.duckdns.org
 0.0.0.0 s7angs73r.duckdns.org
 0.0.0.0 s89.duckdns.org
@@ -63298,6 +63398,7 @@
 0.0.0.0 sandrockcloud.duckdns.org
 0.0.0.0 sandrohome.duckdns.org
 0.0.0.0 sandropc.duckdns.org
+0.0.0.0 sandrotiagocardoso.duckdns.org
 0.0.0.0 sandroz.duckdns.org
 0.0.0.0 sandshoe.duckdns.org
 0.0.0.0 www.sandshoe.duckdns.org
@@ -64043,6 +64144,7 @@
 0.0.0.0 secure-citizen-bank.duckdns.org
 0.0.0.0 secure-citizens-bank-verify.duckdns.org
 0.0.0.0 secure-connect-paypal.duckdns.org
+0.0.0.0 secure-dir5050.duckdns.org
 0.0.0.0 secure-edd092.duckdns.org
 0.0.0.0 secure-facebook.duckdns.org
 0.0.0.0 cpanel.secure-facebook.duckdns.org
@@ -64322,6 +64424,9 @@
 0.0.0.0 secure3-authaverifyinfo.duckdns.org
 0.0.0.0 secure3-paypalsecurityauth.duckdns.org
 0.0.0.0 secure3bverify.duckdns.org
+0.0.0.0 cpanel.secure3bverify.duckdns.org
+0.0.0.0 cpcalendars.secure3bverify.duckdns.org
+0.0.0.0 www.secure3bverify.duckdns.org
 0.0.0.0 secure3rverify.duckdns.org
 0.0.0.0 webmail.secure3rverify.duckdns.org
 0.0.0.0 secure400-verify.duckdns.org
@@ -64417,7 +64522,7 @@
 0.0.0.0 securecitizensauth.duckdns.org
 0.0.0.0 webmail.securecitizensauth.duckdns.org
 0.0.0.0 www.securecitizensauth.duckdns.org
-0.0.0.0 secured-05.duckdns.org
+0.0.0.0 secured-002-verify.duckdns.org
 0.0.0.0 secured-38-verify.duckdns.org
 0.0.0.0 secured-citizansinfo.duckdns.org
 0.0.0.0 secured0082v-verify.duckdns.org
@@ -64505,6 +64610,7 @@
 0.0.0.0 secureserver202.duckdns.org
 0.0.0.0 www.secureserver202.duckdns.org
 0.0.0.0 secureserverloginchasemorgansever9b.duckdns.org
+0.0.0.0 secureservernc1b.duckdns.org
 0.0.0.0 secureservice2restoremynetflixmembership.duckdns.org
 0.0.0.0 cpanel.secureservice2restoremynetflixmembership.duckdns.org
 0.0.0.0 webdisk.secureservice2restoremynetflixmembership.duckdns.org
@@ -65572,6 +65678,7 @@
 0.0.0.0 dss.simonszoft.duckdns.org
 0.0.0.0 simonth58.duckdns.org
 0.0.0.0 simontok-teert.duckdns.org
+0.0.0.0 simontok-viral12.duckdns.org
 0.0.0.0 simontokxnxx.duckdns.org
 0.0.0.0 simonwalkersamuel.duckdns.org
 0.0.0.0 simor.duckdns.org
@@ -65708,6 +65815,7 @@
 0.0.0.0 sjoerd.duckdns.org
 0.0.0.0 sjolander.duckdns.org
 0.0.0.0 sjoon.duckdns.org
+0.0.0.0 sjoper.duckdns.org
 0.0.0.0 sjpgfpvpzj.duckdns.org
 0.0.0.0 sjt.duckdns.org
 0.0.0.0 sjurrffpte.duckdns.org
@@ -66349,6 +66457,7 @@
 0.0.0.0 www.socketw2.duckdns.org
 0.0.0.0 sockio.duckdns.org
 0.0.0.0 sodank.duckdns.org
+0.0.0.0 sodashoptopuptermurah.duckdns.org
 0.0.0.0 soderpants.duckdns.org
 0.0.0.0 sodom.duckdns.org
 0.0.0.0 mta-sts.sodom.duckdns.org
@@ -66594,6 +66703,7 @@
 0.0.0.0 remote.spango.duckdns.org
 0.0.0.0 spanty-ha.duckdns.org
 0.0.0.0 spantyhassio.duckdns.org
+0.0.0.0 sparacino.duckdns.org
 0.0.0.0 sparagus.duckdns.org
 0.0.0.0 sparaweb.duckdns.org
 0.0.0.0 sparkas.duckdns.org
@@ -67069,6 +67179,7 @@
 0.0.0.0 starkenterprises.duckdns.org
 0.0.0.0 starkmansion.duckdns.org
 0.0.0.0 starks-omv.duckdns.org
+0.0.0.0 starlight20.duckdns.org
 0.0.0.0 sonar.starliner.duckdns.org
 0.0.0.0 www.starliner.duckdns.org
 0.0.0.0 starnav.duckdns.org
@@ -67392,9 +67503,11 @@
 0.0.0.0 cloud.strohmayer.duckdns.org
 0.0.0.0 emby.strohmayer.duckdns.org
 0.0.0.0 media.strohmayer.duckdns.org
+0.0.0.0 nc.strohmayer.duckdns.org
 0.0.0.0 portainer.strohmayer.duckdns.org
 0.0.0.0 proxy.strohmayer.duckdns.org
 0.0.0.0 traefik.strohmayer.duckdns.org
+0.0.0.0 unraid.strohmayer.duckdns.org
 0.0.0.0 strome.duckdns.org
 0.0.0.0 strongchou1.duckdns.org
 0.0.0.0 stroop.duckdns.org
@@ -67436,6 +67549,7 @@
 0.0.0.0 hass.stw22.duckdns.org
 0.0.0.0 stylify.duckdns.org
 0.0.0.0 styrbordsvagen.duckdns.org
+0.0.0.0 styrjnqhwp.duckdns.org
 0.0.0.0 stzomanor.duckdns.org
 0.0.0.0 stzurich.duckdns.org
 0.0.0.0 suasaude.duckdns.org
@@ -67456,6 +67570,7 @@
 0.0.0.0 subdomainxfinityonline.duckdns.org
 0.0.0.0 mail.subdomainxfinityonline.duckdns.org
 0.0.0.0 www.subdomainxfinityonline.duckdns.org
+0.0.0.0 subdominiorat.duckdns.org
 0.0.0.0 subetha.duckdns.org
 0.0.0.0 subhome.duckdns.org
 0.0.0.0 subinfo-skenario.duckdns.org
@@ -68033,6 +68148,7 @@
 0.0.0.0 tamaz.duckdns.org
 0.0.0.0 tamboer.duckdns.org
 0.0.0.0 tamiel.duckdns.org
+0.0.0.0 tamimology.duckdns.org
 0.0.0.0 tamir.duckdns.org
 0.0.0.0 tamoio.duckdns.org
 0.0.0.0 tampilan-sc-ollld.duckdns.org
@@ -69157,6 +69273,7 @@
 0.0.0.0 config.timc83.duckdns.org
 0.0.0.0 ide.timc83.duckdns.org
 0.0.0.0 terminal.timc83.duckdns.org
+0.0.0.0 timechanges.duckdns.org
 0.0.0.0 timek.duckdns.org
 0.0.0.0 timelogstudio.duckdns.org
 0.0.0.0 timenlisa.duckdns.org
@@ -69314,6 +69431,7 @@
 0.0.0.0 transmission.tkhom3.duckdns.org
 0.0.0.0 www.tkhom3.duckdns.org
 0.0.0.0 tkin11.duckdns.org
+0.0.0.0 tklzmaruoi.duckdns.org
 0.0.0.0 tkocz.duckdns.org
 0.0.0.0 tkotwa.duckdns.org
 0.0.0.0 tkrhome.duckdns.org
@@ -69793,6 +69911,7 @@
 0.0.0.0 tptptp.duckdns.org
 0.0.0.0 tpxipjgiza.duckdns.org
 0.0.0.0 tq26rs.duckdns.org
+0.0.0.0 tqewghqacb.duckdns.org
 0.0.0.0 tr-hagnett.duckdns.org
 0.0.0.0 tr3dnsha.duckdns.org
 0.0.0.0 tr3i3al.duckdns.org
@@ -70283,6 +70402,7 @@
 0.0.0.0 twosquarefeet.duckdns.org
 0.0.0.0 twowattle.duckdns.org
 0.0.0.0 twpi.duckdns.org
+0.0.0.0 twqbytjmwz.duckdns.org
 0.0.0.0 twrecks.duckdns.org
 0.0.0.0 twwingsoft.duckdns.org
 0.0.0.0 chat.twwingsoft.duckdns.org
@@ -71011,6 +71131,7 @@
 0.0.0.0 valouchhome.duckdns.org
 0.0.0.0 valoxescc.duckdns.org
 0.0.0.0 valrye.duckdns.org
+0.0.0.0 valsantos.duckdns.org
 0.0.0.0 valuer-jenkins.duckdns.org
 0.0.0.0 www.valuer-jenkins.duckdns.org
 0.0.0.0 nas.valvincent.duckdns.org
@@ -71221,6 +71342,7 @@
 0.0.0.0 venkatakrishna.duckdns.org
 0.0.0.0 venklab.duckdns.org
 0.0.0.0 venkz-myhome.duckdns.org
+0.0.0.0 vennhome.duckdns.org
 0.0.0.0 venon25700.duckdns.org
 0.0.0.0 ventcoda.duckdns.org
 0.0.0.0 cpcontacts.ventcoda.duckdns.org
@@ -72059,6 +72181,7 @@
 0.0.0.0 vucasa.duckdns.org
 0.0.0.0 vugar.duckdns.org
 0.0.0.0 vuggles.duckdns.org
+0.0.0.0 vugijon.duckdns.org
 0.0.0.0 vuigas.duckdns.org
 0.0.0.0 vuinoxnpdl.duckdns.org
 0.0.0.0 www.vuinoxnpdl.duckdns.org
@@ -72078,6 +72201,7 @@
 0.0.0.0 vuurvogel85.duckdns.org
 0.0.0.0 vuvictoria.duckdns.org
 0.0.0.0 vuxfoaiqie.duckdns.org
+0.0.0.0 www.vuxfoaiqie.duckdns.org
 0.0.0.0 vuzero4k.duckdns.org
 0.0.0.0 vuzero4kdeco.duckdns.org
 0.0.0.0 vv12a.duckdns.org
@@ -72895,6 +73019,7 @@
 0.0.0.0 welkomthuis.duckdns.org
 0.0.0.0 welllanehassio.duckdns.org
 0.0.0.0 wells-f4rgoaccess.duckdns.org
+0.0.0.0 wells-far-go-validate-process.duckdns.org
 0.0.0.0 wells-redirector.duckdns.org
 0.0.0.0 cpanel.wells-redirector.duckdns.org
 0.0.0.0 wells-s3curverify0.duckdns.org
@@ -72995,6 +73120,7 @@
 0.0.0.0 wernli-cabin.duckdns.org
 0.0.0.0 wernlihome.duckdns.org
 0.0.0.0 werns84.duckdns.org
+0.0.0.0 wernze.duckdns.org
 0.0.0.0 wes93.duckdns.org
 0.0.0.0 wesection.duckdns.org
 0.0.0.0 weseg.duckdns.org
@@ -74099,6 +74225,7 @@
 0.0.0.0 wru.duckdns.org
 0.0.0.0 ws-pw.duckdns.org
 0.0.0.0 ws2133.duckdns.org
+0.0.0.0 ws6emby.duckdns.org
 0.0.0.0 wsalemha.duckdns.org
 0.0.0.0 wschulerag.duckdns.org
 0.0.0.0 wscloud.duckdns.org
@@ -74510,6 +74637,7 @@
 0.0.0.0 xiph.duckdns.org
 0.0.0.0 xiribitata.duckdns.org
 0.0.0.0 xiris.duckdns.org
+0.0.0.0 xisiulmrlv.duckdns.org
 0.0.0.0 xistence.duckdns.org
 0.0.0.0 xitis.duckdns.org
 0.0.0.0 xiuvnltwfp.duckdns.org
@@ -74597,6 +74725,7 @@
 0.0.0.0 www.xqarakpeuq.duckdns.org
 0.0.0.0 xqzmfbhnrs.duckdns.org
 0.0.0.0 xradoha.duckdns.org
+0.0.0.0 xray2424.duckdns.org
 0.0.0.0 xredshark.duckdns.org
 0.0.0.0 xremal.duckdns.org
 0.0.0.0 xrgiopjqgy.duckdns.org
@@ -75122,6 +75251,7 @@
 0.0.0.0 www.ywosn.duckdns.org
 0.0.0.0 ywrboqtrue.duckdns.org
 0.0.0.0 ywvppdhbvk.duckdns.org
+0.0.0.0 yxcjawzutp.duckdns.org
 0.0.0.0 yxesorcobc.duckdns.org
 0.0.0.0 yxeswfapnf.duckdns.org
 0.0.0.0 www.yxeswfapnf.duckdns.org
@@ -75310,6 +75440,7 @@
 0.0.0.0 www.zbtwcnzsqn.duckdns.org
 0.0.0.0 zbvamciqoy.duckdns.org
 0.0.0.0 zbxsintrex.duckdns.org
+0.0.0.0 zbztrpxzwb.duckdns.org
 0.0.0.0 zclintz.duckdns.org
 0.0.0.0 zcsafincoop.duckdns.org
 0.0.0.0 zctdnxoqwk.duckdns.org
@@ -76747,6 +76878,7 @@
 0.0.0.0 vsa13.tawk.to
 0.0.0.0 vsa14.tawk.to
 0.0.0.0 vsa15.tawk.to
+0.0.0.0 vsa16.tawk.to
 0.0.0.0 vsa18.tawk.to
 0.0.0.0 vsa19.tawk.to
 0.0.0.0 vsa2.tawk.to
@@ -76778,6 +76910,7 @@
 0.0.0.0 vsa48.tawk.to
 0.0.0.0 vsa49.tawk.to
 0.0.0.0 vsa5.tawk.to
+0.0.0.0 vsa50.tawk.to
 0.0.0.0 vsa52.tawk.to
 0.0.0.0 vsa54.tawk.to
 0.0.0.0 vsa55.tawk.to
@@ -76786,14 +76919,18 @@
 0.0.0.0 vsa58.tawk.to
 0.0.0.0 vsa6.tawk.to
 0.0.0.0 vsa60.tawk.to
+0.0.0.0 vsa61.tawk.to
 0.0.0.0 vsa64.tawk.to
 0.0.0.0 vsa65.tawk.to
 0.0.0.0 vsa66.tawk.to
 0.0.0.0 vsa69.tawk.to
+0.0.0.0 vsa7.tawk.to
+0.0.0.0 vsa70.tawk.to
 0.0.0.0 vsa71.tawk.to
 0.0.0.0 vsa72.tawk.to
 0.0.0.0 vsa73.tawk.to
 0.0.0.0 vsa74.tawk.to
+0.0.0.0 vsa75.tawk.to
 0.0.0.0 vsa77.tawk.to
 0.0.0.0 vsa78.tawk.to
 0.0.0.0 vsa79.tawk.to
@@ -76808,7 +76945,10 @@
 0.0.0.0 vsa91.tawk.to
 0.0.0.0 vsa92.tawk.to
 0.0.0.0 vsa93.tawk.to
+0.0.0.0 vsa94.tawk.to
 0.0.0.0 vsa95.tawk.to
+0.0.0.0 vsa96.tawk.to
+0.0.0.0 vsa97.tawk.to
 0.0.0.0 vsa98.tawk.to
 0.0.0.0 vsa99.tawk.to
 0.0.0.0 vsb1.tawk.to
