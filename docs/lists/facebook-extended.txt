@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2021-11-29T01:05:22+00:00
-# Count: 27426 domains
+# Released: 2021-11-29T13:05:21+00:00
+# Count: 27465 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -11298,6 +11298,7 @@
 0.0.0.0 www.cs-cz.ha.lite.facebook.com
 0.0.0.0 de-de.ha.lite.facebook.com
 0.0.0.0 ar-ar.de-de.ha.lite.facebook.com
+0.0.0.0 www.ar-ar.de-de.ha.lite.facebook.com
 0.0.0.0 de-de.de-de.ha.lite.facebook.com
 0.0.0.0 es-la.de-de.ha.lite.facebook.com
 0.0.0.0 hi-in.de-de.ha.lite.facebook.com
@@ -11530,6 +11531,7 @@
 0.0.0.0 ca-es.hi-in.lite.facebook.com
 0.0.0.0 de-de.hi-in.lite.facebook.com
 0.0.0.0 zh-hk.de-de.hi-in.lite.facebook.com
+0.0.0.0 portal.zh-hk.de-de.hi-in.lite.facebook.com
 0.0.0.0 en-gb.hi-in.lite.facebook.com
 0.0.0.0 es-la.hi-in.lite.facebook.com
 0.0.0.0 de-de.es-la.hi-in.lite.facebook.com
@@ -11970,6 +11972,7 @@
 0.0.0.0 zh-tw.fi-fi.m.lite.facebook.com
 0.0.0.0 fy-nl.m.lite.facebook.com
 0.0.0.0 it-it.fy-nl.m.lite.facebook.com
+0.0.0.0 fr-fr.it-it.fy-nl.m.lite.facebook.com
 0.0.0.0 www.fy-nl.m.lite.facebook.com
 0.0.0.0 es-la.hi-in.m.lite.facebook.com
 0.0.0.0 fr-fr.hi-in.m.lite.facebook.com
@@ -12389,6 +12392,7 @@
 0.0.0.0 fb-lt.ko-kr.m.lite.facebook.com
 0.0.0.0 fi-fi.ko-kr.m.lite.facebook.com
 0.0.0.0 ar-ar.fi-fi.ko-kr.m.lite.facebook.com
+0.0.0.0 cs-cz.fi-fi.ko-kr.m.lite.facebook.com
 0.0.0.0 de-de.fi-fi.ko-kr.m.lite.facebook.com
 0.0.0.0 en-gb.fi-fi.ko-kr.m.lite.facebook.com
 0.0.0.0 es-la.fi-fi.ko-kr.m.lite.facebook.com
@@ -12894,6 +12898,8 @@
 0.0.0.0 en-gb.ja-jp.on.lite.facebook.com
 0.0.0.0 ko-kr.on.lite.facebook.com
 0.0.0.0 ja-jp.ko-kr.on.lite.facebook.com
+0.0.0.0 mr-in.ja-jp.ko-kr.on.lite.facebook.com
+0.0.0.0 www.ja-jp.ko-kr.on.lite.facebook.com
 0.0.0.0 lite.on.lite.facebook.com
 0.0.0.0 ar-ar.lite.on.lite.facebook.com
 0.0.0.0 de-de.lite.on.lite.facebook.com
@@ -12922,28 +12928,62 @@
 0.0.0.0 www.fa-ir.lite.on.lite.facebook.com
 0.0.0.0 zh-cn.fa-ir.lite.on.lite.facebook.com
 0.0.0.0 fr-fr.lite.on.lite.facebook.com
+0.0.0.0 af-za.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 ar-ar.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 az-az.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 bg-bg.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 bs-ba.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 cs-cz.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 da-dk.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 de-de.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 developers.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 el-gr.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 en-gb.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 en-pi.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 en-ud.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 es-es.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 es-la.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 fb-lt.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 fi-fi.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 fr-ca.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 fr-fr.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 ha-ng.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 he-il.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 hi-in.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 hr-hr.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 hu-hu.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 id-id.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 is-is.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 it-it.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 ja-jp.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 ka-ge.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 ko-kr.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 lt-lt.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 lv-lv.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 mk-mk.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 ml-in.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 ms-my.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 nb-no.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 nl-be.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 nl-nl.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 nn-no.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 pl-pl.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 pt-br.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 pt-pt.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 ro-ro.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 sk-sk.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 sl-si.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 so-so.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 sq-al.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 sr-rs.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 sv-se.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 th-th.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 tr-tr.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 vi-vn.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 www.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 zh-cn.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 zh-hk.fr-fr.lite.on.lite.facebook.com
+0.0.0.0 zh-tw.fr-fr.lite.on.lite.facebook.com
 0.0.0.0 hi-in.lite.on.lite.facebook.com
 0.0.0.0 it-it.lite.on.lite.facebook.com
 0.0.0.0 ar-ar.it-it.lite.on.lite.facebook.com
@@ -24195,7 +24235,6 @@
 0.0.0.0 instagram.fmex8-1.fna.fbcdn.net
 0.0.0.0 corona.instagram.fmex8-1.fna.fbcdn.net
 0.0.0.0 scontent.fmex8-1.fna.fbcdn.net
-0.0.0.0 instagram.fmex8-2.fna.fbcdn.net
 0.0.0.0 scontent.fmex8-2.fna.fbcdn.net
 0.0.0.0 video.fmga3-1.fna.fbcdn.net
 0.0.0.0 instagram.fmga3-2.fna.fbcdn.net
