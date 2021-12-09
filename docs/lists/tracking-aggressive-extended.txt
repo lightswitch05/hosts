@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-12-08T13:05:23+00:00
-# Count: 78822 domains
+# Released: 2021-12-09T01:05:23+00:00
+# Count: 78817 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -3809,6 +3809,7 @@
 0.0.0.0 email.drift.com
 0.0.0.0 equakecreative.drift.com
 0.0.0.0 exceptionspodcast.drift.com
+0.0.0.0 feedback.drift.com
 0.0.0.0 forums.drift.com
 0.0.0.0 www.forums.drift.com
 0.0.0.0 gethelp.drift.com
@@ -16665,7 +16666,6 @@
 0.0.0.0 pihole.5234.duckdns.org
 0.0.0.0 portainer.5234.duckdns.org
 0.0.0.0 5247.duckdns.org
-0.0.0.0 527226.duckdns.org
 0.0.0.0 529broome.duckdns.org
 0.0.0.0 ha.529broome.duckdns.org
 0.0.0.0 hass.529broome.duckdns.org
@@ -18146,6 +18146,7 @@
 0.0.0.0 alfra.duckdns.org
 0.0.0.0 nextcloud.alfra.duckdns.org
 0.0.0.0 alfrahue.duckdns.org
+0.0.0.0 alfred-hassio.duckdns.org
 0.0.0.0 alfredha.duckdns.org
 0.0.0.0 alfrescohn.duckdns.org
 0.0.0.0 alfry82.duckdns.org
@@ -21449,12 +21450,7 @@
 0.0.0.0 bigwidget.duckdns.org
 0.0.0.0 blackcandy.bigwolf2000.duckdns.org
 0.0.0.0 candy.bigwolf2000.duckdns.org
-0.0.0.0 horde.bigwolf2000.duckdns.org
-0.0.0.0 mssql.bigwolf2000.duckdns.org
 0.0.0.0 next.bigwolf2000.duckdns.org
-0.0.0.0 print.bigwolf2000.duckdns.org
-0.0.0.0 prosend.bigwolf2000.duckdns.org
-0.0.0.0 sea-seafile.bigwolf2000.duckdns.org
 0.0.0.0 ssl.bigwolf2000.duckdns.org
 0.0.0.0 bihomeot.duckdns.org
 0.0.0.0 bijdemeisjes.duckdns.org
@@ -30586,7 +30582,6 @@
 0.0.0.0 domahenno.duckdns.org
 0.0.0.0 domain64.duckdns.org
 0.0.0.0 homeassistant.domainmien.duckdns.org
-0.0.0.0 domainpack.duckdns.org
 0.0.0.0 domainphilippin.duckdns.org
 0.0.0.0 cpanel.domainphilippin.duckdns.org
 0.0.0.0 cpcalendars.domainphilippin.duckdns.org
@@ -32727,6 +32722,7 @@
 0.0.0.0 bitwarden.erkiserver.duckdns.org
 0.0.0.0 ebendav.erkiserver.duckdns.org
 0.0.0.0 jellyfin.erkiserver.duckdns.org
+0.0.0.0 linkding.erkiserver.duckdns.org
 0.0.0.0 navidrome.erkiserver.duckdns.org
 0.0.0.0 openbooks.erkiserver.duckdns.org
 0.0.0.0 radarr.erkiserver.duckdns.org
@@ -34765,7 +34761,6 @@
 0.0.0.0 portainer.fexxall.duckdns.org
 0.0.0.0 radarr.fexxall.duckdns.org
 0.0.0.0 transmission.fexxall.duckdns.org
-0.0.0.0 ff--id.duckdns.org
 0.0.0.0 ff-ambz.duckdns.org
 0.0.0.0 www.ff-ambz.duckdns.org
 0.0.0.0 ff-claim-dylankulgar.duckdns.org
@@ -44436,7 +44431,6 @@
 0.0.0.0 webmail.item-new-gg.duckdns.org
 0.0.0.0 item-old-202118.duckdns.org
 0.0.0.0 cpanel.item-old-202118.duckdns.org
-0.0.0.0 itemff-freegratisklik3.duckdns.org
 0.0.0.0 itemfreefiregarenamax.duckdns.org
 0.0.0.0 cpcalendars.itemfreefiregarenamax.duckdns.org
 0.0.0.0 itension.duckdns.org
@@ -48838,8 +48832,6 @@
 0.0.0.0 kubajslikhassio.duckdns.org
 0.0.0.0 kubasekha.duckdns.org
 0.0.0.0 kube-cuddle.duckdns.org
-0.0.0.0 kubiacha.duckdns.org
-0.0.0.0 kubiacs.duckdns.org
 0.0.0.0 kublach.duckdns.org
 0.0.0.0 kubumon.duckdns.org
 0.0.0.0 kucadvr.duckdns.org
@@ -54184,7 +54176,6 @@
 0.0.0.0 cpcalendars.mobilelegendifent2.duckdns.org
 0.0.0.0 www.mobilelegendifent2.duckdns.org
 0.0.0.0 mobilelegends-claimevent09.duckdns.org
-0.0.0.0 mobilelegends-event-11-21.duckdns.org
 0.0.0.0 mobilelegends-event-id.duckdns.org
 0.0.0.0 mail.mobilelegends-event-id.duckdns.org
 0.0.0.0 mobilelegends-gif.duckdns.org
@@ -54545,6 +54536,8 @@
 0.0.0.0 motionthings.duckdns.org
 0.0.0.0 motiv8.duckdns.org
 0.0.0.0 motoarte.duckdns.org
+0.0.0.0 motoemporio.duckdns.org
+0.0.0.0 hassio.motoemporio.duckdns.org
 0.0.0.0 motohome.duckdns.org
 0.0.0.0 motorecycler.duckdns.org
 0.0.0.0 nextcloud.motorecycler.duckdns.org
@@ -60048,7 +60041,6 @@
 0.0.0.0 photostation.duckdns.org
 0.0.0.0 phozz.duckdns.org
 0.0.0.0 phpldapadmin-goskvz.duckdns.org
-0.0.0.0 phrm15.duckdns.org
 0.0.0.0 phrogstar.duckdns.org
 0.0.0.0 phrtwrjecr.duckdns.org
 0.0.0.0 phs-hass.duckdns.org
@@ -65138,6 +65130,7 @@
 0.0.0.0 sdo98fs8df8sdf42242.duckdns.org
 0.0.0.0 sdreamodel.duckdns.org
 0.0.0.0 sdrm.duckdns.org
+0.0.0.0 adg.sdrm.duckdns.org
 0.0.0.0 adguard.sdrm.duckdns.org
 0.0.0.0 bazarr.sdrm.duckdns.org
 0.0.0.0 cloud.sdrm.duckdns.org
@@ -65154,11 +65147,14 @@
 0.0.0.0 ombi.sdrm.duckdns.org
 0.0.0.0 omv.sdrm.duckdns.org
 0.0.0.0 omv5.sdrm.duckdns.org
+0.0.0.0 p-rpi4.sdrm.duckdns.org
 0.0.0.0 pbs.sdrm.duckdns.org
 0.0.0.0 pfsense.sdrm.duckdns.org
 0.0.0.0 plex.sdrm.duckdns.org
 0.0.0.0 port.sdrm.duckdns.org
+0.0.0.0 port-mini.sdrm.duckdns.org
 0.0.0.0 port-omv.sdrm.duckdns.org
+0.0.0.0 port-rpi.sdrm.duckdns.org
 0.0.0.0 portainer.sdrm.duckdns.org
 0.0.0.0 prx.sdrm.duckdns.org
 0.0.0.0 radarr.sdrm.duckdns.org
@@ -66694,7 +66690,6 @@
 0.0.0.0 sicurezza.duckdns.org
 0.0.0.0 sicurezza-banca-psd1.duckdns.org
 0.0.0.0 www.sicurezza-banca-psd1.duckdns.org
-0.0.0.0 sicurezza-online-lntesasanpaolo.duckdns.org
 0.0.0.0 siddiqi.duckdns.org
 0.0.0.0 siddiqui.duckdns.org
 0.0.0.0 sidebars.duckdns.org
@@ -70167,7 +70162,6 @@
 0.0.0.0 thebauers.duckdns.org
 0.0.0.0 thebear.duckdns.org
 0.0.0.0 thebearcave.duckdns.org
-0.0.0.0 thebeatles-musicprime.duckdns.org
 0.0.0.0 thebigcheese.duckdns.org
 0.0.0.0 thebigmac.duckdns.org
 0.0.0.0 music-1.thebitwrangler.duckdns.org
@@ -70271,6 +70265,7 @@
 0.0.0.0 img.thejamescloud.duckdns.org
 0.0.0.0 matrix.thejamescloud.duckdns.org
 0.0.0.0 plex.thejamescloud.duckdns.org
+0.0.0.0 quake.thejamescloud.duckdns.org
 0.0.0.0 remotely.thejamescloud.duckdns.org
 0.0.0.0 search.thejamescloud.duckdns.org
 0.0.0.0 speed.thejamescloud.duckdns.org
