@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2021-12-14T01:05:23+00:00
-# Count: 79986 domains
+# Released: 2021-12-14T13:05:23+00:00
+# Count: 79992 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -5246,8 +5246,6 @@
 0.0.0.0 gm.gigya.com
 0.0.0.0 go.gigya.com
 0.0.0.0 gscounters.gigya.com
-0.0.0.0 helpdesk.gigya.com
-0.0.0.0 hr-cv.gigya.com
 0.0.0.0 ids.gigya.com
 0.0.0.0 impact.gigya.com
 0.0.0.0 info.gigya.com
@@ -5315,7 +5313,6 @@
 0.0.0.0 admin.us1.gigya.com
 0.0.0.0 cdn.us1.gigya.com
 0.0.0.0 cdns.us1.gigya.com
-0.0.0.0 china-proxy4.us1.gigya.com
 0.0.0.0 comments.us1.gigya.com
 0.0.0.0 ds.us1.gigya.com
 0.0.0.0 farm2.us1.gigya.com
@@ -5328,7 +5325,6 @@
 0.0.0.0 reports.us1.gigya.com
 0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 sslproxy.us1.gigya.com
-0.0.0.0 us1-email-mng.gigya.com
 0.0.0.0 us1a-email-mng.gigya.com
 0.0.0.0 us1b-st1.gigya.com
 0.0.0.0 socialize.us1d.gigya.com
@@ -30882,6 +30878,7 @@
 0.0.0.0 nginx.doma1204.duckdns.org
 0.0.0.0 nodered.doma1204.duckdns.org
 0.0.0.0 notebook.doma1204.duckdns.org
+0.0.0.0 otemp.doma1204.duckdns.org
 0.0.0.0 temp.doma1204.duckdns.org
 0.0.0.0 tensorboard.doma1204.duckdns.org
 0.0.0.0 domadom.duckdns.org
@@ -32437,6 +32434,7 @@
 0.0.0.0 eizoz.duckdns.org
 0.0.0.0 ejdijkstra.duckdns.org
 0.0.0.0 ejgilson.duckdns.org
+0.0.0.0 minecraft.ejgilson.duckdns.org
 0.0.0.0 octoprint.ejgilson.duckdns.org
 0.0.0.0 ejhass.duckdns.org
 0.0.0.0 ejlylkwwob.duckdns.org
@@ -59344,6 +59342,11 @@
 0.0.0.0 xmodserver.duckdns.org.duckdns.org
 0.0.0.0 orghhuhyza.duckdns.org
 0.0.0.0 orianaph.duckdns.org
+0.0.0.0 asus.orianaph.duckdns.org
+0.0.0.0 ddwrt.orianaph.duckdns.org
+0.0.0.0 ha.orianaph.duckdns.org
+0.0.0.0 nginx.orianaph.duckdns.org
+0.0.0.0 vault.orianaph.duckdns.org
 0.0.0.0 origiin.duckdns.org
 0.0.0.0 traefik.origiin.duckdns.org
 0.0.0.0 origin2.duckdns.org
@@ -63589,6 +63592,7 @@
 0.0.0.0 prowlarr.rcompagno.duckdns.org
 0.0.0.0 qbit.rcompagno.duckdns.org
 0.0.0.0 radarr.rcompagno.duckdns.org
+0.0.0.0 router.rcompagno.duckdns.org
 0.0.0.0 sonarr.rcompagno.duckdns.org
 0.0.0.0 tautulli.rcompagno.duckdns.org
 0.0.0.0 truenas.rcompagno.duckdns.org
@@ -66132,6 +66136,7 @@
 0.0.0.0 tautulli.seaserver.duckdns.org
 0.0.0.0 unifi.seaserver.duckdns.org
 0.0.0.0 unraid.seaserver.duckdns.org
+0.0.0.0 vaultwarden.seaserver.duckdns.org
 0.0.0.0 seatonhome.duckdns.org
 0.0.0.0 seatosea.duckdns.org
 0.0.0.0 seb-nxt.duckdns.org
@@ -67513,6 +67518,7 @@
 0.0.0.0 shiretown.duckdns.org
 0.0.0.0 shirinlab.duckdns.org
 0.0.0.0 shirleynet.duckdns.org
+0.0.0.0 fw.shirleynet.duckdns.org
 0.0.0.0 ha.shirleynet.duckdns.org
 0.0.0.0 tm.shirleynet.duckdns.org
 0.0.0.0 shirou93ha.duckdns.org
