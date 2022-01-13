@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2022-01-13T01:05:23+00:00
-# Count: 86805 domains
+# Released: 2022-01-13T13:05:22+00:00
+# Count: 86746 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -377,7 +377,6 @@
 0.0.0.0 registry.dmp.360.cn
 0.0.0.0 socm.dmp.360.cn
 0.0.0.0 dns.360.cn
-0.0.0.0 dev.dns.360.cn
 0.0.0.0 sec.dns.360.cn
 0.0.0.0 doh.360.cn
 0.0.0.0 iot.doh.360.cn
@@ -1411,6 +1410,7 @@
 0.0.0.0 xiuxian.360.cn
 0.0.0.0 api.xy.360.cn
 0.0.0.0 biying.xy.360.cn
+0.0.0.0 report.xy.360.cn
 0.0.0.0 risk.xy.360.cn
 0.0.0.0 yasuo.360.cn
 0.0.0.0 fb.yasuo.360.cn
@@ -8668,6 +8668,7 @@
 0.0.0.0 www.chat.qualtrics.com
 0.0.0.0 chepvoc.qualtrics.com
 0.0.0.0 chg.qualtrics.com
+0.0.0.0 chicagobooth.qualtrics.com
 0.0.0.0 chiefexecutivegroup.qualtrics.com
 0.0.0.0 childrensmercy.qualtrics.com
 0.0.0.0 childrensomaha.qualtrics.com
@@ -9517,6 +9518,7 @@
 0.0.0.0 corexmsl7hkrkvst894s.qualtrics.com
 0.0.0.0 corexmsm2p28tvn9k652.qualtrics.com
 0.0.0.0 corexmsp8m534ztjcxbd.qualtrics.com
+0.0.0.0 corexmspjl4g8nrgk3zz.qualtrics.com
 0.0.0.0 corexmsqm654kgjvqqkn.qualtrics.com
 0.0.0.0 corexmsrfm4qrgmxjhmc.qualtrics.com
 0.0.0.0 corexmssfg4wd4hfhg5f.qualtrics.com
@@ -11071,6 +11073,7 @@
 0.0.0.0 nagoyapsychology.qualtrics.com
 0.0.0.0 nagoyapsychologylkhykcrgcoivdv.qualtrics.com
 0.0.0.0 nahbrc.qualtrics.com
+0.0.0.0 namap.qualtrics.com
 0.0.0.0 namaskar.qualtrics.com
 0.0.0.0 nanjingbus.qualtrics.com
 0.0.0.0 www.nanjingbus.qualtrics.com
@@ -11230,6 +11233,7 @@
 0.0.0.0 oxy.qualtrics.com
 0.0.0.0 ozprinciple360.qualtrics.com
 0.0.0.0 p3delivery.qualtrics.com
+0.0.0.0 pacaso.qualtrics.com
 0.0.0.0 paccar360.qualtrics.com
 0.0.0.0 pace.qualtrics.com
 0.0.0.0 paceadmin.qualtrics.com
@@ -16622,7 +16626,6 @@
 0.0.0.0 cpanel.1mvm5b-0004q4-8f.duckdns.org
 0.0.0.0 cpcalendars.1mvm5b-0004q4-8f.duckdns.org
 0.0.0.0 mail.1mvm5b-0004q4-8f.duckdns.org
-0.0.0.0 1mvvpe-00032q-ab.duckdns.org
 0.0.0.0 1mvyir-000962-as.duckdns.org
 0.0.0.0 cpcalendars.1mvyir-000962-as.duckdns.org
 0.0.0.0 webdisk.1mvyir-000962-as.duckdns.org
@@ -17569,7 +17572,6 @@
 0.0.0.0 account5-verify.duckdns.org
 0.0.0.0 accountinfoedd.duckdns.org
 0.0.0.0 cpcalendars.accountinfoedd.duckdns.org
-0.0.0.0 accountinformation12048614.duckdns.org
 0.0.0.0 accountinfozzz.duckdns.org
 0.0.0.0 www.accountinfozzz.duckdns.org
 0.0.0.0 accountserver.duckdns.org
@@ -21075,7 +21077,6 @@
 0.0.0.0 baobihoanganh.duckdns.org
 0.0.0.0 baodao-demo.duckdns.org
 0.0.0.0 baongan.duckdns.org
-0.0.0.0 bapakkau-muntabir.duckdns.org
 0.0.0.0 bapama.duckdns.org
 0.0.0.0 baraboo.duckdns.org
 0.0.0.0 baraboo5.duckdns.org
@@ -25856,7 +25857,6 @@
 0.0.0.0 chaseonline010.duckdns.org
 0.0.0.0 webmail.chaseonline010.duckdns.org
 0.0.0.0 www.chaseonline010.duckdns.org
-0.0.0.0 chaseonline1.duckdns.org
 0.0.0.0 chaseonlineidprotection.duckdns.org
 0.0.0.0 chasepi0rltyal3rt.duckdns.org
 0.0.0.0 cpcalendars.chasepi0rltyal3rt.duckdns.org
@@ -27082,9 +27082,7 @@
 0.0.0.0 claim-event-ff000.duckdns.org
 0.0.0.0 claim-event-ff25.duckdns.org
 0.0.0.0 www.claim-event-ff25.duckdns.org
-0.0.0.0 claim-event-ff654.duckdns.org
 0.0.0.0 claim-event-ffokt22.duckdns.org
-0.0.0.0 claim-event-ffv2.duckdns.org
 0.0.0.0 claim-event-free991.duckdns.org
 0.0.0.0 claim-event-freefire-freeold-a4.duckdns.org
 0.0.0.0 claim-event-garena-resmi2021.duckdns.org
@@ -29333,7 +29331,6 @@
 0.0.0.0 www.conncectsubsec.duckdns.org
 0.0.0.0 connect-citizensbank-auth7666678766.duckdns.org
 0.0.0.0 connect-sec05cmobiverr.duckdns.org
-0.0.0.0 connect-secure-auth-login-sxfd-tyre0-we9.duckdns.org
 0.0.0.0 connect-secure8.duckdns.org
 0.0.0.0 connect-wellsfargo02.duckdns.org
 0.0.0.0 connect-wellsfargo3.duckdns.org
@@ -31027,7 +31024,6 @@
 0.0.0.0 pgadmin.ddiaz.duckdns.org
 0.0.0.0 phpmyadmin.ddiaz.duckdns.org
 0.0.0.0 portainer.ddiaz.duckdns.org
-0.0.0.0 py.ddiaz.duckdns.org
 0.0.0.0 redis.ddiaz.duckdns.org
 0.0.0.0 restaurant.ddiaz.duckdns.org
 0.0.0.0 seafile.ddiaz.duckdns.org
@@ -31577,7 +31573,6 @@
 0.0.0.0 dexterboygenius.duckdns.org
 0.0.0.0 dexterhome.duckdns.org
 0.0.0.0 deyjnsoolb.duckdns.org
-0.0.0.0 dezanding.duckdns.org
 0.0.0.0 dezewhbuav.duckdns.org
 0.0.0.0 dezsoeksmarthome.duckdns.org
 0.0.0.0 dezwart.duckdns.org
@@ -36059,7 +36054,6 @@
 0.0.0.0 eventresmi-garena2022.duckdns.org
 0.0.0.0 eventresmicodashop.duckdns.org
 0.0.0.0 webmail.eventresmicodashop.duckdns.org
-0.0.0.0 eventresmidarigarena-21.duckdns.org
 0.0.0.0 eventrsmiffskinbundle.duckdns.org
 0.0.0.0 events-freefire-new2021.duckdns.org
 0.0.0.0 cpcalendars.events-freefire-new2021.duckdns.org
@@ -38301,7 +38295,6 @@
 0.0.0.0 freeitem-mlbb.duckdns.org
 0.0.0.0 freeitemnew2022.duckdns.org
 0.0.0.0 freejd.duckdns.org
-0.0.0.0 freeklikitem8.duckdns.org
 0.0.0.0 freekwillem.duckdns.org
 0.0.0.0 freeman-home.duckdns.org
 0.0.0.0 freemlab.duckdns.org
@@ -41869,7 +41862,6 @@
 0.0.0.0 webmail.grup-whatsap19.duckdns.org
 0.0.0.0 www.grup-whatsap19.duckdns.org
 0.0.0.0 grup-whatsapp-18plus-terbaru.duckdns.org
-0.0.0.0 grup-whatsapp-777.duckdns.org
 0.0.0.0 grup-whatsapp-letdahyper.duckdns.org
 0.0.0.0 cpanel.grup-whatsapp-letdahyper.duckdns.org
 0.0.0.0 www.grup-whatsapp-letdahyper.duckdns.org
@@ -46724,7 +46716,6 @@
 0.0.0.0 hsv11.duckdns.org
 0.0.0.0 hsvnkhpocx.duckdns.org
 0.0.0.0 hsx.duckdns.org
-0.0.0.0 hsyfy.duckdns.org
 0.0.0.0 htfffedvhh.duckdns.org
 0.0.0.0 hthass.duckdns.org
 0.0.0.0 hthuntgton.duckdns.org
@@ -49210,7 +49201,6 @@
 0.0.0.0 jgaigychiz.duckdns.org
 0.0.0.0 www.jgaigychiz.duckdns.org
 0.0.0.0 jgbbdnsha.duckdns.org
-0.0.0.0 jger15.duckdns.org
 0.0.0.0 jgey0614.duckdns.org
 0.0.0.0 jgffsrrviv.duckdns.org
 0.0.0.0 www.jgffsrrviv.duckdns.org
@@ -59542,7 +59532,6 @@
 0.0.0.0 motoskizzati.duckdns.org
 0.0.0.0 motta107.duckdns.org
 0.0.0.0 mottenheim.duckdns.org
-0.0.0.0 mouchartdns.duckdns.org
 0.0.0.0 moudry.duckdns.org
 0.0.0.0 moullin.duckdns.org
 0.0.0.0 moumou.duckdns.org
@@ -61186,7 +61175,6 @@
 0.0.0.0 nc-khazzar.duckdns.org
 0.0.0.0 nc-mdsdo.duckdns.org
 0.0.0.0 nc-rayby.duckdns.org
-0.0.0.0 nc-server.duckdns.org
 0.0.0.0 nc-sm.duckdns.org
 0.0.0.0 nc-vms.duckdns.org
 0.0.0.0 nc1sasoba.duckdns.org
@@ -61883,7 +61871,6 @@
 0.0.0.0 nextcloud-heyer.duckdns.org
 0.0.0.0 nextcloud-itforme.duckdns.org
 0.0.0.0 nextcloud-jakopf.duckdns.org
-0.0.0.0 nextcloud-jordan.duckdns.org
 0.0.0.0 nextcloud-kalai.duckdns.org
 0.0.0.0 nextcloud-krp.duckdns.org
 0.0.0.0 nextcloud-maison.duckdns.org
@@ -71646,7 +71633,6 @@
 0.0.0.0 secur03r-chase.duckdns.org
 0.0.0.0 secur06authrrssl.duckdns.org
 0.0.0.0 secur2-online-citl.duckdns.org
-0.0.0.0 secur3oneb.duckdns.org
 0.0.0.0 secur5-auth9login.duckdns.org
 0.0.0.0 securadchasa.duckdns.org
 0.0.0.0 securbusinessbtconnectbtoffice.duckdns.org
@@ -72435,7 +72421,6 @@
 0.0.0.0 securityaccountlocked.duckdns.org
 0.0.0.0 cpcalendars.securityaccountlocked.duckdns.org
 0.0.0.0 securitybb.duckdns.org
-0.0.0.0 securitychck.duckdns.org
 0.0.0.0 securitysr.duckdns.org
 0.0.0.0 www.securitysr.duckdns.org
 0.0.0.0 securityupdate-citi.duckdns.org
@@ -75483,7 +75468,6 @@
 0.0.0.0 steveof2620.duckdns.org
 0.0.0.0 steverha.duckdns.org
 0.0.0.0 steveshomeassistant.duckdns.org
-0.0.0.0 stevessl.duckdns.org
 0.0.0.0 stevewillsonkujur.duckdns.org
 0.0.0.0 steviehannah.duckdns.org
 0.0.0.0 stevieshizzlesyard.duckdns.org
@@ -75847,7 +75831,6 @@
 0.0.0.0 monitor.supazter.duckdns.org
 0.0.0.0 supcom2.duckdns.org
 0.0.0.0 supcua-thitluoc.duckdns.org
-0.0.0.0 super-saga2.duckdns.org
 0.0.0.0 superaitaotao.duckdns.org
 0.0.0.0 superash.duckdns.org
 0.0.0.0 superbia.duckdns.org
@@ -78046,7 +78029,6 @@
 0.0.0.0 www.tools4money1.duckdns.org
 0.0.0.0 toolsd-add.duckdns.org
 0.0.0.0 toolspackage2022.duckdns.org
-0.0.0.0 toolspkg-ghostlive.duckdns.org
 0.0.0.0 toolzbox.duckdns.org
 0.0.0.0 www.toolzbox.duckdns.org
 0.0.0.0 toomkiha.duckdns.org
@@ -82002,7 +81984,6 @@
 0.0.0.0 wejwskrnfq.duckdns.org
 0.0.0.0 www.wejwskrnfq.duckdns.org
 0.0.0.0 wel-ma-auth.duckdns.org
-0.0.0.0 wel4lsvrifsecu5r.duckdns.org
 0.0.0.0 welchome.duckdns.org
 0.0.0.0 welcomemyhome.duckdns.org
 0.0.0.0 welcometosanctum.duckdns.org
@@ -82064,7 +82045,6 @@
 0.0.0.0 wellsfargosecure-signin.duckdns.org
 0.0.0.0 wellsfargous.duckdns.org
 0.0.0.0 wellsfergoaccess.duckdns.org
-0.0.0.0 wellssecurity.duckdns.org
 0.0.0.0 wellsverify.duckdns.org
 0.0.0.0 wellsverifyfargosecurity.duckdns.org
 0.0.0.0 wellyhome.duckdns.org
@@ -86471,8 +86451,12 @@
 0.0.0.0 accounts.tawk.to
 0.0.0.0 api.tawk.to
 0.0.0.0 as.tawk.to
+0.0.0.0 asa19.tawk.to
+0.0.0.0 asa20.tawk.to
+0.0.0.0 asa23.tawk.to
 0.0.0.0 asa26.tawk.to
 0.0.0.0 asa3.tawk.to
+0.0.0.0 asa5.tawk.to
 0.0.0.0 asa6.tawk.to
 0.0.0.0 asa8.tawk.to
 0.0.0.0 asb1.tawk.to
@@ -86541,84 +86525,41 @@
 0.0.0.0 video.tawk.to
 0.0.0.0 vsa1.tawk.to
 0.0.0.0 vsa102.tawk.to
-0.0.0.0 vsa103.tawk.to
-0.0.0.0 vsa104.tawk.to
 0.0.0.0 vsa105.tawk.to
-0.0.0.0 vsa106.tawk.to
-0.0.0.0 vsa107.tawk.to
-0.0.0.0 vsa108.tawk.to
-0.0.0.0 vsa109.tawk.to
-0.0.0.0 vsa110.tawk.to
-0.0.0.0 vsa112.tawk.to
-0.0.0.0 vsa113.tawk.to
-0.0.0.0 vsa114.tawk.to
-0.0.0.0 vsa115.tawk.to
-0.0.0.0 vsa116.tawk.to
-0.0.0.0 vsa117.tawk.to
-0.0.0.0 vsa118.tawk.to
-0.0.0.0 vsa119.tawk.to
-0.0.0.0 vsa12.tawk.to
-0.0.0.0 vsa120.tawk.to
 0.0.0.0 vsa16.tawk.to
 0.0.0.0 vsa17.tawk.to
-0.0.0.0 vsa19.tawk.to
-0.0.0.0 vsa2.tawk.to
-0.0.0.0 vsa20.tawk.to
-0.0.0.0 vsa21.tawk.to
-0.0.0.0 vsa22.tawk.to
-0.0.0.0 vsa23.tawk.to
 0.0.0.0 vsa26.tawk.to
 0.0.0.0 vsa27.tawk.to
 0.0.0.0 vsa29.tawk.to
-0.0.0.0 vsa31.tawk.to
 0.0.0.0 vsa33.tawk.to
 0.0.0.0 vsa34.tawk.to
 0.0.0.0 vsa35.tawk.to
 0.0.0.0 vsa36.tawk.to
 0.0.0.0 vsa37.tawk.to
-0.0.0.0 vsa4.tawk.to
-0.0.0.0 vsa40.tawk.to
-0.0.0.0 vsa41.tawk.to
 0.0.0.0 vsa42.tawk.to
-0.0.0.0 vsa44.tawk.to
 0.0.0.0 vsa45.tawk.to
 0.0.0.0 vsa46.tawk.to
-0.0.0.0 vsa48.tawk.to
-0.0.0.0 vsa49.tawk.to
-0.0.0.0 vsa5.tawk.to
 0.0.0.0 vsa50.tawk.to
 0.0.0.0 vsa51.tawk.to
 0.0.0.0 vsa53.tawk.to
 0.0.0.0 vsa54.tawk.to
 0.0.0.0 vsa55.tawk.to
-0.0.0.0 vsa58.tawk.to
 0.0.0.0 vsa59.tawk.to
-0.0.0.0 vsa6.tawk.to
 0.0.0.0 vsa60.tawk.to
 0.0.0.0 vsa61.tawk.to
 0.0.0.0 vsa62.tawk.to
-0.0.0.0 vsa65.tawk.to
-0.0.0.0 vsa66.tawk.to
 0.0.0.0 vsa67.tawk.to
 0.0.0.0 vsa68.tawk.to
 0.0.0.0 vsa7.tawk.to
 0.0.0.0 vsa70.tawk.to
-0.0.0.0 vsa73.tawk.to
-0.0.0.0 vsa74.tawk.to
 0.0.0.0 vsa75.tawk.to
 0.0.0.0 vsa79.tawk.to
 0.0.0.0 vsa8.tawk.to
-0.0.0.0 vsa80.tawk.to
-0.0.0.0 vsa81.tawk.to
-0.0.0.0 vsa82.tawk.to
 0.0.0.0 vsa83.tawk.to
 0.0.0.0 vsa84.tawk.to
 0.0.0.0 vsa85.tawk.to
 0.0.0.0 vsa88.tawk.to
 0.0.0.0 vsa89.tawk.to
-0.0.0.0 vsa91.tawk.to
-0.0.0.0 vsa92.tawk.to
-0.0.0.0 vsa93.tawk.to
 0.0.0.0 vsa94.tawk.to
 0.0.0.0 vsa96.tawk.to
 0.0.0.0 vsa97.tawk.to
