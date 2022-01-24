@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2022-01-23T13:05:23+00:00
-# Count: 20240 domains
+# Released: 2022-01-24T01:05:23+00:00
+# Count: 20262 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -2617,6 +2617,7 @@
 0.0.0.0 consent.badoo.com
 0.0.0.0 corp.badoo.com
 0.0.0.0 idocs.corp.badoo.com
+0.0.0.0 templefix.corp.badoo.com
 0.0.0.0 corpoutlook.badoo.com
 0.0.0.0 corpus1.badoo.com
 0.0.0.0 cronosjc.badoo.com
@@ -12875,6 +12876,7 @@
 0.0.0.0 okoffice.k8s.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 grafana-dev.dop.ue1.aws.okcupid.com
 0.0.0.0 grafana-prod.dop.ue1.aws.okcupid.com
+0.0.0.0 k8s.dop.ue1.aws.okcupid.com
 0.0.0.0 k8s.prd.ue1.aws.okcupid.com
 0.0.0.0 dmz.k8s.prd.ue1.aws.okcupid.com
 0.0.0.0 minio.sbx.ue1.aws.okcupid.com
@@ -15174,6 +15176,7 @@
 0.0.0.0 edt.stripchat.com
 0.0.0.0 el.stripchat.com
 0.0.0.0 emt.stripchat.com
+0.0.0.0 trk.emt.stripchat.com
 0.0.0.0 en.stripchat.com
 0.0.0.0 es.stripchat.com
 0.0.0.0 eu.stripchat.com
@@ -18043,6 +18046,7 @@
 0.0.0.0 findl.dating
 0.0.0.0 www.findl.dating
 0.0.0.0 fisting.dating
+0.0.0.0 k8s.flamingo.dating
 0.0.0.0 test-api.flamingo.dating
 0.0.0.0 test-storage.flamingo.dating
 0.0.0.0 flip.dating
@@ -18051,6 +18055,10 @@
 0.0.0.0 www.flip.dating
 0.0.0.0 flirtzone.dating
 0.0.0.0 www.flirtzone.dating
+0.0.0.0 flyingsolo.dating
+0.0.0.0 dev.api.flyingsolo.dating
+0.0.0.0 stg.api.flyingsolo.dating
+0.0.0.0 www.flyingsolo.dating
 0.0.0.0 admin.foodie.dating
 0.0.0.0 footfetish.dating
 0.0.0.0 www.footfetish.dating
@@ -18301,6 +18309,8 @@
 0.0.0.0 matchmaker.dating
 0.0.0.0 www.matchmaker.dating
 0.0.0.0 matter.dating
+0.0.0.0 api.matter.dating
+0.0.0.0 dashboard.matter.dating
 0.0.0.0 join.matter.dating
 0.0.0.0 link.matter.dating
 0.0.0.0 www.matter.dating
@@ -18335,6 +18345,7 @@
 0.0.0.0 sslproxy.megusta.dating
 0.0.0.0 metadating.dating
 0.0.0.0 www.metadating.dating
+0.0.0.0 metaintimate.dating
 0.0.0.0 crfprofile.metalhead.dating
 0.0.0.0 crmprofile.metalhead.dating
 0.0.0.0 dev.metalhead.dating
@@ -18573,6 +18584,7 @@
 0.0.0.0 us.quietsecrets.dating
 0.0.0.0 www.quietsecrets.dating
 0.0.0.0 www.rampant.dating
+0.0.0.0 ready.dating
 0.0.0.0 www.ready.dating
 0.0.0.0 real.dating
 0.0.0.0 www.real.dating
@@ -18642,6 +18654,7 @@
 0.0.0.0 local.spanking.dating
 0.0.0.0 male.spanking.dating
 0.0.0.0 staging.spanking.dating
+0.0.0.0 sparks.dating
 0.0.0.0 admin.sparks.dating
 0.0.0.0 www.admin.sparks.dating
 0.0.0.0 graphql.sparks.dating
@@ -18649,6 +18662,7 @@
 0.0.0.0 www.ideas.sparks.dating
 0.0.0.0 merchant.sparks.dating
 0.0.0.0 www.merchant.sparks.dating
+0.0.0.0 policy.sparks.dating
 0.0.0.0 special.dating
 0.0.0.0 speeddate.dating
 0.0.0.0 affiliates.speeddate.dating
@@ -18762,6 +18776,14 @@
 0.0.0.0 uber.dating
 0.0.0.0 www.uber.dating
 0.0.0.0 ucme.dating
+0.0.0.0 ultra.dating
+0.0.0.0 admin.ultra.dating
+0.0.0.0 hostmaster.ultra.dating
+0.0.0.0 internal.ultra.dating
+0.0.0.0 live.ultra.dating
+0.0.0.0 mobile.ultra.dating
+0.0.0.0 www.ultra.dating
+0.0.0.0 hostmaster.www.ultra.dating
 0.0.0.0 server.unison.dating
 0.0.0.0 unitypoint.dating
 0.0.0.0 www.unitypoint.dating
