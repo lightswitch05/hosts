@@ -1,14 +1,25 @@
+:root, :root.darkTheme {
+    --color: #c9d1d9;
+    --background-color: #0d1117;
+    --link-color: #58a6ff;
+}
+
+html {
+    font-family: "Inter", "system-ui";
+    line-height: 1.2;
+    text-rendering: optimizeLegibility;
+}
+
 body {
-    color: #d9d9d9;
-    background-color: #212121;
-    font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    font-size: 17px;
-    line-height: 1.23536;
+    color: var(--color);
+    background-color: var(--background-color);
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
-    text-rendering: optimizeLegibility;
-    text-shadow: #000 0 0 3px;
+}
+
+main {
+    margin: 0 5px 0 5px;
 }
 
 h2 small {
@@ -16,24 +27,33 @@ h2 small {
     font-weight: normal;
 }
 
-main {
-    margin: 0 5px 0 5px;
-}
-
 a {
-    color: #3282d1;
+    color: var(--link-color);
     text-decoration: none;
 }
 
 a:hover {
-    color: #9CD7F7;
+    text-decoration: underline;
 }
 
+a.noline:hover {
+    text-decoration: none;
+}
+
+
 section {
-    background-color: #061f2f;
-    box-shadow: 0 1px 3px 0 #000;
+    border-color: #30363d;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
     margin: 0 0 10px 0;
-    padding: 1px 5px 1px 5px;
+    padding: 1px 5px 10px 5px;
+}
+
+code {
+    font-size: 0.9rem;
+    font-family: "Courier New", monospace;
+    line-height: 1.4;
 }
 
 .block-image {
@@ -50,6 +70,7 @@ section {
     display: inline-block;
 }
 
+
 .logo {
     display: block;
     width: 100%;
@@ -57,7 +78,7 @@ section {
     margin-right: auto;
 }
 
-code {
-    background-color: #000;
-    padding: 0 8px 0 8px;
+footer {
+    text-align: center;
+    margin-bottom: 10px;
 }
