@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2022-01-28T01:05:23+00:00
-# Count: 90326 domains
+# Released: 2022-01-28T13:05:22+00:00
+# Count: 90319 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -71,6 +71,7 @@
 0.0.0.0 topcase.ad.360.cn
 0.0.0.0 ad-diamond.360.cn
 0.0.0.0 ai.360.cn
+0.0.0.0 cnmr.ai.360.cn
 0.0.0.0 aisa.360.cn
 0.0.0.0 mail.alarm.360.cn
 0.0.0.0 captcha.antispam.360.cn
@@ -437,6 +438,7 @@
 0.0.0.0 bp.conf2.f.360.cn
 0.0.0.0 h.conf2.f.360.cn
 0.0.0.0 qex.conf2.f.360.cn
+0.0.0.0 d.f.360.cn
 0.0.0.0 smap.data.f.360.cn
 0.0.0.0 dns.f.360.cn
 0.0.0.0 dr.f.360.cn
@@ -445,6 +447,7 @@
 0.0.0.0 ecd.f.360.cn
 0.0.0.0 es.f.360.cn
 0.0.0.0 find.f.360.cn
+0.0.0.0 fw.f.360.cn
 0.0.0.0 ilink.f.360.cn
 0.0.0.0 mclean.f.360.cn
 0.0.0.0 mconf.f.360.cn
@@ -495,7 +498,9 @@
 0.0.0.0 d.skconf.f.360.cn
 0.0.0.0 t.skconf.f.360.cn
 0.0.0.0 u.skconf.f.360.cn
+0.0.0.0 smvconf.f.360.cn
 0.0.0.0 sr.f.360.cn
+0.0.0.0 svconf.f.360.cn
 0.0.0.0 tconf.f.360.cn
 0.0.0.0 b.tconf.f.360.cn
 0.0.0.0 tconf2.f.360.cn
@@ -515,6 +520,7 @@
 0.0.0.0 up-b.f.360.cn
 0.0.0.0 up-s.f.360.cn
 0.0.0.0 up-t1.f.360.cn
+0.0.0.0 url.f.360.cn
 0.0.0.0 vcheck.f.360.cn
 0.0.0.0 vconf.f.360.cn
 0.0.0.0 s.vconf.f.360.cn
@@ -524,6 +530,7 @@
 0.0.0.0 vnet.f.360.cn
 0.0.0.0 weblink.f.360.cn
 0.0.0.0 weblink-b.f.360.cn
+0.0.0.0 weblink-s.f.360.cn
 0.0.0.0 wsus.f.360.cn
 0.0.0.0 fanqizha.360.cn
 0.0.0.0 fanzha.360.cn
@@ -619,6 +626,7 @@
 0.0.0.0 huodong.360.cn
 0.0.0.0 i.360.cn
 0.0.0.0 iam.360.cn
+0.0.0.0 console.iam.360.cn
 0.0.0.0 iccwork.360.cn
 0.0.0.0 idata.360.cn
 0.0.0.0 api.idata.360.cn
@@ -1408,6 +1416,7 @@
 0.0.0.0 wows.360.cn
 0.0.0.0 kf.wows.360.cn
 0.0.0.0 mshop.wows.360.cn
+0.0.0.0 play.wows.360.cn
 0.0.0.0 shop.wows.360.cn
 0.0.0.0 wp.360.cn
 0.0.0.0 r.conf.wsm.360.cn
@@ -1466,6 +1475,7 @@
 0.0.0.0 yzt.360.cn
 0.0.0.0 e.yzt.360.cn
 0.0.0.0 zhike.360.cn
+0.0.0.0 sdk.zhike.360.cn
 0.0.0.0 zhikong.360.cn
 0.0.0.0 zhongce.360.cn
 0.0.0.0 vpn.zhongce.360.cn
@@ -19118,7 +19128,6 @@
 0.0.0.0 amazonsupport.duckdns.org
 0.0.0.0 cpcalendars.amazonsupport.duckdns.org
 0.0.0.0 mail.amazonsupport.duckdns.org
-0.0.0.0 amazonusaadmin.duckdns.org
 0.0.0.0 ambach.duckdns.org
 0.0.0.0 amberjack.duckdns.org
 0.0.0.0 amberoak.duckdns.org
@@ -19323,14 +19332,12 @@
 0.0.0.0 amxrewserv.duckdns.org
 0.0.0.0 amyhome98.duckdns.org
 0.0.0.0 amyshouse.duckdns.org
-0.0.0.0 amz-careservice.duckdns.org
 0.0.0.0 amzapplied.duckdns.org
 0.0.0.0 www.amzapplied.duckdns.org
 0.0.0.0 amzn-fr-signin-871senen21-155.duckdns.org
 0.0.0.0 webmail.amzn-fr-signin-871senen21-155.duckdns.org
 0.0.0.0 www.amzn-fr-signin-871senen21-155.duckdns.org
 0.0.0.0 amzn-qokz.duckdns.org
-0.0.0.0 amzn-server-helps.duckdns.org
 0.0.0.0 amzn-signin-k1nt1ls-1783.duckdns.org
 0.0.0.0 www.amzn-signin-k1nt1ls-1783.duckdns.org
 0.0.0.0 amzn-suspcusactvty.duckdns.org
@@ -23397,7 +23404,6 @@
 0.0.0.0 bokepterbaru2021.duckdns.org
 0.0.0.0 bokepterbaru2022.duckdns.org
 0.0.0.0 bokepterbaru72.duckdns.org
-0.0.0.0 bokepterbaruatocrot.duckdns.org
 0.0.0.0 bokeptergg2021.duckdns.org
 0.0.0.0 bokepterupdateterbaruu.duckdns.org
 0.0.0.0 bokepviral21.duckdns.org
@@ -26617,7 +26623,6 @@
 0.0.0.0 chat-whatsappp-com-grupokep22.duckdns.org
 0.0.0.0 chat-whatsappp-com-grupviralterbaru2020x.duckdns.org
 0.0.0.0 chat-whatsappp-com-grupx18viral.duckdns.org
-0.0.0.0 chat-whatsappp-com-tantemaleminilivecolm.duckdns.org
 0.0.0.0 chat-whatsappp-com-tetebesar.duckdns.org
 0.0.0.0 chat-whatshapp.duckdns.org
 0.0.0.0 cpanel.chat-whatshapp.duckdns.org
@@ -28176,7 +28181,6 @@
 0.0.0.0 claimnow-m3.duckdns.org
 0.0.0.0 claimorangeold12.duckdns.org
 0.0.0.0 claimpesnewasu.duckdns.org
-0.0.0.0 claimpesnewyzt.duckdns.org
 0.0.0.0 claimreward99.duckdns.org
 0.0.0.0 claims-hadiaah.duckdns.org
 0.0.0.0 cpcalendars.claims-hadiaah.duckdns.org
@@ -28892,7 +28896,6 @@
 0.0.0.0 webmail.codashop-allgamevvip6.duckdns.org
 0.0.0.0 codashop-anniversary-2th.duckdns.org
 0.0.0.0 webdisk.codashop-anniversary-2th.duckdns.org
-0.0.0.0 codashop-asli-banget.duckdns.org
 0.0.0.0 mail.codashop-asli-banget.duckdns.org
 0.0.0.0 www.codashop-asli-banget.duckdns.org
 0.0.0.0 codashop-berbagi.duckdns.org
@@ -46016,7 +46019,6 @@
 0.0.0.0 hassioalc.duckdns.org
 0.0.0.0 hassioalejandrostyk.duckdns.org
 0.0.0.0 hassioalexhel.duckdns.org
-0.0.0.0 hassioalf.duckdns.org
 0.0.0.0 hassioalfon.duckdns.org
 0.0.0.0 hassioallumedias.duckdns.org
 0.0.0.0 hassioamr.duckdns.org
@@ -48336,7 +48338,6 @@
 0.0.0.0 htu.duckdns.org
 0.0.0.0 htu1.htu.duckdns.org
 0.0.0.0 htuhlymanz.duckdns.org
-0.0.0.0 hu26.duckdns.org
 0.0.0.0 hu3rtas.duckdns.org
 0.0.0.0 hu64b92kx2.duckdns.org
 0.0.0.0 huanpham.duckdns.org
@@ -63624,7 +63625,6 @@
 0.0.0.0 nefele.duckdns.org
 0.0.0.0 neffhaus.duckdns.org
 0.0.0.0 nefha.duckdns.org
-0.0.0.0 neflox.duckdns.org
 0.0.0.0 nefty.duckdns.org
 0.0.0.0 negrat.duckdns.org
 0.0.0.0 negu.duckdns.org
@@ -67507,7 +67507,6 @@
 0.0.0.0 pctoolsrbpi.duckdns.org
 0.0.0.0 pctrtezwrr.duckdns.org
 0.0.0.0 www.pctrtezwrr.duckdns.org
-0.0.0.0 pcuk7.duckdns.org
 0.0.0.0 pcyurcrphj.duckdns.org
 0.0.0.0 pczjnznnxq.duckdns.org
 0.0.0.0 www.pczjnznnxq.duckdns.org
@@ -75876,7 +75875,6 @@
 0.0.0.0 shane-hassio.duckdns.org
 0.0.0.0 shangz.duckdns.org
 0.0.0.0 shaniri.duckdns.org
-0.0.0.0 shankarbitwarden.duckdns.org
 0.0.0.0 shap-serve.duckdns.org
 0.0.0.0 shap-serve-local.duckdns.org
 0.0.0.0 shapa.duckdns.org
@@ -82753,7 +82751,6 @@
 0.0.0.0 userauthsecureserviceonline.duckdns.org
 0.0.0.0 userc-secure.duckdns.org
 0.0.0.0 userchaseholder.duckdns.org
-0.0.0.0 userchaseverify.duckdns.org
 0.0.0.0 userexp.duckdns.org
 0.0.0.0 userfinancial02846198.duckdns.org
 0.0.0.0 userfinancial028461991.duckdns.org
@@ -85423,7 +85420,6 @@
 0.0.0.0 www.store.weltevree.duckdns.org
 0.0.0.0 weltsehen.duckdns.org
 0.0.0.0 weltweit.duckdns.org
-0.0.0.0 welverifsecu4re.duckdns.org
 0.0.0.0 wemupusomi.duckdns.org
 0.0.0.0 wendal62.duckdns.org
 0.0.0.0 wendel.duckdns.org
@@ -87633,7 +87629,6 @@
 0.0.0.0 xrixcis.duckdns.org
 0.0.0.0 xrkpzafbzi.duckdns.org
 0.0.0.0 xrljrwhvab.duckdns.org
-0.0.0.0 xrlsqpjnfm00.duckdns.org
 0.0.0.0 xrlvp.duckdns.org
 0.0.0.0 xrmsoffice.duckdns.org
 0.0.0.0 xrness.duckdns.org
@@ -88232,7 +88227,6 @@
 0.0.0.0 ysmzfpgqkt.duckdns.org
 0.0.0.0 ysnds218.duckdns.org
 0.0.0.0 ysnijders.duckdns.org
-0.0.0.0 ysoduo.duckdns.org
 0.0.0.0 yspcloud.duckdns.org
 0.0.0.0 ysrsoft.duckdns.org
 0.0.0.0 git.ysrsoft.duckdns.org
@@ -88339,7 +88333,6 @@
 0.0.0.0 ywjvvhhhtg.duckdns.org
 0.0.0.0 ywnestoblb.duckdns.org
 0.0.0.0 www.ywnestoblb.duckdns.org
-0.0.0.0 ywoishf.duckdns.org
 0.0.0.0 ywolrvjqnx.duckdns.org
 0.0.0.0 ywosn.duckdns.org
 0.0.0.0 www.ywosn.duckdns.org
