@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2022-02-09T13:05:22+00:00
-# Count: 92801 domains
+# Released: 2022-02-10T01:05:22+00:00
+# Count: 92798 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -4153,6 +4153,7 @@
 0.0.0.0 mc-c23vdz9f4xj-zqhjk50q0f3cy.login.exacttarget.com
 0.0.0.0 mc-xg4npg06tzhbkt1mz3z2xh-5m.login.exacttarget.com
 0.0.0.0 mc095m78zqllj4fvfww97sbfxcx0.login.exacttarget.com
+0.0.0.0 mc1kjtw40gkx39r8rtc2z-7y7p38.login.exacttarget.com
 0.0.0.0 mc27dc2p63lspxl102q8rxr927qm.login.exacttarget.com
 0.0.0.0 mc2dpw5-b9zlgwwjd1tn-7ts58w4.login.exacttarget.com
 0.0.0.0 mc2htylff8d1bqx7d8y8wzppn744.login.exacttarget.com
@@ -4237,6 +4238,7 @@
 0.0.0.0 mcrtlgjr-g-gwpsc952zwcc7q2vy.login.exacttarget.com
 0.0.0.0 mcrwbn5b7dr8m4-vsnnjgqyz8s11.login.exacttarget.com
 0.0.0.0 mcs7qd5drd9jr5486qj4jhrjlrn8.login.exacttarget.com
+0.0.0.0 mcscf7fgs-gt5t18t5vcpfjtjf6y.login.exacttarget.com
 0.0.0.0 mcslpmclq6r705hx7l3wfrnc2sl1.login.exacttarget.com
 0.0.0.0 mcsmm5p2jrmsfc9cg4n1-rr3cz3y.login.exacttarget.com
 0.0.0.0 mct7xp4hx14l9jz3ksclkt5dzwn4.login.exacttarget.com
@@ -4248,6 +4250,7 @@
 0.0.0.0 mcvsdzw7plvwkkgt3wf4trhvv58q.login.exacttarget.com
 0.0.0.0 mcvw3fymh-brb5635mzctqrl90h0.login.exacttarget.com
 0.0.0.0 mcvzk54jb4l9y08tjqtkmxdcwjx0.login.exacttarget.com
+0.0.0.0 mcwt72xg-t50r2lnhy5tfjy7gg71.login.exacttarget.com
 0.0.0.0 mcx0vvrj5ql5kfmyh03-jt9sq6d1.login.exacttarget.com
 0.0.0.0 mcx1-7d8c272n4b5stv2mdlbd628.login.exacttarget.com
 0.0.0.0 mcx5brw80vglyrpfb0442n5h2cm8.login.exacttarget.com
@@ -4718,6 +4721,7 @@
 0.0.0.0 reply-mx.exacttarget.com
 0.0.0.0 resources.exacttarget.com
 0.0.0.0 s1.exacttarget.com
+0.0.0.0 anonymous.s1.exacttarget.com
 0.0.0.0 app.s1.exacttarget.com
 0.0.0.0 appmanager.s1.exacttarget.com
 0.0.0.0 auth.s1.exacttarget.com
@@ -4776,6 +4780,8 @@
 0.0.0.0 pages.virt.s10.exacttarget.com
 0.0.0.0 view.virt.s10.exacttarget.com
 0.0.0.0 webservice.s10.exacttarget.com
+0.0.0.0 webservice-auth.s10.exacttarget.com
+0.0.0.0 webservice-tls.s10.exacttarget.com
 0.0.0.0 s100.exacttarget.com
 0.0.0.0 auth.s100.exacttarget.com
 0.0.0.0 click.s100.exacttarget.com
@@ -4822,6 +4828,7 @@
 0.0.0.0 editorsupport.s4.exacttarget.com
 0.0.0.0 ftp.s4.exacttarget.com
 0.0.0.0 gadget.s4.exacttarget.com
+0.0.0.0 groupon-ws.s4.exacttarget.com
 0.0.0.0 image.s4.exacttarget.com
 0.0.0.0 images.s4.exacttarget.com
 0.0.0.0 imh.s4.exacttarget.com
@@ -4860,7 +4867,10 @@
 0.0.0.0 pages.virt.s4.exacttarget.com
 0.0.0.0 view.virt.s4.exacttarget.com
 0.0.0.0 webservice.s4.exacttarget.com
+0.0.0.0 webservice-auth.s4.exacttarget.com
+0.0.0.0 webservice-devedition.s4.exacttarget.com
 0.0.0.0 webservice-merkle.s4.exacttarget.com
+0.0.0.0 webservice-sha2.s4.exacttarget.com
 0.0.0.0 ws.s4.exacttarget.com
 0.0.0.0 yodlee.s4.exacttarget.com
 0.0.0.0 s5.exacttarget.com
@@ -4957,6 +4967,11 @@
 0.0.0.0 pages.virt.s6.exacttarget.com
 0.0.0.0 view.virt.s6.exacttarget.com
 0.0.0.0 webservice.s6.exacttarget.com
+0.0.0.0 webservice-auth.s6.exacttarget.com
+0.0.0.0 webservice-av.s6.exacttarget.com
+0.0.0.0 webservice-kohls.s6.exacttarget.com
+0.0.0.0 webservice-statefarm.s6.exacttarget.com
+0.0.0.0 webservice-test.s6.exacttarget.com
 0.0.0.0 s7.exacttarget.com
 0.0.0.0 app.s7.exacttarget.com
 0.0.0.0 auth.s7.exacttarget.com
@@ -5906,7 +5921,6 @@
 0.0.0.0 v1.api.sa.janrain.com
 0.0.0.0 saml-multi-prod-va.janrain.com
 0.0.0.0 saml-multi-stag-va.janrain.com
-0.0.0.0 account-apple-next-com.api.sg.janrain.com
 0.0.0.0 v1.api.sg.janrain.com
 0.0.0.0 signin-overstock.janrain.com
 0.0.0.0 social.janrain.com
@@ -6577,6 +6591,7 @@
 0.0.0.0 inbound.mktossl.com
 0.0.0.0 ipv6.mktossl.com
 0.0.0.0 jojo.mktossl.com
+0.0.0.0 login.mktossl.com
 0.0.0.0 logos.mktossl.com
 0.0.0.0 lon02.mktossl.com
 0.0.0.0 lon03.mktossl.com
@@ -6685,6 +6700,7 @@
 0.0.0.0 sj36.mktossl.com
 0.0.0.0 sj37.mktossl.com
 0.0.0.0 sj38.mktossl.com
+0.0.0.0 sj40.mktossl.com
 0.0.0.0 sjf.mktossl.com
 0.0.0.0 sjfb.mktossl.com
 0.0.0.0 sjg.mktossl.com
@@ -19351,11 +19367,6 @@
 0.0.0.0 www.ambil-hadiah-dibawah62.duckdns.org
 0.0.0.0 ambil-hadiah-disini2022.duckdns.org
 0.0.0.0 ambil-hadiah-freefire20021.duckdns.org
-0.0.0.0 cpanel.ambil-hadiah-freefire20021.duckdns.org
-0.0.0.0 cpcalendars.ambil-hadiah-freefire20021.duckdns.org
-0.0.0.0 cpcontacts.ambil-hadiah-freefire20021.duckdns.org
-0.0.0.0 webdisk.ambil-hadiah-freefire20021.duckdns.org
-0.0.0.0 www.ambil-hadiah-freefire20021.duckdns.org
 0.0.0.0 ambil-hadiah-garena2k21.duckdns.org
 0.0.0.0 cpcalendars.ambil-hadiah-garena2k21.duckdns.org
 0.0.0.0 ambil-hadiah-geratis-dari-freefire.duckdns.org
@@ -20060,7 +20071,6 @@
 0.0.0.0 ap3.duckdns.org
 0.0.0.0 apache202.duckdns.org
 0.0.0.0 www.apache202.duckdns.org
-0.0.0.0 apagatau-kekginiya.duckdns.org
 0.0.0.0 apaiva.duckdns.org
 0.0.0.0 apapunjadi18.duckdns.org
 0.0.0.0 cpcontacts.apapunjadi18.duckdns.org
@@ -28292,7 +28302,6 @@
 0.0.0.0 cpcalendars.claim-item-free8283.duckdns.org
 0.0.0.0 webdisk.claim-item-free8283.duckdns.org
 0.0.0.0 www.claim-item-free8283.duckdns.org
-0.0.0.0 claim-item-freefire6272.duckdns.org
 0.0.0.0 claim-item-gratis-freefire-2021.duckdns.org
 0.0.0.0 mail.claim-item-gratis-freefire-2021.duckdns.org
 0.0.0.0 www.claim-item-gratis-freefire-2021.duckdns.org
@@ -29900,7 +29909,6 @@
 0.0.0.0 cpanel.codashop-vip74.duckdns.org
 0.0.0.0 cpcalendars.codashop-vip74.duckdns.org
 0.0.0.0 webmail.codashop-vip74.duckdns.org
-0.0.0.0 codashop-voucher-2022.duckdns.org
 0.0.0.0 codashop-xgratis1.duckdns.org
 0.0.0.0 codashop-xgratis4.duckdns.org
 0.0.0.0 cpcalendars.codashop-xgratis4.duckdns.org
@@ -30931,8 +30939,6 @@
 0.0.0.0 vscode.cowciuse.duckdns.org
 0.0.0.0 xps7100.cowciuse.duckdns.org
 0.0.0.0 zwavejs.cowciuse.duckdns.org
-0.0.0.0 coxeave.duckdns.org
-0.0.0.0 coxeavenue.duckdns.org
 0.0.0.0 coyote00881.duckdns.org
 0.0.0.0 coys-rapp-6404.duckdns.org
 0.0.0.0 cozmicf.duckdns.org
@@ -35529,7 +35535,6 @@
 0.0.0.0 efegeharian.duckdns.org
 0.0.0.0 efekan31.duckdns.org
 0.0.0.0 efenas.duckdns.org
-0.0.0.0 efent-freefiremaxxoldd12.duckdns.org
 0.0.0.0 efesto.duckdns.org
 0.0.0.0 efexr.duckdns.org
 0.0.0.0 effedomus.duckdns.org
@@ -64954,6 +64959,7 @@
 0.0.0.0 new.magento.nasmann.duckdns.org
 0.0.0.0 no-reblog.magento.nasmann.duckdns.org
 0.0.0.0 5-28-58-101.no-reblog.magento.nasmann.duckdns.org
+0.0.0.0 reblog.magento.nasmann.duckdns.org
 0.0.0.0 www.magento.nasmann.duckdns.org
 0.0.0.0 www2.magento.nasmann.duckdns.org
 0.0.0.0 old.nasmann.duckdns.org
@@ -66394,7 +66400,6 @@
 0.0.0.0 njss.duckdns.org
 0.0.0.0 njut.duckdns.org
 0.0.0.0 njverde221021.duckdns.org
-0.0.0.0 njverhfgnb.duckdns.org
 0.0.0.0 njxiriwiep.duckdns.org
 0.0.0.0 njzipsispa.duckdns.org
 0.0.0.0 njzupzmvbw.duckdns.org
@@ -77637,7 +77642,6 @@
 0.0.0.0 cpcontacts.services-bec-restore.duckdns.org
 0.0.0.0 services-onlineuserverify03i.duckdns.org
 0.0.0.0 services-restore-clt.duckdns.org
-0.0.0.0 services-userverification04b.duckdns.org
 0.0.0.0 servicesecure-verifyhost1.duckdns.org
 0.0.0.0 servicessl.duckdns.org
 0.0.0.0 serviceterminationnotice.duckdns.org
@@ -83841,7 +83845,6 @@
 0.0.0.0 troxhome.duckdns.org
 0.0.0.0 troy-home.duckdns.org
 0.0.0.0 troyer2002.duckdns.org
-0.0.0.0 trrot.duckdns.org
 0.0.0.0 trshome22.duckdns.org
 0.0.0.0 trss01.duckdns.org
 0.0.0.0 trthrst.duckdns.org
@@ -84965,7 +84968,6 @@
 0.0.0.0 userc-secure.duckdns.org
 0.0.0.0 userchaseholder.duckdns.org
 0.0.0.0 userexp.duckdns.org
-0.0.0.0 userfinancial02846198.duckdns.org
 0.0.0.0 userfinancial028461991.duckdns.org
 0.0.0.0 userinf0auth01web404.duckdns.org
 0.0.0.0 cpcontacts.userinf0auth01web404.duckdns.org
@@ -85551,7 +85553,6 @@
 0.0.0.0 verifsction1111.duckdns.org
 0.0.0.0 verify-access.duckdns.org
 0.0.0.0 cpanel.verify-access.duckdns.org
-0.0.0.0 verify-amazon-account.duckdns.org
 0.0.0.0 verify-bnking-mtb3.duckdns.org
 0.0.0.0 verify-citiciti.duckdns.org
 0.0.0.0 verify-huntington-help-bank.duckdns.org
@@ -86747,7 +86748,6 @@
 0.0.0.0 w5jzvwfavx3pr9d56exn.duckdns.org
 0.0.0.0 www.w5jzvwfavx3pr9d56exn.duckdns.org
 0.0.0.0 w618.duckdns.org
-0.0.0.0 w6q1n5vkz-0004gx-ax.duckdns.org
 0.0.0.0 w85w88w18.duckdns.org
 0.0.0.0 wa-bokep-terbaru01.duckdns.org
 0.0.0.0 webdisk.wa-bokep-terbaru01.duckdns.org
@@ -87773,7 +87773,6 @@
 0.0.0.0 weseg.duckdns.org
 0.0.0.0 wesley-home-assistant.duckdns.org
 0.0.0.0 wesnet.duckdns.org
-0.0.0.0 wesplex.duckdns.org
 0.0.0.0 westctrl.duckdns.org
 0.0.0.0 westgrace.duckdns.org
 0.0.0.0 adguard.westgrace.duckdns.org
@@ -92561,7 +92560,6 @@
 0.0.0.0 asa9.tawk.to
 0.0.0.0 asb1.tawk.to
 0.0.0.0 asb10.tawk.to
-0.0.0.0 asb11.tawk.to
 0.0.0.0 asb12.tawk.to
 0.0.0.0 asb13.tawk.to
 0.0.0.0 asb15.tawk.to
@@ -92570,7 +92568,6 @@
 0.0.0.0 asb19.tawk.to
 0.0.0.0 asb2.tawk.to
 0.0.0.0 asb20.tawk.to
-0.0.0.0 asb21.tawk.to
 0.0.0.0 asb22.tawk.to
 0.0.0.0 asb23.tawk.to
 0.0.0.0 asb24.tawk.to
