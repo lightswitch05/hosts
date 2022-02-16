@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2022-02-13T13:05:23+00:00
-# Count: 20303 domains
+# Released: 2022-02-16T01:05:23+00:00
+# Count: 20355 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -8122,6 +8122,7 @@
 0.0.0.0 press.elitesingles.com
 0.0.0.0 singles-dating.elitesingles.com
 0.0.0.0 staging-m.elitesingles.com
+0.0.0.0 api.staging-segment.elitesingles.com
 0.0.0.0 staging-www.elitesingles.com
 0.0.0.0 static.elitesingles.com
 0.0.0.0 support.elitesingles.com
@@ -12881,6 +12882,7 @@
 0.0.0.0 grafana-dev.dop.ue1.aws.okcupid.com
 0.0.0.0 grafana-prod.dop.ue1.aws.okcupid.com
 0.0.0.0 k8s.dop.ue1.aws.okcupid.com
+0.0.0.0 elasticsearch.prd.ue1.aws.okcupid.com
 0.0.0.0 k8s.prd.ue1.aws.okcupid.com
 0.0.0.0 dmz.k8s.prd.ue1.aws.okcupid.com
 0.0.0.0 minio.sbx.ue1.aws.okcupid.com
@@ -13782,6 +13784,7 @@
 0.0.0.0 audio.pof.com
 0.0.0.0 authz.pof.com
 0.0.0.0 api.usw2.in.aws.pof.com
+0.0.0.0 api.usw2.pd.aws.pof.com
 0.0.0.0 api.usw2.qa.aws.pof.com
 0.0.0.0 blog.pof.com
 0.0.0.0 blogs.pof.com
@@ -17709,6 +17712,9 @@
 0.0.0.0 accidentaldivorcee.dating
 0.0.0.0 accommo.dating
 0.0.0.0 www.accommo.dating
+0.0.0.0 acting.dating
+0.0.0.0 store.acting.dating
+0.0.0.0 ads.dating
 0.0.0.0 adult.dating
 0.0.0.0 adultaffairs.dating
 0.0.0.0 staging-api.adultaffairs.dating
@@ -17751,16 +17757,34 @@
 0.0.0.0 staging.animemanga.dating
 0.0.0.0 apes.dating
 0.0.0.0 www.apes.dating
+0.0.0.0 app.app.dating
+0.0.0.0 apps.app.dating
+0.0.0.0 backend.app.dating
+0.0.0.0 beta.app.dating
 0.0.0.0 business.app.dating
 0.0.0.0 chat.app.dating
 0.0.0.0 wgbcv.flirt.chat.app.dating
 0.0.0.0 core.app.dating
 0.0.0.0 com.datefind.app.dating
+0.0.0.0 demo.app.dating
+0.0.0.0 dev.app.dating
 0.0.0.0 developer.app.dating
 0.0.0.0 ecommerce.app.dating
 0.0.0.0 facebook.app.dating
 0.0.0.0 www.facebook.app.dating
+0.0.0.0 magento.app.dating
+0.0.0.0 new.app.dating
+0.0.0.0 odnoklassniki-ru.app.dating
+0.0.0.0 www.odnoklassniki-ru.app.dating
+0.0.0.0 old.app.dating
+0.0.0.0 panel.app.dating
+0.0.0.0 ru.app.dating
+0.0.0.0 shop.app.dating
+0.0.0.0 staging.app.dating
+0.0.0.0 store.app.dating
+0.0.0.0 support.app.dating
 0.0.0.0 ru.tele2.app.dating
+0.0.0.0 test.app.dating
 0.0.0.0 ar.dating
 0.0.0.0 www.artists.dating
 0.0.0.0 asiansexyshemales.dating
@@ -17809,6 +17833,7 @@
 0.0.0.0 staging.bbwsex.dating
 0.0.0.0 belloo.dating
 0.0.0.0 out.best5.dating
+0.0.0.0 bewitchy.dating
 0.0.0.0 bharat.dating
 0.0.0.0 big7.dating
 0.0.0.0 dev.bigdick.dating
@@ -17844,6 +17869,9 @@
 0.0.0.0 local.blackchristian.dating
 0.0.0.0 staging.blackchristian.dating
 0.0.0.0 blindspot.dating
+0.0.0.0 blockchain.dating
+0.0.0.0 shop.blockchain.dating
+0.0.0.0 test.blockchain.dating
 0.0.0.0 dev.bondage.dating
 0.0.0.0 female.bondage.dating
 0.0.0.0 gay.bondage.dating
@@ -17879,10 +17907,20 @@
 0.0.0.0 www.c-date.dating
 0.0.0.0 cake.dating
 0.0.0.0 www.california.dating
+0.0.0.0 alpha.canadianadult.dating
+0.0.0.0 analytics.canadianadult.dating
+0.0.0.0 blog.canadianadult.dating
+0.0.0.0 dashboard.canadianadult.dating
+0.0.0.0 development.canadianadult.dating
+0.0.0.0 members.canadianadult.dating
+0.0.0.0 my.canadianadult.dating
+0.0.0.0 uat.canadianadult.dating
+0.0.0.0 www.canadianadult.dating
 0.0.0.0 candybar.dating
 0.0.0.0 shop.candybar.dating
 0.0.0.0 caribbean.dating
 0.0.0.0 api.chances.dating
+0.0.0.0 charmdate.dating
 0.0.0.0 app.chat2000.dating
 0.0.0.0 media.app.chat2000.dating
 0.0.0.0 cheaters.dating
@@ -17895,6 +17933,8 @@
 0.0.0.0 learn.chinalove.dating
 0.0.0.0 play.chinalove.dating
 0.0.0.0 www.chinalove.dating
+0.0.0.0 chinesewomen.dating
+0.0.0.0 staging-steppyweb.chinesewomen.dating
 0.0.0.0 www.christianity.dating
 0.0.0.0 christiansnet.dating
 0.0.0.0 www.clicks.dating
@@ -18176,6 +18216,8 @@
 0.0.0.0 staging.hebrew.dating
 0.0.0.0 heila.dating
 0.0.0.0 hemmelig.dating
+0.0.0.0 heythere.dating
+0.0.0.0 www.heythere.dating
 0.0.0.0 crfprofile.hippie.dating
 0.0.0.0 crmprofile.hippie.dating
 0.0.0.0 dev.hippie.dating
@@ -18217,6 +18259,7 @@
 0.0.0.0 www.howto.dating
 0.0.0.0 huk.dating
 0.0.0.0 business.hydra.dating
+0.0.0.0 i-flirt.dating
 0.0.0.0 www.ibiza.dating
 0.0.0.0 ice.dating
 0.0.0.0 autodiscover.inbox.dating
@@ -18312,6 +18355,7 @@
 0.0.0.0 lovn.dating
 0.0.0.0 ltr.dating
 0.0.0.0 www.ltr.dating
+0.0.0.0 lucid.dating
 0.0.0.0 lunch-match.dating
 0.0.0.0 admin.lunch-match.dating
 0.0.0.0 api.lunch-match.dating
@@ -18389,6 +18433,7 @@
 0.0.0.0 www.metav.dating
 0.0.0.0 metaversereality.dating
 0.0.0.0 www.metaversereality.dating
+0.0.0.0 metaversesex.dating
 0.0.0.0 metrics.dating
 0.0.0.0 app.metta.dating
 0.0.0.0 millionaires.dating
@@ -18417,7 +18462,9 @@
 0.0.0.0 cdn-5.myfilipina.dating
 0.0.0.0 cdn-6.myfilipina.dating
 0.0.0.0 cdn-7.myfilipina.dating
+0.0.0.0 mymatch.dating
 0.0.0.0 nachbar.dating
+0.0.0.0 natashaclub.dating
 0.0.0.0 dev.nativeamerican.dating
 0.0.0.0 faf.nativeamerican.dating
 0.0.0.0 fam.nativeamerican.dating
@@ -18645,6 +18692,7 @@
 0.0.0.0 sqs.russian-women.dating
 0.0.0.0 staging.russian-women.dating
 0.0.0.0 web.russian-women.dating
+0.0.0.0 russianlady.dating
 0.0.0.0 saturdays.dating
 0.0.0.0 testing.schwurbler.dating
 0.0.0.0 secret.dating
@@ -18793,6 +18841,8 @@
 0.0.0.0 cms.toffee.dating
 0.0.0.0 top1.dating
 0.0.0.0 out.top5.dating
+0.0.0.0 topsites.dating
+0.0.0.0 find.topsites.dating
 0.0.0.0 dan.totally.dating
 0.0.0.0 dev.transsexuals.dating
 0.0.0.0 staging.transsexuals.dating
@@ -18877,6 +18927,8 @@
 0.0.0.0 staging.widower.dating
 0.0.0.0 www.wolfwagner.dating
 0.0.0.0 wunder.dating
+0.0.0.0 dev.xcite.dating
+0.0.0.0 xhamster.dating
 0.0.0.0 xvideos.dating
 0.0.0.0 magento.xvideos.dating
 0.0.0.0 staging.xvideos.dating
