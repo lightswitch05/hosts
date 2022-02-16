@@ -19,6 +19,18 @@ Dating Services | Block all dating services. This list covers everything from eh
 Hate & Junk | This is an opinionated list to block things that I consider to be hateful or just plain junk. This list isn't for censorship, but rather websites that I wouldn't want my children to read without having a discussion first. Topics include but are not limited to hate groups, anti-vax, flat earth, and climate change denial. You are welcome to use this list if you like. If you disagree with something in this list... [well, that's just, like, your opinion, man.](https://www.youtube.com/watch?v=pWdd6_ZxX8c) | [link](https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt)
 Tracking Aggressive | I do not recommend this list for most users. It is a very aggressive block list for tracking, geo-targeting, & ads. This list will likely break functionality, so do not use it unless you are willing to maintain your own whitelist. If you find something in this list that you think is a mistake, please open a ticket and we can discuss it. Keep in mind that this is an aggressive list. | [link](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt)
 
+# Read before use
+
+## CNAME-based ad blockers
+
+If you are using these lists with an ad blocker that uses CNAME blocking, **please read Common Issues / Google Fonts**.
+
+Ad blockers/tools using CNAME blocking include:
+* Blokada
+* PiHole
+* uBlock Origin
+
+This list is not exhaustive, feel free to make suggestions.
 
 # Common Issues
 
