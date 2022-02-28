@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-02-23T13:05:22+00:00
-# Count: 28435 domains
+# Released: 2022-02-28T01:05:22+00:00
+# Count: 28502 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1556,6 +1556,7 @@
 0.0.0.0 edge-atlas-shv-02-xsp1.facebook.com
 0.0.0.0 edge-cg-rtc-shv-01-qro1.facebook.com
 0.0.0.0 edge-chat.facebook.com
+0.0.0.0 edge-extern-shv-01-ams4.facebook.com
 0.0.0.0 edge-extern-shv-01-ort2.facebook.com
 0.0.0.0 edge-extern-shv-01-waw1.facebook.com
 0.0.0.0 edge-extern-shv-01-yyz1.facebook.com
@@ -1679,6 +1680,7 @@
 0.0.0.0 edge-secure-shv-01-ber1.facebook.com
 0.0.0.0 edge-secure-shv-01-lax3.facebook.com
 0.0.0.0 edge-secure-shv-01-nrt1.facebook.com
+0.0.0.0 edge-secure-shv-01-vie1.facebook.com
 0.0.0.0 edge-secure-shv-02-maa2.facebook.com
 0.0.0.0 edge-services-fbonly-shv-01-lhr8.facebook.com
 0.0.0.0 edge-services-fbonly-shv-01-waw1.facebook.com
@@ -1761,6 +1763,7 @@
 0.0.0.0 edge-star-shv-01-lga3.facebook.com
 0.0.0.0 edge-star-shv-01-lhr8.facebook.com
 0.0.0.0 edge-star-shv-01-lim1.facebook.com
+0.0.0.0 edge-star-shv-01-mad1.facebook.com
 0.0.0.0 edge-star-shv-01-mia3.facebook.com
 0.0.0.0 edge-star-shv-01-mrs2.facebook.com
 0.0.0.0 edge-star-shv-01-mxp1.facebook.com
@@ -1781,6 +1784,7 @@
 0.0.0.0 edge-star-shv-02-maa2.facebook.com
 0.0.0.0 edge-star-shv-02-mia3.facebook.com
 0.0.0.0 edge-star-shv-02-mrs2.facebook.com
+0.0.0.0 edge-star-shv-02-ort2.facebook.com
 0.0.0.0 edge-star-shv-02-qro1.facebook.com
 0.0.0.0 edge-star-shv-02-sof1.facebook.com
 0.0.0.0 edge-star-shv-03-sin6.facebook.com
@@ -1883,6 +1887,7 @@
 0.0.0.0 edgeray-shv-01-yyz1.facebook.com
 0.0.0.0 edgeray-shv-02-arn2.facebook.com
 0.0.0.0 edgeray-shv-02-atl3.facebook.com
+0.0.0.0 edgeray-shv-02-bom1.facebook.com
 0.0.0.0 edgeray-shv-02-cgk1.facebook.com
 0.0.0.0 edgeray-shv-02-frt3.facebook.com
 0.0.0.0 edgeray-shv-02-kut2.facebook.com
@@ -3395,19 +3400,80 @@
 0.0.0.0 hi-in.el-gr.es-es.fbjs.facebook.com
 0.0.0.0 www.el-gr.es-es.fbjs.facebook.com
 0.0.0.0 en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ar-ar.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 bg-bg.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ca-es.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 cs-cz.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 da-dk.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 de-de.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 el-gr.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 en-gb.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 es-es.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 es-la.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 www.es-la.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 fi-fi.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 it-it.fi-fi.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 fr-ca.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 fr-fr.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 he-il.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 hi-in.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 hr-hr.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 hu-hu.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 id-id.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 www.id-id.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 it-it.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 www.it-it.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ja-jp.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 it-it.ja-jp.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ja-jp.ja-jp.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 pt-br.ja-jp.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ja-ks.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ka-ge.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 ko-kr.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 ar-ar.ko-kr.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 fr-fr.ko-kr.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 it-it.ko-kr.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 www.ko-kr.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 zh-cn.ko-kr.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 lt-lt.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 mk-mk.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 mn-mn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ms-my.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 mt-mt.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 nb-no.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 nl-be.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 nl-nl.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 nn-no.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 pl-pl.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ar-ar.pl-pl.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 www.pl-pl.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ps-af.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 pt-br.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 pt-pt.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ro-ro.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ru-ru.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 sk-sk.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 sl-si.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 sq-al.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 sr-rs.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 sv-se.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 sw-ke.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 sz-pl.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 th-th.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 tl-ph.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 tr-tr.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 uk-ua.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 ur-pk.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 vi-vn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 en-gb.vi-vn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 www.vi-vn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 zh-cn.vi-vn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 www.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 zh-cn.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 ar-ar.zh-cn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 pt-br.zh-cn.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 zh-hk.en-gb.es-es.fbjs.facebook.com
+0.0.0.0 zh-tw.en-gb.es-es.fbjs.facebook.com
 0.0.0.0 es-es.es-es.fbjs.facebook.com
 0.0.0.0 af-za.es-es.es-es.fbjs.facebook.com
 0.0.0.0 ar-ar.es-es.es-es.fbjs.facebook.com
@@ -21380,6 +21446,7 @@
 0.0.0.0 apps-953882535250958.fbsbx.com
 0.0.0.0 apps-972169473287654.fbsbx.com
 0.0.0.0 apps-981290565723018.fbsbx.com
+0.0.0.0 apps-993615658256345.fbsbx.com
 0.0.0.0 apps-999265433814080.fbsbx.com
 0.0.0.0 aside.fbsbx.com
 0.0.0.0 atriumlookaside.fbsbx.com
