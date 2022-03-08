@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2022-03-07T13:05:23+00:00
-# Count: 20976 domains
+# Released: 2022-03-08T01:05:23+00:00
+# Count: 21006 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -4509,6 +4509,7 @@
 0.0.0.0 origin-was-vox2.cam4.com
 0.0.0.0 performers.cam4.com
 0.0.0.0 pl.cam4.com
+0.0.0.0 press.cam4.com
 0.0.0.0 psi.cam4.com
 0.0.0.0 pt.cam4.com
 0.0.0.0 rebelnerds.cam4.com
@@ -13552,18 +13553,29 @@
 0.0.0.0 email.onlyfans.com
 0.0.0.0 estream.onlyfans.com
 0.0.0.0 gateway.onlyfans.com
+0.0.0.0 gateway0-us-east-1.onlyfans.com
 0.0.0.0 id.onlyfans.com
 0.0.0.0 join.onlyfans.com
 0.0.0.0 live0.onlyfans.com
+0.0.0.0 live0-ap-southeast-2.onlyfans.com
 0.0.0.0 live0-dc2.onlyfans.com
 0.0.0.0 live0-dc3.onlyfans.com
+0.0.0.0 live0-eu-central-1.onlyfans.com
+0.0.0.0 live0-sa-east-1.onlyfans.com
+0.0.0.0 live0-us-east-1.onlyfans.com
 0.0.0.0 live1.onlyfans.com
+0.0.0.0 live1-ap-southeast-2.onlyfans.com
 0.0.0.0 live1-dc2.onlyfans.com
 0.0.0.0 live1-dc3.onlyfans.com
+0.0.0.0 live1-eu-central-1.onlyfans.com
+0.0.0.0 live1-sa-east-1.onlyfans.com
+0.0.0.0 live1-us-east-1.onlyfans.com
 0.0.0.0 live10.onlyfans.com
 0.0.0.0 live11.onlyfans.com
 0.0.0.0 live2.onlyfans.com
+0.0.0.0 live2-us-east-1.onlyfans.com
 0.0.0.0 live3.onlyfans.com
+0.0.0.0 live3-us-east-1.onlyfans.com
 0.0.0.0 live4.onlyfans.com
 0.0.0.0 live5.onlyfans.com
 0.0.0.0 live6.onlyfans.com
@@ -13578,22 +13590,37 @@
 0.0.0.0 public.onlyfans.com
 0.0.0.0 thumbs.public.onlyfans.com
 0.0.0.0 route0.onlyfans.com
+0.0.0.0 route0-ap-southeast-2.onlyfans.com
 0.0.0.0 route0-dc2.onlyfans.com
 0.0.0.0 route0-dc3.onlyfans.com
+0.0.0.0 route0-eu-central-1.onlyfans.com
+0.0.0.0 route0-sa-east-1.onlyfans.com
+0.0.0.0 route0-us-east-1.onlyfans.com
 0.0.0.0 shopify.onlyfans.com
 0.0.0.0 start.onlyfans.com
+0.0.0.0 www.start.onlyfans.com
 0.0.0.0 static.onlyfans.com
 0.0.0.0 status.onlyfans.com
 0.0.0.0 store.onlyfans.com
 0.0.0.0 stream0.onlyfans.com
+0.0.0.0 stream0-ap-southeast-2.onlyfans.com
 0.0.0.0 stream0-dc2.onlyfans.com
 0.0.0.0 stream0-dc3.onlyfans.com
+0.0.0.0 stream0-eu-central-1.onlyfans.com
+0.0.0.0 stream0-sa-east-1.onlyfans.com
+0.0.0.0 stream0-us-east-1.onlyfans.com
 0.0.0.0 stream1.onlyfans.com
+0.0.0.0 stream1-ap-southeast-2.onlyfans.com
 0.0.0.0 stream1-dc2.onlyfans.com
 0.0.0.0 stream1-dc3.onlyfans.com
+0.0.0.0 stream1-eu-central-1.onlyfans.com
+0.0.0.0 stream1-sa-east-1.onlyfans.com
+0.0.0.0 stream1-us-east-1.onlyfans.com
 0.0.0.0 stream2.onlyfans.com
 0.0.0.0 stream2-dc2.onlyfans.com
+0.0.0.0 stream2-us-east-1.onlyfans.com
 0.0.0.0 stream3.onlyfans.com
+0.0.0.0 stream3-us-east-1.onlyfans.com
 0.0.0.0 report.thorn.onlyfans.com
 0.0.0.0 verify.onlyfans.com
 0.0.0.0 webhook.onlyfans.com
@@ -17445,6 +17472,7 @@
 0.0.0.0 cloudfrontftp.twoo.com
 0.0.0.0 mx.cloudfrontftp.twoo.com
 0.0.0.0 mail.mx.cloudfrontftp.twoo.com
+0.0.0.0 mail.mail.mx.cloudfrontftp.twoo.com
 0.0.0.0 com2fhttp3awww.twoo.com
 0.0.0.0 data-engineering.twoo.com
 0.0.0.0 jenkins.data-engineering.twoo.com
@@ -17462,6 +17490,7 @@
 0.0.0.0 firewallzorpiadev.twoo.com
 0.0.0.0 jsonapi.firewallzorpiadev.twoo.com
 0.0.0.0 rc.jsonapi.firewallzorpiadev.twoo.com
+0.0.0.0 production.rc.jsonapi.firewallzorpiadev.twoo.com
 0.0.0.0 fw-loppy113.twoo.com
 0.0.0.0 ieys2-xsrvjp.twoo.com
 0.0.0.0 inhoudsbezorgingsnetwerk.twoo.com
@@ -17508,6 +17537,7 @@
 0.0.0.0 payment-dev.twoo.com
 0.0.0.0 popupload06.twoo.com
 0.0.0.0 mail.popupload06.twoo.com
+0.0.0.0 ftp.mail.popupload06.twoo.com
 0.0.0.0 productionloppy05.twoo.com
 0.0.0.0 puritan.twoo.com
 0.0.0.0 quarter-virusloppy04.twoo.com
