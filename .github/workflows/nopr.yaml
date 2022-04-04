@@ -1,0 +1,14 @@
+on:
+    pull_request:
+
+jobs:
+    close:
+        name: Close Pull Request
+        runs-on: ubuntu-latest
+        steps:
+            -   name: Close Pull Request
+                env:
+                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                run: |
+                    gh pr close ${{ github.event.pull_request.number }} -R ${{ github.repository }};
+                    gh pr review ${{ github.event.pull_request.number }} -R ${{ github.repository }} -c -b 'PRs are not allow on this repo, please submit an issue ticket to discuss any changes you would like to make.';
