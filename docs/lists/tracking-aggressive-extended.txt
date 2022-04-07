@@ -1,6 +1,6 @@
 # Title: Lightswitch05's tracking-aggressive-extended.txt
-# Released: 2022-04-07T01:05:24+00:00
-# Count: 110734 domains
+# Released: 2022-04-07T13:05:23+00:00
+# Count: 110730 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
@@ -7245,6 +7245,7 @@
 0.0.0.0 mail.pingdom.com
 0.0.0.0 map.pingdom.com
 0.0.0.0 my.pingdom.com
+0.0.0.0 my2.pingdom.com
 0.0.0.0 python-packages.pingdom.com
 0.0.0.0 royal.pingdom.com
 0.0.0.0 s4001.pingdom.com
@@ -8599,6 +8600,7 @@
 0.0.0.0 usbank.az1.qualtrics.com
 0.0.0.0 usccmcis.az1.qualtrics.com
 0.0.0.0 usf.az1.qualtrics.com
+0.0.0.0 www.usf.az1.qualtrics.com
 0.0.0.0 ust.az1.qualtrics.com
 0.0.0.0 uwehls.az1.qualtrics.com
 0.0.0.0 vanityumd.az1.qualtrics.com
@@ -8671,6 +8673,7 @@
 0.0.0.0 bci.qualtrics.com
 0.0.0.0 bcsse.qualtrics.com
 0.0.0.0 bcsurveyservices.qualtrics.com
+0.0.0.0 beckmanex.qualtrics.com
 0.0.0.0 bedsbmri.qualtrics.com
 0.0.0.0 beehiveresearch.qualtrics.com
 0.0.0.0 bellevuecollege.qualtrics.com
@@ -31406,11 +31409,6 @@
 0.0.0.0 claim-skin-ml-sultan.duckdns.org
 0.0.0.0 cpcalendars.claim-skin-ml-sultan.duckdns.org
 0.0.0.0 claim-skin-mlbb0.duckdns.org
-0.0.0.0 cpanel.claim-skin-mobile-legends.duckdns.org
-0.0.0.0 cpcalendars.claim-skin-mobile-legends.duckdns.org
-0.0.0.0 mail.claim-skin-mobile-legends.duckdns.org
-0.0.0.0 webdisk.claim-skin-mobile-legends.duckdns.org
-0.0.0.0 www.claim-skin-mobile-legends.duckdns.org
 0.0.0.0 claim-skin-mobilelegends-free.duckdns.org
 0.0.0.0 cpanel.claim-skin-mobilelegends-free.duckdns.org
 0.0.0.0 mail.claim-skin-mobilelegends-free.duckdns.org
@@ -47522,7 +47520,6 @@
 0.0.0.0 getitem-ff2021.duckdns.org
 0.0.0.0 mail.getitem-ff2021.duckdns.org
 0.0.0.0 webmail.getitem-ff2021.duckdns.org
-0.0.0.0 www.getitemfreefire-gratisitem.duckdns.org
 0.0.0.0 getjar.duckdns.org
 0.0.0.0 www.getjar.duckdns.org
 0.0.0.0 getlink19wa.duckdns.org
@@ -91703,7 +91700,6 @@
 0.0.0.0 service-authentificationbp.duckdns.org
 0.0.0.0 service-information-securipass-auths-otp.duckdns.org
 0.0.0.0 www.service-information-securipass-auths-otp.duckdns.org
-0.0.0.0 service-online001.duckdns.org
 0.0.0.0 service-pro-ece3-facture-orange-portail6.duckdns.org
 0.0.0.0 service-pro-ece3-facture-orange-portail7.duckdns.org
 0.0.0.0 service-pro-facturemessageriepro3.duckdns.org
@@ -93009,12 +93005,14 @@
 0.0.0.0 siz.duckdns.org
 0.0.0.0 sj0slottet.duckdns.org
 0.0.0.0 sj1965.duckdns.org
+0.0.0.0 sj9n7air.duckdns.org
 0.0.0.0 ar.sj9n7air.duckdns.org
 0.0.0.0 bd.sj9n7air.duckdns.org
 0.0.0.0 jc.sj9n7air.duckdns.org
 0.0.0.0 lm.sj9n7air.duckdns.org
 0.0.0.0 ng.sj9n7air.duckdns.org
 0.0.0.0 op.sj9n7air.duckdns.org
+0.0.0.0 qb.sj9n7air.duckdns.org
 0.0.0.0 qt.sj9n7air.duckdns.org
 0.0.0.0 rt.sj9n7air.duckdns.org
 0.0.0.0 sy.sj9n7air.duckdns.org
@@ -94027,7 +94025,6 @@
 0.0.0.0 solverproxmox.duckdns.org
 0.0.0.0 solvesalex.duckdns.org
 0.0.0.0 solzhen.duckdns.org
-0.0.0.0 somahomeassistant.duckdns.org
 0.0.0.0 somekindof.duckdns.org
 0.0.0.0 somepastebin.duckdns.org
 0.0.0.0 somerwil.duckdns.org
@@ -99374,7 +99371,6 @@
 0.0.0.0 tschau.duckdns.org
 0.0.0.0 tschierske.duckdns.org
 0.0.0.0 code.tschierske.duckdns.org
-0.0.0.0 cryptpad.tschierske.duckdns.org
 0.0.0.0 element.tschierske.duckdns.org
 0.0.0.0 hass.tschierske.duckdns.org
 0.0.0.0 hd.tschierske.duckdns.org
