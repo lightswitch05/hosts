@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-04-16T13:05:21+00:00
-# Count: 28700 domains
+# Released: 2022-04-17T01:05:22+00:00
+# Count: 28787 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -165,6 +165,7 @@
 0.0.0.0 scontent-maa2-2.cdninstagram.com
 0.0.0.0 scontent-mad.cdninstagram.com
 0.0.0.0 scontent-mad1-1.cdninstagram.com
+0.0.0.0 scontent-mad1-2.cdninstagram.com
 0.0.0.0 scontent-man2-1.cdninstagram.com
 0.0.0.0 scontent-mba1-1.cdninstagram.com
 0.0.0.0 scontent-mct1-1.cdninstagram.com
@@ -275,6 +276,7 @@
 0.0.0.0 video-nrt1-1.cdninstagram.com
 0.0.0.0 video-ort2-1.cdninstagram.com
 0.0.0.0 video-ort2-2.cdninstagram.com
+0.0.0.0 video-otp1-1.cdninstagram.com
 0.0.0.0 video-pmo1-1.cdninstagram.com
 0.0.0.0 video-prg1-1.cdninstagram.com
 0.0.0.0 video-qro1-1.cdninstagram.com
@@ -1113,9 +1115,14 @@
 0.0.0.0 240.2.2055qnll.dns.facebook.com
 0.0.0.0 1515157.240.2.2055qnll.dns.facebook.com
 0.0.0.0 18.1515157.240.2.2055qnll.dns.facebook.com
+0.0.0.0 240.18.1515157.240.2.2055qnll.dns.facebook.com
 0.0.0.0 15157.240.2.2055qnll.dns.facebook.com
 0.0.0.0 18.15157.240.2.2055qnll.dns.facebook.com
+0.0.0.0 20240.18.15157.240.2.2055qnll.dns.facebook.com
+0.0.0.0 240.18.15157.240.2.2055qnll.dns.facebook.com
 0.0.0.0 2018.15157.240.2.2055qnll.dns.facebook.com
+0.0.0.0 152.2018.15157.240.2.2055qnll.dns.facebook.com
+0.0.0.0 2.2018.15157.240.2.2055qnll.dns.facebook.com
 0.0.0.0 157.240.2.2055qnll.dns.facebook.com
 0.0.0.0 202.2055qnll.dns.facebook.com
 0.0.0.0 2.202.2055qnll.dns.facebook.com
@@ -1199,6 +1206,7 @@
 0.0.0.0 ne-np.ar-ar.dns.facebook.com
 0.0.0.0 nl-nl.ar-ar.dns.facebook.com
 0.0.0.0 nn-no.ar-ar.dns.facebook.com
+0.0.0.0 pay.ar-ar.dns.facebook.com
 0.0.0.0 pl-pl.ar-ar.dns.facebook.com
 0.0.0.0 ar-ar.pl-pl.ar-ar.dns.facebook.com
 0.0.0.0 es-la.pl-pl.ar-ar.dns.facebook.com
@@ -1469,6 +1477,7 @@
 0.0.0.0 ja-ks.dns.facebook.com
 0.0.0.0 jguuc5.dns.facebook.com
 0.0.0.0 jv-id.dns.facebook.com
+0.0.0.0 pay.jv-id.dns.facebook.com
 0.0.0.0 ko-kr.dns.facebook.com
 0.0.0.0 ar-ar.ko-kr.dns.facebook.com
 0.0.0.0 developers.hu-hu.ko-kr.dns.facebook.com
@@ -17972,11 +17981,81 @@
 0.0.0.0 zh-cn.zh-tw.es-la.fr-fr.prod.facebook.com
 0.0.0.0 www.fr-ca.fr-fr.prod.facebook.com
 0.0.0.0 fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 af-za.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 www.apps.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ar-ar.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 bg-bg.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 bs-ba.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ca-es.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 cs-cz.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 da-dk.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 de-de.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 el-gr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 en-gb.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 es-es.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 es-la.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 et-ee.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 fb-lt.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 fi-fi.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 de-de.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 fi-fi.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 fr-fr.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 it-it.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 nl-nl.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 pl-pl.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ro-ro.fr-ca.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 www.fr-ca.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 fr-fr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 hi-in.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 hr-hr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 hu-hu.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 id-id.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 is-is.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 it-it.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ja-jp.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 km-kh.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ko-kr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ku-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 lt-lt.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ms-my.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 nb-no.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 nl-be.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 nl-nl.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 pl-pl.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 pt-br.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 pt-pt.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ro-ro.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 es-la.ro-ro.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ru-ru.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sk-sk.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sl-si.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sq-al.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sr-rs.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sv-se.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 www.sv-se.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sw-ke.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 th-th.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 tl-ph.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 ar-ar.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 de-de.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 fr-fr.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 hi-in.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 it-it.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 nl-nl.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 www.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 zh-cn.tr-tr.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 uk-ua.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 vi-vn.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 www.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 zh-cn.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 www.zh-cn.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 zh-cn.zh-cn.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 zh-hk.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 zh-tw.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 en-gb.zh-tw.fr-fr.fr-fr.prod.facebook.com
+0.0.0.0 sk-sk.zh-tw.fr-fr.fr-fr.prod.facebook.com
 0.0.0.0 www.hr-hr.fr-fr.prod.facebook.com
 0.0.0.0 ar-ar.id-id.fr-fr.prod.facebook.com
 0.0.0.0 www.id-id.fr-fr.prod.facebook.com
@@ -19989,6 +20068,7 @@
 0.0.0.0 www.careerconnections.fb.com
 0.0.0.0 cdp.fb.com
 0.0.0.0 www.cdp.fb.com
+0.0.0.0 ceii.fb.com
 0.0.0.0 cityguides.fb.com
 0.0.0.0 www.cityguides.fb.com
 0.0.0.0 classof2020.fb.com
@@ -20010,6 +20090,7 @@
 0.0.0.0 counterspeech.fb.com
 0.0.0.0 www.counterspeech.fb.com
 0.0.0.0 creative.fb.com
+0.0.0.0 creativehub.fb.com
 0.0.0.0 phabricator.cstools.fb.com
 0.0.0.0 phabricatorfiles.cstools.fb.com
 0.0.0.0 datacenters.fb.com
@@ -20096,6 +20177,7 @@
 0.0.0.0 facebookatunga.fb.com
 0.0.0.0 www.facebookatunga.fb.com
 0.0.0.0 facebookbrand-2018.fb.com
+0.0.0.0 ap-south-1.facebookbrand-2018.fb.com
 0.0.0.0 ar.facebookbrand-2018.fb.com
 0.0.0.0 ar-insidefeed.facebookbrand-2018.fb.com
 0.0.0.0 ar-preprod.facebookbrand-2018.fb.com
@@ -20317,6 +20399,7 @@
 0.0.0.0 es.facebookbrand-dev.fb.com
 0.0.0.0 es-la.facebookbrand-dev.fb.com
 0.0.0.0 fava.facebookbrand-dev.fb.com
+0.0.0.0 wmx4.fava.facebookbrand-dev.fb.com
 0.0.0.0 files.facebookbrand-dev.fb.com
 0.0.0.0 foodvaccine.facebookbrand-dev.fb.com
 0.0.0.0 fr.facebookbrand-dev.fb.com
@@ -20355,6 +20438,7 @@
 0.0.0.0 vi-vn.facebookbrand-dev.fb.com
 0.0.0.0 virusdesk.facebookbrand-dev.fb.com
 0.0.0.0 www.facebookbrand-dev.fb.com
+0.0.0.0 edelweis.www.facebookbrand-dev.fb.com
 0.0.0.0 www-newsroom.facebookbrand-dev.fb.com
 0.0.0.0 www-qcg14.facebookbrand-dev.fb.com
 0.0.0.0 zh-hans.facebookbrand-dev.fb.com
@@ -20539,6 +20623,9 @@
 0.0.0.0 villacorona.facebookbrand-release.fb.com
 0.0.0.0 viruses.facebookbrand-release.fb.com
 0.0.0.0 www.facebookbrand-release.fb.com
+0.0.0.0 covid-survey.www.facebookbrand-release.fb.com
+0.0.0.0 demotrainingportal.www.facebookbrand-release.fb.com
+0.0.0.0 ds1.www.facebookbrand-release.fb.com
 0.0.0.0 wwwaprenda-usdev.facebookbrand-release.fb.com
 0.0.0.0 zh-hans.facebookbrand-release.fb.com
 0.0.0.0 zh-hant.facebookbrand-release.fb.com
