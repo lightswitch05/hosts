@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-04-24T13:05:22+00:00
-# Count: 28811 domains
+# Released: 2022-04-25T01:05:22+00:00
+# Count: 28888 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1636,6 +1636,7 @@
 0.0.0.0 edge-mqtt-mini-shv-01-lis1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-maa2.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-sea1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-sof1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-02-bom1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-02-hkg4.facebook.com
@@ -3854,6 +3855,7 @@
 0.0.0.0 fr-fr.apps.es-la.fbjs.facebook.com
 0.0.0.0 ja-jp.apps.es-la.fbjs.facebook.com
 0.0.0.0 zh-cn.apps.es-la.fbjs.facebook.com
+0.0.0.0 ar-ar.es-la.fbjs.facebook.com
 0.0.0.0 ar-ar.ar-ar.es-la.fbjs.facebook.com
 0.0.0.0 www.ar-ar.ar-ar.es-la.fbjs.facebook.com
 0.0.0.0 zh-cn.ar-ar.ar-ar.es-la.fbjs.facebook.com
@@ -5590,6 +5592,10 @@
 0.0.0.0 www.fb-lt.it-it.fbjs.facebook.com
 0.0.0.0 www.fi-fi.it-it.fbjs.facebook.com
 0.0.0.0 fr-ca.it-it.fbjs.facebook.com
+0.0.0.0 de-de.fr-ca.it-it.fbjs.facebook.com
+0.0.0.0 es-la.fr-ca.it-it.fbjs.facebook.com
+0.0.0.0 fr-fr.fr-ca.it-it.fbjs.facebook.com
+0.0.0.0 it-it.fr-ca.it-it.fbjs.facebook.com
 0.0.0.0 pt-br.fr-ca.it-it.fbjs.facebook.com
 0.0.0.0 www.fr-ca.it-it.fbjs.facebook.com
 0.0.0.0 fr-fr.it-it.fbjs.facebook.com
@@ -5603,10 +5609,81 @@
 0.0.0.0 www.he-il.it-it.fbjs.facebook.com
 0.0.0.0 zh-cn.id-id.it-it.fbjs.facebook.com
 0.0.0.0 it-it.it-it.fbjs.facebook.com
+0.0.0.0 af-za.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ar-ar.it-it.it-it.fbjs.facebook.com
+0.0.0.0 az-az.it-it.it-it.fbjs.facebook.com
+0.0.0.0 bg-bg.it-it.it-it.fbjs.facebook.com
+0.0.0.0 bn-in.it-it.it-it.fbjs.facebook.com
+0.0.0.0 bs-ba.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ca-es.it-it.it-it.fbjs.facebook.com
+0.0.0.0 cs-cz.it-it.it-it.fbjs.facebook.com
+0.0.0.0 cy-gb.it-it.it-it.fbjs.facebook.com
+0.0.0.0 da-dk.it-it.it-it.fbjs.facebook.com
+0.0.0.0 de-de.it-it.it-it.fbjs.facebook.com
+0.0.0.0 el-gr.it-it.it-it.fbjs.facebook.com
+0.0.0.0 en-gb.it-it.it-it.fbjs.facebook.com
+0.0.0.0 en-pi.it-it.it-it.fbjs.facebook.com
+0.0.0.0 es-es.it-it.it-it.fbjs.facebook.com
+0.0.0.0 es-la.it-it.it-it.fbjs.facebook.com
+0.0.0.0 et-ee.it-it.it-it.fbjs.facebook.com
+0.0.0.0 fi-fi.it-it.it-it.fbjs.facebook.com
+0.0.0.0 fo-fo.it-it.it-it.fbjs.facebook.com
+0.0.0.0 fr-ca.it-it.it-it.fbjs.facebook.com
+0.0.0.0 fr-fr.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ga-ie.it-it.it-it.fbjs.facebook.com
+0.0.0.0 he-il.it-it.it-it.fbjs.facebook.com
+0.0.0.0 hi-in.it-it.it-it.fbjs.facebook.com
+0.0.0.0 hr-hr.it-it.it-it.fbjs.facebook.com
+0.0.0.0 hu-hu.it-it.it-it.fbjs.facebook.com
+0.0.0.0 hy-am.it-it.it-it.fbjs.facebook.com
+0.0.0.0 id-id.it-it.it-it.fbjs.facebook.com
+0.0.0.0 is-is.it-it.it-it.fbjs.facebook.com
 0.0.0.0 it-it.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ja-jp.it-it.it-it.fbjs.facebook.com
+0.0.0.0 jv-id.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ka-ge.it-it.it-it.fbjs.facebook.com
+0.0.0.0 km-kh.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ko-kr.it-it.it-it.fbjs.facebook.com
+0.0.0.0 la-va.it-it.it-it.fbjs.facebook.com
+0.0.0.0 lt-lt.it-it.it-it.fbjs.facebook.com
+0.0.0.0 pt-br.lt-lt.it-it.it-it.fbjs.facebook.com
+0.0.0.0 www.lt-lt.it-it.it-it.fbjs.facebook.com
+0.0.0.0 zh-cn.lt-lt.it-it.it-it.fbjs.facebook.com
+0.0.0.0 m.it-it.it-it.fbjs.facebook.com
+0.0.0.0 mk-mk.it-it.it-it.fbjs.facebook.com
+0.0.0.0 mr-in.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ms-my.it-it.it-it.fbjs.facebook.com
+0.0.0.0 mt-mt.it-it.it-it.fbjs.facebook.com
+0.0.0.0 my-mm.it-it.it-it.fbjs.facebook.com
+0.0.0.0 nb-no.it-it.it-it.fbjs.facebook.com
+0.0.0.0 nl-be.it-it.it-it.fbjs.facebook.com
+0.0.0.0 nl-nl.it-it.it-it.fbjs.facebook.com
+0.0.0.0 nn-no.it-it.it-it.fbjs.facebook.com
+0.0.0.0 pl-pl.it-it.it-it.fbjs.facebook.com
 0.0.0.0 pt-br.it-it.it-it.fbjs.facebook.com
+0.0.0.0 pt-pt.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ro-ro.it-it.it-it.fbjs.facebook.com
+0.0.0.0 es-es.ro-ro.it-it.it-it.fbjs.facebook.com
 0.0.0.0 es-la.ro-ro.it-it.it-it.fbjs.facebook.com
+0.0.0.0 it-it.ro-ro.it-it.it-it.fbjs.facebook.com
+0.0.0.0 www.ro-ro.it-it.it-it.fbjs.facebook.com
+0.0.0.0 zh-cn.ro-ro.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ru-ru.it-it.it-it.fbjs.facebook.com
+0.0.0.0 sk-sk.it-it.it-it.fbjs.facebook.com
+0.0.0.0 sq-al.it-it.it-it.fbjs.facebook.com
+0.0.0.0 sr-rs.it-it.it-it.fbjs.facebook.com
+0.0.0.0 sv-se.it-it.it-it.fbjs.facebook.com
+0.0.0.0 sw-ke.it-it.it-it.fbjs.facebook.com
+0.0.0.0 ta-in.it-it.it-it.fbjs.facebook.com
+0.0.0.0 th-th.it-it.it-it.fbjs.facebook.com
+0.0.0.0 tl-ph.it-it.it-it.fbjs.facebook.com
+0.0.0.0 tr-tr.it-it.it-it.fbjs.facebook.com
+0.0.0.0 uk-ua.it-it.it-it.fbjs.facebook.com
+0.0.0.0 vi-vn.it-it.it-it.fbjs.facebook.com
 0.0.0.0 www.it-it.it-it.fbjs.facebook.com
+0.0.0.0 zh-cn.it-it.it-it.fbjs.facebook.com
+0.0.0.0 zh-hk.it-it.it-it.fbjs.facebook.com
+0.0.0.0 zh-tw.it-it.it-it.fbjs.facebook.com
 0.0.0.0 de-de.ja-jp.it-it.fbjs.facebook.com
 0.0.0.0 fr-fr.ja-jp.it-it.fbjs.facebook.com
 0.0.0.0 it-it.ja-jp.it-it.fbjs.facebook.com
