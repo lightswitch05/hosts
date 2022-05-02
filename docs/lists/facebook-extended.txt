@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-05-01T13:05:22+00:00
-# Count: 28886 domains
+# Released: 2022-05-02T01:05:22+00:00
+# Count: 28894 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -211,6 +211,7 @@
 0.0.0.0 scontent-xsp1-3.cdninstagram.com
 0.0.0.0 scontent-yyz1-1.cdninstagram.com
 0.0.0.0 scontent-zrh1-1.cdninstagram.com
+0.0.0.0 static.cdninstagram.com
 0.0.0.0 video.cdninstagram.com
 0.0.0.0 video-ams4-1.cdninstagram.com
 0.0.0.0 video-amt2-1.cdninstagram.com
@@ -344,16 +345,21 @@
 0.0.0.0 z-p4-scontent-sin6-4.cdninstagram.com
 0.0.0.0 z-p4-scontent-vie1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-xsp1-2.cdninstagram.com
+0.0.0.0 z-p42-dragon.cdninstagram.com
+0.0.0.0 z-p42-external-iad.cdninstagram.com
+0.0.0.0 z-p42-platform.cdninstagram.com
 0.0.0.0 z-p42-scontent.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-hkg4-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-hkg4-2.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-hkt1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-hkt1-2.cdninstagram.com
+0.0.0.0 z-p42-scontent-a-iad.cdninstagram.com
 0.0.0.0 z-p42-scontent-a-mct1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-hkg4-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-hkg4-2.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-hkt1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-hkt1-2.cdninstagram.com
+0.0.0.0 z-p42-scontent-b-iad.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-mct1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-sjc3-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-cdt1-1.cdninstagram.com
@@ -379,6 +385,7 @@
 0.0.0.0 z-p42-scontent-prg1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-sea1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-sof1-2.cdninstagram.com
+0.0.0.0 z-p42-static-iad.cdninstagram.com
 0.0.0.0 ww16.americantvevents.whatsapp.com----m.com
 0.0.0.0 ww16.events.apmagents.whatsapp.com----m.com
 0.0.0.0 ww16.canadacentral.whatsapp.com----m.com
@@ -23244,6 +23251,7 @@
 0.0.0.0 limited-sni-prod.giphy.map.fastly.net
 0.0.0.0 prod.giphy.map.fastly.net
 0.0.0.0 fbcdn.net
+0.0.0.0 api.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-cdg2.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-den4.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-hkt1.fbcdn.net
