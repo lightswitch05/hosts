@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-08-16T01:05:23+00:00
-# Count: 29878 domains
+# Released: 2022-08-17T01:05:23+00:00
+# Count: 29921 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -172,11 +172,13 @@
 0.0.0.0 scontent-mrs2-1.cdninstagram.com
 0.0.0.0 scontent-mrs2-2.cdninstagram.com
 0.0.0.0 scontent-msp1-1.cdninstagram.com
+0.0.0.0 scontent-mty2-1.cdninstagram.com
 0.0.0.0 scontent-muc2-1.cdninstagram.com
 0.0.0.0 scontent-mxp1-1.cdninstagram.com
 0.0.0.0 scontent-mxp2-1.cdninstagram.com
 0.0.0.0 scontent-nrt.cdninstagram.com
 0.0.0.0 scontent-nrt1-1.cdninstagram.com
+0.0.0.0 scontent-ord5-1.cdninstagram.com
 0.0.0.0 scontent-ort2-1.cdninstagram.com
 0.0.0.0 scontent-ort2-2.cdninstagram.com
 0.0.0.0 scontent-otp1-1.cdninstagram.com
@@ -274,6 +276,7 @@
 0.0.0.0 video-mty2-1.cdninstagram.com
 0.0.0.0 video-mxp1-1.cdninstagram.com
 0.0.0.0 video-nrt1-1.cdninstagram.com
+0.0.0.0 video-ord5-1.cdninstagram.com
 0.0.0.0 video-ort2-1.cdninstagram.com
 0.0.0.0 video-ort2-2.cdninstagram.com
 0.0.0.0 video-otp1-1.cdninstagram.com
@@ -291,6 +294,7 @@
 0.0.0.0 video-tpe1-1.cdninstagram.com
 0.0.0.0 video-vie1-1.cdninstagram.com
 0.0.0.0 video-waw1-1.cdninstagram.com
+0.0.0.0 video-xsp1-1.cdninstagram.com
 0.0.0.0 video-xsp1-2.cdninstagram.com
 0.0.0.0 video-yyz1-1.cdninstagram.com
 0.0.0.0 video-zrh1-1.cdninstagram.com
@@ -315,6 +319,7 @@
 0.0.0.0 z-p4-scontent-a-hkt1-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-a-hkt1-2.cdninstagram.com
 0.0.0.0 z-p4-scontent-a-mct1-1.cdninstagram.com
+0.0.0.0 z-p4-scontent-ams2-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-ams4-1.cdninstagram.com
 0.0.0.0 z-p4-scontent-arn2-2.cdninstagram.com
 0.0.0.0 z-p4-scontent-b-hkg4-1.cdninstagram.com
@@ -425,9 +430,6 @@
 0.0.0.0 block-test.developerdan.com
 0.0.0.0 www.block-test.developerdan.com
 0.0.0.0 block-test-facebook.developerdan.com
-0.0.0.0 diem.diem--facebook.com
-0.0.0.0 down.diem--facebook.com
-0.0.0.0 www.diem--facebook.com
 0.0.0.0 facebook.com
 0.0.0.0 0.facebook.com
 0.0.0.0 m.0.facebook.com
@@ -1291,7 +1293,9 @@
 0.0.0.0 awh1h1q7.dns.facebook.com
 0.0.0.0 azure.dns.facebook.com
 0.0.0.0 7sgdpm.azure.dns.facebook.com
+0.0.0.0 beta-apiaccount-budzes.dns.facebook.com
 0.0.0.0 bg-bg.dns.facebook.com
+0.0.0.0 blogs.dns.facebook.com
 0.0.0.0 c9s87p.dns.facebook.com
 0.0.0.0 cld74u.dns.facebook.com
 0.0.0.0 da-dk.dns.facebook.com
@@ -16676,6 +16680,22 @@
 0.0.0.0 www.ar-ar.af-za.developers.prod.facebook.com
 0.0.0.0 www.af-za.developers.prod.facebook.com
 0.0.0.0 apps.developers.prod.facebook.com
+0.0.0.0 ar-ar.apps.developers.prod.facebook.com
+0.0.0.0 bg-bg.apps.developers.prod.facebook.com
+0.0.0.0 de-de.apps.developers.prod.facebook.com
+0.0.0.0 en-gb.apps.developers.prod.facebook.com
+0.0.0.0 es-es.apps.developers.prod.facebook.com
+0.0.0.0 es-la.apps.developers.prod.facebook.com
+0.0.0.0 fr-fr.apps.developers.prod.facebook.com
+0.0.0.0 hi-in.apps.developers.prod.facebook.com
+0.0.0.0 id-id.apps.developers.prod.facebook.com
+0.0.0.0 it-it.apps.developers.prod.facebook.com
+0.0.0.0 ko-kr.apps.developers.prod.facebook.com
+0.0.0.0 pt-br.apps.developers.prod.facebook.com
+0.0.0.0 ro-ro.apps.developers.prod.facebook.com
+0.0.0.0 sk-sk.apps.developers.prod.facebook.com
+0.0.0.0 www.apps.developers.prod.facebook.com
+0.0.0.0 zh-cn.apps.developers.prod.facebook.com
 0.0.0.0 ar-ar.developers.prod.facebook.com
 0.0.0.0 af-za.ar-ar.developers.prod.facebook.com
 0.0.0.0 apps.ar-ar.developers.prod.facebook.com
@@ -16745,6 +16765,7 @@
 0.0.0.0 zh-cn.nb-no.ar-ar.developers.prod.facebook.com
 0.0.0.0 ne-np.ar-ar.developers.prod.facebook.com
 0.0.0.0 nl-be.ar-ar.developers.prod.facebook.com
+0.0.0.0 nn-no.ar-ar.developers.prod.facebook.com
 0.0.0.0 ar-ar.nn-no.ar-ar.developers.prod.facebook.com
 0.0.0.0 de-de.nn-no.ar-ar.developers.prod.facebook.com
 0.0.0.0 en-gb.nn-no.ar-ar.developers.prod.facebook.com
@@ -16834,6 +16855,7 @@
 0.0.0.0 www.fr-fr.az-az.developers.prod.facebook.com
 0.0.0.0 zh-cn.fr-fr.az-az.developers.prod.facebook.com
 0.0.0.0 hi-in.az-az.developers.prod.facebook.com
+0.0.0.0 hr-hr.az-az.developers.prod.facebook.com
 0.0.0.0 it-it.hr-hr.az-az.developers.prod.facebook.com
 0.0.0.0 www.hr-hr.az-az.developers.prod.facebook.com
 0.0.0.0 hu-hu.az-az.developers.prod.facebook.com
@@ -17253,6 +17275,7 @@
 0.0.0.0 it-it.hu-hu.it-it.developers.prod.facebook.com
 0.0.0.0 www.hu-hu.it-it.developers.prod.facebook.com
 0.0.0.0 is-is.it-it.developers.prod.facebook.com
+0.0.0.0 it-it.it-it.developers.prod.facebook.com
 0.0.0.0 www.it-it.it-it.developers.prod.facebook.com
 0.0.0.0 www.ja-jp.it-it.developers.prod.facebook.com
 0.0.0.0 ja-ks.it-it.developers.prod.facebook.com
@@ -17420,6 +17443,7 @@
 0.0.0.0 www.pl-pl.ko-kr.developers.prod.facebook.com
 0.0.0.0 pt-br.ko-kr.developers.prod.facebook.com
 0.0.0.0 ro-ro.ko-kr.developers.prod.facebook.com
+0.0.0.0 ru-ru.ko-kr.developers.prod.facebook.com
 0.0.0.0 si-lk.ko-kr.developers.prod.facebook.com
 0.0.0.0 sk-sk.ko-kr.developers.prod.facebook.com
 0.0.0.0 www.sk-sk.ko-kr.developers.prod.facebook.com
@@ -17576,6 +17600,7 @@
 0.0.0.0 km-kh.nl-nl.developers.prod.facebook.com
 0.0.0.0 it-it.pt-pt.nl-nl.developers.prod.facebook.com
 0.0.0.0 www.pt-pt.nl-nl.developers.prod.facebook.com
+0.0.0.0 pl-pl.developers.prod.facebook.com
 0.0.0.0 fr-fr.en-gb.pl-pl.developers.prod.facebook.com
 0.0.0.0 fr-fr.pl-pl.developers.prod.facebook.com
 0.0.0.0 en-gb.fr-fr.pl-pl.developers.prod.facebook.com
@@ -20754,6 +20779,7 @@
 0.0.0.0 ash-fsoutpost.fb.com
 0.0.0.0 ash-vsp.fb.com
 0.0.0.0 audience.fb.com
+0.0.0.0 audio360.fb.com
 0.0.0.0 australia.fb.com
 0.0.0.0 www.australia.fb.com
 0.0.0.0 autodiscover.fb.com
@@ -20888,6 +20914,7 @@
 0.0.0.0 facebookbrand-2018.fb.com
 0.0.0.0 ap-south-1.facebookbrand-2018.fb.com
 0.0.0.0 bcp.ap-south-1.facebookbrand-2018.fb.com
+0.0.0.0 4.bcp.ap-south-1.facebookbrand-2018.fb.com
 0.0.0.0 ar.facebookbrand-2018.fb.com
 0.0.0.0 ar-insidefeed.facebookbrand-2018.fb.com
 0.0.0.0 ar-preprod.facebookbrand-2018.fb.com
@@ -21232,6 +21259,7 @@
 0.0.0.0 nl-dec.facebookbrand-preprod.fb.com
 0.0.0.0 nosemask.facebookbrand-preprod.fb.com
 0.0.0.0 openg.facebookbrand-preprod.fb.com
+0.0.0.0 www.openg.facebookbrand-preprod.fb.com
 0.0.0.0 pandemia.facebookbrand-preprod.fb.com
 0.0.0.0 pandemicflu.facebookbrand-preprod.fb.com
 0.0.0.0 pdf-www.facebookbrand-preprod.fb.com
@@ -21256,6 +21284,10 @@
 0.0.0.0 virusarnold6.facebookbrand-preprod.fb.com
 0.0.0.0 viruslex.facebookbrand-preprod.fb.com
 0.0.0.0 www.facebookbrand-preprod.fb.com
+0.0.0.0 active.www.facebookbrand-preprod.fb.com
+0.0.0.0 api.www.facebookbrand-preprod.fb.com
+0.0.0.0 firewall.www.facebookbrand-preprod.fb.com
+0.0.0.0 prod.www.facebookbrand-preprod.fb.com
 0.0.0.0 www-wmx41.facebookbrand-preprod.fb.com
 0.0.0.0 wwwlearn-us-preprod.facebookbrand-preprod.fb.com
 0.0.0.0 xmaskaradax.facebookbrand-preprod.fb.com
@@ -21265,6 +21297,7 @@
 0.0.0.0 facebookbrand-release.fb.com
 0.0.0.0 0001sexybya.facebookbrand-release.fb.com
 0.0.0.0 2fa.facebookbrand-release.fb.com
+0.0.0.0 swagger.2fa.facebookbrand-release.fb.com
 0.0.0.0 7-zh-hancms1.facebookbrand-release.fb.com
 0.0.0.0 9i.facebookbrand-release.fb.com
 0.0.0.0 admcoronarytorture.facebookbrand-release.fb.com
@@ -21299,6 +21332,7 @@
 0.0.0.0 de.facebookbrand-release.fb.com
 0.0.0.0 demochef-kr.facebookbrand-release.fb.com
 0.0.0.0 dii.facebookbrand-release.fb.com
+0.0.0.0 lojaexperts.dii.facebookbrand-release.fb.com
 0.0.0.0 distance-learning.facebookbrand-release.fb.com
 0.0.0.0 docker-www.facebookbrand-release.fb.com
 0.0.0.0 ecss.facebookbrand-release.fb.com
@@ -21319,6 +21353,7 @@
 0.0.0.0 korona-karpat.facebookbrand-release.fb.com
 0.0.0.0 l1-usuat.facebookbrand-release.fb.com
 0.0.0.0 live.facebookbrand-release.fb.com
+0.0.0.0 www.live.facebookbrand-release.fb.com
 0.0.0.0 mascara.facebookbrand-release.fb.com
 0.0.0.0 maskan.facebookbrand-release.fb.com
 0.0.0.0 maskingdom.facebookbrand-release.fb.com
@@ -21478,6 +21513,7 @@
 0.0.0.0 www.mexico.fb.com
 0.0.0.0 middlemileinfra.fb.com
 0.0.0.0 my-od-3.fb.com
+0.0.0.0 myanmar.fb.com
 0.0.0.0 mydigitalworld.fb.com
 0.0.0.0 n.fb.com
 0.0.0.0 newsfeed.fb.com
@@ -23193,6 +23229,7 @@
 0.0.0.0 sequarantine.messenger.com
 0.0.0.0 si.messenger.com
 0.0.0.0 signal.messenger.com
+0.0.0.0 www.signal.messenger.com
 0.0.0.0 sk.messenger.com
 0.0.0.0 sk-sk.messenger.com
 0.0.0.0 skype.messenger.com
@@ -23309,6 +23346,7 @@
 0.0.0.0 zh-cn.messenger.com
 0.0.0.0 www.zh-cn.messenger.com
 0.0.0.0 meta.com
+0.0.0.0 accountscenter.meta.com
 0.0.0.0 auth.meta.com
 0.0.0.0 store.meta.com
 0.0.0.0 www.meta.com
@@ -23623,6 +23661,7 @@
 0.0.0.0 blackmask.fb.me
 0.0.0.0 blackmask-1.fb.me
 0.0.0.0 blackmask1.fb.me
+0.0.0.0 blog.fb.me
 0.0.0.0 blogs.fb.me
 0.0.0.0 bqdlot1ghj5uzk8wp4920sfvnr3iameycx76.fb.me
 0.0.0.0 braph.fb.me
@@ -23822,6 +23861,7 @@
 0.0.0.0 more.fb.me
 0.0.0.0 muhunupothamuluthange.fb.me
 0.0.0.0 naverjp.fb.me
+0.0.0.0 net-cdn.fb.me
 0.0.0.0 noload.fb.me
 0.0.0.0 o78kabp5s6gmirctxl3y0dfehquw1vj2n4z9.fb.me
 0.0.0.0 on.fb.me
@@ -23864,14 +23904,17 @@
 0.0.0.0 thekafkapandemic.fb.me
 0.0.0.0 thomaskeble.fb.me
 0.0.0.0 thomaskonrad.fb.me
+0.0.0.0 tomcat-comwww.fb.me
 0.0.0.0 traph.fb.me
 0.0.0.0 truevisions.tv.fb.me
 0.0.0.0 anywhere.truevisions.tv.fb.me
 0.0.0.0 u00252fon.fb.me
 0.0.0.0 u002fon.fb.me
+0.0.0.0 uk-ua.fb.me
 0.0.0.0 un4eyptbvrhkg02l35iqc71xdjm6faos98zw.fb.me
 0.0.0.0 vaccine-test.fb.me
 0.0.0.0 vin2.fb.me
+0.0.0.0 virginmedia.fb.me
 0.0.0.0 virus-xy.fb.me
 0.0.0.0 viruscomix.fb.me
 0.0.0.0 virusdesk.fb.me
