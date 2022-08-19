@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-08-18T01:05:23+00:00
-# Count: 29922 domains
+# Released: 2022-08-19T01:05:23+00:00
+# Count: 29943 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -1657,19 +1657,24 @@
 0.0.0.0 edge-fblite-tcp-p1-shv-01-any2.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-01-frx5.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-01-hkt1.facebook.com
+0.0.0.0 edge-fblite-tcp-p1-shv-01-lhr8.facebook.com
+0.0.0.0 edge-fblite-tcp-p1-shv-01-man2.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-01-xsp1.facebook.com
+0.0.0.0 edge-fblite-tcp-p1-shv-01-zrh1.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-02-cgk1.facebook.com
 0.0.0.0 edge-fblite-tcp-p1-shv-02-xsp1.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-01-frx5.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-01-ort2.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-02-hkt1.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-02-mrs2.facebook.com
+0.0.0.0 edge-fwdproxy-3-bgp-01-arn2.facebook.com
 0.0.0.0 edge-fwdproxy-3-bgp-01-dfw5.facebook.com
 0.0.0.0 edge-fwdproxy-3-bgp-01-ort2.facebook.com
 0.0.0.0 edge-fwdproxy-3-bgp-02-mrs2.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-01-kut2.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-01-mba1.facebook.com
 0.0.0.0 edge-ig-mqtt-p4-shv-02-mia3.facebook.com
+0.0.0.0 edge-iglite-p42-shv-01-atl3.facebook.com
 0.0.0.0 edge-iglite-p42-shv-01-ccu1.facebook.com
 0.0.0.0 edge-latest-shv-01-dus1.facebook.com
 0.0.0.0 edge-latest-shv-01-eze1.facebook.com
@@ -16572,6 +16577,7 @@
 0.0.0.0 www.it-it.de-de.prod.facebook.com
 0.0.0.0 zh-cn.it-it.de-de.prod.facebook.com
 0.0.0.0 th-th.de-de.prod.facebook.com
+0.0.0.0 about.th-th.de-de.prod.facebook.com
 0.0.0.0 af-za.th-th.de-de.prod.facebook.com
 0.0.0.0 ar-ar.th-th.de-de.prod.facebook.com
 0.0.0.0 as-in.th-th.de-de.prod.facebook.com
@@ -20373,6 +20379,7 @@
 0.0.0.0 seattleymca.facebook.com
 0.0.0.0 secure.facebook.com
 0.0.0.0 graph.secure.facebook.com
+0.0.0.0 secure-edge-latest-shv-01-fml1.facebook.com
 0.0.0.0 secure-edge-latest-shv-01-jnb1.facebook.com
 0.0.0.0 secure-edge-latest-shv-01-lim1.facebook.com
 0.0.0.0 secure-edge-latest-shv-01-vie1.facebook.com
@@ -20477,6 +20484,7 @@
 0.0.0.0 true.facebook.com
 0.0.0.0 trunkstable.facebook.com
 0.0.0.0 secure.trunkstable.facebook.com
+0.0.0.0 dailymail.secure.trunkstable.facebook.com
 0.0.0.0 tt-ru.facebook.com
 0.0.0.0 turnup-graph.facebook.com
 0.0.0.0 twitter.facebook.com
@@ -20590,12 +20598,14 @@
 0.0.0.0 whatsapp-chatd-msgr-mini-edge-shv-01-lga3.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-mini-edge-shv-01-ort2.facebook.com
 0.0.0.0 whatsapp-chatd-msgr-mini-edge-shv-01-sea1.facebook.com
+0.0.0.0 whatsapp-chatd-msgr-p4-edge-shv-04-sin6.facebook.com
 0.0.0.0 wistron.facebook.com
 0.0.0.0 wit-edge-shv-01-any2.facebook.com
 0.0.0.0 wit-edge-shv-01-gru1.facebook.com
 0.0.0.0 wit-edge-shv-01-hkt1.facebook.com
 0.0.0.0 wit-edge-shv-01-mad1.facebook.com
 0.0.0.0 wit-edge-shv-01-msp1.facebook.com
+0.0.0.0 wit-edge-shv-01-ort2.facebook.com
 0.0.0.0 work.facebook.com
 0.0.0.0 work-21212799.facebook.com
 0.0.0.0 work-29215626.facebook.com
@@ -20959,7 +20969,18 @@
 0.0.0.0 zh-hans.facebookbrand-2018.fb.com
 0.0.0.0 zh-hant.facebookbrand-2018.fb.com
 0.0.0.0 facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-04atakoyxrst2102esenkentt31.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-09zh.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-0yd12pantivirus-extension.facebookbrand-2018-dev.fb.com
 0.0.0.0 0-0-ads-transparency.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-ads-transparency-071ee8838b58fac5.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-ads-transparency-0fs1tf300gayrettepexrst2104bagcilart31.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-ads-transparency-5p2qz.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-ads-transparency-mrc53.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-ads-transparency-nai92.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-ads-transparencycob87-1-88-179-90-136.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-api-02d20ad797614c3ab9c24e5a9992fd2c.facebookbrand-2018-dev.fb.com
+0.0.0.0 0-0-api-0b60e520yktfblty25ner5lf1i.facebookbrand-2018-dev.fb.com
 0.0.0.0 000-a38.facebookbrand-2018-dev.fb.com
 0.0.0.0 000654458.facebookbrand-2018-dev.fb.com
 0.0.0.0 000gq.facebookbrand-2018-dev.fb.com
