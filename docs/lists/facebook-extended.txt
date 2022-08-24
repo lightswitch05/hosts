@@ -1,6 +1,6 @@
 # Title: Lightswitch05's facebook-extended.txt
-# Released: 2022-08-19T01:05:23+00:00
-# Count: 29943 domains
+# Released: 2022-08-24T01:05:23+00:00
+# Count: 29961 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
@@ -178,6 +178,7 @@
 0.0.0.0 scontent-mxp2-1.cdninstagram.com
 0.0.0.0 scontent-nrt.cdninstagram.com
 0.0.0.0 scontent-nrt1-1.cdninstagram.com
+0.0.0.0 scontent-ord.cdninstagram.com
 0.0.0.0 scontent-ord5-1.cdninstagram.com
 0.0.0.0 scontent-ort2-1.cdninstagram.com
 0.0.0.0 scontent-ort2-2.cdninstagram.com
@@ -256,6 +257,7 @@
 0.0.0.0 video-iad.cdninstagram.com
 0.0.0.0 video-iad3-1.cdninstagram.com
 0.0.0.0 video-iad3-2.cdninstagram.com
+0.0.0.0 video-jnb1-1.cdninstagram.com
 0.0.0.0 video-lax3-1.cdninstagram.com
 0.0.0.0 video-lax3-2.cdninstagram.com
 0.0.0.0 video-lcy1-1.cdninstagram.com
@@ -1701,6 +1703,7 @@
 0.0.0.0 edge-mqtt-mini-shv-01-lcy1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-lis1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-maa2.facebook.com
+0.0.0.0 edge-mqtt-mini-shv-01-mia3.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-otp1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-sea1.facebook.com
 0.0.0.0 edge-mqtt-mini-shv-01-sof1.facebook.com
@@ -1804,6 +1807,7 @@
 0.0.0.0 edge-star-mini-shv-01-lcy1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-lga3.facebook.com
 0.0.0.0 edge-star-mini-shv-01-lhr8.facebook.com
+0.0.0.0 edge-star-mini-shv-01-los2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-maa2.facebook.com
 0.0.0.0 edge-star-mini-shv-01-mba1.facebook.com
 0.0.0.0 edge-star-mini-shv-01-mia3.facebook.com
@@ -1961,6 +1965,7 @@
 0.0.0.0 edge-z-p4-shv-02-maa2.facebook.com
 0.0.0.0 edgeray-cloudgaming-shv-01-gua1.facebook.com
 0.0.0.0 edgeray-cloudgaming-shv-01-lax3.facebook.com
+0.0.0.0 edgeray-msgr-shv-01-dfw5.facebook.com
 0.0.0.0 edgeray-msgr-shv-01-lax3.facebook.com
 0.0.0.0 edgeray-msgr-shv-01-sea1.facebook.com
 0.0.0.0 edgeray-msgr-shv-01-sin6.facebook.com
@@ -5334,12 +5339,18 @@
 0.0.0.0 fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 de-de.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 en-gb.fr-fr.he-il.fbjs.facebook.com
+0.0.0.0 es-es.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 es-la.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 www.es-la.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 fr-fr.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 hi-in.fr-fr.he-il.fbjs.facebook.com
+0.0.0.0 it-it.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 ja-jp.fr-fr.he-il.fbjs.facebook.com
+0.0.0.0 nb-no.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 pt-br.fr-fr.he-il.fbjs.facebook.com
+0.0.0.0 ro-ro.fr-fr.he-il.fbjs.facebook.com
+0.0.0.0 www.fr-fr.he-il.fbjs.facebook.com
+0.0.0.0 zh-cn.fr-fr.he-il.fbjs.facebook.com
 0.0.0.0 de-de.it-it.he-il.fbjs.facebook.com
 0.0.0.0 www.fi-fi.it-it.he-il.fbjs.facebook.com
 0.0.0.0 it-it.it-it.he-il.fbjs.facebook.com
@@ -7694,6 +7705,7 @@
 0.0.0.0 ps-af.apps.ro-ro.fbjs.facebook.com
 0.0.0.0 pt-br.apps.ro-ro.fbjs.facebook.com
 0.0.0.0 pt-pt.apps.ro-ro.fbjs.facebook.com
+0.0.0.0 ro-ro.apps.ro-ro.fbjs.facebook.com
 0.0.0.0 ar-ar.ro-ro.apps.ro-ro.fbjs.facebook.com
 0.0.0.0 bs-ba.ro-ro.apps.ro-ro.fbjs.facebook.com
 0.0.0.0 de-de.ro-ro.apps.ro-ro.fbjs.facebook.com
@@ -21429,6 +21441,7 @@
 0.0.0.0 frc-vsp.fb.com
 0.0.0.0 free.fb.com
 0.0.0.0 frljourneymap.fb.com
+0.0.0.0 www.frljourneymap.fb.com
 0.0.0.0 fs.fb.com
 0.0.0.0 fsoutpost.fb.com
 0.0.0.0 germany.fb.com
@@ -22285,6 +22298,7 @@
 0.0.0.0 apps-208960017476014.fbsbx.com
 0.0.0.0 apps-213452886744894.fbsbx.com
 0.0.0.0 apps-2208063929323716.fbsbx.com
+0.0.0.0 apps-2208704102632327.fbsbx.com
 0.0.0.0 apps-221961353389777.fbsbx.com
 0.0.0.0 apps-226775052419594.fbsbx.com
 0.0.0.0 apps-2288874941417454.fbsbx.com
@@ -22566,6 +22580,8 @@
 0.0.0.0 ripley.fbsbx.com
 0.0.0.0 rsrc.fbsbx.com
 0.0.0.0 sb.fbsbx.com
+0.0.0.0 lucasmendes.sb.fbsbx.com
+0.0.0.0 petertakacs.sb.fbsbx.com
 0.0.0.0 sbx.fbsbx.com
 0.0.0.0 scdn.fbsbx.com
 0.0.0.0 senitopeng.fbsbx.com
@@ -27405,6 +27421,7 @@
 0.0.0.0 fna-instagram-shv-02-fmaa1.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fsac1.fbcdn.net
 0.0.0.0 fna-instagram-shv-03-ffjr1.fbcdn.net
+0.0.0.0 fna-instagram-shv-04-ffjr1.fbcdn.net
 0.0.0.0 fna-instagram-shv-04-fmaa1.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-fbom26.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-ffcm1.fbcdn.net
@@ -27577,6 +27594,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-msp1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-muc2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-nrt1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-ord5.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-ort2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-otp1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-pmo1.fbcdn.net
