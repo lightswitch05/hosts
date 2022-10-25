@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2022-10-24T01:05:25+00:00
-# Count: 22441 domains
+# Released: 2022-10-25T01:05:25+00:00
+# Count: 22460 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -11204,6 +11204,7 @@
 0.0.0.0 www.hoodatingapp.com
 0.0.0.0 hookupabout.com
 0.0.0.0 www.hookupabout.com
+0.0.0.0 hookupking.com
 0.0.0.0 hornyaffairs.com
 0.0.0.0 antispam.hornyaffairs.com
 0.0.0.0 api.hornyaffairs.com
@@ -14368,6 +14369,7 @@
 0.0.0.0 dmz.eks.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 elasticsearch.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 event-tracker.shared-backend.dev.ue1.aws.okcupid.com
+0.0.0.0 imgsrv.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 k8s.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 dmz.k8s.shared-backend.dev.ue1.aws.okcupid.com
 0.0.0.0 kirk.k8s.shared-backend.dev.ue1.aws.okcupid.com
@@ -14736,6 +14738,7 @@
 0.0.0.0 www.originaldating.com
 0.0.0.0 ourdatingjourney.com
 0.0.0.0 admin.ourdatingjourney.com
+0.0.0.0 bs.ourdatingjourney.com
 0.0.0.0 m.ourdatingjourney.com
 0.0.0.0 res.ourdatingjourney.com
 0.0.0.0 www.ourdatingjourney.com
@@ -15328,6 +15331,7 @@
 0.0.0.0 api.usw2.qa.aws.pof.com
 0.0.0.0 gamelobby-signalr.in.azr.pof.com
 0.0.0.0 gamelobby-signalr.pd.azr.pof.com
+0.0.0.0 gamelobby-signalr.qa.azr.pof.com
 0.0.0.0 blog.pof.com
 0.0.0.0 blogs.pof.com
 0.0.0.0 br.pof.com
@@ -20186,6 +20190,8 @@
 0.0.0.0 i-flirt.dating
 0.0.0.0 www.ibiza.dating
 0.0.0.0 ice.dating
+0.0.0.0 back-stage.ice.dating
+0.0.0.0 front-stage.ice.dating
 0.0.0.0 test.ice.dating
 0.0.0.0 test2.ice.dating
 0.0.0.0 webmail.ice.dating
@@ -20208,6 +20214,7 @@
 0.0.0.0 intrigue.dating
 0.0.0.0 jason.dating
 0.0.0.0 jigsaw.dating
+0.0.0.0 cdn.jigsaw.dating
 0.0.0.0 collab.jigsaw.dating
 0.0.0.0 dev.jigsaw.dating
 0.0.0.0 feedback.jigsaw.dating
@@ -20220,6 +20227,7 @@
 0.0.0.0 join.jigsaw.dating
 0.0.0.0 prod.jigsaw.dating
 0.0.0.0 prod-lb.jigsaw.dating
+0.0.0.0 singlestore.jigsaw.dating
 0.0.0.0 tiktok.jigsaw.dating
 0.0.0.0 uat.jigsaw.dating
 0.0.0.0 youtube.jigsaw.dating
@@ -20434,8 +20442,12 @@
 0.0.0.0 dan.neom.dating
 0.0.0.0 neural.dating
 0.0.0.0 check.neural.dating
+0.0.0.0 link.check.neural.dating
 0.0.0.0 click.neural.dating
+0.0.0.0 link.click.neural.dating
 0.0.0.0 email.neural.dating
+0.0.0.0 link.email.neural.dating
+0.0.0.0 link.neural.dating
 0.0.0.0 pmta.neural.dating
 0.0.0.0 sender.neural.dating
 0.0.0.0 link.sender.neural.dating
@@ -20514,12 +20526,15 @@
 0.0.0.0 admin.nuzzle.dating
 0.0.0.0 api.nuzzle.dating
 0.0.0.0 stage.nuzzle.dating
+0.0.0.0 telegram.nuzzle.dating
+0.0.0.0 telegramapi.nuzzle.dating
 0.0.0.0 nzl.dating
 0.0.0.0 cdn.nzl.dating
 0.0.0.0 img.nzl.dating
 0.0.0.0 s.nzl.dating
 0.0.0.0 odessa.dating
 0.0.0.0 ojai.dating
+0.0.0.0 api.ojai.dating
 0.0.0.0 www.ojai.dating
 0.0.0.0 uk.older.dating
 0.0.0.0 oma.dating
@@ -20693,7 +20708,10 @@
 0.0.0.0 www.sexysingles.dating
 0.0.0.0 sfsu.dating
 0.0.0.0 shadi.dating
+0.0.0.0 bettercallheather.com.shadi.dating
 0.0.0.0 creditcardforcollegestudent.com.shadi.dating
+0.0.0.0 jackrabbitshrooms.com.shadi.dating
+0.0.0.0 military-biodefensevaccines.com.shadi.dating
 0.0.0.0 solutioo.com.shadi.dating
 0.0.0.0 vintagetoursoftexas.com.shadi.dating
 0.0.0.0 datingwhy.com.bestoffer.help.shadi.dating
@@ -22432,6 +22450,7 @@
 0.0.0.0 www.bellas.us
 0.0.0.0 quiver.us
 0.0.0.0 app.quiver.us
+0.0.0.0 beta.quiver.us
 0.0.0.0 escapes.quiver.us
 0.0.0.0 inside.quiver.us
 0.0.0.0 realtime.quiver.us
