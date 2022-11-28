@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2022-11-26T01:05:25+00:00
-# Count: 22504 domains
+# Released: 2022-11-28T01:05:26+00:00
+# Count: 22527 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -1651,6 +1651,8 @@
 0.0.0.0 adultwork.com
 0.0.0.0 2fwww.adultwork.com
 0.0.0.0 api.adultwork.com
+0.0.0.0 api-sandbox.adultwork.com
+0.0.0.0 av.adultwork.com
 0.0.0.0 bbw.adultwork.com
 0.0.0.0 blogs.adultwork.com
 0.0.0.0 busty.adultwork.com
@@ -1660,9 +1662,11 @@
 0.0.0.0 ci.adultwork.com
 0.0.0.0 ci2.adultwork.com
 0.0.0.0 clip.adultwork.com
+0.0.0.0 cloudmfs.adultwork.com
 0.0.0.0 cmop.adultwork.com
 0.0.0.0 co.adultwork.com
 0.0.0.0 content.adultwork.com
+0.0.0.0 core.adultwork.com
 0.0.0.0 movies.cs1.adultwork.com
 0.0.0.0 uploads.cs1.adultwork.com
 0.0.0.0 uploadsminio.cs1.adultwork.com
@@ -1671,12 +1675,20 @@
 0.0.0.0 devadmin.adultwork.com
 0.0.0.0 developers.adultwork.com
 0.0.0.0 devtest.adultwork.com
+0.0.0.0 dt-img.adultwork.com
+0.0.0.0 dt-ty1.adultwork.com
+0.0.0.0 dt-ty2.adultwork.com
+0.0.0.0 dt-ty3.adultwork.com
+0.0.0.0 dt-typ.adultwork.com
+0.0.0.0 dt-webapi.adultwork.com
+0.0.0.0 dt-webapp.adultwork.com
 0.0.0.0 dww.adultwork.com
 0.0.0.0 ebay.adultwork.com
 0.0.0.0 errlog.adultwork.com
 0.0.0.0 finest.adultwork.com
 0.0.0.0 groups.adultwork.com
 0.0.0.0 help.adultwork.com
+0.0.0.0 hooks.adultwork.com
 0.0.0.0 httpwww.adultwork.com
 0.0.0.0 hvaw238.adultwork.com
 0.0.0.0 i.adultwork.com
@@ -1694,6 +1706,7 @@
 0.0.0.0 marketing.adultwork.com
 0.0.0.0 me.adultwork.com
 0.0.0.0 mfs.adultwork.com
+0.0.0.0 mfspp.adultwork.com
 0.0.0.0 mfstest.adultwork.com
 0.0.0.0 mobiles.adultwork.com
 0.0.0.0 www.mobiles.adultwork.com
@@ -1717,7 +1730,17 @@
 0.0.0.0 shop.adultwork.com
 0.0.0.0 stream.adultwork.com
 0.0.0.0 ty1.adultwork.com
+0.0.0.0 ty1cap.adultwork.com
+0.0.0.0 ty2cap.adultwork.com
 0.0.0.0 ty3.adultwork.com
+0.0.0.0 ty3cap.adultwork.com
+0.0.0.0 typ.adultwork.com
+0.0.0.0 typ1.adultwork.com
+0.0.0.0 typ2.adultwork.com
+0.0.0.0 typ3.adultwork.com
+0.0.0.0 typcap.adultwork.com
+0.0.0.0 uploads.adultwork.com
+0.0.0.0 vod.adultwork.com
 0.0.0.0 wbc.adultwork.com
 0.0.0.0 wcw.adultwork.com
 0.0.0.0 webapi.adultwork.com
@@ -9573,10 +9596,12 @@
 0.0.0.0 pma.eurogirlsescort.com
 0.0.0.0 pop3.eurogirlsescort.com
 0.0.0.0 smtp2.eurogirlsescort.com
+0.0.0.0 srv-effyie.eurogirlsescort.com
 0.0.0.0 stats.eurogirlsescort.com
 0.0.0.0 test.eurogirlsescort.com
 0.0.0.0 test-owasp.eurogirlsescort.com
 0.0.0.0 track.eurogirlsescort.com
+0.0.0.0 vps-smtp-5nk08.eurogirlsescort.com
 0.0.0.0 www.eurogirlsescort.com
 0.0.0.0 extralunchmoney.com
 0.0.0.0 bestof.extralunchmoney.com
@@ -20700,8 +20725,6 @@
 0.0.0.0 www.relational.dating
 0.0.0.0 riddle.dating
 0.0.0.0 auth.riddle.dating
-0.0.0.0 ring.dating
-0.0.0.0 cpanel.ring.dating
 0.0.0.0 roast.dating
 0.0.0.0 new.roast.dating
 0.0.0.0 ns.roast.dating
