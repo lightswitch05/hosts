@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-01-27T01:05:26+00:00
-# Count: 22505 domains
+# Released: 2023-01-28T01:05:26+00:00
+# Count: 22508 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -13437,7 +13437,9 @@
 0.0.0.0 cf.meetville.com
 0.0.0.0 imap.meetville.com
 0.0.0.0 m.meetville.com
+0.0.0.0 m-stage.meetville.com
 0.0.0.0 mailsender.meetville.com
+0.0.0.0 nsq.meetville.com
 0.0.0.0 api.preprod.meetville.com
 0.0.0.0 scamfinder.meetville.com
 0.0.0.0 api.scamfinder.meetville.com
@@ -13448,6 +13450,7 @@
 0.0.0.0 api.stage.meetville.com
 0.0.0.0 subscribe.meetville.com
 0.0.0.0 web.meetville.com
+0.0.0.0 web-stage.meetville.com
 0.0.0.0 wss.meetville.com
 0.0.0.0 www.meetville.com
 0.0.0.0 meetwild.com
