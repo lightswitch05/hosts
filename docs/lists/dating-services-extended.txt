@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-02-07T01:05:25+00:00
-# Count: 22556 domains
+# Released: 2023-02-09T01:05:25+00:00
+# Count: 22586 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -4721,6 +4721,9 @@
 0.0.0.0 ctc.bumble.com
 0.0.0.0 damtn.bumble.com
 0.0.0.0 data.bumble.com
+0.0.0.0 design.bumble.com
+0.0.0.0 design-badoo.bumble.com
+0.0.0.0 design-bumble.bumble.com
 0.0.0.0 echanges.bumble.com
 0.0.0.0 eu1.bumble.com
 0.0.0.0 fna.bumble.com
@@ -11063,7 +11066,6 @@
 0.0.0.0 mvideo.greendoorlasvegas.com
 0.0.0.0 www.greendoorlasvegas.com
 0.0.0.0 grindr.com
-0.0.0.0 admin.grindr.com
 0.0.0.0 admin-k8s.grindr.com
 0.0.0.0 api.grindr.com
 0.0.0.0 beats-prod.grindr.com
@@ -12888,10 +12890,12 @@
 0.0.0.0 dk.match.com
 0.0.0.0 amp.dk.match.com
 0.0.0.0 ec.match.com
+0.0.0.0 atreveteahora.ec.match.com
 0.0.0.0 elpais.match.com
 0.0.0.0 es.match.com
 0.0.0.0 europe.match.com
 0.0.0.0 pay.europe.match.com
+0.0.0.0 payfront.europe.match.com
 0.0.0.0 fi.match.com
 0.0.0.0 amp.fi.match.com
 0.0.0.0 folio.match.com
@@ -12997,6 +13001,7 @@
 0.0.0.0 uk.match.com
 0.0.0.0 amp.uk.match.com
 0.0.0.0 lara.uk.match.com
+0.0.0.0 pay.uk.match.com
 0.0.0.0 uploadphoto.match.com
 0.0.0.0 us.match.com
 0.0.0.0 usa.match.com
@@ -14479,6 +14484,7 @@
 0.0.0.0 grafana-dev.dop.ue1.aws.okcupid.com
 0.0.0.0 grafana-prod.dop.ue1.aws.okcupid.com
 0.0.0.0 k8s.dop.ue1.aws.okcupid.com
+0.0.0.0 eks.pcd.ue1.aws.okcupid.com
 0.0.0.0 eks.prd.ue1.aws.okcupid.com
 0.0.0.0 dmz.eks.prd.ue1.aws.okcupid.com
 0.0.0.0 elasticsearch.prd.ue1.aws.okcupid.com
@@ -17849,6 +17855,7 @@
 0.0.0.0 corp.taimi.com
 0.0.0.0 i.taimi.com
 0.0.0.0 img1.taimi.com
+0.0.0.0 img2.taimi.com
 0.0.0.0 metrics.taimi.com
 0.0.0.0 moderator.taimi.com
 0.0.0.0 n.taimi.com
@@ -18906,20 +18913,14 @@
 0.0.0.0 ca.welovedates.com
 0.0.0.0 casual-za.welovedates.com
 0.0.0.0 gay.welovedates.com
-0.0.0.0 gay-mature-ie.welovedates.com
-0.0.0.0 gay-mature-us.welovedates.com
-0.0.0.0 gay-us.welovedates.com
 0.0.0.0 gay-za.welovedates.com
-0.0.0.0 gaymature.welovedates.com
 0.0.0.0 ie.welovedates.com
 0.0.0.0 lesbian.welovedates.com
 0.0.0.0 lesbian-ie.welovedates.com
 0.0.0.0 lesbian-nz.welovedates.com
-0.0.0.0 lesbian-us.welovedates.com
 0.0.0.0 lesbian-za.welovedates.com
 0.0.0.0 members.welovedates.com
 0.0.0.0 nz.welovedates.com
-0.0.0.0 outreach.welovedates.com
 0.0.0.0 sa.welovedates.com
 0.0.0.0 transfer.welovedates.com
 0.0.0.0 us.welovedates.com
@@ -19675,6 +19676,9 @@
 0.0.0.0 nbsocm.bikers.dating
 0.0.0.0 staging.bikers.dating
 0.0.0.0 billionaire.dating
+0.0.0.0 autodiscover.billionaire.dating
+0.0.0.0 mail.billionaire.dating
+0.0.0.0 webmail.billionaire.dating
 0.0.0.0 bitcoinbachelors.dating
 0.0.0.0 www.bitcoinbachelors.dating
 0.0.0.0 dev.blackbbw.dating
@@ -19779,6 +19783,10 @@
 0.0.0.0 clubofsex.dating
 0.0.0.0 www.clubofsex.dating
 0.0.0.0 collared.dating
+0.0.0.0 d-affx24.com.dating
+0.0.0.0 d-erotikchat.com.dating
+0.0.0.0 parkplatz.com.dating
+0.0.0.0 sex.com.dating
 0.0.0.0 telefon.com.dating
 0.0.0.0 ommegle.tipsomegle.com.dating
 0.0.0.0 comicbook.dating
@@ -20090,6 +20098,9 @@
 0.0.0.0 qa.gaming.dating
 0.0.0.0 site.gaming.dating
 0.0.0.0 v1.gaming.dating
+0.0.0.0 gaudi.dating
+0.0.0.0 api.gaudi.dating
+0.0.0.0 www.gaudi.dating
 0.0.0.0 gayfriendly.dating
 0.0.0.0 m.gayfriendly.dating
 0.0.0.0 partners.gayfriendly.dating
@@ -20187,6 +20198,7 @@
 0.0.0.0 gay.horselovers.dating
 0.0.0.0 local.horselovers.dating
 0.0.0.0 staging.horselovers.dating
+0.0.0.0 hotandsexy.dating
 0.0.0.0 hotdish.dating
 0.0.0.0 www.hotdish.dating
 0.0.0.0 dev.hotmilf.dating
@@ -20294,6 +20306,7 @@
 0.0.0.0 chat.meet.kinksters.dating
 0.0.0.0 feedback.meet.kinksters.dating
 0.0.0.0 placeholder.meet.kinksters.dating
+0.0.0.0 support.meet.kinksters.dating
 0.0.0.0 tech.kinksters.dating
 0.0.0.0 kinkysex.dating
 0.0.0.0 kinkyworld.dating
@@ -20366,6 +20379,7 @@
 0.0.0.0 supportservices-service.m.dating
 0.0.0.0 testauth-assure.m.dating
 0.0.0.0 macau.dating
+0.0.0.0 maenner.dating
 0.0.0.0 access.jupiter.maid.dating
 0.0.0.0 jackett.access.jupiter.maid.dating
 0.0.0.0 public.access.jupiter.maid.dating
@@ -20531,6 +20545,8 @@
 0.0.0.0 www.nolonger.dating
 0.0.0.0 noneedle.dating
 0.0.0.0 dev.noneedle.dating
+0.0.0.0 git.noneedle.dating
+0.0.0.0 translate.noneedle.dating
 0.0.0.0 nordisk.dating
 0.0.0.0 not.dating
 0.0.0.0 00.00.not.dating
@@ -20729,6 +20745,9 @@
 0.0.0.0 webdisk.richmen.dating
 0.0.0.0 webmail.richmen.dating
 0.0.0.0 richwomen.dating
+0.0.0.0 autodiscover.richwomen.dating
+0.0.0.0 cpanel.richwomen.dating
+0.0.0.0 webdisk.richwomen.dating
 0.0.0.0 roast.dating
 0.0.0.0 affiliate.roast.dating
 0.0.0.0 new.roast.dating
@@ -20761,6 +20780,7 @@
 0.0.0.0 saturdays.dating
 0.0.0.0 sbt.dating
 0.0.0.0 www.sbt.dating
+0.0.0.0 schwarzwald.dating
 0.0.0.0 scott.dating
 0.0.0.0 secret.dating
 0.0.0.0 seeyou.dating
@@ -20792,6 +20812,7 @@
 0.0.0.0 datingwhy.com.bestoffer.help.shadi.dating
 0.0.0.0 turntablebelts.info.shadi.dating
 0.0.0.0 anytimeschool.org.shadi.dating
+0.0.0.0 antimatterdao.xyz.shadi.dating
 0.0.0.0 shadow.dating
 0.0.0.0 www.shadow.dating
 0.0.0.0 ww1.shemale.dating
@@ -20832,6 +20853,8 @@
 0.0.0.0 male.spanking.dating
 0.0.0.0 staging.spanking.dating
 0.0.0.0 mail.sparkle.dating
+0.0.0.0 match.sparkle.dating
+0.0.0.0 matchapi.sparkle.dating
 0.0.0.0 sparks.dating
 0.0.0.0 admin.sparks.dating
 0.0.0.0 www.admin.sparks.dating
@@ -20929,6 +20952,7 @@
 0.0.0.0 tiamo.dating
 0.0.0.0 chat.toast.dating
 0.0.0.0 app.toasty.dating
+0.0.0.0 sbx.toasty.dating
 0.0.0.0 www.toasty.dating
 0.0.0.0 top1.dating
 0.0.0.0 dan.totally.dating
@@ -20956,6 +20980,7 @@
 0.0.0.0 local.ts.dating
 0.0.0.0 staging.ts.dating
 0.0.0.0 ttpcg.dating
+0.0.0.0 tv.dating
 0.0.0.0 twin.dating
 0.0.0.0 www.twin.dating
 0.0.0.0 tyre.dating
@@ -21021,8 +21046,11 @@
 0.0.0.0 hk.webcam.dating
 0.0.0.0 hotel.webcam.dating
 0.0.0.0 webmaster.dating
+0.0.0.0 what.dating
 0.0.0.0 date.what.dating
+0.0.0.0 rest.what.dating
 0.0.0.0 start.what.dating
+0.0.0.0 www.what.dating
 0.0.0.0 xreg.what.dating
 0.0.0.0 whatimlookingfor.dating
 0.0.0.0 whats.dating
@@ -21052,6 +21080,7 @@
 0.0.0.0 admin.xcompanion.dating
 0.0.0.0 api.xcompanion.dating
 0.0.0.0 xhamster.dating
+0.0.0.0 autodiscover.xn--15t188b.dating
 0.0.0.0 xno.dating
 0.0.0.0 www.xno.dating
 0.0.0.0 xo.dating
@@ -21614,6 +21643,7 @@
 0.0.0.0 media-live.gaydar.net
 0.0.0.0 media-live-cf.gaydar.net
 0.0.0.0 media-live-r.gaydar.net
+0.0.0.0 media-mail-live.gaydar.net
 0.0.0.0 media-veber.gaydar.net
 0.0.0.0 notifications.gaydar.net
 0.0.0.0 photos.gaydar.net
