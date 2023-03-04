@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2023-02-25T01:05:25+00:00
-# Count: 1684 domains
+# Released: 2023-03-04T01:05:26+00:00
+# Count: 1687 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -96,7 +96,9 @@
 0.0.0.0 cms.americanthinker.com
 0.0.0.0 comments.americanthinker.com
 0.0.0.0 email.americanthinker.com
+0.0.0.0 images.americanthinker.com
 0.0.0.0 origin.americanthinker.com
+0.0.0.0 published.americanthinker.com
 0.0.0.0 subscriptions.americanthinker.com
 0.0.0.0 tmp.americanthinker.com
 0.0.0.0 www.americanthinker.com
@@ -866,6 +868,7 @@
 0.0.0.0 pray.afa.net
 0.0.0.0 pulseway.afa.net
 0.0.0.0 resources.afa.net
+0.0.0.0 api.resources.afa.net
 0.0.0.0 shareathonwebhook.afa.net
 0.0.0.0 shipstationwebhook.afa.net
 0.0.0.0 site2.afa.net
