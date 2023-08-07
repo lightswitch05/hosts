@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-08-06T01:05:26+00:00
-# Count: 21615 domains
+# Released: 2023-08-07T01:05:25+00:00
+# Count: 21649 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -10416,6 +10416,7 @@
 0.0.0.0 admin.grindr.com
 0.0.0.0 admin-k8s.grindr.com
 0.0.0.0 api.grindr.com
+0.0.0.0 assets.grindr.com
 0.0.0.0 beats-prod.grindr.com
 0.0.0.0 blog.grindr.com
 0.0.0.0 www.blog.grindr.com
@@ -10477,6 +10478,7 @@
 0.0.0.0 neo-upload-cf.grindr.com
 0.0.0.0 neo-upload-v3.grindr.com
 0.0.0.0 nsfw.grindr.com
+0.0.0.0 old.grindr.com
 0.0.0.0 pda.grindr.com
 0.0.0.0 plesk.grindr.com
 0.0.0.0 preprod1.grindr.com
@@ -10516,6 +10518,7 @@
 0.0.0.0 webmail.grindr.com
 0.0.0.0 whiteboard.grindr.com
 0.0.0.0 www.grindr.com
+0.0.0.0 www-assets-dev.grindr.com
 0.0.0.0 www-assets-prod.grindr.com
 0.0.0.0 www-stage.grindr.com
 0.0.0.0 www-staging.grindr.com
@@ -18610,8 +18613,6 @@
 0.0.0.0 www.5min.dating
 0.0.0.0 6.dating
 0.0.0.0 wwv.6.dating
-0.0.0.0 6app.dating
-0.0.0.0 www.6app.dating
 0.0.0.0 www.789.dating
 0.0.0.0 7days.dating
 0.0.0.0 www.7days.dating
@@ -18926,6 +18927,7 @@
 0.0.0.0 files.bumpy.dating
 0.0.0.0 fly-dev.bumpy.dating
 0.0.0.0 fly-prod.bumpy.dating
+0.0.0.0 fly-test.bumpy.dating
 0.0.0.0 fly-v1.bumpy.dating
 0.0.0.0 fly-v2.bumpy.dating
 0.0.0.0 maintenance.bumpy.dating
@@ -19106,6 +19108,7 @@
 0.0.0.0 dinners.dating
 0.0.0.0 dirty.dating
 0.0.0.0 m.dirty.dating
+0.0.0.0 m2.dirty.dating
 0.0.0.0 www.disability.dating
 0.0.0.0 disabledsingles.dating
 0.0.0.0 dev.disabledsingles.dating
@@ -19164,6 +19167,7 @@
 0.0.0.0 email.ebonysex.dating
 0.0.0.0 hello.ebonysex.dating
 0.0.0.0 help.ebonysex.dating
+0.0.0.0 www.ebonysex.dating
 0.0.0.0 ecologicalstrangers.dating
 0.0.0.0 www.ecologicalstrangers.dating
 0.0.0.0 ecosystem.dating
@@ -19269,6 +19273,7 @@
 0.0.0.0 help.flyingsolo.dating
 0.0.0.0 www.flyingsolo.dating
 0.0.0.0 fond.dating
+0.0.0.0 www.fond.dating
 0.0.0.0 admin.foodie.dating
 0.0.0.0 fotochat.dating
 0.0.0.0 www.fotochat.dating
@@ -19438,6 +19443,15 @@
 0.0.0.0 app.idiscover.dating
 0.0.0.0 api.il.dating
 0.0.0.0 in.dating
+0.0.0.0 leagues.dont.exist.in.dating
+0.0.0.0 fromtheattic.in.dating
+0.0.0.0 www.fromtheattic.in.dating
+0.0.0.0 www.www.fromtheattic.in.dating
+0.0.0.0 www.heberhomes.in.dating
+0.0.0.0 infatuation.in.dating
+0.0.0.0 sted.in.dating
+0.0.0.0 webmail.in.dating
+0.0.0.0 www.in.dating
 0.0.0.0 crfprofile.ink.dating
 0.0.0.0 crmprofile.ink.dating
 0.0.0.0 dev.ink.dating
@@ -19495,6 +19509,8 @@
 0.0.0.0 joyful.dating
 0.0.0.0 www.joyful.dating
 0.0.0.0 justsex.dating
+0.0.0.0 kannada.dating
+0.0.0.0 www.kannada.dating
 0.0.0.0 kathmandu.dating
 0.0.0.0 www.kathmandu.dating
 0.0.0.0 keeper.dating
@@ -19587,6 +19603,7 @@
 0.0.0.0 www.lucid.dating
 0.0.0.0 lucky.dating
 0.0.0.0 www.lucky.dating
+0.0.0.0 lux.dating
 0.0.0.0 luxury.dating
 0.0.0.0 luxus.dating
 0.0.0.0 macau.dating
@@ -19668,6 +19685,8 @@
 0.0.0.0 staging.metalhead.dating
 0.0.0.0 metaversesex.dating
 0.0.0.0 metrics.dating
+0.0.0.0 email.milfsexdates.dating
+0.0.0.0 hello.milfsexdates.dating
 0.0.0.0 millionaires.dating
 0.0.0.0 modeling.dating
 0.0.0.0 www.modeling.dating
@@ -19975,6 +19994,12 @@
 0.0.0.0 api.roll.dating
 0.0.0.0 dev.api.roll.dating
 0.0.0.0 romancecompass.dating
+0.0.0.0 30s.romancecompass.dating
+0.0.0.0 40s.romancecompass.dating
+0.0.0.0 50s.romancecompass.dating
+0.0.0.0 60s.romancecompass.dating
+0.0.0.0 findlove.romancecompass.dating
+0.0.0.0 sign.romancecompass.dating
 0.0.0.0 room.dating
 0.0.0.0 www.room.dating
 0.0.0.0 sandbox.dating
@@ -19997,6 +20022,8 @@
 0.0.0.0 seeyou.dating
 0.0.0.0 serialkillerspeed.dating
 0.0.0.0 www.serialkillerspeed.dating
+0.0.0.0 api-dev.seven.dating
+0.0.0.0 cdn.seven.dating
 0.0.0.0 sex4.dating
 0.0.0.0 www.sex4.dating
 0.0.0.0 sexo.dating
@@ -20097,6 +20124,7 @@
 0.0.0.0 sparky.dating
 0.0.0.0 www.sparky.dating
 0.0.0.0 spatial.dating
+0.0.0.0 www.spatial.dating
 0.0.0.0 spb.dating
 0.0.0.0 speeddate.dating
 0.0.0.0 affiliates.speeddate.dating
@@ -20163,6 +20191,7 @@
 0.0.0.0 www.tamu.dating
 0.0.0.0 teamo.dating
 0.0.0.0 teaser.dating
+0.0.0.0 email.teens18.dating
 0.0.0.0 tele.dating
 0.0.0.0 www.tele.dating
 0.0.0.0 en.telelove.dating
@@ -20178,6 +20207,7 @@
 0.0.0.0 thaigirl.dating
 0.0.0.0 the.dating
 0.0.0.0 www.the.dating
+0.0.0.0 thecircle.dating
 0.0.0.0 thelibrary.dating
 0.0.0.0 app.thelibrary.dating
 0.0.0.0 feedback.thelibrary.dating
@@ -20185,6 +20215,7 @@
 0.0.0.0 thirdwheelnz.dating
 0.0.0.0 www.thirdwheelnz.dating
 0.0.0.0 tiamo.dating
+0.0.0.0 timeless.dating
 0.0.0.0 chat.toast.dating
 0.0.0.0 app.toasty.dating
 0.0.0.0 sbx.toasty.dating
@@ -20248,6 +20279,8 @@
 0.0.0.0 urmytype.dating
 0.0.0.0 www.urmytype.dating
 0.0.0.0 vali.dating
+0.0.0.0 webmail.vali.dating
+0.0.0.0 www.vali.dating
 0.0.0.0 stage.vaxfree.dating
 0.0.0.0 verb.dating
 0.0.0.0 www.verb.dating
@@ -20274,6 +20307,7 @@
 0.0.0.0 app.wanted.dating
 0.0.0.0 site.wanted.dating
 0.0.0.0 wave.dating
+0.0.0.0 www.wave.dating
 0.0.0.0 waves.dating
 0.0.0.0 www.waves.dating
 0.0.0.0 web.dating
